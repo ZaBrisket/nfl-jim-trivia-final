@@ -1,0 +1,58 @@
+[
+  {
+    "player_id": "qb001",
+    "rookie_year": 2004,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "rb001",
+    "rookie_year": 1999,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "wr001",
+    "rookie_year": 2008,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "te001",
+    "rookie_year": 2011,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "wr002",
+    "rookie_year": 1996,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "rb002",
+    "rookie_year": 2003,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "qb002",
+    "rookie_year": 2016,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  },
+  {
+    "player_id": "te002",
+    "rookie_year": 2000,
+    "seasons_with_G_ge_1": 6,
+    "eligible_flag": 1,
+    "rationale_text": "demo"
+  }
+]
