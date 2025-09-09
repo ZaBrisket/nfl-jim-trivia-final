@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const ScoreBoard: React.FC<{ score: number; hints: number; guesses: number }> = ({ score, hints, guesses }) => {
+export const ScoreBoard: React.FC<{ score: number; hints: number; guesses: number }> = React.memo(({ score, hints, guesses }) => {
   return (
     <div className="row">
       <div>⭐ Score: <strong>{score}</strong>/5</div>
@@ -8,4 +8,4 @@ export const ScoreBoard: React.FC<{ score: number; hints: number; guesses: numbe
       <div>📝 Guesses: <strong>{guesses}</strong>/3</div>
     </div>
   );
-};
+});

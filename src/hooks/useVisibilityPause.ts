@@ -11,7 +11,7 @@ export function useVisibilityPause(): [number, boolean] {
 
   useEffect(() => {
     const onVis = () => {
-      pausedRef.value = document.hidden;
+      pausedRef.current = document.hidden;
       if (!document.hidden) tick();
     };
     document.addEventListener('visibilitychange', onVis);

@@ -7,10 +7,10 @@ type Props = {
   onGiveUp(): void;
 };
 
-export const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, onGiveUp }) => {
+export const KeyboardShortcuts: React.FC<Props> = React.memo(({ enabled, onSubmit, onHint, onGiveUp }) => {
   React.useEffect(() => {
     if (!enabled) return;
-    const onKey = (e: KeyboardEvent) => {
+    const onKey = React.useCallback((e: KeyboardEvent) => {
       if (e.key === 'Enter') { onSubmit(); }
       if (e.key.toLowerCase() === 'h') { onHint(); }
       if (e.key.toLowerCase() === 'g') { onGiveUp(); }
@@ -19,7 +19,7 @@ export const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, 
         el?.focus();
         e.preventDefault();
       }
-    };
+    }, [onSubmit, onHint, onGiveUp]);
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   }, [enabled, onSubmit, onHint, onGiveUp]);
@@ -29,4 +29,4 @@ export const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, 
       Shortcuts: <kbd>/</kbd> focus, <kbd>Enter</kbd> submit, <kbd>H</kbd> hint, <kbd>G</kbd> give up.
     </div>
   );
-};
+});

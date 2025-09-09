@@ -5,15 +5,15 @@ type Props = {
   onSubmitGuess(text: string): void;
 };
 
-export const GuessInput: React.FC<Props> = ({ disabled, onSubmitGuess }) => {
+export const GuessInput: React.FC<Props> = React.memo(({ disabled, onSubmitGuess }) => {
   const [text, setText] = React.useState('');
 
-  const onSubmit = (e: React.FormEvent) => {
+  const onSubmit = React.useCallback((e: React.FormEvent) => {
     e.preventDefault();
     if (!text.trim()) return;
     onSubmitGuess(text);
     setText('');
-  };
+  }, [onSubmitGuess, text]);
 
   return (
     <form onSubmit={onSubmit} className="row" aria-label="Guess form">
@@ -29,4 +29,4 @@ export const GuessInput: React.FC<Props> = ({ disabled, onSubmitGuess }) => {
       <button type="submit" disabled={disabled}>Guess</button>
     </form>
   );
-};
+});
