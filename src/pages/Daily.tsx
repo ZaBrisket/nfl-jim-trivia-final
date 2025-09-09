@@ -7,22 +7,23 @@ import { KeyboardShortcuts } from '../components/KeyboardShortcuts';
 import { Timer } from '../components/Timer';
 import { chicagoDateString, dailySeedFor } from '../utils/date';
 import { initialState, reducer } from '../state/gameMachine';
-import { isNameMatch } from '../utils/fuzzy';
+import { isNameMatch } from '../utils/optimizedFuzzy';
 import { seededInt } from '../utils/random';
 import { Player } from '../types';
-import { loadState, saveState } from '../utils/storage';
+import { loadState, saveState, addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
 import { Link } from 'react-router-dom';
 
 function pickDaily(players: Player[]): Player {
   const key = dailySeedFor(new Date());
   const idx = seededInt(players.length, key);
   const p = players[idx];
+  if (!p) throw new Error('No player found for daily pick');
   const S = loadState();
   saveState({ lastDailyKey: key, lastDailyId: p.id });
   return p;
 }
 
-export const Daily: React.FC = () => {
+export const Daily: React.FC = React.memo(() => {
   const { status, data } = useData();
   const [target, setTarget] = React.useState<Player | null>(null);
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
@@ -34,17 +35,26 @@ export const Daily: React.FC = () => {
     }
   }, [data, state.tag]);
 
-  const onStart = () => dispatch({ type: 'start' });
-  const onSubmitGuess = (text: string) => {
+  const onStart = React.useCallback(() => dispatch({ type: 'start' }), []);
+  
+  const onSubmitGuess = React.useCallback((text: string) => {
     if (!target || state.tag !== 'active') return;
     const match = isNameMatch(text, target);
     dispatch({ type: 'guess', text });
     if (match) dispatch({ type: 'reveal', reason: 'solved' });
-  };
+  }, [target, state.tag]);
 
-  const onHint = () => { if (state.tag === 'active') dispatch({ type: 'hint' }); };
-  const onGiveUp = () => { if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' }); };
-  const onTimeout = () => { if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' }); };
+  const onHint = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'hint' }); 
+  }, [state.tag]);
+  
+  const onGiveUp = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' }); 
+  }, [state.tag]);
+  
+  const onTimeout = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' }); 
+  }, [state.tag]);
 
   return (
     <div className="container">
@@ -97,4 +107,4 @@ export const Daily: React.FC = () => {
       )}
     </div>
   );
-};
+});

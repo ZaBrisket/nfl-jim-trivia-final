@@ -4,7 +4,10 @@ export function randomInt(maxExclusive: number): number {
   if (crypto && 'getRandomValues' in crypto) {
     const arr = new Uint32Array(1);
     crypto.getRandomValues(arr);
-    return arr[0] % maxExclusive;
+    const val = arr[0];
+    if (val !== undefined) {
+      return val % maxExclusive;
+    }
   }
   return Math.floor(Math.random() * maxExclusive);
 }

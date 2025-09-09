@@ -1,12 +1,12 @@
-import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import React, { createContext, useContext, useEffect, useMemo, useState, useCallback } from 'react';
 import { DataStatus, Player, Position, SeasonRow } from '../types';
-import { fetchWithRetry } from '../utils/retry';
-import { normalizeSeasonRow } from '../utils/normalize';
-import * as fallback from '../data/fallbackPlayers';
+import { dataService, DataIndex } from '../services/dataService';
+import { initializeFuzzyMatcher } from '../utils/optimizedFuzzy';
 
 type Data = {
   players: Player[];
-  seasons: Record<Position, SeasonRow[]>;
+  index: DataIndex;
+  loadSeasonsForPosition: (position: Position) => Promise<SeasonRow[]>;
 };
 
 type Ctx = {
@@ -17,78 +17,46 @@ type Ctx = {
 
 const DataContext = createContext<Ctx | undefined>(undefined);
 
-async function loadJson<T>(path: string): Promise<T> {
-  const res = await fetchWithRetry(path, {}, 2, 300);
-  return (await res.json()) as T;
-}
-
-async function loadData(): Promise<{ data?: Data; status: DataStatus }> {
-  const details: string[] = [];
-  const useFallback: string[] = [];
-
-  let players: Player[] | undefined;
-  try {
-    players = await loadJson<Player[]>('/data/players.json');
-    details.push('players:network');
-  } catch {
-    players = fallback.players;
-    details.push('players:fallback');
-    useFallback.push('players');
-  }
-
-  const seasons: Record<Position, SeasonRow[]> = { QB: [], RB: [], WR: [], TE: [] };
-
-  async function loadSeason(pos: Position, file: string, fb: SeasonRow[]) {
-    try {
-      const raw = await loadJson<Record<string, unknown>[]>(file);
-      const norm: SeasonRow[] = [];
-      for (const r of raw) {
-        const row = normalizeSeasonRow(r);
-        if (row) norm.push(row);
-      }
-      seasons[pos] = norm;
-      details.push(`${pos}:network`);
-    } catch {
-      seasons[pos] = fb;
-      details.push(`${pos}:fallback`);
-      useFallback.push(pos);
-    }
-  }
-
-  await Promise.all([
-    loadSeason('QB', '/data/seasons_qb.json', fallback.seasonsQB),
-    loadSeason('RB', '/data/seasons_rb.json', fallback.seasonsRB),
-    loadSeason('WR', '/data/seasons_wr.json', fallback.seasonsWR),
-    loadSeason('TE', '/data/seasons_te.json', fallback.seasonsTE)
-  ]);
-
-  const partial = useFallback.length > 0;
-  const ready = !!players && Object.values(seasons).every((s) => s.length > 0);
-  const status: DataStatus = { ready, partial, details: details };
-  if (!ready) status.error = 'Data failed to fully load.';
-  return { data: ready ? { players: players!, seasons } : undefined, status };
-}
-
 export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [status, setStatus] = useState<DataStatus>({ ready: false });
   const [data, setData] = useState<Data | undefined>(undefined);
   const [nonce, setNonce] = useState(0);
 
+  const loadSeasonsForPosition = useCallback(async (position: Position) => {
+    return await dataService.loadSeasonsForPosition(position);
+  }, []);
+
   useEffect(() => {
     let cancelled = false;
     (async () => {
-      const { data, status } = await loadData();
+      const { index, status } = await dataService.initialize();
       if (!cancelled) {
         setStatus(status);
-        setData(data);
+        if (index) {
+          const players = index.getAllPlayers();
+          // Initialize fuzzy matcher with player data
+          initializeFuzzyMatcher(players);
+          setData({
+            players,
+            index,
+            loadSeasonsForPosition
+          });
+        }
       }
     })();
     return () => { cancelled = true; };
-  }, [nonce]);
+  }, [nonce, loadSeasonsForPosition]);
+
+  const reload = useCallback(() => {
+    dataService.clearCaches();
+    setNonce((n) => n + 1);
+  }, []);
 
   const ctx = useMemo<Ctx>(() => ({
-    status, data, reload: () => setNonce((n) => n + 1)
-  }), [status, data]);
+    status, 
+    data, 
+    reload
+  }), [status, data, reload]);
 
   return <DataContext.Provider value={ctx}>{children}</DataContext.Provider>;
 };

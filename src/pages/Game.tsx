@@ -6,9 +6,9 @@ import { HintButtons } from '../components/HintButtons';
 import { KeyboardShortcuts } from '../components/KeyboardShortcuts';
 import { Timer } from '../components/Timer';
 import { useNavigate } from 'react-router-dom';
-import { isNameMatch } from '../utils/fuzzy';
+import { isNameMatch } from '../utils/optimizedFuzzy';
 import { initialState, reducer } from '../state/gameMachine';
-import { saveState, loadState } from '../utils/storage';
+import { saveState, loadState, addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
 import { randomInt, rotatePositions } from '../utils/random';
 import { Player } from '../types';
 
@@ -17,11 +17,12 @@ function pickPlayer(players: Player[]): Player {
   const ordered = rotatePositions(players, state.lastPosition ? [state.lastPosition] : []);
   const idx = randomInt(ordered.length);
   const p = ordered[idx];
+  if (!p) throw new Error('No player found for game');
   saveState({ lastPosition: p.position });
   return p;
 }
 
-export const Game: React.FC = () => {
+export const Game: React.FC = React.memo(() => {
   const nav = useNavigate();
   const { status, data } = useData();
   const [target, setTarget] = React.useState<Player | null>(null);
@@ -33,18 +34,26 @@ export const Game: React.FC = () => {
     }
   }, [data, state.tag]);
 
-  const onStart = () => dispatch({ type: 'start' });
+  const onStart = React.useCallback(() => dispatch({ type: 'start' }), []);
 
-  const onSubmitGuess = (text: string) => {
+  const onSubmitGuess = React.useCallback((text: string) => {
     if (!target || state.tag !== 'active') return;
     const match = isNameMatch(text, target);
     dispatch({ type: 'guess', text });
     if (match) dispatch({ type: 'reveal', reason: 'solved' });
-  };
+  }, [target, state.tag]);
 
-  const onHint = () => { if (state.tag === 'active') dispatch({ type: 'hint' }); };
-  const onGiveUp = () => { if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' }); };
-  const onTimeout = () => { if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' }); };
+  const onHint = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'hint' }); 
+  }, [state.tag]);
+  
+  const onGiveUp = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' }); 
+  }, [state.tag]);
+  
+  const onTimeout = React.useCallback(() => { 
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' }); 
+  }, [state.tag]);
 
   return (
     <div className="container">
@@ -90,7 +99,7 @@ export const Game: React.FC = () => {
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
               </div>
               <div className="row" style={{ marginTop: 12 }}>
-                <button onClick={() => { setTarget(pickPlayer(data.players)); dispatch({ type: 'reset' }); }}>Next Round</button>
+                <button onClick={() => { if (data?.players) { setTarget(pickPlayer(data.players)); dispatch({ type: 'reset' }); } }}>Next Round</button>
                 <button onClick={() => window.location.reload()}>Reset</button>
               </div>
             </>
@@ -99,4 +108,4 @@ export const Game: React.FC = () => {
       )}
     </div>
   );
-};
+});

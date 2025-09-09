@@ -1,7 +1,7 @@
 import React from 'react';
 import { useData } from '../context/DataContext';
 
-export const DataStatusBanner: React.FC = () => {
+export const DataStatusBanner: React.FC = React.memo(() => {
   const { status, reload } = useData();
   if (!status.partial && !status.error) return null;
   return (
@@ -19,4 +19,4 @@ export const DataStatusBanner: React.FC = () => {
       </div>
     </div>
   );
-};
+});
