@@ -2,7 +2,7 @@ import React from 'react';
 import { useOptimizedTimer } from '../utils/optimizedTimer';
 import { useVisibilityPause } from '../hooks/useVisibilityPause';
 
-export const Timer: React.FC<{ deadlineMs: number; onTimeout(): void }> = React.memo(({ deadlineMs, onTimeout }) => {
+const Timer: React.FC<{ deadlineMs: number; onTimeout(): void }> = ({ deadlineMs, onTimeout }) => {
   const [remaining, setRemaining] = React.useState(0);
   const [, isPaused] = useVisibilityPause();
   const onTimeoutRef = React.useRef(onTimeout);
@@ -35,4 +35,6 @@ export const Timer: React.FC<{ deadlineMs: number; onTimeout(): void }> = React.
       ⏱️ Time left: <strong>{remaining}s</strong>
     </div>
   );
-});
+};
+
+export { Timer };

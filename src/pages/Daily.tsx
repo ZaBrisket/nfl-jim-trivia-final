@@ -23,7 +23,7 @@ function pickDaily(players: Player[]): Player {
   return p;
 }
 
-export const Daily: React.FC = React.memo(() => {
+const Daily: React.FC = () => {
   const { status, data } = useData();
   const [target, setTarget] = React.useState<Player | null>(null);
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
@@ -107,4 +107,6 @@ export const Daily: React.FC = React.memo(() => {
       )}
     </div>
   );
-});
+};
+
+export { Daily };

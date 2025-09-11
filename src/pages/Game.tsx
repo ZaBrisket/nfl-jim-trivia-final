@@ -22,7 +22,7 @@ function pickPlayer(players: Player[]): Player {
   return p;
 }
 
-export const Game: React.FC = React.memo(() => {
+const Game: React.FC = () => {
   const nav = useNavigate();
   const { status, data } = useData();
   const [target, setTarget] = React.useState<Player | null>(null);
@@ -108,4 +108,6 @@ export const Game: React.FC = React.memo(() => {
       )}
     </div>
   );
-});
+};
+
+export { Game };
