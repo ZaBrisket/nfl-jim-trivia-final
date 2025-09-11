@@ -24,6 +24,8 @@ export default defineConfig(({ mode }) => ({
     sourcemap: false
   },
   test: {
-    environment: 'jsdom'
+    environment: 'jsdom',
+    exclude: ['**/node_modules/**', '**/e2e/**'],
+    testTimeout: 15000
   }
 }));

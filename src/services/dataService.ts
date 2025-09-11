@@ -72,14 +72,16 @@ export class DataIndex {
     const terms = new Set<string>();
     
     // Add normalized names
-    const addTerm = (term: string) => {
-      const normalized = this.normalizeSearchTerm(term);
-      if (normalized) {
-        terms.add(normalized);
-        if (!this.searchTerms.has(normalized)) {
-          this.searchTerms.set(normalized, new Set());
+    const addTerm = (term: string | null | undefined) => {
+      if (typeof term === 'string' && term.length > 0) {
+        const normalized = this.normalizeSearchTerm(term);
+        if (normalized && normalized.length > 0) {
+          terms.add(normalized);
+          if (!this.searchTerms.has(normalized)) {
+            this.searchTerms.set(normalized, new Set());
+          }
+          this.searchTerms.get(normalized)!.add(player.id);
         }
-        this.searchTerms.get(normalized)!.add(player.id);
       }
     };
 
@@ -90,7 +92,7 @@ export class DataIndex {
     addTerm(`${player.lastName}, ${player.firstName}`);
 
     // Add aliases
-    if (player.aliases) {
+    if (Array.isArray(player.aliases)) {
       for (const alias of player.aliases) {
         addTerm(alias);
       }
@@ -104,13 +106,22 @@ export class DataIndex {
   }
 
   private normalizeSearchTerm(term: string): string {
-    return term
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .replace(/[^a-z0-9\s]/gi, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-      .toLowerCase();
+    if (typeof term !== 'string') {
+      return '';
+    }
+    
+    try {
+      return term
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9\s]/gi, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .toLowerCase();
+    } catch (err) {
+      console.warn('Failed to normalize search term:', term, err);
+      return '';
+    }
   }
 
   private tokenize(text: string): string[] {
@@ -126,7 +137,15 @@ export class DataIndex {
   }
 
   searchPlayers(query: string): Player[] {
+    if (typeof query !== 'string' || query.length === 0) {
+      return [];
+    }
+    
     const normalized = this.normalizeSearchTerm(query);
+    if (normalized.length === 0) {
+      return [];
+    }
+    
     const playerIds = this.searchTerms.get(normalized);
     
     if (!playerIds) return [];
@@ -154,16 +173,31 @@ export class OptimizedDataService {
 
     let players: Player[] | undefined;
     try {
-      players = await this.loadJson<Player[]>('/data/players.json');
-      details.push('players:network');
-    } catch {
+      const loadedPlayers = await this.loadJson<Player[]>('/data/players.json');
+      // Validate loaded data
+      if (Array.isArray(loadedPlayers) && loadedPlayers.length > 0) {
+        players = this.validatePlayers(loadedPlayers);
+        details.push('players:network');
+      } else {
+        throw new Error('Invalid or empty player data');
+      }
+    } catch (err) {
+      console.warn('Failed to load network player data:', err);
       players = fallback.players;
       details.push('players:fallback');
       useFallback.push('players');
     }
 
-    if (players) {
-      this.playerIndex = new DataIndex(players);
+    if (players && players.length > 0) {
+      try {
+        this.playerIndex = new DataIndex(players);
+      } catch (err) {
+        console.error('Failed to create player index:', err);
+        // Fall back to basic fallback data
+        this.playerIndex = new DataIndex(fallback.players);
+        details.push('index:fallback');
+        useFallback.push('index');
+      }
     }
 
     const partial = useFallback.length > 0;
@@ -236,8 +270,52 @@ export class OptimizedDataService {
   }
 
   private async loadJson<T>(path: string): Promise<T> {
-    const res = await fetchWithRetry(path, {}, 2, 300);
-    return (await res.json()) as T;
+    // Use shorter timeouts and fewer retries for faster failure in tests
+    const isTest = process.env.NODE_ENV === 'test' || process.env.VITEST;
+    const retries = isTest ? 1 : 2;
+    const backoffMs = isTest ? 100 : 300;
+    const timeoutMs = isTest ? 1000 : 5000;
+    
+    const res = await fetchWithRetry(path, {}, retries, backoffMs, timeoutMs);
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status} for ${path}`);
+    }
+    const data = await res.json();
+    if (data === null || data === undefined) {
+      throw new Error(`Null or undefined data from ${path}`);
+    }
+    return data as T;
+  }
+
+  private validatePlayers(players: any[]): Player[] {
+    const validated: Player[] = [];
+    
+    for (const player of players) {
+      if (this.isValidPlayer(player)) {
+        validated.push(player);
+      }
+    }
+    
+    if (validated.length === 0) {
+      throw new Error('No valid players found in data');
+    }
+    
+    return validated;
+  }
+
+  private isValidPlayer(obj: any): obj is Player {
+    return obj &&
+           typeof obj === 'object' &&
+           typeof obj.id === 'string' &&
+           obj.id.length > 0 &&
+           typeof obj.firstName === 'string' &&
+           obj.firstName.length > 0 &&
+           typeof obj.lastName === 'string' &&
+           obj.lastName.length > 0 &&
+           typeof obj.displayName === 'string' &&
+           obj.displayName.length > 0 &&
+           typeof obj.position === 'string' &&
+           ['QB', 'RB', 'WR', 'TE'].includes(obj.position);
   }
 
   getPlayerIndex(): DataIndex | undefined {
