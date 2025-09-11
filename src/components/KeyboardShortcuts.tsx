@@ -7,7 +7,7 @@ type Props = {
   onGiveUp(): void;
 };
 
-export const KeyboardShortcuts: React.FC<Props> = React.memo(({ enabled, onSubmit, onHint, onGiveUp }) => {
+const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, onGiveUp }) => {
   React.useEffect(() => {
     if (!enabled) return;
     const onKey = React.useCallback((e: KeyboardEvent) => {
@@ -29,4 +29,6 @@ export const KeyboardShortcuts: React.FC<Props> = React.memo(({ enabled, onSubmi
       Shortcuts: <kbd>/</kbd> focus, <kbd>Enter</kbd> submit, <kbd>H</kbd> hint, <kbd>G</kbd> give up.
     </div>
   );
-});
+};
+
+export { KeyboardShortcuts };

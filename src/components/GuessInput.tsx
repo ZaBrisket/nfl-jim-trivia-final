@@ -5,7 +5,7 @@ type Props = {
   onSubmitGuess(text: string): void;
 };
 
-export const GuessInput: React.FC<Props> = React.memo(({ disabled, onSubmitGuess }) => {
+const GuessInput: React.FC<Props> = ({ disabled, onSubmitGuess }) => {
   const [text, setText] = React.useState('');
 
   const onSubmit = React.useCallback((e: React.FormEvent) => {
@@ -29,4 +29,6 @@ export const GuessInput: React.FC<Props> = React.memo(({ disabled, onSubmitGuess
       <button type="submit" disabled={disabled}>Guess</button>
     </form>
   );
-});
+};
+
+export { GuessInput };
