@@ -97,7 +97,11 @@ const Game: React.FC = () => {
                 <Timer deadlineMs={state.deadlineMs} onTimeout={onTimeout} />
               </div>
               <div className="row" style={{ marginTop: 8 }}>
-                <GuessInput disabled={false} onSubmitGuess={onSubmitGuess} />
+                <GuessInput
+                  disabled={false}
+                  onSubmitGuess={onSubmitGuess}
+                  players={data?.players || []}
+                />
               </div>
               <div style={{ marginTop: 8 }}>
                 <HintButtons disabled={false} onHint={onHint} onGiveUp={onGiveUp} />
