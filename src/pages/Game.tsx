@@ -27,12 +27,31 @@ const Game: React.FC = () => {
   const { status, data } = useData();
   const [target, setTarget] = React.useState<Player | null>(null);
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
+  const [streakInfo, setStreakInfo] = React.useState({ current: 0, best: 0 });
 
   React.useEffect(() => {
     if (data?.players?.length && state.tag === 'idle') {
       setTarget(pickPlayer(data.players));
     }
   }, [data, state.tag]);
+
+  // Track game stats when game ends
+  React.useEffect(() => {
+    if (state.tag === 'revealed' && target) {
+      const correct = state.reason === 'solved';
+      const guessTime = state.endedAtMs - (state.tag === 'revealed' && 'guesses' in state ? 0 : Date.now());
+
+      // Update game statistics
+      updateGameStats(target.position, correct, state.finalScore, guessTime > 0 ? guessTime / 1000 : undefined);
+
+      // Update streak
+      const newStreak = updateStreak(correct);
+      setStreakInfo(newStreak);
+
+      // Add to recent players
+      addRecentPlayer(target.id);
+    }
+  }, [state, target]);
 
   const onStart = React.useCallback(() => dispatch({ type: 'start' }), []);
 
@@ -95,6 +114,11 @@ const Game: React.FC = () => {
                 <div className="grow">
                   <h2>Answer: {target.displayName}</h2>
                   <div>Reason: {state.reason}</div>
+                  {streakInfo.current > 0 && (
+                    <div style={{ marginTop: 8 }}>
+                      🔥 Current Streak: <strong>{streakInfo.current}</strong> | Best: {streakInfo.best}
+                    </div>
+                  )}
                 </div>
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
               </div>

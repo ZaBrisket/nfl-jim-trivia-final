@@ -52,6 +52,10 @@ describe('fetchWithRetry', () => {
     mockFetch.mockRejectedValue(new Error('Network error'));
 
     const promise = fetchWithRetry('http://example.com', {}, 2, 100);
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     await vi.runAllTimersAsync();
 
     await expect(promise).rejects.toThrow('Fetch failed after 3 attempts: Network error');
@@ -63,6 +67,10 @@ describe('fetchWithRetry', () => {
     mockFetch.mockResolvedValue(mockResponse);
 
     const promise = fetchWithRetry('http://example.com', {}, 1, 100);
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     await vi.runAllTimersAsync();
 
     await expect(promise).rejects.toThrow('Fetch failed after 2 attempts: HTTP 404 for http://example.com');
@@ -71,9 +79,12 @@ describe('fetchWithRetry', () => {
 
   it('should apply exponential backoff with jitter', async () => {
     mockFetch.mockRejectedValue(new Error('Network error'));
-    
+
     const promise = fetchWithRetry('http://example.com', {}, 2, 100);
-    
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     // Manually advance timers to check backoff timing
     await vi.advanceTimersByTimeAsync(100); // First retry after ~100ms
     await vi.advanceTimersByTimeAsync(200); // Second retry after ~200ms
@@ -95,7 +106,10 @@ describe('fetchWithRetry', () => {
     });
 
     const promise = fetchWithRetry('http://example.com', {}, 0, 100, 500);
-    
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     // Advance past timeout to trigger abort
     await vi.advanceTimersByTimeAsync(600);
 
@@ -136,6 +150,10 @@ describe('fetchWithRetry', () => {
     mockFetch.mockRejectedValue('String error');
 
     const promise = fetchWithRetry('http://example.com', {}, 1, 100);
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     await vi.runAllTimersAsync();
 
     await expect(promise).rejects.toThrow('Fetch failed after 2 attempts: String error');
@@ -145,12 +163,15 @@ describe('fetchWithRetry', () => {
     mockFetch.mockRejectedValue(new Error('Network error'));
 
     const promise = fetchWithRetry('http://example.com', {}, 5, 1000); // High backoff
-    
+
+    // Catch the rejection to prevent unhandled promise rejection
+    promise.catch(() => {});
+
     // Even with high backoff, should cap at 2000ms
     await vi.advanceTimersByTimeAsync(2100); // Should be enough for first retry
-    
+
     expect(mockFetch).toHaveBeenCalledTimes(2);
-    
+
     await vi.runAllTimersAsync();
     await expect(promise).rejects.toThrow();
   });
