@@ -1,28 +1,39 @@
 const CACHE_NAME = 'nfl-trivia-cache-v1';
 const APP_SHELL = ['/', '/index.html', '/src/styles.css'];
 
-self.addEventListener('install', (event: any) => {
-  event.waitUntil(
+// Service worker event types
+type InstallEvent = Event & { waitUntil: (promise: Promise<unknown>) => void };
+type ActivateEvent = Event & { waitUntil: (promise: Promise<unknown>) => void };
+type FetchEventType = Event & {
+  request: Request;
+  respondWith: (response: Promise<Response> | Response) => void;
+};
+
+self.addEventListener('install', (event: Event) => {
+  const installEvent = event as InstallEvent;
+  installEvent.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
       return cache.addAll(APP_SHELL);
     })
   );
 });
 
-self.addEventListener('activate', (event: any) => {
-  event.waitUntil(
+self.addEventListener('activate', (event: Event) => {
+  const activateEvent = event as ActivateEvent;
+  activateEvent.waitUntil(
     caches.keys().then((keys) =>
       Promise.all(keys.map((k) => (k === CACHE_NAME ? undefined : caches.delete(k)))),
     ),
   );
 });
 
-self.addEventListener('fetch', (event: any) => {
-  const req = event.request as Request;
+self.addEventListener('fetch', (event: Event) => {
+  const fetchEvent = event as FetchEventType;
+  const req = fetchEvent.request;
   const url = new URL(req.url);
   // Cache-first for data and app shell
   if (url.pathname.startsWith('/data/') || APP_SHELL.includes(url.pathname)) {
-    event.respondWith(
+    fetchEvent.respondWith(
       caches.match(req).then((cached) => {
         const fetchPromise = fetch(req).then((networkRes) => {
           if (networkRes.ok) {

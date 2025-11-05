@@ -5,7 +5,7 @@ const STORAGE_VERSION = 3;
 const PREFIX = `njt_v${STORAGE_VERSION}_`;
 
 // In-memory cache for frequently accessed data
-const memoryCache = new Map<string, { data: any; timestamp: number; ttl: number }>();
+const memoryCache = new Map<string, { data: unknown; timestamp: number; ttl: number }>();
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes default TTL
 
 type Schema = {
@@ -73,16 +73,16 @@ function getCacheKey(key: string): string {
 function getFromCache<T>(key: string): T | null {
   const cacheKey = getCacheKey(key);
   const cached = memoryCache.get(cacheKey);
-  
+
   if (!cached) return null;
-  
+
   const now = Date.now();
   if (now > cached.timestamp + cached.ttl) {
     memoryCache.delete(cacheKey);
     return null;
   }
-  
-  return cached.data;
+
+  return cached.data as T;
 }
 
 function setToCache<T>(key: string, data: T, ttl: number = CACHE_TTL): void {
@@ -105,12 +105,12 @@ function setToCache<T>(key: string, data: T, ttl: number = CACHE_TTL): void {
 }
 
 // Compression utilities for large data
-function compress(data: any): string {
+function compress(data: unknown): string {
   // Simple compression: remove unnecessary whitespace from JSON
   return JSON.stringify(data);
 }
 
-function decompress(compressed: string): any {
+function decompress(compressed: string): unknown {
   return JSON.parse(compressed);
 }
 
@@ -126,7 +126,8 @@ export function loadState(): Schema {
     // Try current version
     const raw = localStorage.getItem(PREFIX + 'state');
     if (raw) {
-      const parsed = { ...DEFAULTS, ...decompress(raw) };
+      const decompressed = decompress(raw);
+      const parsed = { ...DEFAULTS, ...(typeof decompressed === 'object' && decompressed !== null ? decompressed : {}) };
       setToCache('state', parsed);
       return parsed;
     }

@@ -15,7 +15,6 @@ export const App: React.FC = () => {
           <div className="grow" />
           <Link to="/">Endless</Link>
           <Link to="/daily">Daily</Link>
-          <a href="https://example.com/privacy" target="_blank" rel="noreferrer">Privacy</a>
         </div>
       </nav>
       <Outlet />

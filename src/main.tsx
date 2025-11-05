@@ -2,13 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { RootRouter } from './router';
 import { DataProvider } from './context/DataContext';
+import { ErrorBoundary } from './components/ErrorBoundary';
 import './styles.css';
 
 const Root = () => (
   <React.StrictMode>
-    <DataProvider>
-      <RootRouter />
-    </DataProvider>
+    <ErrorBoundary>
+      <DataProvider>
+        <RootRouter />
+      </DataProvider>
+    </ErrorBoundary>
   </React.StrictMode>
 );
 

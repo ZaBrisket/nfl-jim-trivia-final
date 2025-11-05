@@ -287,35 +287,37 @@ export class OptimizedDataService {
     return data as T;
   }
 
-  private validatePlayers(players: any[]): Player[] {
+  private validatePlayers(players: unknown[]): Player[] {
     const validated: Player[] = [];
-    
+
     for (const player of players) {
       if (this.isValidPlayer(player)) {
         validated.push(player);
       }
     }
-    
+
     if (validated.length === 0) {
       throw new Error('No valid players found in data');
     }
-    
+
     return validated;
   }
 
-  private isValidPlayer(obj: any): obj is Player {
-    return obj &&
-           typeof obj === 'object' &&
-           typeof obj.id === 'string' &&
-           obj.id.length > 0 &&
-           typeof obj.firstName === 'string' &&
-           obj.firstName.length > 0 &&
-           typeof obj.lastName === 'string' &&
-           obj.lastName.length > 0 &&
-           typeof obj.displayName === 'string' &&
-           obj.displayName.length > 0 &&
-           typeof obj.position === 'string' &&
-           ['QB', 'RB', 'WR', 'TE'].includes(obj.position);
+  private isValidPlayer(obj: unknown): obj is Player {
+    if (!obj || typeof obj !== 'object') return false;
+
+    const candidate = obj as Record<string, unknown>;
+
+    return typeof candidate.id === 'string' &&
+           candidate.id.length > 0 &&
+           typeof candidate.firstName === 'string' &&
+           candidate.firstName.length > 0 &&
+           typeof candidate.lastName === 'string' &&
+           candidate.lastName.length > 0 &&
+           typeof candidate.displayName === 'string' &&
+           candidate.displayName.length > 0 &&
+           typeof candidate.position === 'string' &&
+           ['QB', 'RB', 'WR', 'TE'].includes(candidate.position);
   }
 
   getPlayerIndex(): DataIndex | undefined {

@@ -105,8 +105,8 @@ describe('Fuzzy Matching Module', () => {
 
     describe('exact matches', () => {
       it('should match exact display name', () => {
-        expect(isNameMatch('LeBron James', testPlayers[0]!!)).toBe(true);
-        expect(isNameMatch('Tom Brady', testPlayers[1]!!)).toBe(true);
+        expect(isNameMatch('LeBron James', testPlayers[0]!)).toBe(true);
+        expect(isNameMatch('Tom Brady', testPlayers[1]!)).toBe(true);
       });
 
       it('should match normalized names', () => {
@@ -216,8 +216,7 @@ describe('Fuzzy Matching Module', () => {
     it('should cache match results', () => {
       // First call
       const result1 = isNameMatch('LeBron James', testPlayers[0]!);
-      const stats1 = getFuzzyCacheStats();
-      
+
       // Second call (should use cache)
       const result2 = isNameMatch('LeBron James', testPlayers[0]!);
       const stats2 = getFuzzyCacheStats();

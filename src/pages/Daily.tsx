@@ -10,7 +10,7 @@ import { initialState, reducer } from '../state/gameMachine';
 import { isNameMatch } from '../utils/optimizedFuzzy';
 import { seededInt } from '../utils/random';
 import { Player } from '../types';
-import { loadState, saveState, addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
+import { saveState, addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
 import { Link } from 'react-router-dom';
 
 function pickDaily(players: Player[]): Player {
@@ -18,7 +18,6 @@ function pickDaily(players: Player[]): Player {
   const idx = seededInt(players.length, key);
   const p = players[idx];
   if (!p) throw new Error('No player found for daily pick');
-  const S = loadState();
   saveState({ lastDailyKey: key, lastDailyId: p.id });
   return p;
 }
@@ -28,12 +27,31 @@ const Daily: React.FC = () => {
   const [target, setTarget] = React.useState<Player | null>(null);
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
   const [key] = React.useState<string>(chicagoDateString());
+  const [streakInfo, setStreakInfo] = React.useState({ current: 0, best: 0 });
 
   React.useEffect(() => {
     if (data?.players?.length && state.tag === 'idle') {
       setTarget(pickDaily(data.players));
     }
   }, [data, state.tag]);
+
+  // Track game stats when game ends
+  React.useEffect(() => {
+    if (state.tag === 'revealed' && target) {
+      const correct = state.reason === 'solved';
+      const guessTime = state.endedAtMs - (state.tag === 'revealed' && 'guesses' in state ? 0 : Date.now());
+
+      // Update game statistics
+      updateGameStats(target.position, correct, state.finalScore, guessTime > 0 ? guessTime / 1000 : undefined);
+
+      // Update streak
+      const newStreak = updateStreak(correct);
+      setStreakInfo(newStreak);
+
+      // Add to recent players
+      addRecentPlayer(target.id);
+    }
+  }, [state, target]);
 
   const onStart = React.useCallback(() => dispatch({ type: 'start' }), []);
   
@@ -94,6 +112,11 @@ const Daily: React.FC = () => {
                 <div className="grow">
                   <h2>Answer: {target.displayName}</h2>
                   <div>Reason: {state.reason}</div>
+                  {streakInfo.current > 0 && (
+                    <div style={{ marginTop: 8 }}>
+                      🔥 Daily Streak: <strong>{streakInfo.current}</strong> | Best: {streakInfo.best}
+                    </div>
+                  )}
                 </div>
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
               </div>

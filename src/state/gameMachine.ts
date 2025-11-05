@@ -341,8 +341,9 @@ export function reducer(state: RoundState, action: Action): RoundState {
       }
       
       default: {
+        const unknownState = state as { tag?: string };
         throw new GameStateError(
-          `Unknown state tag: ${(state as any).tag}`,
+          `Unknown state tag: ${unknownState.tag}`,
           'INVALID_STATE',
           state,
           action
