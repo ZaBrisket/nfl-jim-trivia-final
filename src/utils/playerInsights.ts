@@ -72,6 +72,69 @@ const NAME_HINT_TEMPLATES = [
     `Both names together are ${player.firstName.length + player.lastName.length} letters long.`
 ];
 
+const MAX_ACCOLADE_BADGES = 8;
+
+type AwardBadgeDefinition = {
+  code: string;
+  id: string;
+  label: string;
+  description: string;
+  priority: number;
+};
+
+const AWARD_BADGE_DEFINITIONS: AwardBadgeDefinition[] = [
+  {
+    code: 'AP MVP',
+    id: 'apMvp',
+    label: 'AP MVP',
+    description: 'Associated Press Most Valuable Player awards',
+    priority: 1
+  },
+  {
+    code: 'AP OPoY',
+    id: 'apOpy',
+    label: 'AP Off. PoY',
+    description: 'Associated Press Offensive Player of the Year awards',
+    priority: 2
+  },
+  {
+    code: 'AP DPoY',
+    id: 'apDpy',
+    label: 'AP Def. PoY',
+    description: 'Associated Press Defensive Player of the Year awards',
+    priority: 3
+  },
+  {
+    code: 'AP ORoY',
+    id: 'apOroy',
+    label: 'AP Off. RoY',
+    description: 'Associated Press Offensive Rookie of the Year awards',
+    priority: 4
+  },
+  {
+    code: 'AP DRoY',
+    id: 'apDroy',
+    label: 'AP Def. RoY',
+    description: 'Associated Press Defensive Rookie of the Year awards',
+    priority: 5
+  },
+  {
+    code: 'AP CPoY',
+    id: 'apCpy',
+    label: 'AP Comeback',
+    description: 'Associated Press Comeback Player of the Year awards',
+    priority: 6
+  }
+];
+
+const AWARD_CONFIG_BY_CODE = AWARD_BADGE_DEFINITIONS.reduce<Record<string, AwardBadgeDefinition>>(
+  (acc, def) => {
+    acc[def.code] = def;
+    return acc;
+  },
+  {}
+);
+
 type NumericRow = Record<string, number>;
 
 const toNumber = (value: number | string | undefined): number => {
@@ -119,21 +182,27 @@ const editDistance = (a: string, b: string): number => {
   if (a.length === 0) return b.length;
   if (b.length === 0) return a.length;
 
-  const dp = Array.from({ length: a.length + 1 }, () => new Array(b.length + 1).fill(0));
-  for (let i = 0; i <= a.length; i++) dp[i][0] = i;
-  for (let j = 0; j <= b.length; j++) dp[0][j] = j;
+  const dp: number[][] = Array.from({ length: a.length + 1 }, () => new Array(b.length + 1).fill(0));
+  for (let i = 0; i <= a.length; i++) {
+    dp[i]![0] = i;
+  }
+  for (let j = 0; j <= b.length; j++) {
+    dp[0]![j] = j;
+  }
 
   for (let i = 1; i <= a.length; i++) {
+    const row = dp[i]!;
+    const prevRow = dp[i - 1]!;
     for (let j = 1; j <= b.length; j++) {
       const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-      dp[i][j] = Math.min(
-        dp[i - 1][j] + 1,
-        dp[i][j - 1] + 1,
-        dp[i - 1][j - 1] + cost
+      row[j] = Math.min(
+        prevRow[j]! + 1,
+        row[j - 1]! + 1,
+        prevRow[j - 1]! + cost
       );
     }
   }
-  return dp[a.length][b.length];
+  return dp[a.length]![b.length]!;
 };
 
 export interface PlayerSummary {
@@ -152,6 +221,25 @@ export interface PlayerSummary {
     value: number;
   };
 }
+
+export interface AccoladeBadge {
+  id: string;
+  label: string;
+  description: string;
+  count: number;
+  years: number[];
+}
+
+export interface PlayerAccolades {
+  proBowls: number;
+  allProFirstTeam: number;
+  allProSecondTeam: number;
+  badges: AccoladeBadge[];
+}
+
+export type PlayerHint =
+  | { kind: 'text'; text: string }
+  | { kind: 'accolades'; data: PlayerAccolades };
 
 export function summarizePlayer(player: Player, seasons: SeasonRow[]): PlayerSummary {
   const ordered = [...seasons].sort((a, b) => a.year - b.year);
@@ -228,6 +316,146 @@ export function summarizePlayer(player: Player, seasons: SeasonRow[]): PlayerSum
   };
 }
 
+type ParsedAwardToken =
+  | { type: 'proBowl'; year: number }
+  | { type: 'allProFirst'; year: number }
+  | { type: 'allProSecond'; year: number }
+  | { type: 'named'; code: string; rank?: number; year: number };
+
+type BadgeAccumulator = {
+  config: AwardBadgeDefinition;
+  years: Set<number>;
+  count: number;
+};
+
+const splitAwardTokens = (value: unknown): string[] => {
+  if (typeof value !== 'string') return [];
+  return value
+    .split(',')
+    .map(token => token.trim())
+    .filter(Boolean);
+};
+
+const parseSeasonAwards = (row: SeasonRow): ParsedAwardToken[] => {
+  const tokens = splitAwardTokens(row.awards);
+  const parsed: ParsedAwardToken[] = [];
+
+  for (const token of tokens) {
+    if (token === 'PB') {
+      parsed.push({ type: 'proBowl', year: row.year });
+      continue;
+    }
+    if (token === 'AP-1') {
+      parsed.push({ type: 'allProFirst', year: row.year });
+      continue;
+    }
+    if (token === 'AP-2') {
+      parsed.push({ type: 'allProSecond', year: row.year });
+      continue;
+    }
+
+    const match = token.match(/^(.*?)(?:-(\d+))?$/);
+    if (!match) continue;
+    const base = match[1]?.trim();
+    if (!base) continue;
+    const rank = match[2] ? Number.parseInt(match[2], 10) : undefined;
+    parsed.push({ type: 'named', code: base, rank, year: row.year });
+  }
+
+  return parsed;
+};
+
+const sortNumbers = (a: number, b: number) => a - b;
+
+const buildAccoladeData = (seasons: SeasonRow[]): PlayerAccolades | null => {
+  if (seasons.length === 0) return null;
+
+  const proBowlYears = new Set<number>();
+  const allProFirstYears = new Set<number>();
+  const allProSecondYears = new Set<number>();
+  const badgeMap = new Map<string, BadgeAccumulator>();
+
+  for (const season of seasons) {
+    for (const award of parseSeasonAwards(season)) {
+      switch (award.type) {
+        case 'proBowl':
+          proBowlYears.add(award.year);
+          break;
+        case 'allProFirst':
+          allProFirstYears.add(award.year);
+          break;
+        case 'allProSecond':
+          allProSecondYears.add(award.year);
+          break;
+        case 'named': {
+          const config = AWARD_CONFIG_BY_CODE[award.code];
+          if (!config) break;
+          if (award.rank !== undefined && award.rank !== 1) break;
+          const entry = badgeMap.get(config.id) ?? {
+            config,
+            years: new Set<number>(),
+            count: 0
+          };
+          entry.count += 1;
+          entry.years.add(award.year);
+          badgeMap.set(config.id, entry);
+          break;
+        }
+        default:
+          break;
+      }
+    }
+  }
+
+  if (
+    proBowlYears.size === 0 &&
+    allProFirstYears.size === 0 &&
+    allProSecondYears.size === 0 &&
+    badgeMap.size === 0
+  ) {
+    return null;
+  }
+
+  const badgeEntries = Array.from(badgeMap.values()).map(entry => ({
+    id: entry.config.id,
+    label: entry.config.label,
+    description: entry.config.description,
+    count: entry.count,
+    years: Array.from(entry.years).sort(sortNumbers),
+    priority: entry.config.priority
+  }));
+
+  if (allProSecondYears.size > 0) {
+    badgeEntries.push({
+      id: 'apSecondTeam',
+      label: 'AP 2nd-Team All-Pro',
+      description: 'Associated Press 2nd-Team All-Pro selections',
+      count: allProSecondYears.size,
+      years: Array.from(allProSecondYears).sort(sortNumbers),
+      priority: 10
+    });
+  }
+
+  const badges = badgeEntries
+    .sort((a, b) => a.priority - b.priority || b.count - a.count)
+    .slice(0, MAX_ACCOLADE_BADGES)
+    .map(({ priority, ...rest }) => rest);
+
+  return {
+    proBowls: proBowlYears.size,
+    allProFirstTeam: allProFirstYears.size,
+    allProSecondTeam: allProSecondYears.size,
+    badges
+  };
+};
+
+const buildAccoladeHint = (seasons: SeasonRow[]): PlayerHint | null => {
+  if (seasons.length === 0) return null;
+  const data = buildAccoladeData(seasons);
+  if (!data) return null;
+  return { kind: 'accolades', data };
+};
+
 const buildTeamHint = (summary?: PlayerSummary): string | null => {
   if (!summary || summary.teamNames.length === 0) return null;
   if (summary.teamNames.length === 1) {
@@ -290,30 +518,41 @@ export function generatePlayerHints(
   player: Player,
   summary?: PlayerSummary,
   seasons: SeasonRow[] = []
-): string[] {
-  const hints: string[] = [];
+): PlayerHint[] {
+  const textHints: string[] = [];
 
-  const addHint = (hint: string | null) => {
+  const addTextHint = (hint: string | null) => {
     if (!hint) return;
-    if (hints.includes(hint)) return;
-    hints.push(hint);
+    if (textHints.includes(hint)) return;
+    textHints.push(hint);
   };
 
-  addHint(buildTeamHint(summary));
-  addHint(buildEraHint(player, summary));
-  addHint(buildStatHint(player, summary));
-  addHint(buildNotableSeasonHint(summary));
+  addTextHint(buildTeamHint(summary));
+  addTextHint(buildEraHint(player, summary));
+  addTextHint(buildStatHint(player, summary));
+  addTextHint(buildNotableSeasonHint(summary));
 
   if (seasons.length === 0 && player.rookieYear) {
-    addHint(`Made his debut in ${player.rookieYear}.`);
+    addTextHint(`Made his debut in ${player.rookieYear}.`);
   }
 
   for (const hint of buildNameHints(player)) {
-    addHint(hint);
+    addTextHint(hint);
   }
 
-  if (hints.length < TARGET_HINTS) {
-    addHint(`Last name ends with "${player.lastName[player.lastName.length - 1]}".`);
+  if (textHints.length < TARGET_HINTS) {
+    addTextHint(`Last name ends with "${player.lastName[player.lastName.length - 1]}".`);
+  }
+
+  const hints: PlayerHint[] = [];
+  const accoladeHint = buildAccoladeHint(seasons);
+  if (accoladeHint) {
+    hints.push(accoladeHint);
+  }
+
+  for (const hint of textHints) {
+    if (hints.length >= TARGET_HINTS) break;
+    hints.push({ kind: 'text', text: hint });
   }
 
   return hints.slice(0, TARGET_HINTS);

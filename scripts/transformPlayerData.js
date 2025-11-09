@@ -119,7 +119,7 @@ function processPlayer(playerFolder) {
             // Add all other numeric columns
             for (const [key, value] of Object.entries(record)) {
               // Skip already processed columns and non-numeric columns
-              if (['player_id', 'player_name', 'position', 'year_id', 'team_name_abbr', 'comp_name_abbr', 'pos', 'games', 'age', 'awards'].includes(key)) {
+              if (['player_id', 'player_name', 'position', 'year_id', 'team_name_abbr', 'comp_name_abbr', 'pos', 'games', 'age'].includes(key)) {
                 continue;
               }
 

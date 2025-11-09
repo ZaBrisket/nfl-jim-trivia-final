@@ -1,12 +1,12 @@
 import React from 'react';
 import { Player } from '../types';
 import { SeasonState, usePlayerSeasons } from './usePlayerSeasons';
-import { PlayerSummary, generatePlayerHints, summarizePlayer } from '../utils/playerInsights';
+import { PlayerSummary, PlayerHint, generatePlayerHints, summarizePlayer } from '../utils/playerInsights';
 
 export type PlayerProfile = {
   seasonState: SeasonState;
   summary?: PlayerSummary;
-  hints: string[];
+  hints: PlayerHint[];
 };
 
 export function usePlayerProfile(player: Player | null): PlayerProfile {

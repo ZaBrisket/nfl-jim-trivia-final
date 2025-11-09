@@ -59,7 +59,8 @@
     "ydsFromScrimmage": 852,
     "rushReceiveTd": 10,
     "fumbles": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "AndrMa00",
@@ -123,7 +124,8 @@
     "ydsFromScrimmage": 1361,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "AndrMa00",
@@ -157,7 +159,8 @@
     "ydsFromScrimmage": 855,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "AndrMa00",
@@ -224,7 +227,8 @@
     "ydsFromScrimmage": 678,
     "rushReceiveTd": 11,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "AP CPoY-19"
   },
   {
     "playerId": "AndrMa00",
@@ -840,7 +844,8 @@
     "ydsFromScrimmage": 1043,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "BarnGa01",
@@ -933,7 +938,8 @@
     "ydsFromScrimmage": 1001,
     "rushReceiveTd": 4,
     "fumbles": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1,AP MVP-6"
   },
   {
     "playerId": "BavaMa00",
@@ -964,7 +970,8 @@
     "ydsFromScrimmage": 867,
     "rushReceiveTd": 8,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "BavaMa00",
@@ -1373,7 +1380,8 @@
     "ydsFromScrimmage": 916,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "BennMa00",
@@ -1903,7 +1911,8 @@
     "ydsFromScrimmage": 917,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "CameJo00",
@@ -2259,7 +2268,8 @@
     "ydsFromScrimmage": 696,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CaspDa00",
@@ -2284,7 +2294,8 @@
     "ydsFromScrimmage": 584,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CaspDa00",
@@ -2318,7 +2329,8 @@
     "ydsFromScrimmage": 857,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CaspDa00",
@@ -2349,7 +2361,8 @@
     "ydsFromScrimmage": 771,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CaspDa00",
@@ -2383,7 +2396,8 @@
     "ydsFromScrimmage": 804,
     "rushReceiveTd": 4,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "CaspDa00",
@@ -3071,7 +3085,8 @@
     "ydsFromScrimmage": 679,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "ChmuMa00",
@@ -3133,7 +3148,8 @@
     "ydsFromScrimmage": 417,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "ChmuMa00",
@@ -3164,7 +3180,8 @@
     "ydsFromScrimmage": 554,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "ChmuMa00",
@@ -3391,7 +3408,8 @@
     "ydsFromScrimmage": 1247,
     "rushReceiveTd": 12,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "ChriTo00",
@@ -3422,7 +3440,8 @@
     "ydsFromScrimmage": 1007,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "ChriTo00",
@@ -3453,7 +3472,8 @@
     "ydsFromScrimmage": 987,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "ChriTo00",
@@ -3484,7 +3504,8 @@
     "ydsFromScrimmage": 1153,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2,AP OPoY-5"
   },
   {
     "playerId": "ChriTo00",
@@ -3515,7 +3536,8 @@
     "ydsFromScrimmage": 663,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "ChriTo00",
@@ -3769,7 +3791,8 @@
     "ydsFromScrimmage": 1117,
     "rushReceiveTd": 10,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "ClarDa00",
@@ -4901,7 +4924,8 @@
     "ydsFromScrimmage": 1174,
     "rushReceiveTd": 7,
     "fumbles": 2,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CoatBe00",
@@ -4932,7 +4956,8 @@
     "ydsFromScrimmage": 915,
     "rushReceiveTd": 6,
     "fumbles": 4,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "CoatBe00",
@@ -4963,7 +4988,8 @@
     "ydsFromScrimmage": 682,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "CoatBe00",
@@ -4994,7 +5020,8 @@
     "ydsFromScrimmage": 737,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "CoatBe00",
@@ -5025,7 +5052,8 @@
     "ydsFromScrimmage": 668,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "CoatBe00",
@@ -5239,7 +5267,8 @@
     "ydsFromScrimmage": 287,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "CoffPa00",
@@ -5270,7 +5299,8 @@
     "ydsFromScrimmage": 814,
     "rushReceiveTd": 11,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CoffPa00",
@@ -5301,7 +5331,8 @@
     "ydsFromScrimmage": 562,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "CoffPa00",
@@ -5734,7 +5765,8 @@
     "ydsFromScrimmage": 896,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CookJa02",
@@ -5765,7 +5797,8 @@
     "ydsFromScrimmage": 705,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CookJa02",
@@ -5951,7 +5984,8 @@
     "ydsFromScrimmage": 786,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CoolCh00",
@@ -5982,7 +6016,8 @@
     "ydsFromScrimmage": 849,
     "rushReceiveTd": 1,
     "fumbles": 3,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CoolCh00",
@@ -6270,7 +6305,8 @@
     "ydsFromScrimmage": 588,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "CosbDo00",
@@ -6301,7 +6337,8 @@
     "ydsFromScrimmage": 789,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "CosbDo00",
@@ -6332,7 +6369,8 @@
     "ydsFromScrimmage": 793,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "CosbDo00",
@@ -6524,7 +6562,8 @@
     "ydsFromScrimmage": 552,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "CrumAl00",
@@ -6555,7 +6594,8 @@
     "ydsFromScrimmage": 774,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "CrumAl00",
@@ -6586,7 +6626,8 @@
     "ydsFromScrimmage": 877,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "CrumAl00",
@@ -6617,7 +6658,8 @@
     "ydsFromScrimmage": 780,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "CrumAl00",
@@ -6834,7 +6876,8 @@
     "ydsFromScrimmage": 862,
     "rushReceiveTd": 2,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "DaniOw00",
@@ -6958,7 +7001,8 @@
     "ydsFromScrimmage": 716,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "DaniOw00",
@@ -7181,7 +7225,8 @@
     "ydsFromScrimmage": 965,
     "rushReceiveTd": 13,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "DaviVe00",
@@ -7308,7 +7353,8 @@
     "ydsFromScrimmage": 850,
     "rushReceiveTd": 13,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "DaviVe00",
@@ -8005,7 +8051,8 @@
     "ydsFromScrimmage": 742,
     "rushReceiveTd": 14,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "EbroEr00",
@@ -8194,7 +8241,8 @@
     "ydsFromScrimmage": 615,
     "rushReceiveTd": 13,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "EifeTy00",
@@ -8485,7 +8533,8 @@
     "ydsFromScrimmage": 680,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "EngrEv00",
@@ -8584,7 +8633,8 @@
     "ydsFromScrimmage": 963,
     "rushReceiveTd": 4,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "EngrEv00",
@@ -8803,7 +8853,8 @@
     "ydsFromScrimmage": 824,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "ErtzZa00",
@@ -8834,7 +8885,8 @@
     "ydsFromScrimmage": 1163,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "ErtzZa00",
@@ -8865,7 +8917,8 @@
     "ydsFromScrimmage": 916,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "ErtzZa00",
@@ -9088,7 +9141,8 @@
     "ydsFromScrimmage": 654,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "AP CPoY-17"
   },
   {
     "playerId": "ErtzZa00",
@@ -9180,7 +9234,8 @@
     "ydsFromScrimmage": 761,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "FergJa00",
@@ -9668,7 +9723,8 @@
     "ydsFromScrimmage": 379,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "FranRu00",
@@ -9693,7 +9749,8 @@
     "ydsFromScrimmage": 229,
     "rushReceiveTd": 4,
     "fumbles": 0,
-    "av": 4
+    "av": 4,
+    "awards": "PB"
   },
   {
     "playerId": "FranRu00",
@@ -9724,7 +9781,8 @@
     "ydsFromScrimmage": 543,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "FranRu00",
@@ -10281,7 +10339,8 @@
     "ydsFromScrimmage": 964,
     "rushReceiveTd": 13,
     "fumbles": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GateAn00",
@@ -10312,7 +10371,8 @@
     "ydsFromScrimmage": 1101,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GateAn00",
@@ -10343,7 +10403,8 @@
     "ydsFromScrimmage": 924,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GateAn00",
@@ -10374,7 +10435,8 @@
     "ydsFromScrimmage": 984,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "GateAn00",
@@ -10405,7 +10467,8 @@
     "ydsFromScrimmage": 704,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GateAn00",
@@ -10436,7 +10499,8 @@
     "ydsFromScrimmage": 1157,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GateAn00",
@@ -10467,7 +10531,8 @@
     "ydsFromScrimmage": 782,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GateAn00",
@@ -10498,7 +10563,8 @@
     "ydsFromScrimmage": 778,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GateAn00",
@@ -11088,7 +11154,8 @@
     "ydsFromScrimmage": 602,
     "rushReceiveTd": 4,
     "fumbles": 2,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "GileJi00",
@@ -11119,7 +11186,8 @@
     "ydsFromScrimmage": 786,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "GileJi00",
@@ -11153,7 +11221,8 @@
     "ydsFromScrimmage": 500,
     "rushReceiveTd": 3,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GileJi00",
@@ -11246,7 +11315,8 @@
     "ydsFromScrimmage": 673,
     "rushReceiveTd": 8,
     "fumbles": 3,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "GileJi00",
@@ -11837,7 +11907,8 @@
     "ydsFromScrimmage": 849,
     "rushReceiveTd": 11,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -11868,7 +11939,8 @@
     "ydsFromScrimmage": 1203,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -11902,7 +11974,8 @@
     "ydsFromScrimmage": 926,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -11933,7 +12006,8 @@
     "ydsFromScrimmage": 773,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GonzTo00",
@@ -11964,7 +12038,8 @@
     "ydsFromScrimmage": 916,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -11998,7 +12073,8 @@
     "ydsFromScrimmage": 1263,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GonzTo00",
@@ -12029,7 +12105,8 @@
     "ydsFromScrimmage": 905,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "GonzTo00",
@@ -12060,7 +12137,8 @@
     "ydsFromScrimmage": 900,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GonzTo00",
@@ -12091,7 +12169,8 @@
     "ydsFromScrimmage": 1172,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GonzTo00",
@@ -12122,7 +12201,8 @@
     "ydsFromScrimmage": 1058,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -12184,7 +12264,8 @@
     "ydsFromScrimmage": 656,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GonzTo00",
@@ -12215,7 +12296,8 @@
     "ydsFromScrimmage": 875,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GonzTo00",
@@ -12246,7 +12328,8 @@
     "ydsFromScrimmage": 930,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GonzTo00",
@@ -12277,7 +12360,8 @@
     "ydsFromScrimmage": 859,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "GrahJi00",
@@ -12342,7 +12426,8 @@
     "ydsFromScrimmage": 1310,
     "rushReceiveTd": 11,
     "fumbles": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "GrahJi00",
@@ -12404,7 +12489,8 @@
     "ydsFromScrimmage": 1215,
     "rushReceiveTd": 16,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GrahJi00",
@@ -12435,7 +12521,8 @@
     "ydsFromScrimmage": 889,
     "rushReceiveTd": 10,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GrahJi00",
@@ -12499,7 +12586,8 @@
     "ydsFromScrimmage": 923,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GrahJi00",
@@ -12530,7 +12618,8 @@
     "ydsFromScrimmage": 520,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 4
+    "av": 4,
+    "awards": "PB"
   },
   {
     "playerId": "GrahJi00",
@@ -12722,7 +12811,8 @@
     "ydsFromScrimmage": 387,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 4
+    "av": 4,
+    "awards": "AP ORoY-5"
   },
   {
     "playerId": "GreeEr00",
@@ -12815,7 +12905,8 @@
     "ydsFromScrimmage": 942,
     "rushReceiveTd": 5,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "GreeEr00",
@@ -12846,7 +12937,8 @@
     "ydsFromScrimmage": 618,
     "rushReceiveTd": 4,
     "fumbles": 2,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "GreeEr00",
@@ -13063,7 +13155,8 @@
     "ydsFromScrimmage": 596,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "GresJe00",
@@ -13094,7 +13187,8 @@
     "ydsFromScrimmage": 737,
     "rushReceiveTd": 5,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "GresJe00",
@@ -13345,7 +13439,8 @@
     "ydsFromScrimmage": 1329,
     "rushReceiveTd": 18,
     "fumbles": 0,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GronRo00",
@@ -13376,7 +13471,8 @@
     "ydsFromScrimmage": 790,
     "rushReceiveTd": 11,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "GronRo00",
@@ -13438,7 +13534,8 @@
     "ydsFromScrimmage": 1124,
     "rushReceiveTd": 12,
     "fumbles": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-1,AP OPoY-5,AP CPoY-1"
   },
   {
     "playerId": "GronRo00",
@@ -13469,7 +13566,8 @@
     "ydsFromScrimmage": 1176,
     "rushReceiveTd": 11,
     "fumbles": 0,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "GronRo00",
@@ -13531,7 +13629,8 @@
     "ydsFromScrimmage": 1084,
     "rushReceiveTd": 8,
     "fumbles": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-1,AP CPoY-3"
   },
   {
     "playerId": "GronRo00",
@@ -14030,7 +14129,8 @@
     "ydsFromScrimmage": 874,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "HeapTo00",
@@ -14064,7 +14164,8 @@
     "ydsFromScrimmage": 714,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "HeapTo00",
@@ -14811,7 +14912,8 @@
     "ydsFromScrimmage": 723,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "HockTJ00",
@@ -14873,7 +14975,8 @@
     "ydsFromScrimmage": 914,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "HockTJ00",
@@ -14997,7 +15100,8 @@
     "ydsFromScrimmage": 455,
     "rushReceiveTd": 0,
     "fumbles": 0,
-    "av": 4
+    "av": 4,
+    "awards": "AP CPoY-19"
   },
   {
     "playerId": "HockTJ00",
@@ -15244,7 +15348,8 @@
     "ydsFromScrimmage": 527,
     "rushReceiveTd": 3,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "HolmRo00",
@@ -15275,7 +15380,8 @@
     "ydsFromScrimmage": 736,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "HolmRo00",
@@ -15306,7 +15412,8 @@
     "ydsFromScrimmage": 596,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "HolmRo00",
@@ -15554,7 +15661,8 @@
     "ydsFromScrimmage": 660,
     "rushReceiveTd": 4,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "HoopAu00",
@@ -15585,7 +15693,8 @@
     "ydsFromScrimmage": 787,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "HoopAu00",
@@ -15801,7 +15910,8 @@
     "ydsFromScrimmage": 869,
     "rushReceiveTd": 6,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1,AP ORoY-2"
   },
   {
     "playerId": "JackKe00",
@@ -15832,7 +15942,8 @@
     "ydsFromScrimmage": 648,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "JackKe00",
@@ -15863,7 +15974,8 @@
     "ydsFromScrimmage": 670,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "JackKe00",
@@ -15925,7 +16037,8 @@
     "ydsFromScrimmage": 594,
     "rushReceiveTd": 5,
     "fumbles": 2,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "JackKe00",
@@ -16049,7 +16162,8 @@
     "ydsFromScrimmage": 505,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "JoneBr00",
@@ -16235,7 +16349,8 @@
     "ydsFromScrimmage": 628,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "JoneBr00",
@@ -16266,7 +16381,8 @@
     "ydsFromScrimmage": 735,
     "rushReceiveTd": 3,
     "fumbles": 2,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "JoneBr00",
@@ -16297,7 +16413,8 @@
     "ydsFromScrimmage": 670,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "JoneBr00",
@@ -16328,7 +16445,8 @@
     "ydsFromScrimmage": 595,
     "rushReceiveTd": 3,
     "fumbles": 3,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "JoneBr00",
@@ -16796,7 +16914,8 @@
     "ydsFromScrimmage": 859,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -16827,7 +16946,8 @@
     "ydsFromScrimmage": 490,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -16858,7 +16978,8 @@
     "ydsFromScrimmage": 756,
     "rushReceiveTd": 5,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -16889,7 +17010,8 @@
     "ydsFromScrimmage": 506,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 4
+    "av": 4,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -16920,7 +17042,8 @@
     "ydsFromScrimmage": 636,
     "rushReceiveTd": 3,
     "fumbles": 3,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -16951,7 +17074,8 @@
     "ydsFromScrimmage": 638,
     "rushReceiveTd": 2,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "JordSt00",
@@ -17131,7 +17255,8 @@
     "ydsFromScrimmage": 875,
     "rushReceiveTd": 5,
     "fumbles": 2,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "KelcTr00",
@@ -17165,7 +17290,8 @@
     "ydsFromScrimmage": 1120,
     "rushReceiveTd": 4,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "KelcTr00",
@@ -17199,7 +17325,8 @@
     "ydsFromScrimmage": 1045,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KelcTr00",
@@ -17230,7 +17357,8 @@
     "ydsFromScrimmage": 1336,
     "rushReceiveTd": 10,
     "fumbles": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "KelcTr00",
@@ -17264,7 +17392,8 @@
     "ydsFromScrimmage": 1233,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KelcTr00",
@@ -17295,7 +17424,8 @@
     "ydsFromScrimmage": 1416,
     "rushReceiveTd": 11,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1,AP OPoY-4"
   },
   {
     "playerId": "KelcTr00",
@@ -17329,7 +17459,8 @@
     "ydsFromScrimmage": 1128,
     "rushReceiveTd": 10,
     "fumbles": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KelcTr00",
@@ -17363,7 +17494,8 @@
     "ydsFromScrimmage": 1343,
     "rushReceiveTd": 12,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1,AP OPoY-6"
   },
   {
     "playerId": "KelcTr00",
@@ -17394,7 +17526,8 @@
     "ydsFromScrimmage": 984,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "KelcTr00",
@@ -17428,7 +17561,8 @@
     "ydsFromScrimmage": 824,
     "rushReceiveTd": 3,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "KelcTr00",
@@ -17681,7 +17815,8 @@
     "ydsFromScrimmage": 1387,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KittGe00",
@@ -17715,7 +17850,8 @@
     "ydsFromScrimmage": 1075,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "KittGe00",
@@ -17783,7 +17919,8 @@
     "ydsFromScrimmage": 930,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "KittGe00",
@@ -17814,7 +17951,8 @@
     "ydsFromScrimmage": 765,
     "rushReceiveTd": 11,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KittGe00",
@@ -17848,7 +17986,8 @@
     "ydsFromScrimmage": 1022,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "KittGe00",
@@ -17879,7 +18018,8 @@
     "ydsFromScrimmage": 1106,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2,AP OPoY-11"
   },
   {
     "playerId": "KittGe00",
@@ -18235,7 +18375,8 @@
     "ydsFromScrimmage": 517,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "KnoxDa00",
@@ -18459,7 +18600,8 @@
     "ydsFromScrimmage": 893,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2,AP ORoY-3"
   },
   {
     "playerId": "LaPoSa01",
@@ -18675,7 +18817,8 @@
     "ydsFromScrimmage": 700,
     "rushReceiveTd": 10,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "LewiMa00",
@@ -19229,7 +19372,8 @@
     "ydsFromScrimmage": 1148,
     "rushReceiveTd": 3,
     "fumbles": 0,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "McBrTr01",
@@ -19634,7 +19778,8 @@
     "ydsFromScrimmage": 459,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 5
+    "av": 5,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "MillHe00",
@@ -19758,7 +19903,8 @@
     "ydsFromScrimmage": 789,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "MillHe00",
@@ -19854,7 +20000,8 @@
     "ydsFromScrimmage": 816,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "MillHe00",
@@ -19983,7 +20130,8 @@
     "ydsFromScrimmage": 582,
     "rushReceiveTd": 9,
     "fumbles": 2,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "MillJu00",
@@ -20014,7 +20162,8 @@
     "ydsFromScrimmage": 398,
     "rushReceiveTd": 3,
     "fumbles": 0,
-    "av": 4
+    "av": 4,
+    "awards": "PB"
   },
   {
     "playerId": "MillJu00",
@@ -20234,7 +20383,8 @@
     "ydsFromScrimmage": 685,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "MillZa01",
@@ -20389,7 +20539,8 @@
     "ydsFromScrimmage": 210,
     "rushReceiveTd": 1,
     "fumbles": 0,
-    "av": 2
+    "av": 2,
+    "awards": "AP ORoY-10"
   },
   {
     "playerId": "MitcJo00",
@@ -21077,7 +21228,8 @@
     "ydsFromScrimmage": 787,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "AP-2"
   },
   {
     "playerId": "NewsOz00",
@@ -21145,7 +21297,8 @@
     "ydsFromScrimmage": 1022,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "NewsOz00",
@@ -21207,7 +21360,8 @@
     "ydsFromScrimmage": 970,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "AP-2"
   },
   {
     "playerId": "NewsOz00",
@@ -21238,7 +21392,8 @@
     "ydsFromScrimmage": 1001,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "NewsOz00",
@@ -21269,7 +21424,8 @@
     "ydsFromScrimmage": 711,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "NewsOz00",
@@ -21650,7 +21806,8 @@
     "ydsFromScrimmage": 882,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "NjokDa00",
@@ -21931,7 +22088,8 @@
     "ydsFromScrimmage": 664,
     "rushReceiveTd": 4,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "NovaJa00",
@@ -21962,7 +22120,8 @@
     "ydsFromScrimmage": 630,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "NovaJa00",
@@ -21996,7 +22155,8 @@
     "ydsFromScrimmage": 447,
     "rushReceiveTd": 2,
     "fumbles": 3,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "NovaJa00",
@@ -22027,7 +22187,8 @@
     "ydsFromScrimmage": 475,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "NovaJa00",
@@ -22058,7 +22219,8 @@
     "ydsFromScrimmage": 705,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "OlseGr00",
@@ -22306,7 +22468,8 @@
     "ydsFromScrimmage": 1008,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "OlseGr00",
@@ -22337,7 +22500,8 @@
     "ydsFromScrimmage": 1104,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "OlseGr00",
@@ -22368,7 +22532,8 @@
     "ydsFromScrimmage": 1073,
     "rushReceiveTd": 3,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "OlseGr00",
@@ -22895,7 +23060,8 @@
     "ydsFromScrimmage": 729,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-3"
   },
   {
     "playerId": "PittKy00",
@@ -22926,7 +23092,8 @@
     "ydsFromScrimmage": 1026,
     "rushReceiveTd": 1,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "PittKy00",
@@ -23924,7 +24091,8 @@
     "ydsFromScrimmage": 686,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "ReedJo02",
@@ -24417,7 +24585,8 @@
     "ydsFromScrimmage": 508,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "RossDa00",
@@ -24640,7 +24809,8 @@
     "ydsFromScrimmage": 493,
     "rushReceiveTd": 9,
     "fumbles": 0,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "RudoKy00",
@@ -24795,7 +24965,8 @@
     "ydsFromScrimmage": 532,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "RudoKy00",
@@ -25265,7 +25436,8 @@
     "ydsFromScrimmage": 1006,
     "rushReceiveTd": 8,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "SensJo00",
@@ -25432,7 +25604,8 @@
     "ydsFromScrimmage": 634,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "SharSh00",
@@ -25463,7 +25636,8 @@
     "ydsFromScrimmage": 995,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "SharSh00",
@@ -25494,7 +25668,8 @@
     "ydsFromScrimmage": 1010,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "SharSh00",
@@ -25525,7 +25700,8 @@
     "ydsFromScrimmage": 756,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "SharSh00",
@@ -25556,7 +25732,8 @@
     "ydsFromScrimmage": 1062,
     "rushReceiveTd": 10,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1,AP OPoY-5"
   },
   {
     "playerId": "SharSh00",
@@ -25587,7 +25764,8 @@
     "ydsFromScrimmage": 1107,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "SharSh00",
@@ -25618,7 +25796,8 @@
     "ydsFromScrimmage": 768,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "SharSh00",
@@ -25711,7 +25890,8 @@
     "ydsFromScrimmage": 811,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "SharSh00",
@@ -26142,7 +26322,8 @@
     "ydsFromScrimmage": 894,
     "rushReceiveTd": 2,
     "fumbles": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-1,AP ORoY-2"
   },
   {
     "playerId": "ShocJe00",
@@ -26173,7 +26354,8 @@
     "ydsFromScrimmage": 535,
     "rushReceiveTd": 2,
     "fumbles": 1,
-    "av": 3
+    "av": 3,
+    "awards": "PB"
   },
   {
     "playerId": "ShocJe00",
@@ -26235,7 +26417,8 @@
     "ydsFromScrimmage": 891,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "ShocJe00",
@@ -26266,7 +26449,8 @@
     "ydsFromScrimmage": 623,
     "rushReceiveTd": 7,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "ShocJe00",
@@ -26697,7 +26881,8 @@
     "ydsFromScrimmage": 675,
     "rushReceiveTd": 4,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "ShulMi00",
@@ -26759,7 +26944,8 @@
     "ydsFromScrimmage": 805,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "ShulMi00",
@@ -27116,7 +27302,8 @@
     "ydsFromScrimmage": 883,
     "rushReceiveTd": 8,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "SmitJo01",
@@ -27546,7 +27733,8 @@
     "ydsFromScrimmage": 788,
     "rushReceiveTd": 12,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "ThomJu00",
@@ -27577,7 +27765,8 @@
     "ydsFromScrimmage": 489,
     "rushReceiveTd": 12,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "ThomJu00",
@@ -28478,7 +28667,8 @@
     "ydsFromScrimmage": 1124,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "WalkHu00",
@@ -28512,7 +28702,8 @@
     "ydsFromScrimmage": 811,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "WalkHu00",
@@ -28546,7 +28737,8 @@
     "ydsFromScrimmage": 805,
     "rushReceiveTd": 4,
     "fumbles": 2,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "WalkHu00",
@@ -28738,7 +28930,8 @@
     "ydsFromScrimmage": 1150,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 8
+    "av": 8,
+    "awards": "AP CPoY-3"
   },
   {
     "playerId": "WallDa01",
@@ -28769,7 +28962,8 @@
     "ydsFromScrimmage": 1196,
     "rushReceiveTd": 9,
     "fumbles": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "WallDa01",
@@ -29109,7 +29303,8 @@
     "ydsFromScrimmage": 713,
     "rushReceiveTd": 10,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WallWe00",
@@ -29140,7 +29335,8 @@
     "ydsFromScrimmage": 746,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WallWe00",
@@ -29171,7 +29367,8 @@
     "ydsFromScrimmage": 506,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 5
+    "av": 5,
+    "awards": "PB"
   },
   {
     "playerId": "WallWe00",
@@ -29202,7 +29399,8 @@
     "ydsFromScrimmage": 822,
     "rushReceiveTd": 12,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WallWe00",
@@ -29264,7 +29462,8 @@
     "ydsFromScrimmage": 452,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 4
+    "av": 4,
+    "awards": "PB"
   },
   {
     "playerId": "WallWe00",
@@ -29735,7 +29934,8 @@
     "ydsFromScrimmage": 522,
     "rushReceiveTd": 4,
     "fumbles": 1,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-6"
   },
   {
     "playerId": "WatsBe00",
@@ -29859,7 +30059,8 @@
     "ydsFromScrimmage": 1290,
     "rushReceiveTd": 9,
     "fumbles": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "WinsKe00",
@@ -29890,7 +30091,8 @@
     "ydsFromScrimmage": 1075,
     "rushReceiveTd": 10,
     "fumbles": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1,AP MVP-6,AP OPoY-8"
   },
   {
     "playerId": "WinsKe00",
@@ -29921,7 +30123,8 @@
     "ydsFromScrimmage": 721,
     "rushReceiveTd": 6,
     "fumbles": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP OPoY-6"
   },
   {
     "playerId": "WinsKe00",
@@ -29952,7 +30155,8 @@
     "ydsFromScrimmage": 1172,
     "rushReceiveTd": 8,
     "fumbles": 3,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "WinsKe00",
@@ -30076,7 +30280,8 @@
     "ydsFromScrimmage": 519,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 3
+    "av": 3,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WinsKe01",
@@ -30144,7 +30349,8 @@
     "ydsFromScrimmage": 875,
     "rushReceiveTd": 3,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "AP CPoY-4"
   },
   {
     "playerId": "WinsKe01",
@@ -30175,7 +30381,8 @@
     "ydsFromScrimmage": 1106,
     "rushReceiveTd": 5,
     "fumbles": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "WinsKe01",
@@ -30426,7 +30633,8 @@
     "ydsFromScrimmage": 980,
     "rushReceiveTd": 6,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30457,7 +30665,8 @@
     "ydsFromScrimmage": 757,
     "rushReceiveTd": 6,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30488,7 +30697,8 @@
     "ydsFromScrimmage": 754,
     "rushReceiveTd": 1,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30519,7 +30729,8 @@
     "ydsFromScrimmage": 1145,
     "rushReceiveTd": 7,
     "fumbles": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "WittJa00",
@@ -30550,7 +30761,8 @@
     "ydsFromScrimmage": 952,
     "rushReceiveTd": 4,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WittJa00",
@@ -30581,7 +30793,8 @@
     "ydsFromScrimmage": 1030,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30612,7 +30825,8 @@
     "ydsFromScrimmage": 1002,
     "rushReceiveTd": 9,
     "fumbles": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "WittJa00",
@@ -30674,7 +30888,8 @@
     "ydsFromScrimmage": 1039,
     "rushReceiveTd": 3,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WittJa00",
@@ -30705,7 +30920,8 @@
     "ydsFromScrimmage": 851,
     "rushReceiveTd": 8,
     "fumbles": 0,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30736,7 +30952,8 @@
     "ydsFromScrimmage": 703,
     "rushReceiveTd": 5,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -30829,7 +31046,8 @@
     "ydsFromScrimmage": 560,
     "rushReceiveTd": 5,
     "fumbles": 1,
-    "av": 6
+    "av": 6,
+    "awards": "PB"
   },
   {
     "playerId": "WittJa00",
@@ -31089,7 +31307,8 @@
     "ydsFromScrimmage": 768,
     "rushReceiveTd": 2,
     "fumbles": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "WychFr00",
@@ -31120,7 +31339,8 @@
     "ydsFromScrimmage": 641,
     "rushReceiveTd": 2,
     "fumbles": 0,
-    "av": 7
+    "av": 7,
+    "awards": "PB"
   },
   {
     "playerId": "WychFr00",
@@ -31151,7 +31371,8 @@
     "ydsFromScrimmage": 636,
     "rushReceiveTd": 4,
     "fumbles": 2,
-    "av": 6
+    "av": 6,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "WychFr00",

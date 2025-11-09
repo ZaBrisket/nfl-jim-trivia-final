@@ -93,7 +93,8 @@
     "passAdjNetYdsPerAtt": 5.82,
     "comebacks": 2,
     "gwd": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "AikmTr00",
@@ -125,7 +126,8 @@
     "passAdjNetYdsPerAtt": 6.38,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "AikmTr00",
@@ -157,7 +159,8 @@
     "passAdjNetYdsPerAtt": 7.12,
     "comebacks": 0,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-5,AP OPoY-6"
   },
   {
     "playerId": "AikmTr00",
@@ -189,7 +192,8 @@
     "passAdjNetYdsPerAtt": 6.23,
     "comebacks": 0,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "AikmTr00",
@@ -221,7 +225,8 @@
     "passAdjNetYdsPerAtt": 7.22,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "AikmTr00",
@@ -253,7 +258,8 @@
     "passAdjNetYdsPerAtt": 5.51,
     "comebacks": 2,
     "gwd": 2,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "AikmTr00",
@@ -480,7 +486,8 @@
     "passAdjNetYdsPerAtt": 7.82,
     "comebacks": 2,
     "gwd": 3,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-4"
   },
   {
     "playerId": "AlleJo02",
@@ -546,7 +553,8 @@
     "passAdjNetYdsPerAtt": 6.99,
     "comebacks": 3,
     "gwd": 4,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP MVP-3,AP OPoY-8"
   },
   {
     "playerId": "AlleJo02",
@@ -579,7 +587,8 @@
     "passAdjNetYdsPerAtt": 6.51,
     "comebacks": 2,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "AP MVP-5,AP OPoY-6"
   },
   {
     "playerId": "AlleJo02",
@@ -612,7 +621,8 @@
     "passAdjNetYdsPerAtt": 7.96,
     "comebacks": 0,
     "gwd": 2,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-2,AP MVP-1,AP OPoY-6"
   },
   {
     "playerId": "AlleJo02",
@@ -944,7 +954,8 @@
     "passAdjNetYdsPerAtt": 6.29,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-7"
   },
   {
     "playerId": "AndeDe00",
@@ -1428,7 +1439,8 @@
     "passAdjNetYdsPerAtt": 6.96,
     "comebacks": 1,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "AndeKe00",
@@ -1458,7 +1470,8 @@
     "passAdjNetYdsPerAtt": 5.06,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "AndeKe00",
@@ -1616,7 +1629,8 @@
     "passAdjNetYdsPerAtt": 7.43,
     "comebacks": 2,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "AndeKe00",
@@ -1648,7 +1662,8 @@
     "passAdjNetYdsPerAtt": 6.5,
     "comebacks": 0,
     "gwd": 0,
-    "av": 19
+    "av": 19,
+    "awards": "PB"
   },
   {
     "playerId": "AndeKe00",
@@ -2277,7 +2292,8 @@
     "passAdjNetYdsPerAtt": 3.83,
     "comebacks": 0,
     "gwd": 0,
-    "av": 6
+    "av": 6,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "BartSt00",
@@ -2433,7 +2449,8 @@
     "passAdjNetYdsPerAtt": 6.27,
     "comebacks": 3,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-3"
   },
   {
     "playerId": "BartSt00",
@@ -2465,7 +2482,8 @@
     "passAdjNetYdsPerAtt": 5.45,
     "comebacks": 1,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "BartSt00",
@@ -3370,7 +3388,8 @@
     "passAdjNetYdsPerAtt": 6.76,
     "comebacks": 1,
     "gwd": 1,
-    "av": 19
+    "av": 19,
+    "awards": "PB"
   },
   {
     "playerId": "BeueSt00",
@@ -3561,7 +3580,8 @@
     "passAdjNetYdsPerAtt": 5.86,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "BlakJe00",
@@ -3939,7 +3959,8 @@
     "passAdjNetYdsPerAtt": 5.19,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "BledDr00",
@@ -4003,7 +4024,8 @@
     "passAdjNetYdsPerAtt": 5.76,
     "comebacks": 3,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "BledDr00",
@@ -4035,7 +4057,8 @@
     "passAdjNetYdsPerAtt": 6.04,
     "comebacks": 0,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BledDr00",
@@ -4195,7 +4218,8 @@
     "passAdjNetYdsPerAtt": 5.72,
     "comebacks": 2,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-3"
   },
   {
     "playerId": "BledDr00",
@@ -4895,7 +4919,8 @@
     "passAdjNetYdsPerAtt": 5.42,
     "comebacks": 3,
     "gwd": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "BonoSt00",
@@ -5247,7 +5272,8 @@
     "passAdjNetYdsPerAtt": 4.73,
     "comebacks": 0,
     "gwd": 0,
-    "av": 9
+    "av": 9,
+    "awards": "AP ORoY-1"
   },
   {
     "playerId": "BradSa00",
@@ -5658,7 +5684,8 @@
     "passAdjNetYdsPerAtt": 5.43,
     "comebacks": 0,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BradTe00",
@@ -5750,7 +5777,8 @@
     "passAdjNetYdsPerAtt": 6.05,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "BradTe00",
@@ -5782,7 +5810,8 @@
     "passAdjNetYdsPerAtt": 5.89,
     "comebacks": 4,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-4"
   },
   {
     "playerId": "BradTe00",
@@ -5972,7 +6001,8 @@
     "passAdjNetYdsPerAtt": 5.39,
     "comebacks": 3,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "BradTo00",
@@ -6036,7 +6066,8 @@
     "passAdjNetYdsPerAtt": 5.94,
     "comebacks": 3,
     "gwd": 5,
-    "av": 11
+    "av": 11,
+    "awards": "AP MVP-3"
   },
   {
     "playerId": "BradTo00",
@@ -6068,7 +6099,8 @@
     "passAdjNetYdsPerAtt": 6.92,
     "comebacks": 0,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "BradTo00",
@@ -6100,7 +6132,8 @@
     "passAdjNetYdsPerAtt": 6.86,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-4"
   },
   {
     "playerId": "BradTo00",
@@ -6166,7 +6199,8 @@
     "passAdjNetYdsPerAtt": 8.88,
     "comebacks": 4,
     "gwd": 4,
-    "av": 23
+    "av": 23,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "BradTo00",
@@ -6232,7 +6266,8 @@
     "passAdjNetYdsPerAtt": 7.38,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP CPoY-1"
   },
   {
     "playerId": "BradTo00",
@@ -6265,7 +6300,8 @@
     "passAdjNetYdsPerAtt": 8.25,
     "comebacks": 2,
     "gwd": 3,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "BradTo00",
@@ -6298,7 +6334,8 @@
     "passAdjNetYdsPerAtt": 8.25,
     "comebacks": 1,
     "gwd": 2,
-    "av": 21
+    "av": 21,
+    "awards": "PB"
   },
   {
     "playerId": "BradTo00",
@@ -6331,7 +6368,8 @@
     "passAdjNetYdsPerAtt": 7.48,
     "comebacks": 1,
     "gwd": 2,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP OPoY-3"
   },
   {
     "playerId": "BradTo00",
@@ -6364,7 +6402,8 @@
     "passAdjNetYdsPerAtt": 6.13,
     "comebacks": 5,
     "gwd": 5,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP MVP-2,AP OPoY-4"
   },
   {
     "playerId": "BradTo00",
@@ -6397,7 +6436,8 @@
     "passAdjNetYdsPerAtt": 7.01,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-5"
   },
   {
     "playerId": "BradTo00",
@@ -6430,7 +6470,8 @@
     "passAdjNetYdsPerAtt": 7.48,
     "comebacks": 2,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP MVP-2,AP OPoY-4"
   },
   {
     "playerId": "BradTo00",
@@ -6463,7 +6504,8 @@
     "passAdjNetYdsPerAtt": 8.81,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-4"
   },
   {
     "playerId": "BradTo00",
@@ -6496,7 +6538,8 @@
     "passAdjNetYdsPerAtt": 7.56,
     "comebacks": 2,
     "gwd": 2,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "BradTo00",
@@ -6529,7 +6572,8 @@
     "passAdjNetYdsPerAtt": 7.26,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BradTo00",
@@ -6628,7 +6672,8 @@
     "passAdjNetYdsPerAtt": 7.41,
     "comebacks": 3,
     "gwd": 5,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "BradTo00",
@@ -6788,7 +6833,8 @@
     "passAdjNetYdsPerAtt": 7.78,
     "comebacks": 1,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP OPoY-5,AP CPoY-1"
   },
   {
     "playerId": "BreeDr00",
@@ -6853,7 +6899,8 @@
     "passAdjNetYdsPerAtt": 7.58,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2,AP CPoY-2"
   },
   {
     "playerId": "BreeDr00",
@@ -6919,7 +6966,8 @@
     "passAdjNetYdsPerAtt": 7.55,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP OPoY-1"
   },
   {
     "playerId": "BreeDr00",
@@ -6952,7 +7000,8 @@
     "passAdjNetYdsPerAtt": 8.31,
     "comebacks": 2,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "BreeDr00",
@@ -6985,7 +7034,8 @@
     "passAdjNetYdsPerAtt": 6.01,
     "comebacks": 4,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BreeDr00",
@@ -7018,7 +7068,8 @@
     "passAdjNetYdsPerAtt": 8.23,
     "comebacks": 3,
     "gwd": 4,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-1"
   },
   {
     "playerId": "BreeDr00",
@@ -7051,7 +7102,8 @@
     "passAdjNetYdsPerAtt": 7.17,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "BreeDr00",
@@ -7084,7 +7136,8 @@
     "passAdjNetYdsPerAtt": 7.51,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP OPoY-4"
   },
   {
     "playerId": "BreeDr00",
@@ -7117,7 +7170,8 @@
     "passAdjNetYdsPerAtt": 6.77,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "BreeDr00",
@@ -7183,7 +7237,8 @@
     "passAdjNetYdsPerAtt": 7.27,
     "comebacks": 2,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP OPoY-6"
   },
   {
     "playerId": "BreeDr00",
@@ -7216,7 +7271,8 @@
     "passAdjNetYdsPerAtt": 7.71,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "BreeDr00",
@@ -7249,7 +7305,8 @@
     "passAdjNetYdsPerAtt": 8.47,
     "comebacks": 6,
     "gwd": 7,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "BreeDr00",
@@ -7282,7 +7339,8 @@
     "passAdjNetYdsPerAtt": 8.33,
     "comebacks": 1,
     "gwd": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "BreeDr00",
@@ -7381,7 +7439,8 @@
     "passAdjNetYdsPerAtt": 5.7,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BridTe00",
@@ -7476,7 +7535,8 @@
     "passAdjNetYdsPerAtt": 6.66,
     "comebacks": 1,
     "gwd": 2,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-5"
   },
   {
     "playerId": "BridTe00",
@@ -9091,7 +9151,8 @@
     "passAdjNetYdsPerAtt": 5.91,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "BrunMa00",
@@ -9123,7 +9184,8 @@
     "passAdjNetYdsPerAtt": 6.7,
     "comebacks": 1,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "BrunMa00",
@@ -9187,7 +9249,8 @@
     "passAdjNetYdsPerAtt": 5.87,
     "comebacks": 2,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "BrunMa00",
@@ -9379,7 +9442,8 @@
     "passAdjNetYdsPerAtt": 5.92,
     "comebacks": 2,
     "gwd": 3,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-3"
   },
   {
     "playerId": "BrunMa00",
@@ -9751,7 +9815,8 @@
     "passAdjNetYdsPerAtt": 5.28,
     "comebacks": 4,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "BulgMa00",
@@ -9848,7 +9913,8 @@
     "passAdjNetYdsPerAtt": 6.37,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "BulgMa00",
@@ -10013,7 +10079,8 @@
     "passAdjNetYdsPerAtt": 7.51,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "BurrJo01",
@@ -10046,7 +10113,8 @@
     "passAdjNetYdsPerAtt": 6.76,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP MVP-4,AP OPoY-9"
   },
   {
     "playerId": "BurrJo01",
@@ -10112,7 +10180,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 1,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-4,AP OPoY-5,AP CPoY-1"
   },
   {
     "playerId": "BurrJo01",
@@ -10706,7 +10775,8 @@
     "passAdjNetYdsPerAtt": 3.24,
     "comebacks": 2,
     "gwd": 3,
-    "av": 5
+    "av": 5,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "CarrDa00",
@@ -11062,7 +11132,8 @@
     "passAdjNetYdsPerAtt": 6.31,
     "comebacks": 4,
     "gwd": 4,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "CarrDe02",
@@ -11095,7 +11166,8 @@
     "passAdjNetYdsPerAtt": 7.2,
     "comebacks": 7,
     "gwd": 7,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP MVP-3,AP OPoY-6"
   },
   {
     "playerId": "CarrDe02",
@@ -11128,7 +11200,8 @@
     "passAdjNetYdsPerAtt": 6.07,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "CarrDe02",
@@ -11293,7 +11366,8 @@
     "passAdjNetYdsPerAtt": 6.01,
     "comebacks": 4,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "CarrDe02",
@@ -11456,7 +11530,8 @@
     "passAdjNetYdsPerAtt": 4.63,
     "comebacks": 2,
     "gwd": 2,
-    "av": 9
+    "av": 9,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "CartQu00",
@@ -11682,7 +11757,8 @@
     "passAdjNetYdsPerAtt": 6.64,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP CPoY-4"
   },
   {
     "playerId": "CassMa00",
@@ -12380,7 +12456,8 @@
     "passAdjNetYdsPerAtt": 6.6,
     "comebacks": 1,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "ChanCh00",
@@ -12412,7 +12489,8 @@
     "passAdjNetYdsPerAtt": 7.61,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "ChanCh00",
@@ -12668,7 +12746,8 @@
     "passAdjNetYdsPerAtt": 5.8,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "CollKe00",
@@ -12860,7 +12939,8 @@
     "passAdjNetYdsPerAtt": 5.78,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "CollKe00",
@@ -13119,7 +13199,8 @@
     "passAdjNetYdsPerAtt": 6.01,
     "comebacks": 1,
     "gwd": 3,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP CPoY-2"
   },
   {
     "playerId": "CollKe00",
@@ -13880,7 +13961,8 @@
     "passAdjNetYdsPerAtt": 7.45,
     "comebacks": 4,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "CousKi00",
@@ -13979,7 +14061,8 @@
     "passAdjNetYdsPerAtt": 7.73,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "CousKi00",
@@ -14045,7 +14128,8 @@
     "passAdjNetYdsPerAtt": 7.42,
     "comebacks": 3,
     "gwd": 4,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "CousKi00",
@@ -14078,7 +14162,8 @@
     "passAdjNetYdsPerAtt": 6.05,
     "comebacks": 8,
     "gwd": 8,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "CousKi00",
@@ -14144,7 +14229,8 @@
     "passAdjNetYdsPerAtt": 6.13,
     "comebacks": 3,
     "gwd": 3,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-13"
   },
   {
     "playerId": "CousKi00",
@@ -14227,7 +14313,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 3,
     "gwd": 4,
-    "av": 20
+    "av": 20,
+    "awards": "PB"
   },
   {
     "playerId": "CulpDa00",
@@ -14323,7 +14410,8 @@
     "passAdjNetYdsPerAtt": 6.7,
     "comebacks": 0,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP CPoY-8"
   },
   {
     "playerId": "CulpDa00",
@@ -14355,7 +14443,8 @@
     "passAdjNetYdsPerAtt": 8.02,
     "comebacks": 1,
     "gwd": 3,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP OPoY-2"
   },
   {
     "playerId": "CulpDa00",
@@ -14647,7 +14736,8 @@
     "passAdjNetYdsPerAtt": 5.07,
     "comebacks": 3,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "CunnRa00",
@@ -14679,7 +14769,8 @@
     "passAdjNetYdsPerAtt": 4.86,
     "comebacks": 4,
     "gwd": 5,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "CunnRa00",
@@ -14711,7 +14802,8 @@
     "passAdjNetYdsPerAtt": 5.93,
     "comebacks": 3,
     "gwd": 3,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "CunnRa00",
@@ -14775,7 +14867,8 @@
     "passAdjNetYdsPerAtt": 5.01,
     "comebacks": 1,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "AP-2"
   },
   {
     "playerId": "CunnRa00",
@@ -14941,7 +15034,8 @@
     "passAdjNetYdsPerAtt": 8.54,
     "comebacks": 0,
     "gwd": 1,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2,AP CPoY-2"
   },
   {
     "playerId": "CunnRa00",
@@ -15136,7 +15230,8 @@
     "passAdjNetYdsPerAtt": 6.61,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "CutlJa00",
@@ -15466,7 +15561,8 @@
     "passAdjNetYdsPerAtt": 5.65,
     "comebacks": 4,
     "gwd": 4,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP ORoY-2"
   },
   {
     "playerId": "DaltAn00",
@@ -15565,7 +15661,8 @@
     "passAdjNetYdsPerAtt": 5.75,
     "comebacks": 4,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "DaltAn00",
@@ -15631,7 +15728,8 @@
     "passAdjNetYdsPerAtt": 6.53,
     "comebacks": 2,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "DaltAn00",
@@ -16493,7 +16591,8 @@
     "passAdjNetYdsPerAtt": 6.99,
     "comebacks": 3,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-10,AP CPoY-3"
   },
   {
     "playerId": "DarnSa00",
@@ -17026,7 +17125,8 @@
     "passAdjNetYdsPerAtt": 7.58,
     "comebacks": 2,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "AP MVP-6"
   },
   {
     "playerId": "DebeSt00",
@@ -17377,7 +17477,8 @@
     "passAdjNetYdsPerAtt": 6.41,
     "comebacks": 3,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "DelhJa00",
@@ -17476,7 +17577,8 @@
     "passAdjNetYdsPerAtt": 6.72,
     "comebacks": 4,
     "gwd": 5,
-    "av": 12
+    "av": 12,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "DelhJa00",
@@ -18154,7 +18256,8 @@
     "passAdjNetYdsPerAtt": 6.65,
     "comebacks": 3,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "AP MVP-5,AP OPoY-6"
   },
   {
     "playerId": "DickLy00",
@@ -18346,7 +18449,8 @@
     "passAdjNetYdsPerAtt": 5.46,
     "comebacks": 3,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "DilfTr00",
@@ -18442,7 +18546,8 @@
     "passAdjNetYdsPerAtt": 4.47,
     "comebacks": 1,
     "gwd": 1,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-3"
   },
   {
     "playerId": "DilfTr00",
@@ -19360,7 +19465,8 @@
     "passAdjNetYdsPerAtt": 5.95,
     "comebacks": 2,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "AP MVP-6"
   },
   {
     "playerId": "EasoTo00",
@@ -19905,7 +20011,8 @@
     "passAdjNetYdsPerAtt": 5.68,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-5,AP OPoY-5"
   },
   {
     "playerId": "ElwaJo00",
@@ -19937,7 +20044,8 @@
     "passAdjNetYdsPerAtt": 6.74,
     "comebacks": 3,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "ElwaJo00",
@@ -20001,7 +20109,8 @@
     "passAdjNetYdsPerAtt": 5.11,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "ElwaJo00",
@@ -20065,7 +20174,8 @@
     "passAdjNetYdsPerAtt": 5.38,
     "comebacks": 1,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "ElwaJo00",
@@ -20129,7 +20239,8 @@
     "passAdjNetYdsPerAtt": 6.42,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-4,AP OPoY-4"
   },
   {
     "playerId": "ElwaJo00",
@@ -20161,7 +20272,8 @@
     "passAdjNetYdsPerAtt": 5.66,
     "comebacks": 2,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "ElwaJo00",
@@ -20225,7 +20337,8 @@
     "passAdjNetYdsPerAtt": 6.15,
     "comebacks": 4,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "ElwaJo00",
@@ -20257,7 +20370,8 @@
     "passAdjNetYdsPerAtt": 6.49,
     "comebacks": 0,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "ElwaJo00",
@@ -20289,7 +20403,8 @@
     "passAdjNetYdsPerAtt": 7.11,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "EricCr00",
@@ -20575,7 +20690,8 @@
     "passAdjNetYdsPerAtt": 7.03,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "EsiaBo00",
@@ -20639,7 +20755,8 @@
     "passAdjNetYdsPerAtt": 7.79,
     "comebacks": 3,
     "gwd": 4,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "EsiaBo00",
@@ -20671,7 +20788,8 @@
     "passAdjNetYdsPerAtt": 6.73,
     "comebacks": 0,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "EsiaBo00",
@@ -20799,7 +20917,8 @@
     "passAdjNetYdsPerAtt": 6.33,
     "comebacks": 0,
     "gwd": 0,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "EsiaBo00",
@@ -21430,7 +21549,8 @@
     "passAdjNetYdsPerAtt": 4.95,
     "comebacks": 0,
     "gwd": 0,
-    "av": 3
+    "av": 3,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "EverJi00",
@@ -21558,7 +21678,8 @@
     "passAdjNetYdsPerAtt": 5.97,
     "comebacks": 0,
     "gwd": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "EverJi00",
@@ -21842,7 +21963,8 @@
     "passAdjNetYdsPerAtt": 5.53,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "FavrBr00",
@@ -21874,7 +21996,8 @@
     "passAdjNetYdsPerAtt": 4.36,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "FavrBr00",
@@ -21938,7 +22061,8 @@
     "passAdjNetYdsPerAtt": 7.25,
     "comebacks": 0,
     "gwd": 1,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "FavrBr00",
@@ -21970,7 +22094,8 @@
     "passAdjNetYdsPerAtt": 6.61,
     "comebacks": 1,
     "gwd": 1,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "FavrBr00",
@@ -22002,7 +22127,8 @@
     "passAdjNetYdsPerAtt": 6.82,
     "comebacks": 0,
     "gwd": 0,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "FavrBr00",
@@ -22130,7 +22256,8 @@
     "passAdjNetYdsPerAtt": 7.02,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-3"
   },
   {
     "playerId": "FavrBr00",
@@ -22162,7 +22289,8 @@
     "passAdjNetYdsPerAtt": 5.7,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2,AP MVP-2"
   },
   {
     "playerId": "FavrBr00",
@@ -22194,7 +22322,8 @@
     "passAdjNetYdsPerAtt": 5.96,
     "comebacks": 1,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "FavrBr00",
@@ -22324,7 +22453,8 @@
     "passAdjNetYdsPerAtt": 7.18,
     "comebacks": 2,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3,AP CPoY-4"
   },
   {
     "playerId": "FavrBr00",
@@ -22357,7 +22487,8 @@
     "passAdjNetYdsPerAtt": 4.91,
     "comebacks": 1,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "FavrBr00",
@@ -22390,7 +22521,8 @@
     "passAdjNetYdsPerAtt": 7.61,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-4,AP CPoY-4"
   },
   {
     "playerId": "FavrBr00",
@@ -23352,7 +23484,8 @@
     "passAdjNetYdsPerAtt": 5.06,
     "comebacks": 1,
     "gwd": 1,
-    "av": 11
+    "av": 11,
+    "awards": "AP CPoY-12"
   },
   {
     "playerId": "FiedJa00",
@@ -23577,7 +23710,8 @@
     "passAdjNetYdsPerAtt": 4.63,
     "comebacks": 1,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "AP MVP-9"
   },
   {
     "playerId": "FielJu00",
@@ -24736,7 +24870,8 @@
     "passAdjNetYdsPerAtt": 6.88,
     "comebacks": 1,
     "gwd": 1,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "FlacJo00",
@@ -25121,7 +25256,8 @@
     "passAdjNetYdsPerAtt": 6.93,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-1"
   },
   {
     "playerId": "FlutDo00",
@@ -25409,7 +25545,8 @@
     "passAdjNetYdsPerAtt": 9.18,
     "comebacks": 1,
     "gwd": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "FoleNi00",
@@ -25920,7 +26057,8 @@
     "passAdjNetYdsPerAtt": 5.89,
     "comebacks": 1,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "FoutDa00",
@@ -25952,7 +26090,8 @@
     "passAdjNetYdsPerAtt": 6.48,
     "comebacks": 1,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-5,AP OPoY-3"
   },
   {
     "playerId": "FoutDa00",
@@ -25984,7 +26123,8 @@
     "passAdjNetYdsPerAtt": 7.27,
     "comebacks": 3,
     "gwd": 3,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP MVP-6,AP OPoY-5"
   },
   {
     "playerId": "FoutDa00",
@@ -26016,7 +26156,8 @@
     "passAdjNetYdsPerAtt": 7.7,
     "comebacks": 1,
     "gwd": 2,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-1"
   },
   {
     "playerId": "FoutDa00",
@@ -26048,7 +26189,8 @@
     "passAdjNetYdsPerAtt": 7.32,
     "comebacks": 2,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "FoutDa00",
@@ -26112,7 +26254,8 @@
     "passAdjNetYdsPerAtt": 7.02,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "FoutDa00",
@@ -26533,7 +26676,8 @@
     "passAdjNetYdsPerAtt": 6.23,
     "comebacks": 0,
     "gwd": 0,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "FrerGu00",
@@ -26661,7 +26805,8 @@
     "passAdjNetYdsPerAtt": 6.23,
     "comebacks": 2,
     "gwd": 2,
-    "av": 8
+    "av": 8,
+    "awards": "AP CPoY-12"
   },
   {
     "playerId": "FrerGu00",
@@ -28582,7 +28727,8 @@
     "passAdjNetYdsPerAtt": 6.12,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "GannRi00",
@@ -28614,7 +28760,8 @@
     "passAdjNetYdsPerAtt": 6.73,
     "comebacks": 3,
     "gwd": 4,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-1,AP MVP-4,AP OPoY-5"
   },
   {
     "playerId": "GannRi00",
@@ -28646,7 +28793,8 @@
     "passAdjNetYdsPerAtt": 6.61,
     "comebacks": 1,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "GannRi00",
@@ -28678,7 +28826,8 @@
     "passAdjNetYdsPerAtt": 6.95,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "GannRi00",
@@ -28806,7 +28955,8 @@
     "passAdjNetYdsPerAtt": 7.34,
     "comebacks": 0,
     "gwd": 0,
-    "av": 20
+    "av": 20,
+    "awards": "PB"
   },
   {
     "playerId": "GarcJe00",
@@ -28838,7 +28988,8 @@
     "passAdjNetYdsPerAtt": 6.65,
     "comebacks": 4,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "GarcJe00",
@@ -28870,7 +29021,8 @@
     "passAdjNetYdsPerAtt": 5.91,
     "comebacks": 2,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "GarcJe00",
@@ -28999,7 +29151,8 @@
     "passAdjNetYdsPerAtt": 7.11,
     "comebacks": 2,
     "gwd": 2,
-    "av": 5
+    "av": 5,
+    "awards": "AP CPoY-5"
   },
   {
     "playerId": "GarcJe00",
@@ -29032,7 +29185,8 @@
     "passAdjNetYdsPerAtt": 6.98,
     "comebacks": 0,
     "gwd": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "GarcJe00",
@@ -29280,7 +29434,8 @@
     "passAdjNetYdsPerAtt": 7.22,
     "comebacks": 4,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "GaroJi00",
@@ -29722,7 +29877,8 @@
     "passAdjNetYdsPerAtt": 5.75,
     "comebacks": 3,
     "gwd": 4,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "GarrDa00",
@@ -29787,7 +29943,8 @@
     "passAdjNetYdsPerAtt": 4.22,
     "comebacks": 3,
     "gwd": 2,
-    "av": 7
+    "av": 7,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "GeorJe00",
@@ -30075,7 +30232,8 @@
     "passAdjNetYdsPerAtt": 7.03,
     "comebacks": 2,
     "gwd": 4,
-    "av": 11
+    "av": 11,
+    "awards": "AP CPoY-4"
   },
   {
     "playerId": "GeorJe00",
@@ -30466,7 +30624,8 @@
     "passAdjNetYdsPerAtt": 7.72,
     "comebacks": 1,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "GoffJa00",
@@ -30499,7 +30658,8 @@
     "passAdjNetYdsPerAtt": 7.69,
     "comebacks": 4,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "GoffJa00",
@@ -30631,7 +30791,8 @@
     "passAdjNetYdsPerAtt": 7.45,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP CPoY-6"
   },
   {
     "playerId": "GoffJa00",
@@ -30697,7 +30858,8 @@
     "passAdjNetYdsPerAtt": 8.06,
     "comebacks": 4,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP MVP-5,AP OPoY-9"
   },
   {
     "playerId": "GoffJa00",
@@ -31238,7 +31400,8 @@
     "passAdjNetYdsPerAtt": 6.75,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "GrbaEl00",
@@ -31368,7 +31531,8 @@
     "passAdjNetYdsPerAtt": 7.63,
     "comebacks": 0,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-12"
   },
   {
     "playerId": "GreeTr00",
@@ -31464,7 +31628,8 @@
     "passAdjNetYdsPerAtt": 7.09,
     "comebacks": 1,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "GreeTr00",
@@ -31528,7 +31693,8 @@
     "passAdjNetYdsPerAtt": 6.86,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "GreeTr00",
@@ -31721,7 +31887,8 @@
     "passAdjNetYdsPerAtt": 7.79,
     "comebacks": 0,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "GrieBr00",
@@ -31849,7 +32016,8 @@
     "passAdjNetYdsPerAtt": 6.42,
     "comebacks": 1,
     "gwd": 1,
-    "av": 7
+    "av": 7,
+    "awards": "AP CPoY-7"
   },
   {
     "playerId": "GrieBr00",
@@ -32012,7 +32180,8 @@
     "passAdjNetYdsPerAtt": 7.47,
     "comebacks": 3,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP ORoY-1"
   },
   {
     "playerId": "GrifRo01",
@@ -33295,7 +33464,8 @@
     "passAdjNetYdsPerAtt": 7.06,
     "comebacks": 3,
     "gwd": 4,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP MVP-4"
   },
   {
     "playerId": "HarbJi00",
@@ -33708,7 +33878,8 @@
     "passAdjNetYdsPerAtt": 4.34,
     "comebacks": 2,
     "gwd": 2,
-    "av": 10
+    "av": 10,
+    "awards": "AP ORoY-4"
   },
   {
     "playerId": "HartJi00",
@@ -33918,7 +34089,8 @@
     "passAdjNetYdsPerAtt": 5.74,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "HartJi00",
@@ -33948,7 +34120,8 @@
     "passAdjNetYdsPerAtt": 5.67,
     "comebacks": 4,
     "gwd": 4,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "HartJi00",
@@ -33978,7 +34151,8 @@
     "passAdjNetYdsPerAtt": 6.39,
     "comebacks": 3,
     "gwd": 4,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "HartJi00",
@@ -34008,7 +34182,8 @@
     "passAdjNetYdsPerAtt": 4.93,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "HartJi00",
@@ -34388,7 +34563,8 @@
     "passAdjNetYdsPerAtt": 6.2,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "HassMa00",
@@ -34452,7 +34628,8 @@
     "passAdjNetYdsPerAtt": 7.15,
     "comebacks": 2,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "HassMa00",
@@ -34518,7 +34695,8 @@
     "passAdjNetYdsPerAtt": 6.36,
     "comebacks": 2,
     "gwd": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "HassMa00",
@@ -35042,7 +35220,8 @@
     "passAdjNetYdsPerAtt": 5.45,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "HebeBo00",
@@ -35801,7 +35980,8 @@
     "passAdjNetYdsPerAtt": 6.84,
     "comebacks": 1,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "AP ORoY-1"
   },
   {
     "playerId": "HerbJu00",
@@ -35834,7 +36014,8 @@
     "passAdjNetYdsPerAtt": 6.95,
     "comebacks": 5,
     "gwd": 5,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "HerbJu00",
@@ -35867,7 +36048,8 @@
     "passAdjNetYdsPerAtt": 6.22,
     "comebacks": 4,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "AP MVP-9"
   },
   {
     "playerId": "HerbJu00",
@@ -35933,7 +36115,8 @@
     "passAdjNetYdsPerAtt": 7.25,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "AP MVP-9,AP CPoY-12"
   },
   {
     "playerId": "HerbJu00",
@@ -37374,7 +37557,8 @@
     "passAdjNetYdsPerAtt": 5.61,
     "comebacks": 2,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "HostJe00",
@@ -38811,7 +38995,8 @@
     "passAdjNetYdsPerAtt": 7.31,
     "comebacks": 1,
     "gwd": 2,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "HurtJa00",
@@ -38844,7 +39029,8 @@
     "passAdjNetYdsPerAtt": 5.96,
     "comebacks": 3,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "HurtJa00",
@@ -38975,7 +39161,8 @@
     "passAdjNetYdsPerAtt": 8.19,
     "comebacks": 1,
     "gwd": 2,
-    "av": 25
+    "av": 25,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "JackLa00",
@@ -39041,7 +39228,8 @@
     "passAdjNetYdsPerAtt": 5.78,
     "comebacks": 4,
     "gwd": 4,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "JackLa00",
@@ -39107,7 +39295,8 @@
     "passAdjNetYdsPerAtt": 7.34,
     "comebacks": 1,
     "gwd": 0,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-4,AP CPoY-9"
   },
   {
     "playerId": "JackLa00",
@@ -39140,7 +39329,8 @@
     "passAdjNetYdsPerAtt": 9.38,
     "comebacks": 2,
     "gwd": 2,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "JackLa00",
@@ -39678,7 +39868,8 @@
     "passAdjNetYdsPerAtt": 6.94,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-3"
   },
   {
     "playerId": "JawoRo00",
@@ -40123,7 +40314,8 @@
     "passAdjNetYdsPerAtt": 6.79,
     "comebacks": 3,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP CPoY-2"
   },
   {
     "playerId": "JohnBr00",
@@ -40219,7 +40411,8 @@
     "passAdjNetYdsPerAtt": 6.56,
     "comebacks": 0,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "JohnBr00",
@@ -40868,7 +41061,8 @@
     "passAdjNetYdsPerAtt": 7.78,
     "comebacks": 1,
     "gwd": 1,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "JoneBe00",
@@ -40898,7 +41092,8 @@
     "passAdjNetYdsPerAtt": 5.51,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "AP-2"
   },
   {
     "playerId": "JoneBe00",
@@ -41190,7 +41385,8 @@
     "passAdjNetYdsPerAtt": 5.89,
     "comebacks": 4,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "AP CPoY-11"
   },
   {
     "playerId": "JoneDa05",
@@ -41321,7 +41517,8 @@
     "passAdjNetYdsPerAtt": 6.22,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP ORoY-2"
   },
   {
     "playerId": "JoneMa05",
@@ -41814,7 +42011,8 @@
     "passAdjNetYdsPerAtt": 7.03,
     "comebacks": 1,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "KeenCa00",
@@ -42073,7 +42271,8 @@
     "passAdjNetYdsPerAtt": 5.48,
     "comebacks": 2,
     "gwd": 2,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "KellJi00",
@@ -42105,7 +42304,8 @@
     "passAdjNetYdsPerAtt": 5.57,
     "comebacks": 3,
     "gwd": 5,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "KellJi00",
@@ -42169,7 +42369,8 @@
     "passAdjNetYdsPerAtt": 7.5,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-5,AP OPoY-6"
   },
   {
     "playerId": "KellJi00",
@@ -42201,7 +42402,8 @@
     "passAdjNetYdsPerAtt": 6.95,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "KellJi00",
@@ -42233,7 +42435,8 @@
     "passAdjNetYdsPerAtt": 6.05,
     "comebacks": 3,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP OPoY-6"
   },
   {
     "playerId": "KellJi00",
@@ -42845,7 +43048,8 @@
     "passAdjNetYdsPerAtt": 5.8,
     "comebacks": 0,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "KennBi00",
@@ -43419,7 +43623,8 @@
     "passAdjNetYdsPerAtt": 5.72,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "KitnJo00",
@@ -43678,7 +43883,8 @@
     "passAdjNetYdsPerAtt": 3.05,
     "comebacks": 0,
     "gwd": 0,
-    "av": 3
+    "av": 3,
+    "awards": "AP ORoY-5"
   },
   {
     "playerId": "KlinDa00",
@@ -44118,7 +44324,8 @@
     "passAdjNetYdsPerAtt": 7.15,
     "comebacks": 0,
     "gwd": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP OPoY-3"
   },
   {
     "playerId": "KosaBe00",
@@ -45105,7 +45312,8 @@
     "passAdjNetYdsPerAtt": 7.08,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "KramTo00",
@@ -45387,7 +45595,8 @@
     "passAdjNetYdsPerAtt": 5.61,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "KrieDa00",
@@ -45515,7 +45724,8 @@
     "passAdjNetYdsPerAtt": 6.87,
     "comebacks": 2,
     "gwd": 2,
-    "av": 8
+    "av": 8,
+    "awards": "PB"
   },
   {
     "playerId": "KrieDa00",
@@ -45547,7 +45757,8 @@
     "passAdjNetYdsPerAtt": 4.74,
     "comebacks": 3,
     "gwd": 4,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "KrieDa00",
@@ -45898,7 +46109,8 @@
     "passAdjNetYdsPerAtt": 6.66,
     "comebacks": 3,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-7,AP CPoY-12"
   },
   {
     "playerId": "LawrTr00",
@@ -47034,7 +47246,8 @@
     "passAdjNetYdsPerAtt": 6.69,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "LomaNe00",
@@ -47130,7 +47343,8 @@
     "passAdjNetYdsPerAtt": 5.83,
     "comebacks": 2,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "LomaNe00",
@@ -47740,7 +47954,8 @@
     "passAdjNetYdsPerAtt": 5.66,
     "comebacks": 4,
     "gwd": 7,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP ORoY-2"
   },
   {
     "playerId": "LuckAn00",
@@ -47773,7 +47988,8 @@
     "passAdjNetYdsPerAtt": 6.06,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "LuckAn00",
@@ -47806,7 +48022,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 1,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "LuckAn00",
@@ -47911,7 +48128,8 @@
     "passAdjNetYdsPerAtt": 6.95,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP CPoY-1"
   },
   {
     "playerId": "MaddTo00",
@@ -48099,7 +48317,8 @@
     "passAdjNetYdsPerAtt": 5.88,
     "comebacks": 2,
     "gwd": 2,
-    "av": 9
+    "av": 9,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "MaddTo00",
@@ -48261,7 +48480,8 @@
     "passAdjNetYdsPerAtt": 8.89,
     "comebacks": 2,
     "gwd": 2,
-    "av": 22
+    "av": 22,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "MahoPa00",
@@ -48294,7 +48514,8 @@
     "passAdjNetYdsPerAtt": 8.38,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP OPoY-4"
   },
   {
     "playerId": "MahoPa00",
@@ -48327,7 +48548,8 @@
     "passAdjNetYdsPerAtt": 8.33,
     "comebacks": 3,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-2"
   },
   {
     "playerId": "MahoPa00",
@@ -48360,7 +48582,8 @@
     "passAdjNetYdsPerAtt": 7.07,
     "comebacks": 3,
     "gwd": 3,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "MahoPa00",
@@ -48393,7 +48616,8 @@
     "passAdjNetYdsPerAtt": 7.93,
     "comebacks": 4,
     "gwd": 4,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "MahoPa00",
@@ -48426,7 +48650,8 @@
     "passAdjNetYdsPerAtt": 6.26,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-7"
   },
   {
     "playerId": "MahoPa00",
@@ -48459,7 +48684,8 @@
     "passAdjNetYdsPerAtt": 6.02,
     "comebacks": 5,
     "gwd": 7,
-    "av": 14
+    "av": 14,
+    "awards": "AP MVP-6,AP OPoY-17"
   },
   {
     "playerId": "MahoPa00",
@@ -48587,7 +48813,8 @@
     "passAdjNetYdsPerAtt": 5.71,
     "comebacks": 5,
     "gwd": 7,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "MajkDo00",
@@ -49300,7 +49527,8 @@
     "passAdjNetYdsPerAtt": 5.38,
     "comebacks": 2,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "MannAr00",
@@ -49332,7 +49560,8 @@
     "passAdjNetYdsPerAtt": 5.56,
     "comebacks": 0,
     "gwd": 0,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MannAr00",
@@ -49768,7 +49997,8 @@
     "passAdjNetYdsPerAtt": 6,
     "comebacks": 3,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "MannEl00",
@@ -49867,7 +50097,8 @@
     "passAdjNetYdsPerAtt": 7.45,
     "comebacks": 5,
     "gwd": 6,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP CPoY-6"
   },
   {
     "playerId": "MannEl00",
@@ -49900,7 +50131,8 @@
     "passAdjNetYdsPerAtt": 6.59,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MannEl00",
@@ -49999,7 +50231,8 @@
     "passAdjNetYdsPerAtt": 6.74,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "MannEl00",
@@ -50163,7 +50396,8 @@
     "passAdjNetYdsPerAtt": 4.84,
     "comebacks": 1,
     "gwd": 1,
-    "av": 11
+    "av": 11,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "MannPe00",
@@ -50195,7 +50429,8 @@
     "passAdjNetYdsPerAtt": 7.06,
     "comebacks": 6,
     "gwd": 7,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "MannPe00",
@@ -50227,7 +50462,8 @@
     "passAdjNetYdsPerAtt": 7.22,
     "comebacks": 2,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-5,AP OPoY-8"
   },
   {
     "playerId": "MannPe00",
@@ -50291,7 +50527,8 @@
     "passAdjNetYdsPerAtt": 6.09,
     "comebacks": 4,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "MannPe00",
@@ -50323,7 +50560,8 @@
     "passAdjNetYdsPerAtt": 7.35,
     "comebacks": 3,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "MannPe00",
@@ -50355,7 +50593,8 @@
     "passAdjNetYdsPerAtt": 9.78,
     "comebacks": 2,
     "gwd": 4,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "MannPe00",
@@ -50387,7 +50626,8 @@
     "passAdjNetYdsPerAtt": 8.03,
     "comebacks": 1,
     "gwd": 1,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "MannPe00",
@@ -50420,7 +50660,8 @@
     "passAdjNetYdsPerAtt": 7.93,
     "comebacks": 3,
     "gwd": 3,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-3"
   },
   {
     "playerId": "MannPe00",
@@ -50453,7 +50694,8 @@
     "passAdjNetYdsPerAtt": 7.29,
     "comebacks": 1,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "MannPe00",
@@ -50486,7 +50728,8 @@
     "passAdjNetYdsPerAtt": 6.88,
     "comebacks": 4,
     "gwd": 6,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "MannPe00",
@@ -50519,7 +50762,8 @@
     "passAdjNetYdsPerAtt": 7.51,
     "comebacks": 7,
     "gwd": 7,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "MannPe00",
@@ -50552,7 +50796,8 @@
     "passAdjNetYdsPerAtt": 6.48,
     "comebacks": 0,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MannPe00",
@@ -50591,7 +50836,8 @@
     "passAdjNetYdsPerAtt": 7.89,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2,AP CPoY-1"
   },
   {
     "playerId": "MannPe00",
@@ -50624,7 +50870,8 @@
     "passAdjNetYdsPerAtt": 8.87,
     "comebacks": 2,
     "gwd": 2,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "MannPe00",
@@ -50657,7 +50904,8 @@
     "passAdjNetYdsPerAtt": 7.68,
     "comebacks": 1,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MannPe00",
@@ -50887,7 +51135,8 @@
     "passAdjNetYdsPerAtt": 7.39,
     "comebacks": 1,
     "gwd": 2,
-    "av": 10
+    "av": 10,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-3,AP ORoY-2"
   },
   {
     "playerId": "MariDa00",
@@ -50919,7 +51168,8 @@
     "passAdjNetYdsPerAtt": 8.94,
     "comebacks": 2,
     "gwd": 3,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "MariDa00",
@@ -50951,7 +51201,8 @@
     "passAdjNetYdsPerAtt": 6.21,
     "comebacks": 3,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1"
   },
   {
     "playerId": "MariDa00",
@@ -50983,7 +51234,8 @@
     "passAdjNetYdsPerAtt": 6.99,
     "comebacks": 1,
     "gwd": 2,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-3,AP OPoY-2"
   },
   {
     "playerId": "MariDa00",
@@ -51015,7 +51267,8 @@
     "passAdjNetYdsPerAtt": 6.85,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "MariDa00",
@@ -51047,7 +51300,8 @@
     "passAdjNetYdsPerAtt": 6.42,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "AP OPoY-4"
   },
   {
     "playerId": "MariDa00",
@@ -51143,7 +51397,8 @@
     "passAdjNetYdsPerAtt": 6.43,
     "comebacks": 1,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "MariDa00",
@@ -51175,7 +51430,8 @@
     "passAdjNetYdsPerAtt": 6.36,
     "comebacks": 6,
     "gwd": 6,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "MariDa00",
@@ -51239,7 +51495,8 @@
     "passAdjNetYdsPerAtt": 6.6,
     "comebacks": 4,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "MariDa00",
@@ -51271,7 +51528,8 @@
     "passAdjNetYdsPerAtt": 6.59,
     "comebacks": 2,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "MariDa00",
@@ -51790,7 +52048,8 @@
     "passAdjNetYdsPerAtt": 6.77,
     "comebacks": 3,
     "gwd": 4,
-    "av": 10
+    "av": 10,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "MayfBa00",
@@ -52018,7 +52277,8 @@
     "passAdjNetYdsPerAtt": 6.47,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP CPoY-3"
   },
   {
     "playerId": "MayfBa00",
@@ -52051,7 +52311,8 @@
     "passAdjNetYdsPerAtt": 7.13,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP MVP-11,AP OPoY-11"
   },
   {
     "playerId": "MayfBa00",
@@ -53273,7 +53534,8 @@
     "passAdjNetYdsPerAtt": 6.11,
     "comebacks": 1,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "McMaJi00",
@@ -53685,7 +53947,8 @@
     "passAdjNetYdsPerAtt": 4.79,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-2,AP OPoY-4"
   },
   {
     "playerId": "McNaDo00",
@@ -53717,7 +53980,8 @@
     "passAdjNetYdsPerAtt": 5.49,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "McNaDo00",
@@ -53749,7 +54013,8 @@
     "passAdjNetYdsPerAtt": 5.64,
     "comebacks": 0,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "McNaDo00",
@@ -53781,7 +54046,8 @@
     "passAdjNetYdsPerAtt": 5.35,
     "comebacks": 2,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "McNaDo00",
@@ -53813,7 +54079,8 @@
     "passAdjNetYdsPerAtt": 7.87,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "McNaDo00",
@@ -53977,7 +54244,8 @@
     "passAdjNetYdsPerAtt": 6.86,
     "comebacks": 2,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "McNaDo00",
@@ -54235,7 +54503,8 @@
     "passAdjNetYdsPerAtt": 5.76,
     "comebacks": 3,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "McNaSt00",
@@ -54299,7 +54568,8 @@
     "passAdjNetYdsPerAtt": 5.91,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "AP MVP-3,AP OPoY-5"
   },
   {
     "playerId": "McNaSt00",
@@ -54331,7 +54601,8 @@
     "passAdjNetYdsPerAtt": 7.81,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP MVP-1,AP OPoY-5"
   },
   {
     "playerId": "McNaSt00",
@@ -54395,7 +54666,8 @@
     "passAdjNetYdsPerAtt": 5.75,
     "comebacks": 0,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "McNaSt00",
@@ -54621,7 +54893,8 @@
     "passAdjNetYdsPerAtt": 6.12,
     "comebacks": 3,
     "gwd": 4,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "MillCh00",
@@ -55555,7 +55828,8 @@
     "passAdjNetYdsPerAtt": 5.75,
     "comebacks": 2,
     "gwd": 2,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "MinsGa00",
@@ -55639,7 +55913,8 @@
     "passAdjNetYdsPerAtt": 3.89,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "MireRi00",
@@ -56295,7 +56570,8 @@
     "passAdjNetYdsPerAtt": 6.25,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-3"
   },
   {
     "playerId": "MontJo01",
@@ -56359,7 +56635,8 @@
     "passAdjNetYdsPerAtt": 6.69,
     "comebacks": 2,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP MVP-5,AP OPoY-5"
   },
   {
     "playerId": "MontJo01",
@@ -56391,7 +56668,8 @@
     "passAdjNetYdsPerAtt": 7.93,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "MontJo01",
@@ -56423,7 +56701,8 @@
     "passAdjNetYdsPerAtt": 6.36,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "MontJo01",
@@ -56455,7 +56734,8 @@
     "passAdjNetYdsPerAtt": 5.94,
     "comebacks": 1,
     "gwd": 1,
-    "av": 7
+    "av": 7,
+    "awards": "AP MVP-6"
   },
   {
     "playerId": "MontJo01",
@@ -56487,7 +56767,8 @@
     "passAdjNetYdsPerAtt": 6.98,
     "comebacks": 3,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-1,AP MVP-3,AP OPoY-2"
   },
   {
     "playerId": "MontJo01",
@@ -56551,7 +56832,8 @@
     "passAdjNetYdsPerAtt": 8.31,
     "comebacks": 4,
     "gwd": 5,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "MontJo01",
@@ -56583,7 +56865,8 @@
     "passAdjNetYdsPerAtt": 6.54,
     "comebacks": 3,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-3"
   },
   {
     "playerId": "MontJo01",
@@ -56652,7 +56935,8 @@
     "passAdjNetYdsPerAtt": 6.54,
     "comebacks": 1,
     "gwd": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "MontJo01",
@@ -56844,7 +57128,8 @@
     "passAdjNetYdsPerAtt": 7.15,
     "comebacks": 1,
     "gwd": 1,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP MVP-5"
   },
   {
     "playerId": "MoonWa00",
@@ -56876,7 +57161,8 @@
     "passAdjNetYdsPerAtt": 6.4,
     "comebacks": 2,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -56908,7 +57194,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 1,
     "gwd": 1,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-1"
   },
   {
     "playerId": "MoonWa00",
@@ -56940,7 +57227,8 @@
     "passAdjNetYdsPerAtt": 5.95,
     "comebacks": 4,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -56972,7 +57260,8 @@
     "passAdjNetYdsPerAtt": 6.18,
     "comebacks": 2,
     "gwd": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -57004,7 +57293,8 @@
     "passAdjNetYdsPerAtt": 4.95,
     "comebacks": 1,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB,AP MVP-6"
   },
   {
     "playerId": "MoonWa00",
@@ -57036,7 +57326,8 @@
     "passAdjNetYdsPerAtt": 5.61,
     "comebacks": 4,
     "gwd": 5,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -57068,7 +57359,8 @@
     "passAdjNetYdsPerAtt": 6.18,
     "comebacks": 0,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -57132,7 +57424,8 @@
     "passAdjNetYdsPerAtt": 5.85,
     "comebacks": 3,
     "gwd": 4,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "MoonWa00",
@@ -58033,7 +58326,8 @@
     "passAdjNetYdsPerAtt": 5.09,
     "comebacks": 2,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "AP MVP-2"
   },
   {
     "playerId": "MortCr00",
@@ -58161,7 +58455,8 @@
     "passAdjNetYdsPerAtt": 6.03,
     "comebacks": 2,
     "gwd": 2,
-    "av": 10
+    "av": 10,
+    "awards": "AP MVP-4"
   },
   {
     "playerId": "MortCr00",
@@ -58442,7 +58737,8 @@
     "passAdjNetYdsPerAtt": 5.55,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "AP ORoY-1"
   },
   {
     "playerId": "MurrKy00",
@@ -58475,7 +58771,8 @@
     "passAdjNetYdsPerAtt": 6.45,
     "comebacks": 3,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MurrKy00",
@@ -58508,7 +58805,8 @@
     "passAdjNetYdsPerAtt": 6.9,
     "comebacks": 1,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "MurrKy00",
@@ -58574,7 +58872,8 @@
     "passAdjNetYdsPerAtt": 5.79,
     "comebacks": 2,
     "gwd": 2,
-    "av": 8
+    "av": 8,
+    "awards": "AP CPoY-9"
   },
   {
     "playerId": "MurrKy00",
@@ -58607,7 +58906,8 @@
     "passAdjNetYdsPerAtt": 6.23,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "AP CPoY-10"
   },
   {
     "playerId": "MurrKy00",
@@ -58672,7 +58972,8 @@
     "passAdjNetYdsPerAtt": 6.24,
     "comebacks": 1,
     "gwd": 1,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP ORoY-1"
   },
   {
     "playerId": "NewtCa00",
@@ -58738,7 +59039,8 @@
     "passAdjNetYdsPerAtt": 5.69,
     "comebacks": 4,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "NewtCa00",
@@ -58804,7 +59106,8 @@
     "passAdjNetYdsPerAtt": 7.2,
     "comebacks": 3,
     "gwd": 4,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "NewtCa00",
@@ -59066,7 +59369,8 @@
     "passAdjNetYdsPerAtt": 6.6,
     "comebacks": 1,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "OBriKe00",
@@ -59098,7 +59402,8 @@
     "passAdjNetYdsPerAtt": 5.63,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "AP OPoY-5"
   },
   {
     "playerId": "OBriKe00",
@@ -59258,7 +59563,8 @@
     "passAdjNetYdsPerAtt": 5.23,
     "comebacks": 2,
     "gwd": 5,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "OBriKe00",
@@ -59386,7 +59692,8 @@
     "passAdjNetYdsPerAtt": 5.68,
     "comebacks": 2,
     "gwd": 3,
-    "av": 9
+    "av": 9,
+    "awards": "PB"
   },
   {
     "playerId": "ODonNe00",
@@ -60095,7 +60402,8 @@
     "passAdjNetYdsPerAtt": 5.69,
     "comebacks": 2,
     "gwd": 2,
-    "av": 8
+    "av": 8,
+    "awards": "AP CPoY-7"
   },
   {
     "playerId": "OsweBr00",
@@ -60753,7 +61061,8 @@
     "passAdjNetYdsPerAtt": 7.26,
     "comebacks": 1,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-5,AP OPoY-4"
   },
   {
     "playerId": "PalmCa00",
@@ -60786,7 +61095,8 @@
     "passAdjNetYdsPerAtt": 6.79,
     "comebacks": 2,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-3"
   },
   {
     "playerId": "PalmCa00",
@@ -61083,7 +61393,8 @@
     "passAdjNetYdsPerAtt": 8.41,
     "comebacks": 1,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-4,AP CPoY-2"
   },
   {
     "playerId": "PalmCa00",
@@ -61551,7 +61862,8 @@
     "passAdjNetYdsPerAtt": 5.12,
     "comebacks": 0,
     "gwd": 1,
-    "av": 6
+    "av": 6,
+    "awards": "AP CPoY-5"
   },
   {
     "playerId": "PeetRo00",
@@ -62043,7 +62355,8 @@
     "passAdjNetYdsPerAtt": 5.44,
     "comebacks": 1,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "PennCh01",
@@ -62109,7 +62422,8 @@
     "passAdjNetYdsPerAtt": 7.19,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "AP MVP-2,AP CPoY-1"
   },
   {
     "playerId": "PennCh01",
@@ -62208,7 +62522,8 @@
     "passAdjNetYdsPerAtt": 4.7,
     "comebacks": 3,
     "gwd": 4,
-    "av": 7
+    "av": 7,
+    "awards": "AP ORoY-6"
   },
   {
     "playerId": "PickKe00",
@@ -62337,7 +62652,8 @@
     "passAdjNetYdsPerAtt": 4.42,
     "comebacks": 2,
     "gwd": 2,
-    "av": 7
+    "av": 7,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "PlumJa00",
@@ -62529,7 +62845,8 @@
     "passAdjNetYdsPerAtt": 6.63,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-8"
   },
   {
     "playerId": "PlumJa00",
@@ -62593,7 +62910,8 @@
     "passAdjNetYdsPerAtt": 6.85,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "PlumJa00",
@@ -62656,7 +62974,8 @@
     "passAdjNetYdsPerAtt": 4.12,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "PlunJi00",
@@ -63256,7 +63575,8 @@
     "passAdjNetYdsPerAtt": 7.86,
     "comebacks": 5,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-6,AP ORoY-1"
   },
   {
     "playerId": "PresDa01",
@@ -63322,7 +63642,8 @@
     "passAdjNetYdsPerAtt": 6.22,
     "comebacks": 3,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "PresDa01",
@@ -63421,7 +63742,8 @@
     "passAdjNetYdsPerAtt": 7.34,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "PresDa01",
@@ -63487,7 +63809,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 2,
     "gwd": 3,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-2,AP MVP-2,AP OPoY-5"
   },
   {
     "playerId": "PresDa01",
@@ -63798,7 +64121,8 @@
     "passAdjNetYdsPerAtt": 7.57,
     "comebacks": 1,
     "gwd": 1,
-    "av": 6
+    "av": 6,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "PurdBr00",
@@ -63831,7 +64155,8 @@
     "passAdjNetYdsPerAtt": 9.01,
     "comebacks": 0,
     "gwd": 0,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP MVP-4,AP OPoY-6,AP CPoY-6"
   },
   {
     "playerId": "PurdBr00",
@@ -64834,7 +65159,8 @@
     "passAdjNetYdsPerAtt": 4.74,
     "comebacks": 2,
     "gwd": 3,
-    "av": 6
+    "av": 6,
+    "awards": "AP CPoY-25"
   },
   {
     "playerId": "RichAn03",
@@ -65058,7 +65384,8 @@
     "passAdjNetYdsPerAtt": 6.73,
     "comebacks": 4,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "RivePh00",
@@ -65124,7 +65451,8 @@
     "passAdjNetYdsPerAtt": 8.04,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "AP MVP-6,AP OPoY-4,AP CPoY-8"
   },
   {
     "playerId": "RivePh00",
@@ -65157,7 +65485,8 @@
     "passAdjNetYdsPerAtt": 8.3,
     "comebacks": 2,
     "gwd": 4,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP MVP-3,AP OPoY-4"
   },
   {
     "playerId": "RivePh00",
@@ -65190,7 +65519,8 @@
     "passAdjNetYdsPerAtt": 7.77,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP OPoY-4"
   },
   {
     "playerId": "RivePh00",
@@ -65223,7 +65553,8 @@
     "passAdjNetYdsPerAtt": 6.64,
     "comebacks": 1,
     "gwd": 1,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "RivePh00",
@@ -65289,7 +65620,8 @@
     "passAdjNetYdsPerAtt": 7.79,
     "comebacks": 4,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP CPoY-1"
   },
   {
     "playerId": "RivePh00",
@@ -65388,7 +65720,8 @@
     "passAdjNetYdsPerAtt": 6.37,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "RivePh00",
@@ -65421,7 +65754,8 @@
     "passAdjNetYdsPerAtt": 7.6,
     "comebacks": 2,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "RivePh00",
@@ -65454,7 +65788,8 @@
     "passAdjNetYdsPerAtt": 7.79,
     "comebacks": 3,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "RivePh00",
@@ -65681,7 +66016,8 @@
     "passAdjNetYdsPerAtt": 7.47,
     "comebacks": 2,
     "gwd": 2,
-    "av": 19
+    "av": 19,
+    "awards": "PB"
   },
   {
     "playerId": "RodgAa00",
@@ -65714,7 +66050,8 @@
     "passAdjNetYdsPerAtt": 7.5,
     "comebacks": 0,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "AP OPoY-5"
   },
   {
     "playerId": "RodgAa00",
@@ -65747,7 +66084,8 @@
     "passAdjNetYdsPerAtt": 9.39,
     "comebacks": 0,
     "gwd": 1,
-    "av": 23
+    "av": 23,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "RodgAa00",
@@ -65780,7 +66118,8 @@
     "passAdjNetYdsPerAtt": 7.33,
     "comebacks": 2,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP-2,AP OPoY-3"
   },
   {
     "playerId": "RodgAa00",
@@ -65846,7 +66185,8 @@
     "passAdjNetYdsPerAtt": 8.65,
     "comebacks": 1,
     "gwd": 1,
-    "av": 22
+    "av": 22,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "RodgAa00",
@@ -65879,7 +66219,8 @@
     "passAdjNetYdsPerAtt": 6.1,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "RodgAa00",
@@ -65912,7 +66253,8 @@
     "passAdjNetYdsPerAtt": 7.24,
     "comebacks": 0,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP MVP-5,AP OPoY-2"
   },
   {
     "playerId": "RodgAa00",
@@ -65978,7 +66320,8 @@
     "passAdjNetYdsPerAtt": 6.96,
     "comebacks": 3,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "RodgAa00",
@@ -66011,7 +66354,8 @@
     "passAdjNetYdsPerAtt": 6.71,
     "comebacks": 2,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "RodgAa00",
@@ -66044,7 +66388,8 @@
     "passAdjNetYdsPerAtt": 8.89,
     "comebacks": 1,
     "gwd": 2,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "RodgAa00",
@@ -66077,7 +66422,8 @@
     "passAdjNetYdsPerAtt": 8,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-4"
   },
   {
     "playerId": "RodgAa00",
@@ -66173,7 +66519,8 @@
     "passAdjNetYdsPerAtt": 5.87,
     "comebacks": 2,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "AP CPoY-7"
   },
   {
     "playerId": "RodgAa00",
@@ -66237,7 +66584,8 @@
     "passAdjNetYdsPerAtt": 6.93,
     "comebacks": 4,
     "gwd": 5,
-    "av": 12
+    "av": 12,
+    "awards": "AP ORoY-1"
   },
   {
     "playerId": "RoetBe00",
@@ -66335,7 +66683,8 @@
     "passAdjNetYdsPerAtt": 6.55,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-3"
   },
   {
     "playerId": "RoetBe00",
@@ -66467,7 +66816,8 @@
     "passAdjNetYdsPerAtt": 6.51,
     "comebacks": 1,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "RoetBe00",
@@ -66566,7 +66916,8 @@
     "passAdjNetYdsPerAtt": 7.82,
     "comebacks": 2,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "RoetBe00",
@@ -66599,7 +66950,8 @@
     "passAdjNetYdsPerAtt": 7.15,
     "comebacks": 1,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "RoetBe00",
@@ -66632,7 +66984,8 @@
     "passAdjNetYdsPerAtt": 6.98,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "RoetBe00",
@@ -66665,7 +67018,8 @@
     "passAdjNetYdsPerAtt": 6.95,
     "comebacks": 3,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "RoetBe00",
@@ -66764,7 +67118,8 @@
     "passAdjNetYdsPerAtt": 6.27,
     "comebacks": 4,
     "gwd": 4,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-2"
   },
   {
     "playerId": "RoetBe00",
@@ -66868,7 +67223,8 @@
     "passAdjNetYdsPerAtt": 7.19,
     "comebacks": 2,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "RomoTo00",
@@ -66901,7 +67257,8 @@
     "passAdjNetYdsPerAtt": 7.17,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "RomoTo00",
@@ -66967,7 +67324,8 @@
     "passAdjNetYdsPerAtt": 7.54,
     "comebacks": 3,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "RomoTo00",
@@ -67132,7 +67490,8 @@
     "passAdjNetYdsPerAtt": 8.11,
     "comebacks": 3,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-5"
   },
   {
     "playerId": "RomoTo00",
@@ -68192,7 +68551,8 @@
     "passAdjNetYdsPerAtt": 7.01,
     "comebacks": 2,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "AP ORoY-1"
   },
   {
     "playerId": "RyanMa00",
@@ -68258,7 +68618,8 @@
     "passAdjNetYdsPerAtt": 6.23,
     "comebacks": 5,
     "gwd": 6,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "RyanMa00",
@@ -68324,7 +68685,8 @@
     "passAdjNetYdsPerAtt": 7.03,
     "comebacks": 4,
     "gwd": 6,
-    "av": 18
+    "av": 18,
+    "awards": "PB"
   },
   {
     "playerId": "RyanMa00",
@@ -68390,7 +68752,8 @@
     "passAdjNetYdsPerAtt": 6.71,
     "comebacks": 3,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "RyanMa00",
@@ -68456,7 +68819,8 @@
     "passAdjNetYdsPerAtt": 9.03,
     "comebacks": 1,
     "gwd": 2,
-    "av": 21
+    "av": 21,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "RyanMa00",
@@ -69114,7 +69478,8 @@
     "passAdjNetYdsPerAtt": 7.14,
     "comebacks": 3,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "RypiMa00",
@@ -69178,7 +69543,8 @@
     "passAdjNetYdsPerAtt": 8.34,
     "comebacks": 2,
     "gwd": 5,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP-2,AP MVP-4,AP OPoY-4"
   },
   {
     "playerId": "RypiMa00",
@@ -69875,7 +70241,8 @@
     "passAdjNetYdsPerAtt": 7.44,
     "comebacks": 2,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "SchaMa00",
@@ -69974,7 +70341,8 @@
     "passAdjNetYdsPerAtt": 6.47,
     "comebacks": 2,
     "gwd": 2,
-    "av": 11
+    "av": 11,
+    "awards": "PB"
   },
   {
     "playerId": "SchaMa00",
@@ -70252,7 +70620,8 @@
     "passAdjNetYdsPerAtt": 5.83,
     "comebacks": 4,
     "gwd": 5,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "SchrJa00",
@@ -70918,7 +71287,8 @@
     "passAdjNetYdsPerAtt": 3.47,
     "comebacks": 0,
     "gwd": 0,
-    "av": 6
+    "av": 6,
+    "awards": "AP ORoY-2"
   },
   {
     "playerId": "SimmPh00",
@@ -71083,7 +71453,8 @@
     "passAdjNetYdsPerAtt": 5.44,
     "comebacks": 0,
     "gwd": 0,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "SimmPh00",
@@ -71339,7 +71710,8 @@
     "passAdjNetYdsPerAtt": 6.22,
     "comebacks": 3,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP MVP-8"
   },
   {
     "playerId": "SipeBr00",
@@ -71523,7 +71895,8 @@
     "passAdjNetYdsPerAtt": 4.91,
     "comebacks": 5,
     "gwd": 7,
-    "av": 14
+    "av": 14,
+    "awards": "AP-2,AP MVP-3,AP OPoY-3"
   },
   {
     "playerId": "SipeBr00",
@@ -71555,7 +71928,8 @@
     "passAdjNetYdsPerAtt": 6.73,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "SipeBr00",
@@ -71953,7 +72327,8 @@
     "passAdjNetYdsPerAtt": 6.13,
     "comebacks": 5,
     "gwd": 5,
-    "av": 13
+    "av": 13,
+    "awards": "AP CPoY-3"
   },
   {
     "playerId": "SmitAl03",
@@ -72019,7 +72394,8 @@
     "passAdjNetYdsPerAtt": 5.94,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP CPoY-6"
   },
   {
     "playerId": "SmitAl03",
@@ -72118,7 +72494,8 @@
     "passAdjNetYdsPerAtt": 6.39,
     "comebacks": 3,
     "gwd": 3,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "SmitAl03",
@@ -72151,7 +72528,8 @@
     "passAdjNetYdsPerAtt": 7.65,
     "comebacks": 1,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "SmitAl03",
@@ -72223,7 +72601,8 @@
     "passAdjNetYdsPerAtt": 4.39,
     "comebacks": 1,
     "gwd": 1,
-    "av": 1
+    "av": 1,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "SmitGe00",
@@ -72516,7 +72895,8 @@
     "passAdjNetYdsPerAtt": 6.54,
     "comebacks": 2,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-9,AP CPoY-1"
   },
   {
     "playerId": "SmitGe00",
@@ -72549,7 +72929,8 @@
     "passAdjNetYdsPerAtt": 6.39,
     "comebacks": 4,
     "gwd": 5,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "SmitGe00",
@@ -72733,7 +73114,8 @@
     "passAdjNetYdsPerAtt": 5.33,
     "comebacks": 1,
     "gwd": 3,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "StabKe00",
@@ -72763,7 +73145,8 @@
     "passAdjNetYdsPerAtt": 7.04,
     "comebacks": 2,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "StabKe00",
@@ -72823,7 +73206,8 @@
     "passAdjNetYdsPerAtt": 7.45,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2,AP MVP-3,AP OPoY-2"
   },
   {
     "playerId": "StabKe00",
@@ -72853,7 +73237,8 @@
     "passAdjNetYdsPerAtt": 4.95,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "StabKe00",
@@ -72917,7 +73302,8 @@
     "passAdjNetYdsPerAtt": 5.38,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "AP MVP-8"
   },
   {
     "playerId": "StabKe00",
@@ -73175,7 +73561,8 @@
     "passAdjNetYdsPerAtt": 6.98,
     "comebacks": 3,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "AP CPoY-1"
   },
   {
     "playerId": "StafMa00",
@@ -73274,7 +73661,8 @@
     "passAdjNetYdsPerAtt": 6.03,
     "comebacks": 5,
     "gwd": 5,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "StafMa00",
@@ -73571,7 +73959,8 @@
     "passAdjNetYdsPerAtt": 6.8,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP MVP-8,AP CPoY-4"
   },
   {
     "playerId": "StafMa00",
@@ -73667,7 +74056,8 @@
     "passAdjNetYdsPerAtt": 10,
     "comebacks": 0,
     "gwd": 0,
-    "av": 3
+    "av": 3,
+    "awards": "AP ORoY-4"
   },
   {
     "playerId": "StewKo00",
@@ -73827,7 +74217,8 @@
     "passAdjNetYdsPerAtt": 4.92,
     "comebacks": 1,
     "gwd": 1,
-    "av": 10
+    "av": 10,
+    "awards": "AP CPoY-12"
   },
   {
     "playerId": "StewKo00",
@@ -73859,7 +74250,8 @@
     "passAdjNetYdsPerAtt": 5.77,
     "comebacks": 1,
     "gwd": 1,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-4,AP CPoY-2"
   },
   {
     "playerId": "StewKo00",
@@ -74231,7 +74623,8 @@
     "passAdjNetYdsPerAtt": 7.47,
     "comebacks": 1,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-8,AP ORoY-1"
   },
   {
     "playerId": "StroCJ00",
@@ -74395,7 +74788,8 @@
     "passAdjNetYdsPerAtt": 8.37,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "AP MVP-9"
   },
   {
     "playerId": "TagoTu00",
@@ -74428,7 +74822,8 @@
     "passAdjNetYdsPerAtt": 7.48,
     "comebacks": 2,
     "gwd": 2,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP CPoY-5"
   },
   {
     "playerId": "TagoTu00",
@@ -74724,7 +75119,8 @@
     "passAdjNetYdsPerAtt": 8.52,
     "comebacks": 2,
     "gwd": 3,
-    "av": 11
+    "av": 11,
+    "awards": "PB,AP CPoY-1"
   },
   {
     "playerId": "TannRy00",
@@ -75003,7 +75399,8 @@
     "passAdjNetYdsPerAtt": 7.1,
     "comebacks": 1,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "TaylTy00",
@@ -75747,7 +76144,8 @@
     "passAdjNetYdsPerAtt": 6.37,
     "comebacks": 2,
     "gwd": 3,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "TestVi00",
@@ -75811,7 +76209,8 @@
     "passAdjNetYdsPerAtt": 7.68,
     "comebacks": 3,
     "gwd": 3,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP OPoY-7,AP CPoY-3"
   },
   {
     "playerId": "TestVi00",
@@ -75875,7 +76274,8 @@
     "passAdjNetYdsPerAtt": 4.9,
     "comebacks": 4,
     "gwd": 4,
-    "av": 9
+    "av": 9,
+    "awards": "AP CPoY-7"
   },
   {
     "playerId": "TestVi00",
@@ -76378,7 +76778,8 @@
     "passAdjNetYdsPerAtt": 5.9,
     "comebacks": 2,
     "gwd": 2,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP MVP-4"
   },
   {
     "playerId": "TheiJo00",
@@ -76410,7 +76811,8 @@
     "passAdjNetYdsPerAtt": 7.22,
     "comebacks": 2,
     "gwd": 4,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "TheiJo00",
@@ -78103,7 +78505,8 @@
     "passAdjNetYdsPerAtt": 6.59,
     "comebacks": 1,
     "gwd": 2,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "TrubMi00",
@@ -78979,7 +79382,8 @@
     "passAdjNetYdsPerAtt": 5.93,
     "comebacks": 2,
     "gwd": 2,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP MVP-4"
   },
   {
     "playerId": "VickMi00",
@@ -79043,7 +79447,8 @@
     "passAdjNetYdsPerAtt": 4.87,
     "comebacks": 3,
     "gwd": 4,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP MVP-2,AP OPoY-5,AP CPoY-6"
   },
   {
     "playerId": "VickMi00",
@@ -79075,7 +79480,8 @@
     "passAdjNetYdsPerAtt": 4.59,
     "comebacks": 0,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB"
   },
   {
     "playerId": "VickMi00",
@@ -79185,7 +79591,8 @@
     "passAdjNetYdsPerAtt": 7.29,
     "comebacks": 4,
     "gwd": 3,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP OPoY-2,AP CPoY-1"
   },
   {
     "playerId": "VickMi00",
@@ -80311,7 +80718,8 @@
     "passAdjNetYdsPerAtt": 8.31,
     "comebacks": 0,
     "gwd": 0,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "WarnKu00",
@@ -80343,7 +80751,8 @@
     "passAdjNetYdsPerAtt": 7.97,
     "comebacks": 1,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "WarnKu00",
@@ -80375,7 +80784,8 @@
     "passAdjNetYdsPerAtt": 7.41,
     "comebacks": 1,
     "gwd": 2,
-    "av": 20
+    "av": 20,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "WarnKu00",
@@ -80602,7 +81012,8 @@
     "passAdjNetYdsPerAtt": 7,
     "comebacks": 1,
     "gwd": 1,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP MVP-7,AP CPoY-4"
   },
   {
     "playerId": "WarnKu00",
@@ -80668,7 +81079,8 @@
     "passAdjNetYdsPerAtt": 7.19,
     "comebacks": 0,
     "gwd": 0,
-    "av": 7
+    "av": 7,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "WatsDe00",
@@ -80701,7 +81113,8 @@
     "passAdjNetYdsPerAtt": 6.87,
     "comebacks": 5,
     "gwd": 5,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "WatsDe00",
@@ -80734,7 +81147,8 @@
     "passAdjNetYdsPerAtt": 6.63,
     "comebacks": 3,
     "gwd": 5,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "WatsDe00",
@@ -80767,7 +81181,8 @@
     "passAdjNetYdsPerAtt": 8.22,
     "comebacks": 0,
     "gwd": 0,
-    "av": 16
+    "av": 16,
+    "awards": "PB"
   },
   {
     "playerId": "WatsDe00",
@@ -81307,7 +81722,8 @@
     "passAdjNetYdsPerAtt": 7.43,
     "comebacks": 1,
     "gwd": 1,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2,AP MVP-3"
   },
   {
     "playerId": "WentCa00",
@@ -81373,7 +81789,8 @@
     "passAdjNetYdsPerAtt": 6.26,
     "comebacks": 2,
     "gwd": 4,
-    "av": 12
+    "av": 12,
+    "awards": "AP CPoY-5"
   },
   {
     "playerId": "WentCa00",
@@ -81787,7 +82204,8 @@
     "passAdjNetYdsPerAtt": 5.86,
     "comebacks": 0,
     "gwd": 0,
-    "av": 18
+    "av": 18,
+    "awards": "PB,AP-2,AP MVP-5,AP OPoY-4"
   },
   {
     "playerId": "WhitDa01",
@@ -82551,7 +82969,8 @@
     "passAdjNetYdsPerAtt": 7.01,
     "comebacks": 3,
     "gwd": 4,
-    "av": 16
+    "av": 16,
+    "awards": "PB,AP ORoY-3"
   },
   {
     "playerId": "WilsRu00",
@@ -82584,7 +83003,8 @@
     "passAdjNetYdsPerAtt": 7.1,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "PB,AP OPoY-4"
   },
   {
     "playerId": "WilsRu00",
@@ -82617,7 +83037,8 @@
     "passAdjNetYdsPerAtt": 6.72,
     "comebacks": 1,
     "gwd": 4,
-    "av": 19
+    "av": 19,
+    "awards": "PB"
   },
   {
     "playerId": "WilsRu00",
@@ -82650,7 +83071,8 @@
     "passAdjNetYdsPerAtt": 7.73,
     "comebacks": 2,
     "gwd": 2,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP OPoY-3"
   },
   {
     "playerId": "WilsRu00",
@@ -82716,7 +83138,8 @@
     "passAdjNetYdsPerAtt": 6.45,
     "comebacks": 2,
     "gwd": 2,
-    "av": 15
+    "av": 15,
+    "awards": "PB"
   },
   {
     "playerId": "WilsRu00",
@@ -82749,7 +83172,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 2,
     "gwd": 4,
-    "av": 14
+    "av": 14,
+    "awards": "PB"
   },
   {
     "playerId": "WilsRu00",
@@ -82782,7 +83206,8 @@
     "passAdjNetYdsPerAtt": 7.42,
     "comebacks": 4,
     "gwd": 5,
-    "av": 15
+    "av": 15,
+    "awards": "PB,AP-2,AP OPoY-4"
   },
   {
     "playerId": "WilsRu00",
@@ -82815,7 +83240,8 @@
     "passAdjNetYdsPerAtt": 6.82,
     "comebacks": 3,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "PB"
   },
   {
     "playerId": "WilsRu00",
@@ -82848,7 +83274,8 @@
     "passAdjNetYdsPerAtt": 7.11,
     "comebacks": 0,
     "gwd": 1,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "WilsRu00",
@@ -82947,7 +83374,8 @@
     "passAdjNetYdsPerAtt": 6.39,
     "comebacks": 1,
     "gwd": 1,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP CPoY-14"
   },
   {
     "playerId": "WilsRu00",
@@ -83202,7 +83630,8 @@
     "passAdjNetYdsPerAtt": 6.61,
     "comebacks": 0,
     "gwd": 0,
-    "av": 10
+    "av": 10,
+    "awards": "PB"
   },
   {
     "playerId": "WilsWa00",
@@ -83682,7 +84111,8 @@
     "passAdjNetYdsPerAtt": 6.44,
     "comebacks": 2,
     "gwd": 3,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP ORoY-2"
   },
   {
     "playerId": "WinsJa00",
@@ -84009,7 +84439,8 @@
     "passAdjNetYdsPerAtt": 3.6,
     "comebacks": 1,
     "gwd": 2,
-    "av": 5
+    "av": 5,
+    "awards": "AP ORoY-3"
   },
   {
     "playerId": "WoodDa00",
@@ -84683,7 +85114,8 @@
     "passAdjNetYdsPerAtt": 8.12,
     "comebacks": 3,
     "gwd": 5,
-    "av": 22
+    "av": 22,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-1"
   },
   {
     "playerId": "YounSt00",
@@ -84715,7 +85147,8 @@
     "passAdjNetYdsPerAtt": 7.55,
     "comebacks": 0,
     "gwd": 0,
-    "av": 22
+    "av": 22,
+    "awards": "PB,AP-1,AP MVP-2,AP OPoY-2"
   },
   {
     "playerId": "YounSt00",
@@ -84747,7 +85180,8 @@
     "passAdjNetYdsPerAtt": 8.24,
     "comebacks": 1,
     "gwd": 1,
-    "av": 22
+    "av": 22,
+    "awards": "PB,AP-1,AP MVP-1,AP OPoY-2"
   },
   {
     "playerId": "YounSt00",
@@ -84779,7 +85213,8 @@
     "passAdjNetYdsPerAtt": 6.33,
     "comebacks": 0,
     "gwd": 0,
-    "av": 13
+    "av": 13,
+    "awards": "PB,AP-2"
   },
   {
     "playerId": "YounSt00",
@@ -84811,7 +85246,8 @@
     "passAdjNetYdsPerAtt": 6.46,
     "comebacks": 2,
     "gwd": 2,
-    "av": 12
+    "av": 12,
+    "awards": "PB"
   },
   {
     "playerId": "YounSt00",
@@ -84843,7 +85279,8 @@
     "passAdjNetYdsPerAtt": 7.47,
     "comebacks": 1,
     "gwd": 1,
-    "av": 14
+    "av": 14,
+    "awards": "PB,AP-2,AP MVP-4"
   },
   {
     "playerId": "YounSt00",
@@ -84875,7 +85312,8 @@
     "passAdjNetYdsPerAtt": 7.28,
     "comebacks": 2,
     "gwd": 3,
-    "av": 19
+    "av": 19,
+    "awards": "PB,AP-2,AP OPoY-4"
   },
   {
     "playerId": "YounSt00",
@@ -84940,7 +85378,8 @@
     "passAdjNetYdsPerAtt": 4.52,
     "comebacks": 4,
     "gwd": 5,
-    "av": 9
+    "av": 9,
+    "awards": "PB,AP ORoY-1"
   },
   {
     "playerId": "YounVi00",
@@ -85039,7 +85478,8 @@
     "passAdjNetYdsPerAtt": 6.45,
     "comebacks": 3,
     "gwd": 6,
-    "av": 8
+    "av": 8,
+    "awards": "PB,AP CPoY-3"
   },
   {
     "playerId": "YounVi00",
@@ -85197,7 +85637,8 @@
     "passAdjNetYdsPerAtt": 4.93,
     "comebacks": 3,
     "gwd": 4,
-    "av": 17
+    "av": 17,
+    "awards": "AP-2,AP MVP-3,AP OPoY-3"
   },
   {
     "playerId": "ZornJi00",
@@ -85229,7 +85670,8 @@
     "passAdjNetYdsPerAtt": 5.78,
     "comebacks": 2,
     "gwd": 3,
-    "av": 17
+    "av": 17,
+    "awards": "AP OPoY-4"
   },
   {
     "playerId": "ZornJi00",

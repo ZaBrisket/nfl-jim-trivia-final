@@ -16,7 +16,8 @@ export interface SeasonRow {
   year: number;
   team: string;
   games: number;
-  [k: string]: number | string;
+  awards?: string;
+  [k: string]: number | string | undefined;
 }
 
 export interface DataStatus {

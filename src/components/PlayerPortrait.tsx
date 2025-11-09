@@ -1,6 +1,6 @@
 import React from 'react';
 import { Player, Position, SeasonRow } from '../types';
-import { usePlayerSeasons } from '../hooks/usePlayerSeasons';
+import { SeasonState, usePlayerSeasons } from '../hooks/usePlayerSeasons';
 
 type ColumnConfig = {
   key: string;
@@ -8,6 +8,7 @@ type ColumnConfig = {
   width?: string;
   align?: 'left' | 'center' | 'right';
   decimals?: number;
+  format?: 'number' | 'plain';
 };
 
 type PortraitConfig = {
@@ -19,6 +20,7 @@ type PortraitConfig = {
 type PlayerPortraitProps = {
   player: Player;
   hideIdentity?: boolean;
+  seasonState?: SeasonState;
 };
 
 const formatNumber = (value: number, decimals: number = 0): string => {
@@ -162,7 +164,7 @@ const buildReceiverTotals = (rows: SeasonRow[]): Record<string, number | string>
 const PORTRAIT_CONFIG: Record<Position, PortraitConfig> = {
   QB: {
     columns: [
-      { key: 'year', label: 'Season', width: '70px', align: 'left' },
+      { key: 'year', label: 'Season', width: '70px', align: 'left', format: 'plain' },
       { key: 'team', label: 'Tm', width: '50px', align: 'center' },
       { key: 'games', label: 'G', align: 'right' },
       { key: 'gamesStarted', label: 'GS', align: 'right' },
@@ -183,7 +185,7 @@ const PORTRAIT_CONFIG: Record<Position, PortraitConfig> = {
   },
   RB: {
     columns: [
-      { key: 'year', label: 'Season', width: '70px', align: 'left' },
+      { key: 'year', label: 'Season', width: '70px', align: 'left', format: 'plain' },
       { key: 'team', label: 'Tm', width: '50px', align: 'center' },
       { key: 'games', label: 'G', align: 'right' },
       { key: 'gamesStarted', label: 'GS', align: 'right' },
@@ -208,7 +210,7 @@ const PORTRAIT_CONFIG: Record<Position, PortraitConfig> = {
   },
   WR: {
     columns: [
-      { key: 'year', label: 'Season', width: '70px', align: 'left' },
+      { key: 'year', label: 'Season', width: '70px', align: 'left', format: 'plain' },
       { key: 'team', label: 'Tm', width: '50px', align: 'center' },
       { key: 'games', label: 'G', align: 'right' },
       { key: 'gamesStarted', label: 'GS', align: 'right' },
@@ -232,7 +234,7 @@ const PORTRAIT_CONFIG: Record<Position, PortraitConfig> = {
   },
   TE: {
     columns: [
-      { key: 'year', label: 'Season', width: '70px', align: 'left' },
+      { key: 'year', label: 'Season', width: '70px', align: 'left', format: 'plain' },
       { key: 'team', label: 'Tm', width: '50px', align: 'center' },
       { key: 'games', label: 'G', align: 'right' },
       { key: 'gamesStarted', label: 'GS', align: 'right' },
@@ -253,16 +255,20 @@ const PORTRAIT_CONFIG: Record<Position, PortraitConfig> = {
   }
 };
 
-const renderValue = (value: number | string | undefined, decimals?: number): string => {
-  if (value === undefined || value === null) return '—';
+const renderValue = (value: number | string | undefined, column: ColumnConfig): string => {
+  if (value === undefined || value === null) return '-';
+  if (column.format === 'plain') {
+    return String(value);
+  }
   if (typeof value === 'number') {
-    return formatNumber(value, decimals);
+    return formatNumber(value, column.decimals);
   }
   return value;
 };
 
-export const PlayerPortrait: React.FC<PlayerPortraitProps> = ({ player, hideIdentity = false }) => {
-  const { status, seasons, error } = usePlayerSeasons(player);
+export const PlayerPortrait: React.FC<PlayerPortraitProps> = ({ player, hideIdentity = false, seasonState }) => {
+  const hookState = usePlayerSeasons(seasonState ? null : player);
+  const { status, seasons, error } = seasonState ?? hookState;
   const config = PORTRAIT_CONFIG[player.position];
   const totals = React.useMemo(() => config.buildTotals(seasons), [config, seasons]);
   const headline = hideIdentity ? `${player.position} Career Snapshot` : `${player.displayName} Career Snapshot`;
@@ -318,7 +324,7 @@ export const PlayerPortrait: React.FC<PlayerPortraitProps> = ({ player, hideIden
                       key={column.key}
                       style={{ textAlign: column.align }}
                     >
-                      {renderValue(row[column.key], column.decimals)}
+                      {renderValue(row[column.key], column)}
                     </td>
                   ))}
                 </tr>
@@ -332,7 +338,7 @@ export const PlayerPortrait: React.FC<PlayerPortraitProps> = ({ player, hideIden
                     >
                       {index === 0
                         ? 'Career'
-                        : renderValue(totals[column.key], column.decimals)}
+                        : renderValue(totals[column.key], column)}
                     </td>
                   ))}
                 </tr>

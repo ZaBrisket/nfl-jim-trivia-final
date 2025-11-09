@@ -18,7 +18,7 @@ import { Player } from '../types';
 import { saveState, addRecentPlayer, updateGameStats, updateDailyStreak, getDailyStreakSnapshot } from '../utils/optimizedStorage';
 import { usePlayerProfile } from '../hooks/usePlayerProfile';
 import { useTimerPreference } from '../hooks/useTimerPreference';
-import { getGuessFeedback } from '../utils/playerInsights';
+import { getGuessFeedback, PlayerHint } from '../utils/playerInsights';
 
 function pickDaily(players: Player[]): Player {
   const key = chicagoDateString(new Date());
@@ -35,13 +35,18 @@ const Daily: React.FC = () => {
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
   const [key] = React.useState<string>(chicagoDateString());
   const [streakInfo, setStreakInfo] = React.useState(() => getDailyStreakSnapshot());
-  const [revealedHints, setRevealedHints] = React.useState<string[]>([]);
+  const [revealedHints, setRevealedHints] = React.useState<PlayerHint[]>([]);
   const [guessFeedback, setGuessFeedback] = React.useState<string | null>(null);
   const [timerMode, setTimerMode] = useTimerPreference();
   const timerDescriptor = describeTimerMode(timerMode);
   const profile = usePlayerProfile(target);
   const hintCap = Math.min(MAX_HINTS, profile.hints.length || MAX_HINTS);
-  const hintsUsed = state.tag === 'active' || state.tag === 'revealed' ? state.hintsUsed : 0;
+  let hintsUsed = 0;
+  if (state.tag === 'active') {
+    hintsUsed = state.hintsUsed;
+  } else if (state.tag === 'revealed') {
+    hintsUsed = state.hintsUsed;
+  }
 
   React.useEffect(() => {
     if (data?.players?.length && state.tag === 'idle') {
@@ -88,13 +93,13 @@ const Daily: React.FC = () => {
 
   const onHint = React.useCallback(() => {
     if (state.tag !== 'active') return;
-    if (state.hintsUsed >= hintCap) return;
+    if (hintsUsed >= hintCap) return;
     dispatch({ type: 'hint' });
     setRevealedHints((prev) => {
       const nextHint = profile.hints[prev.length];
       return nextHint ? [...prev, nextHint] : prev;
     });
-  }, [state.tag, state.hintsUsed, hintCap, profile.hints]);
+  }, [state.tag, hintsUsed, hintCap, profile.hints]);
 
   const onGiveUp = React.useCallback(() => {
     if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' });

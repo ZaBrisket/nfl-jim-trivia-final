@@ -19,7 +19,7 @@ import { MAX_HINTS, initialState, reducer } from '../state/gameMachine';
 import { addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
 import { randomInt } from '../utils/random';
 import { getPlayerDifficulty } from '../utils/difficulty';
-import { getGuessFeedback } from '../utils/playerInsights';
+import { getGuessFeedback, PlayerHint } from '../utils/playerInsights';
 import { Player } from '../types';
 
 const PLAYERS_PER_ROUND = 5;
@@ -126,13 +126,18 @@ const Game: React.FC = () => {
   const [playerIndex, setPlayerIndex] = React.useState(0);
   const [target, setTarget] = React.useState<Player | null>(null);
   const [usedPlayerIds, setUsedPlayerIds] = React.useState<string[]>([]);
-  const [revealedHints, setRevealedHints] = React.useState<string[]>([]);
+  const [revealedHints, setRevealedHints] = React.useState<PlayerHint[]>([]);
   const [guessFeedback, setGuessFeedback] = React.useState<string | null>(null);
   const usedIdSet = React.useMemo(() => new Set(usedPlayerIds), [usedPlayerIds]);
 
   const profile = usePlayerProfile(target);
   const hintCap = Math.min(MAX_HINTS, profile.hints.length || MAX_HINTS);
-  const hintsUsed = state.tag === 'active' || state.tag === 'revealed' ? state.hintsUsed : 0;
+  let hintsUsed = 0;
+  if (state.tag === 'active') {
+    hintsUsed = state.hintsUsed;
+  } else if (state.tag === 'revealed') {
+    hintsUsed = state.hintsUsed;
+  }
 
   const difficultyLabel = Math.min(roundNumber, MAX_DIFFICULTY_LEVEL);
   const currentPlayerNumber = target ? playerIndex + 1 : 1;
@@ -219,13 +224,13 @@ const Game: React.FC = () => {
 
   const onHint = React.useCallback(() => {
     if (state.tag !== 'active') return;
-    if (state.hintsUsed >= hintCap) return;
+    if (hintsUsed >= hintCap) return;
     dispatch({ type: 'hint' });
     setRevealedHints((prev) => {
       const nextHint = profile.hints[prev.length];
       return nextHint ? [...prev, nextHint] : prev;
     });
-  }, [state.tag, state.hintsUsed, hintCap, profile.hints]);
+  }, [state.tag, hintsUsed, hintCap, profile.hints]);
 
   const onGiveUp = React.useCallback(() => {
     if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' });

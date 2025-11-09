@@ -49,7 +49,7 @@ function keyToDate(key: string): Date | null {
   if (parts.length !== 3 || parts.some(part => Number.isNaN(part))) {
     return null;
   }
-  const [year, month, day] = parts;
+  const [year, month, day] = parts as [number, number, number];
   return new Date(Date.UTC(year, month - 1, day));
 }
 
