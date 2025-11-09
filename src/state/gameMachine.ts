@@ -2,11 +2,13 @@ import { ROUND_SECONDS } from '../utils/date';
 import { RoundState } from '../types';
 
 // Configuration constants
-const MAX_GUESSES = 3;
-const MAX_HINTS = 5;
+export const MAX_GUESSES = 3;
+export const MAX_HINTS = 5;
 const MAX_SCORE = 10;
 const MIN_SCORE = 0;
 const MAX_GUESS_LENGTH = 100;
+const MIN_ROUND_SECONDS = 30;
+const MAX_ROUND_SECONDS = 180;
 
 // Time provider for deterministic testing
 export interface TimeProvider {
@@ -44,7 +46,7 @@ export class GameStateError extends Error {
 }
 
 export type Action =
-  | { type: 'start' }
+  | { type: 'start'; durationSeconds?: number }
   | { type: 'tick'; nowMs: number }
   | { type: 'guess'; text: string }
   | { type: 'hint' }
@@ -127,6 +129,14 @@ function clampScore(score: number): number {
   return Math.max(MIN_SCORE, Math.min(MAX_SCORE, Math.floor(score)));
 }
 
+function getDurationSeconds(durationSeconds?: number): number {
+  if (!Number.isFinite(durationSeconds ?? NaN)) {
+    return ROUND_SECONDS;
+  }
+  const value = Math.round(durationSeconds as number);
+  return Math.max(MIN_ROUND_SECONDS, Math.min(MAX_ROUND_SECONDS, value));
+}
+
 export function initialState(): RoundState {
   return { tag: 'idle' };
 }
@@ -156,10 +166,11 @@ export function reducer(state: RoundState, action: Action): RoundState {
       case 'idle': {
         if (action.type === 'start') {
           const now = timeProvider.now();
+          const durationSeconds = getDurationSeconds(action.durationSeconds);
           const newState: RoundState = {
             tag: 'active',
             startedAtMs: now,
-            deadlineMs: now + ROUND_SECONDS * 1000,
+            deadlineMs: now + durationSeconds * 1000,
             guesses: [],
             hintsUsed: 0,
             score: 5

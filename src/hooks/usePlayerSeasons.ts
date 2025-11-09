@@ -2,7 +2,7 @@ import React from 'react';
 import { Player, SeasonRow } from '../types';
 import { useData } from '../context/DataContext';
 
-type SeasonState =
+export type SeasonState =
   | { status: 'idle'; seasons: SeasonRow[]; error?: undefined }
   | { status: 'loading'; seasons: SeasonRow[]; error?: undefined }
   | { status: 'ready'; seasons: SeasonRow[]; error?: undefined }

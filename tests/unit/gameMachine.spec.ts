@@ -67,6 +67,29 @@ describe('Game Machine', () => {
       });
     });
 
+    it('should honor custom duration when provided', () => {
+      const action: Action = { type: 'start', durationSeconds: 90 };
+      const newState = reducer(idleState, action);
+      expect(newState.tag).toBe('active');
+      if (newState.tag === 'active') {
+        expect(newState.deadlineMs).toBe(1000000 + 90000);
+      }
+    });
+
+    it('should clamp unreasonable custom durations', () => {
+      const shortAction: Action = { type: 'start', durationSeconds: 10 };
+      let newState = reducer(idleState, shortAction);
+      if (newState.tag === 'active') {
+        expect(newState.deadlineMs).toBe(1000000 + 30000); // min 30 seconds
+      }
+
+      const longAction: Action = { type: 'start', durationSeconds: 999 };
+      newState = reducer(idleState, longAction);
+      if (newState.tag === 'active') {
+        expect(newState.deadlineMs).toBe(1000000 + 180000); // max 180 seconds
+      }
+    });
+
     it('should remain idle on reset action', () => {
       const action: Action = { type: 'reset' };
       const newState = reducer(idleState, action);

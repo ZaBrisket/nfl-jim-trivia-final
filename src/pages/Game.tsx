@@ -4,14 +4,22 @@ import { useData } from '../context/DataContext';
 import { DataStatusBanner } from '../components/DataStatusBanner';
 import { GuessInput } from '../components/GuessInput';
 import { HintButtons } from '../components/HintButtons';
+import { HintList } from '../components/HintList';
 import { KeyboardShortcuts } from '../components/KeyboardShortcuts';
 import { Timer } from '../components/Timer';
 import { PlayerPortrait } from '../components/PlayerPortrait';
+import { ScoreBoard } from '../components/ScoreBoard';
+import { TimerModeSelector } from '../components/TimerModeSelector';
+import { PlayerContextPanel } from '../components/PlayerContextPanel';
+import { usePlayerProfile } from '../hooks/usePlayerProfile';
+import { useTimerPreference } from '../hooks/useTimerPreference';
+import { describeTimerMode, getTimerSeconds } from '../utils/date';
 import { isNameMatch } from '../utils/optimizedFuzzy';
-import { initialState, reducer } from '../state/gameMachine';
+import { MAX_HINTS, initialState, reducer } from '../state/gameMachine';
 import { addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimizedStorage';
 import { randomInt } from '../utils/random';
 import { getPlayerDifficulty } from '../utils/difficulty';
+import { getGuessFeedback } from '../utils/playerInsights';
 import { Player } from '../types';
 
 const PLAYERS_PER_ROUND = 5;
@@ -19,6 +27,14 @@ const MAX_DIFFICULTY_LEVEL = 10;
 const DIFFICULTY_WINDOW_RATIO = 0.12;
 
 type ScoredPlayer = { player: Player; difficulty: number };
+
+type SessionStats = {
+  totalScore: number;
+  playersSolved: number;
+  playersSeen: number;
+  currentStreak: number;
+  bestStreak: number;
+};
 
 const clamp = (value: number, min: number, max: number) => Math.min(Math.max(value, min), max);
 
@@ -83,6 +99,8 @@ const Game: React.FC = () => {
   const nav = useNavigate();
   const { status, data } = useData();
   const players = data?.players ?? [];
+  const [timerMode, setTimerMode] = useTimerPreference();
+  const timerDescriptor = describeTimerMode(timerMode);
 
   const scoredPlayers = React.useMemo<ScoredPlayer[]>(() => {
     if (!players.length) return [];
@@ -96,12 +114,25 @@ const Game: React.FC = () => {
 
   const [state, dispatch] = React.useReducer(reducer, undefined, initialState);
   const [streakInfo, setStreakInfo] = React.useState({ current: 0, best: 0 });
+  const [sessionStats, setSessionStats] = React.useState<SessionStats>({
+    totalScore: 0,
+    playersSolved: 0,
+    playersSeen: 0,
+    currentStreak: 0,
+    bestStreak: 0
+  });
   const [roundNumber, setRoundNumber] = React.useState(1);
   const [roundPlayers, setRoundPlayers] = React.useState<Player[]>([]);
   const [playerIndex, setPlayerIndex] = React.useState(0);
   const [target, setTarget] = React.useState<Player | null>(null);
   const [usedPlayerIds, setUsedPlayerIds] = React.useState<string[]>([]);
+  const [revealedHints, setRevealedHints] = React.useState<string[]>([]);
+  const [guessFeedback, setGuessFeedback] = React.useState<string | null>(null);
   const usedIdSet = React.useMemo(() => new Set(usedPlayerIds), [usedPlayerIds]);
+
+  const profile = usePlayerProfile(target);
+  const hintCap = Math.min(MAX_HINTS, profile.hints.length || MAX_HINTS);
+  const hintsUsed = state.tag === 'active' || state.tag === 'revealed' ? state.hintsUsed : 0;
 
   const difficultyLabel = Math.min(roundNumber, MAX_DIFFICULTY_LEVEL);
   const currentPlayerNumber = target ? playerIndex + 1 : 1;
@@ -131,7 +162,17 @@ const Game: React.FC = () => {
     setTarget(nextTarget);
   }, [roundPlayers, playerIndex]);
 
-  // Track game stats when each player is revealed
+  React.useEffect(() => {
+    setRevealedHints([]);
+    setGuessFeedback(null);
+  }, [target?.id]);
+
+  React.useEffect(() => {
+    if (state.tag !== 'active') {
+      setGuessFeedback(null);
+    }
+  }, [state.tag]);
+
   React.useEffect(() => {
     if (state.tag === 'revealed' && target) {
       const correct = state.reason === 'solved';
@@ -141,31 +182,57 @@ const Game: React.FC = () => {
       const newStreak = updateStreak(correct);
       setStreakInfo(newStreak);
       addRecentPlayer(target.id);
+
+      setSessionStats(prev => {
+        const playersSeen = prev.playersSeen + 1;
+        const playersSolved = correct ? prev.playersSolved + 1 : prev.playersSolved;
+        const currentStreak = correct ? prev.currentStreak + 1 : 0;
+        const bestStreak = Math.max(prev.bestStreak, currentStreak);
+        return {
+          totalScore: prev.totalScore + state.finalScore,
+          playersSeen,
+          playersSolved,
+          currentStreak,
+          bestStreak
+        };
+      });
     }
   }, [state, target]);
 
   const onStart = React.useCallback(() => {
     if (!target) return;
-    dispatch({ type: 'start' });
-  }, [target]);
+    dispatch({ type: 'start', durationSeconds: getTimerSeconds(timerMode) });
+    setGuessFeedback(null);
+  }, [target, timerMode]);
 
   const onSubmitGuess = React.useCallback((text: string) => {
     if (!target || state.tag !== 'active') return;
     const match = isNameMatch(text, target);
     dispatch({ type: 'guess', text });
-    if (match) dispatch({ type: 'reveal', reason: 'solved' });
+    if (match) {
+      dispatch({ type: 'reveal', reason: 'solved' });
+      setGuessFeedback(null);
+    } else {
+      setGuessFeedback(getGuessFeedback(text, target));
+    }
   }, [target, state.tag]);
 
-  const onHint = React.useCallback(() => { 
-    if (state.tag === 'active') dispatch({ type: 'hint' }); 
+  const onHint = React.useCallback(() => {
+    if (state.tag !== 'active') return;
+    if (state.hintsUsed >= hintCap) return;
+    dispatch({ type: 'hint' });
+    setRevealedHints((prev) => {
+      const nextHint = profile.hints[prev.length];
+      return nextHint ? [...prev, nextHint] : prev;
+    });
+  }, [state.tag, state.hintsUsed, hintCap, profile.hints]);
+
+  const onGiveUp = React.useCallback(() => {
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' });
   }, [state.tag]);
-  
-  const onGiveUp = React.useCallback(() => { 
-    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'giveup' }); 
-  }, [state.tag]);
-  
-  const onTimeout = React.useCallback(() => { 
-    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' }); 
+
+  const onTimeout = React.useCallback(() => {
+    if (state.tag === 'active') dispatch({ type: 'reveal', reason: 'timeout' });
   }, [state.tag]);
 
   const onNextPlayer = React.useCallback(() => {
@@ -191,14 +258,23 @@ const Game: React.FC = () => {
           <div className="row" style={{ marginBottom: 12 }}>
             <div className="grow">
               <div>
-                <strong>Round {roundNumber}</strong> · Player {Math.min(currentPlayerNumber, PLAYERS_PER_ROUND)} of {PLAYERS_PER_ROUND}
+                <strong>Round {roundNumber}</strong> • Player {Math.min(currentPlayerNumber, PLAYERS_PER_ROUND)} of {PLAYERS_PER_ROUND}
               </div>
               <div style={{ fontSize: 12, opacity: 0.8 }}>
                 Difficulty {difficultyLabel}/10
               </div>
             </div>
+            <TimerModeSelector value={timerMode} onChange={setTimerMode} label="Timer" />
             <button onClick={() => nav('/daily')}>Go to Daily</button>
           </div>
+
+          <ScoreBoard
+            totalScore={sessionStats.totalScore}
+            playersSolved={sessionStats.playersSolved}
+            playersSeen={sessionStats.playersSeen}
+            currentStreak={sessionStats.currentStreak}
+            bestStreak={sessionStats.bestStreak}
+          />
 
           {state.tag === 'idle' && (
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
@@ -210,7 +286,7 @@ const Game: React.FC = () => {
                   </button>
                 </>
               ) : (
-                <div>Preparing players for the next round…</div>
+                <div>Preparing players for the next round.</div>
               )}
             </div>
           )}
@@ -221,10 +297,10 @@ const Game: React.FC = () => {
                 <div className="grow">
                   <strong>Guess the player</strong> - Position: <em>{target.position}</em>
                 </div>
-                <Timer deadlineMs={state.deadlineMs} onTimeout={onTimeout} />
+                <Timer deadlineMs={state.deadlineMs} onTimeout={onTimeout} modeLabel={timerDescriptor.label} />
               </div>
               <div style={{ marginTop: 12 }}>
-                <PlayerPortrait player={target} hideIdentity />
+                <PlayerPortrait player={target} hideIdentity seasonState={profile.seasonState} />
               </div>
               <div className="row" style={{ marginTop: 8 }}>
                 <GuessInput
@@ -233,8 +309,20 @@ const Game: React.FC = () => {
                   players={players}
                 />
               </div>
+              {guessFeedback && (
+                <div className="guess-feedback" role="status" aria-live="polite">
+                  {guessFeedback}
+                </div>
+              )}
               <div style={{ marginTop: 8 }}>
-                <HintButtons disabled={state.tag !== 'active'} onHint={onHint} onGiveUp={onGiveUp} />
+                <HintButtons
+                  disabled={state.tag !== 'active'}
+                  hintsUsed={hintsUsed}
+                  maxHints={hintCap}
+                  onHint={onHint}
+                  onGiveUp={onGiveUp}
+                />
+                <HintList hints={revealedHints} />
               </div>
               <div style={{ marginTop: 8 }}>
                 <KeyboardShortcuts enabled={state.tag === 'active'} onSubmit={() => {}} onHint={onHint} onGiveUp={onGiveUp} />
@@ -250,14 +338,18 @@ const Game: React.FC = () => {
                   <div>Reason: {state.reason}</div>
                   {streakInfo.current > 0 && (
                     <div style={{ marginTop: 8 }}>
-                      ?? Current Streak: <strong>{streakInfo.current}</strong> | Best: {streakInfo.best}
+                      🔥 Current Streak: <strong>{streakInfo.current}</strong> | Best: {streakInfo.best}
                     </div>
                   )}
                 </div>
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
               </div>
               <div style={{ marginTop: 12 }}>
-                <PlayerPortrait player={target} />
+                <PlayerPortrait player={target} seasonState={profile.seasonState} />
+              </div>
+              <PlayerContextPanel summary={profile.summary} />
+              <div style={{ marginTop: 12 }}>
+                <HintList hints={revealedHints} />
               </div>
               <div className="row" style={{ marginTop: 12 }}>
                 <button onClick={onNextPlayer}>

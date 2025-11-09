@@ -1,4 +1,5 @@
 import { Position } from '../types';
+import { TimerMode, isNextChicagoDay, isSameChicagoDay } from './date';
 
 // Enhanced storage with caching, compression, and performance optimizations
 const STORAGE_VERSION = 3;
@@ -15,6 +16,12 @@ type Schema = {
   lastDailyKey?: string;
   lastDailyId?: string;
   lastPosition?: Position;
+  daily: {
+    current: number;
+    best: number;
+    lastWinKey?: string;
+    lastPlayedKey?: string;
+  };
   gameStats?: {
     totalGames: number;
     totalCorrect: number;
@@ -26,6 +33,7 @@ type Schema = {
     soundEnabled: boolean;
     animationsEnabled: boolean;
     theme: 'light' | 'dark' | 'auto';
+    timerMode: TimerMode;
   };
   performanceMetrics?: {
     averageGuessTime: number;
@@ -41,6 +49,12 @@ const DEFAULTS: Schema = {
   lastDailyKey: undefined,
   lastDailyId: undefined,
   lastPosition: undefined,
+  daily: {
+    current: 0,
+    best: 0,
+    lastWinKey: undefined,
+    lastPlayedKey: undefined
+  },
   gameStats: {
     totalGames: 0,
     totalCorrect: 0,
@@ -56,7 +70,8 @@ const DEFAULTS: Schema = {
   preferences: {
     soundEnabled: true,
     animationsEnabled: true,
-    theme: 'auto'
+    theme: 'auto',
+    timerMode: 'standard'
   },
   performanceMetrics: {
     averageGuessTime: 0,
@@ -224,6 +239,39 @@ export function updateStreak(correct: boolean): { current: number; best: number 
   };
 }
 
+export function getDailyStreakSnapshot(): { current: number; best: number } {
+  const { daily } = loadState();
+  return { current: daily.current, best: daily.best };
+}
+
+export function updateDailyStreak(dateKey: string, solved: boolean): { current: number; best: number } {
+  const state = loadState();
+  const daily = { ...state.daily };
+
+  if (solved) {
+    if (isSameChicagoDay(daily.lastWinKey, dateKey)) {
+      return { current: daily.current, best: daily.best };
+    }
+
+    if (daily.lastWinKey && isNextChicagoDay(daily.lastWinKey, dateKey)) {
+      daily.current += 1;
+    } else {
+      daily.current = 1;
+    }
+
+    daily.lastWinKey = dateKey;
+    daily.lastPlayedKey = dateKey;
+    daily.best = Math.max(daily.best, daily.current);
+  } else {
+    daily.current = 0;
+    daily.lastPlayedKey = dateKey;
+  }
+
+  state.daily = daily;
+  saveState({ daily });
+  return { current: daily.current, best: daily.best };
+}
+
 export function addRecentPlayer(playerId: string, maxRecent: number = 50): void {
   const state = loadState();
   const recent = [playerId, ...state.recentIds.filter(id => id !== playerId)].slice(0, maxRecent);
@@ -242,6 +290,14 @@ export function updatePreferences(prefs: Partial<NonNullable<Schema['preferences
 
 export function getPreferences(): Schema['preferences'] {
   return loadState().preferences!;
+}
+
+export function getTimerPreference(): TimerMode {
+  return loadState().preferences?.timerMode ?? 'standard';
+}
+
+export function setTimerPreference(mode: TimerMode): void {
+  updatePreferences({ timerMode: mode });
 }
 
 // Cache management functions

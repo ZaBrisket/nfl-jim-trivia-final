@@ -168,3 +168,144 @@ kbd {
   background: rgba(34, 197, 94, 0.08);
   font-weight: 600;
 }
+
+.scoreboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.scoreboard__cell {
+  border: 1px solid #1e222c;
+  border-radius: 8px;
+  padding: 12px;
+  background: #0f1117;
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.subtext {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.scoreboard__cell strong {
+  font-size: 20px;
+  display: block;
+}
+
+.timer {
+  font-size: 14px;
+}
+
+.timer-mode-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.timer-mode-selector__options {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.timer-mode-selector__options button {
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 12px;
+  background: #161922;
+  border: 1px solid #2a2f3a;
+}
+
+.timer-mode-selector__options button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.hint-controls {
+  align-items: stretch;
+  gap: 8px;
+}
+
+.hint-list {
+  margin: 8px 0 0;
+  padding-left: 20px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.hint-list li {
+  margin-bottom: 4px;
+}
+
+.hint-list--empty {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.hint-index {
+  color: var(--accent);
+  font-weight: 600;
+  margin-right: 6px;
+}
+
+.guess-feedback {
+  margin-top: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  font-size: 14px;
+}
+
+.player-context-card {
+  margin-top: 16px;
+  padding: 12px;
+  border: 1px solid #1e222c;
+  border-radius: 8px;
+  background: #0f1117;
+}
+
+.player-context-card__row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.player-context-card__teams {
+  margin-top: 12px;
+}
+
+.team-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.chip {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid #2a2f3a;
+  font-size: 12px;
+}
+
+.daily-streak-pill {
+  border: 1px solid #1e222c;
+  border-radius: 8px;
+  padding: 8px 12px;
+  min-width: 140px;
+  text-align: right;
+  background: #0f1117;
+}
