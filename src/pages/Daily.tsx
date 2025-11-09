@@ -5,6 +5,7 @@ import { GuessInput } from '../components/GuessInput';
 import { HintButtons } from '../components/HintButtons';
 import { KeyboardShortcuts } from '../components/KeyboardShortcuts';
 import { Timer } from '../components/Timer';
+import { PlayerPortrait } from '../components/PlayerPortrait';
 import { chicagoDateString, dailySeedFor } from '../utils/date';
 import { initialState, reducer } from '../state/gameMachine';
 import { isNameMatch } from '../utils/optimizedFuzzy';
@@ -91,9 +92,12 @@ const Daily: React.FC = () => {
             <>
               <div className="row">
                 <div className="grow">
-                  <strong>Guess today’s player</strong> — Position: <em>{target.position}</em>
+                  <strong>Guess today's player</strong> - Position: <em>{target.position}</em>
                 </div>
                 <Timer deadlineMs={state.deadlineMs} onTimeout={onTimeout} />
+              </div>
+              <div style={{ marginTop: 12 }}>
+                <PlayerPortrait player={target} hideIdentity />
               </div>
               <div className="row" style={{ marginTop: 8 }}>
                 <GuessInput
@@ -123,6 +127,9 @@ const Daily: React.FC = () => {
                   )}
                 </div>
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
+              </div>
+              <div style={{ marginTop: 12 }}>
+                <PlayerPortrait player={target} />
               </div>
               <div className="row" style={{ marginTop: 12 }}>
                 <button onClick={() => window.location.reload()}>Come back tomorrow</button>

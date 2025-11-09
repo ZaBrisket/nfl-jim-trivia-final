@@ -64,3 +64,107 @@ kbd {
   opacity: 0.75;
   font-size: 14px;
 }
+
+.portrait-card {
+  border: 1px solid #1e222c;
+  border-radius: 12px;
+  background: #0f1117;
+  padding: 16px;
+}
+
+.portrait-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #1e222c;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+}
+
+.portrait-headline {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.portrait-subline {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.portrait-tag {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  border: 1px solid #2a2f3a;
+  padding: 4px 8px;
+  border-radius: 999px;
+}
+
+.portrait-placeholder {
+  padding: 12px;
+  border: 1px dashed #2a2f3a;
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.portrait-placeholder.error {
+  color: var(--danger);
+  border-color: var(--danger);
+}
+
+.portrait-table-wrapper {
+  margin-top: 8px;
+  border: 1px solid #1e222c;
+  border-radius: 8px;
+  overflow: auto;
+}
+
+.portrait-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  min-width: 720px;
+}
+
+.portrait-table thead {
+  background: #141820;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.portrait-table th,
+.portrait-table td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #1e222c;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.portrait-table th {
+  font-weight: 500;
+  color: var(--muted);
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+.portrait-table td:first-child,
+.portrait-table th:first-child {
+  text-align: left;
+}
+
+.portrait-table tbody tr:nth-child(odd) {
+  background: #10131a;
+}
+
+.portrait-table tbody tr:nth-child(even) {
+  background: #0c0f15;
+}
+
+.portrait-table .portrait-total {
+  background: rgba(34, 197, 94, 0.08);
+  font-weight: 600;
+}

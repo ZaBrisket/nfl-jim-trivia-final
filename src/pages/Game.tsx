@@ -5,6 +5,7 @@ import { GuessInput } from '../components/GuessInput';
 import { HintButtons } from '../components/HintButtons';
 import { KeyboardShortcuts } from '../components/KeyboardShortcuts';
 import { Timer } from '../components/Timer';
+import { PlayerPortrait } from '../components/PlayerPortrait';
 import { useNavigate } from 'react-router-dom';
 import { isNameMatch } from '../utils/optimizedFuzzy';
 import { initialState, reducer } from '../state/gameMachine';
@@ -92,9 +93,12 @@ const Game: React.FC = () => {
             <>
               <div className="row">
                 <div className="grow">
-                  <strong>Guess the player</strong> — Position: <em>{target.position}</em>
+                  <strong>Guess the player</strong> - Position: <em>{target.position}</em>
                 </div>
                 <Timer deadlineMs={state.deadlineMs} onTimeout={onTimeout} />
+              </div>
+              <div style={{ marginTop: 12 }}>
+                <PlayerPortrait player={target} hideIdentity />
               </div>
               <div className="row" style={{ marginTop: 8 }}>
                 <GuessInput
@@ -125,6 +129,9 @@ const Game: React.FC = () => {
                   )}
                 </div>
                 <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
+              </div>
+              <div style={{ marginTop: 12 }}>
+                <PlayerPortrait player={target} />
               </div>
               <div className="row" style={{ marginTop: 12 }}>
                 <button onClick={() => { if (data?.players) { setTarget(pickPlayer(data.players)); dispatch({ type: 'reset' }); } }}>Next Round</button>

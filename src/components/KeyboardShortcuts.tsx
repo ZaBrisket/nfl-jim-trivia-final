@@ -9,9 +9,21 @@ type Props = {
 
 const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, onGiveUp }) => {
   const handleKeydown = React.useCallback((e: KeyboardEvent) => {
-    if (e.key === 'Enter') { onSubmit(); }
-    if (e.key.toLowerCase() === 'h') { onHint(); }
-    if (e.key.toLowerCase() === 'g') { onGiveUp(); }
+    if (e.key === 'Enter') {
+      onSubmit();
+      return;
+    }
+
+    if (e.key.toLowerCase() === 'h') {
+      onHint();
+      return;
+    }
+
+    if (e.key.toLowerCase() === 'g') {
+      onGiveUp();
+      return;
+    }
+
     if (e.key === '/') {
       const el = document.getElementById('guess-input') as HTMLInputElement | null;
       el?.focus();
@@ -20,7 +32,10 @@ const KeyboardShortcuts: React.FC<Props> = ({ enabled, onSubmit, onHint, onGiveU
   }, [onSubmit, onHint, onGiveUp]);
 
   React.useEffect(() => {
-    if (!enabled) return;
+    if (!enabled) {
+      return undefined;
+    }
+
     window.addEventListener('keydown', handleKeydown);
     return () => window.removeEventListener('keydown', handleKeydown);
   }, [enabled, handleKeydown]);
