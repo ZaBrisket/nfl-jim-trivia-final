@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HeinTa00,Taylor Heinicke,QB,2018,25,CAR,NFL,QB,6,1,69,79,54,61,92,71,52,124,61,
+HeinTa00,Taylor Heinicke,QB,,,,,,,,,,,,,,,,,
+HeinTa00,Taylor Heinicke,QB,2021,28,WAS,NFL,QB,16,15,96,93,91,90,100,95,84,93,92,
+HeinTa00,Taylor Heinicke,QB,2022,29,WAS,NFL,QB,9,9,103,100,103,101,89,104,100,97,99,
+HeinTa00,Taylor Heinicke,QB,2023,30,ATL,NFL,QB,5,4,89,95,86,91,52,94,86,110,75,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WatsDe00,Deshaun Watson,QB,2017,22,HOU,QB,4,7,6,464,93%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2018*,23,HOU,QB,4,16,16,1093,100%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2019*,24,HOU,QB,4,15,15,997,99%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2020*,25,HOU,QB,4,16,16,978,100%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2022,27,CLE,QB,4,6,6,387,99%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2023,28,CLE,QB,4,6,6,383,84%,0,0%,0,0%
+WatsDe00,Deshaun Watson,QB,2024,29,CLE,QB,4,7,7,415,87%,0,0%,0,0%

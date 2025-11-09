@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+AndeDe00,Derek Anderson,QB,2006,23,CLE,NFL,QB,5,3,4,47,0,2,75.0,33,11.8,9.4,0.8,0,0,0,0,0,0.0,0.0,4,11.8,47,0,2,
+AndeDe00,Derek Anderson,QB,2007,24,CLE,NFL,QB,16,15,32,70,3,12,40.6,11,2.2,4.4,2.0,0,0,0,0,0,0.0,0.0,32,2.2,70,3,5,"PB,AP CPoY-7"
+AndeDe00,Derek Anderson,QB,2008,25,CLE,NFL,QB,10,9,25,55,0,6,36.0,15,2.2,5.5,2.5,0,0,0,0,0,0.0,0.0,25,2.2,55,0,9,
+AndeDe00,Derek Anderson,QB,2009,26,CLE,NFL,QB,8,7,10,8,2,6,60.0,3,0.8,1.0,1.3,0,0,0,0,0,0.0,0.0,10,0.8,8,2,5,
+AndeDe00,Derek Anderson,QB,2010,27,ARI,NFL,QB,12,9,5,25,0,2,60.0,11,5.0,2.1,0.4,0,0,0,0,0,0.0,0.0,5,5.0,25,0,6,
+AndeDe00,Derek Anderson,QB,2011,28,CAR,NFL,QB,2,0,2,-2,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,0,0,0.0,0.0,2,-1.0,-2,0,0,
+AndeDe00,Derek Anderson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AndeDe00,Derek Anderson,QB,2013,30,CAR,NFL,QB,4,0,5,0,0,1,20.0,,0.0,0.0,1.3,0,0,0,0,0,0.0,0.0,5,0.0,0,0,0,
+AndeDe00,Derek Anderson,QB,2014,31,CAR,NFL,QB,6,2,8,24,0,3,50.0,8,3.0,4.0,1.3,0,0,0,0,0,0.0,0.0,8,3.0,24,0,2,
+AndeDe00,Derek Anderson,QB,2015,32,CAR,NFL,QB,3,0,7,-2,0,0,14.3,2,-0.3,-0.7,2.3,0,0,0,0,0,0.0,0.0,7,-0.3,-2,0,1,
+AndeDe00,Derek Anderson,QB,2016,33,CAR,NFL,QB,5,2,1,4,0,0,100.0,4,4.0,0.8,0.2,0,0,0,0,0,0.0,0.0,1,4.0,4,0,1,
+AndeDe00,Derek Anderson,QB,2017,34,CAR,NFL,QB,3,0,2,-2,0,0,0.0,-1,-1.0,-0.7,0.7,0,0,0,0,0,0.0,0.0,2,-1.0,-2,0,0,
+AndeDe00,Derek Anderson,QB,2018,35,BUF,NFL,QB,2,2,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,3,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RichTo00,Tony Richardson,FB,1996,25,KAN,NFL,FB,13,0,0,0,0,0,,0,0,1,0,0,0.0,0,0,0,,,0,
+RichTo00,Tony Richardson,FB,,,,,,,,,,,,,,,,,,,,,,,,,
+RichTo00,Tony Richardson,FB,1998,27,KAN,NFL,FB,14,1,0,0,0,0,,2,0,1,0,0,0.0,0,0,0,,,0,
+RichTo00,Tony Richardson,FB,1999,28,KAN,NFL,FB,16,16,0,0,0,0,0,0,1,0,0,0,0.0,11,11,0,0,,0,
+RichTo00,Tony Richardson,FB,2000,29,KAN,NFL,FB,16,16,0,0,0,0,0,0,3,0,0,0,0.0,2,2,0,0,,0,
+RichTo00,Tony Richardson,FB,2001,30,KAN,NFL,FB,14,8,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,,0,
+RichTo00,Tony Richardson,FB,2002,31,KAN,NFL,FB,14,12,0,0,0,0,0,0,1,0,0,0,0.0,,,,,,0,
+RichTo00,Tony Richardson,FB,2003,32,KAN,NFL,FB,16,10,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,,0,PB
+RichTo00,Tony Richardson,FB,2004,33,KAN,NFL,FB,16,16,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,,0,"PB,AP-2"
+RichTo00,Tony Richardson,FB,,,,,,,,,,,,,,,,,,,,,,,,,
+RichTo00,Tony Richardson,FB,2009,38,NYJ,NFL,FB,16,10,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,

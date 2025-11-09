@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JoneBr00,Brent Jones,TE,1987,24,SFO,NFL,TE,1,1,1,1,7,7.0,0,0,0.0,7,1.0,7.0,100.0,7.0,0,0,0,0,0.0,0.0,1,7.0,7,0,0,
+JoneBr00,Brent Jones,TE,1988,25,SFO,NFL,TE,3,2,3,2,17,8.5,0,1,66.7,11,0.7,5.7,66.7,5.7,0,0,0,0,0.0,0.0,2,8.5,17,0,0,
+JoneBr00,Brent Jones,TE,1989,26,SFO,NFL,TE,3,3,9,8,77,9.6,3,4,88.9,20,2.7,25.7,88.9,8.6,0,0,0,0,0.0,0.0,8,9.6,77,3,0,
+JoneBr00,Brent Jones,TE,1990,27,SFO,NFL,TE,2,2,9,7,149,21.3,0,6,77.8,47,3.5,74.5,77.8,16.6,0,0,0,0,0.0,0.0,7,21.3,149,0,0,
+JoneBr00,Brent Jones,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneBr00,Brent Jones,TE,1992,29,SFO,NFL,TE,2,2,8,7,104,14.9,1,6,87.5,22,3.5,52.0,87.5,13.0,0,0,0,0,0.0,0.0,7,14.9,104,1,0,
+JoneBr00,Brent Jones,TE,1993,30,SFO,NFL,TE,2,2,9,7,65,9.3,0,3,77.8,13,3.5,32.5,77.8,7.2,0,0,0,0,0.0,0.0,7,9.3,65,0,0,
+JoneBr00,Brent Jones,TE,1994,31,SFO,NFL,TE,3,3,15,10,104,10.4,1,8,53.3,33,3.3,34.7,66.7,6.9,0,0,0,0,0.0,0.0,10,10.4,104,1,1,
+JoneBr00,Brent Jones,TE,1995,32,SFO,NFL,TE,1,1,13,8,112,14.0,0,6,46.2,29,8.0,112.0,61.5,8.6,0,0,0,0,0.0,0.0,8,14.0,112,0,0,
+JoneBr00,Brent Jones,TE,1996,33,SFO,NFL,TE,2,2,10,6,54,9.0,0,3,60.0,13,3.0,27.0,60.0,5.4,0,0,0,0,0.0,0.0,6,9.0,54,0,0,
+JoneBr00,Brent Jones,TE,1997,34,SFO,NFL,TE,2,1,10,4,51,12.8,0,3,30.0,16,2.0,25.5,40.0,5.1,0,0,0,0,0.0,0.0,4,12.8,51,0,0,

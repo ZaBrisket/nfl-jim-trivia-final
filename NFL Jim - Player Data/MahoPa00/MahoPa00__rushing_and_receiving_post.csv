@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MahoPa00,Patrick Mahomes,QB,2018,23,KAN,NFL,QB,2,2,5,19,1,2,60.0,9,3.8,9.5,2.5,0,0,0,0,0,0.0,0.0,5,3.8,19,1,2,
+MahoPa00,Patrick Mahomes,QB,2019,24,KAN,NFL,QB,3,3,24,135,2,11,58.3,27,5.6,45.0,8.0,0,0,0,0,0,0.0,0.0,24,5.6,135,2,4,SB MVP
+MahoPa00,Patrick Mahomes,QB,2020,25,KAN,NFL,QB,3,3,13,52,1,5,46.2,13,4.0,17.3,4.3,0,0,0,0,0,0.0,0.0,13,4.0,52,1,1,
+MahoPa00,Patrick Mahomes,QB,2021,26,KAN,NFL,QB,3,3,13,117,1,5,76.9,34,9.0,39.0,4.3,0,0,0,0,0,0.0,0.0,13,9.0,117,1,1,
+MahoPa00,Patrick Mahomes,QB,2022,27,KAN,NFL,QB,3,3,12,60,0,4,50.0,26,5.0,20.0,4.0,0,0,0,0,0,0.0,0.0,12,5.0,60,0,1,SB MVP
+MahoPa00,Patrick Mahomes,QB,2023,28,KAN,NFL,QB,4,4,23,141,0,9,43.5,28,6.1,35.3,5.8,0,0,0,0,0,0.0,0.0,23,6.1,141,0,2,SB MVP
+MahoPa00,Patrick Mahomes,QB,2024,29,KAN,NFL,QB,3,3,22,82,2,7,45.5,15,3.7,27.3,7.3,0,0,0,0,0,0.0,0.0,22,3.7,82,2,3,

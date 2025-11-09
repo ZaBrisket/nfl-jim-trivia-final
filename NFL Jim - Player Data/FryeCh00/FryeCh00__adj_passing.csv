@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FryeCh00,Charlie Frye,QB,2005,24,CLE,NFL,QB,7,5,86,78,87,82,100,81,102,67,89,
+FryeCh00,Charlie Frye,QB,2006,25,CLE,NFL,QB,13,13,88,83,81,79,113,83,81,77,88,
+FryeCh00,Charlie Frye,QB,,,,,,,,,,,,,,,,,
+FryeCh00,Charlie Frye,QB,2009,28,OAK,NFL,QB,3,3,94,95,80,81,100,63,76,104,78,

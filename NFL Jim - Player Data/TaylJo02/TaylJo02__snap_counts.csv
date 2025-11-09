@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+TaylJo02,Jonathan Taylor,RB,2020,21,IND,RB,28,15,13,511,50%,0,0%,0,0%
+TaylJo02,Jonathan Taylor,RB,2021*+,22,IND,RB,28,17,17,767,69%,0,0%,0,0%
+TaylJo02,Jonathan Taylor,RB,2022,23,IND,RB,28,11,11,524,70%,0,0%,0,0%
+TaylJo02,Jonathan Taylor,RB,2023,24,IND,RB,28,10,7,386,58%,0,0%,0,0%
+TaylJo02,Jonathan Taylor,RB,2024*,25,IND,RB,28,14,13,707,80%,0,0%,0,0%
+TaylJo02,Jonathan Taylor,RB,2025,26,IND,RB,28,9,9,473,82%,0,0%,0,0%

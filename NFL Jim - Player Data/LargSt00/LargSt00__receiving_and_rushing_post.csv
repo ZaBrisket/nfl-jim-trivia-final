@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LargSt00,Steve Largent,WR,1983,29,SEA,NFL,WR,3,3,17,8,157,19.6,1,7,47.1,40,2.7,52.3,47.1,9.2,0,0,0,0,,,,0.0,0.0,8,19.6,157,1,0,
+LargSt00,Steve Largent,WR,1984,30,SEA,NFL,WR,2,2,10,6,128,21.3,1,5,60.0,56,3.0,64.0,60.0,12.8,1,-2,0,0,0.0,-2,-2.0,-1.0,0.5,7,18.0,126,1,0,
+LargSt00,Steve Largent,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LargSt00,Steve Largent,WR,1987,33,SEA,NFL,WR,1,1,13,7,132,18.9,2,7,53.8,33,7.0,132.0,53.8,10.2,0,0,0,0,,,,0.0,0.0,7,18.9,132,2,0,
+LargSt00,Steve Largent,WR,1988,34,SEA,NFL,WR,1,1,6,2,17,8.5,0,1,16.7,12,2.0,17.0,33.3,2.8,0,0,0,0,,,,0.0,0.0,2,8.5,17,0,0,

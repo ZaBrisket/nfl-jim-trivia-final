@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+RypiMa00,Mark Rypien,QB,1988,26,WAS,NFL,QB,9,6,3-3-0,114,208,54.8,1730,18,8.7,13,6.3,83,48.2,60,8.3,7.24,15.2,192.2,85.2,14,115,6.31,7.27,6.26,0,0,6,
+RypiMa00,Mark Rypien,QB,1989,27,WAS,NFL,QB,14,14,9-5-0,280,476,58.8,3768,22,4.6,13,2.7,182,50.6,80,7.9,7.61,13.5,269.1,88.1,16,108,3.25,7.44,7.14,3,3,11,PB
+RypiMa00,Mark Rypien,QB,1990,28,WAS,NFL,QB,10,10,7-3-0,166,304,54.6,2070,16,5.3,11,3.6,115,46.8,53,6.8,6.23,12.5,207.0,78.4,6,33,1.94,6.57,6.01,1,1,7,
+RypiMa00,Mark Rypien,QB,1991,29,WAS,NFL,QB,16,16,14-2-0,249,421,59.1,3564,28,6.7,11,2.6,169,50.5,82,8.5,8.62,14.3,222.8,97.9,7,59,1.64,8.19,8.34,2,5,17,"PB,AP-2,AP MVP-4,AP OPoY-4"
+RypiMa00,Mark Rypien,QB,1992,30,WAS,NFL,QB,16,16,9-7-0,269,479,56.2,3282,13,2.7,17,3.5,157,44.4,62,6.9,5.80,12.2,205.1,71.7,23,176,4.58,6.19,5.18,1,1,12,
+RypiMa00,Mark Rypien,QB,1993,31,WAS,NFL,QB,12,10,3-7-0,166,319,52.0,1514,4,1.3,10,3.1,80,37.3,43,4.7,3.59,9.1,126.2,56.3,16,87,4.78,4.26,3.16,1,1,1,
+RypiMa00,Mark Rypien,QB,1994,32,CLE,NFL,QB,6,3,2-1-0,59,128,46.1,694,4,3.1,3,2.3,36,36.9,43,5.4,4.99,11.8,115.7,63.7,2,11,1.54,5.25,4.83,0,1,2,
+RypiMa00,Mark Rypien,QB,1995,33,STL,NFL,QB,11,3,0-3-0,129,217,59.4,1448,9,4.1,8,3.7,69,45.2,50,6.7,5.84,11.2,131.6,77.9,11,60,4.82,6.09,5.30,0,0,3,
+RypiMa00,Mark Rypien,QB,1996,34,PHI,NFL,QB,1,0,,10,13,76.9,76,1,7.7,0,0.0,5,69.2,16,5.8,7.38,7.6,76.0,116.2,0,0,0.00,5.85,7.38,0,0,0,
+RypiMa00,Mark Rypien,QB,1997,35,STL,NFL,QB,5,0,,19,39,48.7,270,0,0.0,2,5.1,8,35.0,62,6.9,4.62,14.2,54.0,50.2,1,9,2.50,6.53,4.28,0,0,1,
+RypiMa00,Mark Rypien,QB,1998,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RypiMa00,Mark Rypien,QB,1999,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RypiMa00,Mark Rypien,QB,2000,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RypiMa00,Mark Rypien,QB,2001,39,IND,NFL,QB,4,0,,5,9,55.6,57,0,0.0,0,0.0,4,50.0,21,6.3,6.33,11.4,14.3,74.8,1,6,10.00,5.10,5.10,0,0,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CobbRe00,Reggie Cobb,RB,1990,22,TAM,NFL,FB,16,13,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+CobbRe00,Reggie Cobb,RB,1991,23,TAM,NFL,RB,16,11,7,0,0,0,0,0,0,7,,0,0,0,0,0,42,2.6,
+CobbRe00,Reggie Cobb,RB,1992,24,TAM,NFL,RB,16,13,9,0,0,0,0,0,0,9,,0,0,0,0,0,54,3.4,
+CobbRe00,Reggie Cobb,RB,1993,25,TAM,NFL,RB,12,10,3,1,0,0,0,0,0,4,,0,0,0,0,0,24,2.0,
+CobbRe00,Reggie Cobb,RB,1994,26,GNB,NFL,RB,16,13,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+CobbRe00,Reggie Cobb,RB,,,,,,,,,,,,,,,,,,,,,,,,
+CobbRe00,Reggie Cobb,RB,1996,28,NYJ,NFL,RB,15,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

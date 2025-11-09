@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SamuCu00,Curtis Samuel,WR,2017,21,CAR,WR,10,9,4,225,36%,0,0%,121,53%
+SamuCu00,Curtis Samuel,WR,2018,22,CAR,WR,10,13,8,467,55%,0,0%,114,33%
+SamuCu00,Curtis Samuel,WR,2019,23,CAR,WR,10,16,15,955,86%,0,0%,3,1%
+SamuCu00,Curtis Samuel,WR,2020,24,CAR,WR,10,15,5,659,68%,0,0%,2,1%
+SamuCu00,Curtis Samuel,WR,2021,25,WAS,WR,10,5,1,84,23%,0,0%,2,2%
+SamuCu00,Curtis Samuel,WR,2022,26,WAS,WR,10,17,12,850,71%,0,0%,0,0%
+SamuCu00,Curtis Samuel,WR,2023,27,WAS,WR,4,16,13,571,56%,0,0%,0,0%
+SamuCu00,Curtis Samuel,WR,2024,28,BUF,WR,1,14,2,378,43%,0,0%,0,0%
+SamuCu00,Curtis Samuel,WR,2025,29,BUF,WR,1,4,0,99,39%,0,0%,18,18%

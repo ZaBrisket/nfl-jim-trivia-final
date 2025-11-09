@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+AndeDe00,Derek Anderson,QB,2006,23,CLE,NFL,QB,5,3,99,97,78,79,87,103,41,100,76,
+AndeDe00,Derek Anderson,QB,2007,24,CLE,NFL,QB,16,15,106,113,105,110,85,117,91,123,101,"PB,AP CPoY-7"
+AndeDe00,Derek Anderson,QB,2008,25,CLE,NFL,QB,10,9,77,83,84,87,64,90,102,109,80,
+AndeDe00,Derek Anderson,QB,2009,26,CLE,NFL,QB,8,7,61,65,55,58,44,70,63,102,49,
+AndeDe00,Derek Anderson,QB,2010,27,ARI,NFL,QB,12,9,87,86,86,86,71,76,99,93,80,
+AndeDe00,Derek Anderson,QB,,,,,,,,,,,,,,,,,
+AndeDe00,Derek Anderson,QB,2014,31,CAR,NFL,QB,6,2,101,110,118,123,119,107,143,118,123,
+AndeDe00,Derek Anderson,QB,,,,,,,,,,,,,,,,,
+AndeDe00,Derek Anderson,QB,2016,33,CAR,NFL,QB,5,2,132,148,73,84,121,93,-26,150,69,
+AndeDe00,Derek Anderson,QB,,,,,,,,,,,,,,,,,
+AndeDe00,Derek Anderson,QB,2018,35,BUF,NFL,QB,2,2,89,90,60,63,87,52,44,100,55,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MeanNa00,Natrone Means,RB,1993,21,SDG,NFL,RB,16,0,160,645,8,48,51.3,65,4.0,40.3,10.0,18,10,59,5.9,0,3,38.9,11,0.6,3.7,55.6,3.3,170,4.1,704,8,1,6,
+MeanNa00,Natrone Means,RB,1994,22,SDG,NFL,RB,16,16,343,1350,12,79,51.3,25,3.9,84.4,21.4,44,39,235,6.0,0,9,54.5,22,2.4,14.7,88.6,5.3,382,4.1,1585,12,5,13,PB
+MeanNa00,Natrone Means,RB,1995,23,SDG,NFL,RB,10,9,186,730,5,39,42.5,36,3.9,73.0,18.6,9,7,46,6.6,0,1,66.7,14,0.7,4.6,77.8,5.1,193,4.0,776,5,2,5,
+MeanNa00,Natrone Means,RB,1996,24,JAX,NFL,RB,14,4,152,507,2,27,44.1,35,3.3,36.2,10.9,9,7,45,6.4,1,2,55.6,11,0.5,3.2,77.8,5.0,159,3.5,552,3,3,4,
+MeanNa00,Natrone Means,RB,1997,25,JAX,NFL,RB,14,11,244,823,9,43,49.2,20,3.4,58.8,17.4,20,15,104,6.9,0,3,45.0,21,1.1,7.4,75.0,5.2,259,3.6,927,9,5,7,
+MeanNa00,Natrone Means,RB,1998,26,SDG,NFL,RB,10,10,212,883,5,42,41.0,72,4.2,88.3,21.2,22,16,91,5.7,0,3,22.7,22,1.6,9.1,72.7,4.1,228,4.3,974,5,2,5,
+MeanNa00,Natrone Means,RB,1999,27,SDG,NFL,RB,7,5,112,277,4,16,33.9,15,2.5,39.6,16.0,13,9,51,5.7,1,2,38.5,12,1.3,7.3,69.2,3.9,121,2.7,328,5,0,2,
+MeanNa00,Natrone Means,RB,2000,28,CAR,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

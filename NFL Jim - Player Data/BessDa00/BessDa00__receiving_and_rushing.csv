@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BessDa00,Davone Bess,WR,2008,23,MIA,NFL,WR,16,6,75,54,554,10.3,1,29,57.3,37,3.4,34.6,72.0,7.4,1,13,0,1,100.0,13,13.0,0.8,0.1,55,10.3,567,1,1,5,
+BessDa00,Davone Bess,WR,2009,24,MIA,NFL,WR,16,2,113,76,758,10.0,2,48,53.1,34,4.8,47.4,67.3,6.7,2,11,0,1,50.0,11,5.5,0.7,0.1,78,9.9,769,2,6,7,
+BessDa00,Davone Bess,WR,2010,25,MIA,NFL,WR,16,8,125,79,820,10.4,5,42,48.8,29,4.9,51.3,63.2,6.6,2,-3,0,0,0.0,,-1.5,-0.2,0.1,81,10.1,817,5,3,5,
+BessDa00,Davone Bess,WR,2011,26,MIA,NFL,WR,16,4,86,51,537,10.5,3,25,38.4,41,3.2,33.6,59.3,6.2,2,9,0,0,50.0,5,4.5,0.6,0.1,53,10.3,546,3,5,5,
+BessDa00,Davone Bess,WR,2012,27,MIA,NFL,WR,13,13,104,61,778,12.8,1,38,45.2,39,4.7,59.8,58.7,7.5,0,0,0,0,,,,0.0,0.0,61,12.8,778,1,1,6,
+BessDa00,Davone Bess,WR,2013,28,CLE,NFL,WR,14,3,86,42,362,8.6,2,24,32.6,20,3.0,25.9,48.8,4.2,0,0,0,0,,,,0.0,0.0,42,8.6,362,2,1,2,

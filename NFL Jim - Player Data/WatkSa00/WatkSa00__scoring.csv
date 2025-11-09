@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WatkSa00,Sammy Watkins,WR,2014,21,BUF,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+WatkSa00,Sammy Watkins,WR,2015,22,BUF,NFL,WR,13,13,0,9,0,0,0,0,0,9,0,,0,0,0,0,0,54,4.2,
+WatkSa00,Sammy Watkins,WR,2016,23,BUF,NFL,WR,8,8,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.5,
+WatkSa00,Sammy Watkins,WR,2017,24,LAR,NFL,WR,15,14,0,8,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.2,
+WatkSa00,Sammy Watkins,WR,2018,25,KAN,NFL,WR,10,9,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.8,
+WatkSa00,Sammy Watkins,WR,2019,26,KAN,NFL,WR,14,13,0,3,0,0,0,0,0,3,1,,0,0,0,0,0,20,1.4,
+WatkSa00,Sammy Watkins,WR,2020,27,KAN,NFL,WR,10,9,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.2,
+WatkSa00,Sammy Watkins,WR,2021,28,BAL,NFL,WR,13,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.5,

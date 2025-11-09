@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CaspDa00,Dave Casper,TE,1974,22,OAK,NFL,TE,14,0,,4,26,6.5,3,,,17,0.3,1.9,,,0,0,0,,,,,0.0,0.0,4,6.5,26,3,0,0,
+CaspDa00,Dave Casper,TE,1975,23,OAK,NFL,TE,14,0,,5,71,14.2,1,,,20,0.4,5.1,,,0,0,0,,,,,0.0,0.0,5,14.2,71,1,0,1,
+CaspDa00,Dave Casper,TE,1976,24,OAK,NFL,TE,13,13,,53,691,13.0,10,,,30,4.1,53.2,,,1,5,0,,,5,5.0,0.4,0.1,54,12.9,696,10,0,10,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1977,25,OAK,NFL,TE,14,14,,48,584,12.2,6,,,27,3.4,41.7,,,0,0,0,,,,,0.0,0.0,48,12.2,584,6,1,10,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1978,26,OAK,NFL,TE,16,16,88,62,852,13.7,9,49,62.5,44,3.9,53.3,70.5,9.7,1,5,0,0,0.0,5,5.0,0.3,0.1,63,13.6,857,9,1,8,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1979,27,OAK,NFL,TE,15,12,97,57,771,13.5,3,42,56.7,42,3.8,51.4,58.8,7.9,0,0,0,0,,,,0.0,0.0,57,13.5,771,3,1,9,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1980,28,2TM,NFL,TE,16,15,88,56,796,14.2,4,40,60.2,43,3.5,49.8,63.6,9.0,2,8,0,0,50.0,6,4.0,0.5,0.1,58,13.9,804,4,3,8,PB
+CaspDa00,Dave Casper,TE,1980,28,OAK,NFL,TE,6,6,34,22,270,12.3,1,15,61.8,35,3.7,45.0,64.7,7.9,0,0,0,0,,,,0.0,0.0,22,12.3,270,1,1,3,
+CaspDa00,Dave Casper,TE,1980,28,HOU,NFL,TE,10,9,54,34,526,15.5,3,25,59.3,43,3.4,52.6,63.0,9.7,2,8,0,0,50.0,6,4.0,0.8,0.2,36,14.8,534,3,2,5,
+CaspDa00,Dave Casper,TE,1981,29,HOU,NFL,TE,16,11,60,33,572,17.3,8,24,51.7,52,2.1,35.8,55.0,9.5,0,0,0,0,,,,0.0,0.0,33,17.3,572,8,0,5,
+CaspDa00,Dave Casper,TE,1982,30,HOU,NFL,TE,9,9,63,36,573,15.9,6,27,52.4,38,4.0,63.7,57.1,9.1,2,9,0,0,50.0,8,4.5,1.0,0.2,38,15.3,582,6,1,8,
+CaspDa00,Dave Casper,TE,1983,31,2TM,NFL,TE,13,10,36,20,251,12.6,0,12,44.4,34,1.5,19.3,55.6,7.0,0,0,0,0,,,,0.0,0.0,20,12.6,251,0,0,2,
+CaspDa00,Dave Casper,TE,1983,31,HOU,NFL,TE,3,2,13,7,79,11.3,0,4,46.2,17,2.3,26.3,53.8,6.1,0,0,0,0,,,,0.0,0.0,7,11.3,79,0,0,1,
+CaspDa00,Dave Casper,TE,1983,31,MIN,NFL,TE,10,8,23,13,172,13.2,0,8,43.5,34,1.3,17.2,56.5,7.5,0,0,0,0,,,,0.0,0.0,13,13.2,172,0,0,1,
+CaspDa00,Dave Casper,TE,1984,32,RAI,NFL,TE,7,0,5,4,29,7.3,2,3,80.0,13,0.6,4.1,80.0,5.8,0,0,0,0,,,,0.0,0.0,4,7.3,29,2,0,0,

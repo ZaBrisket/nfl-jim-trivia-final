@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MoorDe02,Denarius Moore,WR,2012,24,OAK,WR,17,15,15,794,79%,0,0%,19,4%
+MoorDe02,Denarius Moore,WR,2013,25,OAK,WR,17,13,10,590,69%,0,0%,0,0%
+MoorDe02,Denarius Moore,WR,2014,26,OAK,WR,17,10,2,230,37%,0,0%,24,8%
+MoorDe02,Denarius Moore,WR,2015,27,BUF,WR,17,6,0,10,3%,0,0%,29,17%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TaylTy00,Tyrod Taylor,QB,2012,23,BAL,NFL,QB,7,0,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.9,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2015,26,BUF,NFL,QB,14,14,4,0,0,0,0,0,0,4,1,,0,0,0,0,0,26,1.9,PB
+TaylTy00,Tyrod Taylor,QB,2016,27,BUF,NFL,QB,15,15,6,0,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.5,
+TaylTy00,Tyrod Taylor,QB,2017,28,BUF,NFL,QB,15,14,4,0,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.6,
+TaylTy00,Tyrod Taylor,QB,2018,29,CLE,NFL,QB,4,3,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,1.5,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2021,32,HOU,NFL,QB,6,6,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,18,3.0,

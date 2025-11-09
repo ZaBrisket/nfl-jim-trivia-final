@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CoopAm00,Amari Cooper,WR,2015*,21,OAK,WR,89,16,15,901,86%,0,0%,15,3%
+CoopAm00,Amari Cooper,WR,2016*,22,OAK,WR,89,16,14,997,89%,0,0%,4,1%
+CoopAm00,Amari Cooper,WR,2017,23,OAK,WR,89,14,12,710,81%,0,0%,2,1%
+CoopAm00,Amari Cooper,WR,2018*,24,2TM,WR,,15,15,834,,0,,3,
+CoopAm00,Amari Cooper,WR,*,,OAK,WR,89,6,6,323,78%,0,0%,1,1%
+CoopAm00,Amari Cooper,WR,,,,,,,,511,81%,0,0%,2,1%
+CoopAm00,Amari Cooper,WR,2019*,25,DAL,WR,19,16,16,845,75%,0,0%,0,0%
+CoopAm00,Amari Cooper,WR,2020,26,DAL,WR,19,16,15,944,82%,0,0%,1,0%
+CoopAm00,Amari Cooper,WR,2021,27,DAL,WR,19,15,14,834,77%,0,0%,0,0%
+CoopAm00,Amari Cooper,WR,2022,28,CLE,WR,2,17,17,978,83%,0,0%,5,1%
+CoopAm00,Amari Cooper,WR,2023*,29,CLE,WR,2,15,15,883,78%,0,0%,1,0%
+CoopAm00,Amari Cooper,WR,2024,30,2TM,,,14,10,587,,0,,1,
+CoopAm00,Amari Cooper,WR,,,CLE,WR,2,6,6,348,89%,0,0%,1,1%
+CoopAm00,Amari Cooper,WR,,,BUF,WR,,8,4,239,46%,0,0%,0,0%

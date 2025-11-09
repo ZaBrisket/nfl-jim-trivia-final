@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WordBa00,Barry Word,RB,1987,24,NOR,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+WordBa00,Barry Word,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WordBa00,Barry Word,RB,1990,27,KAN,NFL,RB,1,1,9,13,0,0,11.1,5,1.4,13.0,9.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,9,1.4,13,0,0,
+WordBa00,Barry Word,RB,1991,28,KAN,NFL,RB,2,2,48,180,1,13,43.8,23,3.8,90.0,24.0,1,1,8,8.0,0,0,100.0,8,0.5,4.0,100.0,8.0,49,3.8,188,1,0,
+WordBa00,Barry Word,RB,1992,29,KAN,NFL,RB,1,0,2,4,0,1,50.0,3,2.0,4.0,2.0,,0,0,,0,0,,,0.0,0.0,,,2,2.0,4,0,0,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KolbKe00,Kevin Kolb,QB,2009,25,PHI,NFL,QB,5,2,114,118,108,111,112,101,97,123,107,
+KolbKe00,Kevin Kolb,QB,2010,26,PHI,NFL,QB,7,5,87,86,87,86,101,94,90,91,91,
+KolbKe00,Kevin Kolb,QB,2011,27,ARI,NFL,QB,9,9,113,98,104,95,90,92,94,64,95,
+KolbKe00,Kevin Kolb,QB,2012,28,ARI,NFL,QB,6,5,85,73,97,88,96,101,118,47,101,

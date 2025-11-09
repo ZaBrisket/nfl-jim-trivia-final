@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CrowJa00,Jamison Crowder,WR,2015,22,WAS,WR,80,16,6,735,69%,0,0%,77,17%
+CrowJa00,Jamison Crowder,WR,2016,23,WAS,WR,80,16,9,781,74%,0,0%,66,15%
+CrowJa00,Jamison Crowder,WR,2017,24,WAS,WR,80,15,6,670,71%,0,0%,76,17%
+CrowJa00,Jamison Crowder,WR,2018,25,WAS,WR,80,9,7,428,77%,0,0%,8,4%
+CrowJa00,Jamison Crowder,WR,2019,26,NYJ,WR,82,16,12,801,79%,0,0%,4,1%
+CrowJa00,Jamison Crowder,WR,2020,27,NYJ,WR,82,12,7,593,80%,0,0%,1,0%
+CrowJa00,Jamison Crowder,WR,2021,28,NYJ,WR,82,12,4,538,69%,0,0%,1,0%
+CrowJa00,Jamison Crowder,WR,2022,29,BUF,WR,80,4,0,93,33%,0,0%,18,19%
+CrowJa00,Jamison Crowder,WR,2023,30,WAS,WR,83,17,0,139,13%,0,0%,64,14%
+CrowJa00,Jamison Crowder,WR,2024,31,WAS,WR,80,6,1,118,29%,0,0%,17,10%

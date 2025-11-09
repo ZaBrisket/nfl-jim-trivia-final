@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+AsiaMa00,Matt Asiata,FB,2012,25,MIN,NFL,RB,1,0,0,0,0,0,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+AsiaMa00,Matt Asiata,FB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AsiaMa00,Matt Asiata,FB,2015,28,MIN,NFL,RB,1,0,0,0,0,0,0.0,0.0,1,1,13,13.0,0,0,0.0,13,1.0,13.0,100.0,13.0,1,13.0,13,0,0,

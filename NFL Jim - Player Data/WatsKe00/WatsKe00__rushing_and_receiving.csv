@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WatsKe00,Kenny Watson,RB,2002,24,WAS,NFL,RB,16,4,116,534,1,32,50.9,24,4.6,33.4,7.3,43,32,253,7.9,1,6,32.6,62,2.0,15.8,74.4,5.9,148,5.3,787,2,0,5,
+WatsKe00,Kenny Watson,RB,2003,25,CIN,NFL,RB,8,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,
+WatsKe00,Kenny Watson,RB,2004,26,CIN,NFL,RB,16,0,26,161,0,8,50.0,25,6.2,10.1,1.6,35,25,171,6.8,1,9,34.3,21,1.6,10.7,71.4,4.9,51,6.5,332,1,2,3,
+WatsKe00,Kenny Watson,RB,2005,27,CIN,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+WatsKe00,Kenny Watson,RB,2006,28,CIN,NFL,RB,16,0,25,138,1,5,48.0,18,5.5,8.6,1.6,32,23,213,9.3,0,12,50.0,46,1.4,13.3,71.9,6.7,48,7.3,351,1,0,3,
+WatsKe00,Kenny Watson,RB,2007,29,CIN,NFL,FB,16,5,178,763,7,42,55.1,24,4.3,47.7,11.1,67,52,374,7.2,0,13,40.3,43,3.3,23.4,77.6,5.6,230,4.9,1137,7,3,9,
+WatsKe00,Kenny Watson,RB,2008,30,CIN,NFL,RB,10,0,13,55,0,2,38.5,7,4.2,5.5,1.3,9,3,4,1.3,0,0,0.0,3,0.3,0.4,33.3,0.4,16,3.7,59,0,0,0,

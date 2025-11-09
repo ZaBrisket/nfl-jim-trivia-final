@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+CoheTa00,Tarik Cohen,RB,2018,23,CHI,NFL,RB,16,7,99,444,20,301,3.0,143,1.4,9,11.0,91,71,725,29,205,2.9,520,7.3,3.6,9,7.9,1,1.1,2,109.0,"PB,AP-1"
+CoheTa00,Tarik Cohen,RB,2019,24,CHI,NFL,RB,16,11,64,213,15,134,2.1,79,1.2,6,10.7,104,79,456,18,27,0.3,429,5.4,1.8,5,15.8,9,8.7,1,89.3,
+CoheTa00,Tarik Cohen,RB,2020,25,CHI,NFL,RB,3,0,14,74,3,52,3.7,22,1.6,1,14.0,9,6,41,1,-20,-3.3,61,10.2,1.7,1,6.0,1,11.1,0,76.6,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ConlCh00,Chris Conley,WR,2015,23,KAN,WR,17,16,5,370,37%,0,0%,171,38%
+ConlCh00,Chris Conley,WR,2016,24,KAN,WR,17,16,11,816,80%,0,0%,10,2%
+ConlCh00,Chris Conley,WR,2017,25,KAN,WR,17,5,5,292,89%,0,0%,2,1%
+ConlCh00,Chris Conley,WR,2018,26,KAN,WR,17,16,13,802,77%,0,0%,28,6%
+ConlCh00,Chris Conley,WR,2019,27,JAX,WR,18,16,14,866,79%,0,0%,3,1%
+ConlCh00,Chris Conley,WR,2020,28,JAX,WR,18,15,4,439,45%,0,0%,19,5%
+ConlCh00,Chris Conley,WR,2021,29,HOU,WR,18,16,10,623,62%,0,0%,41,10%
+ConlCh00,Chris Conley,WR,2022,30,2TM,WR,,9,1,152,,0,,47,
+ConlCh00,Chris Conley,WR,,,HOU,WR,18,2,0,30,23%,0,0%,1,2%
+ConlCh00,Chris Conley,WR,,,,,,,,122,28%,0,0%,46,25%
+ConlCh00,Chris Conley,WR,2023,31,SFO,WR,84,8,0,110,22%,0,0%,73,36%
+ConlCh00,Chris Conley,WR,2024,32,SFO,WR,18,15,2,239,25%,0,0%,217,55%

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+LandJa00,Jarvis Landry,WR,2018,26,CLE,NFL,WR,16,14,1,2,77,38.5,46,46.0,23.0,17,17.0,0,0,0,0,0.0,0,0.0,,,1.9,0,0,0,0,0.0,0,,,,,,,,,PB
+LandJa00,Jarvis Landry,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LandJa00,Jarvis Landry,WR,2020,28,CLE,NFL,WR,15,14,4,4,58,14.5,58,14.5,14.5,16,4.0,0,0,0,0,0.0,0,0.0,4,100.0,3.3,2,0,3,3,75.0,0,0,0,0,0,0,0,1,6,

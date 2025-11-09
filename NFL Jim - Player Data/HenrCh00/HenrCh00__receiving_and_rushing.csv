@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HenrCh00,Chris Henry,WR,2005,22,CIN,NFL,WR,14,5,51,31,422,13.6,6,19,49.0,47,2.2,30.1,60.8,8.3,0,0,0,0,0.0,0.0,31,13.6,422,6,2,5,
+HenrCh00,Chris Henry,WR,2006,23,CIN,NFL,WR,13,4,75,36,605,16.8,9,26,42.7,71,2.8,46.5,48.0,8.1,0,0,0,0,0.0,0.0,36,16.8,605,9,0,6,
+HenrCh00,Chris Henry,WR,2007,24,CIN,NFL,WR,8,2,38,21,343,16.3,2,14,44.7,52,2.6,42.9,55.3,9.0,0,0,0,0,0.0,0.0,21,16.3,343,2,0,3,
+HenrCh00,Chris Henry,WR,2008,25,CIN,NFL,WR,12,1,46,19,220,11.6,2,12,37.0,22,1.6,18.3,41.3,4.8,0,0,0,0,0.0,0.0,19,11.6,220,2,0,1,
+HenrCh00,Chris Henry,WR,2009,26,CIN,NFL,WR,8,0,23,12,236,19.7,2,11,52.2,73,1.5,29.5,52.2,10.3,0,0,0,0,0.0,0.0,12,19.7,236,2,0,2,

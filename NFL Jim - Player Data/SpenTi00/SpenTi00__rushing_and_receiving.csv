@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SpenTi00,Tim Spencer,RB,1985,25,SDG,NFL,FB,16,15,124,478,10,27,57.3,24,3.9,29.9,7.8,18,11,135,12.3,0,6,44.4,43,0.7,8.4,61.1,7.5,135,4.5,613,10,1,5,
+SpenTi00,Tim Spencer,RB,1986,26,SDG,NFL,FB,14,12,99,350,6,25,47.5,23,3.5,25.0,7.1,8,6,48,8.0,0,1,62.5,15,0.4,3.4,75.0,6.0,105,3.8,398,6,2,3,
+SpenTi00,Tim Spencer,RB,1987,27,SDG,NFL,FB,12,7,73,228,0,8,37.0,16,3.1,19.0,6.1,17,17,123,7.2,0,4,52.9,18,1.4,10.3,100.0,7.2,90,3.9,351,0,1,2,
+SpenTi00,Tim Spencer,RB,1988,28,SDG,NFL,RB,16,1,44,215,0,7,52.3,24,4.9,13.4,2.8,4,1,14,14.0,0,1,25.0,14,0.1,0.9,25.0,3.5,45,5.1,229,0,0,1,
+SpenTi00,Tim Spencer,RB,1989,29,SDG,NFL,RB,16,11,134,521,3,24,53.7,15,3.9,32.6,8.4,24,18,112,6.2,0,5,54.2,23,1.1,7.0,75.0,4.7,152,4.2,633,3,3,4,
+SpenTi00,Tim Spencer,RB,1990,30,SDG,NFL,RB,4,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

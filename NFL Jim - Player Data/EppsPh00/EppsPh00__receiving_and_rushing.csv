@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EppsPh00,Phil Epps,WR,1982,24,GNB,NFL,WR,9,1,19,10,226,22.6,2,9,52.6,50,1.1,25.1,52.6,11.9,0,0,0,0,,,,0.0,0.0,10,22.6,226,2,1,4,
+EppsPh00,Phil Epps,WR,1983,25,GNB,NFL,WR,16,0,40,18,313,17.4,0,16,45.0,45,1.1,19.6,45.0,7.8,0,0,0,0,,,,0.0,0.0,18,17.4,313,0,2,4,
+EppsPh00,Phil Epps,WR,1984,26,GNB,NFL,WR,16,4,51,26,435,16.7,3,18,41.2,56,1.6,27.2,51.0,8.5,0,0,0,0,,,,0.0,0.0,26,16.7,435,3,1,4,
+EppsPh00,Phil Epps,WR,1985,27,GNB,NFL,WR,16,16,97,44,683,15.5,3,33,38.1,63,2.8,42.7,45.4,7.0,5,103,1,3,100.0,34,20.6,6.4,0.3,49,16.0,786,4,1,6,
+EppsPh00,Phil Epps,WR,1986,28,GNB,NFL,WR,12,12,76,49,612,12.5,4,30,51.3,53,4.1,51.0,64.5,8.1,4,18,0,1,25.0,20,4.5,1.5,0.3,53,11.9,630,4,0,5,
+EppsPh00,Phil Epps,WR,1987,29,GNB,NFL,WR,10,9,57,34,516,15.2,2,23,49.1,40,3.4,51.6,59.6,9.1,1,0,0,0,0.0,,0.0,0.0,0.1,35,14.7,516,2,1,4,
+EppsPh00,Phil Epps,WR,1988,30,GNB,NFL,WR,6,3,24,11,99,9.0,0,4,33.3,25,1.8,16.5,45.8,4.1,0,0,0,0,,,,0.0,0.0,11,9.0,99,0,0,1,
+EppsPh00,Phil Epps,WR,1989,31,NYJ,NFL,WR,10,0,17,8,108,13.5,0,7,47.1,21,0.8,10.8,47.1,6.4,1,14,0,1,100.0,14,14.0,1.4,0.1,9,13.6,122,0,0,1,

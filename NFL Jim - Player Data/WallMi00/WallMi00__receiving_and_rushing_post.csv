@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WallMi00,Mike Wallace,WR,2010,24,PIT,NFL,WR,3,2,26,13,115,8.8,1,5,34.6,25,4.3,38.3,50.0,4.4,2,-2,0,0,0.0,4,-1.0,-0.7,0.7,15,7.5,113,1,0,
+WallMi00,Mike Wallace,WR,2011,25,PIT,NFL,WR,1,1,10,3,26,8.7,0,1,10.0,17,3.0,26.0,30.0,2.6,1,1,1,1,100.0,1,1.0,1.0,1.0,4,6.8,27,1,0,
+WallMi00,Mike Wallace,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WallMi00,Mike Wallace,WR,2015,29,MIN,NFL,WR,1,0,1,1,10,10.0,0,0,0.0,10,1.0,10.0,100.0,10.0,0,0,0,0,,,,0.0,0.0,1,10.0,10,0,0,

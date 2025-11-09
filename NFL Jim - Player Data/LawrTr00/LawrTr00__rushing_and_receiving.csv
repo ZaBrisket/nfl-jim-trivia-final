@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_long,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LawrTr00,Trevor Lawrence,QB,2021,22,JAX,NFL,QB,17,17,73,334,2,22,50.7,26,4.6,19.6,4.3,0,0,0,0,0,,0.0,0.0,73,4.6,334,2,9,
+LawrTr00,Trevor Lawrence,QB,2022,23,JAX,NFL,QB,17,17,62,291,5,27,59.7,24,4.7,17.1,3.6,0,0,0,0,0,,0.0,0.0,62,4.7,291,5,12,"PB,AP MVP-7,AP CPoY-12"
+LawrTr00,Trevor Lawrence,QB,2023,24,JAX,NFL,QB,16,16,70,339,4,23,47.1,26,4.8,21.2,4.4,0,0,0,0,0,,0.0,0.0,70,4.8,339,4,12,
+LawrTr00,Trevor Lawrence,QB,2024,25,JAX,NFL,QB,10,10,26,119,3,13,57.7,33,4.6,11.9,2.6,0,0,-5,0,0,-5,0.0,-0.5,26,4.4,114,3,3,
+LawrTr00,Trevor Lawrence,QB,2025,26,JAX,NFL,QB,8,8,39,137,4,18,48.7,16,3.5,17.1,4.9,0,0,0,0,0,,0.0,0.0,39,3.5,137,4,2,

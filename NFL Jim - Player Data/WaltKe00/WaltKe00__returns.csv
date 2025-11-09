@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WaltKe00,Kevin Walter,WR,2007,26,HOU,NFL,WR,16,15,0,0,0,0,1,7,0,7,7.0,837,
+WaltKe00,Kevin Walter,WR,2008,27,HOU,NFL,WR,16,16,0,0,0,0,1,0,0,0,0.0,922,
+WaltKe00,Kevin Walter,WR,2009,28,HOU,NFL,WR,14,14,0,0,0,0,1,0,0,0,0.0,637,

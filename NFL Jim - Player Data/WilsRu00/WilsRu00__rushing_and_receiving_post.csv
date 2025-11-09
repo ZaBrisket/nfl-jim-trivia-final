@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WilsRu00,Russell Wilson,QB,2012,24,SEA,NFL,QB,2,2,15,127,1,9,73.3,28,8.5,63.5,7.5,0,0,0,0,0,0.0,0.0,15,8.5,127,1,1,
+WilsRu00,Russell Wilson,QB,2013,25,SEA,NFL,QB,3,3,11,42,0,0,18.2,16,3.8,14.0,3.7,0,0,0,0,0,0.0,0.0,11,3.8,42,0,2,
+WilsRu00,Russell Wilson,QB,2014,26,SEA,NFL,QB,3,3,17,86,1,6,58.8,17,5.1,28.7,5.7,0,0,0,0,0,0.0,0.0,17,5.1,86,1,2,
+WilsRu00,Russell Wilson,QB,2015,27,SEA,NFL,QB,2,2,8,53,0,2,62.5,14,6.6,26.5,4.0,0,0,0,0,0,0.0,0.0,8,6.6,53,0,1,
+WilsRu00,Russell Wilson,QB,2016,28,SEA,NFL,QB,2,2,9,46,0,3,33.3,14,5.1,23.0,4.5,0,0,0,0,0,0.0,0.0,9,5.1,46,0,0,
+WilsRu00,Russell Wilson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WilsRu00,Russell Wilson,QB,2018,30,SEA,NFL,QB,1,1,3,14,1,2,66.7,7,4.7,14.0,3.0,0,0,0,0,0,0.0,0.0,3,4.7,14,1,0,
+WilsRu00,Russell Wilson,QB,2019,31,SEA,NFL,QB,2,2,16,109,0,7,43.8,22,6.8,54.5,8.0,0,0,0,0,0,0.0,0.0,16,6.8,109,0,1,
+WilsRu00,Russell Wilson,QB,2020,32,SEA,NFL,QB,1,1,4,50,0,2,50.0,23,12.5,50.0,4.0,0,0,0,0,0,0.0,0.0,4,12.5,50,0,0,
+WilsRu00,Russell Wilson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WilsRu00,Russell Wilson,QB,2024,36,PIT,NFL,QB,1,1,3,6,0,0,33.3,5,2.0,6.0,3.0,0,0,0,0,0,0.0,0.0,3,2.0,6,0,0,

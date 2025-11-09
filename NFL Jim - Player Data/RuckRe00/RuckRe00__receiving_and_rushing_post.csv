@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RuckRe00,Reggie Rucker,WR,1970,23,DAL,NFL,WR,3,3,,1,21,21.0,0,,,21,0.3,7.0,,,0,0,0,,0.0,0.0,1,21.0,21,0,0,
+RuckRe00,Reggie Rucker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RuckRe00,Reggie Rucker,WR,1980,33,CLE,NFL,WR,1,1,9,2,38,19.0,0,2,22.2,20,2.0,38.0,22.2,4.2,0,0,0,0,0.0,0.0,2,19.0,38,0,0,

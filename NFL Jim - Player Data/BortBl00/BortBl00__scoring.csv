@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BortBl00,Blake Bortles,QB,2015,23,JAX,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+BortBl00,Blake Bortles,QB,2016,24,JAX,NFL,QB,16,16,3,1,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+BortBl00,Blake Bortles,QB,2017,25,JAX,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+BortBl00,Blake Bortles,QB,2018,26,JAX,NFL,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

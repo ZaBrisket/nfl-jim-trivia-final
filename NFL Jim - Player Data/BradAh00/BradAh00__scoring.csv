@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BradAh00,Ahmad Bradshaw,RB,2007,21,NYG,NFL,RB,12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+BradAh00,Ahmad Bradshaw,RB,2008,22,NYG,NFL,RB,15,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+BradAh00,Ahmad Bradshaw,RB,2009,23,NYG,NFL,RB,15,1,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+BradAh00,Ahmad Bradshaw,RB,2010,24,NYG,NFL,RB,16,11,8,0,0,0,0,0,0,8,1,0,0,0,0,0,50,3.1,
+BradAh00,Ahmad Bradshaw,RB,2011,25,NYG,NFL,RB,12,9,9,2,0,0,0,0,0,11,1,0,0,0,0,0,68,5.7,
+BradAh00,Ahmad Bradshaw,RB,2012,26,NYG,NFL,RB,14,12,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,
+BradAh00,Ahmad Bradshaw,RB,2013,27,IND,NFL,RB,3,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,4.0,
+BradAh00,Ahmad Bradshaw,RB,2014,28,IND,NFL,RB,10,1,2,6,0,0,0,0,0,8,0,0,0,0,0,0,48,4.8,
+BradAh00,Ahmad Bradshaw,RB,2015,29,IND,NFL,RB,6,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,3.0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CravAa00,Aaron Craver,RB,1992,24,MIA,NFL,RB,2,0,10,85,1,4,70.0,25,8.5,42.5,5.0,4,3,28,9.3,0,1,50.0,13,1.5,14.0,75.0,7.0,13,8.7,113,1,1,
+CravAa00,Aaron Craver,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CravAa00,Aaron Craver,RB,1994,26,MIA,NFL,RB,2,0,2,13,0,1,50.0,10,6.5,6.5,1.0,8,6,43,7.2,0,2,50.0,15,3.0,21.5,75.0,5.4,8,7.0,56,0,0,
+CravAa00,Aaron Craver,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CravAa00,Aaron Craver,RB,1996,28,DEN,NFL,FB,1,1,0,0,0,0,,,,0.0,0.0,3,3,17,5.7,0,1,66.7,7,3.0,17.0,100.0,5.7,3,5.7,17,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomLe00,Leroy Thompson,RB,1991,22,PIT,NFL,RB,13,0,20,60,0,2,50.0,14,3.0,4.6,1.5,24,14,118,8.4,0,7,54.2,32,1.1,9.1,58.3,4.9,34,5.2,178,0,1,1,
+ThomLe00,Leroy Thompson,RB,1992,23,PIT,NFL,RB,15,2,35,157,1,9,42.9,25,4.5,10.5,2.3,29,22,278,12.6,0,10,44.8,29,1.5,18.5,75.9,9.6,57,7.6,435,1,2,4,
+ThomLe00,Leroy Thompson,RB,1993,24,PIT,NFL,RB,15,6,205,763,3,45,42.9,36,3.7,50.9,13.7,46,38,259,6.8,0,14,50.0,28,2.5,17.3,82.6,5.6,243,4.2,1022,3,7,7,
+ThomLe00,Leroy Thompson,RB,1994,25,NWE,NFL,RB,16,1,102,312,2,13,35.3,13,3.1,19.5,6.4,87,65,465,7.2,5,23,49.4,27,4.1,29.1,74.7,5.3,167,4.7,777,7,2,6,
+ThomLe00,Leroy Thompson,RB,1995,26,KAN,NFL,RB,16,0,28,73,0,5,21.4,10,2.6,4.6,1.8,13,9,37,4.1,0,3,38.5,7,0.6,2.3,69.2,2.8,37,3.0,110,0,0,1,
+ThomLe00,Leroy Thompson,RB,1996,27,TAM,NFL,RB,5,0,14,25,0,2,14.3,10,1.8,5.0,2.8,14,5,36,7.2,0,1,21.4,12,1.0,7.2,35.7,2.6,19,3.2,61,0,0,0,

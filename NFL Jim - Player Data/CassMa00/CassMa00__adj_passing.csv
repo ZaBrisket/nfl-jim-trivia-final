@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+CassMa00,Matt Cassel,QB,2008,26,NWE,NFL,QB,16,15,104,101,107,105,108,100,112,83,108,
+CassMa00,Matt Cassel,QB,2009,27,KAN,NFL,QB,15,15,80,79,83,83,80,89,95,86,83,
+CassMa00,Matt Cassel,QB,2010,28,KAN,NFL,QB,15,15,98,99,109,110,92,120,119,106,110,"PB,AP CPoY-4"
+CassMa00,Matt Cassel,QB,2011,29,KAN,NFL,QB,9,9,85,85,86,86,96,94,91,89,90,
+CassMa00,Matt Cassel,QB,2012,30,KAN,NFL,QB,9,8,87,90,77,80,91,76,74,100,77,
+CassMa00,Matt Cassel,QB,2013,31,MIN,NFL,QB,9,6,100,102,94,96,95,99,84,104,93,
+CassMa00,Matt Cassel,QB,2014,32,MIN,NFL,QB,3,3,71,72,63,64,82,97,48,89,69,
+CassMa00,Matt Cassel,QB,2015,33,2TM,NFL,QB,9,8,77,79,73,74,82,76,81,97,72,
+CassMa00,Matt Cassel,QB,2015,33,DAL,NFL,QB,8,7,77,79,73,74,82,76,81,97,72,
+CassMa00,Matt Cassel,QB,2016,34,TEN,NFL,QB,4,1,64,64,66,66,84,95,72,76,74,

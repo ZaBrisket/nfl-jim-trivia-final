@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClarDa00,Dallas Clark,TE,2003,24,IND,NFL,TE,10,10,42,29,340,11.7,1,16,52.4,42,2.9,34.0,69.0,8.1,0,0,0,0,,,,0.0,0.0,29,11.7,340,1,0,4,
+ClarDa00,Dallas Clark,TE,2004,25,IND,NFL,TE,15,13,39,25,423,16.9,5,18,56.4,80,1.7,28.2,64.1,10.8,0,0,0,0,,,,0.0,0.0,25,16.9,423,5,2,5,
+ClarDa00,Dallas Clark,TE,2005,26,IND,NFL,TE,15,14,52,37,488,13.2,4,25,63.5,56,2.5,32.5,71.2,9.4,0,0,0,0,,,,0.0,0.0,37,13.2,488,4,0,6,
+ClarDa00,Dallas Clark,TE,2006,27,IND,NFL,TE,12,12,57,30,367,12.2,4,22,50.9,40,2.5,30.6,52.6,6.4,0,0,0,0,,,,0.0,0.0,30,12.2,367,4,0,5,
+ClarDa00,Dallas Clark,TE,2007,28,IND,NFL,TE,15,15,101,58,616,10.6,11,37,50.5,39,3.9,41.1,57.4,6.1,2,29,0,2,100.0,15,14.5,1.9,0.1,60,10.8,645,11,0,8,
+ClarDa00,Dallas Clark,TE,2008,29,IND,NFL,TE,15,15,107,77,848,11.0,6,41,61.7,33,5.1,56.5,72.0,7.9,0,0,0,0,,,,0.0,0.0,77,11.0,848,6,2,10,
+ClarDa00,Dallas Clark,TE,2009,30,IND,NFL,TE,16,16,133,100,1106,11.1,10,61,60.9,80,6.3,69.1,75.2,8.3,2,11,0,1,100.0,7,5.5,0.7,0.1,102,11.0,1117,10,1,12,"PB,AP-1"
+ClarDa00,Dallas Clark,TE,2010,31,IND,NFL,TE,6,6,53,37,347,9.4,3,21,62.3,50,6.2,57.8,69.8,6.5,0,0,0,0,,,,0.0,0.0,37,9.4,347,3,0,3,
+ClarDa00,Dallas Clark,TE,2011,32,IND,NFL,TE,11,10,65,34,352,10.4,2,22,49.2,21,3.1,32.0,52.3,5.4,0,0,0,0,,,,0.0,0.0,34,10.4,352,2,1,2,
+ClarDa00,Dallas Clark,TE,2012,33,TAM,NFL,TE,16,7,75,47,435,9.3,4,23,45.3,33,2.9,27.2,62.7,5.8,0,0,0,0,,,,0.0,0.0,47,9.3,435,4,0,4,
+ClarDa00,Dallas Clark,TE,2013,34,BAL,NFL,TE,12,0,52,31,343,11.1,3,19,46.2,45,2.6,28.6,59.6,6.6,0,0,0,0,,,,0.0,0.0,31,11.1,343,3,0,2,

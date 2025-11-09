@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\Users\\IT\\OneDrive\\NFL Jim - Player Data\")",
+      "Bash(powershell -Command \"(Get-Content ''C:\\Users\\IT\\OneDrive\\NFL Jim - Player Data\\All Player URLs - final.txt'').Count\")",
+      "Bash(pip install:*)",
+      "Bash(python pfr_career_scraper.py:*)",
+      "Bash(curl:*)",
+      "Bash(test:*)",
+      "Bash(cat:*)",
+      "Bash(python test_connection.py:*)",
+      "Bash(python test_cloudscraper.py:*)",
+      "Bash(python -u pfr_career_scraper.py:*)",
+      "Bash(tee:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

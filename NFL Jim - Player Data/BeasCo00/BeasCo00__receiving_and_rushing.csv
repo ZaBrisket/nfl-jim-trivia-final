@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BeasCo00,Cole Beasley,WR,2012,23,DAL,NFL,WR,10,0,24,15,128,8.5,0,8,54.2,20,1.5,12.8,62.5,5.3,0,0,0,0,,,,0.0,0.0,15,8.5,128,0,0,1,
+BeasCo00,Cole Beasley,WR,2013,24,DAL,NFL,WR,14,3,54,39,368,9.4,2,21,55.6,23,2.8,26.3,72.2,6.8,0,0,0,0,,,,0.0,0.0,39,9.4,368,2,1,4,
+BeasCo00,Cole Beasley,WR,2014,25,DAL,NFL,WR,16,2,49,37,420,11.4,4,26,67.3,45,2.3,26.3,75.5,8.6,0,0,0,0,,,,0.0,0.0,37,11.4,420,4,2,4,
+BeasCo00,Cole Beasley,WR,2015,26,DAL,NFL,WR,16,3,75,52,536,10.3,5,31,52.0,30,3.3,33.5,69.3,7.1,0,0,0,0,,,,0.0,0.0,52,10.3,536,5,2,3,
+BeasCo00,Cole Beasley,WR,2016,27,DAL,NFL,WR,16,6,98,75,833,11.1,5,51,69.4,47,4.7,52.1,76.5,8.5,1,7,0,0,100.0,7,7.0,0.4,0.1,76,11.1,840,5,0,8,
+BeasCo00,Cole Beasley,WR,2017,28,DAL,NFL,WR,15,4,63,36,314,8.7,4,20,42.9,54,2.4,20.9,57.1,5.0,0,0,0,0,,,,0.0,0.0,36,8.7,314,4,0,3,
+BeasCo00,Cole Beasley,WR,2018,29,DAL,NFL,WR,16,4,87,65,672,10.3,3,39,59.8,32,4.1,42.0,74.7,7.7,0,0,0,0,,,,0.0,0.0,65,10.3,672,3,0,6,
+BeasCo00,Cole Beasley,WR,2019,30,BUF,NFL,WR,15,10,106,67,778,11.6,6,37,55.7,51,4.5,51.9,63.2,7.3,0,0,0,0,,,,0.0,0.0,67,11.6,778,6,0,6,
+BeasCo00,Cole Beasley,WR,2020,31,BUF,NFL,WR,15,10,107,82,967,11.8,4,53,68.2,35,5.5,64.5,76.6,9.0,0,0,0,0,,,,0.0,0.0,82,11.8,967,4,0,9,AP-2
+BeasCo00,Cole Beasley,WR,2021,32,BUF,NFL,WR,16,8,112,82,693,8.5,1,34,57.1,29,5.1,43.3,73.2,6.2,0,0,0,0,,,,0.0,0.0,82,8.5,693,1,1,7,
+BeasCo00,Cole Beasley,WR,2022,33,2TM,NFL,WR,4,1,7,6,35,5.8,0,1,42.9,9,1.5,8.8,85.7,5.0,0,0,0,0,,,,0.0,0.0,6,5.8,35,0,0,0,
+BeasCo00,Cole Beasley,WR,2022,33,TAM,NFL,WR,2,0,5,4,17,4.3,0,1,20.0,5,2.0,8.5,80.0,3.4,0,0,0,0,,,,0.0,0.0,4,4.3,17,0,0,0,
+BeasCo00,Cole Beasley,WR,2022,33,BUF,NFL,WR,2,1,2,2,18,9.0,0,0,100.0,9,1.0,9.0,100.0,9.0,0,0,0,0,,,,0.0,0.0,2,9.0,18,0,0,0,

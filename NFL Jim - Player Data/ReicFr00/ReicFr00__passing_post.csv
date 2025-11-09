@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+ReicFr00,Frank Reich,QB,1990,29,BUF,NFL,QB,3,0,,0,0,,0,0,,0,,0,,,,,,0.0,,,,,,,0,0,
+ReicFr00,Frank Reich,QB,1991,30,BUF,NFL,QB,3,0,,1,1,100.0,11,0,0.0,0,0.0,1,100.0,11,11.0,11.00,11.0,3.7,112.5,0,0,0.00,11.00,11.00,0,0,
+ReicFr00,Frank Reich,QB,1992,31,BUF,NFL,QB,4,2,2-0-0,55,88,62.5,643,7,8.0,3,3.4,32,50.0,40,7.3,7.36,11.7,160.8,96.9,6,37,6.38,6.45,6.50,1,1,
+ReicFr00,Frank Reich,QB,1993,32,BUF,NFL,QB,3,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+ReicFr00,Frank Reich,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReicFr00,Frank Reich,QB,1997,36,DET,NFL,QB,1,0,,11,15,73.3,129,0,0.0,0,0.0,8,52.9,21,8.6,8.60,11.7,129.0,99.0,2,9,11.76,7.06,7.06,0,0,

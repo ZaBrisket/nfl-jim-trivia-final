@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ButtMa00,Marion Butts,RB,1989,23,SDG,NFL,RB,15,5,9,0,0,0,0,0,0,9,,0,0,0,0,0,54,3.6,
+ButtMa00,Marion Butts,RB,1990,24,SDG,NFL,RB,14,13,8,0,0,0,0,0,0,8,,0,0,0,0,0,48,3.4,"PB,AP-2"
+ButtMa00,Marion Butts,RB,1991,25,SDG,NFL,RB,16,8,6,1,0,0,0,0,0,7,,0,0,0,0,0,42,2.6,PB
+ButtMa00,Marion Butts,RB,1992,26,SDG,NFL,RB,15,15,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,
+ButtMa00,Marion Butts,RB,1993,27,SDG,NFL,RB,16,16,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+ButtMa00,Marion Butts,RB,1994,28,NWE,NFL,RB,16,15,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+ButtMa00,Marion Butts,RB,1995,29,HOU,NFL,RB,12,2,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,2.0,

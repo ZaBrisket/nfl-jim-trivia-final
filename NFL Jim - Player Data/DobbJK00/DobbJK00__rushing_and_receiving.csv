@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DobbJK00,J.K. Dobbins,RB,2020,22,BAL,NFL,RB,15,1,134,805,9,38,56.7,72,6.0,53.7,8.9,24,18,120,6.7,0,4,37.5,19,1.2,8.0,75.0,5.0,152,6.1,925,9,2,7,
+DobbJK00,J.K. Dobbins,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DobbJK00,J.K. Dobbins,RB,2022,24,BAL,NFL,RB,8,8,92,520,2,26,57.6,44,5.7,65.0,11.5,8,7,42,6.0,1,3,62.5,20,0.9,5.3,87.5,5.3,99,5.7,562,3,0,4,
+DobbJK00,J.K. Dobbins,RB,2023,25,BAL,NFL,RB,1,1,8,22,1,1,50.0,4,2.8,22.0,8.0,3,2,15,7.5,0,0,66.7,10,2.0,15.0,66.7,5.0,10,3.7,37,1,0,0,
+DobbJK00,J.K. Dobbins,RB,2024,26,LAC,NFL,RB,13,11,195,905,9,47,42.6,61,4.6,69.6,15.0,38,32,153,4.8,0,6,26.3,15,2.5,11.8,84.2,4.0,227,4.7,1058,9,0,7,AP CPoY-2
+DobbJK00,J.K. Dobbins,RB,2025,27,DEN,NFL,RB,10,9,153,772,4,37,53.6,41,5.0,77.2,15.3,14,11,37,3.4,0,0,35.7,9,1.1,3.7,78.6,2.6,164,4.9,809,4,0,,

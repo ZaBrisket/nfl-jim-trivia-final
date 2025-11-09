@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+PresDa01,Dak Prescott,QB,2018,25,DAL,NFL,QB,2,2,42,65,479,7.4,274,6.5,4.2,218,5.2,0,2,0,4,6.3,12,19.0,,,2.5,14,6,3,11,16.2,1,2.0,,,,,,,,,
+PresDa01,Dak Prescott,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PresDa01,Dak Prescott,QB,2021,28,DAL,NFL,QB,1,1,23,43,372,8.7,156,6.8,3.6,98,4.3,1,1,1,2,4.9,14,34.1,28,68.3,2.5,10,3,6,14,26.9,4,6.8,2,5,2,5,0,0,4,28,
+PresDa01,Dak Prescott,QB,2022,29,DAL,NFL,QB,2,2,48,70,571,8.2,305,6.4,4.4,206,4.3,1,1,0,7,10.1,8,11.6,51,73.9,2.4,16,3,7,12,15.6,5,6.8,3,16,3,16,0,0,17,172,
+PresDa01,Dak Prescott,QB,2023,30,DAL,NFL,QB,1,1,41,60,511,8.5,241,5.9,4.0,162,4.0,1,1,0,2,3.4,10,16.9,49,83.1,2.5,9,2,5,11,15.7,6,7.5,3,18,2,17,1,1,8,15,

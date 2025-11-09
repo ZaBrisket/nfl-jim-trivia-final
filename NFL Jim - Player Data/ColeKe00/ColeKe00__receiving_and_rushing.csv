@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ColeKe00,Keelan Cole,WR,2017,24,JAX,NFL,WR,16,6,83,42,748,17.8,3,32,45.8,75,2.6,46.8,50.6,9.0,0,0,0,0,,,,0.0,0.0,42,17.8,748,3,2,6,
+ColeKe00,Keelan Cole,WR,2018,25,JAX,NFL,WR,16,11,70,38,491,12.9,1,25,52.9,35,2.4,30.7,54.3,7.0,0,0,0,0,,,,0.0,0.0,38,12.9,491,1,2,3,
+ColeKe00,Keelan Cole,WR,2019,26,JAX,NFL,WR,16,1,35,24,361,15.0,3,19,60.0,55,1.5,22.6,68.6,10.3,1,6,0,0,100.0,6,6.0,0.4,0.1,25,14.7,367,3,0,3,
+ColeKe00,Keelan Cole,WR,2020,27,JAX,NFL,WR,16,5,88,55,642,11.7,5,34,58.0,51,3.4,40.1,62.5,7.3,1,2,0,0,0.0,2,2.0,0.1,0.1,56,11.5,644,5,0,6,
+ColeKe00,Keelan Cole,WR,2021,28,NYJ,NFL,WR,15,11,51,28,449,16.0,1,20,49.0,54,1.9,29.9,54.9,8.8,0,0,0,0,,,,0.0,0.0,28,16.0,449,1,0,3,
+ColeKe00,Keelan Cole,WR,2022,29,LVR,NFL,WR,14,3,21,10,141,14.1,1,8,47.6,30,0.7,10.1,47.6,6.7,0,0,0,0,,,,0.0,0.0,10,14.1,141,1,1,1,

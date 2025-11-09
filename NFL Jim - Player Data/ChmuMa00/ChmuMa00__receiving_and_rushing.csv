@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ChmuMa00,Mark Chmura,TE,1993,24,GNB,NFL,TE,14,0,4,2,13,6.5,0,1,50.0,7,0.1,0.9,50.0,3.3,0,0,0,0,0.0,0.0,2,6.5,13,0,1,0,
+ChmuMa00,Mark Chmura,TE,1994,25,GNB,NFL,TE,14,4,21,14,165,11.8,0,9,52.4,27,1.0,11.8,66.7,7.9,0,0,0,0,0.0,0.0,14,11.8,165,0,0,2,
+ChmuMa00,Mark Chmura,TE,1995,26,GNB,NFL,TE,16,15,76,54,679,12.6,7,44,71.1,33,3.4,42.4,71.1,8.9,0,0,0,0,0.0,0.0,54,12.6,679,7,0,7,PB
+ChmuMa00,Mark Chmura,TE,1996,27,GNB,NFL,TE,13,13,48,28,370,13.2,0,19,54.2,29,2.2,28.5,58.3,7.7,0,0,0,0,0.0,0.0,28,13.2,370,0,0,4,
+ChmuMa00,Mark Chmura,TE,1997,28,GNB,NFL,TE,15,14,56,38,417,11.0,6,25,58.9,32,2.5,27.8,67.9,7.4,0,0,0,0,0.0,0.0,38,11.0,417,6,1,5,PB
+ChmuMa00,Mark Chmura,TE,1998,29,GNB,NFL,TE,15,14,74,47,554,11.8,4,30,52.7,25,3.1,36.9,63.5,7.5,0,0,0,0,0.0,0.0,47,11.8,554,4,1,6,PB
+ChmuMa00,Mark Chmura,TE,1999,30,GNB,NFL,TE,2,2,9,5,55,11.0,0,3,55.6,16,2.5,27.5,55.6,6.1,0,0,0,0,0.0,0.0,5,11.0,55,0,0,0,

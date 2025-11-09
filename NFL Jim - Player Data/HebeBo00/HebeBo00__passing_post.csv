@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+HebeBo00,Bobby Hebert,QB,1987,27,NOR,NFL,QB,1,1,0-1-0,9,19,47.4,84,1,5.3,2,10.5,5,35.0,25,4.4,0.74,9.3,84.0,37.9,1,4,5.00,4.00,0.50,0,0,
+HebeBo00,Bobby Hebert,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HebeBo00,Bobby Hebert,QB,1991,31,NOR,NFL,QB,1,1,0-1-0,26,44,59.1,273,1,2.3,2,4.5,16,44.4,26,6.2,4.61,10.5,273.0,65.8,1,8,2.22,5.89,4.33,0,0,
+HebeBo00,Bobby Hebert,QB,1992,32,NOR,NFL,QB,1,1,0-1-0,23,39,59.0,291,1,2.6,3,7.7,16,50.0,35,7.5,4.51,12.7,291.0,58.8,1,7,2.50,7.10,4.23,0,0,

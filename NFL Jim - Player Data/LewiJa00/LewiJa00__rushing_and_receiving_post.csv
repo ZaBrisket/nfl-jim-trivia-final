@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LewiJa00,Jamal Lewis,RB,2000,21,BAL,NFL,RB,4,3,103,338,4,16,27.2,27,3.3,84.5,25.8,8,5,40,8.0,0,1,37.5,15,1.3,10.0,62.5,5.0,108,3.5,378,4,1,
+LewiJa00,Jamal Lewis,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LewiJa00,Jamal Lewis,RB,2003,24,BAL,NFL,RB,1,1,14,35,0,0,0.0,8,2.5,35.0,14.0,3,2,4,2.0,0,0,0.0,6,2.0,4.0,66.7,1.3,16,2.4,39,0,0,
+LewiJa00,Jamal Lewis,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LewiJa00,Jamal Lewis,RB,2006,27,BAL,NFL,RB,1,1,13,53,0,1,30.8,18,4.1,53.0,13.0,4,3,24,8.0,0,1,50.0,13,3.0,24.0,75.0,6.0,16,4.8,77,0,0,

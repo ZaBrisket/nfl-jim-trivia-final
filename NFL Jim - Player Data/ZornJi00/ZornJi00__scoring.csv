@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ZornJi00,Jim Zorn,QB,1976,23,SEA,NFL,QB,14,14,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.7,
+ZornJi00,Jim Zorn,QB,1977,24,SEA,NFL,QB,10,10,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.6,
+ZornJi00,Jim Zorn,QB,1978,25,SEA,NFL,QB,16,16,6,0,0,0,0,0,0,6,0,0,0,0,0,36,2.3,"AP-2,AP MVP-3,AP OPoY-3"
+ZornJi00,Jim Zorn,QB,1979,26,SEA,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,AP OPoY-4
+ZornJi00,Jim Zorn,QB,1980,27,SEA,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+ZornJi00,Jim Zorn,QB,1981,28,SEA,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+ZornJi00,Jim Zorn,QB,1982,29,SEA,NFL,QB,9,7,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+ZornJi00,Jim Zorn,QB,1983,30,SEA,NFL,QB,16,8,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

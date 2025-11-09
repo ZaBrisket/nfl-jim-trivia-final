@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+NacuPu00,Puka Nacua,WR,2023*,22,LAR,WR,17,17,17,1000,87%,0,0%,7,2%
+NacuPu00,Puka Nacua,WR,2024,23,LAR,WR,12,11,11,487,68%,0,0%,2,1%
+NacuPu00,Puka Nacua,WR,2025,24,LAR,WR,12,7,7,330,71%,0,0%,1,1%

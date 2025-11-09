@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BavaMa00,Mark Bavaro,TE,1985,22,NYG,NFL,TE,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+BavaMa00,Mark Bavaro,TE,1986,23,NYG,NFL,TE,16,15,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,"PB,AP-1,AP MVP-6"
+BavaMa00,Mark Bavaro,TE,1987,24,NYG,NFL,TE,12,12,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,4.0,"PB,AP-1"
+BavaMa00,Mark Bavaro,TE,1988,25,NYG,NFL,TE,16,15,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+BavaMa00,Mark Bavaro,TE,1989,26,NYG,NFL,TE,7,7,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,2.6,
+BavaMa00,Mark Bavaro,TE,1990,27,NYG,NFL,TE,15,15,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,2.0,
+BavaMa00,Mark Bavaro,TE,1991,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,
+BavaMa00,Mark Bavaro,TE,1992,29,CLE,NFL,TE,16,16,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+BavaMa00,Mark Bavaro,TE,1993,30,PHI,NFL,TE,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+BavaMa00,Mark Bavaro,TE,1994,31,PHI,NFL,TE,12,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.5,

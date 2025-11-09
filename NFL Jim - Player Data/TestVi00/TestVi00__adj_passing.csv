@@ -1,0 +1,22 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TestVi00,Vinny Testaverde,QB,1987,24,TAM,NFL,QB,6,4,92,85,94,89,61,88,104,85,82,
+TestVi00,Vinny Testaverde,QB,1988,25,TAM,NFL,QB,15,15,99,98,74,75,76,85,50,103,67,
+TestVi00,Vinny Testaverde,QB,1989,26,TAM,NFL,QB,14,14,89,89,89,89,94,101,89,98,92,
+TestVi00,Vinny Testaverde,QB,1990,27,TAM,NFL,QB,14,13,116,103,104,97,97,108,81,85,99,
+TestVi00,Vinny Testaverde,QB,1991,28,TAM,NFL,QB,13,12,83,81,79,78,78,83,85,85,76,
+TestVi00,Vinny Testaverde,QB,1992,29,TAM,NFL,QB,14,14,106,100,99,96,100,103,86,89,97,
+TestVi00,Vinny Testaverde,QB,1993,30,CLE,NFL,QB,10,6,120,118,117,116,96,130,92,99,112,
+TestVi00,Vinny Testaverde,QB,1994,31,CLE,NFL,QB,14,13,102,110,92,98,90,106,74,121,90,
+TestVi00,Vinny Testaverde,QB,1995,32,CLE,NFL,QB,13,12,115,121,115,119,112,105,110,113,114,
+TestVi00,Vinny Testaverde,QB,1996,33,BAL,NFL,QB,16,16,122,121,118,117,107,127,95,105,116,PB
+TestVi00,Vinny Testaverde,QB,1997,34,BAL,NFL,QB,13,13,92,100,95,99,103,98,101,118,98,
+TestVi00,Vinny Testaverde,QB,1998,35,NYJ,NFL,QB,14,13,117,123,126,129,120,129,122,117,129,"PB,AP OPoY-7,AP CPoY-3"
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,2000,37,NYJ,NFL,QB,16,16,92,104,88,96,90,96,85,130,88,AP CPoY-7
+TestVi00,Vinny Testaverde,QB,2001,38,NYJ,NFL,QB,16,16,90,98,92,97,100,93,100,117,95,
+TestVi00,Vinny Testaverde,QB,2002,39,NYJ,NFL,QB,5,4,85,76,85,80,121,95,93,77,99,
+TestVi00,Vinny Testaverde,QB,2003,40,NYJ,NFL,QB,7,7,104,111,113,118,109,93,137,123,113,
+TestVi00,Vinny Testaverde,QB,2004,41,DAL,NFL,QB,16,15,105,106,97,99,102,92,85,101,95,
+TestVi00,Vinny Testaverde,QB,2005,42,NYJ,NFL,QB,6,4,107,95,84,78,90,63,57,78,72,
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,2007,44,CAR,NFL,QB,7,6,72,81,76,81,78,87,93,108,78,

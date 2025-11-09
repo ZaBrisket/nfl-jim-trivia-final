@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HuarDa00,Damon Huard,QB,1999,26,MIA,NFL,QB,16,5,87,79,97,91,102,97,120,74,102,
+HuarDa00,Damon Huard,QB,2000,27,MIA,NFL,QB,16,1,68,74,63,67,115,72,77,106,75,
+HuarDa00,Damon Huard,QB,,,,,,,,,,,,,,,,,
+HuarDa00,Damon Huard,QB,2006,33,KAN,NFL,QB,10,8,117,115,128,125,102,106,143,102,122,
+HuarDa00,Damon Huard,QB,2007,34,KAN,NFL,QB,11,10,98,90,92,87,105,92,86,77,93,
+HuarDa00,Damon Huard,QB,2008,35,KAN,NFL,QB,5,3,80,75,73,71,102,82,72,72,79,

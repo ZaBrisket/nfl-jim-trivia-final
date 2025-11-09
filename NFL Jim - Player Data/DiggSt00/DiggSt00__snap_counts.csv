@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DiggSt00,Stefon Diggs,WR,2015,22,MIN,WR,14,13,9,654,77%,0,0%,6,2%
+DiggSt00,Stefon Diggs,WR,2016,23,MIN,WR,14,13,11,694,81%,0,0%,8,2%
+DiggSt00,Stefon Diggs,WR,2017,24,MIN,WR,14,14,14,780,80%,0,0%,0,0%
+DiggSt00,Stefon Diggs,WR,2018,25,MIN,WR,14,15,14,874,87%,0,0%,0,0%
+DiggSt00,Stefon Diggs,WR,2019,26,MIN,WR,14,15,15,772,79%,0,0%,2,1%
+DiggSt00,Stefon Diggs,WR,2020*+,27,BUF,WR,14,16,15,965,89%,0,0%,5,1%
+DiggSt00,Stefon Diggs,WR,2021*,28,BUF,WR,14,17,17,977,82%,0,0%,0,0%
+DiggSt00,Stefon Diggs,WR,2022*,29,BUF,WR,14,16,16,836,77%,0,0%,4,1%
+DiggSt00,Stefon Diggs,WR,2023*,30,BUF,WR,14,17,17,949,82%,0,0%,1,0%
+DiggSt00,Stefon Diggs,WR,2024,31,HOU,WR,1,8,8,431,78%,0,0%,0,0%
+DiggSt00,Stefon Diggs,WR,2025,32,NWE,WR,8,9,9,320,55%,0,0%,2,1%

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillMi04,Mike Williams,WR,2010,23,TAM,NFL,WR,16,16,129,65,964,14.8,11,44,42.6,58,4.1,60.3,50.4,7.5,0,0,0,0,,,,0.0,0.0,65,14.8,964,11,3,9,AP ORoY-2
+WillMi04,Mike Williams,WR,2011,24,TAM,NFL,WR,16,15,124,65,771,11.9,3,42,44.4,42,4.1,48.2,52.4,6.2,1,3,0,0,0.0,3,3.0,0.2,0.1,66,11.7,774,3,2,6,
+WillMi04,Mike Williams,WR,2012,25,TAM,NFL,WR,16,16,126,63,996,15.8,9,44,43.7,65,3.9,62.3,50.0,7.9,0,0,0,0,,,,0.0,0.0,63,15.8,996,9,0,9,
+WillMi04,Mike Williams,WR,2013,26,TAM,NFL,WR,6,5,40,22,216,9.8,2,12,40.0,28,3.7,36.0,55.0,5.4,0,0,0,0,,,,0.0,0.0,22,9.8,216,2,0,2,
+WillMi04,Mike Williams,WR,2014,27,BUF,NFL,WR,9,0,19,8,142,17.8,1,3,31.6,80,0.9,15.8,42.1,7.5,0,0,0,0,,,,0.0,0.0,8,17.8,142,1,0,1,

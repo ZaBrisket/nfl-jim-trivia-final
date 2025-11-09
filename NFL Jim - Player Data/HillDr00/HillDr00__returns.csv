@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HillDr00,Drew Hill,WR,1979,23,RAM,NFL,WR,16,4,1,0,0,0,0.0,40,803,0,39,20.1,897,
+HillDr00,Drew Hill,WR,1980,24,RAM,NFL,WR,16,0,0,0,0,0,,43,880,1,98,20.5,1300,
+HillDr00,Drew Hill,WR,1981,25,RAM,NFL,WR,16,2,2,22,0,12,11.0,60,1170,0,50,19.5,1561,
+HillDr00,Drew Hill,WR,1982,26,RAM,NFL,WR,9,0,0,0,0,0,,2,42,0,24,21.0,134,
+HillDr00,Drew Hill,WR,1983,,Did not play - Injured,,,,,,,,,,,,,,,,
+HillDr00,Drew Hill,WR,1984,28,RAM,NFL,WR,16,16,0,0,0,0,,26,543,0,40,20.9,933,
+HillDr00,Drew Hill,WR,1985,29,HOU,NFL,WR,16,16,0,0,0,0,,1,22,0,22,22.0,1191,

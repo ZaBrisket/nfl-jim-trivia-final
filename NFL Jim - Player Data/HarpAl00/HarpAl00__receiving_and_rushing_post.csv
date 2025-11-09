@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HarpAl00,Alvin Harper,WR,1991,23,DAL,NFL,WR,2,1,11,7,144,20.6,0,5,54.5,45,3.5,72.0,63.6,13.1,0,0,0,0,,,,0.0,0.0,7,20.6,144,0,0,
+HarpAl00,Alvin Harper,WR,1992,24,DAL,NFL,WR,3,3,6,5,203,40.6,1,4,83.3,70,1.7,67.7,83.3,33.8,1,3,0,0,0.0,3,3.0,1.0,0.3,6,34.3,206,1,0,
+HarpAl00,Alvin Harper,WR,1993,25,DAL,NFL,WR,3,3,14,9,186,20.7,2,9,64.3,42,3.0,62.0,64.3,13.3,0,0,0,0,,,,0.0,0.0,9,20.7,186,2,0,
+HarpAl00,Alvin Harper,WR,1994,26,DAL,NFL,WR,2,2,8,3,122,40.7,1,2,25.0,94,1.5,61.0,37.5,15.3,0,0,0,0,,,,0.0,0.0,3,40.7,122,1,0,

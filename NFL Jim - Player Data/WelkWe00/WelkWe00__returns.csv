@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WelkWe00,Wes Welker,WR,2004,23,2TM,NFL,WR,15,0,43,464,0,71,10.8,61,1415,1,95,23.2,1879,
+WelkWe00,Wes Welker,WR,2004,23,SDG,NFL,WR,1,0,0,0,0,0,,4,102,0,33,25.5,102,
+WelkWe00,Wes Welker,WR,2004,23,MIA,NFL,WR,14,0,43,464,0,71,10.8,57,1313,1,95,23.0,1777,
+WelkWe00,Wes Welker,WR,2005,24,MIA,NFL,WR,16,1,43,390,0,47,9.1,61,1379,0,46,22.6,2208,
+WelkWe00,Wes Welker,WR,2006,25,MIA,NFL,WR,16,2,41,378,0,47,9.2,48,1064,0,46,22.2,2129,
+WelkWe00,Wes Welker,WR,2007,26,NWE,NFL,WR,16,13,25,249,0,35,10.0,7,176,0,33,25.1,1634,"AP-2,AP OPoY-3"
+WelkWe00,Wes Welker,WR,2008,27,NWE,NFL,WR,16,14,24,237,0,44,9.9,1,26,0,26,26.0,1454,"PB,AP-2"
+WelkWe00,Wes Welker,WR,2009,28,NWE,NFL,WR,14,13,27,338,0,69,12.5,2,45,0,27,22.5,1767,"PB,AP-1"
+WelkWe00,Wes Welker,WR,2010,29,NWE,NFL,WR,15,11,5,36,0,22,7.2,0,0,0,0,,884,"PB,AP CPoY-4"
+WelkWe00,Wes Welker,WR,2011,30,NWE,NFL,WR,16,15,8,82,0,25,10.3,0,0,0,0,,1681,"PB,AP-1"
+WelkWe00,Wes Welker,WR,2012,31,NWE,NFL,WR,16,12,25,243,0,31,9.7,3,33,0,17,11.0,1650,PB
+WelkWe00,Wes Welker,WR,2013,32,DEN,NFL,WR,13,13,10,70,0,27,7.0,0,0,0,0,,848,
+WelkWe00,Wes Welker,WR,2014,33,DEN,NFL,WR,14,8,11,74,0,19,6.7,0,0,0,0,,538,
+WelkWe00,Wes Welker,WR,2015,34,STL,NFL,WR,8,0,2,23,0,13,11.5,0,0,0,0,,125,

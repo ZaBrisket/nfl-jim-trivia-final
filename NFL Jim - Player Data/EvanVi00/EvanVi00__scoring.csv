@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+EvanVi00,Vince Evans,QB,1979,24,CHI,NFL,QB,4,3,1,0,0,0,0,0,0,1,0,0,0,0,0,6,1.5,
+EvanVi00,Vince Evans,QB,1980,25,CHI,NFL,QB,13,10,8,0,0,0,0,0,0,8,0,0,0,0,0,48,3.7,
+EvanVi00,Vince Evans,QB,1981,26,CHI,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+EvanVi00,Vince Evans,QB,,,,,,,,,,,,,,,,,,,,,,,
+EvanVi00,Vince Evans,QB,1983,28,CHI,NFL,QB,9,3,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+EvanVi00,Vince Evans,QB,1984,,Did not play - Chicago Blitz (United States Football League),,,,,,,,,,,,,,,,,,,,
+EvanVi00,Vince Evans,QB,1985,,Did not play - Denver Gold (United States Football League),,,,,,,,,,,,,,,,,,,,
+EvanVi00,Vince Evans,QB,1987,32,RAI,NFL,QB,3,3,1,0,0,0,0,0,0,1,0,0,0,0,0,6,2.0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GarcJe00,Jeff Garcia,QB,1999,29,SFO,NFL,QB,13,10,100,106,99,104,110,89,105,119,100,
+GarcJe00,Jeff Garcia,QB,2000,30,SFO,NFL,QB,16,16,116,122,125,129,121,119,124,118,127,PB
+GarcJe00,Jeff Garcia,QB,2001,31,SFO,NFL,QB,16,16,105,111,116,120,113,133,113,111,123,PB
+GarcJe00,Jeff Garcia,QB,2002,32,SFO,NFL,QB,16,16,92,102,104,110,110,101,123,123,110,PB
+GarcJe00,Jeff Garcia,QB,2003,33,SFO,NFL,QB,13,13,102,106,102,105,93,106,97,109,99,
+GarcJe00,Jeff Garcia,QB,2004,34,CLE,NFL,QB,11,10,101,99,98,97,92,99,93,85,95,
+GarcJe00,Jeff Garcia,QB,2005,35,DET,NFL,QB,6,5,74,84,75,81,97,73,94,121,80,
+GarcJe00,Jeff Garcia,QB,2006,36,PHI,NFL,QB,8,6,103,110,117,121,105,115,133,121,120,AP CPoY-5
+GarcJe00,Jeff Garcia,QB,2007,37,TAM,NFL,QB,13,13,112,112,119,118,111,100,128,104,117,PB
+GarcJe00,Jeff Garcia,QB,2008,38,TAM,NFL,QB,12,11,105,107,109,110,113,90,120,102,109,

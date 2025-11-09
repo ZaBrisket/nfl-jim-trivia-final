@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MorrAl00,Alfred Morris,RB,2012,24,WAS,RB,46,16,16,727,70%,0,0%,0,0%
+MorrAl00,Alfred Morris,RB,2013*,25,WAS,RB,46,16,16,604,53%,0,0%,0,0%
+MorrAl00,Alfred Morris,RB,2014*,26,WAS,RB,46,16,16,593,56%,0,0%,0,0%
+MorrAl00,Alfred Morris,RB,2015,27,WAS,RB,46,16,16,385,36%,0,0%,9,2%
+MorrAl00,Alfred Morris,RB,2016,28,DAL,RB,46,14,0,130,14%,0,0%,3,1%
+MorrAl00,Alfred Morris,RB,2017,29,DAL,RB,46,14,5,204,22%,0,0%,1,0%
+MorrAl00,Alfred Morris,RB,2018,30,SFO,RB,46,12,1,250,31%,0,0%,0,0%
+MorrAl00,Alfred Morris,RB,2019,31,ARI,RB,36,1,0,3,5%,0,0%,0,0%
+MorrAl00,Alfred Morris,RB,2020,32,NYG,RB,41,9,0,111,19%,0,0%,0,0%

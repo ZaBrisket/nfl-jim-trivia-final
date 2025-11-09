@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MartTo00,Tony Martin,WR,1990,25,MIA,NFL,WR,16,5,56,29,388,13.4,2,22,46.4,45,1.8,24.3,51.8,6.9,1,8,0,1,100.0,8,8.0,0.5,0.1,30,13.2,396,2,4,4,
+MartTo00,Tony Martin,WR,1991,26,MIA,NFL,WR,16,0,51,27,434,16.1,2,16,39.2,54,1.7,27.1,52.9,8.5,0,0,0,0,,,,0.0,0.0,27,16.1,434,2,2,5,
+MartTo00,Tony Martin,WR,1992,27,MIA,NFL,WR,16,3,65,33,553,16.8,2,26,43.1,55,2.1,34.6,50.8,8.5,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,34,16.2,551,2,2,5,
+MartTo00,Tony Martin,WR,1993,28,MIA,NFL,WR,12,0,37,20,347,17.4,3,14,45.9,80,1.7,28.9,54.1,9.4,1,6,0,0,100.0,6,6.0,0.5,0.1,21,16.8,353,3,1,3,
+MartTo00,Tony Martin,WR,1994,29,SDG,NFL,WR,16,1,90,50,885,17.7,7,39,47.8,99,3.1,55.3,55.6,9.8,2,-9,0,0,0.0,4,-4.5,-0.6,0.1,52,16.8,876,7,2,9,
+MartTo00,Tony Martin,WR,1995,30,SDG,NFL,WR,16,16,165,90,1224,13.6,6,60,50.3,51,5.6,76.5,54.5,7.4,0,0,0,0,,,,0.0,0.0,90,13.6,1224,6,3,10,
+MartTo00,Tony Martin,WR,1996,31,SDG,NFL,WR,16,16,167,85,1171,13.8,14,59,43.1,55,5.3,73.2,50.9,7.0,0,0,0,0,,,,0.0,0.0,85,13.8,1171,14,0,10,"PB,AP-2"
+MartTo00,Tony Martin,WR,1997,32,SDG,NFL,WR,16,16,146,63,904,14.3,6,45,39.7,72,3.9,56.5,43.2,6.2,0,0,0,0,,,,0.0,0.0,63,14.3,904,6,0,6,
+MartTo00,Tony Martin,WR,1998,33,ATL,NFL,WR,16,16,133,66,1181,17.9,6,56,47.4,62,4.1,73.8,49.6,8.9,0,0,0,0,,,,0.0,0.0,66,17.9,1181,6,0,13,
+MartTo00,Tony Martin,WR,1999,34,MIA,NFL,WR,16,13,117,67,1037,15.5,5,51,51.3,69,4.2,64.8,57.3,8.9,1,-6,0,0,0.0,-6,-6.0,-0.4,0.1,68,15.2,1031,5,0,9,
+MartTo00,Tony Martin,WR,2000,35,MIA,NFL,WR,10,5,63,26,393,15.1,0,19,39.7,44,2.6,39.3,41.3,6.2,0,0,0,0,,,,0.0,0.0,26,15.1,393,0,0,4,
+MartTo00,Tony Martin,WR,2001,36,ATL,NFL,WR,11,9,77,37,548,14.8,3,29,40.3,63,3.4,49.8,48.1,7.1,0,0,0,0,,,,0.0,0.0,37,14.8,548,3,0,5,

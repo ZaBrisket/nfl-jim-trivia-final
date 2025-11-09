@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GadoSa00,Samkon Gado,RB,2005,23,GNB,NFL,RB,8,5,143,582,6,32,42.0,64,4.1,72.8,17.9,12,10,77,7.7,1,4,58.3,30,1.3,9.6,83.3,6.4,153,4.3,659,7,4,4,
+GadoSa00,Samkon Gado,RB,2006,24,2TM,NFL,RB,9,1,56,210,1,11,35.7,34,3.8,23.3,6.2,23,17,85,5.0,0,3,26.1,19,1.9,9.4,73.9,3.7,73,4.0,295,1,1,2,
+GadoSa00,Samkon Gado,RB,2006,24,GNB,NFL,RB,1,0,2,-7,0,0,0.0,-3,-3.5,-7.0,2.0,1,1,5,5.0,0,0,0.0,5,1.0,5.0,100.0,5.0,3,-0.7,-2,0,0,0,
+GadoSa00,Samkon Gado,RB,2006,24,HOU,NFL,RB,8,1,54,217,1,11,37.0,34,4.0,27.1,6.8,22,16,80,5.0,0,3,27.3,19,2.0,10.0,72.7,3.6,70,4.2,297,1,1,2,
+GadoSa00,Samkon Gado,RB,2007,25,2TM,NFL,RB,8,2,53,150,4,9,34.0,20,2.8,18.8,6.6,13,12,106,8.8,0,3,46.2,35,1.5,13.3,92.3,8.2,65,3.9,256,4,1,2,
+GadoSa00,Samkon Gado,RB,2007,25,HOU,NFL,RB,3,0,18,46,1,4,44.4,7,2.6,15.3,6.0,8,8,59,7.4,0,2,62.5,20,2.7,19.7,100.0,7.4,26,4.0,105,1,1,1,
+GadoSa00,Samkon Gado,RB,2007,25,MIA,NFL,RB,5,2,35,104,3,5,28.6,20,3.0,20.8,7.0,5,4,47,11.8,0,1,20.0,35,0.8,9.4,80.0,9.4,39,3.9,151,3,0,1,
+GadoSa00,Samkon Gado,RB,2008,26,STL,NFL,RB,1,0,2,4,0,0,0.0,3,2.0,4.0,2.0,1,1,-1,-1.0,0,0,0.0,-1,1.0,-1.0,100.0,-1.0,3,1.0,3,0,0,0,
+GadoSa00,Samkon Gado,RB,2009,27,STL,NFL,RB,15,0,14,26,0,4,35.7,11,1.9,1.7,0.9,3,3,25,8.3,0,0,66.7,13,0.2,1.7,100.0,8.3,17,3.0,51,0,0,0,

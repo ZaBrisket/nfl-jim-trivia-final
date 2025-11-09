@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HarvPe00,Percy Harvin,WR,2009,21,MIN,NFL,WR,15,8,91,60,790,13.2,6,43,53.8,51,4.0,52.7,65.9,8.7,15,135,0,8,66.7,35,9.0,9.0,1.0,75,12.3,925,6,1,11,"PB,AP ORoY-1"
+HarvPe00,Percy Harvin,WR,2010,22,MIN,NFL,WR,14,13,109,71,868,12.2,5,40,49.5,53,5.1,62.0,65.1,8.0,18,107,1,7,61.1,17,5.9,7.6,1.3,89,11.0,975,6,1,9,
+HarvPe00,Percy Harvin,WR,2011,23,MIN,NFL,WR,16,14,121,87,967,11.1,6,47,50.4,52,5.4,60.4,71.9,8.0,52,345,2,15,53.8,39,6.6,21.6,3.3,139,9.4,1312,8,2,12,
+HarvPe00,Percy Harvin,WR,2012,24,MIN,NFL,WR,9,8,85,62,677,10.9,3,37,61.2,45,6.9,75.2,72.9,8.0,22,96,1,7,54.5,20,4.4,10.7,2.4,84,9.2,773,4,2,9,
+HarvPe00,Percy Harvin,WR,2013,25,SEA,NFL,WR,1,0,1,1,17,17.0,0,1,100.0,17,1.0,17.0,100.0,17.0,0,0,0,0,,,,0.0,0.0,1,17.0,17,0,0,0,
+HarvPe00,Percy Harvin,WR,2014,26,2TM,NFL,WR,13,12,78,51,483,9.5,1,23,48.7,45,3.9,37.2,65.4,6.2,33,202,1,12,60.6,51,6.1,15.5,2.5,84,8.2,685,2,3,5,
+HarvPe00,Percy Harvin,WR,2014,26,SEA,NFL,WR,5,4,26,22,133,6.0,0,8,57.7,33,4.4,26.6,84.6,5.1,11,92,1,4,54.5,51,8.4,18.4,2.2,33,6.8,225,1,2,2,
+HarvPe00,Percy Harvin,WR,2014,26,NYJ,NFL,WR,8,8,52,29,350,12.1,1,15,44.2,45,3.6,43.8,55.8,6.7,22,110,0,8,63.6,13,5.0,13.8,2.8,51,9.0,460,1,1,3,
+HarvPe00,Percy Harvin,WR,2015,27,BUF,NFL,WR,5,5,30,19,218,11.5,1,10,40.0,51,3.8,43.6,63.3,7.3,5,31,0,2,80.0,9,6.2,6.2,1.0,24,10.4,249,1,1,2,
+HarvPe00,Percy Harvin,WR,2016,28,BUF,NFL,WR,2,1,4,2,6,3.0,0,0,0.0,5,1.0,3.0,50.0,1.5,1,11,0,1,100.0,11,11.0,5.5,0.5,3,5.7,17,0,0,0,

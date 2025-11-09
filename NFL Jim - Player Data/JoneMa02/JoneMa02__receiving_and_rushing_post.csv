@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JoneMa02,Marvin Jones,WR,2012,22,CIN,NFL,WR,1,1,5,3,34,11.3,0,2,40.0,15,3.0,34.0,60.0,6.8,0,0,0,0,0.0,0.0,3,11.3,34,0,0,
+JoneMa02,Marvin Jones,WR,2013,23,CIN,NFL,WR,1,0,12,8,130,16.3,0,6,58.3,49,8.0,130.0,66.7,10.8,0,0,0,0,0.0,0.0,8,16.3,130,0,0,
+JoneMa02,Marvin Jones,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneMa02,Marvin Jones,WR,2015,25,CIN,NFL,WR,1,1,7,4,32,8.0,0,2,57.1,13,4.0,32.0,57.1,4.6,0,0,0,0,0.0,0.0,4,8.0,32,0,0,
+JoneMa02,Marvin Jones,WR,2016,26,DET,NFL,WR,1,1,7,4,81,20.3,0,4,57.1,30,4.0,81.0,57.1,11.6,0,0,0,0,0.0,0.0,4,20.3,81,0,0,
+JoneMa02,Marvin Jones,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneMa02,Marvin Jones,WR,2022,32,JAX,NFL,WR,2,1,9,4,50,12.5,1,4,44.4,21,2.0,25.0,44.4,5.6,0,0,0,0,0.0,0.0,4,12.5,50,1,0,

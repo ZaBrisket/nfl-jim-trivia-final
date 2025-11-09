@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HeywCr00,Craig Heyward,RB,1988,22,NOR,NFL,FB,11,8,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+HeywCr00,Craig Heyward,RB,1989,23,NOR,NFL,FB,16,6,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+HeywCr00,Craig Heyward,RB,1990,24,NOR,NFL,FB,16,15,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+HeywCr00,Craig Heyward,RB,1991,25,NOR,NFL,RB,7,4,4,1,0,0,0,0,0,5,,0,0,0,0,0,30,4.3,
+HeywCr00,Craig Heyward,RB,1992,26,NOR,NFL,FB,16,13,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+HeywCr00,Craig Heyward,RB,,,,,,,,,,,,,,,,,,,,,,,,
+HeywCr00,Craig Heyward,RB,1994,28,ATL,NFL,RB,16,11,7,1,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+HeywCr00,Craig Heyward,RB,1995,29,ATL,NFL,RB,16,16,6,2,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,PB
+HeywCr00,Craig Heyward,RB,1996,30,ATL,NFL,RB,15,5,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+HeywCr00,Craig Heyward,RB,1997,31,STL,NFL,FB,16,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

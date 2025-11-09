@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KingKe00,Kenny King,RB,1980,23,OAK,NFL,RB,4,4,42,131,0,3,33.3,27,3.1,32.8,10.5,15,9,187,20.8,2,6,46.7,80,2.3,46.8,60.0,12.5,51,6.2,318,2,0,
+KingKe00,Kenny King,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KingKe00,Kenny King,RB,1982,25,RAI,NFL,FB,2,2,12,46,0,5,66.7,9,3.8,23.0,6.0,4,2,15,7.5,0,1,25.0,11,1.0,7.5,50.0,3.8,14,4.4,61,0,0,
+KingKe00,Kenny King,RB,1983,26,RAI,NFL,FB,3,2,11,32,1,3,27.3,10,2.9,10.7,3.7,3,2,8,4.0,0,0,33.3,7,0.7,2.7,66.7,2.7,13,3.1,40,1,0,
+KingKe00,Kenny King,RB,1984,27,RAI,NFL,FB,1,1,1,4,0,0,100.0,4,4.0,4.0,1.0,1,1,12,12.0,0,1,100.0,12,1.0,12.0,100.0,12.0,2,8.0,16,0,0,
+KingKe00,Kenny King,RB,1985,28,RAI,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,

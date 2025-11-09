@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+JennJa00,Jauan Jennings,WR,2021,24,SFO,NFL,WR,16,1,38,24,282,15,179,7.5,103,4.3,9.1,2,12.0,5,13.2,1,114.3,0,0,0,0,0,0,
+JennJa00,Jauan Jennings,WR,2022,25,SFO,NFL,WR,16,4,56,35,416,23,240,6.9,176,5.0,8.4,3,11.7,7,12.5,3,68.7,0,0,0,0,0,0,
+JennJa00,Jauan Jennings,WR,2023,26,SFO,NFL,WR,13,2,33,19,265,12,176,9.3,89,4.7,10.3,2,9.5,0,0.0,1,81.0,0,0,0,0,0,0,
+JennJa00,Jauan Jennings,WR,2024,27,SFO,NFL,WR,15,10,113,77,975,47,737,9.6,238,3.1,9.9,5,15.4,5,4.4,3,101.5,0,0,0,0,0,0,
+JennJa00,Jauan Jennings,WR,2025,28,SFO,NFL,WR,7,7,41,22,253,12,151,6.9,102,4.6,10.6,1,22.0,2,4.9,5,49.2,0,0,0,0,0,0,

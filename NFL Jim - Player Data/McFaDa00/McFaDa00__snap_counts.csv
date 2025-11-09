@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McFaDa00,Darren McFadden,RB,2012,25,OAK,RB,20,12,12,592,74%,0,0%,0,0%
+McFaDa00,Darren McFadden,RB,2013,26,OAK,RB,20,10,7,336,52%,0,0%,0,0%
+McFaDa00,Darren McFadden,RB,2014,27,OAK,RB,20,16,12,514,50%,0,0%,4,1%
+McFaDa00,Darren McFadden,RB,2015,28,DAL,RB,20,16,10,615,60%,0,0%,5,1%
+McFaDa00,Darren McFadden,RB,2016,29,DAL,RB,20,3,1,48,26%,0,0%,13,15%
+McFaDa00,Darren McFadden,RB,2017,30,DAL,RB,20,1,0,1,2%,0,0%,0,0%

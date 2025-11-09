@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CallCh00,Chris Calloway,WR,1990,22,PIT,NFL,WR,16,2,20,10,124,12.4,1,7,45.0,20,0.6,7.8,50.0,6.2,0,0,0,0,,,,0.0,0.0,10,12.4,124,1,0,1,
+CallCh00,Chris Calloway,WR,1991,23,PIT,NFL,WR,12,0,26,15,254,16.9,1,12,50.0,33,1.3,21.2,57.7,9.8,0,0,0,0,,,,0.0,0.0,15,16.9,254,1,0,2,
+CallCh00,Chris Calloway,WR,1992,24,NYG,NFL,WR,16,1,50,27,335,12.4,1,18,48.0,28,1.7,20.9,54.0,6.7,0,0,0,0,,,,0.0,0.0,27,12.4,335,1,0,4,
+CallCh00,Chris Calloway,WR,1993,25,NYG,NFL,WR,16,9,57,35,513,14.7,3,26,54.4,47,2.2,32.1,61.4,9.0,0,0,0,0,,,,0.0,0.0,35,14.7,513,3,0,5,
+CallCh00,Chris Calloway,WR,1994,26,NYG,NFL,WR,16,14,87,43,666,15.5,2,31,42.5,51,2.7,41.6,49.4,7.7,8,77,0,5,75.0,20,9.6,4.8,0.5,51,14.6,743,2,1,7,
+CallCh00,Chris Calloway,WR,1995,27,NYG,NFL,WR,16,15,104,56,796,14.2,3,43,49.0,49,3.5,49.8,53.8,7.7,2,-9,0,0,0.0,-3,-4.5,-0.6,0.1,58,13.6,787,3,0,7,
+CallCh00,Chris Calloway,WR,1996,28,NYG,NFL,WR,16,15,109,53,739,13.9,4,41,44.0,36,3.3,46.2,48.6,6.8,1,2,0,0,0.0,2,2.0,0.1,0.1,54,13.7,741,4,1,5,
+CallCh00,Chris Calloway,WR,1997,29,NYG,NFL,WR,16,16,99,58,849,14.6,8,42,51.5,68,3.6,53.1,58.6,8.6,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,59,14.4,848,8,0,8,
+CallCh00,Chris Calloway,WR,1998,30,NYG,NFL,WR,16,16,118,62,812,13.1,6,42,47.5,36,3.9,50.8,52.5,6.9,0,0,0,0,,,,0.0,0.0,62,13.1,812,6,1,7,
+CallCh00,Chris Calloway,WR,1999,31,ATL,NFL,WR,11,6,42,22,314,14.3,1,18,52.4,33,2.0,28.5,52.4,7.5,0,0,0,0,,,,0.0,0.0,22,14.3,314,1,0,3,
+CallCh00,Chris Calloway,WR,2000,32,NWE,NFL,WR,7,2,10,5,95,19.0,0,5,50.0,28,0.7,13.6,50.0,9.5,0,0,0,0,,,,0.0,0.0,5,19.0,95,0,0,1,

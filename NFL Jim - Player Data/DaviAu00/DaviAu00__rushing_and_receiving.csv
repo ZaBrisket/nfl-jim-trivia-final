@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DaviAu00,Austin Davis,QB,2014,25,STL,NFL,QB,10,8,16,36,0,2,18.8,12,2.3,3.6,1.6,0,0,0,0,0,0.0,0.0,16,2.3,36,0,5,
+DaviAu00,Austin Davis,QB,2015,26,CLE,NFL,QB,3,2,7,33,0,4,71.4,17,4.7,11.0,2.3,0,0,0,0,0,0.0,0.0,7,4.7,33,0,2,
+DaviAu00,Austin Davis,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DaviAu00,Austin Davis,QB,2017,28,SEA,NFL,QB,3,0,1,-1,0,0,0.0,-1,-1.0,-0.3,0.3,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WeinCh00,Chris Weinke,QB,2001,29,CAR,NFL,QB,15,15,37,128,6,11,32.4,23,3.5,8.5,2.5,0,0,0,0,0,0.0,0.0,37,3.5,128,6,11,
+WeinCh00,Chris Weinke,QB,2002,30,CAR,NFL,QB,6,1,5,9,0,1,20.0,13,1.8,1.5,0.8,0,0,0,0,0,0.0,0.0,5,1.8,9,0,0,
+WeinCh00,Chris Weinke,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WeinCh00,Chris Weinke,QB,2005,33,CAR,NFL,QB,3,0,8,-5,0,0,0.0,1,-0.6,-1.7,2.7,0,0,0,0,0,0.0,0.0,8,-0.6,-5,0,0,
+WeinCh00,Chris Weinke,QB,2006,34,CAR,NFL,QB,3,3,4,16,0,1,50.0,13,4.0,5.3,1.3,0,0,0,0,0,0.0,0.0,4,4.0,16,0,2,

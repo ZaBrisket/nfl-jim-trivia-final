@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+EsiaBo00,Boomer Esiason,QB,1988,27,CIN,NFL,QB,3,3,2-1-0,29,64,45.3,346,1,1.6,3,4.7,16,35.1,30,5.4,3.61,11.9,115.3,48.0,10,58,13.51,3.89,2.34,0,0,
+EsiaBo00,Boomer Esiason,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EsiaBo00,Boomer Esiason,QB,1990,29,CIN,NFL,QB,2,2,1-1-0,22,35,62.9,254,3,8.6,0,0.0,11,43.6,46,7.3,8.97,11.5,127.0,113.3,4,46,10.26,5.33,6.87,0,0,

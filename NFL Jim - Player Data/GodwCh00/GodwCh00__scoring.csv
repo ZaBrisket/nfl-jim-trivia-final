@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GodwCh00,Chris Godwin,WR,2017,21,TAM,NFL,WR,16,2,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+GodwCh00,Chris Godwin,WR,2018,22,TAM,NFL,WR,16,5,0,7,0,0,0,0,0,7,1,,0,0,0,0,0,44,2.8,
+GodwCh00,Chris Godwin,WR,2019,23,TAM,NFL,WR,14,14,0,9,0,0,0,0,0,9,1,,0,0,0,0,0,56,4.0,"PB,AP-2"
+GodwCh00,Chris Godwin,WR,2020,24,TAM,NFL,WR,12,12,0,7,0,0,0,0,0,7,0,,0,0,0,0,0,42,3.5,
+GodwCh00,Chris Godwin,WR,2021,25,TAM,NFL,WR,14,14,1,5,0,0,0,0,0,6,0,0,0,0,0,0,0,36,2.6,
+GodwCh00,Chris Godwin,WR,2022,26,TAM,NFL,WR,15,13,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,20,1.3,AP CPoY-7
+GodwCh00,Chris Godwin,WR,2023,27,TAM,NFL,WR,17,17,1,2,0,0,0,0,0,3,1,0,0,0,0,0,0,20,1.2,
+GodwCh00,Chris Godwin,WR,2024,28,TAM,NFL,WR,7,7,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,4.3,

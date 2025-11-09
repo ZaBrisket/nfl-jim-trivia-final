@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ErtzZa00,Zach Ertz,TE,2013,23,PHI,NFL,TE,16,3,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+ErtzZa00,Zach Ertz,TE,2014,24,PHI,NFL,TE,16,5,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+ErtzZa00,Zach Ertz,TE,2015,25,PHI,NFL,TE,15,7,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+ErtzZa00,Zach Ertz,TE,2016,26,PHI,NFL,TE,14,12,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.7,
+ErtzZa00,Zach Ertz,TE,2017,27,PHI,NFL,TE,14,13,0,8,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.4,PB
+ErtzZa00,Zach Ertz,TE,2018,28,PHI,NFL,TE,16,16,0,8,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.0,PB
+ErtzZa00,Zach Ertz,TE,2019,29,PHI,NFL,TE,15,15,0,6,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.5,PB
+ErtzZa00,Zach Ertz,TE,2020,30,PHI,NFL,TE,11,11,0,1,0,0,0,0,0,1,1,,0,0,0,0,0,8,0.7,
+ErtzZa00,Zach Ertz,TE,2021,31,2TM,NFL,TE,17,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,1.8,
+ErtzZa00,Zach Ertz,TE,2021,31,PHI,NFL,TE,6,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,2.0,
+ErtzZa00,Zach Ertz,TE,2021,31,ARI,NFL,TE,11,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.6,
+ErtzZa00,Zach Ertz,TE,2022,32,ARI,NFL,TE,10,10,0,4,0,0,0,0,0,4,2,0,0,0,0,0,0,28,2.8,
+ErtzZa00,Zach Ertz,TE,2023,33,ARI,NFL,TE,7,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.9,
+ErtzZa00,Zach Ertz,TE,2024,34,WAS,NFL,TE,17,17,0,7,0,0,0,0,0,7,2,0,0,0,0,0,0,46,2.7,AP CPoY-17
+ErtzZa00,Zach Ertz,TE,2025,35,WAS,NFL,TE,9,9,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,26,2.9,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+NickHa01,Hakeem Nicks,WR,2011,23,NYG,NFL,WR,4,4,43,28,444,15.9,4,19,60.5,72,7.0,111.0,65.1,10.3,0,0,0,0,0.0,0.0,28,15.9,444,4,1,
+NickHa01,Hakeem Nicks,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NickHa01,Hakeem Nicks,WR,2014,26,IND,NFL,WR,3,0,8,6,98,16.3,1,5,75.0,45,2.0,32.7,75.0,12.3,0,0,0,0,0.0,0.0,6,16.3,98,1,0,

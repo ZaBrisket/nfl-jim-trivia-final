@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SharSt00,Sterling Sharpe,WR,1988,23,GNB,NFL,WR,16,16,91,55,791,14.4,1,38,51.6,51,3.4,49.4,60.4,8.7,4,-2,0,0,25.0,5,-0.5,-0.1,0.3,59,13.4,789,1,3,5,
+SharSt00,Sterling Sharpe,WR,1989,24,GNB,NFL,WR,16,16,149,90,1423,15.8,12,65,55.7,79,5.6,88.9,60.4,9.6,2,25,0,1,50.0,26,12.5,1.6,0.1,92,15.7,1448,12,1,14,"PB,AP-1"
+SharSt00,Sterling Sharpe,WR,1990,25,GNB,NFL,WR,16,16,128,67,1105,16.5,6,50,48.4,76,4.2,69.1,52.3,8.6,2,14,0,1,100.0,10,7.0,0.9,0.1,69,16.2,1119,6,0,9,PB
+SharSt00,Sterling Sharpe,WR,1991,26,GNB,NFL,WR,16,16,137,69,961,13.9,4,48,49.6,58,4.3,60.1,50.4,7.0,4,4,0,1,50.0,12,1.0,0.3,0.3,73,13.2,965,4,1,9,
+SharSt00,Sterling Sharpe,WR,1992,27,GNB,NFL,WR,16,16,163,108,1461,13.5,13,69,55.8,76,6.8,91.3,66.3,9.0,4,8,0,1,25.0,14,2.0,0.5,0.3,112,13.1,1469,13,2,15,"PB,AP-1,AP MVP-4,AP OPoY-4"
+SharSt00,Sterling Sharpe,WR,1993,28,GNB,NFL,WR,16,16,189,112,1274,11.4,11,68,51.3,54,7.0,79.6,59.3,6.7,4,8,0,0,50.0,5,2.0,0.5,0.3,116,11.1,1282,11,1,15,"PB,AP-1,AP MVP-8,AP OPoY-5"
+SharSt00,Sterling Sharpe,WR,1994,29,GNB,NFL,WR,16,16,160,94,1119,11.9,18,63,50.0,49,5.9,69.9,58.8,7.0,3,15,0,0,33.3,8,5.0,0.9,0.2,97,11.7,1134,18,1,12,PB

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneFr00,Freddie Jones,TE,1997,23,SDG,NFL,TE,13,8,69,41,505,12.3,2,19,44.9,62,3.2,38.8,59.4,7.3,0,0,0,0,0.0,0.0,41,12.3,505,2,0,3,
+JoneFr00,Freddie Jones,TE,1998,24,SDG,NFL,TE,16,16,112,57,602,10.6,3,27,37.5,28,3.6,37.6,50.9,5.4,0,0,0,0,0.0,0.0,57,10.6,602,3,1,4,
+JoneFr00,Freddie Jones,TE,1999,25,SDG,NFL,TE,16,16,91,56,670,12.0,2,38,51.6,36,3.5,41.9,61.5,7.4,0,0,0,0,0.0,0.0,56,12.0,670,2,0,5,
+JoneFr00,Freddie Jones,TE,2000,26,SDG,NFL,TE,16,16,130,71,766,10.8,5,38,43.8,44,4.4,47.9,54.6,5.9,0,0,0,0,0.0,0.0,71,10.8,766,5,3,6,
+JoneFr00,Freddie Jones,TE,2001,27,SDG,NFL,TE,14,9,60,35,388,11.1,4,23,45.0,34,2.5,27.7,58.3,6.5,0,0,0,0,0.0,0.0,35,11.1,388,4,0,3,
+JoneFr00,Freddie Jones,TE,2002,28,ARI,NFL,TE,16,16,81,44,358,8.1,1,14,40.7,24,2.8,22.4,54.3,4.4,0,0,0,0,0.0,0.0,44,8.1,358,1,0,3,
+JoneFr00,Freddie Jones,TE,2003,29,ARI,NFL,TE,16,16,89,55,517,9.4,3,19,40.4,34,3.4,32.3,61.8,5.8,0,0,0,0,0.0,0.0,55,9.4,517,3,0,4,
+JoneFr00,Freddie Jones,TE,2004,30,ARI,NFL,TE,16,15,74,45,426,9.5,2,16,39.2,40,2.8,26.6,60.8,5.8,0,0,0,0,0.0,0.0,45,9.5,426,2,0,3,

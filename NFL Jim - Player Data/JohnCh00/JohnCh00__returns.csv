@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JohnCh00,Charles Johnson,WR,1994,22,PIT,NFL,WR,16,9,15,90,0,15,6.0,16,345,0,71,21.6,1011,
+JohnCh00,Charles Johnson,WR,1995,23,PIT,NFL,WR,15,10,0,0,0,0,,2,47,0,40,23.5,469,
+JohnCh00,Charles Johnson,WR,1996,24,PIT,NFL,WR,16,12,0,0,0,0,,6,111,0,31,18.5,1119,
+JohnCh00,Charles Johnson,WR,,,,,,,,,,,,,,,,,,,
+JohnCh00,Charles Johnson,WR,1999,27,PHI,NFL,WR,11,11,1,0,0,0,0.0,0,0,0,0,,414,

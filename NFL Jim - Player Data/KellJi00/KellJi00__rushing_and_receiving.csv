@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KellJi00,Jim Kelly,QB,1986,26,BUF,NFL,QB,16,16,41,199,0,10,48.8,20,4.9,12.4,2.6,0,0,0,,0,0,,,0.0,0.0,,,41,4.9,199,0,7,
+KellJi00,Jim Kelly,QB,1987,27,BUF,NFL,QB,12,12,29,133,0,7,31.0,24,4.6,11.1,2.4,1,1,35,35.0,0,1,100.0,35,0.1,2.9,100.0,35.0,30,5.6,168,0,6,PB
+KellJi00,Jim Kelly,QB,1988,28,BUF,NFL,QB,16,16,35,154,0,9,37.1,20,4.4,9.6,2.2,1,1,5,5.0,0,0,0.0,5,0.1,0.3,100.0,5.0,36,4.4,159,0,5,PB
+KellJi00,Jim Kelly,QB,1989,29,BUF,NFL,QB,13,13,29,137,2,11,44.8,19,4.7,10.5,2.2,0,0,0,,0,0,,,0.0,0.0,,,29,4.7,137,2,6,
+KellJi00,Jim Kelly,QB,1990,30,BUF,NFL,QB,14,14,22,63,0,4,22.7,15,2.9,4.5,1.6,0,0,0,,0,0,,,0.0,0.0,,,22,2.9,63,0,4,"PB,AP MVP-5,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1991,31,BUF,NFL,QB,15,15,20,45,1,5,40.0,12,2.3,3.0,1.3,0,0,0,,0,0,,,0.0,0.0,,,20,2.3,45,1,6,"PB,AP-1,AP MVP-2,AP OPoY-2"
+KellJi00,Jim Kelly,QB,1992,32,BUF,NFL,QB,16,16,31,53,1,4,22.6,10,1.7,3.3,1.9,0,0,0,,0,0,,,0.0,0.0,,,31,1.7,53,1,8,"PB,AP-2,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1993,33,BUF,NFL,QB,16,16,36,102,0,6,36.1,17,2.8,6.4,2.3,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,36,2.8,102,0,7,
+KellJi00,Jim Kelly,QB,1994,34,BUF,NFL,QB,14,14,25,77,1,5,32.0,18,3.1,5.5,1.8,0,0,0,,0,0,,,0.0,0.0,,,25,3.1,77,1,11,
+KellJi00,Jim Kelly,QB,1995,35,BUF,NFL,QB,15,15,17,20,0,3,17.6,17,1.2,1.3,1.1,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,17,1.2,20,0,7,
+KellJi00,Jim Kelly,QB,1996,36,BUF,NFL,QB,13,13,19,66,2,8,57.9,22,3.5,5.1,1.5,0,0,0,,0,0,,,0.0,0.0,,,19,3.5,66,2,9,

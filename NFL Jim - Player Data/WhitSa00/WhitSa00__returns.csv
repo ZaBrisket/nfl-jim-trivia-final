@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WhitSa00,Sammy White,WR,1976,22,MIN,NFL,WR,14,14,3,45,0,31,15.0,9,173,0,36,19.2,1114,"PB,AP ORoY-1"
+WhitSa00,Sammy White,WR,1977,23,MIN,NFL,WR,14,14,0,0,0,0,,7,113,0,36,16.1,873,PB
+WhitSa00,Sammy White,WR,1978,24,MIN,NFL,WR,16,16,1,0,0,0,0.0,3,50,0,20,16.7,821,
+WhitSa00,Sammy White,WR,,,,,,,,,,,,,,,,,,,
+WhitSa00,Sammy White,WR,1981,27,MIN,NFL,WR,16,16,1,0,0,0,0.0,0,0,0,0,,1000,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MinsGa00,Gardner Minshew II,QB,2019,23,JAX,QB,15,14,12,906,96%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2020,24,JAX,QB,15,9,8,558,94%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2021,25,PHI,QB,10,4,2,166,61%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2022,26,PHI,QB,10,5,2,151,47%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2023*,27,IND,QB,10,17,13,972,85%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2024,28,LVR,QB,15,10,9,564,86%,0,0%,0,0%
+MinsGa00,Gardner Minshew II,QB,2025,29,KAN,QB,17,2,0,22,14%,0,0%,0,0%

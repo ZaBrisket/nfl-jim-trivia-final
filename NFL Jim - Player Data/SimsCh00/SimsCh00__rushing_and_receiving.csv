@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SimsCh00,Charles Sims,RB,2014,24,TAM,NFL,RB,8,0,66,185,1,10,31.8,20,2.8,23.1,8.3,27,19,190,10.0,0,7,37.0,24,2.4,23.8,70.4,7.0,85,4.4,375,1,2,2,
+SimsCh00,Charles Sims,RB,2015,25,TAM,NFL,RB,16,0,107,529,0,21,54.2,59,4.9,33.1,6.7,70,51,561,11.0,4,22,51.4,56,3.2,35.1,72.9,8.0,158,6.9,1090,4,2,8,
+SimsCh00,Charles Sims,RB,2016,26,TAM,NFL,RB,7,2,51,149,1,6,39.2,23,2.9,21.3,7.3,32,24,190,7.9,1,10,43.8,33,3.4,27.1,75.0,5.9,75,4.5,339,2,1,2,
+SimsCh00,Charles Sims,RB,2017,27,TAM,NFL,RB,16,0,21,95,0,6,33.3,21,4.5,5.9,1.3,47,35,249,7.1,1,13,42.6,25,2.2,15.6,74.5,5.3,56,6.1,344,1,1,2,

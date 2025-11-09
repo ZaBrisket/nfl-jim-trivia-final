@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TaylFr00,Fred Taylor,RB,1998,22,JAX,NFL,RB,2,2,53,248,1,11,43.4,46,4.7,124.0,26.5,4,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,53,4.7,248,1,0,
+TaylFr00,Fred Taylor,RB,1999,23,JAX,NFL,RB,2,2,37,245,1,8,37.8,90,6.6,122.5,18.5,4,3,55,18.3,1,2,75.0,39,1.5,27.5,75.0,13.8,40,7.5,300,2,0,
+TaylFr00,Fred Taylor,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylFr00,Fred Taylor,RB,2005,29,JAX,NFL,RB,1,1,8,24,0,0,37.5,7,3.0,24.0,8.0,3,3,13,4.3,0,1,33.3,12,3.0,13.0,100.0,4.3,11,3.4,37,0,0,
+TaylFr00,Fred Taylor,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylFr00,Fred Taylor,RB,2007,31,JAX,NFL,RB,2,2,29,95,1,6,44.8,15,3.3,47.5,14.5,2,1,2,2.0,0,0,0.0,2,0.5,1.0,50.0,1.0,30,3.2,97,1,0,
+TaylFr00,Fred Taylor,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylFr00,Fred Taylor,RB,2009,33,NWE,NFL,RB,1,0,2,1,0,1,50.0,2,0.5,1.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,2,0.5,1,0,0,

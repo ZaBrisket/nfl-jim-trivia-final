@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+SandEm00,Emmanuel Sanders,WR,2019,32,SFO,NFL,WR,3,3,8,5,71,4,65,13.0,6,1.2,16.6,0,0,0.0,0,91.1,0,0,0,0,0,0,
+SandEm00,Emmanuel Sanders,WR,2020,33,NOR,NFL,WR,2,1,12,8,51,4,30,3.8,21,2.6,7.0,0,0,0.0,0,75.3,0,0,0,0,0,0,
+SandEm00,Emmanuel Sanders,WR,2021,34,BUF,NFL,WR,2,2,4,3,52,2,52,17.3,0,0.0,15.3,0,0,0.0,0,156.2,0,0,0,0,0,0,

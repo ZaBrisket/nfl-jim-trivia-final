@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitSt02,Steve Smith,WR,2007,22,NYG,NFL,WR,5,0,14,8,63,7.9,0,4,50.0,12,1.6,12.6,57.1,4.5,0,0,0,0,0.0,0.0,8,7.9,63,0,0,1,
+SmitSt02,Steve Smith,WR,2008,23,NYG,NFL,WR,16,4,82,57,574,10.1,1,36,61.0,30,3.6,35.9,69.5,7.0,0,0,0,0,0.0,0.0,57,10.1,574,1,1,6,
+SmitSt02,Steve Smith,WR,2009,24,NYG,NFL,WR,16,15,157,107,1220,11.4,7,62,58.0,51,6.7,76.3,68.2,7.8,0,0,0,0,0.0,0.0,107,11.4,1220,7,0,11,PB
+SmitSt02,Steve Smith,WR,2010,25,NYG,NFL,WR,9,7,75,48,529,11.0,3,26,57.3,45,5.3,58.8,64.0,7.1,0,0,0,0,0.0,0.0,48,11.0,529,3,0,4,
+SmitSt02,Steve Smith,WR,2011,26,PHI,NFL,WR,9,1,20,11,124,11.3,1,5,40.0,20,1.2,13.8,55.0,6.2,0,0,0,0,0.0,0.0,11,11.3,124,1,1,1,
+SmitSt02,Steve Smith,WR,2012,27,STL,NFL,WR,9,2,25,14,131,9.4,0,7,52.0,25,1.6,14.6,56.0,5.2,0,0,0,0,0.0,0.0,14,9.4,131,0,0,1,

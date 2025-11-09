@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ThomBl00,Blair Thomas,RB,1990,23,NYJ,NFL,RB,15,11,1,1,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+ThomBl00,Blair Thomas,RB,1991,24,NYJ,NFL,RB,16,12,3,1,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+ThomBl00,Blair Thomas,RB,,,,,,,,,,,,,,,,,,,,,,,,
+ThomBl00,Blair Thomas,RB,1993,26,NYJ,NFL,RB,11,5,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+ThomBl00,Blair Thomas,RB,1994,27,2TM,NFL,RB,6,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.0,
+ThomBl00,Blair Thomas,RB,1994,27,NWE,NFL,RB,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,
+ThomBl00,Blair Thomas,RB,1994,27,DAL,NFL,RB,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,

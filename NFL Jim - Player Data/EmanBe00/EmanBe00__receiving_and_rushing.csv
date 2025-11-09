@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EmanBe00,Bert Emanuel,WR,1994,24,ATL,NFL,WR,16,16,96,46,649,14.1,4,29,43.8,85,2.9,40.6,47.9,6.8,2,4,0,2,100.0,2,2.0,0.3,0.1,48,13.6,653,4,0,5,
+EmanBe00,Bert Emanuel,WR,1995,25,ATL,NFL,WR,16,16,137,74,1039,14.0,5,47,49.6,52,4.6,64.9,54.0,7.6,1,0,0,0,0.0,,0.0,0.0,0.1,75,13.9,1039,5,2,9,
+EmanBe00,Bert Emanuel,WR,1996,26,ATL,NFL,WR,14,13,124,75,921,12.3,6,48,48.4,53,5.4,65.8,60.5,7.4,0,0,0,0,,,,0.0,0.0,75,12.3,921,6,0,8,
+EmanBe00,Bert Emanuel,WR,1997,27,ATL,NFL,WR,16,16,140,65,991,15.2,9,49,41.4,56,4.1,61.9,46.4,7.1,0,0,0,0,,,,0.0,0.0,65,15.2,991,9,2,10,
+EmanBe00,Bert Emanuel,WR,1998,28,TAM,NFL,WR,11,11,97,41,636,15.5,2,31,38.1,62,3.7,57.8,42.3,6.6,1,11,0,1,100.0,11,11.0,1.0,0.1,42,15.4,647,2,0,7,
+EmanBe00,Bert Emanuel,WR,1999,29,TAM,NFL,WR,11,10,52,22,238,10.8,1,10,25.0,39,2.0,21.6,42.3,4.6,0,0,0,0,,,,0.0,0.0,22,10.8,238,1,0,2,
+EmanBe00,Bert Emanuel,WR,2000,30,MIA,NFL,WR,11,0,21,7,132,18.9,1,5,33.3,53,0.6,12.0,33.3,6.3,3,-2,0,0,0.0,,-0.7,-0.2,0.3,10,13.0,130,1,1,1,
+EmanBe00,Bert Emanuel,WR,2001,31,2TM,NFL,WR,8,5,45,21,246,11.7,0,14,37.8,29,2.6,30.8,46.7,5.5,0,0,0,0,,,,0.0,0.0,21,11.7,246,0,0,2,
+EmanBe00,Bert Emanuel,WR,2001,31,NWE,NFL,WR,2,1,11,4,25,6.3,0,2,27.3,16,2.0,12.5,36.4,2.3,0,0,0,0,,,,0.0,0.0,4,6.3,25,0,0,0,
+EmanBe00,Bert Emanuel,WR,2001,31,DET,NFL,WR,6,4,34,17,221,13.0,0,12,41.2,29,2.8,36.8,50.0,6.5,0,0,0,0,,,,0.0,0.0,17,13.0,221,0,0,2,

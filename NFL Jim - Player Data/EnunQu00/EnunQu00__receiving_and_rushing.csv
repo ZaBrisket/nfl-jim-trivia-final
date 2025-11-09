@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EnunQu00,Quincy Enunwa,WR,2014,22,NYJ,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+EnunQu00,Quincy Enunwa,WR,2015,23,NYJ,NFL,WR,12,6,46,22,315,14.3,0,10,41.3,48,1.8,26.3,47.8,6.8,0,0,0,0,,,,0.0,0.0,22,14.3,315,0,0,3,
+EnunQu00,Quincy Enunwa,WR,2016,24,NYJ,NFL,WR,16,13,105,58,857,14.8,4,37,44.8,69,3.6,53.6,55.2,8.2,1,12,0,1,100.0,12,12.0,0.8,0.1,59,14.7,869,4,0,6,
+EnunQu00,Quincy Enunwa,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EnunQu00,Quincy Enunwa,WR,2018,26,NYJ,NFL,WR,11,10,68,38,449,11.8,1,22,42.6,42,3.5,40.8,55.9,6.6,1,0,0,0,0.0,,0.0,0.0,0.1,39,11.5,449,1,2,4,
+EnunQu00,Quincy Enunwa,WR,2019,27,NYJ,NFL,WR,1,1,3,1,-4,-4.0,0,0,33.3,8,1.0,-4.0,33.3,-1.3,0,0,0,0,,,,0.0,0.0,1,-4.0,-4,0,1,0,

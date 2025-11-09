@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HillTy00,Tyreek Hill,WR,2016,22,KAN,NFL,WR,16,1,39,592,2,95,15.2,14,384,1,86,27.4,1836,"PB,AP-1"
+HillTy00,Tyreek Hill,WR,2017,23,KAN,NFL,WR,15,13,25,204,1,82,8.2,0,0,0,0,,1446,PB
+HillTy00,Tyreek Hill,WR,2018,24,KAN,NFL,WR,16,16,20,213,1,91,10.7,0,0,0,0,,1843,"PB,AP-1"
+HillTy00,Tyreek Hill,WR,2019,25,KAN,NFL,WR,12,12,1,0,0,0,0.0,0,0,0,0,,883,PB
+HillTy00,Tyreek Hill,WR,2020,26,KAN,NFL,WR,15,15,1,0,0,0,0.0,0,0,0,0,,1399,"PB,AP-1"
+HillTy00,Tyreek Hill,WR,,,,,,,,,,,,,,,,,,,
+HillTy00,Tyreek Hill,WR,2022,28,MIA,NFL,WR,17,17,2,-4,0,0,-2.0,0,0,0,0,,1795,"PB,AP-1,AP MVP-9,AP OPoY-4"
+HillTy00,Tyreek Hill,WR,,,,,,,,,,,,,,,,,,,
+HillTy00,Tyreek Hill,WR,2024,30,MIA,NFL,WR,17,17,3,31,0,18,10.3,0,0,0,0,,1043,
+HillTy00,Tyreek Hill,WR,2025,31,MIA,NFL,WR,4,4,1,19,0,19,19.0,0,0,0,0,,284,

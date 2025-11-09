@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EarlQu00,Quinn Early,WR,1988,23,SDG,NFL,WR,16,11,75,29,375,12.9,4,14,32.0,38,1.8,23.4,38.7,5.0,7,63,0,2,57.1,37,9.0,3.9,0.4,36,12.2,438,4,1,3,
+EarlQu00,Quinn Early,WR,1989,24,SDG,NFL,WR,6,3,27,11,126,11.5,0,6,37.0,21,1.8,21.0,40.7,4.7,1,19,0,1,100.0,19,19.0,3.2,0.2,12,12.1,145,0,0,1,
+EarlQu00,Quinn Early,WR,1990,25,SDG,NFL,WR,14,3,42,15,238,15.9,1,9,33.3,45,1.1,17.0,35.7,5.7,0,0,0,0,,,,0.0,0.0,15,15.9,238,1,0,3,
+EarlQu00,Quinn Early,WR,1991,26,NOR,NFL,WR,15,12,63,32,541,16.9,2,20,42.9,52,2.1,36.1,50.8,8.6,3,13,0,0,33.3,6,4.3,0.9,0.2,35,15.8,554,2,2,5,
+EarlQu00,Quinn Early,WR,1992,27,NOR,NFL,WR,16,16,64,30,566,18.9,5,26,45.3,59,1.9,35.4,46.9,8.8,3,-1,0,0,33.3,7,-0.3,-0.1,0.2,33,17.1,565,5,0,6,
+EarlQu00,Quinn Early,WR,1993,28,NOR,NFL,WR,16,15,75,45,670,14.9,6,30,53.3,63,2.8,41.9,60.0,8.9,2,32,0,1,100.0,26,16.0,2.0,0.1,47,14.9,702,6,1,7,
+EarlQu00,Quinn Early,WR,1994,29,NOR,NFL,WR,16,13,125,82,894,10.9,4,46,55.2,33,5.1,55.9,65.6,7.2,2,10,0,1,50.0,8,5.0,0.6,0.1,84,10.8,904,4,0,7,
+EarlQu00,Quinn Early,WR,1995,30,NOR,NFL,WR,16,15,135,81,1087,13.4,8,54,53.3,70,5.1,67.9,60.0,8.1,2,-3,0,0,50.0,9,-1.5,-0.2,0.1,83,13.1,1084,8,1,9,
+EarlQu00,Quinn Early,WR,1996,31,BUF,NFL,WR,16,13,91,50,798,16.0,4,35,46.2,95,3.1,49.9,54.9,8.8,3,39,0,1,66.7,29,13.0,2.4,0.2,53,15.8,837,4,0,6,
+EarlQu00,Quinn Early,WR,1997,32,BUF,NFL,WR,16,16,122,60,853,14.2,5,42,42.6,45,3.8,53.3,49.2,7.0,0,0,0,0,,,,0.0,0.0,60,14.2,853,5,0,6,
+EarlQu00,Quinn Early,WR,1998,33,BUF,NFL,WR,16,2,32,19,217,11.4,1,8,43.8,37,1.2,13.6,59.4,6.8,0,0,0,0,,,,0.0,0.0,19,11.4,217,1,0,3,
+EarlQu00,Quinn Early,WR,1999,34,NYJ,NFL,WR,16,3,17,6,83,13.8,0,4,29.4,24,0.4,5.2,35.3,4.9,0,0,0,0,,,,0.0,0.0,6,13.8,83,0,0,1,

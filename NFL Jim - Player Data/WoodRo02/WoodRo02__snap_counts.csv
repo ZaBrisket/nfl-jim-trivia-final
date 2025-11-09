@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WoodRo02,Robert Woods,WR,2013,21,BUF,WR,10,14,14,910,89%,0,0%,45,10%
+WoodRo02,Robert Woods,WR,2014,22,BUF,WR,10,16,15,899,85%,0,0%,89,19%
+WoodRo02,Robert Woods,WR,2015,23,BUF,WR,10,14,9,774,83%,3,0%,43,10%
+WoodRo02,Robert Woods,WR,2016,24,BUF,WR,10,13,10,634,72%,0,0%,0,0%
+WoodRo02,Robert Woods,WR,2017,25,LAR,WR,17,12,11,645,82%,0,0%,1,0%
+WoodRo02,Robert Woods,WR,2018,26,LAR,WR,17,16,16,1041,95%,0,0%,7,2%
+WoodRo02,Robert Woods,WR,2019,27,LAR,WR,17,15,15,986,93%,0,0%,2,1%
+WoodRo02,Robert Woods,WR,2020,28,LAR,WR,17,16,16,999,89%,0,0%,3,1%
+WoodRo02,Robert Woods,WR,2021,29,LAR,WR,2,9,9,543,93%,0,0%,5,2%
+WoodRo02,Robert Woods,WR,2022,30,TEN,WR,2,17,15,809,78%,0,0%,47,11%
+WoodRo02,Robert Woods,WR,2023,31,HOU,WR,2,14,11,666,70%,0,0%,24,6%
+WoodRo02,Robert Woods,WR,2024,32,HOU,WR,2,15,4,361,37%,0,0%,71,17%

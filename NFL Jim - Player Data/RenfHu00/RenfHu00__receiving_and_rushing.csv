@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RenfHu00,Hunter Renfrow,WR,2019,24,OAK,NFL,WR,13,4,71,49,605,12.3,4,30,54.9,65,3.8,46.5,69.0,8.5,0,0,0,0,,,,0.0,0.0,49,12.3,605,4,1,4,
+RenfHu00,Hunter Renfrow,WR,2020,25,LVR,NFL,WR,16,6,77,56,656,11.7,2,32,57.1,53,3.5,41.0,72.7,8.5,0,0,0,0,,,,0.0,0.0,56,11.7,656,2,2,6,
+RenfHu00,Hunter Renfrow,WR,2021,26,LVR,NFL,WR,17,9,128,103,1038,10.1,9,51,60.2,54,6.1,61.1,80.5,8.1,3,3,0,0,33.3,5,1.0,0.2,0.2,106,9.8,1041,9,5,8,PB
+RenfHu00,Hunter Renfrow,WR,2022,27,LVR,NFL,WR,10,1,50,36,330,9.2,2,18,52.0,27,3.6,33.0,72.0,6.6,0,0,0,0,,,,0.0,0.0,36,9.2,330,2,3,3,
+RenfHu00,Hunter Renfrow,WR,2023,28,LVR,NFL,WR,17,3,37,25,255,10.2,0,11,40.5,38,1.5,15.0,67.6,6.9,0,0,0,0,,,,0.0,0.0,25,10.2,255,0,1,2,
+RenfHu00,Hunter Renfrow,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RenfHu00,Hunter Renfrow,WR,2025,30,CAR,NFL,WR,6,2,26,15,89,5.9,2,8,34.6,15,2.5,14.8,57.7,3.4,0,0,0,0,,,,0.0,0.0,15,5.9,89,2,0,,

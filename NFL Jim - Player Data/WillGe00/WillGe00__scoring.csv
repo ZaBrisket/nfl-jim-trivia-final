@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WillGe00,Gerald Willhite,RB,1982,23,DEN,NFL,RB,9,2,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.3,
+WillGe00,Gerald Willhite,RB,1983,24,DEN,NFL,RB,8,0,3,1,0,0,0,0,0,4,0,0,0,0,0,24,3.0,
+WillGe00,Gerald Willhite,RB,1984,25,DEN,NFL,RB,16,1,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+WillGe00,Gerald Willhite,RB,1985,26,DEN,NFL,RB,15,4,3,1,0,0,0,0,0,4,0,0,0,0,0,24,1.6,
+WillGe00,Gerald Willhite,RB,1986,27,DEN,NFL,FB,16,12,5,3,1,0,0,0,0,9,0,0,0,0,0,54,3.4,
+WillGe00,Gerald Willhite,RB,,,,,,,,,,,,,,,,,,,,,,,
+WillGe00,Gerald Willhite,RB,1988,29,DEN,NFL,RB,11,1,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.1,

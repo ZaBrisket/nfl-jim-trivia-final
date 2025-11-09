@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+BrowJo02,John Brown,WR,2018,28,BAL,NFL,WR,16,15,97,42,715,28,559,13.3,156,3.7,16.3,1,42.0,6,6.2,2,77.5,3,4,0,4,1.3,0,0.0,0,
+BrowJo02,John Brown,WR,2019,29,BUF,NFL,WR,15,15,115,72,1060,53,850,11.8,210,2.9,14.5,4,18.0,5,4.3,3,99.2,2,7,0,5,2.5,2,1.0,0,
+BrowJo02,John Brown,WR,2020,30,BUF,NFL,WR,9,8,52,33,458,22,281,8.5,177,5.4,12.4,0,,2,3.8,0,110.9,0,0,0,0,,0,,0,
+BrowJo02,John Brown,WR,2021,31,3TM,NFL,WR,4,0,3,0,0,0,0,,0,,31.0,0,,0,0.0,1,0.0,0,0,0,0,,0,,0,
+BrowJo02,John Brown,WR,2021,31,TAM,NFL,WR,0,0,0,0,0,0,,,,,,,,,,,,0,0,0,,,,,,
+BrowJo02,John Brown,WR,2021,31,DEN,NFL,WR,2,0,1,0,0,0,0,,0,,31.0,0,,0,0.0,1,0.0,0,0,0,0,,0,,0,
+BrowJo02,John Brown,WR,2021,31,JAX,NFL,WR,2,0,2,0,0,0,0,,0,,31.0,0,,0,0.0,0,39.6,0,0,0,0,,0,,0,
+BrowJo02,John Brown,WR,2022,32,BUF,NFL,WR,3,0,2,1,42,1,42,42.0,0,0.0,43.0,0,,0,0.0,0,135.4,0,0,0,0,,0,,0,

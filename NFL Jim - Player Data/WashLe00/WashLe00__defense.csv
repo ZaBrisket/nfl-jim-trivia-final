@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+WashLe00,Leon Washington,RB,2006,24,NYJ,NFL,RB,16,8,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,
+WashLe00,Leon Washington,RB,2007,25,NYJ,NFL,RB,16,4,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,
+WashLe00,Leon Washington,RB,2008,26,NYJ,NFL,RB,16,1,0,0,0,0,0,0,3,4,-5,0,0.0,1,1,0,0,0,0,"PB,AP-1"
+WashLe00,Leon Washington,RB,2009,27,NYJ,NFL,RB,7,0,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+WashLe00,Leon Washington,RB,2010,28,SEA,NFL,RB,16,0,0,0,0,0,0,0,3,1,0,0,0.0,2,2,0,0,0,0,"AP-2,AP CPoY-7"
+WashLe00,Leon Washington,RB,2011,29,SEA,NFL,RB,16,1,0,0,0,0,0,0,2,1,0,0,0.0,2,1,1,0,0,0,
+WashLe00,Leon Washington,RB,2012,30,SEA,NFL,RB,16,0,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,PB
+WashLe00,Leon Washington,RB,2013,31,2TM,NFL,RB,7,0,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+WashLe00,Leon Washington,RB,2013,31,TEN,NFL,RB,5,0,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+WashLe00,Leon Washington,RB,2014,32,TEN,NFL,RB,16,0,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,

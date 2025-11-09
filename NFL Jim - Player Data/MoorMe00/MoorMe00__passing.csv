@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+MoorMe00,Mewelde Moore,RB,2004,22,MIN,NFL,RB,10,3,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,,0,0,0.00,0.00,0.00,0,0,
+MoorMe00,Mewelde Moore,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MoorMe00,Mewelde Moore,RB,2006,24,MIN,NFL,RB,16,0,1,1,100.0,15,1,100.0,0,0.0,1,100.0,15,15.0,35.00,15.0,0.9,158.3,100.0,0,0,0.00,15.00,35.00,0,0,
+MoorMe00,Mewelde Moore,RB,2007,25,MIN,NFL,RB,12,0,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,10.0,0,0,0.00,0.00,0.00,0,0,
+MoorMe00,Mewelde Moore,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MoorMe00,Mewelde Moore,RB,2009,27,PIT,NFL,RB,16,0,1,1,100.0,6,1,100.0,0,0.0,1,100.0,6,6.0,26.00,6.0,0.4,131.2,100.0,0,0,0.00,6.00,26.00,0,0,

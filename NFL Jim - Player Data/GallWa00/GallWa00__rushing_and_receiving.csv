@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GallWa00,Wayne Gallman,RB,2017,23,NYG,NFL,RB,13,1,111,476,0,24,51.4,24,4.3,36.6,8.5,48,34,193,5.7,1,8,43.8,11,2.6,14.8,70.8,4.0,145,4.6,669,1,3,4,
+GallWa00,Wayne Gallman,RB,2018,24,NYG,NFL,RB,15,1,51,176,1,7,41.2,9,3.5,11.7,3.4,22,14,89,6.4,0,5,31.8,21,0.9,5.9,63.6,4.0,65,4.1,265,1,2,2,
+GallWa00,Wayne Gallman,RB,2019,25,NYG,NFL,RB,10,2,29,110,2,6,41.4,22,3.8,11.0,2.9,15,11,102,9.3,1,4,46.7,21,1.1,10.2,73.3,6.8,40,5.3,212,3,0,1,
+GallWa00,Wayne Gallman,RB,2020,26,NYG,NFL,RB,15,10,147,682,6,36,51.7,60,4.6,45.5,9.8,27,21,114,5.4,0,6,37.0,19,1.4,7.6,77.8,4.2,168,4.7,796,6,1,5,
+GallWa00,Wayne Gallman,RB,2021,27,2TM,NFL,RB,8,0,28,104,0,5,35.7,17,3.7,13.0,3.5,3,1,21,21.0,0,1,33.3,21,0.1,2.6,33.3,7.0,29,4.3,125,0,0,1,
+GallWa00,Wayne Gallman,RB,2021,27,ATL,NFL,RB,6,0,28,104,0,5,35.7,17,3.7,17.3,4.7,3,1,21,21.0,0,1,33.3,21,0.2,3.5,33.3,7.0,29,4.3,125,0,0,1,
+GallWa00,Wayne Gallman,RB,2021,27,MIN,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

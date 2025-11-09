@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+McMaJi00,Jim McMahon,QB,1982,23,CHI,NFL,QB,8,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1983,24,CHI,NFL,QB,14,13,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1984,25,CHI,NFL,QB,9,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1985,26,CHI,NFL,QB,13,11,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,PB
+McMaJi00,Jim McMahon,QB,1986,27,CHI,NFL,QB,6,6,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1987,28,CHI,NFL,QB,7,6,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1988,29,CHI,NFL,QB,9,9,0,0,0,0,0,6,3,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1989,30,SDG,NFL,QB,12,11,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1991,32,PHI,NFL,QB,12,11,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1993,34,MIN,NFL,QB,12,12,0,0,0,0,0,4,1,-7,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,1994,35,ARI,NFL,QB,2,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1996,37,GNB,NFL,QB,5,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

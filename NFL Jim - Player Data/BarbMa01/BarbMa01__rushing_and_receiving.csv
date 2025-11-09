@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BarbMa01,Marion Barber III,RB,2005,22,DAL,NFL,RB,13,2,138,538,5,31,37.7,28,3.9,41.4,10.6,25,18,115,6.4,0,6,40.0,21,1.4,8.8,72.0,4.6,156,4.2,653,5,3,4,
+BarbMa01,Marion Barber III,RB,2006,23,DAL,NFL,RB,16,1,135,654,14,45,55.6,25,4.8,40.9,8.4,32,23,196,8.5,2,8,37.5,26,1.4,12.3,71.9,6.1,158,5.4,850,16,0,7,
+BarbMa01,Marion Barber III,RB,2007,24,DAL,NFL,RB,16,0,204,975,10,54,47.5,54,4.8,60.9,12.8,54,44,282,6.4,2,17,50.0,29,2.8,17.6,81.5,5.2,248,5.1,1257,12,3,11,PB
+BarbMa01,Marion Barber III,RB,2008,25,DAL,NFL,RB,15,13,238,885,7,57,39.5,35,3.7,59.0,15.9,61,52,417,8.0,2,18,49.2,70,3.5,27.8,85.2,6.8,290,4.5,1302,9,7,8,
+BarbMa01,Marion Barber III,RB,2009,26,DAL,NFL,RB,15,15,214,932,7,60,50.0,35,4.4,62.1,14.3,36,26,221,8.5,0,10,47.2,42,1.7,14.7,72.2,6.1,240,4.8,1153,7,2,8,
+BarbMa01,Marion Barber III,RB,2010,27,DAL,NFL,RB,13,10,113,374,4,27,45.1,25,3.3,28.8,8.7,16,11,49,4.5,0,0,18.8,15,0.8,3.8,68.8,3.1,124,3.4,423,4,0,3,
+BarbMa01,Marion Barber III,RB,2011,28,CHI,NFL,RB,11,1,114,422,6,26,39.5,29,3.7,38.4,10.4,9,5,50,10.0,0,1,33.3,16,0.5,4.5,55.6,5.6,119,4.0,472,6,1,3,

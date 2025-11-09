@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BeckOd00,Odell Beckham Jr.,WR,2016,24,NYG,NFL,WR,1,1,11,4,28,7.0,0,2,27.3,11,4.0,28.0,36.4,2.5,0,0,0,0,0.0,0.0,4,7.0,28,0,0,
+BeckOd00,Odell Beckham Jr.,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BeckOd00,Odell Beckham Jr.,WR,2021,29,LAR,NFL,WR,4,4,26,21,288,13.7,2,15,73.1,35,5.3,72.0,80.8,11.1,0,0,0,0,0.0,0.0,21,13.7,288,2,0,
+BeckOd00,Odell Beckham Jr.,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BeckOd00,Odell Beckham Jr.,WR,2023,31,BAL,NFL,WR,2,1,7,4,34,8.5,0,2,42.9,12,2.0,17.0,57.1,4.9,0,0,0,0,0.0,0.0,4,8.5,34,0,0,

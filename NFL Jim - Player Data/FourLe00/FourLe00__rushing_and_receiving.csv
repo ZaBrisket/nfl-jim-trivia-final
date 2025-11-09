@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FourLe00,Leonard Fournette,RB,2017,22,JAX,NFL,RB,13,13,268,1040,9,51,43.3,90,3.9,80.0,20.6,48,36,302,8.4,1,18,56.3,28,2.8,23.2,75.0,6.3,304,4.4,1342,10,2,8,
+FourLe00,Leonard Fournette,RB,2018,23,JAX,NFL,RB,8,8,133,439,5,23,47.4,25,3.3,54.9,16.6,26,22,185,8.4,1,10,50.0,31,2.8,23.1,84.6,7.1,155,4.0,624,6,0,3,
+FourLe00,Leonard Fournette,RB,2019,24,JAX,NFL,RB,15,15,265,1152,3,55,41.1,81,4.3,76.8,17.7,100,76,522,6.9,0,23,40.0,27,5.1,34.8,76.0,5.2,341,4.9,1674,3,1,10,
+FourLe00,Leonard Fournette,RB,2020,25,TAM,NFL,RB,13,3,97,367,6,21,48.5,46,3.8,28.2,7.5,47,36,233,6.5,0,9,48.9,20,2.8,17.9,76.6,5.0,133,4.5,600,6,0,5,
+FourLe00,Leonard Fournette,RB,2021,26,TAM,NFL,RB,14,13,180,812,8,45,56.1,47,4.5,58.0,12.9,84,69,454,6.6,2,30,57.1,23,4.9,32.4,82.1,5.4,249,5.1,1266,10,1,9,
+FourLe00,Leonard Fournette,RB,2022,27,TAM,NFL,RB,16,9,189,668,3,39,49.2,23,3.5,41.8,11.8,83,73,523,7.2,3,26,55.4,44,4.6,32.7,88.0,6.3,262,4.5,1191,6,0,7,
+FourLe00,Leonard Fournette,RB,2023,28,BUF,NFL,RB,2,0,12,40,0,2,41.7,9,3.3,20.0,6.0,0,0,0,,0,0,,,0.0,0.0,,,12,3.3,40,0,0,0,

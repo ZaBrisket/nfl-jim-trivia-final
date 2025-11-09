@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+WaddJa00,Jaylen Waddle,WR,2021,23,MIA,NFL,WR,16,16,140,104,1015,59,576,5.5,439,4.2,7.1,4,26.0,8,5.7,7,87.6,2,3,1,2,1.0,1,0.5,0,
+WaddJa00,Jaylen Waddle,WR,2022,24,MIA,NFL,WR,17,17,117,75,1356,60,846,11.3,510,6.8,11.8,4,18.8,7,6.0,2,119.5,3,26,0,16,5.3,10,3.3,0,
+WaddJa00,Jaylen Waddle,WR,2023,25,MIA,NFL,WR,14,14,104,72,1014,47,593,8.2,421,5.8,10.1,6,12.0,4,3.8,3,101.2,3,12,1,12,4.0,0,0.0,0,
+WaddJa00,Jaylen Waddle,WR,2024,26,MIA,NFL,WR,15,15,83,58,744,38,508,8.8,236,4.1,10.0,0,,8,9.6,3,90.6,4,12,1,8,2.0,4,1.0,0,
+WaddJa00,Jaylen Waddle,WR,2025,27,MIA,NFL,WR,9,9,59,41,586,30,442,10.8,144,3.5,11.9,2,20.5,2,3.4,2,109.9,0,0,0,0,,0,,0,

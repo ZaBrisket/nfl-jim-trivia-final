@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PeteAd01,Adrian Peterson,RB,2012*+,27,MIN,RB,28,16,16,771,75%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2013*,28,MIN,RB,28,14,14,674,74%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2014,29,MIN,RB,28,1,1,43,73%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2015*+,30,MIN,RB,28,16,16,664,65%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2016,31,MIN,RB,28,3,3,84,47%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2017,32,2TM,RB,,10,7,301,,0,,0,
+PeteAd01,Adrian Peterson,RB,,,NOR,RB,28,4,1,44,17%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,,,,,,,,257,64%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2018,33,WAS,RB,26,16,16,479,47%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2019,34,WAS,RB,26,15,15,402,46%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,2020,35,DET,RB,28,16,10,313,30%,0,0%,1,0%
+PeteAd01,Adrian Peterson,RB,2021,36,2TM,RB,,4,3,72,,0,,0,
+PeteAd01,Adrian Peterson,RB,,,TEN,RB,8,3,2,54,27%,0,0%,0,0%
+PeteAd01,Adrian Peterson,RB,,,,,,,,18,26%,0,0%,0,0%

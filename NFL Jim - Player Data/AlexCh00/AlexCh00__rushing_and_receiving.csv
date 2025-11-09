@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AlexCh00,Charles Alexander,RB,1979,22,CIN,NFL,RB,16,3,88,286,1,14,37.5,17,3.3,17.9,5.5,25,11,91,8.3,0,2,36.0,13,0.7,5.7,44.0,3.6,99,3.8,377,1,0,3,
+AlexCh00,Charles Alexander,RB,1980,23,CIN,NFL,RB,16,16,169,702,2,35,47.9,37,4.2,43.9,10.6,54,36,192,5.3,0,5,29.6,23,2.3,12.0,66.7,3.6,205,4.4,894,2,2,5,
+AlexCh00,Charles Alexander,RB,1981,24,CIN,NFL,RB,15,14,98,292,2,22,49.0,16,3.0,19.5,6.5,37,28,262,9.4,1,11,56.8,65,1.9,17.5,75.7,7.1,126,4.4,554,3,0,5,
+AlexCh00,Charles Alexander,RB,1982,25,CIN,NFL,RB,9,9,64,207,1,15,48.4,18,3.2,23.0,7.1,16,14,85,6.1,1,3,75.0,14,1.6,9.4,87.5,5.3,78,3.7,292,2,1,5,
+AlexCh00,Charles Alexander,RB,1983,26,CIN,NFL,RB/FB,14,14,153,523,3,29,46.4,12,3.4,37.4,10.9,40,32,187,5.8,0,9,60.0,14,2.3,13.4,80.0,4.7,185,3.8,710,3,1,5,
+AlexCh00,Charles Alexander,RB,1984,27,CIN,NFL,FB,16,12,132,479,2,25,49.2,22,3.6,29.9,8.3,33,29,203,7.0,0,12,60.6,22,1.8,12.7,87.9,6.2,161,4.2,682,2,2,5,
+AlexCh00,Charles Alexander,RB,1985,28,CIN,NFL,FB,16,5,44,156,2,11,43.2,18,3.5,9.8,2.8,17,15,110,7.3,0,7,58.8,19,0.9,6.9,88.2,6.5,59,4.5,266,2,0,2,

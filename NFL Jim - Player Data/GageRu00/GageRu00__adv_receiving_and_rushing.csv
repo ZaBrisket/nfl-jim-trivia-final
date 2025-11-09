@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+GageRu00,Russell Gage,WR,2018,22,ATL,NFL,WR,15,0,10,6,63,2,44,7.3,19,3.2,10.5,0,,2,20.0,0,78.3,0,0,0,0,,0,,0,,
+GageRu00,Russell Gage,WR,2019,23,ATL,NFL,WR,16,4,74,49,446,25,295,6.0,151,3.1,7.1,0,,0,0.0,1,81.2,4,12,0,3,0.8,9,2.3,1,4.0,
+GageRu00,Russell Gage,WR,2020,24,ATL,NFL,WR,16,8,109,72,786,50,505,7.0,281,3.9,8.5,4,18.0,7,6.4,1,95.6,2,9,1,6,3.0,3,1.5,0,,
+GageRu00,Russell Gage,WR,2021,25,ATL,NFL,WR,14,9,94,66,770,37,516,7.8,254,3.8,9.3,5,13.2,5,5.3,5,86.7,0,0,0,0,,0,,0,,
+GageRu00,Russell Gage,WR,2022,26,TAM,NFL,WR,13,4,70,51,426,31,255,5.0,171,3.4,5.5,2,25.5,3,4.3,0,112.0,0,0,0,0,,0,,0,,
+GageRu00,Russell Gage,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GageRu00,Russell Gage,WR,2025,29,SFO,NFL,WR,1,0,0,0,0,0,0,,0,,,0,,0,,0,,0,0,0,0,,0,,0,,

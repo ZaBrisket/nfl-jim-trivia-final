@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+HerbJu00,Justin Herbert,QB,2020,22,LAC,NFL,QB,15,15,55,234,20,177,3.2,57,1.0,2,27.5,0,0,0,0,0,,0,,,0,0,,0,,AP ORoY-1
+HerbJu00,Justin Herbert,QB,2021,23,LAC,NFL,QB,17,17,63,302,28,254,4.0,48,0.8,2,31.5,0,0,0,0,0,,0,,,0,0,,0,,PB
+HerbJu00,Justin Herbert,QB,2022,24,LAC,NFL,QB,17,17,54,147,17,138,2.6,9,0.2,0,,2,2,-10,0,-15,-7.5,5,2.5,-7.5,0,0,0.0,0,79.2,AP MVP-9
+HerbJu00,Justin Herbert,QB,2023,25,LAC,NFL,QB,13,13,52,228,16,175,3.4,53,1.0,2,26.0,1,1,10,1,-7,-7.0,17,17.0,-7.0,0,0,0.0,0,108.3,
+HerbJu00,Justin Herbert,QB,2024,26,LAC,NFL,QB,17,17,69,306,23,224,3.2,82,1.2,2,34.5,0,0,0,0,0,,0,,,0,0,,0,,"AP MVP-9,AP CPoY-12"
+HerbJu00,Justin Herbert,QB,2025,27,LAC,NFL,QB,9,9,46,305,23,271,5.9,34,0.7,0,,0,0,0,0,0,,0,,,0,0,,0,,

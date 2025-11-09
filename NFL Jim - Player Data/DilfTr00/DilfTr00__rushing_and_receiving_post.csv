@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DilfTr00,Trent Dilfer,QB,1997,25,TAM,NFL,QB,2,2,2,0,0,0,0.0,,0.0,0.0,1.0,0,0,0,0,0,0.0,0.0,2,0.0,0,0,0,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2000,28,BAL,NFL,QB,4,4,13,7,0,1,15.4,6,0.5,1.8,3.3,0,0,0,0,0,0.0,0.0,13,0.5,7,0,3,

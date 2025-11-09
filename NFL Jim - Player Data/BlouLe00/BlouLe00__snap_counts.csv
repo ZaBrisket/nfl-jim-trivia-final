@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BlouLe00,LeGarrette Blount,RB,2012,26,TAM,RB,27,13,0,92,11%,0,0%,0,0%
+BlouLe00,LeGarrette Blount,RB,2013,27,NWE,RB,29,16,7,286,24%,0,0%,37,8%
+BlouLe00,LeGarrette Blount,RB,2014,28,2TM,RB,,16,1,231,,0,,51,
+BlouLe00,LeGarrette Blount,RB,,,PIT,RB,27,11,0,128,17%,0,0%,51,16%
+BlouLe00,LeGarrette Blount,RB,,,,,,,,103,30%,0,0%,0,0%
+BlouLe00,LeGarrette Blount,RB,2015,29,NWE,RB,29,12,6,305,35%,0,0%,0,0%
+BlouLe00,LeGarrette Blount,RB,2016,30,NWE,RB,29,16,8,527,47%,0,0%,0,0%
+BlouLe00,LeGarrette Blount,RB,2017,31,PHI,RB,29,16,11,354,31%,0,0%,0,0%
+BlouLe00,LeGarrette Blount,RB,2018,32,DET,RB,29,16,8,281,26%,0,0%,0,0%

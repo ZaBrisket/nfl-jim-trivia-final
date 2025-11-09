@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BlouLe00,LeGarrette Blount,RB,2010,24,TAM,NFL,RB,13,7,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,0,AP CPoY-7
+BlouLe00,LeGarrette Blount,RB,2011,25,TAM,NFL,RB,14,14,0,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,0,0,
+BlouLe00,LeGarrette Blount,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+BlouLe00,LeGarrette Blount,RB,2013,27,NWE,NFL,RB,16,7,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,
+BlouLe00,LeGarrette Blount,RB,2014,28,2TM,NFL,RB,16,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BlouLe00,LeGarrette Blount,RB,2014,28,PIT,NFL,RB,11,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BlouLe00,LeGarrette Blount,RB,2015,29,NWE,NFL,RB,12,6,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+BlouLe00,LeGarrette Blount,RB,2016,30,NWE,NFL,RB,16,8,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,,,0,
+BlouLe00,LeGarrette Blount,RB,2017,31,PHI,NFL,RB,16,11,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BlouLe00,LeGarrette Blount,RB,2018,32,DET,NFL,RB,16,8,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,

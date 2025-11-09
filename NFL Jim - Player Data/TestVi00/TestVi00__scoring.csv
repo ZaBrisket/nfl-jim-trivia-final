@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TestVi00,Vinny Testaverde,QB,1987,24,TAM,NFL,QB,6,4,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,1.0,
+TestVi00,Vinny Testaverde,QB,1988,25,TAM,NFL,QB,15,15,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,1990,27,TAM,NFL,QB,14,13,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,1992,29,TAM,NFL,QB,14,14,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,0.9,
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,1994,31,CLE,NFL,QB,14,13,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+TestVi00,Vinny Testaverde,QB,1995,32,CLE,NFL,QB,13,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+TestVi00,Vinny Testaverde,QB,1996,33,BAL,NFL,QB,16,16,2,0,0,0,0,0,0,2,1,0,0,0,0,0,14,0.9,PB
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,1998,35,NYJ,NFL,QB,14,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP OPoY-7,AP CPoY-3"
+TestVi00,Vinny Testaverde,QB,,,,,,,,,,,,,,,,,,,,,,,,
+TestVi00,Vinny Testaverde,QB,2004,41,DAL,NFL,QB,16,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+TestVi00,Vinny Testaverde,QB,2005,42,NYJ,NFL,QB,6,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.0,

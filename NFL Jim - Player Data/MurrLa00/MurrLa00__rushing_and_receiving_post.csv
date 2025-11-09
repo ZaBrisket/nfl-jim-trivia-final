@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MurrLa00,Latavius Murray,RB,2016,26,OAK,NFL,RB,1,1,12,39,1,2,33.3,18,3.3,39.0,12.0,4,1,12,12.0,0,0,0.0,12,1.0,12.0,25.0,3.0,13,3.9,51,1,0,
+MurrLa00,Latavius Murray,RB,2017,27,MIN,NFL,RB,2,2,25,68,1,4,44.0,14,2.7,34.0,12.5,4,4,28,7.0,0,2,75.0,13,2.0,14.0,100.0,7.0,29,3.3,96,1,0,
+MurrLa00,Latavius Murray,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MurrLa00,Latavius Murray,RB,2019,29,NOR,NFL,RB,1,0,5,21,0,1,80.0,8,4.2,21.0,5.0,2,1,4,4.0,0,1,50.0,4,1.0,4.0,50.0,2.0,6,4.2,25,0,0,
+MurrLa00,Latavius Murray,RB,2020,30,NOR,NFL,RB,1,1,4,9,0,0,25.0,4,2.3,9.0,4.0,2,2,11,5.5,1,1,100.0,6,2.0,11.0,100.0,5.5,6,3.3,20,1,0,
+MurrLa00,Latavius Murray,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MurrLa00,Latavius Murray,RB,2023,33,BUF,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,6,5,40,8.0,0,1,50.0,15,2.5,20.0,83.3,6.7,5,8.0,40,0,0,

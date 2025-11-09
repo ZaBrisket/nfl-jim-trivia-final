@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DaveNa00,Najeh Davenport,RB,2002,23,GNB,NFL,RB,8,0,0,0,0,0,6,130,0,27,21.7,347,
+DaveNa00,Najeh Davenport,RB,2003,24,GNB,NFL,RB,15,0,0,0,0,0,16,505,0,60,31.6,955,
+DaveNa00,Najeh Davenport,RB,2004,25,GNB,NFL,RB,11,1,0,0,0,0,14,286,0,27,20.4,678,
+DaveNa00,Najeh Davenport,RB,2005,26,GNB,NFL,RB,5,1,0,0,0,0,10,189,0,27,18.9,297,
+DaveNa00,Najeh Davenport,RB,2006,27,PIT,NFL,RB,13,0,0,0,0,0,21,448,0,40,21.3,862,
+DaveNa00,Najeh Davenport,RB,2007,28,PIT,NFL,RB,15,1,0,0,0,0,7,123,0,29,17.6,806,
+DaveNa00,Najeh Davenport,RB,2008,29,2TM,NFL,RB,6,0,0,0,0,0,15,324,0,27,21.6,409,
+DaveNa00,Najeh Davenport,RB,2008,29,PIT,NFL,RB,4,0,0,0,0,0,10,217,0,27,21.7,222,
+DaveNa00,Najeh Davenport,RB,2008,29,IND,NFL,RB,2,0,0,0,0,0,5,107,0,26,21.4,187,

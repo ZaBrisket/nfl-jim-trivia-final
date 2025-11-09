@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+RudoKy00,Kyle Rudolph,TE,2018,29,MIN,NFL,TE,16,16,82,64,634,32,389,6.1,245,3.8,6.4,1,64.0,1,1.2,1,110.1,0,0,0,0,0,0,
+RudoKy00,Kyle Rudolph,TE,2019,30,MIN,NFL,TE,16,16,48,39,367,24,177,4.5,190,4.9,6.4,1,39.0,0,0.0,0,138.1,0,0,0,0,0,0,
+RudoKy00,Kyle Rudolph,TE,2020,31,MIN,NFL,TE,12,12,37,28,334,16,170,6.1,164,5.9,7.1,2,14.0,0,0.0,0,111.8,0,0,0,0,0,0,
+RudoKy00,Kyle Rudolph,TE,2021,32,NYG,NFL,TE,16,13,39,26,257,12,120,4.6,137,5.3,5.9,1,26.0,0,0.0,0,93.6,0,0,0,0,0,0,
+RudoKy00,Kyle Rudolph,TE,2022,33,TAM,NFL,TE,9,0,5,3,28,2,25,8.3,3,1.0,7.6,0,,0,0.0,0,115.0,0,0,0,0,0,0,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CartAn00,Anthony Carter,WR,1985,25,MIN,NFL,WR,16,15,102,43,821,19.1,8,35,39.2,57,2.7,51.3,42.2,8.0,0,0,0,0,,,,0.0,0.0,43,19.1,821,8,1,8,
+CartAn00,Anthony Carter,WR,1986,26,MIN,NFL,WR,12,10,74,38,686,18.1,7,35,51.4,60,3.2,57.2,51.4,9.3,1,12,0,1,100.0,12,12.0,1.0,0.1,39,17.9,698,7,1,8,
+CartAn00,Anthony Carter,WR,1987,27,MIN,NFL,WR,12,11,76,38,922,24.3,7,34,50.0,73,3.2,76.8,50.0,12.1,0,0,0,0,,,,0.0,0.0,38,24.3,922,7,0,9,PB
+CartAn00,Anthony Carter,WR,1988,28,MIN,NFL,WR,16,16,129,72,1225,17.0,6,58,50.4,67,4.5,76.6,55.8,9.5,4,41,0,2,75.0,21,10.3,2.6,0.3,76,16.7,1266,6,1,11,PB
+CartAn00,Anthony Carter,WR,1989,29,MIN,NFL,WR,16,16,127,65,1066,16.4,4,57,49.6,50,4.1,66.6,51.2,8.4,3,18,0,2,66.7,17,6.0,1.1,0.2,68,15.9,1084,4,0,9,PB
+CartAn00,Anthony Carter,WR,1990,30,MIN,NFL,WR,15,14,121,70,1008,14.4,8,47,53.7,56,4.7,67.2,57.9,8.3,3,16,0,2,66.7,11,5.3,1.1,0.2,73,14.0,1024,8,2,9,
+CartAn00,Anthony Carter,WR,1991,31,MIN,NFL,WR,15,15,94,51,553,10.8,5,27,42.6,46,3.4,36.9,54.3,5.9,13,117,1,6,76.9,32,9.0,7.8,0.9,64,10.5,670,6,0,7,
+CartAn00,Anthony Carter,WR,1992,32,MIN,NFL,WR,16,14,81,41,580,14.1,2,29,46.9,54,2.6,36.3,50.6,7.2,16,66,1,4,56.3,14,4.1,4.1,1.0,57,11.3,646,3,1,6,
+CartAn00,Anthony Carter,WR,1993,33,MIN,NFL,WR,15,14,109,60,775,12.9,5,45,50.5,39,4.0,51.7,55.0,7.1,7,19,0,0,57.1,9,2.7,1.3,0.5,67,11.9,794,5,1,7,
+CartAn00,Anthony Carter,WR,1994,34,DET,NFL,WR,4,1,12,8,97,12.1,3,8,66.7,18,2.0,24.3,66.7,8.1,0,0,0,0,,,,0.0,0.0,8,12.1,97,3,0,1,
+CartAn00,Anthony Carter,WR,1995,35,DET,NFL,WR,3,0,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BrisBu00,Bubby Brister,QB,1986,24,PIT,NFL,QB,2,2,51,51,64,62,24,53,110,93,51,
+BrisBu00,Bubby Brister,QB,,,,,,,,,,,,,,,,,
+BrisBu00,Bubby Brister,QB,1988,26,PIT,NFL,QB,13,13,102,96,99,95,75,87,102,89,88,
+BrisBu00,Bubby Brister,QB,1989,27,PIT,NFL,QB,14,14,98,79,100,88,98,83,111,70,97,
+BrisBu00,Bubby Brister,QB,1990,28,PIT,NFL,QB,16,16,101,100,104,103,105,114,100,102,107,
+BrisBu00,Bubby Brister,QB,1991,29,PIT,NFL,QB,8,8,104,99,98,96,90,110,83,100,95,
+BrisBu00,Bubby Brister,QB,1992,30,PIT,NFL,QB,6,4,88,83,82,79,89,77,88,81,79,
+BrisBu00,Bubby Brister,QB,1993,31,PHI,NFL,QB,10,8,88,91,105,105,102,110,127,106,111,
+BrisBu00,Bubby Brister,QB,1994,32,PHI,NFL,QB,7,2,98,97,107,106,128,85,128,100,115,
+BrisBu00,Bubby Brister,QB,1995,33,NYJ,NFL,QB,9,4,39,38,46,45,89,80,75,83,65,
+BrisBu00,Bubby Brister,QB,,,,,,,,,,,,,,,,,
+BrisBu00,Bubby Brister,QB,1998,36,DEN,NFL,QB,7,4,114,118,122,124,112,137,113,112,126,

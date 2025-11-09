@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KingSh00,Shaun King,QB,1999,22,TAM,NFL,QB,6,5,18,38,0,5,44.4,8,2.1,6.3,3.0,0,0,0,0,0,0.0,0.0,18,2.1,38,0,4,
+KingSh00,Shaun King,QB,2000,23,TAM,NFL,QB,16,16,73,353,5,25,46.6,19,4.8,22.1,4.6,0,0,0,0,0,0.0,0.0,73,4.8,353,5,4,
+KingSh00,Shaun King,QB,2001,24,TAM,NFL,QB,3,0,5,-12,0,0,0.0,,-2.4,-4.0,1.7,0,0,0,0,0,0.0,0.0,5,-2.4,-12,0,0,
+KingSh00,Shaun King,QB,2002,25,TAM,NFL,QB,3,1,4,25,0,1,50.0,15,6.3,8.3,1.3,0,0,0,0,0,0.0,0.0,4,6.3,25,0,0,
+KingSh00,Shaun King,QB,2003,26,TAM,NFL,QB,3,0,4,20,0,3,75.0,12,5.0,6.7,1.3,0,0,0,0,0,0.0,0.0,4,5.0,20,0,0,
+KingSh00,Shaun King,QB,2004,27,ARI,NFL,QB,3,2,9,30,0,1,22.2,16,3.3,10.0,3.0,0,0,0,0,0,0.0,0.0,9,3.3,30,0,4,

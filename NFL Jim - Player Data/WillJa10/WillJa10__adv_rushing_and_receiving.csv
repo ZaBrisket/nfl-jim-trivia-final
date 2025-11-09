@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+WillJa10,Javonte Williams,RB,2021,21,DEN,NFL,RB,17,1,203,903,52,443,2.2,460,2.3,31,6.5,53,43,316,12,-27,-0.6,343,8.0,-0.2,2,21.5,3,5.7,0,110.4,
+WillJa10,Javonte Williams,RB,2022,22,DEN,NFL,RB,4,4,47,204,9,94,2.0,110,2.3,6,7.8,22,16,76,4,-42,-2.6,118,7.4,-1.1,2,8.0,1,4.5,0,77.1,
+WillJa10,Javonte Williams,RB,2023,23,DEN,NFL,RB,16,13,217,774,41,402,1.9,372,1.7,11,19.7,58,47,228,10,-75,-1.6,303,6.4,-1.7,6,7.8,4,6.9,0,94.5,
+WillJa10,Javonte Williams,RB,2024,24,DEN,NFL,RB,17,11,139,513,30,258,1.9,255,1.8,4,34.8,70,52,346,14,-49,-0.9,395,7.6,-0.3,4,13.0,7,10.0,0,84.6,
+WillJa10,Javonte Williams,RB,2025,25,DAL,NFL,RB,9,9,139,716,40,307,2.2,409,2.9,11,12.6,35,25,93,4,-36,-1.4,129,5.2,-1.3,0,,0,0.0,0,83.6,

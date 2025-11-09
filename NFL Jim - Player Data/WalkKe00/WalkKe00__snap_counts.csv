@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WalkKe00,Kenneth Walker III,RB,2022,22,SEA,RB,9,15,11,575,58%,0,0%,0,0%
+WalkKe00,Kenneth Walker III,RB,2023,23,SEA,RB,9,15,15,502,54%,0,0%,0,0%
+WalkKe00,Kenneth Walker III,RB,2024,24,SEA,RB,9,11,11,469,64%,0,0%,0,0%
+WalkKe00,Kenneth Walker III,RB,2025,25,SEA,RB,9,8,8,214,45%,0,0%,0,0%

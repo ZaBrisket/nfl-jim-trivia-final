@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrowCh10,Chase Brown,RB,2023,23,CIN,NFL,RB,12,0,44,179,0,6,34.1,31,4.1,14.9,3.7,15,14,156,11.1,1,4,53.3,54,1.2,13.0,93.3,10.4,58,5.8,335,1,1,3,
+BrowCh10,Chase Brown,RB,2024,24,CIN,NFL,RB,16,10,229,990,7,49,52.4,40,4.3,61.9,14.3,65,54,360,6.7,4,23,52.3,34,3.4,22.5,83.1,5.5,283,4.8,1350,11,2,10,
+BrowCh10,Chase Brown,RB,2025,25,CIN,NFL,RB,9,9,108,420,2,22,47.2,37,3.9,46.7,12.0,45,33,201,6.1,1,8,40.0,21,3.7,22.3,73.3,4.5,141,4.4,621,3,2,,

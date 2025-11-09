@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CoffPa00,Paul Coffman,TE,1982,26,GNB,NFL,TE,2,2,14,9,111,12.3,0,7,57.1,23,4.5,55.5,64.3,7.9,0,0,0,0,0.0,0.0,9,12.3,111,0,0,
+CoffPa00,Paul Coffman,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CoffPa00,Paul Coffman,TE,1986,30,KAN,NFL,TE,1,0,3,3,12,4.0,0,0,33.3,6,3.0,12.0,100.0,4.0,0,0,0,0,0.0,0.0,3,4.0,12,0,0,

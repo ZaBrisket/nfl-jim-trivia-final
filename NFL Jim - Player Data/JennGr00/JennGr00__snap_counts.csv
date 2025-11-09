@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JennGr00,Greg Jennings,WR,2012,29,GNB,WR,85,8,5,420,75%,0,0%,0,0%
+JennGr00,Greg Jennings,WR,2013,30,MIN,WR,15,15,15,742,77%,0,0%,0,0%
+JennGr00,Greg Jennings,WR,2014,31,MIN,WR,15,16,13,874,85%,0,0%,0,0%
+JennGr00,Greg Jennings,WR,2015,32,MIA,WR,85,16,5,308,30%,0,0%,0,0%

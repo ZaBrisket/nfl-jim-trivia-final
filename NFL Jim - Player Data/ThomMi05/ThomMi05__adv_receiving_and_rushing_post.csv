@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ThomMi05,Michael Thomas,WR,2018,25,NOR,NFL,WR,2,2,23,16,207,8,137,8.6,70,4.4,9.8,1,16.0,0,0.0,0,112.0,0,0,0,0,0,0,
+ThomMi05,Michael Thomas,WR,2019,26,NOR,NFL,WR,1,1,8,7,70,4,58,8.3,12,1.7,8.8,0,,0,0.0,0,103.1,0,0,0,0,0,0,
+ThomMi05,Michael Thomas,WR,2020,27,NOR,NFL,WR,2,1,11,5,73,3,48,9.6,25,5.0,7.9,0,,0,0.0,1,60.0,0,0,0,0,0,0,

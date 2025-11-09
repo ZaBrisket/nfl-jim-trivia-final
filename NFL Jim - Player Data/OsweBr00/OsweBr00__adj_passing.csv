@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+OsweBr00,Brock Osweiler,QB,2015,25,DEN,NFL,QB,8,7,99,94,98,95,96,90,104,87,96,
+OsweBr00,Brock Osweiler,QB,2016,26,HOU,NFL,QB,15,14,69,74,72,74,85,83,86,109,76,
+OsweBr00,Brock Osweiler,QB,2017,27,DEN,NFL,QB,6,4,82,87,81,84,73,83,91,106,77,
+OsweBr00,Brock Osweiler,QB,2018,28,MIA,NFL,QB,7,5,96,90,95,91,100,88,102,84,95,

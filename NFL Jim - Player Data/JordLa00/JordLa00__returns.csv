@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JordLa00,LaMont Jordan,RB,2001,23,NYJ,NFL,RB,16,0,0,0,0,0,3,62,0,23,20.7,398,
+JordLa00,LaMont Jordan,RB,2002,24,NYJ,NFL,RB,14,0,0,0,0,0,5,112,0,34,22.4,588,
+JordLa00,LaMont Jordan,RB,2003,25,NYJ,NFL,RB,16,0,0,0,0,0,11,209,0,25,19.0,500,
+JordLa00,LaMont Jordan,RB,2004,26,NYJ,NFL,RB,16,0,0,0,0,0,14,284,0,40,20.3,875,
+JordLa00,LaMont Jordan,RB,,,,,,,,,,,,,,,,,,
+JordLa00,LaMont Jordan,RB,2009,31,DEN,NFL,RB,9,0,0,0,0,0,1,6,0,6,6.0,92,

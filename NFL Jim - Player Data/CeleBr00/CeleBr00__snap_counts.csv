@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CeleBr00,Brent Celek,TE,2012,27,PHI,TE,87,15,14,862,81%,0,0%,52,12%
+CeleBr00,Brent Celek,TE,2013,28,PHI,TE,87,16,15,844,77%,0,0%,5,1%
+CeleBr00,Brent Celek,TE,2014,29,PHI,TE,87,16,15,816,69%,0,0%,6,1%
+CeleBr00,Brent Celek,TE,2015,30,PHI,TE,87,16,13,600,52%,0,0%,210,42%
+CeleBr00,Brent Celek,TE,2016,31,PHI,TE,87,16,8,440,39%,0,0%,170,39%
+CeleBr00,Brent Celek,TE,2017,32,PHI,TE,87,16,10,465,41%,0,0%,152,33%

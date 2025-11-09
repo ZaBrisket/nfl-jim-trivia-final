@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TollBi00,Billy Joe Tolliver,QB,1989,23,SDG,NFL,QB,5,5,77,85,79,83,75,84,93,116,77,
+TollBi00,Billy Joe Tolliver,QB,1990,24,SDG,NFL,QB,15,14,84,92,87,93,86,99,96,116,89,
+TollBi00,Billy Joe Tolliver,QB,1991,25,ATL,NFL,QB,7,2,90,95,104,105,70,112,117,96,99,
+TollBi00,Billy Joe Tolliver,QB,1992,26,ATL,NFL,QB,9,5,85,80,88,84,94,102,95,76,92,
+TollBi00,Billy Joe Tolliver,QB,1993,27,ATL,NFL,QB,7,2,87,97,72,79,80,103,52,119,72,
+TollBi00,Billy Joe Tolliver,QB,1994,28,HOU,NFL,QB,10,7,71,66,78,74,76,84,103,74,79,
+TollBi00,Billy Joe Tolliver,QB,,,,,,,,,,,,,,,,,
+TollBi00,Billy Joe Tolliver,QB,1997,31,2TM,NFL,QB,9,1,84,74,103,96,91,103,132,76,106,
+TollBi00,Billy Joe Tolliver,QB,1997,31,ATL,NFL,QB,6,1,85,75,104,97,92,104,133,77,107,
+TollBi00,Billy Joe Tolliver,QB,1998,32,NOR,NFL,QB,7,4,107,110,111,113,94,100,117,111,107,
+TollBi00,Billy Joe Tolliver,QB,1999,33,NOR,NFL,QB,10,7,106,105,88,88,79,86,63,103,78,

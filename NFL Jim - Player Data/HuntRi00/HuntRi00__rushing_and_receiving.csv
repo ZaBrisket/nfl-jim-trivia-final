@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HuntRi00,Richard Huntley,RB,1996,24,ATL,NFL,RB,1,0,2,8,0,0,100.0,5,4.0,8.0,2.0,1,1,14,14.0,0,1,100.0,14,1.0,14.0,100.0,14.0,3,7.3,22,0,0,0,
+HuntRi00,Richard Huntley,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HuntRi00,Richard Huntley,RB,1998,26,PIT,NFL,RB,16,1,55,242,1,9,47.3,48,4.4,15.1,3.4,6,3,18,6.0,0,0,33.3,7,0.2,1.1,50.0,3.0,58,4.5,260,1,5,1,
+HuntRi00,Richard Huntley,RB,1999,27,PIT,NFL,RB,16,2,93,567,5,29,55.9,52,6.1,35.4,5.8,39,27,253,9.4,3,14,41.0,25,1.7,15.8,69.2,6.5,120,6.8,820,8,3,7,
+HuntRi00,Richard Huntley,RB,2000,28,PIT,NFL,RB,13,0,46,215,3,13,41.3,30,4.7,16.5,3.5,19,10,91,9.1,0,4,31.6,19,0.8,7.0,52.6,4.8,56,5.5,306,3,1,3,
+HuntRi00,Richard Huntley,RB,2001,29,CAR,NFL,RB,14,9,165,665,2,30,39.4,25,4.0,47.5,11.8,32,21,101,4.8,1,3,25.0,23,1.5,7.2,65.6,3.2,186,4.1,766,3,3,5,
+HuntRi00,Richard Huntley,RB,2002,30,DET,NFL,RB,3,1,3,4,0,0,0.0,3,1.3,1.3,1.0,0,0,0,,0,0,,,0.0,0.0,,,3,1.3,4,0,0,0,

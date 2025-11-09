@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KaepCo00,Colin Kaepernick,QB,2011,24,SFO,NFL,QB,3,0,2,-2,0,0,0.0,-1,-1.0,-0.7,0.7,0,0,0,0,0,0.0,0.0,2,-1.0,-2,0,0,
+KaepCo00,Colin Kaepernick,QB,2012,25,SFO,NFL,QB,13,7,63,415,5,20,47.6,50,6.6,31.9,4.8,0,0,0,0,0,0.0,0.0,63,6.6,415,5,9,
+KaepCo00,Colin Kaepernick,QB,2013,26,SFO,NFL,QB,16,16,92,524,4,28,45.7,28,5.7,32.8,5.8,0,0,0,0,0,0.0,0.0,92,5.7,524,4,6,
+KaepCo00,Colin Kaepernick,QB,2014,27,SFO,NFL,QB,16,16,104,639,1,28,46.2,90,6.1,39.9,6.5,0,0,0,0,0,0.0,0.0,104,6.1,639,1,8,
+KaepCo00,Colin Kaepernick,QB,2015,28,SFO,NFL,QB,9,8,45,256,1,15,57.8,15,5.7,28.4,5.0,0,0,0,0,0,0.0,0.0,45,5.7,256,1,5,
+KaepCo00,Colin Kaepernick,QB,2016,29,SFO,NFL,QB,12,11,69,468,2,29,60.9,30,6.8,39.0,5.8,0,0,0,0,0,0.0,0.0,69,6.8,468,2,9,

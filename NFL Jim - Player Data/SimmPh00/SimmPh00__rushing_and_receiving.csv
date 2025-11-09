@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SimmPh00,Phil Simms,QB,1979,24,NYG,NFL,QB,12,11,29,166,1,5,34.5,27,5.7,13.8,2.4,0,0,0,,0,0,,,0.0,0.0,,,29,5.7,166,1,9,AP ORoY-2
+SimmPh00,Phil Simms,QB,1980,25,NYG,NFL,QB,13,13,36,190,1,16,63.9,20,5.3,14.6,2.8,0,0,0,,0,0,,,0.0,0.0,,,36,5.3,190,1,6,
+SimmPh00,Phil Simms,QB,1981,26,NYG,NFL,QB,10,10,19,42,0,4,26.3,24,2.2,4.2,1.9,0,0,0,,0,0,,,0.0,0.0,,,19,2.2,42,0,7,
+SimmPh00,Phil Simms,QB,1982,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SimmPh00,Phil Simms,QB,1984,29,NYG,NFL,QB,16,16,42,162,0,11,45.2,21,3.9,10.1,2.6,1,1,13,13.0,0,1,100.0,13,0.1,0.8,100.0,13.0,43,4.1,175,0,8,
+SimmPh00,Phil Simms,QB,1985,30,NYG,NFL,QB,16,16,37,132,0,7,27.0,28,3.6,8.3,2.3,0,0,0,,0,0,,,0.0,0.0,,,37,3.6,132,0,16,PB
+SimmPh00,Phil Simms,QB,1986,31,NYG,NFL,QB,16,16,43,72,1,10,23.3,18,1.7,4.5,2.7,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,43,1.7,72,1,9,
+SimmPh00,Phil Simms,QB,1987,32,NYG,NFL,QB,9,9,14,44,0,2,21.4,20,3.1,4.9,1.6,0,0,0,,0,0,,,0.0,0.0,,,14,3.1,44,0,4,
+SimmPh00,Phil Simms,QB,1988,33,NYG,NFL,QB,15,15,33,152,0,9,30.3,17,4.6,10.1,2.2,0,0,0,,0,0,,,0.0,0.0,,,33,4.6,152,0,7,
+SimmPh00,Phil Simms,QB,1989,34,NYG,NFL,QB,15,15,32,141,1,9,34.4,15,4.4,9.4,2.1,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,32,4.4,141,1,9,
+SimmPh00,Phil Simms,QB,1990,35,NYG,NFL,QB,14,14,21,61,1,4,23.8,20,2.9,4.4,1.5,0,0,0,,0,0,,,0.0,0.0,,,21,2.9,61,1,7,
+SimmPh00,Phil Simms,QB,1991,36,NYG,NFL,QB,6,4,9,42,1,3,44.4,19,4.7,7.0,1.5,0,0,0,,0,0,,,0.0,0.0,,,9,4.7,42,1,4,
+SimmPh00,Phil Simms,QB,1992,37,NYG,NFL,QB,4,4,6,17,0,1,16.7,7,2.8,4.3,1.5,0,0,0,,0,0,,,0.0,0.0,,,6,2.8,17,0,0,
+SimmPh00,Phil Simms,QB,1993,38,NYG,NFL,QB,16,16,28,31,0,6,25.0,9,1.1,1.9,1.8,1,1,-6,-6.0,0,0,0.0,-6,0.1,-0.4,100.0,-6.0,29,0.9,25,0,7,"PB,AP MVP-8"

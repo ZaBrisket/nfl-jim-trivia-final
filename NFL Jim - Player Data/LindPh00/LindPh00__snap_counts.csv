@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+LindPh00,Phillip Lindsay,RB,2018*,24,DEN,RB,30,15,8,453,46%,0,0%,63,15%
+LindPh00,Phillip Lindsay,RB,2019,25,DEN,RB,30,16,16,513,51%,0,0%,0,0%
+LindPh00,Phillip Lindsay,RB,2020,26,DEN,RB,30,11,8,270,38%,0,0%,1,0%
+LindPh00,Phillip Lindsay,RB,2021,27,2TM,RB,,14,1,159,,0,,34,
+LindPh00,Phillip Lindsay,RB,,,HOU,RB,30,10,1,103,17%,0,0%,21,8%
+LindPh00,Phillip Lindsay,RB,,,,,,,,56,21%,0,0%,13,12%
+LindPh00,Phillip Lindsay,RB,2022,28,IND,RB,30,3,0,66,30%,0,0%,0,0%

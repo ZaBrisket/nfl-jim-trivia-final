@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MillCh00,Chris Miller,QB,1987,22,ATL,NFL,QB,3,2,80,88,44,50,59,68,18,113,38,
+MillCh00,Chris Miller,QB,1988,23,ATL,NFL,QB,13,13,80,83,88,89,92,89,107,105,91,
+MillCh00,Chris Miller,QB,1989,24,ATL,NFL,QB,15,15,91,91,103,102,92,88,125,99,101,
+MillCh00,Chris Miller,QB,1990,25,ATL,NFL,QB,12,12,101,103,102,103,103,105,100,105,103,
+MillCh00,Chris Miller,QB,1991,26,ATL,NFL,QB,15,14,113,116,110,113,86,128,89,112,106,PB
+MillCh00,Chris Miller,QB,1992,27,ATL,NFL,QB,8,8,101,104,114,114,108,127,117,107,120,
+MillCh00,Chris Miller,QB,1993,28,ATL,NFL,QB,3,2,70,63,66,62,72,71,83,74,65,
+MillCh00,Chris Miller,QB,1994,29,RAM,NFL,QB,13,10,98,92,94,91,89,116,80,87,94,
+MillCh00,Chris Miller,QB,1995,30,STL,NFL,QB,13,13,94,89,94,91,98,107,91,93,97,
+MillCh00,Chris Miller,QB,1996,,Did not play - Retired,,,,,,,,,,,,,,
+MillCh00,Chris Miller,QB,1999,34,DEN,NFL,QB,3,3,95,93,104,101,98,84,128,95,102,

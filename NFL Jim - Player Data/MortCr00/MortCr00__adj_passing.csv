@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MortCr00,Craig Morton,QB,1967,24,DAL,NFL,QB,9,3,103,98,98,96,96,122,82,83,100,
+MortCr00,Craig Morton,QB,1968,25,DAL,NFL,QB,13,1,134,141,112,116,99,97,83,120,99,
+MortCr00,Craig Morton,QB,1969,26,DAL,NFL,QB,13,13,133,126,125,121,106,122,102,95,119,
+MortCr00,Craig Morton,QB,1970,27,DAL,NFL,QB,12,11,135,130,135,132,93,128,117,95,125,
+MortCr00,Craig Morton,QB,1971,28,DAL,NFL,QB,10,4,121,123,113,115,110,106,98,110,110,
+MortCr00,Craig Morton,QB,1972,29,DAL,NFL,QB,14,14,107,110,101,104,109,101,93,109,102,
+MortCr00,Craig Morton,QB,,,,,,,,,,,,,,,,,
+MortCr00,Craig Morton,QB,1974,31,2TM,NFL,QB,14,7,96,104,95,100,96,96,97,117,95,
+MortCr00,Craig Morton,QB,1974,31,NYG,NFL,QB,8,7,97,105,96,101,97,97,98,118,96,
+MortCr00,Craig Morton,QB,1975,32,NYG,NFL,QB,14,14,99,94,100,97,97,90,107,83,98,
+MortCr00,Craig Morton,QB,1976,33,NYG,NFL,QB,12,12,100,94,90,87,105,91,82,82,91,
+MortCr00,Craig Morton,QB,1977,34,DEN,NFL,QB,14,14,117,100,125,113,98,115,123,66,119,AP MVP-2
+MortCr00,Craig Morton,QB,1978,35,DEN,NFL,QB,14,13,101,93,115,108,105,101,125,78,115,
+MortCr00,Craig Morton,QB,1979,36,DEN,NFL,QB,14,10,105,104,102,101,102,102,96,100,101,
+MortCr00,Craig Morton,QB,1980,37,DEN,NFL,QB,12,9,104,102,103,101,120,97,102,94,108,
+MortCr00,Craig Morton,QB,1981,38,DEN,NFL,QB,15,15,131,112,129,116,114,117,109,66,125,AP MVP-4

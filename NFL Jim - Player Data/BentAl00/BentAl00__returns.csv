@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BentAl00,Albert Bentley,RB,1985,25,IND,NFL,RB,15,1,0,0,0,0,27,674,0,48,25.0,1047,
+BentAl00,Albert Bentley,RB,1986,26,IND,NFL,RB,12,3,0,0,0,0,32,687,0,37,21.5,1277,
+BentAl00,Albert Bentley,RB,1987,27,IND,NFL,RB,12,4,0,0,0,0,22,500,0,45,22.7,1578,
+BentAl00,Albert Bentley,RB,1988,28,IND,NFL,RB,16,2,0,0,0,0,39,775,0,40,19.9,1257,
+BentAl00,Albert Bentley,RB,1989,29,IND,NFL,FB,16,8,0,0,0,0,17,328,0,29,19.3,1159,
+BentAl00,Albert Bentley,RB,1990,30,IND,NFL,FB,16,15,0,0,0,0,11,211,0,36,19.2,1442,
+BentAl00,Albert Bentley,RB,,,,,,,,,,,,,,,,,,
+BentAl00,Albert Bentley,RB,1992,32,PIT,NFL,RB,2,0,0,0,0,0,1,17,0,17,17.0,17,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SmitDe07,DeVonta Smith,WR,2021,23,PHI,WR,6,17,16,916,82%,0,0%,2,0%
+SmitDe07,DeVonta Smith,WR,2022,24,PHI,WR,6,17,17,1083,92%,0,0%,9,2%
+SmitDe07,DeVonta Smith,WR,2023,25,PHI,WR,6,16,16,1043,96%,0,0%,4,1%
+SmitDe07,DeVonta Smith,WR,2024,26,PHI,WR,6,13,13,801,89%,0,0%,1,0%
+SmitDe07,DeVonta Smith,WR,2025,27,PHI,WR,6,8,8,429,91%,0,0%,2,1%

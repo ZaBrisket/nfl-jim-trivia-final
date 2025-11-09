@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HostJe00,Jeff Hostetler,QB,1990,29,NYG,NFL,QB,16,2,101,99,115,112,91,94,135,85,110,
+HostJe00,Jeff Hostetler,QB,1991,30,NYG,NFL,QB,12,12,104,108,111,112,121,75,133,104,111,
+HostJe00,Jeff Hostetler,QB,1992,31,NYG,NFL,QB,13,9,92,85,107,100,87,106,129,75,106,
+HostJe00,Jeff Hostetler,QB,1993,32,RAI,NFL,QB,15,15,119,114,118,115,95,95,115,90,107,
+HostJe00,Jeff Hostetler,QB,1994,33,RAI,NFL,QB,16,16,112,107,107,104,99,107,94,86,103,PB
+HostJe00,Jeff Hostetler,QB,1995,34,OAK,NFL,QB,11,11,106,103,105,103,107,104,101,93,106,
+HostJe00,Jeff Hostetler,QB,1996,35,OAK,NFL,QB,13,13,91,91,98,97,111,123,95,95,108,
+HostJe00,Jeff Hostetler,QB,1997,36,WAS,NFL,QB,6,3,91,94,73,75,92,94,48,103,74,

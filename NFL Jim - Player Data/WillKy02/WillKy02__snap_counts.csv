@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WillKy02,Kyren Williams,RB,2022,22,LAR,RB,23,10,0,141,24%,0,0%,53,21%
+WillKy02,Kyren Williams,RB,2023*,23,LAR,RB,23,12,11,678,82%,0,0%,25,7%
+WillKy02,Kyren Williams,RB,2024,24,LAR,RB,23,16,16,888,87%,0,0%,7,2%
+WillKy02,Kyren Williams,RB,2025,25,LAR,RB,23,8,8,392,74%,0,0%,2,1%

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+SimmPh00,Phil Simms,QB,1979,24,NYG,NFL,QB,12,11,94,78,95,85,86,109,94,64,94,AP ORoY-2
+SimmPh00,Phil Simms,QB,1980,25,NYG,NFL,QB,13,13,74,76,79,81,76,94,96,93,79,
+SimmPh00,Phil Simms,QB,1981,26,NYG,NFL,QB,10,10,88,78,100,92,96,91,121,77,101,
+SimmPh00,Phil Simms,QB,1982,,Did not play - Injured (knee),,,,,,,,,,,,,,
+SimmPh00,Phil Simms,QB,1984,29,NYG,NFL,QB,16,16,110,105,110,107,92,99,110,93,104,
+SimmPh00,Phil Simms,QB,1985,30,NYG,NFL,QB,16,16,114,108,110,107,100,104,100,91,105,PB
+SimmPh00,Phil Simms,QB,1986,31,NYG,NFL,QB,16,16,110,105,103,100,101,103,91,94,100,
+SimmPh00,Phil Simms,QB,1987,32,NYG,NFL,QB,9,9,120,109,122,115,109,120,111,77,120,
+SimmPh00,Phil Simms,QB,1988,33,NYG,NFL,QB,15,15,100,91,110,104,100,103,122,82,109,
+SimmPh00,Phil Simms,QB,1989,34,NYG,NFL,QB,15,15,111,106,107,105,103,93,104,87,103,
+SimmPh00,Phil Simms,QB,1990,35,NYG,NFL,QB,14,14,107,111,122,123,110,110,133,106,123,
+SimmPh00,Phil Simms,QB,1991,36,NYG,NFL,QB,6,4,103,100,111,108,104,121,111,89,115,
+SimmPh00,Phil Simms,QB,1992,37,NYG,NFL,QB,4,4,97,98,106,106,109,100,120,102,110,
+SimmPh00,Phil Simms,QB,1993,38,NYG,NFL,QB,16,16,116,111,118,114,111,100,117,89,115,"PB,AP MVP-8"

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MurrLa00,Latavius Murray,RB,2014,24,OAK,NFL,RB,15,3,82,424,2,18,42.7,90,5.2,28.3,5.5,23,17,143,8.4,0,3,30.4,46,1.1,9.5,73.9,6.2,99,5.7,567,2,1,3,
+MurrLa00,Latavius Murray,RB,2015,25,OAK,NFL,RB,16,16,266,1066,6,49,38.0,54,4.0,66.6,16.6,53,41,232,5.7,0,9,45.3,23,2.6,14.5,77.4,4.4,307,4.2,1298,6,4,9,PB
+MurrLa00,Latavius Murray,RB,2016,26,OAK,NFL,RB,14,12,195,788,12,52,47.7,42,4.0,56.3,13.9,43,33,264,8.0,0,11,48.8,39,2.4,18.9,76.7,6.1,228,4.6,1052,12,2,7,
+MurrLa00,Latavius Murray,RB,2017,27,MIN,NFL,RB,16,11,216,842,8,43,43.1,46,3.9,52.6,13.5,17,15,103,6.9,0,4,52.9,28,0.9,6.4,88.2,6.1,231,4.1,945,8,1,7,
+MurrLa00,Latavius Murray,RB,2018,28,MIN,NFL,RB,16,6,140,578,6,23,42.1,38,4.1,36.1,8.8,26,22,141,6.4,0,7,42.3,16,1.4,8.8,84.6,5.4,162,4.4,719,6,0,5,
+MurrLa00,Latavius Murray,RB,2019,29,NOR,NFL,RB,16,8,146,637,5,38,57.5,30,4.4,39.8,9.1,43,34,235,6.9,1,9,48.8,30,2.1,14.7,79.1,5.5,180,4.8,872,6,0,7,
+MurrLa00,Latavius Murray,RB,2020,30,NOR,NFL,RB,15,7,146,656,4,36,59.6,36,4.5,43.7,9.7,26,23,176,7.7,1,8,50.0,25,1.5,11.7,88.5,6.8,169,4.9,832,5,1,6,
+MurrLa00,Latavius Murray,RB,2021,31,BAL,NFL,RB,14,6,119,501,6,36,58.0,46,4.2,35.8,8.5,13,10,75,7.5,0,2,53.8,18,0.7,5.4,76.9,5.8,129,4.5,576,6,0,3,
+MurrLa00,Latavius Murray,RB,2022,32,2TM,NFL,RB,13,7,171,760,6,44,53.8,52,4.4,58.5,13.2,35,27,132,4.9,0,4,25.7,15,2.1,10.2,77.1,3.8,198,4.5,892,6,1,4,
+MurrLa00,Latavius Murray,RB,2022,32,NOR,NFL,RB,1,0,11,57,1,4,81.8,10,5.2,57.0,11.0,1,1,8,8.0,0,0,100.0,8,1.0,8.0,100.0,8.0,12,5.4,65,1,0,0,
+MurrLa00,Latavius Murray,RB,2022,32,DEN,NFL,RB,12,7,160,703,5,40,51.9,52,4.4,58.6,13.3,34,26,124,4.8,0,4,23.5,15,2.2,10.3,76.5,3.6,186,4.4,827,5,1,4,
+MurrLa00,Latavius Murray,RB,2023,33,BUF,NFL,RB,16,4,79,300,4,27,57.0,29,3.8,18.8,4.9,22,17,119,7.0,0,7,45.5,22,1.1,7.4,77.3,5.4,96,4.4,419,4,1,3,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FiedJa00,Jay Fiedler,QB,1998,27,MIN,NFL,QB,5,0,4,-6,0,0,0.0,-1,-1.5,-1.2,0.8,0,0,0,0,0,0.0,0.0,4,-1.5,-6,0,0,
+FiedJa00,Jay Fiedler,QB,1999,28,JAX,NFL,QB,7,1,13,26,0,3,30.8,15,2.0,3.7,1.9,0,0,0,0,0,0.0,0.0,13,2.0,26,0,1,
+FiedJa00,Jay Fiedler,QB,2000,29,MIA,NFL,QB,15,15,54,267,1,23,48.1,30,4.9,17.8,3.6,0,0,0,0,0,0.0,0.0,54,4.9,267,1,2,AP CPoY-12
+FiedJa00,Jay Fiedler,QB,2001,30,MIA,NFL,QB,16,16,73,321,4,27,50.7,26,4.4,20.1,4.6,0,0,0,0,0,0.0,0.0,73,4.4,321,4,6,
+FiedJa00,Jay Fiedler,QB,2002,31,MIA,NFL,QB,11,10,28,99,3,12,53.6,12,3.5,9.0,2.5,0,0,0,0,0,0.0,0.0,28,3.5,99,3,3,
+FiedJa00,Jay Fiedler,QB,2003,32,MIA,NFL,QB,12,11,34,88,3,14,52.9,14,2.6,7.3,2.8,0,0,0,0,0,0.0,0.0,34,2.6,88,3,7,
+FiedJa00,Jay Fiedler,QB,2004,33,MIA,NFL,QB,8,7,12,59,0,3,33.3,26,4.9,7.4,1.5,0,0,0,0,0,0.0,0.0,12,4.9,59,0,9,
+FiedJa00,Jay Fiedler,QB,2005,34,NYJ,NFL,QB,2,0,1,0,0,0,0.0,,0.0,0.0,0.5,0,0,0,0,0,0.0,0.0,1,0.0,0,0,1,

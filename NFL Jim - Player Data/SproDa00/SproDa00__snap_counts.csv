@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SproDa00,Darren Sproles,RB,2012,29,NOR,RB,43,13,6,444,48%,0,0%,111,27%
+SproDa00,Darren Sproles,RB,2013,30,NOR,RB,43,15,4,357,34%,0,0%,119,28%
+SproDa00,Darren Sproles,RB,2014*,31,PHI,RB,43,15,0,338,31%,0,0%,89,18%
+SproDa00,Darren Sproles,RB,2015*,32,PHI,RB,43,16,4,393,34%,0,0%,93,19%
+SproDa00,Darren Sproles,RB,2016*,33,PHI,RB,43,15,5,509,49%,1,0%,62,15%
+SproDa00,Darren Sproles,RB,2017,34,PHI,RB,43,3,0,89,41%,0,0%,11,13%
+SproDa00,Darren Sproles,RB,2018,35,PHI,RB,43,6,2,149,36%,0,0%,29,18%
+SproDa00,Darren Sproles,RB,2019,36,PHI,RB,43,6,1,103,23%,0,0%,32,19%

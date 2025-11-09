@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PurdBr00,Brock Purdy,QB,2022,23,SFO,NFL,QB,9,5,22,13,1,5,27.3,13,0.6,1.4,2.4,0,0,0,0,0,0.0,0.0,22,0.6,13,1,0,AP ORoY-3
+PurdBr00,Brock Purdy,QB,2023,24,SFO,NFL,QB,16,16,39,144,2,15,53.8,17,3.7,9.0,2.4,0,0,0,0,0,0.0,0.0,39,3.7,144,2,6,"PB,AP MVP-4,AP OPoY-6,AP CPoY-6"
+PurdBr00,Brock Purdy,QB,2024,25,SFO,NFL,QB,15,15,66,323,5,33,63.6,16,4.9,21.5,4.4,0,0,0,0,0,0.0,0.0,66,4.9,323,5,7,
+PurdBr00,Brock Purdy,QB,2025,26,SFO,NFL,QB,2,2,7,30,0,2,57.1,11,4.3,15.0,3.5,0,0,0,0,0,0.0,0.0,7,4.3,30,0,1,

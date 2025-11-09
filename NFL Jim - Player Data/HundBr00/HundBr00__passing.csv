@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+HundBr00,Brett Hundley,QB,2016,23,GNB,NFL,QB,4,0,,2,10,20.0,17,0,0.0,1,10.0,0,20.0,9,1.7,-2.80,8.5,4.3,0.0,5.0,0,0,0.00,1.70,-2.80,0,0,0,
+HundBr00,Brett Hundley,QB,2017,24,GNB,NFL,QB,11,9,3-6-0,192,316,60.8,1836,9,2.8,12,3.8,90,40.0,55,5.8,4.67,9.6,166.9,70.6,45.6,29,197,8.41,4.75,3.71,2,2,5,
+HundBr00,Brett Hundley,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HundBr00,Brett Hundley,QB,2019,26,ARI,NFL,QB,3,0,,5,11,45.5,49,0,0.0,0,0.0,2,23.1,28,4.5,4.45,9.8,16.3,58.5,80.6,2,11,15.38,2.92,2.92,0,0,0,

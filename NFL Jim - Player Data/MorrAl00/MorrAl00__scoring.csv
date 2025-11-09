@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MorrAl00,Alfred Morris,RB,2012,24,WAS,NFL,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,AP-2
+MorrAl00,Alfred Morris,RB,2013,25,WAS,NFL,RB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,PB
+MorrAl00,Alfred Morris,RB,2014,26,WAS,NFL,RB,16,16,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,PB
+MorrAl00,Alfred Morris,RB,2015,27,WAS,NFL,RB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+MorrAl00,Alfred Morris,RB,2016,28,DAL,NFL,RB,14,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+MorrAl00,Alfred Morris,RB,2017,29,DAL,NFL,RB,14,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+MorrAl00,Alfred Morris,RB,2018,30,SFO,NFL,RB,12,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.0,
+MorrAl00,Alfred Morris,RB,,,,,,,,,,,,,,,,,,,,,,,,
+MorrAl00,Alfred Morris,RB,2020,32,NYG,NFL,RB,9,0,1,1,0,0,0,0,0,2,0,0,0,,,0,12,1.3,

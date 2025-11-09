@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McLaTe00,Terry McLaurin,WR,2019,24,WAS,WR,17,14,14,764,92%,0,0%,3,1%
+McLaTe00,Terry McLaurin,WR,2020,25,WAS,WR,17,15,15,949,93%,0,0%,0,0%
+McLaTe00,Terry McLaurin,WR,2021,26,WAS,WR,17,17,17,1010,90%,0,0%,2,1%
+McLaTe00,Terry McLaurin,WR,2022*,27,WAS,WR,17,17,17,1063,89%,0,0%,0,0%
+McLaTe00,Terry McLaurin,WR,2023,28,WAS,WR,17,17,17,941,85%,0,0%,0,0%
+McLaTe00,Terry McLaurin,WR,2024*,29,WAS,WR,17,17,17,935,80%,0,0%,1,0%
+McLaTe00,Terry McLaurin,WR,2025,30,WAS,WR,17,4,4,178,71%,0,0%,0,0%

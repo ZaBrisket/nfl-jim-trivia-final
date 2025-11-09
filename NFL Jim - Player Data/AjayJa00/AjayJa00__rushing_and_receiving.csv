@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AjayJa00,Jay Ajayi,RB,2015,22,MIA,NFL,RB,9,0,49,187,1,8,36.7,24,3.8,20.8,5.4,11,7,90,12.9,0,5,54.5,20,0.8,10.0,63.6,8.2,56,4.9,277,1,0,2,
+AjayJa00,Jay Ajayi,RB,2016,23,MIA,NFL,RB,15,12,260,1272,8,63,42.7,62,4.9,84.8,17.3,35,27,151,5.6,0,8,45.7,15,1.8,10.1,77.1,4.3,287,5.0,1423,8,4,10,PB
+AjayJa00,Jay Ajayi,RB,2017,24,2TM,NFL,RB,14,8,208,873,1,45,41.8,71,4.2,62.4,14.9,34,24,158,6.6,1,8,32.4,32,1.7,11.3,70.6,4.6,232,4.4,1031,2,3,7,
+AjayJa00,Jay Ajayi,RB,2017,24,MIA,NFL,RB,7,7,138,465,0,29,42.0,21,3.4,66.4,19.7,20,14,67,4.8,0,2,25.0,15,2.0,9.6,70.0,3.4,152,3.5,532,0,1,3,
+AjayJa00,Jay Ajayi,RB,2017,24,PHI,NFL,RB,7,1,70,408,1,16,41.4,71,5.8,58.3,10.0,14,10,91,9.1,1,6,42.9,32,1.4,13.0,71.4,6.5,80,6.2,499,2,2,4,
+AjayJa00,Jay Ajayi,RB,2018,25,PHI,NFL,RB,4,3,45,184,3,11,48.9,20,4.1,46.0,11.3,6,5,20,4.0,0,1,50.0,12,1.3,5.0,83.3,3.3,50,4.1,204,3,1,1,
+AjayJa00,Jay Ajayi,RB,2019,26,PHI,NFL,RB,3,0,10,30,0,3,40.0,11,3.0,10.0,3.3,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,10,3.0,30,0,0,0,

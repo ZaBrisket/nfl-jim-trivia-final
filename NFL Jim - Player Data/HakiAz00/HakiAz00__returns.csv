@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HakiAz00,Az-Zahir Hakim,WR,1999,22,STL,NFL,WR,15,0,44,461,1,84,10.5,2,35,0,20,17.5,1217,
+HakiAz00,Az-Zahir Hakim,WR,2000,23,STL,NFL,WR,16,4,32,489,1,86,15.3,1,2,0,2,2.0,1244,
+HakiAz00,Az-Zahir Hakim,WR,2001,24,STL,NFL,WR,16,1,36,330,0,32,9.2,0,0,0,0,,742,
+HakiAz00,Az-Zahir Hakim,WR,2002,25,DET,NFL,WR,10,10,10,148,1,72,14.8,0,0,0,0,,692,
+HakiAz00,Az-Zahir Hakim,WR,2003,26,DET,NFL,WR,14,12,9,85,0,20,9.4,0,0,0,0,,585,
+HakiAz00,Az-Zahir Hakim,WR,,,,,,,,,,,,,,,,,,,
+HakiAz00,Az-Zahir Hakim,WR,2005,28,NOR,NFL,WR,12,2,34,260,0,42,7.6,9,171,0,29,19.0,920,

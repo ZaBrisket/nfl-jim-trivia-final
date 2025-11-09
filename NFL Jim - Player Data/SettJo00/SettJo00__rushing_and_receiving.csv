@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SettJo00,John Settle,RB,1987,22,ATL,NFL,RB,9,1,19,72,0,3,36.8,12,3.8,8.0,2.1,22,11,153,13.9,0,8,50.0,36,1.2,17.0,50.0,7.0,30,7.5,225,0,2,1,
+SettJo00,John Settle,RB,1988,23,ATL,NFL,FB,16,13,232,1024,7,49,48.7,62,4.4,64.0,14.5,103,68,570,8.4,1,31,49.5,27,4.3,35.6,66.0,5.5,300,5.3,1594,8,3,10,PB
+SettJo00,John Settle,RB,1989,24,ATL,NFL,FB,15,15,179,689,3,41,43.0,20,3.8,45.9,11.9,66,39,316,8.1,2,16,36.4,33,2.6,21.1,59.1,4.8,218,4.6,1005,5,1,7,
+SettJo00,John Settle,RB,1990,25,ATL,NFL,RB,6,0,9,16,0,0,0.0,4,1.8,2.7,1.5,0,0,0,,0,0,,,0.0,0.0,,,9,1.8,16,0,0,0,

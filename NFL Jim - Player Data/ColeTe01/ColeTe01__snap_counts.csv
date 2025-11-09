@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ColeTe01,Tevin Coleman,RB,2015,22,ATL,RB,26,12,3,226,26%,0,0%,20,6%
+ColeTe01,Tevin Coleman,RB,2016,23,ATL,RB,26,13,0,353,41%,0,0%,0,0%
+ColeTe01,Tevin Coleman,RB,2017,24,ATL,RB,26,15,3,424,44%,0,0%,0,0%
+ColeTe01,Tevin Coleman,RB,2018,25,ATL,RB,26,16,14,580,55%,0,0%,0,0%
+ColeTe01,Tevin Coleman,RB,2019,26,SFO,RB,26,14,11,381,42%,0,0%,6,2%
+ColeTe01,Tevin Coleman,RB,2020,27,SFO,RB,26,8,1,63,12%,0,0%,59,25%
+ColeTe01,Tevin Coleman,RB,2021,28,NYJ,RB,23,11,5,180,27%,0,0%,34,11%
+ColeTe01,Tevin Coleman,RB,2022,29,SFO,RB,28,5,0,32,10%,0,0%,2,2%

@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BradTo00,Tom Brady,QB,2001,24,NWE,NFL,QB,3,3,0,0,0,0,0,0,1,1,0,0,0.0,0,,,,,0,SB MVP
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2004,27,NWE,NFL,QB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,,0,
+BradTo00,Tom Brady,QB,2005,28,NWE,NFL,QB,2,2,0,0,0,0,0,0,2,2,0,0,0.0,0,,,0,,0,
+BradTo00,Tom Brady,QB,2006,29,NWE,NFL,QB,3,3,0,0,0,0,0,0,2,0,0,0,0.0,0,,,,,0,
+BradTo00,Tom Brady,QB,2007,30,NWE,NFL,QB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,,0,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2009,32,NWE,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BradTo00,Tom Brady,QB,2010,33,NWE,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2013,36,NWE,NFL,QB,2,2,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2017,40,NWE,NFL,QB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BradTo00,Tom Brady,QB,2018,41,NWE,NFL,QB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2020,43,TAM,NFL,QB,4,4,0,0,0,0,0,0,2,2,-15,0,0.0,0,0,0,0,0,0,SB MVP
+BradTo00,Tom Brady,QB,2021,44,TAM,NFL,QB,2,2,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+BradTo00,Tom Brady,QB,2022,45,TAM,NFL,QB,1,1,0,0,0,0,0,0,1,1,6,0,0.0,0,0,0,0,0,0,

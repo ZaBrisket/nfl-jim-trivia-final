@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+EdelJu00,Julian Edelman,WR,2009,23,NWE,NFL,WR,11,7,6,63,0,35,10.5,11,241,0,32,21.9,668,
+EdelJu00,Julian Edelman,WR,2010,24,NWE,NFL,WR,15,3,21,321,1,94,15.3,0,0,0,0,,421,
+EdelJu00,Julian Edelman,WR,2011,25,NWE,NFL,WR,13,0,28,296,1,72,10.6,12,284,0,37,23.7,622,
+EdelJu00,Julian Edelman,WR,2012,26,NWE,NFL,WR,9,3,17,263,1,68,15.5,3,38,0,32,12.7,603,
+EdelJu00,Julian Edelman,WR,2013,27,NWE,NFL,WR,16,11,35,374,0,43,10.7,0,0,0,0,,1441,
+EdelJu00,Julian Edelman,WR,2014,28,NWE,NFL,WR,14,13,25,299,1,84,12.0,0,0,0,0,,1365,
+EdelJu00,Julian Edelman,WR,2015,29,NWE,NFL,WR,9,9,10,81,0,19,8.1,0,0,0,0,,796,
+EdelJu00,Julian Edelman,WR,2016,30,NWE,NFL,WR,16,13,15,135,0,23,9.0,3,44,0,19,14.7,1342,
+EdelJu00,Julian Edelman,WR,2017,,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2018,32,NWE,NFL,WR,12,12,20,154,0,25,7.7,0,0,0,0,,1111,
+EdelJu00,Julian Edelman,WR,2019,33,NWE,NFL,WR,16,13,0,0,0,0,,1,19,0,19,19.0,1163,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MurrLa00,Latavius Murray,RB,2014,24,OAK,RB,28,15,3,277,29%,0,0%,136,29%
+MurrLa00,Latavius Murray,RB,2015*,25,OAK,RB,28,16,16,680,65%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2016,26,OAK,RB,28,14,12,525,53%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2017,27,MIN,RB,25,16,11,421,38%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2018,28,MIN,RB,25,16,6,461,44%,0,0%,1,0%
+MurrLa00,Latavius Murray,RB,2019,29,NOR,RB,28,16,8,434,41%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2020,30,NOR,RB,28,15,7,364,36%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2021,31,BAL,RB,28,14,6,378,38%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2022,32,2TM,RB,,13,7,447,,0,,0,
+MurrLa00,Latavius Murray,RB,,,NOR,RB,28,1,0,26,43%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,,,,,,,,421,53%,0,0%,0,0%
+MurrLa00,Latavius Murray,RB,2023,33,BUF,RB,28,16,4,351,32%,0,0%,0,0%

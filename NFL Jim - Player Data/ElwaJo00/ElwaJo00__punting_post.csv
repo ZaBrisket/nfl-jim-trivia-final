@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct,punt_blocked,awards
+ElwaJo00,John Elway,QB,1986,26,DEN,NFL,QB,3,3,2,50,25.0,31,0,0.0,0,0.0,0,
+ElwaJo00,John Elway,QB,1987,27,DEN,NFL,QB,3,3,1,18,18.0,18,0,0.0,0,0.0,0,
+ElwaJo00,John Elway,QB,,,,,,,,,,,,,,,,,
+ElwaJo00,John Elway,QB,1989,29,DEN,NFL,QB,3,3,1,17,17.0,17,0,0.0,0,0.0,0,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MillAn00,Anthony Miller,WR,1992,27,SDG,NFL,WR,2,2,15,4,70,17.5,0,3,26.7,44,2.0,35.0,26.7,4.7,0,0,0,0,0.0,0.0,4,17.5,70,0,1,
+MillAn00,Anthony Miller,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MillAn00,Anthony Miller,WR,1996,31,DEN,NFL,WR,1,1,10,5,67,13.4,0,5,50.0,18,5.0,67.0,50.0,6.7,0,0,0,0,0.0,0.0,5,13.4,67,0,0,

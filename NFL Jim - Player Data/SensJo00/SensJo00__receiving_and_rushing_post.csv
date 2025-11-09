@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SensJo00,Joe Senser,TE,1980,24,MIN,NFL,TE,1,0,5,4,25,6.3,0,2,40.0,22,4.0,25.0,80.0,5.0,0,0,0,0,0.0,0.0,4,6.3,25,0,0,
+SensJo00,Joe Senser,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SensJo00,Joe Senser,TE,1982,26,MIN,NFL,TE,2,2,11,7,113,16.1,0,6,54.5,32,3.5,56.5,63.6,10.3,0,0,0,0,0.0,0.0,7,16.1,113,0,1,

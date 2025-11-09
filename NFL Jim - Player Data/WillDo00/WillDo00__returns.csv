@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WillDo00,Dokie Williams,WR,1983,23,RAI,NFL,WR,16,0,0,0,0,0,5,88,0,19,17.6,347,
+WillDo00,Dokie Williams,WR,1984,24,RAI,NFL,WR,16,2,0,0,0,0,24,621,0,62,25.9,1130,
+WillDo00,Dokie Williams,WR,1985,25,RAI,NFL,WR,16,16,0,0,0,0,1,19,0,19,19.0,944,
+WillDo00,Dokie Williams,WR,,,,,,,,,,,,,,,,,,
+WillDo00,Dokie Williams,WR,1987,27,RAI,NFL,WR,11,5,0,0,0,0,14,221,0,27,15.8,551,

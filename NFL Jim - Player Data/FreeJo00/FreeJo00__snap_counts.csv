@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FreeJo00,Josh Freeman,QB,2012,24,TAM,QB,5,16,16,1037,99%,0,0%,0,0%
+FreeJo00,Josh Freeman,QB,2013,25,2TM,QB,,4,4,261,,0,,0,
+FreeJo00,Josh Freeman,QB,,,TAM,QB,5,3,3,190,100%,0,0%,0,0%
+FreeJo00,Josh Freeman,QB,,,,,,,,71,100%,0,0%,0,0%
+FreeJo00,Josh Freeman,QB,2015,27,IND,QB,5,1,1,60,85%,0,0%,0,0%

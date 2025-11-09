@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BennMi00,Michael Bennett,RB,2001,23,MIN,NFL,RB,13,13,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,,0,
+BennMi00,Michael Bennett,RB,2002,24,MIN,NFL,RB,16,16,0,0,0,0,0,0,4,4,0,0,0.0,0,0,0,0,,0,PB
+BennMi00,Michael Bennett,RB,2003,25,MIN,NFL,RB,8,7,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,,0,
+BennMi00,Michael Bennett,RB,2004,26,MIN,NFL,RB,11,7,0,0,0,0,0,0,1,1,0,0,0.0,,,,,,0,
+BennMi00,Michael Bennett,RB,2005,27,MIN,NFL,RB,16,6,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,,0,
+BennMi00,Michael Bennett,RB,2006,28,KAN,NFL,RB,11,0,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+BennMi00,Michael Bennett,RB,2007,29,2TM,NFL,RB,14,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+BennMi00,Michael Bennett,RB,2007,29,KAN,NFL,RB,6,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+BennMi00,Michael Bennett,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+BennMi00,Michael Bennett,RB,2009,31,SDG,NFL,RB,6,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,
+BennMi00,Michael Bennett,RB,2010,32,OAK,NFL,RB,7,0,0,0,0,0,0,0,0,0,0,0,0.0,9,9,0,0,0,0,

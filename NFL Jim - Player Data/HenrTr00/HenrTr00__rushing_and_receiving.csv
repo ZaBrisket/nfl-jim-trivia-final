@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HenrTr00,Travis Henry,RB,2001,23,BUF,NFL,RB,13,12,213,729,4,39,37.6,25,3.4,56.1,16.4,27,22,179,8.1,0,6,37.0,40,1.7,13.8,81.5,6.6,235,3.9,908,4,5,4,
+HenrTr00,Travis Henry,RB,2002,24,BUF,NFL,RB,16,16,325,1438,13,78,50.5,34,4.4,89.9,20.3,59,43,309,7.2,1,14,50.8,26,2.7,19.3,72.9,5.2,368,4.7,1747,14,11,13,PB
+HenrTr00,Travis Henry,RB,2003,25,BUF,NFL,RB,15,15,331,1356,10,77,44.1,64,4.1,90.4,22.1,40,28,158,5.6,1,9,37.5,18,1.9,10.5,70.0,4.0,359,4.2,1514,11,7,9,
+HenrTr00,Travis Henry,RB,2004,26,BUF,NFL,RB,10,5,94,326,0,18,40.4,19,3.5,32.6,9.4,14,10,45,4.5,0,4,50.0,10,1.0,4.5,71.4,3.2,104,3.6,371,0,0,3,
+HenrTr00,Travis Henry,RB,2005,27,TEN,NFL,RB,10,1,88,335,0,13,31.8,29,3.8,33.5,8.8,20,13,117,9.0,0,5,35.0,42,1.3,11.7,65.0,5.9,101,4.5,452,0,2,3,
+HenrTr00,Travis Henry,RB,2006,28,TEN,NFL,RB,14,13,270,1211,7,50,42.6,70,4.5,86.5,19.3,25,18,78,4.3,0,2,20.0,12,1.3,5.6,72.0,3.1,288,4.5,1289,7,3,9,AP CPoY-6
+HenrTr00,Travis Henry,RB,2007,29,DEN,NFL,RB,12,7,167,691,4,37,46.1,33,4.1,57.6,13.9,14,7,65,9.3,0,2,35.7,21,0.6,5.4,50.0,4.6,174,4.3,756,4,3,5,

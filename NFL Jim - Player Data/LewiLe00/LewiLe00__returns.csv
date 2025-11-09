@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LewiLe00,Leo Lewis,WR,1983,27,MIN,NFL,WR,14,4,3,52,0,34,17.3,1,25,0,25,25.0,206,
+LewiLe00,Leo Lewis,WR,1984,28,MIN,NFL,WR,16,5,4,31,0,13,7.8,1,31,0,31,31.0,903,
+LewiLe00,Leo Lewis,WR,,,,,,,,,,,,,,,,,,,
+LewiLe00,Leo Lewis,WR,1986,30,MIN,NFL,WR,16,16,7,53,0,13,7.6,0,0,0,0,,637,
+LewiLe00,Leo Lewis,WR,1987,31,MIN,NFL,WR,12,12,22,275,1,78,12.5,0,0,0,0,,651,
+LewiLe00,Leo Lewis,WR,1988,32,MIN,NFL,WR,16,1,58,550,0,64,9.5,1,12,0,12,12.0,703,
+LewiLe00,Leo Lewis,WR,1989,33,MIN,NFL,WR,16,0,44,446,0,65,10.1,2,30,0,15,15.0,635,
+LewiLe00,Leo Lewis,WR,1990,34,2TM,NFL,WR,14,0,33,236,0,30,7.2,3,39,0,15,13.0,284,
+LewiLe00,Leo Lewis,WR,1990,34,CLE,NFL,WR,3,0,8,56,0,18,7.0,0,0,0,0,,56,
+LewiLe00,Leo Lewis,WR,1990,34,MIN,NFL,WR,11,0,25,180,0,30,7.2,3,39,0,15,13.0,228,
+LewiLe00,Leo Lewis,WR,1991,35,MIN,NFL,WR,16,0,30,225,0,44,7.5,0,0,0,0,,261,

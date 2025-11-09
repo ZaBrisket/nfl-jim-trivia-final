@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MillLa01,Lamar Miller,RB,2012,21,MIA,NFL,RB,13,1,51,250,1,12,51.0,28,4.9,19.2,3.9,8,6,45,7.5,0,3,62.5,12,0.5,3.5,75.0,5.6,57,5.2,295,1,0,2,
+MillLa01,Lamar Miller,RB,2013,22,MIA,NFL,RB,16,15,177,709,2,27,44.6,49,4.0,44.3,11.1,35,26,170,6.5,0,6,31.4,22,1.6,10.6,74.3,4.9,203,4.3,879,2,1,5,
+MillLa01,Lamar Miller,RB,2014,23,MIA,NFL,RB,16,16,216,1099,8,57,54.6,97,5.1,68.7,13.5,52,38,275,7.2,1,10,46.2,20,2.4,17.2,73.1,5.3,254,5.4,1374,9,3,11,
+MillLa01,Lamar Miller,RB,2015,24,MIA,NFL,RB,16,16,194,872,8,41,42.3,85,4.5,54.5,12.1,57,47,397,8.4,2,15,40.4,54,2.9,24.8,82.5,7.0,241,5.3,1269,10,1,7,
+MillLa01,Lamar Miller,RB,2016,25,HOU,NFL,RB,14,14,268,1073,5,55,42.9,45,4.0,76.6,19.1,39,31,188,6.1,1,9,56.4,16,2.2,13.4,79.5,4.8,299,4.2,1261,6,2,7,
+MillLa01,Lamar Miller,RB,2017,26,HOU,NFL,RB,16,13,238,888,3,45,43.7,21,3.7,55.5,14.9,45,36,327,9.1,3,18,55.6,32,2.3,20.4,80.0,7.3,274,4.4,1215,6,1,7,
+MillLa01,Lamar Miller,RB,2018,27,HOU,NFL,RB,14,14,210,973,5,36,42.4,97,4.6,69.5,15.0,35,25,163,6.5,1,8,34.3,16,1.8,11.6,71.4,4.7,235,4.8,1136,6,1,8,PB
+MillLa01,Lamar Miller,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MillLa01,Lamar Miller,RB,2020,29,CHI,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,2,2,6,3.0,0,1,50.0,7,2.0,6.0,100.0,3.0,2,3.0,6,0,0,0,

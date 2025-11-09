@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+DelhJa00,Jake Delhomme,QB,1999,24,NOR,NFL,QB,2,2,101,100,85,85,92,99,55,98,82,
+DelhJa00,Jake Delhomme,QB,,,,,,,,,,,,,,,,,
+DelhJa00,Jake Delhomme,QB,2003,28,CAR,NFL,QB,16,15,107,109,103,104,99,101,93,111,100,
+DelhJa00,Jake Delhomme,QB,2004,29,CAR,NFL,QB,16,16,108,108,111,110,96,116,106,105,109,
+DelhJa00,Jake Delhomme,QB,2005,30,CAR,NFL,QB,16,16,117,115,112,111,102,117,91,104,109,PB
+DelhJa00,Jake Delhomme,QB,2006,31,CAR,NFL,QB,13,13,94,97,99,101,103,99,109,110,102,
+DelhJa00,Jake Delhomme,QB,2007,32,CAR,NFL,QB,3,3,108,105,131,126,112,160,129,104,141,
+DelhJa00,Jake Delhomme,QB,2008,33,CAR,NFL,QB,16,16,119,119,112,113,94,95,101,110,102,AP CPoY-2
+DelhJa00,Jake Delhomme,QB,2009,34,CAR,NFL,QB,11,11,87,85,73,72,81,80,62,95,70,
+DelhJa00,Jake Delhomme,QB,2010,35,CLE,NFL,QB,5,4,79,85,71,75,106,67,76,118,77,

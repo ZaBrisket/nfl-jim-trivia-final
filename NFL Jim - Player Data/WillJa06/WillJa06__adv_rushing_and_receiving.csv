@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+WillJa06,Jamaal Williams,RB,2018,23,GNB,NFL,RB,16,8,121,464,25,231,1.9,233,1.9,5,24.2,41,27,210,11,-13,-0.5,223,8.3,0.8,2,13.5,0,0.0,0,78.3,
+WillJa06,Jamaal Williams,RB,2019,24,GNB,NFL,RB,14,2,107,460,23,270,2.5,190,1.8,5,21.4,45,39,253,16,-26,-0.7,279,7.2,-0.8,10,3.9,1,2.2,0,127.1,
+WillJa06,Jamaal Williams,RB,2020,25,GNB,NFL,RB,14,3,119,505,29,277,2.3,228,1.9,5,23.8,35,31,236,11,17,0.5,219,7.1,0.5,4,7.8,2,5.7,0,104.3,
+WillJa06,Jamaal Williams,RB,2021,26,DET,NFL,RB,13,11,153,601,42,382,2.5,219,1.4,10,15.3,28,26,157,6,1,0.0,156,6.0,0.4,1,26.0,1,3.6,0,90.0,
+WillJa06,Jamaal Williams,RB,2022,27,DET,NFL,RB,17,9,262,1066,65,626,2.4,440,1.7,13,20.2,16,12,73,4,8,0.7,65,5.4,1.8,2,6.0,3,18.8,0,83.6,
+WillJa06,Jamaal Williams,RB,2023,28,NOR,NFL,RB,13,4,106,306,19,162,1.5,144,1.4,3,35.3,20,18,62,1,-25,-1.4,87,4.8,-1.4,0,,0,0.0,0,79.6,
+WillJa06,Jamaal Williams,RB,2024,29,NOR,NFL,RB,14,1,48,164,11,92,1.9,72,1.5,0,,11,9,57,3,4,0.4,53,5.9,-1.3,0,,0,0.0,0,88.3,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MetcEr00,Eric Metcalf,RB,1989,21,CLE,NFL,RB,16,11,187,633,6,36,38.5,43,3.4,39.6,11.7,75,54,397,7.4,4,20,48.0,68,3.4,24.8,72.0,5.3,241,4.3,1030,10,5,7,
+MetcEr00,Eric Metcalf,RB,1990,22,CLE,NFL,RB,16,10,80,248,1,6,33.8,17,3.1,15.5,5.0,104,57,452,7.9,1,22,34.6,35,3.6,28.3,54.8,4.3,137,5.1,700,2,8,6,
+MetcEr00,Eric Metcalf,RB,1991,23,CLE,NFL,RB,8,3,30,107,0,3,36.7,15,3.6,13.4,3.8,36,29,294,10.1,0,13,58.3,45,3.6,36.8,80.6,8.2,59,6.8,401,0,1,4,
+MetcEr00,Eric Metcalf,RB,1992,24,CLE,NFL,RB,16,5,73,301,1,12,41.1,31,4.1,18.8,4.6,69,47,614,13.1,5,25,47.8,69,2.9,38.4,68.1,8.9,120,7.6,915,6,6,9,
+MetcEr00,Eric Metcalf,RB,1993,25,CLE,NFL,RB,16,9,129,611,1,25,42.6,55,4.7,38.2,8.1,83,63,539,8.6,2,21,41.0,49,3.9,33.7,75.9,6.5,192,6.0,1150,3,4,12,"PB,AP-1"
+MetcEr00,Eric Metcalf,RB,1994,26,CLE,NFL,RB,16,8,93,329,2,12,36.6,37,3.5,20.6,5.8,85,47,436,9.3,3,21,41.2,57,2.9,27.3,55.3,5.1,140,5.5,765,5,6,9,PB
+MetcEr00,Eric Metcalf,RB,1995,27,ATL,NFL,WR,16,15,28,133,1,8,50.0,23,4.8,8.3,1.8,153,104,1189,11.4,8,53,54.9,62,6.5,74.3,68.0,7.8,132,10.0,1322,9,4,13,
+MetcEr00,Eric Metcalf,RB,1996,28,ATL,NFL,WR,16,11,3,8,0,0,0.0,4,2.7,0.5,0.2,90,54,599,11.1,6,33,54.4,67,3.4,37.4,60.0,6.7,57,10.6,607,6,3,5,
+MetcEr00,Eric Metcalf,RB,1997,29,SDG,NFL,WR,16,1,3,-5,0,0,0.0,2,-1.7,-0.3,0.2,77,40,576,14.4,2,24,37.7,62,2.5,36.0,51.9,7.5,43,13.3,571,2,4,7,"PB,AP-1"
+MetcEr00,Eric Metcalf,RB,1998,30,ARI,NFL,RB,16,3,0,0,0,0,,,,0.0,0.0,49,31,324,10.5,0,18,51.0,29,1.9,20.3,63.3,6.6,31,10.5,324,0,5,3,
+MetcEr00,Eric Metcalf,RB,1999,31,CAR,NFL,WR,16,1,2,20,0,1,100.0,17,10.0,1.3,0.1,22,11,133,12.1,0,5,40.9,33,0.7,8.3,50.0,6.0,13,11.8,153,0,2,2,
+MetcEr00,Eric Metcalf,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MetcEr00,Eric Metcalf,RB,2001,33,WAS,NFL,WR,10,0,0,0,0,0,,,,0.0,0.0,5,4,19,4.8,0,0,0.0,9,0.4,1.9,80.0,3.8,4,4.8,19,0,4,1,
+MetcEr00,Eric Metcalf,RB,2002,34,GNB,NFL,KR,1,0,2,7,0,1,50.0,5,3.5,7.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,2,3.5,7,0,1,0,

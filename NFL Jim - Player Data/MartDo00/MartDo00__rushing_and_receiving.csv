@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MartDo00,Doug Martin,RB,2012,23,TAM,NFL,RB,16,16,319,1454,11,64,44.8,70,4.6,90.9,19.9,70,49,472,9.6,1,18,45.7,64,3.1,29.5,70.0,6.7,368,5.2,1926,12,1,14,PB
+MartDo00,Doug Martin,RB,2013,24,TAM,NFL,RB,6,6,127,456,1,18,37.8,28,3.6,76.0,21.2,24,12,66,5.5,0,1,16.7,13,2.0,11.0,50.0,2.8,139,3.8,522,1,2,3,
+MartDo00,Doug Martin,RB,2014,25,TAM,NFL,RB,11,11,134,494,2,24,35.8,63,3.7,44.9,12.2,20,13,64,4.9,0,3,25.0,20,1.2,5.8,65.0,3.2,147,3.8,558,2,0,3,
+MartDo00,Doug Martin,RB,2015,26,TAM,NFL,RB,16,16,288,1402,6,68,46.2,84,4.9,87.6,18.0,44,33,271,8.2,1,10,45.5,25,2.1,16.9,75.0,6.2,321,5.2,1673,7,5,11,"PB,AP-1,AP CPoY-4"
+MartDo00,Doug Martin,RB,2016,27,TAM,NFL,RB,8,8,144,421,3,24,41.0,17,2.9,52.6,18.0,16,14,134,9.6,0,4,43.8,27,1.8,16.8,87.5,8.4,158,3.5,555,3,1,4,
+MartDo00,Doug Martin,RB,2017,28,TAM,NFL,RB,11,8,138,406,3,22,34.8,27,2.9,36.9,12.5,18,9,84,9.3,0,6,38.9,17,0.8,7.6,50.0,4.7,147,3.3,490,3,1,3,
+MartDo00,Doug Martin,RB,2018,29,OAK,NFL,RB,16,9,172,723,4,37,52.3,29,4.2,45.2,10.8,24,18,116,6.4,0,6,41.7,23,1.1,7.3,75.0,4.8,190,4.4,839,4,3,5,

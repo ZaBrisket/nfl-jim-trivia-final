@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AddiJo00,Jordan Addison,WR,2023,21,MIN,NFL,WR,17,14,108,70,911,13.0,10,38,50.0,62,4.1,53.6,64.8,8.4,1,2,0,0,0.0,2,2.0,0.1,0.1,71,12.9,913,10,0,7,
+AddiJo00,Jordan Addison,WR,2024,22,MIN,NFL,WR,15,15,99,63,875,13.9,9,39,47.5,69,4.2,58.3,63.6,8.8,3,20,1,1,100.0,9,6.7,1.3,0.2,66,13.6,895,10,0,8,
+AddiJo00,Jordan Addison,WR,2025,23,MIN,NFL,WR,5,4,34,23,357,15.5,2,15,64.7,81,4.6,71.4,67.6,10.5,1,16,0,1,100.0,16,16.0,3.2,0.2,24,15.5,373,2,0,,

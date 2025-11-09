@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SmitSt01,Steve Smith Sr.,WR,2001,22,CAR,NFL,WR,15,1,34,364,1,70,10.7,56,1431,2,99,25.6,1994,"PB,AP-1"
+SmitSt01,Steve Smith Sr.,WR,2002,23,CAR,NFL,WR,15,13,55,470,2,87,8.5,26,571,0,51,22.0,1909,
+SmitSt01,Steve Smith Sr.,WR,2003,24,CAR,NFL,WR,16,11,44,439,1,53,10.0,11,309,0,42,28.1,1900,
+SmitSt01,Steve Smith Sr.,WR,,,,,,,,,,,,,,,,,,,
+SmitSt01,Steve Smith Sr.,WR,2005,26,CAR,NFL,WR,16,16,27,286,0,44,10.6,3,61,0,33,20.3,1940,"PB,AP-1,AP CPoY-1"
+SmitSt01,Steve Smith Sr.,WR,2006,27,CAR,NFL,WR,14,14,9,30,0,16,3.3,2,-1,0,3,-0.5,1256,PB
+SmitSt01,Steve Smith Sr.,WR,2007,28,CAR,NFL,WR,15,15,2,7,0,6,3.5,0,0,0,0,,1075,
+SmitSt01,Steve Smith Sr.,WR,2008,29,CAR,NFL,WR,14,14,1,10,0,10,10.0,0,0,0,0,,1471,"PB,AP-2,AP OPoY-6"
+SmitSt01,Steve Smith Sr.,WR,,,,,,,,,,,,,,,,,,,
+SmitSt01,Steve Smith Sr.,WR,2010,31,CAR,NFL,WR,14,14,6,46,0,32,7.7,0,0,0,0,,609,
+SmitSt01,Steve Smith Sr.,WR,,,,,,,,,,,,,,,,,,,
+SmitSt01,Steve Smith Sr.,WR,2015,36,BAL,NFL,WR,7,7,2,32,0,22,16.0,0,0,0,0,,702,

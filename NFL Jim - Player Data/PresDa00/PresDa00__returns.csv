@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PresDa00,Dave Preston,RB,1978,23,DEN,NFL,RB,16,0,10,68,0,23,6.8,7,154,0,32,22.0,717,
+PresDa00,Dave Preston,RB,1979,24,DEN,NFL,RB,10,3,7,78,0,22,11.1,13,336,0,37,25.8,720,
+PresDa00,Dave Preston,RB,1980,25,DEN,NFL,RB,12,10,1,7,0,7,7.0,5,106,0,26,21.2,799,
+PresDa00,Dave Preston,RB,1981,26,DEN,NFL,RB,16,14,0,0,0,0,,1,1,0,1,1.0,1148,

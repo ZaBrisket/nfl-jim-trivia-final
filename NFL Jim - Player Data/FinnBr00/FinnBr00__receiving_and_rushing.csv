@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FinnBr00,Brian Finneran,WR,1999,23,PHI,NFL,WR,3,0,4,2,21,10.5,0,1,25.0,11,0.7,7.0,50.0,5.3,0,0,0,0,0.0,0.0,2,10.5,21,0,0,0,
+FinnBr00,Brian Finneran,WR,2000,24,ATL,NFL,WR,12,0,14,7,60,8.6,0,3,28.6,14,0.6,5.0,50.0,4.3,0,0,0,0,0.0,0.0,7,8.6,60,0,0,1,
+FinnBr00,Brian Finneran,WR,2001,25,ATL,NFL,WR,16,1,41,23,491,21.3,3,18,51.2,52,1.4,30.7,56.1,12.0,0,0,0,0,0.0,0.0,23,21.3,491,3,0,4,
+FinnBr00,Brian Finneran,WR,2002,26,ATL,NFL,WR,16,16,101,56,838,15.0,6,41,48.5,47,3.5,52.4,55.4,8.3,0,0,0,0,0.0,0.0,56,15.0,838,6,2,9,
+FinnBr00,Brian Finneran,WR,2003,27,ATL,NFL,WR,12,10,54,26,368,14.2,2,21,46.3,38,2.2,30.7,48.1,6.8,0,0,0,0,0.0,0.0,26,14.2,368,2,0,4,
+FinnBr00,Brian Finneran,WR,2004,28,ATL,NFL,WR,12,1,33,23,258,11.2,2,16,60.6,26,1.9,21.5,69.7,7.8,0,0,0,0,0.0,0.0,23,11.2,258,2,1,3,
+FinnBr00,Brian Finneran,WR,2005,29,ATL,NFL,WR,16,7,81,50,611,12.2,2,31,45.7,53,3.1,38.2,61.7,7.5,0,0,0,0,0.0,0.0,50,12.2,611,2,0,7,
+FinnBr00,Brian Finneran,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FinnBr00,Brian Finneran,WR,2008,32,ATL,NFL,WR,16,0,36,21,169,8.0,1,14,44.4,14,1.3,10.6,58.3,4.7,0,0,0,0,0.0,0.0,21,8.0,169,1,1,2,
+FinnBr00,Brian Finneran,WR,2009,33,ATL,NFL,WR,10,2,16,11,111,10.1,0,7,50.0,19,1.1,11.1,68.8,6.9,0,0,0,0,0.0,0.0,11,10.1,111,0,0,1,
+FinnBr00,Brian Finneran,WR,2010,34,ATL,NFL,WR,16,1,32,19,166,8.7,3,11,46.9,21,1.2,10.4,59.4,5.2,0,0,0,0,0.0,0.0,19,8.7,166,3,0,2,

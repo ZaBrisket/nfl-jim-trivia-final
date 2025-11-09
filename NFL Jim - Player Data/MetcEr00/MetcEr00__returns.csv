@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MetcEr00,Eric Metcalf,RB,1989,21,CLE,NFL,RB,16,11,0,0,0,0,,31,718,0,49,23.2,1748,
+MetcEr00,Eric Metcalf,RB,1990,22,CLE,NFL,RB,16,10,0,0,0,0,,52,1052,2,101,20.2,1752,
+MetcEr00,Eric Metcalf,RB,1991,23,CLE,NFL,RB,8,3,12,100,0,30,8.3,23,351,0,24,15.3,852,
+MetcEr00,Eric Metcalf,RB,1992,24,CLE,NFL,RB,16,5,44,429,1,75,9.8,9,157,0,30,17.4,1501,
+MetcEr00,Eric Metcalf,RB,1993,25,CLE,NFL,RB,16,9,36,464,2,91,12.9,15,318,0,47,21.2,1932,"PB,AP-1"
+MetcEr00,Eric Metcalf,RB,1994,26,CLE,NFL,RB,16,8,35,348,2,92,9.9,9,210,0,32,23.3,1323,PB
+MetcEr00,Eric Metcalf,RB,1995,27,ATL,NFL,WR,16,15,39,383,1,66,9.8,12,278,0,47,23.2,1983,
+MetcEr00,Eric Metcalf,RB,1996,28,ATL,NFL,WR,16,11,27,296,0,39,11.0,49,1034,0,55,21.1,1937,
+MetcEr00,Eric Metcalf,RB,1997,29,SDG,NFL,WR,16,1,45,489,3,85,10.9,16,355,0,63,22.2,1415,"PB,AP-1"
+MetcEr00,Eric Metcalf,RB,1998,30,ARI,NFL,RB,16,3,43,295,0,24,6.9,57,1218,0,59,21.4,1837,
+MetcEr00,Eric Metcalf,RB,1999,31,CAR,NFL,WR,16,1,34,238,0,30,7.0,4,56,0,31,14.0,447,
+MetcEr00,Eric Metcalf,RB,,,,,,,,,,,,,,,,,,,
+MetcEr00,Eric Metcalf,RB,2001,33,WAS,NFL,WR,10,0,33,412,1,89,12.5,1,25,0,25,25.0,456,
+MetcEr00,Eric Metcalf,RB,2002,34,GNB,NFL,KR,1,0,3,-1,0,0,-0.3,2,41,0,21,20.5,47,

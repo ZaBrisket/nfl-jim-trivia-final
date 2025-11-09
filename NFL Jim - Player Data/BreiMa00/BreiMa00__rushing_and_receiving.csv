@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BreiMa00,Matt Breida,RB,2017,22,SFO,NFL,RB,16,0,105,465,2,23,45.7,33,4.4,29.1,6.6,36,21,180,8.6,1,9,38.9,32,1.3,11.3,58.3,5.0,126,5.1,645,3,1,4,
+BreiMa00,Matt Breida,RB,2018,23,SFO,NFL,RB,14,13,153,814,3,36,45.1,66,5.3,58.1,10.9,31,27,261,9.7,2,12,67.7,26,1.9,18.6,87.1,8.4,180,6.0,1075,5,1,7,
+BreiMa00,Matt Breida,RB,2019,24,SFO,NFL,RB,13,5,123,623,1,23,43.9,83,5.1,47.9,9.5,22,19,120,6.3,1,6,45.5,17,1.5,9.2,86.4,5.5,142,5.2,743,2,2,6,
+BreiMa00,Matt Breida,RB,2020,25,MIA,NFL,RB,12,1,59,254,0,11,55.9,24,4.3,21.2,4.9,10,9,96,10.7,0,5,60.0,31,0.8,8.0,90.0,9.6,68,5.1,350,0,2,2,
+BreiMa00,Matt Breida,RB,2021,26,BUF,NFL,RB,9,0,26,125,1,5,65.4,28,4.8,13.9,2.9,9,7,72,10.3,2,4,66.7,23,0.8,8.0,77.8,8.0,33,6.0,197,3,1,2,
+BreiMa00,Matt Breida,RB,2022,27,NYG,NFL,RB,17,1,54,220,1,13,50.0,18,4.1,12.9,3.2,25,20,118,5.9,0,5,36.0,16,1.2,6.9,80.0,4.7,74,4.6,338,1,0,3,
+BreiMa00,Matt Breida,RB,2023,28,NYG,NFL,RB,17,4,55,151,1,7,34.5,9,2.7,8.9,3.2,21,17,88,5.2,0,2,19.0,22,1.0,5.2,81.0,4.2,72,3.3,239,1,1,1,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+HubbCh01,Chuba Hubbard,RB,2021,22,CAR,NFL,RB,17,10,172,612,36,287,1.7,325,1.9,9,19.1,37,25,174,8,14,0.6,160,6.4,0.4,3,8.3,7,18.9,1,75.7,
+HubbCh01,Chuba Hubbard,RB,2022,23,CAR,NFL,RB,15,2,95,466,23,295,3.1,171,1.8,4,23.8,17,14,171,5,29,2.1,142,10.1,0.5,1,14.0,1,5.9,0,108.6,
+HubbCh01,Chuba Hubbard,RB,2023,24,CAR,NFL,RB,17,12,238,902,59,476,2.0,426,1.8,17,14.0,44,39,233,9,-36,-0.9,269,6.9,-0.8,5,7.8,1,2.3,1,79.3,
+HubbCh01,Chuba Hubbard,RB,2024,25,CAR,NFL,RB,15,15,250,1195,62,656,2.6,539,2.2,14,17.9,54,43,171,10,-74,-1.7,245,5.7,-1.2,7,6.1,2,3.7,0,86.0,
+HubbCh01,Chuba Hubbard,RB,2025,26,CAR,NFL,RB,7,6,84,299,18,140,1.7,159,1.9,0,,22,15,118,6,-28,-1.9,146,9.7,0.1,1,15.0,2,9.1,0,111.6,

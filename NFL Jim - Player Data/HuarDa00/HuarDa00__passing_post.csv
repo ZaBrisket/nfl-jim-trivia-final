@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+HuarDa00,Damon Huard,QB,1998,25,MIA,NFL,QB,1,0,0,0,,0,0,,0,,0,,,,,,0.0,,0,0,,,,0,0,
+HuarDa00,Damon Huard,QB,1999,26,MIA,NFL,QB,2,0,5,16,31.3,46,0,0.0,0,0.0,2,15.8,15,2.9,2.88,9.2,23.0,40.6,3,17,15.79,1.53,1.53,0,0,
+HuarDa00,Damon Huard,QB,2000,27,MIA,NFL,QB,1,0,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,

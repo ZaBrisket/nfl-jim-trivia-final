@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MoriLa00,Larry Moriarty,RB,1983,25,HOU,NFL,FB,16,8,0,0,0,0,2,25,0,16,12.5,378,
+MoriLa00,Larry Moriarty,RB,,,,,,,,,,,,,,,,,,
+MoriLa00,Larry Moriarty,RB,1986,28,2TM,NFL,RB,15,5,0,0,0,0,4,80,0,23,20.0,399,
+MoriLa00,Larry Moriarty,RB,1986,28,KAN,NFL,RB,10,1,0,0,0,0,4,80,0,23,20.0,246,
+MoriLa00,Larry Moriarty,RB,1987,29,KAN,NFL,RB,12,4,0,0,0,0,6,102,0,24,17.0,246,

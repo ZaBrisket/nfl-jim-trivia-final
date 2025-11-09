@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PennRa00,Rashaad Penny,RB,2018,22,SEA,NFL,RB,14,0,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.9,
+PennRa00,Rashaad Penny,RB,2019,23,SEA,NFL,RB,10,0,3,1,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.4,
+PennRa00,Rashaad Penny,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+PennRa00,Rashaad Penny,RB,2021,25,SEA,NFL,RB,10,6,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,36,3.6,
+PennRa00,Rashaad Penny,RB,2022,26,SEA,NFL,RB,5,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,2.4,

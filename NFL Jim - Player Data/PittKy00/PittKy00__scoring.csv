@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PittKy00,Kyle Pitts,TE,2021,21,ATL,NFL,TE,17,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,PB
+PittKy00,Kyle Pitts,TE,2022,22,ATL,NFL,TE,10,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.2,
+PittKy00,Kyle Pitts,TE,2023,23,ATL,NFL,TE,17,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.1,
+PittKy00,Kyle Pitts,TE,2024,24,ATL,NFL,TE,17,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.4,
+PittKy00,Kyle Pitts,TE,2025,25,ATL,NFL,TE,8,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.8,

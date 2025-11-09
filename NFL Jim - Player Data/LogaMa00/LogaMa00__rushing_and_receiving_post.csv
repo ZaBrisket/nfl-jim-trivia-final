@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LogaMa00,Marc Logan,RB,1988,23,CIN,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+LogaMa00,Marc Logan,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LogaMa00,Marc Logan,RB,1990,25,MIA,NFL,RB,2,0,12,23,0,2,50.0,7,1.9,11.5,6.0,2,2,8,4.0,0,0,50.0,6,1.0,4.0,100.0,4.0,14,2.2,31,0,1,
+LogaMa00,Marc Logan,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LogaMa00,Marc Logan,RB,1992,27,SFO,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,
+LogaMa00,Marc Logan,RB,1993,28,SFO,NFL,FB,2,0,9,40,1,3,55.6,15,4.4,20.0,4.5,4,4,29,7.3,0,1,75.0,8,2.0,14.5,100.0,7.3,13,5.3,69,1,1,
+LogaMa00,Marc Logan,RB,1994,29,SFO,NFL,FB,2,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,

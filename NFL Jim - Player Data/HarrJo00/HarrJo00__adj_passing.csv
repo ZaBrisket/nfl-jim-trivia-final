@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HarrJo00,Joey Harrington,QB,2002,24,DET,NFL,QB,14,12,70,83,72,80,68,83,91,132,71,
+HarrJo00,Joey Harrington,QB,2003,25,DET,NFL,QB,16,16,70,83,72,80,88,87,86,132,79,
+HarrJo00,Joey Harrington,QB,2004,26,DET,NFL,QB,16,16,90,91,96,97,89,98,112,98,96,
+HarrJo00,Joey Harrington,QB,2005,27,DET,NFL,QB,12,11,87,89,87,89,91,95,91,99,88,
+HarrJo00,Joey Harrington,QB,2006,28,MIA,NFL,QB,11,11,79,87,79,85,91,90,88,117,83,
+HarrJo00,Joey Harrington,QB,2007,29,ATL,NFL,QB,12,10,89,87,92,90,104,77,111,86,93,

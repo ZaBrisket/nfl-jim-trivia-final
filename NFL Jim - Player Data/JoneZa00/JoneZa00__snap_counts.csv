@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JoneZa00,Zay Jones,WR,2017,22,BUF,WR,11,15,10,792,79%,0,0%,4,1%
+JoneZa00,Zay Jones,WR,2018,23,BUF,WR,11,16,15,941,89%,0,0%,2,1%
+JoneZa00,Zay Jones,WR,2019,24,2TM,WR,,15,9,630,,0,,14,
+JoneZa00,Zay Jones,WR,,,BUF,WR,11,5,2,169,48%,0,0%,14,11%
+JoneZa00,Zay Jones,WR,,,,,,,,461,72%,0,0%,0,0%
+JoneZa00,Zay Jones,WR,2020,25,LVR,WR,12,16,2,289,27%,0,0%,0,0%
+JoneZa00,Zay Jones,WR,2021,26,LVR,WR,7,17,9,640,56%,0,0%,99,21%
+JoneZa00,Zay Jones,WR,2022,27,JAX,WR,7,16,15,930,86%,0,0%,1,0%
+JoneZa00,Zay Jones,WR,2023,28,JAX,WR,7,9,7,475,73%,0,0%,0,0%
+JoneZa00,Zay Jones,WR,2024,29,ARI,WR,,11,2,257,35%,0,0%,0,0%
+JoneZa00,Zay Jones,WR,2025,30,ARI,WR,17,7,0,260,55%,0,0%,0,0%

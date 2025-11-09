@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SuttCo00,Courtland Sutton,WR,2018,23,DEN,NFL,WR,16,9,84,42,704,16.8,4,30,45.2,42,2.6,44.0,50.0,8.4,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,43,16.3,703,4,0,5,
+SuttCo00,Courtland Sutton,WR,2019,24,DEN,NFL,WR,16,14,124,72,1112,15.4,6,50,49.2,70,4.5,69.5,58.1,9.0,3,17,0,1,100.0,9,5.7,1.1,0.2,75,15.1,1129,6,2,9,PB
+SuttCo00,Courtland Sutton,WR,2020,25,DEN,NFL,WR,1,1,6,3,66,22.0,0,2,33.3,45,3.0,66.0,50.0,11.0,0,0,0,0,,,,0.0,0.0,3,22.0,66,0,0,0,
+SuttCo00,Courtland Sutton,WR,2021,26,DEN,NFL,WR,17,16,98,58,776,13.4,2,35,50.0,55,3.4,45.6,59.2,7.9,0,0,0,0,,,,0.0,0.0,58,13.4,776,2,0,7,
+SuttCo00,Courtland Sutton,WR,2022,27,DEN,NFL,WR,15,15,109,64,829,13.0,2,38,46.8,51,4.3,55.3,58.7,7.6,1,5,0,0,100.0,5,5.0,0.3,0.1,65,12.8,834,2,0,5,
+SuttCo00,Courtland Sutton,WR,2023,28,DEN,NFL,WR,16,14,90,59,772,13.1,10,37,54.4,46,3.7,48.3,65.6,8.6,0,0,0,0,,,,0.0,0.0,59,13.1,772,10,3,7,
+SuttCo00,Courtland Sutton,WR,2024,29,DEN,NFL,WR,17,13,135,81,1081,13.3,8,57,53.3,47,4.8,63.6,60.0,8.0,0,0,0,0,,,,0.0,0.0,81,13.3,1081,8,1,10,
+SuttCo00,Courtland Sutton,WR,2025,30,DEN,NFL,WR,10,10,66,41,590,14.4,4,28,56.1,52,4.1,59.0,62.1,8.9,0,0,0,0,,,,0.0,0.0,41,14.4,590,4,0,,

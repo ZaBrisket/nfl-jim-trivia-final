@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HopkDe00,DeAndre Hopkins,WR,2015,23,HOU,NFL,WR,1,1,11,6,69,11.5,0,5,45.5,17,6.0,69.0,54.5,6.3,0,0,0,0,0.0,0.0,6,11.5,69,0,0,
+HopkDe00,DeAndre Hopkins,WR,2016,24,HOU,NFL,WR,2,2,18,11,132,12.0,1,6,38.9,38,5.5,66.0,61.1,7.3,0,0,0,0,0.0,0.0,11,12.0,132,1,0,
+HopkDe00,DeAndre Hopkins,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HopkDe00,DeAndre Hopkins,WR,2018,26,HOU,NFL,WR,1,1,10,5,37,7.4,0,4,40.0,13,5.0,37.0,50.0,3.7,0,0,0,0,0.0,0.0,5,7.4,37,0,0,
+HopkDe00,DeAndre Hopkins,WR,2019,27,HOU,NFL,WR,2,2,22,15,208,13.9,0,9,54.5,41,7.5,104.0,68.2,9.5,0,0,0,0,0.0,0.0,15,13.9,208,0,2,
+HopkDe00,DeAndre Hopkins,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HopkDe00,DeAndre Hopkins,WR,2024,32,KAN,NFL,WR,3,2,8,3,29,9.7,1,3,37.5,11,1.0,9.7,37.5,3.6,0,0,0,0,0.0,0.0,3,9.7,29,1,0,

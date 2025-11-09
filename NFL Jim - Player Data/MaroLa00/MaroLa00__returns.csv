@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MaroLa00,Laurence Maroney,RB,2006,21,NWE,NFL,RB,14,0,0,0,0,0,28,783,0,77,28.0,1722,
+MaroLa00,Laurence Maroney,RB,,,,,,,,,,,,,,,,,,
+MaroLa00,Laurence Maroney,RB,2009,24,NWE,NFL,RB,15,5,0,0,0,0,13,279,0,52,21.5,1135,

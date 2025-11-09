@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MowaZe00,Zeke Mowatt,TE,1983,22,NYG,NFL,TE,16,14,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+MowaZe00,Zeke Mowatt,TE,1984,23,NYG,NFL,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+MowaZe00,Zeke Mowatt,TE,,,,,,,,,,,,,,,,,,,,,,,
+MowaZe00,Zeke Mowatt,TE,1986,25,NYG,NFL,TE,16,5,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+MowaZe00,Zeke Mowatt,TE,1987,26,NYG,NFL,TE,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+MowaZe00,Zeke Mowatt,TE,1988,27,NYG,NFL,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+MowaZe00,Zeke Mowatt,TE,,,,,,,,,,,,,,,,,,,,,,,
+MowaZe00,Zeke Mowatt,TE,1991,30,NYG,NFL,TE,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+WillGe00,Gerald Willhite,RB,1982,23,DEN,NFL,RB,9,2,0,2,0.0,0,0,0.0,1,50.0,0,,,0.0,-22.50,,0.0,0.0,0,0,0.00,0.00,-22.50,0,0,
+WillGe00,Gerald Willhite,RB,1983,24,DEN,NFL,RB,8,0,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,
+WillGe00,Gerald Willhite,RB,1984,25,DEN,NFL,RB,16,1,1,2,50.0,20,0,0.0,0,0.0,1,50.0,20,10.0,10.00,20.0,1.3,85.4,0,0,0.00,10.00,10.00,0,0,
+WillGe00,Gerald Willhite,RB,1985,26,DEN,NFL,RB,15,4,0,3,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,
+WillGe00,Gerald Willhite,RB,1986,27,DEN,NFL,FB,16,12,1,4,25.0,11,0,0.0,0,0.0,1,25.0,11,2.8,2.75,11.0,0.7,39.6,0,0,0.00,2.75,2.75,0,0,
+WillGe00,Gerald Willhite,RB,1987,28,DEN,NFL,RB,3,1,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,

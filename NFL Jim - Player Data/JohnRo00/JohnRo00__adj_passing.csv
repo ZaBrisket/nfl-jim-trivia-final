@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+JohnRo00,Rob Johnson,QB,1998,25,BUF,NFL,QB,8,6,131,94,130,105,124,135,106,17,131,
+JohnRo00,Rob Johnson,QB,,,,,,,,,,,,,,,,,
+JohnRo00,Rob Johnson,QB,2000,27,BUF,NFL,QB,12,11,104,87,109,97,96,100,116,57,106,
+JohnRo00,Rob Johnson,QB,2001,28,BUF,NFL,QB,8,8,101,87,96,86,110,78,99,64,96,
+JohnRo00,Rob Johnson,QB,2002,29,TAM,NFL,QB,6,2,86,62,88,73,120,59,116,22,95,

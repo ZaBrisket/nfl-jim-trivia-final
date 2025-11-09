@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BrowMa04,Marquise Brown,WR,2019,22,BAL,WR,15,14,11,562,58%,0,0%,0,0%
+BrowMa04,Marquise Brown,WR,2020,23,BAL,WR,15,16,14,802,78%,0,0%,2,1%
+BrowMa04,Marquise Brown,WR,2021,24,BAL,WR,5,16,16,924,80%,0,0%,0,0%
+BrowMa04,Marquise Brown,WR,2022,25,ARI,WR,2,12,10,783,91%,0,0%,0,0%
+BrowMa04,Marquise Brown,WR,2023,26,ARI,WR,2,14,14,784,85%,0,0%,0,0%
+BrowMa04,Marquise Brown,WR,2024,27,KAN,WR,5,2,1,45,33%,0,0%,0,0%
+BrowMa04,Marquise Brown,WR,2025,28,KAN,WR,5,9,4,334,55%,0,0%,0,0%

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WatkSa00,Sammy Watkins,WR,2014,21,BUF,NFL,WR,16,16,128,65,982,15.1,6,48,46.9,84,4.1,61.4,50.8,7.7,2,8,0,1,50.0,5,4.0,0.5,0.1,67,14.8,990,6,1,8,
+WatkSa00,Sammy Watkins,WR,2015,22,BUF,NFL,WR,13,13,96,60,1047,17.5,9,41,55.2,63,4.6,80.5,62.5,10.9,1,1,0,0,0.0,1,1.0,0.1,0.1,61,17.2,1048,9,0,10,
+WatkSa00,Sammy Watkins,WR,2016,23,BUF,NFL,WR,8,8,52,28,430,15.4,2,20,51.9,62,3.5,53.8,53.8,8.3,0,0,0,0,,,,0.0,0.0,28,15.4,430,2,0,4,
+WatkSa00,Sammy Watkins,WR,2017,24,LAR,NFL,WR,15,14,70,39,593,15.2,8,33,52.9,67,2.6,39.5,55.7,8.5,0,0,0,0,,,,0.0,0.0,39,15.2,593,8,0,6,
+WatkSa00,Sammy Watkins,WR,2018,25,KAN,NFL,WR,10,9,55,40,519,13.0,3,24,65.5,50,4.0,51.9,72.7,9.4,5,52,0,2,60.0,31,10.4,5.2,0.5,45,12.7,571,3,1,6,
+WatkSa00,Sammy Watkins,WR,2019,26,KAN,NFL,WR,14,13,90,52,673,12.9,3,30,47.8,68,3.7,48.1,57.8,7.5,2,12,0,1,50.0,11,6.0,0.9,0.1,54,12.7,685,3,2,7,
+WatkSa00,Sammy Watkins,WR,2020,27,KAN,NFL,WR,10,9,55,37,421,11.4,2,27,65.5,37,3.7,42.1,67.3,7.7,1,3,0,0,0.0,3,3.0,0.3,0.1,38,11.2,424,2,1,4,
+WatkSa00,Sammy Watkins,WR,2021,28,BAL,NFL,WR,13,9,49,27,394,14.6,1,17,46.9,49,2.1,30.3,55.1,8.0,0,0,0,0,,,,0.0,0.0,27,14.6,394,1,1,3,
+WatkSa00,Sammy Watkins,WR,2022,29,2TM,NFL,WR,12,5,27,16,325,20.3,0,11,59.3,55,1.3,27.1,59.3,12.0,0,0,0,0,,,,0.0,0.0,16,20.3,325,0,1,3,
+WatkSa00,Sammy Watkins,WR,2022,29,GNB,NFL,WR,9,3,22,13,206,15.8,0,9,59.1,55,1.4,22.9,59.1,9.4,0,0,0,0,,,,0.0,0.0,13,15.8,206,0,0,2,
+WatkSa00,Sammy Watkins,WR,2022,29,BAL,NFL,WR,3,2,5,3,119,39.7,0,2,60.0,47,1.0,39.7,60.0,23.8,0,0,0,0,,,,0.0,0.0,3,39.7,119,0,1,1,

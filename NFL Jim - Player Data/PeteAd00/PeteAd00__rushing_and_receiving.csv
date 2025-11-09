@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PeteAd00,Adrian Peterson,RB,2002,23,CHI,NFL,RB,9,0,19,101,1,4,63.2,14,5.3,11.2,2.1,4,3,18,6.0,0,1,50.0,16,0.3,2.0,75.0,4.5,22,5.4,119,1,0,1,
+PeteAd00,Adrian Peterson,RB,2003,24,CHI,NFL,RB,6,1,22,70,0,4,50.0,10,3.2,11.7,3.7,1,1,5,5.0,0,0,0.0,5,0.2,0.8,100.0,5.0,23,3.3,75,0,0,0,
+PeteAd00,Adrian Peterson,RB,2004,25,CHI,NFL,RB,14,0,6,19,0,2,16.7,13,3.2,1.4,0.4,2,2,30,15.0,0,1,50.0,30,0.1,2.1,100.0,15.0,8,6.1,49,0,0,0,
+PeteAd00,Adrian Peterson,RB,2005,26,CHI,NFL,RB,16,0,76,391,2,21,46.1,36,5.1,24.4,4.8,12,7,48,6.9,0,1,25.0,18,0.4,3.0,58.3,4.0,83,5.3,439,2,1,3,
+PeteAd00,Adrian Peterson,RB,2006,27,CHI,NFL,RB,16,0,10,41,2,6,50.0,11,4.1,2.6,0.6,6,6,88,14.7,0,2,50.0,37,0.4,5.5,100.0,14.7,16,8.1,129,2,2,1,
+PeteAd00,Adrian Peterson,RB,2007,28,CHI,NFL,RB,16,5,151,510,3,28,37.7,21,3.4,31.9,9.4,65,51,420,8.2,0,15,50.8,30,3.2,26.3,78.5,6.5,202,4.6,930,3,3,6,
+PeteAd00,Adrian Peterson,RB,2008,29,CHI,NFL,RB,15,0,20,100,0,4,45.0,16,5.0,6.7,1.3,10,6,45,7.5,0,1,20.0,19,0.4,3.0,60.0,4.5,26,5.6,145,0,0,1,
+PeteAd00,Adrian Peterson,RB,2009,30,CHI,NFL,RB,14,0,7,51,0,2,42.9,15,7.3,3.6,0.5,2,2,11,5.5,0,1,100.0,7,0.1,0.8,100.0,5.5,9,6.9,62,0,0,0,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AdamDa01,Davante Adams,WR,2014,22,GNB,NFL,WR,16,11,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+AdamDa01,Davante Adams,WR,2015,23,GNB,NFL,WR,13,12,0,1,0,0,0,0,0,1,1,,0,0,0,0,0,8,0.6,
+AdamDa01,Davante Adams,WR,2016,24,GNB,NFL,WR,16,15,0,12,0,0,0,0,0,12,1,,0,0,0,0,0,74,4.6,
+AdamDa01,Davante Adams,WR,2017,25,GNB,NFL,WR,14,14,0,10,0,0,0,0,0,10,0,,0,0,0,0,0,60,4.3,PB
+AdamDa01,Davante Adams,WR,2018,26,GNB,NFL,WR,15,15,0,13,0,0,0,0,0,13,1,,0,0,0,0,0,80,5.3,PB
+AdamDa01,Davante Adams,WR,2019,27,GNB,NFL,WR,12,12,0,5,0,0,0,0,0,5,1,,0,0,0,0,0,32,2.7,PB
+AdamDa01,Davante Adams,WR,2020,28,GNB,NFL,WR,14,14,0,18,0,0,0,0,0,18,0,,0,0,0,0,0,108,7.7,"PB,AP-1"
+AdamDa01,Davante Adams,WR,2021,29,GNB,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,66,4.1,"PB,AP-1"
+AdamDa01,Davante Adams,WR,2022,30,LVR,NFL,WR,17,17,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,84,4.9,"PB,AP-1"
+AdamDa01,Davante Adams,WR,2023,31,LVR,NFL,WR,17,17,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,
+AdamDa01,Davante Adams,WR,2024,32,2TM,NFL,WR,14,14,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,50,3.6,
+AdamDa01,Davante Adams,WR,2024,32,LVR,NFL,WR,3,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,2.0,
+AdamDa01,Davante Adams,WR,2024,32,NYJ,NFL,WR,11,11,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,44,4.0,
+AdamDa01,Davante Adams,WR,2025,33,LAR,NFL,WR,8,8,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,6.0,

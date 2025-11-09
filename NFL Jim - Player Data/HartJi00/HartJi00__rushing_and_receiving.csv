@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HartJi00,Jim Hart,QB,1967,23,STL,NFL,QB,14,14,13,36,3,,,23,2.8,2.6,0.9,,0,0,,0,,,,0.0,0.0,,,13,2.8,36,3,4,AP ORoY-4
+HartJi00,Jim Hart,QB,1968,24,STL,NFL,QB,13,12,19,20,6,,,3,1.1,1.5,1.5,,0,0,,0,,,,0.0,0.0,,,19,1.1,20,6,3,
+HartJi00,Jim Hart,QB,1969,25,STL,NFL,QB,9,5,7,16,2,,,10,2.3,1.8,0.8,,0,0,,0,,,,0.0,0.0,,,7,2.3,16,2,1,
+HartJi00,Jim Hart,QB,1970,26,STL,NFL,QB,14,14,18,18,0,,,4,1.0,1.3,1.3,,0,0,,0,,,,0.0,0.0,,,18,1.0,18,0,6,
+HartJi00,Jim Hart,QB,1971,27,STL,NFL,QB,11,9,13,9,0,,,3,0.7,0.8,1.2,,0,0,,0,,,,0.0,0.0,,,13,0.7,9,0,2,
+HartJi00,Jim Hart,QB,1972,28,STL,NFL,QB,6,3,9,17,0,,,8,1.9,2.8,1.5,,0,0,,0,,,,0.0,0.0,,,9,1.9,17,0,3,
+HartJi00,Jim Hart,QB,1973,29,STL,NFL,QB,12,12,3,-3,0,,,,-1.0,-0.3,0.3,,0,0,,0,,,,0.0,0.0,,,3,-1.0,-3,0,2,
+HartJi00,Jim Hart,QB,1974,30,STL,NFL,QB,14,14,10,21,2,,,16,2.1,1.5,0.7,,0,0,,0,,,,0.0,0.0,,,10,2.1,21,2,5,"PB,AP-2"
+HartJi00,Jim Hart,QB,1975,31,STL,NFL,QB,14,14,11,7,1,,,6,0.6,0.5,0.8,,0,0,,0,,,,0.0,0.0,,,11,0.6,7,1,7,PB
+HartJi00,Jim Hart,QB,1976,32,STL,NFL,QB,14,14,8,7,0,,,10,0.9,0.5,0.6,,0,0,,0,,,,0.0,0.0,,,8,0.9,7,0,4,PB
+HartJi00,Jim Hart,QB,1977,33,STL,NFL,QB,14,14,11,18,0,,,13,1.6,1.3,0.8,,0,0,,0,,,,0.0,0.0,,,11,1.6,18,0,5,PB
+HartJi00,Jim Hart,QB,1978,34,STL,NFL,QB,15,15,11,11,2,2,18.2,9,1.0,0.7,0.7,0,0,0,,0,0,,,0.0,0.0,,,11,1.0,11,2,5,
+HartJi00,Jim Hart,QB,1979,35,STL,NFL,QB,14,13,6,11,0,1,16.7,12,1.8,0.8,0.4,1,1,-4,-4.0,0,0,0.0,-4,0.1,-0.3,100.0,-4.0,7,1.0,7,0,5,
+HartJi00,Jim Hart,QB,1980,36,STL,NFL,QB,15,15,9,11,0,1,22.2,12,1.2,0.7,0.6,0,0,0,,0,0,,,0.0,0.0,,,9,1.2,11,0,4,
+HartJi00,Jim Hart,QB,1981,37,STL,NFL,QB,10,9,3,2,0,0,33.3,4,0.7,0.2,0.3,0,0,0,,0,0,,,0.0,0.0,,,3,0.7,2,0,4,
+HartJi00,Jim Hart,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HartJi00,Jim Hart,QB,1983,39,STL,NFL,QB,5,3,5,12,0,0,0.0,13,2.4,2.4,1.0,0,0,0,,0,0,,,0.0,0.0,,,5,2.4,12,0,5,
+HartJi00,Jim Hart,QB,1984,40,WAS,NFL,QB,2,0,3,-6,0,0,0.0,-2,-2.0,-3.0,1.5,0,0,0,,0,0,,,0.0,0.0,,,3,-2.0,-6,0,0,

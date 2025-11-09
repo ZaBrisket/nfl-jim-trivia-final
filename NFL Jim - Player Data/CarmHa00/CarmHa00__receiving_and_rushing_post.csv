@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CarmHa00,Harold Carmichael,WR,1978,29,PHI,NFL,WR,1,1,9,5,45,9.0,1,2,22.2,17,5.0,45.0,55.6,5.0,0,0,0,0,0.0,0.0,5,9.0,45,1,0,
+CarmHa00,Harold Carmichael,WR,1979,30,PHI,NFL,WR,2,2,16,9,203,22.6,3,8,56.3,37,4.5,101.5,56.3,12.7,0,0,0,0,0.0,0.0,9,22.6,203,3,0,
+CarmHa00,Harold Carmichael,WR,1980,31,PHI,NFL,WR,3,3,28,13,174,13.4,1,9,42.9,29,4.3,58.0,46.4,6.2,0,0,0,0,0.0,0.0,13,13.4,174,1,0,
+CarmHa00,Harold Carmichael,WR,1981,32,PHI,NFL,WR,1,1,4,2,43,21.5,1,2,50.0,28,2.0,43.0,50.0,10.8,0,0,0,0,0.0,0.0,2,21.5,43,1,0,

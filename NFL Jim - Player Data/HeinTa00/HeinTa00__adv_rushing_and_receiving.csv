@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+HeinTa00,Taylor Heinicke,QB,2018,25,CAR,NFL,QB,6,1,5,31,2,31,6.2,0,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,
+HeinTa00,Taylor Heinicke,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HeinTa00,Taylor Heinicke,QB,2020,27,WAS,NFL,QB,1,0,3,22,2,22,7.3,0,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,
+HeinTa00,Taylor Heinicke,QB,2021,28,WAS,NFL,QB,16,15,60,313,20,278,4.6,35,0.6,1,60.0,1,1,-2,0,-4,-4.0,2,2.0,-4.0,0,0,0.0,0,79.2,
+HeinTa00,Taylor Heinicke,QB,2022,29,WAS,NFL,QB,9,9,28,96,6,71,2.5,25,0.9,1,28.0,0,0,0,0,0,,0,,,0,0,,0,,
+HeinTa00,Taylor Heinicke,QB,2023,30,ATL,NFL,QB,5,4,15,124,5,118,7.9,6,0.4,0,,0,0,0,0,0,,0,,,0,0,,0,,
+HeinTa00,Taylor Heinicke,QB,2024,31,LAC,NFL,QB,4,0,2,20,1,20,10.0,0,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,

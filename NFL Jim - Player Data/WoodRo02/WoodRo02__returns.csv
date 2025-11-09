@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WoodRo02,Robert Woods,WR,2013,21,BUF,NFL,WR,14,14,0,0,0,0,,1,9,0,9,9.0,612,
+WoodRo02,Robert Woods,WR,2014,22,BUF,NFL,WR,16,15,1,11,0,11,11.0,0,0,0,0,,710,
+WoodRo02,Robert Woods,WR,,,,,,,,,,,,,,,,,,,
+WoodRo02,Robert Woods,WR,2018,26,LAR,NFL,WR,16,16,0,0,0,0,,1,0,0,0,0.0,1376,
+WoodRo02,Robert Woods,WR,,,,,,,,,,,,,,,,,,,
+WoodRo02,Robert Woods,WR,2022,30,TEN,NFL,WR,17,15,11,90,0,21,8.2,0,0,0,0,,617,
+WoodRo02,Robert Woods,WR,2023,31,HOU,NFL,WR,14,11,7,42,0,12,6.0,0,0,0,0,,475,
+WoodRo02,Robert Woods,WR,2024,32,HOU,NFL,WR,15,4,15,144,0,36,9.6,5,144,0,31,28.8,491,

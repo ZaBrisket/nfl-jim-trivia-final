@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BradTe00,Terry Bradshaw,QB,1972,24,PIT,NFL,QB,2,2,4,24,0,,,12,6.0,12.0,2.0,0,0,0,,0.0,0.0,4,6.0,24,0,1,
+BradTe00,Terry Bradshaw,QB,1973,25,PIT,NFL,QB,1,1,3,9,0,,,5,3.0,9.0,3.0,0,0,0,,0.0,0.0,3,3.0,9,0,0,
+BradTe00,Terry Bradshaw,QB,1974,26,PIT,NFL,QB,3,3,14,82,0,,,18,5.9,27.3,4.7,0,0,0,,0.0,0.0,14,5.9,82,0,1,
+BradTe00,Terry Bradshaw,QB,1975,27,PIT,NFL,QB,3,3,9,60,1,,,16,6.7,20.0,3.0,0,0,0,,0.0,0.0,9,6.7,60,1,1,
+BradTe00,Terry Bradshaw,QB,1976,28,PIT,NFL,QB,2,2,1,4,0,,,4,4.0,2.0,0.5,0,0,0,,0.0,0.0,1,4.0,4,0,0,
+BradTe00,Terry Bradshaw,QB,1977,29,PIT,NFL,QB,1,1,4,21,1,,,11,5.3,21.0,4.0,0,0,0,,0.0,0.0,4,5.3,21,1,0,
+BradTe00,Terry Bradshaw,QB,1978,30,PIT,NFL,QB,3,3,11,28,0,2,18.2,13,2.5,9.3,3.7,0,0,0,0,0.0,0.0,11,2.5,28,0,7,SB MVP
+BradTe00,Terry Bradshaw,QB,1979,31,PIT,NFL,QB,3,3,4,34,0,2,75.0,25,8.5,11.3,1.3,0,0,0,0,0.0,0.0,4,8.5,34,0,0,SB MVP
+BradTe00,Terry Bradshaw,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTe00,Terry Bradshaw,QB,1982,34,PIT,NFL,QB,1,1,2,12,1,2,100.0,11,6.0,12.0,2.0,0,0,0,0,0.0,0.0,2,6.0,12,1,0,

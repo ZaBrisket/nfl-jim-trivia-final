@@ -1,0 +1,20 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BreeDr00,Drew Brees,QB,2002,23,SDG,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BreeDr00,Drew Brees,QB,2003,24,SDG,NFL,QB,11,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+BreeDr00,Drew Brees,QB,2004,25,SDG,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP OPoY-5,AP CPoY-1"
+BreeDr00,Drew Brees,QB,2005,26,SDG,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BreeDr00,Drew Brees,QB,,,,,,,,,,,,,,,,,,,,,,,,
+BreeDr00,Drew Brees,QB,2007,28,NOR,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BreeDr00,Drew Brees,QB,,,,,,,,,,,,,,,,,,,,,,,,
+BreeDr00,Drew Brees,QB,2009,30,NOR,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP-2,AP MVP-2,AP OPoY-2"
+BreeDr00,Drew Brees,QB,,,,,,,,,,,,,,,,,,,,,,,,
+BreeDr00,Drew Brees,QB,2011,32,NOR,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP-2,AP MVP-2,AP OPoY-1"
+BreeDr00,Drew Brees,QB,2012,33,NOR,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,PB
+BreeDr00,Drew Brees,QB,2013,34,NOR,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,"PB,AP OPoY-4"
+BreeDr00,Drew Brees,QB,2014,35,NOR,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,PB
+BreeDr00,Drew Brees,QB,2015,36,NOR,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BreeDr00,Drew Brees,QB,2016,37,NOR,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP OPoY-6"
+BreeDr00,Drew Brees,QB,2017,38,NOR,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,PB
+BreeDr00,Drew Brees,QB,2018,39,NOR,NFL,QB,15,15,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,"PB,AP-2,AP MVP-2,AP OPoY-2"
+BreeDr00,Drew Brees,QB,2019,40,NOR,NFL,QB,11,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,PB
+BreeDr00,Drew Brees,QB,2020,41,NOR,NFL,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.0,

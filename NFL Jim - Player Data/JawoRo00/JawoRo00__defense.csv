@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+JawoRo00,Ron Jaworski,QB,1974,23,RAM,NFL,QB,5,0,0,0,0,0,,1,0,-2,0,0.0,,,,0,
+JawoRo00,Ron Jaworski,QB,1975,24,RAM,NFL,QB,14,1,0,0,0,0,,1,2,-3,0,0.0,,,,0,
+JawoRo00,Ron Jaworski,QB,,,,,,,,,,,,,,,,,,,,,,
+JawoRo00,Ron Jaworski,QB,1977,26,PHI,NFL,QB,14,14,0,0,0,0,,6,3,-4,0,0.0,,,,0,
+JawoRo00,Ron Jaworski,QB,1978,27,PHI,NFL,QB,16,16,0,0,0,0,0,7,3,-1,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1979,28,PHI,NFL,QB,16,16,0,0,0,0,0,12,5,-23,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1980,29,PHI,NFL,QB,16,16,0,0,0,0,0,6,4,0,0,0.0,0,0,0,0,"PB,AP MVP-3"
+JawoRo00,Ron Jaworski,QB,1981,30,PHI,NFL,QB,16,16,0,0,0,0,0,3,3,-2,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1982,31,PHI,NFL,QB,9,9,0,0,0,0,0,9,4,-11,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1983,32,PHI,NFL,QB,16,16,0,0,0,0,0,11,4,0,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1984,33,PHI,NFL,QB,13,13,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1985,34,PHI,NFL,QB,16,12,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,1986,35,PHI,NFL,QB,10,9,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,
+JawoRo00,Ron Jaworski,QB,,,,,,,,,,,,,,,,,,,,,,
+JawoRo00,Ron Jaworski,QB,1989,38,KAN,NFL,QB,6,3,0,0,0,0,0,2,2,-7,0,0.0,0,0,0,0,

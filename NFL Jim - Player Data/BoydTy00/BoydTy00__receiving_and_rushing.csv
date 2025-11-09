@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BoydTy00,Tyler Boyd,WR,2016,22,CIN,NFL,WR,16,2,81,54,603,11.2,1,33,55.6,30,3.4,37.7,66.7,7.4,4,58,0,2,50.0,39,14.5,3.6,0.3,58,11.4,661,1,1,5,
+BoydTy00,Tyler Boyd,WR,2017,23,CIN,NFL,WR,10,1,32,22,225,10.2,2,14,56.3,49,2.2,22.5,68.8,7.0,0,0,0,0,,,,0.0,0.0,22,10.2,225,2,0,2,
+BoydTy00,Tyler Boyd,WR,2018,24,CIN,NFL,WR,14,14,108,76,1028,13.5,7,54,63.0,49,5.4,73.4,70.4,9.5,2,3,0,0,50.0,5,1.5,0.2,0.1,78,13.2,1031,7,0,10,
+BoydTy00,Tyler Boyd,WR,2019,25,CIN,NFL,WR,16,15,148,90,1046,11.6,5,51,46.6,47,5.6,65.4,60.8,7.1,4,23,0,1,50.0,10,5.8,1.4,0.3,94,11.4,1069,5,2,7,
+BoydTy00,Tyler Boyd,WR,2020,26,CIN,NFL,WR,15,8,110,79,841,10.6,4,43,57.3,72,5.3,56.1,71.8,7.6,5,49,0,2,100.0,25,9.8,3.3,0.3,84,10.6,890,4,1,7,
+BoydTy00,Tyler Boyd,WR,2021,27,CIN,NFL,WR,16,10,94,67,828,12.4,5,37,53.2,68,4.2,51.8,71.3,8.8,2,22,0,1,100.0,14,11.0,1.4,0.1,69,12.3,850,5,1,8,
+BoydTy00,Tyler Boyd,WR,2022,28,CIN,NFL,WR,16,14,82,58,762,13.1,5,42,62.2,60,3.6,47.6,70.7,9.3,0,0,0,0,,,,0.0,0.0,58,13.1,762,5,0,8,
+BoydTy00,Tyler Boyd,WR,2023,29,CIN,NFL,WR,17,13,98,67,667,10.0,2,28,46.9,64,3.9,39.2,68.4,6.8,2,11,0,1,100.0,6,5.5,0.6,0.1,69,9.8,678,2,0,6,
+BoydTy00,Tyler Boyd,WR,2024,30,TEN,NFL,WR,16,8,57,39,390,10.0,0,20,49.1,40,2.4,24.4,68.4,6.8,1,3,0,1,100.0,3,3.0,0.2,0.1,40,9.8,393,0,0,3,

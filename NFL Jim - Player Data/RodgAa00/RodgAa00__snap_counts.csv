@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RodgAa00,Aaron Rodgers,QB,2012*,29,GNB,QB,12,16,16,1071,97%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2013,30,GNB,QB,12,9,9,582,92%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2014*+,31,GNB,QB,12,16,16,983,94%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2015*,32,GNB,QB,12,16,16,1137,99%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2016*,33,GNB,QB,12,16,16,1064,98%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2017,34,GNB,QB,12,7,7,417,87%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2018*,35,GNB,QB,12,16,16,1012,94%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2019*,36,GNB,QB,12,16,16,1057,98%,0,0%,1,0%
+RodgAa00,Aaron Rodgers,QB,2020*+,37,GNB,QB,12,16,16,1017,98%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2021*+,38,GNB,QB,12,16,16,983,93%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2022,39,GNB,QB,12,17,17,1068,98%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2023,40,NYJ,QB,8,1,1,4,7%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2024,41,NYJ,QB,8,17,17,1030,97%,0,0%,0,0%
+RodgAa00,Aaron Rodgers,QB,2025,42,PIT,QB,8,8,8,460,99%,0,0%,0,0%

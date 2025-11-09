@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FlowZa00,Zay Flowers,WR,2023,23,BAL,NFL,WR,16,16,108,77,858,11.1,5,41,55.6,75,4.8,53.6,71.3,7.9,8,56,1,1,50.0,37,7.0,3.5,0.5,85,10.8,914,6,0,9,AP ORoY-6
+FlowZa00,Zay Flowers,WR,2024,24,BAL,NFL,WR,17,15,116,74,1059,14.3,4,48,53.4,53,4.4,62.3,63.8,9.1,9,56,0,1,55.6,19,6.2,3.3,0.5,83,13.4,1115,4,0,11,PB
+FlowZa00,Zay Flowers,WR,2025,25,BAL,NFL,WR,8,8,60,46,550,12.0,1,22,61.7,56,5.8,68.8,76.7,9.2,4,20,0,1,75.0,8,5.0,2.5,0.5,50,11.4,570,1,1,,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MossZa00,Zack Moss,RB,2020,23,BUF,NFL,RB,13,0,112,481,4,30,50.9,31,4.3,37.0,8.6,18,14,95,6.8,1,5,55.6,20,1.1,7.3,77.8,5.3,126,4.6,576,5,0,4,
+MossZa00,Zack Moss,RB,2021,24,BUF,NFL,RB,13,0,96,345,4,22,49.0,17,3.6,26.5,7.4,32,23,197,8.6,1,12,53.1,24,1.8,15.2,71.9,6.2,119,4.6,542,5,2,4,
+MossZa00,Zack Moss,RB,2022,25,2TM,NFL,RB,13,3,93,456,1,18,47.3,43,4.9,35.1,7.2,13,11,39,3.5,0,2,38.5,8,0.8,3.0,84.6,3.0,104,4.8,495,1,1,3,
+MossZa00,Zack Moss,RB,2022,25,BUF,NFL,RB,5,0,17,91,0,3,35.3,43,5.4,18.2,3.4,8,7,27,3.9,0,1,37.5,8,1.4,5.4,87.5,3.4,24,4.9,118,0,1,1,
+MossZa00,Zack Moss,RB,2022,25,IND,NFL,RB,8,3,76,365,1,15,50.0,34,4.8,45.6,9.5,5,4,12,3.0,0,1,40.0,5,0.5,1.5,80.0,2.4,80,4.7,377,1,0,2,
+MossZa00,Zack Moss,RB,2023,26,IND,NFL,RB,14,8,183,794,5,43,49.2,56,4.3,56.7,13.1,37,27,192,7.1,2,10,35.1,26,1.9,13.7,73.0,5.2,210,4.7,986,7,0,6,
+MossZa00,Zack Moss,RB,2024,27,CIN,NFL,RB,8,6,74,242,2,13,36.5,16,3.3,30.3,9.3,27,23,187,8.1,1,11,63.0,21,2.9,23.4,85.2,6.9,97,4.4,429,3,2,3,

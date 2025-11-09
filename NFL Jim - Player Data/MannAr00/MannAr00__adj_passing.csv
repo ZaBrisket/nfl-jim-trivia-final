@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MannAr00,Archie Manning,QB,1971,22,NOR,NFL,QB,12,10,97,72,98,83,92,91,103,47,95,
+MannAr00,Archie Manning,QB,1972,23,NOR,NFL,QB,14,14,92,91,98,97,99,98,107,96,100,
+MannAr00,Archie Manning,QB,1973,24,NOR,NFL,QB,13,13,91,93,98,98,101,96,108,93,100,
+MannAr00,Archie Manning,QB,1974,25,NOR,NFL,QB,11,11,81,84,81,83,96,84,91,96,84,
+MannAr00,Archie Manning,QB,1975,26,NOR,NFL,QB,13,13,76,71,77,74,85,82,92,76,79,
+MannAr00,Archie Manning,QB,1976,,Did not play - Injured (shoulder),,,,,,,,,,,,,,
+MannAr00,Archie Manning,QB,1977,28,NOR,NFL,QB,10,9,94,80,100,91,108,99,110,64,105,
+MannAr00,Archie Manning,QB,1978,29,NOR,NFL,QB,16,16,112,112,118,118,129,95,120,104,122,PB
+MannAr00,Archie Manning,QB,1979,30,NOR,NFL,QB,16,16,115,124,108,115,118,92,101,123,108,PB
+MannAr00,Archie Manning,QB,1980,31,NOR,NFL,QB,16,16,107,106,109,108,119,104,107,97,114,
+MannAr00,Archie Manning,QB,1981,32,NOR,NFL,QB,12,11,84,82,81,80,107,75,95,92,86,
+MannAr00,Archie Manning,QB,1982,33,2TM,NFL,QB,7,5,94,64,93,75,85,101,89,39,91,
+MannAr00,Archie Manning,QB,1982,33,HOU,NFL,QB,6,5,99,68,98,79,90,107,94,41,96,
+MannAr00,Archie Manning,QB,1983,34,2TM,NFL,QB,5,3,129,117,86,82,79,79,37,82,68,
+MannAr00,Archie Manning,QB,1983,34,HOU,NFL,QB,3,3,129,117,86,82,79,79,37,82,68,
+MannAr00,Archie Manning,QB,1984,35,MIN,NFL,QB,6,2,73,53,84,71,97,77,113,53,89,

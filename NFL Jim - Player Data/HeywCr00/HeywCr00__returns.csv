@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HeywCr00,Craig Heyward,RB,1990,24,NOR,NFL,FB,16,15,0,0,0,0,,1,12,0,12,12.0,732,
+HeywCr00,Craig Heyward,RB,,,,,,,,,,,,,,,,,,,
+HeywCr00,Craig Heyward,RB,1992,26,NOR,NFL,FB,16,13,0,0,0,0,,1,14,0,14,14.0,589,
+HeywCr00,Craig Heyward,RB,1993,27,CHI,NFL,FB,16,14,0,0,0,0,,1,12,0,12,12.0,350,
+HeywCr00,Craig Heyward,RB,1994,28,ATL,NFL,RB,16,11,0,0,0,0,,1,7,0,7,7.0,1121,
+HeywCr00,Craig Heyward,RB,,,,,,,,,,,,,,,,,,,
+HeywCr00,Craig Heyward,RB,1996,30,ATL,NFL,RB,15,5,1,0,0,0,0.0,1,18,0,18,18.0,507,

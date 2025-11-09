@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WorkVi00,Vince Workman,RB,1989,21,GNB,NFL,RB,15,0,4,8,1,4,100.0,3,2.0,0.5,0.3,0,0,0,,0,0,,,0.0,0.0,,,4,2.0,8,1,1,0,
+WorkVi00,Vince Workman,RB,1990,22,GNB,NFL,RB,15,0,8,51,0,3,75.0,31,6.4,3.4,0.5,6,4,30,7.5,1,2,50.0,9,0.3,2.0,66.7,5.0,12,6.8,81,1,0,1,
+WorkVi00,Vince Workman,RB,1991,23,GNB,NFL,RB,16,0,71,237,7,29,49.3,30,3.3,14.8,4.4,55,46,371,8.1,4,19,56.4,25,2.9,23.2,83.6,6.7,117,5.2,608,11,3,5,
+WorkVi00,Vince Workman,RB,1992,24,GNB,NFL,RB,10,10,159,631,2,38,47.8,44,4.0,63.1,15.9,60,47,290,6.2,0,17,40.0,21,4.7,29.0,78.3,4.8,206,4.5,921,2,4,8,
+WorkVi00,Vince Workman,RB,1993,25,TAM,NFL,FB,16,11,78,284,2,23,44.9,21,3.6,17.8,4.9,76,54,411,7.6,2,16,39.5,42,3.4,25.7,71.1,5.4,132,5.3,695,4,2,5,
+WorkVi00,Vince Workman,RB,1994,26,TAM,NFL,RB,15,8,79,291,0,13,40.5,18,3.7,19.4,5.3,20,11,82,7.5,0,4,30.0,23,0.7,5.5,55.0,4.1,90,4.1,373,0,2,3,
+WorkVi00,Vince Workman,RB,1995,27,2TM,NFL,RB,10,0,44,165,1,7,31.8,14,3.8,16.5,4.4,22,13,74,5.7,0,2,27.3,14,1.3,7.4,59.1,3.4,57,4.2,239,1,0,1,
+WorkVi00,Vince Workman,RB,1995,27,CAR,NFL,RB,9,0,35,139,1,5,31.4,14,4.0,15.4,3.9,21,13,74,5.7,0,2,28.6,14,1.4,8.2,61.9,3.5,48,4.4,213,1,0,1,
+WorkVi00,Vince Workman,RB,1995,27,IND,NFL,RB,1,0,9,26,0,2,33.3,13,2.9,26.0,9.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,9,2.9,26,0,0,0,
+WorkVi00,Vince Workman,RB,1996,28,IND,NFL,RB,9,0,24,70,0,4,37.5,11,2.9,7.8,2.7,4,4,36,9.0,0,1,75.0,18,0.4,4.0,100.0,9.0,28,3.8,106,0,0,1,

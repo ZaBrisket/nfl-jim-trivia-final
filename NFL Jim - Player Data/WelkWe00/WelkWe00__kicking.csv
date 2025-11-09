@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,fga1,fgm1,fga2,fgm2,fga3,fgm3,fga4,fgm4,fga5,fgm5,fga,fgm,fg_long,fg_pct,xpa,xpm,xp_pct,kickoff,kickoff_yds,kickoff_tb,kickoff_tb_pct,kickoff_yds_avg,awards
+WelkWe00,Wes Welker,WR,2004,23,2TM,NFL,WR,15,0,0,0,1,1,0,0,0,0,0,0,1,1,29,100.0,1,1,100.0,3,158,0,0.0,53,
+WelkWe00,Wes Welker,WR,2004,23,MIA,NFL,WR,14,0,0,0,1,1,0,0,0,0,0,0,1,1,29,100.0,1,1,100.0,3,158,0,0.0,53,
+WelkWe00,Wes Welker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WelkWe00,Wes Welker,WR,2010,29,NWE,NFL,WR,15,11,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,100.0,1,45,0,0.0,45,"PB,AP CPoY-4"

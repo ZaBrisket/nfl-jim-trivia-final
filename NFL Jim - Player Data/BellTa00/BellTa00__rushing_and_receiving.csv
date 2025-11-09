@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BellTa00,Tatum Bell,RB,2004,23,DEN,NFL,RB,14,0,75,396,3,20,57.3,29,5.3,28.3,5.4,7,5,80,16.0,0,1,28.6,58,0.4,5.7,71.4,11.4,80,6.0,476,3,1,3,
+BellTa00,Tatum Bell,RB,2005,24,DEN,NFL,RB,15,1,173,921,8,42,39.9,68,5.3,61.4,11.5,28,18,104,5.8,0,5,35.7,14,1.2,6.9,64.3,3.7,191,5.4,1025,8,3,8,
+BellTa00,Tatum Bell,RB,2006,25,DEN,NFL,RB,13,13,233,1025,2,47,39.5,51,4.4,78.8,17.9,31,24,115,4.8,0,5,29.0,16,1.8,8.8,77.4,3.7,257,4.4,1140,2,5,8,
+BellTa00,Tatum Bell,RB,2007,26,DET,NFL,RB,5,5,44,182,1,7,45.5,24,4.1,36.4,8.8,21,14,63,4.5,0,2,23.8,15,2.8,12.6,66.7,3.0,58,4.2,245,1,1,2,
+BellTa00,Tatum Bell,RB,2008,27,DEN,NFL,RB,7,3,44,249,2,10,45.5,37,5.7,35.6,6.3,14,10,57,5.7,0,3,35.7,12,1.4,8.1,71.4,4.1,54,5.7,306,2,0,2,

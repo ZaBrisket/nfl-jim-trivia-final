@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GibsAn00,Antonio Gibson,RB,2020,22,WAS,RB,24,14,10,405,43%,0,0%,0,0%
+GibsAn00,Antonio Gibson,RB,2021,23,WAS,RB,24,16,14,604,57%,0,0%,0,0%
+GibsAn00,Antonio Gibson,RB,2022,24,WAS,RB,24,15,6,489,46%,0,0%,42,10%
+GibsAn00,Antonio Gibson,RB,2023,25,WAS,RB,24,16,2,473,46%,0,0%,59,13%
+GibsAn00,Antonio Gibson,RB,2024,26,NWE,RB,4,17,3,359,33%,0,0%,73,17%
+GibsAn00,Antonio Gibson,RB,2025,27,NWE,RB,4,5,0,52,17%,0,0%,23,18%

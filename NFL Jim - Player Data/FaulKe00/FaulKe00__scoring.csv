@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FaulKe00,Kevin Faulk,RB,1999,23,NWE,NFL,RB,11,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+FaulKe00,Kevin Faulk,RB,2000,24,NWE,NFL,RB,16,9,4,1,0,0,0,0,0,5,1,0,0,0,0,0,32,2.0,
+FaulKe00,Kevin Faulk,RB,2001,25,NWE,NFL,RB,15,1,1,2,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+FaulKe00,Kevin Faulk,RB,2002,26,NWE,NFL,RB,15,0,2,3,0,2,0,0,0,7,0,0,0,0,0,0,42,2.8,
+FaulKe00,Kevin Faulk,RB,,,,,,,,,,,,,,,,,,,,,,,,
+FaulKe00,Kevin Faulk,RB,2004,28,NWE,NFL,RB,11,1,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.6,
+FaulKe00,Kevin Faulk,RB,,,,,,,,,,,,,,,,,,,,,,,,
+FaulKe00,Kevin Faulk,RB,2006,30,NWE,NFL,RB,15,1,1,2,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+FaulKe00,Kevin Faulk,RB,2007,31,NWE,NFL,RB,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+FaulKe00,Kevin Faulk,RB,2008,32,NWE,NFL,RB,15,3,3,3,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+FaulKe00,Kevin Faulk,RB,2009,33,NWE,NFL,RB,15,7,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,

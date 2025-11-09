@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DwigTi00,Tim Dwight,WR,1998,23,ATL,NFL,WR,12,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,12,1.0,
+DwigTi00,Tim Dwight,WR,1999,24,ATL,NFL,WR,12,8,1,7,1,0,0,0,0,9,0,0,0,0,0,0,54,4.5,
+DwigTi00,Tim Dwight,WR,2000,25,ATL,NFL,WR,14,1,0,3,1,0,0,0,0,4,0,0,0,0,0,0,24,1.7,
+DwigTi00,Tim Dwight,WR,2001,26,SDG,NFL,WR,10,2,1,0,1,0,0,0,0,2,0,0,0,0,0,0,12,1.2,
+DwigTi00,Tim Dwight,WR,2002,27,SDG,NFL,WR,16,14,1,2,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+DwigTi00,Tim Dwight,WR,,,,,,,,,,,,,,,,,,,,,,,,
+DwigTi00,Tim Dwight,WR,2004,29,SDG,NFL,WR,12,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,12,1.0,
+DwigTi00,Tim Dwight,WR,2005,30,NWE,NFL,WR,16,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+DwigTi00,Tim Dwight,WR,,,,,,,,,,,,,,,,,,,,,,,,
+DwigTi00,Tim Dwight,WR,2007,32,OAK,NFL,WR,6,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,2.0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+PlunJi00,Jim Plunkett,QB,1980,33,OAK,NFL,QB,4,4,4-0-0,49,92,53.3,839,7,7.6,3,3.3,37,42.3,80,9.1,9.17,17.1,209.8,96.2,12,84,11.54,7.26,7.31,1,1,SB MVP
+PlunJi00,Jim Plunkett,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PlunJi00,Jim Plunkett,QB,1982,35,RAI,NFL,QB,2,2,1-1-0,45,70,64.3,652,1,1.4,5,7.1,25,55.4,64,9.3,6.39,14.5,326.0,69.5,4,36,5.41,8.32,5.55,0,0,
+PlunJi00,Jim Plunkett,QB,1983,36,RAI,NFL,QB,3,3,3-0-0,54,83,65.1,618,2,2.4,2,2.4,29,54.5,50,7.4,6.84,11.4,206.0,85.3,5,43,5.68,6.53,5.97,0,0,
+PlunJi00,Jim Plunkett,QB,1984,37,RAI,NFL,QB,1,1,0-1-0,14,27,51.9,184,1,3.7,2,7.4,8,42.4,46,6.8,4.22,13.1,184.0,55.2,6,49,18.18,4.09,1.97,0,0,

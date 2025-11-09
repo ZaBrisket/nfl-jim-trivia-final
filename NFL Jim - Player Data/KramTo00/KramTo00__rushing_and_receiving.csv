@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KramTo00,Tommy Kramer,QB,1977,22,MIN,NFL,QB,6,1,10,3,0,,,8,0.3,0.5,1.7,,0,0,,0,,,,0.0,0.0,,,10,0.3,3,0,3,
+KramTo00,Tommy Kramer,QB,1978,23,MIN,NFL,QB,4,0,1,10,0,1,100.0,10,10.0,2.5,0.3,0,0,0,,0,0,,,0.0,0.0,,,1,10.0,10,0,0,
+KramTo00,Tommy Kramer,QB,1979,24,MIN,NFL,QB,16,16,32,138,1,10,37.5,20,4.3,8.6,2.0,0,0,3,,0,0,,3,0.0,0.2,,,32,4.4,141,1,9,
+KramTo00,Tommy Kramer,QB,1980,25,MIN,NFL,QB,15,15,31,115,1,6,32.3,13,3.7,7.7,2.1,0,0,0,,0,0,,,0.0,0.0,,,31,3.7,115,1,2,
+KramTo00,Tommy Kramer,QB,1981,26,MIN,NFL,QB,14,14,10,13,0,0,0.0,8,1.3,0.9,0.7,0,0,0,,0,0,,,0.0,0.0,,,10,1.3,13,0,8,
+KramTo00,Tommy Kramer,QB,1982,27,MIN,NFL,QB,9,9,21,77,3,6,47.6,18,3.7,8.6,2.3,0,0,0,,0,0,,,0.0,0.0,,,21,3.7,77,3,3,
+KramTo00,Tommy Kramer,QB,1983,28,MIN,NFL,QB,3,3,8,3,0,0,12.5,8,0.4,1.0,2.7,0,0,0,,0,0,,,0.0,0.0,,,8,0.4,3,0,2,
+KramTo00,Tommy Kramer,QB,1984,29,MIN,NFL,QB,9,9,15,9,0,1,13.3,14,0.6,1.0,1.7,1,1,20,20.0,1,1,100.0,20,0.1,2.2,100.0,20.0,16,1.8,29,1,10,
+KramTo00,Tommy Kramer,QB,1985,30,MIN,NFL,QB,15,15,27,54,0,4,25.9,11,2.0,3.6,1.8,0,0,0,,0,0,,,0.0,0.0,,,27,2.0,54,0,9,
+KramTo00,Tommy Kramer,QB,1986,31,MIN,NFL,QB,13,13,23,48,1,8,39.1,13,2.1,3.7,1.8,0,0,0,,0,0,,,0.0,0.0,,,23,2.1,48,1,7,"PB,AP-2"
+KramTo00,Tommy Kramer,QB,1987,32,MIN,NFL,QB,6,5,10,44,2,4,50.0,15,4.4,7.3,1.7,0,0,0,,0,0,,,0.0,0.0,,,10,4.4,44,2,2,
+KramTo00,Tommy Kramer,QB,1988,33,MIN,NFL,QB,10,6,14,8,0,1,21.4,5,0.6,0.8,1.4,0,0,0,,0,0,,,0.0,0.0,,,14,0.6,8,0,3,
+KramTo00,Tommy Kramer,QB,1989,34,MIN,NFL,QB,8,4,12,9,0,1,16.7,5,0.8,1.1,1.5,0,0,0,,0,0,,,0.0,0.0,,,12,0.8,9,0,1,

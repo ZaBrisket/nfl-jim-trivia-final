@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GlenTe00,Terry Glenn,WR,1996,22,NWE,NFL,WR,15,15,166,90,1132,12.6,6,58,47.0,37,6.0,75.5,54.2,6.8,5,42,0,2,60.0,26,8.4,2.8,0.3,95,12.4,1174,6,1,13,AP ORoY-2
+GlenTe00,Terry Glenn,WR,1997,23,NWE,NFL,WR,9,9,49,27,431,16.0,2,17,49.0,50,3.0,47.9,55.1,8.8,0,0,0,0,,,,0.0,0.0,27,16.0,431,2,1,4,
+GlenTe00,Terry Glenn,WR,1998,24,NWE,NFL,WR,10,9,98,50,792,15.8,3,37,46.9,86,5.0,79.2,51.0,8.1,2,-1,0,0,50.0,7,-0.5,-0.1,0.2,52,15.2,791,3,0,7,
+GlenTe00,Terry Glenn,WR,1999,25,NWE,NFL,WR,14,13,117,69,1147,16.6,4,49,53.8,67,4.9,81.9,59.0,9.8,0,0,0,0,,,,0.0,0.0,69,16.6,1147,4,2,9,PB
+GlenTe00,Terry Glenn,WR,2000,26,NWE,NFL,WR,16,16,164,79,963,12.2,6,56,42.1,39,4.9,60.2,48.2,5.9,4,39,0,1,50.0,35,9.8,2.4,0.3,83,12.1,1002,6,0,9,
+GlenTe00,Terry Glenn,WR,2001,27,NWE,NFL,WR,4,1,24,14,204,14.6,1,11,54.2,23,3.5,51.0,58.3,8.5,0,0,0,0,,,,0.0,0.0,14,14.6,204,1,0,2,
+GlenTe00,Terry Glenn,WR,2002,28,GNB,NFL,WR,15,14,106,56,817,14.6,2,43,46.2,49,3.7,54.5,52.8,7.7,0,0,0,0,,,,0.0,0.0,56,14.6,817,2,1,8,
+GlenTe00,Terry Glenn,WR,2003,29,DAL,NFL,WR,16,14,96,52,754,14.5,5,37,49.0,51,3.3,47.1,54.2,7.9,3,55,0,1,100.0,47,18.3,3.4,0.2,55,14.7,809,5,2,6,
+GlenTe00,Terry Glenn,WR,2004,30,DAL,NFL,WR,6,6,38,24,400,16.7,2,16,60.5,48,4.0,66.7,63.2,10.5,1,-3,0,0,0.0,-3,-3.0,-0.5,0.2,25,15.9,397,2,0,3,
+GlenTe00,Terry Glenn,WR,2005,31,DAL,NFL,WR,16,16,115,62,1136,18.3,7,48,49.6,71,3.9,71.0,53.9,9.9,2,-4,1,1,50.0,6,-2.0,-0.3,0.1,64,17.7,1132,8,0,10,
+GlenTe00,Terry Glenn,WR,2006,32,DAL,NFL,WR,15,14,111,70,1047,15.0,6,47,55.9,54,4.7,69.8,63.1,9.4,3,11,0,1,33.3,22,3.7,0.7,0.2,73,14.5,1058,6,0,11,
+GlenTe00,Terry Glenn,WR,2007,33,DAL,NFL,WR,1,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HumpSt00,Stan Humphries,QB,1992,27,SDG,NFL,QB,2,2,2,10,0,1,50.0,10,5.0,5.0,1.0,,0,0,0,0,0.0,0.0,2,5.0,10,0,1,
+HumpSt00,Stan Humphries,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HumpSt00,Stan Humphries,QB,1994,29,SDG,NFL,QB,3,3,7,1,0,2,28.6,3,0.1,0.3,2.3,0,0,0,0,0,0.0,0.0,7,0.1,1,0,0,
+HumpSt00,Stan Humphries,QB,1995,30,SDG,NFL,QB,1,1,4,32,0,3,75.0,17,8.0,32.0,4.0,0,0,0,0,0,0.0,0.0,4,8.0,32,0,0,

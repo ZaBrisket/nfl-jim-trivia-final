@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RashAh00,Ahmad Rashad,WR,1972,23,STL,NFL,WR,14,13,,29,500,17.2,3,,,98,2.1,35.7,,,9,44,0,,,15,4.9,3.1,0.6,38,14.3,544,3,5,5,
+RashAh00,Ahmad Rashad,WR,1973,24,STL,NFL,WR,13,10,,30,409,13.6,3,,,65,2.3,31.5,,,0,0,0,,,,,0.0,0.0,30,13.6,409,3,0,5,
+RashAh00,Ahmad Rashad,WR,1974,25,BUF,NFL,WR,14,14,,36,433,12.0,4,,,29,2.6,30.9,,,0,0,0,,,,,0.0,0.0,36,12.0,433,4,0,7,
+RashAh00,Ahmad Rashad,WR,1975,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RashAh00,Ahmad Rashad,WR,1976,27,MIN,NFL,WR,13,11,,53,671,12.7,3,,,47,4.1,51.6,,,0,0,0,,,,,0.0,0.0,53,12.7,671,3,1,8,
+RashAh00,Ahmad Rashad,WR,1977,28,MIN,NFL,WR,14,14,,51,681,13.4,2,,,48,3.6,48.6,,,0,0,0,,,,,0.0,0.0,51,13.4,681,2,2,7,
+RashAh00,Ahmad Rashad,WR,1978,29,MIN,NFL,WR,16,16,129,66,769,11.7,8,38,43.4,58,4.1,48.1,51.2,6.0,0,0,0,0,,,,0.0,0.0,66,11.7,769,8,2,7,PB
+RashAh00,Ahmad Rashad,WR,1979,30,MIN,NFL,WR,16,16,145,80,1156,14.5,9,59,50.3,52,5.0,72.3,55.2,8.0,0,0,0,0,,,,0.0,0.0,80,14.5,1156,9,2,10,PB
+RashAh00,Ahmad Rashad,WR,1980,31,MIN,NFL,WR,16,16,123,69,1095,15.9,5,55,54.5,76,4.3,68.4,56.1,8.9,1,8,0,0,100.0,8,8.0,0.5,0.1,70,15.8,1103,5,0,10,PB
+RashAh00,Ahmad Rashad,WR,1981,32,MIN,NFL,WR,16,15,124,58,884,15.2,7,45,46.8,53,3.6,55.3,46.8,7.1,0,0,0,0,,,,0.0,0.0,58,15.2,884,7,1,7,PB
+RashAh00,Ahmad Rashad,WR,1982,33,MIN,NFL,WR,7,6,40,23,233,10.1,0,13,50.0,21,3.3,33.3,57.5,5.8,0,0,0,0,,,,0.0,0.0,23,10.1,233,0,0,3,

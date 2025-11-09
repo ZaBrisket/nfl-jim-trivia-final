@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+MillLa01,Lamar Miller,RB,2012,21,13,RB,36,,74,,All 2012 Games
+MillLa01,Lamar Miller,RB,2013,22,16,RB,98,,38,,All 2013 Games
+MillLa01,Lamar Miller,RB,2014,23,16,RB,185,64,9,22,All 2014 Games
+MillLa01,Lamar Miller,RB,2015,24,16,RB,185,62,6,19,All 2015 Games
+MillLa01,Lamar Miller,RB,2016,25,14,RB,160,23,18,42,All 2016 Games
+MillLa01,Lamar Miller,RB,2017,26,16,RB,158,30,14,36,All 2017 Games
+MillLa01,Lamar Miller,RB,2018,27,14,RB,148,16,22,59,All 2018 Games
+MillLa01,Lamar Miller,RB,2020,29,1,RB,1,,157,,All 2020 Games

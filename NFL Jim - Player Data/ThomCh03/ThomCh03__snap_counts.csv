@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThomCh03,Chris Thompson,RB,2013,23,WAS,RB,25,4,0,0,0%,0,0%,37,30%
+ThomCh03,Chris Thompson,RB,2014,24,WAS,RB,37,2,0,30,24%,0,0%,1,2%
+ThomCh03,Chris Thompson,RB,2015,25,WAS,RB,25,13,0,273,31%,0,0%,100,27%
+ThomCh03,Chris Thompson,RB,2016,26,WAS,RB,25,16,0,487,46%,0,0%,83,19%
+ThomCh03,Chris Thompson,RB,2017,27,WAS,RB,25,10,1,338,52%,0,0%,41,14%
+ThomCh03,Chris Thompson,RB,2018,28,WAS,RB,25,10,0,310,50%,0,0%,2,1%
+ThomCh03,Chris Thompson,RB,2019,29,WAS,RB,25,11,0,310,46%,0,0%,0,0%
+ThomCh03,Chris Thompson,RB,2020,30,JAX,RB,34,8,0,159,30%,0,0%,0,0%

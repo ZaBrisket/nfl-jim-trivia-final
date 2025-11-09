@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrenBr00,Brian Brennan,WR,1984,22,CLE,NFL,WR,15,5,58,35,455,13.0,3,25,50.0,52,2.3,30.3,60.3,7.8,0,0,0,0,0.0,0.0,35,13.0,455,3,1,4,
+BrenBr00,Brian Brennan,WR,1985,23,CLE,NFL,WR,12,10,70,32,487,15.2,0,23,38.6,57,2.7,40.6,45.7,7.0,0,0,0,0,0.0,0.0,32,15.2,487,0,3,6,
+BrenBr00,Brian Brennan,WR,1986,24,CLE,NFL,WR,16,0,87,55,838,15.2,6,47,58.6,57,3.4,52.4,63.2,9.6,0,0,0,1,0.0,0.0,55,15.2,838,6,1,8,
+BrenBr00,Brian Brennan,WR,1987,25,CLE,NFL,WR,13,1,65,43,607,14.1,6,28,58.5,53,3.3,46.7,66.2,9.3,0,0,0,0,0.0,0.0,43,14.1,607,6,1,7,
+BrenBr00,Brian Brennan,WR,1988,26,CLE,NFL,WR,16,1,86,46,579,12.6,1,28,45.3,33,2.9,36.2,53.5,6.7,0,0,0,0,0.0,0.0,46,12.6,579,1,0,5,
+BrenBr00,Brian Brennan,WR,1989,27,CLE,NFL,WR,14,2,44,28,289,10.3,0,16,56.8,38,2.0,20.6,63.6,6.6,0,0,0,0,0.0,0.0,28,10.3,289,0,1,2,
+BrenBr00,Brian Brennan,WR,1990,28,CLE,NFL,WR,16,5,79,45,568,12.6,2,30,49.4,28,2.8,35.5,57.0,7.2,0,0,0,0,0.0,0.0,45,12.6,568,2,1,4,
+BrenBr00,Brian Brennan,WR,1991,29,CLE,NFL,WR,15,3,60,31,325,10.5,1,17,45.0,30,2.1,21.7,51.7,5.4,0,0,0,0,0.0,0.0,31,10.5,325,1,1,3,
+BrenBr00,Brian Brennan,WR,1992,30,2TM,NFL,WR,15,0,32,19,188,9.9,1,11,50.0,21,1.3,12.5,59.4,5.9,0,0,0,0,0.0,0.0,19,9.9,188,1,0,2,
+BrenBr00,Brian Brennan,WR,1992,30,CIN,NFL,WR,9,0,26,16,166,10.4,1,9,50.0,21,1.8,18.4,61.5,6.4,0,0,0,0,0.0,0.0,16,10.4,166,1,0,2,
+BrenBr00,Brian Brennan,WR,1992,30,SDG,NFL,WR,6,0,6,3,22,7.3,0,2,50.0,12,0.5,3.7,50.0,3.7,0,0,0,0,0.0,0.0,3,7.3,22,0,0,0,

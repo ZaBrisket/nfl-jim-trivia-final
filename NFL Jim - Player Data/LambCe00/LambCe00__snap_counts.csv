@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+LambCe00,CeeDee Lamb,WR,2020,21,DAL,WR,88,16,14,731,64%,0,0%,46,10%
+LambCe00,CeeDee Lamb,WR,2021*,22,DAL,WR,88,16,13,881,76%,0,0%,47,11%
+LambCe00,CeeDee Lamb,WR,2022*,23,DAL,WR,88,17,17,1015,87%,0,0%,1,0%
+LambCe00,CeeDee Lamb,WR,2023*+,24,DAL,WR,88,17,17,991,84%,0,0%,1,0%
+LambCe00,CeeDee Lamb,WR,2024*,25,DAL,WR,88,15,15,826,80%,0,0%,2,1%
+LambCe00,CeeDee Lamb,WR,2025,26,DAL,WR,88,6,6,309,72%,0,0%,0,0%

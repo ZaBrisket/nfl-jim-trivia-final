@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JoneBr00,Brent Jones,TE,1988,25,SFO,NFL,TE,11,0,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,1.1,
+JoneBr00,Brent Jones,TE,1989,26,SFO,NFL,TE,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+JoneBr00,Brent Jones,TE,1990,27,SFO,NFL,TE,16,16,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,
+JoneBr00,Brent Jones,TE,,,,,,,,,,,,,,,,,,,,,,,,
+JoneBr00,Brent Jones,TE,1992,29,SFO,NFL,TE,15,15,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,PB
+JoneBr00,Brent Jones,TE,1993,30,SFO,NFL,TE,16,16,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,"PB,AP-2"
+JoneBr00,Brent Jones,TE,1994,31,SFO,NFL,TE,15,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.7,"PB,AP-2"
+JoneBr00,Brent Jones,TE,1995,32,SFO,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,PB
+JoneBr00,Brent Jones,TE,1996,33,SFO,NFL,TE,11,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+JoneBr00,Brent Jones,TE,1997,34,SFO,NFL,TE,13,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,

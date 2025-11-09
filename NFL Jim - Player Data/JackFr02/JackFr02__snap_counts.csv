@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackFr02,Fred Jackson,RB,2012,31,BUF,RB,22,10,8,331,53%,0,0%,1,0%
+JackFr02,Fred Jackson,RB,2013,32,BUF,RB,22,16,6,663,57%,0,0%,0,0%
+JackFr02,Fred Jackson,RB,2014,33,BUF,RB,22,14,9,548,58%,0,0%,22,5%
+JackFr02,Fred Jackson,RB,2015,34,SEA,RB,22,16,0,257,24%,0,0%,0,0%

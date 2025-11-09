@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PaytWa00,Walter Payton,RB,1975,22,CHI,NFL,RB,13,7,0,0,0,0,14,444,0,70,31.7,1336,
+PaytWa00,Walter Payton,RB,1976,23,CHI,NFL,RB,14,14,0,0,0,0,1,0,0,0,0.0,1539,"PB,AP-1"
+PaytWa00,Walter Payton,RB,1977,24,CHI,NFL,RB,14,14,0,0,0,0,2,95,0,68,47.5,2216,"PB,AP-1,AP MVP-1,AP OPoY-1"

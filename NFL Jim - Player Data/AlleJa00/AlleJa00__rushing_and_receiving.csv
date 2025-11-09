@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AlleJa00,James Allen,RB,1998,23,CHI,NFL,RB,6,2,58,270,1,7,37.9,57,4.7,45.0,9.7,14,8,77,9.6,1,3,28.6,33,1.3,12.8,57.1,5.5,66,5.3,347,2,1,2,
+AlleJa00,James Allen,RB,1999,24,CHI,NFL,RB,12,3,32,119,0,7,43.8,13,3.7,9.9,2.7,11,9,91,10.1,0,4,63.6,17,0.8,7.6,81.8,8.3,41,5.1,210,0,0,1,
+AlleJa00,James Allen,RB,2000,25,CHI,NFL,RB,16,15,290,1120,2,56,45.9,29,3.9,70.0,18.1,60,39,291,7.5,1,17,41.7,26,2.4,18.2,65.0,4.9,329,4.3,1411,3,5,7,
+AlleJa00,James Allen,RB,2001,26,CHI,NFL,RB,16,7,135,469,1,26,43.7,19,3.5,29.3,8.4,42,30,203,6.8,1,8,45.2,34,1.9,12.7,71.4,4.8,165,4.1,672,2,1,5,
+AlleJa00,James Allen,RB,2002,27,HOU,NFL,RB,16,5,155,519,0,22,32.3,32,3.3,32.4,9.7,57,47,302,6.4,0,11,42.1,21,2.9,18.9,82.5,5.3,202,4.1,821,0,1,4,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JeffJu00,Justin Jefferson,WR,2020*,21,MIN,WR,18,16,14,886,82%,0,0%,0,0%
+JeffJu00,Justin Jefferson,WR,2021*,22,MIN,WR,18,17,17,1014,89%,0,0%,0,0%
+JeffJu00,Justin Jefferson,WR,2022*+,23,MIN,WR,18,17,17,1079,92%,0,0%,0,0%
+JeffJu00,Justin Jefferson,WR,2023,24,MIN,WR,18,10,9,550,85%,0,0%,1,0%
+JeffJu00,Justin Jefferson,WR,2024*+,25,MIN,WR,18,17,17,1043,93%,0,0%,4,1%
+JeffJu00,Justin Jefferson,WR,2025,26,MIN,WR,18,8,8,461,95%,0,0%,0,0%

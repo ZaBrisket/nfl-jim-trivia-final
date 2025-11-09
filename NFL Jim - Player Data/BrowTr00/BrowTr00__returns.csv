@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrowTr00,Troy Brown,WR,1993,22,NWE,NFL,WR,12,0,25,224,0,19,9.0,15,243,0,29,16.2,489,
+BrowTr00,Troy Brown,WR,1994,23,NWE,NFL,WR,9,0,24,202,0,38,8.4,1,14,0,14,14.0,216,
+BrowTr00,Troy Brown,WR,1995,24,NWE,NFL,WR,16,0,0,0,0,0,,31,672,0,38,21.7,906,
+BrowTr00,Troy Brown,WR,1996,25,NWE,NFL,WR,16,0,0,0,0,0,,29,634,0,51,21.9,856,
+BrowTr00,Troy Brown,WR,,,,,,,,,,,,,,,,,,,
+BrowTr00,Troy Brown,WR,1998,27,NWE,NFL,WR,10,0,17,225,0,39,13.2,0,0,0,0,,571,
+BrowTr00,Troy Brown,WR,1999,28,NWE,NFL,WR,13,1,38,405,0,52,10.7,8,271,0,54,33.9,1147,
+BrowTr00,Troy Brown,WR,2000,29,NWE,NFL,WR,16,15,39,504,1,66,12.9,2,15,0,9,7.5,1509,
+BrowTr00,Troy Brown,WR,2001,30,NWE,NFL,WR,16,13,29,413,2,85,14.2,1,13,0,13,13.0,1716,PB
+BrowTr00,Troy Brown,WR,2002,31,NWE,NFL,WR,14,13,24,175,0,27,7.3,0,0,0,0,,1079,
+BrowTr00,Troy Brown,WR,2003,32,NWE,NFL,WR,12,10,29,293,0,23,10.1,0,0,0,0,,792,
+BrowTr00,Troy Brown,WR,2004,33,NWE,NFL,WR/DB,12,0,12,83,0,23,6.9,0,0,0,0,,289,
+BrowTr00,Troy Brown,WR,2005,34,NWE,NFL,WR/DB,13,3,7,30,0,7,4.3,0,0,0,0,,496,
+BrowTr00,Troy Brown,WR,2006,35,NWE,NFL,WR,16,9,2,16,0,12,8.0,0,0,0,0,,418,
+BrowTr00,Troy Brown,WR,2007,36,NWE,NFL,WR,1,0,6,55,0,28,9.2,0,0,0,0,,55,

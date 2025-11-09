@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+TateLa00,Lars Tate,RB,1988,22,TAM,NFL,RB,15,5,122,467,7,28,41.8,47,3.8,31.1,8.1,10,5,23,4.6,1,1,30.0,9,0.3,1.5,50.0,2.3,127,3.9,490,8,2,3,
+TateLa00,Lars Tate,RB,1989,23,TAM,NFL,RB,15,14,167,589,8,39,44.9,48,3.5,39.3,11.1,13,11,75,6.8,1,3,53.8,19,0.7,5.0,84.6,5.8,178,3.7,664,9,2,5,
+TateLa00,Lars Tate,RB,1990,24,CHI,NFL,RB,3,0,3,5,0,0,0.0,4,1.7,1.7,1.0,0,0,0,,0,0,,,0.0,0.0,,,3,1.7,5,0,0,0,

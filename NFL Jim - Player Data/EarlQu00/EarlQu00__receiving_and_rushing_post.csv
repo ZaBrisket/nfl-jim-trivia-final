@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+EarlQu00,Quinn Early,WR,1991,26,NOR,NFL,WR,1,1,8,5,41,8.2,0,3,50.0,12,5.0,41.0,62.5,5.1,0,0,0,0,0.0,0.0,5,8.2,41,0,0,
+EarlQu00,Quinn Early,WR,1992,27,NOR,NFL,WR,1,1,11,7,93,13.3,1,6,63.6,20,7.0,93.0,63.6,8.5,0,0,0,0,0.0,0.0,7,13.3,93,1,0,
+EarlQu00,Quinn Early,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EarlQu00,Quinn Early,WR,1996,31,BUF,NFL,WR,1,1,12,9,122,13.6,0,7,75.0,25,9.0,122.0,75.0,10.2,0,0,0,0,0.0,0.0,9,13.6,122,0,0,

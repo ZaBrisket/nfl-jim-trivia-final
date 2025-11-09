@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WhitSa00,Sammy White,WR,1976,22,MIN,NFL,WR,14,14,0,10,0,0,0,0,0,10,0,0,0,0,0,60,4.3,"PB,AP ORoY-1"
+WhitSa00,Sammy White,WR,1977,23,MIN,NFL,WR,14,14,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.9,PB
+WhitSa00,Sammy White,WR,1978,24,MIN,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.4,
+WhitSa00,Sammy White,WR,1979,25,MIN,NFL,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.6,
+WhitSa00,Sammy White,WR,1980,26,MIN,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+WhitSa00,Sammy White,WR,1981,27,MIN,NFL,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+WhitSa00,Sammy White,WR,1982,28,MIN,NFL,WR,7,6,0,5,0,0,0,0,0,5,0,0,0,0,0,30,4.3,
+WhitSa00,Sammy White,WR,1983,29,MIN,NFL,WR,11,10,0,4,0,0,0,0,0,4,0,0,0,0,0,24,2.2,
+WhitSa00,Sammy White,WR,1984,30,MIN,NFL,WR,13,11,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

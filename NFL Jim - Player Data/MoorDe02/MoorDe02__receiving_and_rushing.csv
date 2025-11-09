@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MoorDe02,Denarius Moore,WR,2011,23,OAK,NFL,WR,13,10,76,33,618,18.7,5,26,39.5,78,2.5,47.5,43.4,8.1,5,61,1,3,60.0,25,12.2,4.7,0.4,38,17.9,679,6,1,5,
+MoorDe02,Denarius Moore,WR,2012,24,OAK,NFL,WR,15,15,114,51,741,14.5,7,33,39.5,58,3.4,49.4,44.7,6.5,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,52,14.2,736,7,3,5,
+MoorDe02,Denarius Moore,WR,2013,25,OAK,NFL,WR,13,10,86,46,695,15.1,5,36,45.3,73,3.5,53.5,53.5,8.1,0,0,0,0,,,,0.0,0.0,46,15.1,695,5,0,5,
+MoorDe02,Denarius Moore,WR,2014,26,OAK,NFL,WR,10,2,27,12,115,9.6,0,6,29.6,28,1.2,11.5,44.4,4.3,1,1,0,0,0.0,1,1.0,0.1,0.1,13,8.9,116,0,1,1,
+MoorDe02,Denarius Moore,WR,2015,27,BUF,NFL,WR,6,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,1,0,

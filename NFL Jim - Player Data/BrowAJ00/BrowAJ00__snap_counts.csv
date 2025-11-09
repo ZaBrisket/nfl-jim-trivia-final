@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BrowAJ00,A.J. Brown,WR,2019,22,TEN,WR,11,16,11,678,69%,0,0%,0,0%
+BrowAJ00,A.J. Brown,WR,2020*,23,TEN,WR,11,14,12,760,81%,0,0%,6,2%
+BrowAJ00,A.J. Brown,WR,2021,24,TEN,WR,11,13,13,604,69%,4,1%,2,1%
+BrowAJ00,A.J. Brown,WR,2022*,25,PHI,WR,11,17,16,1004,85%,0,0%,6,1%
+BrowAJ00,A.J. Brown,WR,2023*,26,PHI,WR,11,17,17,1019,89%,0,0%,0,0%
+BrowAJ00,A.J. Brown,WR,2024,27,PHI,WR,11,13,13,766,86%,0,0%,3,1%
+BrowAJ00,A.J. Brown,WR,2025,28,PHI,WR,11,7,7,388,94%,0,0%,1,1%

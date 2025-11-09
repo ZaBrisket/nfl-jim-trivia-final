@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RogeGe00,George Rogers,RB,1981,23,NOR,NFL,RB,16,16,378,1674,13,91,48.1,79,4.4,104.6,23.6,25,16,126,7.9,0,6,36.0,25,1.0,7.9,64.0,5.0,394,4.6,1800,13,13,11,"PB,AP-1,AP MVP-6,AP OPoY-4,AP ORoY-1"
+RogeGe00,George Rogers,RB,1982,24,NOR,NFL,RB,6,5,122,535,3,29,59.8,38,4.4,89.2,20.3,4,4,21,5.3,0,1,75.0,10,0.7,3.5,100.0,5.3,126,4.4,556,3,4,6,PB
+RogeGe00,George Rogers,RB,1983,25,NOR,NFL,RB,13,12,256,1144,5,54,50.8,76,4.5,88.0,19.7,18,12,69,5.8,0,1,33.3,22,0.9,5.3,66.7,3.8,268,4.5,1213,5,8,8,
+RogeGe00,George Rogers,RB,1984,26,NOR,NFL,RB,16,16,239,914,2,46,47.7,28,3.8,57.1,14.9,17,12,76,6.3,0,2,64.7,15,0.8,4.8,70.6,4.5,251,3.9,990,2,2,6,
+RogeGe00,George Rogers,RB,1985,27,WAS,NFL,RB,15,5,231,1093,7,60,55.0,35,4.7,72.9,15.4,7,4,29,7.3,0,1,42.9,23,0.3,1.9,57.1,4.1,235,4.8,1122,7,9,7,
+RogeGe00,George Rogers,RB,1986,28,WAS,NFL,RB,15,15,303,1203,18,78,54.8,42,4.0,80.2,20.2,5,3,24,8.0,0,2,40.0,13,0.2,1.6,60.0,4.8,306,4.0,1227,18,7,9,
+RogeGe00,George Rogers,RB,1987,29,WAS,NFL,RB,11,9,163,613,6,37,48.5,29,3.8,55.7,14.8,8,4,23,5.8,0,0,37.5,8,0.4,2.1,50.0,2.9,167,3.8,636,6,2,5,

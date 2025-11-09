@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PittDe00,Dennis Pitta,TE,2012,27,BAL,TE,88,16,5,639,59%,0,0%,94,19%
+PittDe00,Dennis Pitta,TE,2013,28,BAL,TE,88,4,1,158,54%,0,0%,0,0%
+PittDe00,Dennis Pitta,TE,2014,29,BAL,TE,88,3,3,166,75%,0,0%,0,0%
+PittDe00,Dennis Pitta,TE,2016,31,BAL,TE,88,16,12,810,71%,0,0%,10,2%

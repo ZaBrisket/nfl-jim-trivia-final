@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DickCu00,Curtis Dickey,RB,1980,24,BAL,NFL,RB,15,5,11,2,0,0,0,0,0,13,0,0,0,0,0,78,5.2,
+DickCu00,Curtis Dickey,RB,1981,25,BAL,NFL,RB,15,15,7,3,0,0,0,0,0,10,0,0,0,0,0,60,4.0,
+DickCu00,Curtis Dickey,RB,1982,26,BAL,NFL,RB,8,6,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.8,
+DickCu00,Curtis Dickey,RB,1983,27,BAL,NFL,RB,16,16,4,3,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+DickCu00,Curtis Dickey,RB,1984,28,IND,NFL,RB,10,9,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.8,
+DickCu00,Curtis Dickey,RB,,,,,,,,,,,,,,,,,,,,,,,
+DickCu00,Curtis Dickey,RB,1986,30,CLE,NFL,RB,14,10,6,0,0,0,0,0,0,6,0,0,0,0,0,36,2.6,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GoreFr00,Frank Gore,RB,2012*,29,SFO,RB,21,16,16,729,73%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2013*,30,SFO,RB,21,16,16,744,75%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2014,31,SFO,RB,21,16,16,648,61%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2015,32,IND,RB,23,16,16,687,63%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2016,33,IND,RB,23,16,16,650,59%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2017,34,IND,RB,23,16,16,555,54%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2018,35,MIA,RB,21,14,14,330,41%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2019,36,BUF,RB,20,16,8,370,35%,0,0%,0,0%
+GoreFr00,Frank Gore,RB,2020,37,NYJ,RB,21,15,14,380,41%,0,0%,0,0%

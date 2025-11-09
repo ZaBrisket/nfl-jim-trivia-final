@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RypiMa00,Mark Rypien,QB,1990,28,WAS,NFL,QB,2,2,2,-4,0,0,0.0,-2,-2.0,-2.0,1.0,0,0,0,0,0.0,0.0,2,-2.0,-4,0,0,
+RypiMa00,Mark Rypien,QB,1991,29,WAS,NFL,QB,3,3,9,-8,0,0,0.0,2,-0.9,-2.7,3.0,0,0,0,0,0.0,0.0,9,-0.9,-8,0,0,SB MVP
+RypiMa00,Mark Rypien,QB,1992,30,WAS,NFL,QB,2,2,7,4,1,3,42.9,3,0.6,2.0,3.5,0,0,0,0,0.0,0.0,7,0.6,4,1,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+PattCo00,Cordarrelle Patterson,WR,2018,27,NWE,NFL,WR,15,5,42,228,15,112,2.7,116,2.8,5,8.4,28,21,247,11,85,4.0,162,7.7,6.2,0,,1,3.6,0,137.1,AP-2
+PattCo00,Cordarrelle Patterson,WR,2019,28,CHI,NFL,WR,16,4,17,103,4,81,4.8,22,1.3,3,5.7,17,11,83,3,11,1.0,72,6.5,4.9,2,5.5,0,0.0,0,76.3,"PB,AP-1"
+PattCo00,Cordarrelle Patterson,WR,2020,29,CHI,NFL,WR,16,3,64,232,12,136,2.1,96,1.5,6,10.7,25,21,132,7,18,0.9,114,5.4,3.6,1,21.0,1,4.0,0,88.7,"PB,AP-1"
+PattCo00,Cordarrelle Patterson,WR,2021,30,ATL,NFL,RB,16,13,153,618,29,325,2.1,293,1.9,7,21.9,69,52,548,26,163,3.1,385,7.4,2.9,7,7.4,1,1.4,1,116.1,
+PattCo00,Cordarrelle Patterson,WR,2022,31,ATL,NFL,RB,13,11,144,695,39,414,2.9,281,2.0,4,36.0,31,21,122,6,6,0.3,116,5.5,2.5,0,,1,3.2,2,48.1,
+PattCo00,Cordarrelle Patterson,WR,2023,32,ATL,NFL,RB,14,0,50,181,9,92,1.8,89,1.8,2,25.0,12,9,38,2,1,0.1,37,4.1,0.8,0,,1,8.3,1,70.8,
+PattCo00,Cordarrelle Patterson,WR,2024,33,PIT,NFL,RB,13,1,32,135,7,46,1.4,89,2.8,3,10.7,14,12,80,5,24,2.0,56,4.7,3.0,1,12.0,0,0.0,1,84.5,

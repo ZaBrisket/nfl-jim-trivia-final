@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrowAn04,Antonio Brown,WR,2010,22,PIT,NFL,WR,9,0,19,110,0,21,5.8,17,397,1,89,23.4,674,
+BrowAn04,Antonio Brown,WR,2011,23,PIT,NFL,WR,16,3,30,325,1,60,10.8,27,737,0,52,27.3,2211,PB
+BrowAn04,Antonio Brown,WR,2012,24,PIT,NFL,WR,13,10,27,183,0,29,6.8,0,0,0,0,,994,
+BrowAn04,Antonio Brown,WR,2013,25,PIT,NFL,WR,16,14,32,409,1,67,12.8,1,16,0,16,16.0,1928,"PB,AP-2"
+BrowAn04,Antonio Brown,WR,2014,26,PIT,NFL,WR,16,16,30,319,1,71,10.6,1,0,0,0,0.0,2030,"PB,AP-1,AP OPoY-3"
+BrowAn04,Antonio Brown,WR,2015,27,PIT,NFL,WR,16,16,22,212,1,71,9.6,0,0,0,0,,2074,"PB,AP-1,AP OPoY-2"
+BrowAn04,Antonio Brown,WR,2016,28,PIT,NFL,WR,15,15,15,140,0,33,9.3,1,23,0,23,23.0,1456,"PB,AP-1"
+BrowAn04,Antonio Brown,WR,2017,29,PIT,NFL,WR,14,14,11,61,0,16,5.5,0,0,0,0,,1594,"PB,AP-1,AP OPoY-2"
+BrowAn04,Antonio Brown,WR,,,,,,,,,,,,,,,,,,,
+BrowAn04,Antonio Brown,WR,2020,32,TAM,NFL,WR,8,4,1,2,0,2,2.0,0,0,0,0,,483,

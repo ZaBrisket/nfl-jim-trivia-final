@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BarbTi00,Tiki Barber,RB,1997,22,NYG,NFL,RB,12,6,0,0,0,0,,0,3,0,0,0,0.0,0,0,0,,,0,AP ORoY-4
+BarbTi00,Tiki Barber,RB,1998,23,NYG,NFL,RB,16,4,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,,0,
+BarbTi00,Tiki Barber,RB,1999,24,NYG,NFL,RB,16,1,0,0,0,0,0,0,5,5,0,0,0.0,0,0,0,0,,0,
+BarbTi00,Tiki Barber,RB,2000,25,NYG,NFL,RB,16,12,0,0,0,0,0,0,9,5,0,0,0.0,0,0,0,0,,0,
+BarbTi00,Tiki Barber,RB,2001,26,NYG,NFL,RB,14,9,0,0,0,0,0,0,8,6,2,0,0.0,0,0,0,0,,0,
+BarbTi00,Tiki Barber,RB,2002,27,NYG,NFL,RB,16,15,0,0,0,0,0,0,9,1,0,0,0.0,0,0,0,0,,0,
+BarbTi00,Tiki Barber,RB,2003,28,NYG,NFL,RB,16,16,0,0,0,0,0,0,9,4,0,0,0.0,0,0,0,0,,0,
+BarbTi00,Tiki Barber,RB,2004,29,NYG,NFL,RB,16,14,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,,0,PB
+BarbTi00,Tiki Barber,RB,2005,30,NYG,NFL,RB,16,16,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,,0,"PB,AP-1,AP MVP-4,AP OPoY-3"
+BarbTi00,Tiki Barber,RB,2006,31,NYG,NFL,RB,16,16,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,PB

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BratCa00,Cameron Brate,TE,2014,23,TAM,TE,84,5,1,44,15%,0,0%,25,20%
+BratCa00,Cameron Brate,TE,2015,24,TAM,TE,84,14,4,340,36%,0,0%,112,29%
+BratCa00,Cameron Brate,TE,2016,25,TAM,TE,84,15,10,707,66%,0,0%,111,27%
+BratCa00,Cameron Brate,TE,2017,26,TAM,TE,84,16,5,582,53%,0,0%,8,2%
+BratCa00,Cameron Brate,TE,2018,27,TAM,TE,84,16,2,534,48%,0,0%,58,13%
+BratCa00,Cameron Brate,TE,2019,28,TAM,TE,84,16,6,431,38%,0,0%,49,10%
+BratCa00,Cameron Brate,TE,2020,29,TAM,TE,84,16,1,318,30%,0,0%,4,1%
+BratCa00,Cameron Brate,TE,2021,30,TAM,TE,84,17,3,469,40%,0,0%,6,1%
+BratCa00,Cameron Brate,TE,2022,31,TAM,TE,84,11,1,355,47%,0,0%,19,7%

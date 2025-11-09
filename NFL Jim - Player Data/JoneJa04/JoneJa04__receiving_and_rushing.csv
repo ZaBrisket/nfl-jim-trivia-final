@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneJa04,James Jones,WR,2007,23,GNB,NFL,WR,16,9,80,47,676,14.4,2,29,50.0,79,2.9,42.3,58.8,8.5,0,0,0,0,0.0,0.0,47,14.4,676,2,3,7,
+JoneJa04,James Jones,WR,2008,24,GNB,NFL,WR,10,2,30,20,274,13.7,1,16,56.7,46,2.0,27.4,66.7,9.1,0,0,0,0,0.0,0.0,20,13.7,274,1,0,3,
+JoneJa04,James Jones,WR,2009,25,GNB,NFL,WR,16,3,62,32,440,13.8,5,16,38.7,74,2.0,27.5,51.6,7.1,0,0,0,0,0.0,0.0,32,13.8,440,5,0,5,
+JoneJa04,James Jones,WR,2010,26,GNB,NFL,WR,16,3,87,50,679,13.6,5,33,50.6,66,3.1,42.4,57.5,7.8,0,0,0,0,0.0,0.0,50,13.6,679,5,3,6,
+JoneJa04,James Jones,WR,2011,27,GNB,NFL,WR,16,0,55,38,635,16.7,7,27,58.2,70,2.4,39.7,69.1,11.5,0,0,0,0,0.0,0.0,38,16.7,635,7,1,8,
+JoneJa04,James Jones,WR,2012,28,GNB,NFL,WR,16,16,98,64,784,12.3,14,45,57.1,49,4.0,49.0,65.3,8.0,0,0,0,0,0.0,0.0,64,12.3,784,14,0,7,
+JoneJa04,James Jones,WR,2013,29,GNB,NFL,WR,14,14,93,59,817,13.8,3,30,53.8,83,4.2,58.4,63.4,8.8,0,0,0,0,0.0,0.0,59,13.8,817,3,2,7,
+JoneJa04,James Jones,WR,2014,30,OAK,NFL,WR,16,10,112,73,666,9.1,6,40,42.9,42,4.6,41.6,65.2,5.9,0,0,0,0,0.0,0.0,73,9.1,666,6,3,4,
+JoneJa04,James Jones,WR,2015,31,GNB,NFL,WR,16,15,99,50,890,17.8,8,40,46.5,65,3.1,55.6,50.5,9.0,0,0,0,0,0.0,0.0,50,17.8,890,8,1,8,

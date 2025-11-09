@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BryaCu00,Cullen Bryant,RB,1973,22,RAM,NFL,RB,13,0,0,0,0,0,,13,369,1,93,28.4,369,
+BryaCu00,Cullen Bryant,RB,1974,23,RAM,NFL,RB,14,0,17,171,0,23,10.1,23,617,1,84,26.8,826,
+BryaCu00,Cullen Bryant,RB,1975,24,RAM,NFL,RB,14,3,2,47,0,40,23.5,12,280,0,42,23.3,1023,
+BryaCu00,Cullen Bryant,RB,1976,25,RAM,NFL,RB,14,0,29,321,0,25,11.1,16,459,1,90,28.7,872,
+BryaCu00,Cullen Bryant,RB,1977,26,RAM,NFL,RB,14,0,20,141,0,26,7.1,2,35,0,26,17.5,246,
+BryaCu00,Cullen Bryant,RB,1978,27,RAM,NFL,RB,16,9,3,27,0,21,9.0,0,0,0,0,,761,
+BryaCu00,Cullen Bryant,RB,,,,,,,,,,,,,,,,,,,
+BryaCu00,Cullen Bryant,RB,1984,33,SEA,NFL,RB,9,2,0,0,0,0,,3,53,0,21,17.7,131,

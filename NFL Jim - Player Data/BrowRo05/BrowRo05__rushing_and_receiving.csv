@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrowRo05,Ronnie Brown,RB,2005,24,MIA,NFL,RB,15,14,207,907,4,42,44.9,65,4.4,60.5,13.8,47,32,232,7.3,1,12,48.9,38,2.1,15.5,68.1,4.9,239,4.8,1139,5,4,8,
+BrowRo05,Ronnie Brown,RB,2006,25,MIA,NFL,RB,13,12,241,1008,5,50,44.8,47,4.2,77.5,18.5,38,33,276,8.4,0,12,52.6,24,2.5,21.2,86.8,7.3,274,4.7,1284,5,4,7,
+BrowRo05,Ronnie Brown,RB,2007,26,MIA,NFL,RB,7,7,119,602,4,39,51.3,60,5.1,86.0,17.0,46,39,389,10.0,1,17,58.7,43,5.6,55.6,84.8,8.5,158,6.3,991,5,0,7,
+BrowRo05,Ronnie Brown,RB,2008,27,MIA,NFL,RB,16,13,214,916,10,49,47.2,62,4.3,57.3,13.4,43,33,254,7.7,0,12,44.2,39,2.1,15.9,76.7,5.9,247,4.7,1170,10,1,9,"PB,AP CPoY-8"
+BrowRo05,Ronnie Brown,RB,2009,28,MIA,NFL,RB,9,9,147,648,8,32,50.3,45,4.4,72.0,16.3,20,14,98,7.0,0,5,50.0,27,1.6,10.9,70.0,4.9,161,4.6,746,8,1,5,
+BrowRo05,Ronnie Brown,RB,2010,29,MIA,NFL,RB,16,16,200,734,5,40,41.5,51,3.7,45.9,12.5,43,33,242,7.3,0,13,44.2,24,2.1,15.1,76.7,5.6,233,4.2,976,5,3,4,
+BrowRo05,Ronnie Brown,RB,2011,30,PHI,NFL,RB,16,2,42,136,1,11,45.2,15,3.2,8.5,2.6,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,42,3.2,136,1,1,1,
+BrowRo05,Ronnie Brown,RB,2012,31,SDG,NFL,RB,14,1,46,220,0,12,41.3,21,4.8,15.7,3.3,59,49,371,7.6,0,16,44.1,25,3.5,26.5,83.1,6.3,95,6.2,591,0,0,4,
+BrowRo05,Ronnie Brown,RB,2013,32,SDG,NFL,RB,16,0,45,157,1,10,35.6,13,3.5,9.8,2.8,8,8,60,7.5,0,3,62.5,15,0.5,3.8,100.0,7.5,53,4.1,217,1,0,2,
+BrowRo05,Ronnie Brown,RB,2014,33,2TM,NFL,RB,10,0,20,63,0,5,50.0,11,3.2,6.3,2.0,8,5,44,8.8,0,1,37.5,24,0.5,4.4,62.5,5.5,25,4.3,107,0,0,1,
+BrowRo05,Ronnie Brown,RB,2014,33,HOU,NFL,RB,3,0,6,4,0,0,0.0,2,0.7,1.3,2.0,1,1,5,5.0,0,0,0.0,5,0.3,1.7,100.0,5.0,7,1.3,9,0,0,0,
+BrowRo05,Ronnie Brown,RB,2014,33,SDG,NFL,RB,7,0,14,59,0,5,71.4,11,4.2,8.4,2.0,7,4,39,9.8,0,1,42.9,24,0.6,5.6,57.1,5.6,18,5.4,98,0,0,1,

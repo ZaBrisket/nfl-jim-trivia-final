@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SmitAn00,Antowain Smith,RB,1998,26,BUF,NFL,RB,1,1,7,15,0,2,57.1,7,2.1,15.0,7.0,1,1,12,12.0,0,1,100.0,12,1.0,12.0,100.0,12.0,8,3.4,27,0,0,
+SmitAn00,Antowain Smith,RB,1999,27,BUF,NFL,RB,1,0,14,79,2,3,57.1,44,5.6,79.0,14.0,0,0,0,,0,0,,,0.0,0.0,,,14,5.6,79,2,0,
+SmitAn00,Antowain Smith,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAn00,Antowain Smith,RB,2001,29,NWE,NFL,RB,3,3,53,204,0,10,45.3,19,3.8,68.0,17.7,2,1,4,4.0,0,0,0.0,4,0.3,1.3,50.0,2.0,54,3.9,208,0,0,
+SmitAn00,Antowain Smith,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAn00,Antowain Smith,RB,2003,31,NWE,NFL,RB,3,3,64,252,2,11,46.9,35,3.9,84.0,21.3,3,2,9,4.5,0,0,33.3,8,0.7,3.0,66.7,3.0,66,4.0,261,2,0,

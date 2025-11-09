@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DunnWa00,Warrick Dunn,RB,1997,22,TAM,NFL,RB,16,10,4,3,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,"PB,AP ORoY-1"
+DunnWa00,Warrick Dunn,RB,1998,23,TAM,NFL,RB,16,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DunnWa00,Warrick Dunn,RB,1999,24,TAM,NFL,RB,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DunnWa00,Warrick Dunn,RB,2000,25,TAM,NFL,RB,16,14,8,1,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB
+DunnWa00,Warrick Dunn,RB,2001,26,TAM,NFL,RB,13,12,3,3,0,0,0,0,0,6,0,0,0,0,0,0,36,2.8,
+DunnWa00,Warrick Dunn,RB,2002,27,ATL,NFL,RB,15,14,7,2,0,0,0,0,0,9,0,0,0,0,0,0,54,3.6,
+DunnWa00,Warrick Dunn,RB,2003,28,ATL,NFL,RB,11,6,3,2,0,0,0,0,0,5,0,0,0,0,0,0,30,2.7,
+DunnWa00,Warrick Dunn,RB,2004,29,ATL,NFL,RB,16,16,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+DunnWa00,Warrick Dunn,RB,2005,30,ATL,NFL,RB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,PB
+DunnWa00,Warrick Dunn,RB,2006,31,ATL,NFL,RB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+DunnWa00,Warrick Dunn,RB,2007,32,ATL,NFL,RB,16,15,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+DunnWa00,Warrick Dunn,RB,2008,33,TAM,NFL,RB,15,6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

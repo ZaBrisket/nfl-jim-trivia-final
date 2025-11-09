@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StxxAm00,Amon-Ra St. Brown,WR,2021,22,DET,WR,14,17,9,816,74%,0,0%,81,18%
+StxxAm00,Amon-Ra St. Brown,WR,2022*,23,DET,WR,14,16,16,832,78%,0,0%,3,1%
+StxxAm00,Amon-Ra St. Brown,WR,2023*+,24,DET,WR,14,16,16,1010,90%,0,0%,6,1%
+StxxAm00,Amon-Ra St. Brown,WR,2024*+,25,DET,WR,14,17,17,1010,88%,0,0%,5,1%
+StxxAm00,Amon-Ra St. Brown,WR,2025,26,DET,WR,14,8,8,446,89%,0,0%,4,2%

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DunnWa00,Warrick Dunn,RB,1997,22,TAM,NFL,RB,16,10,0,0,0,0,,0,4,4,0,0,0.0,0,0,0,,,0,"PB,AP ORoY-1"
+DunnWa00,Warrick Dunn,RB,1998,23,TAM,NFL,RB,16,14,0,0,0,0,,0,1,1,0,0,0.0,0,0,0,,,0,
+DunnWa00,Warrick Dunn,RB,1999,24,TAM,NFL,RB,15,15,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,,0,
+DunnWa00,Warrick Dunn,RB,2000,25,TAM,NFL,RB,16,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,,0,PB
+DunnWa00,Warrick Dunn,RB,2001,26,TAM,NFL,RB,13,12,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+DunnWa00,Warrick Dunn,RB,2002,27,ATL,NFL,RB,15,14,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,,0,
+DunnWa00,Warrick Dunn,RB,2003,28,ATL,NFL,RB,11,6,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,,0,
+DunnWa00,Warrick Dunn,RB,2004,29,ATL,NFL,RB,16,16,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,,0,
+DunnWa00,Warrick Dunn,RB,2005,30,ATL,NFL,RB,16,16,0,0,0,0,0,0,3,2,1,0,0.0,0,0,0,0,,0,PB
+DunnWa00,Warrick Dunn,RB,2006,31,ATL,NFL,RB,16,16,0,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,0,0,
+DunnWa00,Warrick Dunn,RB,2007,32,ATL,NFL,RB,16,15,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,0,0,

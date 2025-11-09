@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HillTy00,Tyreek Hill,WR,2016,22,KAN,NFL,WR,1,0,6,4,27,6.8,0,1,50.0,9,4.0,27.0,66.7,4.5,3,18,0,1,66.7,8,6.0,18.0,3.0,7,6.4,45,0,0,
+HillTy00,Tyreek Hill,WR,2017,23,KAN,NFL,WR,1,1,11,7,87,12.4,0,2,36.4,45,7.0,87.0,63.6,7.9,1,14,0,1,100.0,14,14.0,14.0,1.0,8,12.6,101,0,0,
+HillTy00,Tyreek Hill,WR,2018,24,KAN,NFL,WR,2,2,16,9,114,12.7,0,6,43.8,42,4.5,57.0,56.3,7.1,1,36,1,1,100.0,36,36.0,18.0,0.5,10,15.0,150,1,1,
+HillTy00,Tyreek Hill,WR,2019,25,KAN,NFL,WR,3,3,27,17,213,12.5,2,9,51.9,44,5.7,71.0,63.0,7.9,2,11,0,0,100.0,7,5.5,3.7,0.7,19,11.8,224,2,1,
+HillTy00,Tyreek Hill,WR,2020,26,KAN,NFL,WR,3,3,31,24,355,14.8,0,15,67.7,71,8.0,118.3,77.4,11.5,4,14,0,1,75.0,5,3.5,4.7,1.3,28,13.2,369,0,0,
+HillTy00,Tyreek Hill,WR,2021,27,KAN,NFL,WR,3,3,28,23,285,12.4,3,12,64.3,64,7.7,95.0,82.1,10.2,1,-2,0,0,0.0,-2,-2.0,-0.7,0.3,24,11.8,283,3,0,
+HillTy00,Tyreek Hill,WR,2022,28,MIA,NFL,WR,1,1,15,7,69,9.9,0,4,40.0,19,7.0,69.0,46.7,4.6,2,5,0,1,50.0,8,2.5,5.0,2.0,9,8.2,74,0,0,
+HillTy00,Tyreek Hill,WR,2023,29,MIA,NFL,WR,1,1,8,5,62,12.4,1,1,37.5,53,5.0,62.0,62.5,7.8,0,0,0,0,,,,0.0,0.0,5,12.4,62,1,0,

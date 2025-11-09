@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+SmitAl03,Alex Smith,QB,2018,34,WAS,NFL,QB,10,10,41,168,15,117,2.9,51,1.2,1,41.0,0,0,0,0,0,0,0,0,0,
+SmitAl03,Alex Smith,QB,2019,,Did not play - Injured (infection),,,,,,,,,,,,,,,,,,,,,,,
+SmitAl03,Alex Smith,QB,2020,36,WAS,NFL,QB,8,6,10,3,0,3,0.3,0,0.0,0,,0,0,0,0,0,0,0,0,0,AP CPoY-1

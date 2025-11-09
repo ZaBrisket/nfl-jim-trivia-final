@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WalkMi01,Mike Sims-Walker,WR,2008,24,JAX,NFL,WR,9,1,30,16,217,13.6,0,11,46.7,32,1.8,24.1,53.3,7.2,0,0,0,0,0.0,0.0,16,13.6,217,0,0,2,
+WalkMi01,Mike Sims-Walker,WR,2009,25,JAX,NFL,WR,15,14,111,63,869,13.8,7,43,51.4,61,4.2,57.9,56.8,7.8,0,0,0,0,0.0,0.0,63,13.8,869,7,2,8,
+WalkMi01,Mike Sims-Walker,WR,2010,26,JAX,NFL,WR,14,13,80,43,562,13.1,7,32,52.5,39,3.1,40.1,53.8,7.0,0,0,0,0,0.0,0.0,43,13.1,562,7,1,6,
+WalkMi01,Mike Sims-Walker,WR,2011,27,2TM,NFL,WR,6,4,33,12,150,12.5,0,8,33.3,33,2.0,25.0,36.4,4.5,0,0,0,0,0.0,0.0,12,12.5,150,0,0,1,
+WalkMi01,Mike Sims-Walker,WR,2011,27,STL,NFL,WR,4,3,27,11,139,12.6,0,7,37.0,33,2.8,34.8,40.7,5.1,0,0,0,0,0.0,0.0,11,12.6,139,0,0,1,
+WalkMi01,Mike Sims-Walker,WR,2011,27,JAX,NFL,WR,2,1,6,1,11,11.0,0,1,16.7,11,0.5,5.5,16.7,1.8,0,0,0,0,0.0,0.0,1,11.0,11,0,0,0,

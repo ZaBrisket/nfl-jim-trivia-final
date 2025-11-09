@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DebeSt00,Steve DeBerg,QB,1978,24,SFO,NFL,QB,12,11,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+DebeSt00,Steve DeBerg,QB,,,,,,,,,,,,,,,,,,,,,,,
+DebeSt00,Steve DeBerg,QB,1982,28,DEN,NFL,QB,9,5,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+DebeSt00,Steve DeBerg,QB,1983,29,DEN,NFL,QB,10,5,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.6,
+DebeSt00,Steve DeBerg,QB,1984,30,TAM,NFL,QB,16,13,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+DebeSt00,Steve DeBerg,QB,,,,,,,,,,,,,,,,,,,,,,,
+DebeSt00,Steve DeBerg,QB,1986,32,TAM,NFL,QB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+DebeSt00,Steve DeBerg,QB,,,,,,,,,,,,,,,,,,,,,,,
+DebeSt00,Steve DeBerg,QB,1988,34,KAN,NFL,QB,13,11,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WarnCu00,Curt Warner,RB,1983,22,SEA,NFL,RB,16,16,335,1449,13,80,54.9,60,4.3,90.6,20.9,58,42,325,7.7,1,13,44.8,28,2.6,20.3,72.4,5.6,377,4.7,1774,14,6,15,"PB,AP-2,AP OPoY-6,AP ORoY-3"
+WarnCu00,Curt Warner,RB,1984,23,SEA,NFL,RB,1,1,10,40,0,3,60.0,9,4.0,40.0,10.0,2,1,19,19.0,0,1,50.0,19,1.0,19.0,50.0,9.5,11,5.4,59,0,0,0,
+WarnCu00,Curt Warner,RB,1985,24,SEA,NFL,RB,16,16,291,1094,8,67,49.5,38,3.8,68.4,18.2,61,47,307,6.5,1,10,47.5,27,2.9,19.2,77.0,5.0,338,4.1,1401,9,8,9,
+WarnCu00,Curt Warner,RB,1986,25,SEA,NFL,RB,16,16,319,1481,13,75,50.8,60,4.6,92.6,19.9,52,41,342,8.3,0,18,46.2,26,2.6,21.4,78.8,6.6,360,5.1,1823,13,6,15,"PB,AP-2"
+WarnCu00,Curt Warner,RB,1987,26,SEA,NFL,RB,12,12,234,985,8,58,58.5,57,4.2,82.1,19.5,20,17,167,9.8,2,6,75.0,30,1.4,13.9,85.0,8.4,251,4.6,1152,10,4,12,"PB,AP-2"
+WarnCu00,Curt Warner,RB,1988,27,SEA,NFL,RB,16,16,266,1025,10,62,47.7,29,3.9,64.1,16.6,40,22,154,7.0,2,7,32.5,17,1.4,9.6,55.0,3.9,288,4.1,1179,12,5,10,
+WarnCu00,Curt Warner,RB,1989,28,SEA,NFL,RB,16,15,194,631,3,39,44.3,34,3.3,39.4,12.1,36,23,153,6.7,1,8,41.7,24,1.4,9.6,63.9,4.3,217,3.6,784,4,7,5,
+WarnCu00,Curt Warner,RB,1990,29,RAM,NFL,RB,7,2,49,139,1,6,42.9,9,2.8,19.9,7.0,0,0,0,,0,0,,,0.0,0.0,,,49,2.8,139,1,1,1,

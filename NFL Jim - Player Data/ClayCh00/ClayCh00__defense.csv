@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+ClayCh00,Charles Clay,TE,2013,24,MIA,NFL,TE,16,15,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,
+ClayCh00,Charles Clay,TE,2014,25,MIA,NFL,TE,14,14,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,0,0,
+ClayCh00,Charles Clay,TE,2015,26,BUF,NFL,TE,13,13,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+ClayCh00,Charles Clay,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+ClayCh00,Charles Clay,TE,2017,28,BUF,NFL,TE,13,13,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+ClayCh00,Charles Clay,TE,2018,29,BUF,NFL,TE,13,12,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

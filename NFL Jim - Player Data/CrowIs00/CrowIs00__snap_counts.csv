@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CrowIs00,Isaiah Crowell,RB,2014,21,CLE,RB,34,16,4,382,36%,0,0%,12,3%
+CrowIs00,Isaiah Crowell,RB,2015,22,CLE,RB,34,16,9,474,43%,0,0%,12,3%
+CrowIs00,Isaiah Crowell,RB,2016,23,CLE,RB,34,16,16,568,55%,0,0%,1,0%
+CrowIs00,Isaiah Crowell,RB,2017,24,CLE,RB,34,16,16,536,50%,0,0%,0,0%
+CrowIs00,Isaiah Crowell,RB,2018,25,NYJ,RB,20,13,6,332,41%,0,0%,0,0%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CutlJa00,Jay Cutler,QB,2007,24,DEN,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+CutlJa00,Jay Cutler,QB,2008,25,DEN,NFL,QB,16,16,2,0,0,0,0,0,0,2,1,0,0,0,0,0,14,0.9,PB
+CutlJa00,Jay Cutler,QB,2009,26,CHI,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+CutlJa00,Jay Cutler,QB,2010,27,CHI,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+CutlJa00,Jay Cutler,QB,2011,28,CHI,NFL,QB,10,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,
+CutlJa00,Jay Cutler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+CutlJa00,Jay Cutler,QB,2014,31,CHI,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+CutlJa00,Jay Cutler,QB,2015,32,CHI,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

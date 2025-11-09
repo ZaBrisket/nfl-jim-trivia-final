@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+RivePh00,Philip Rivers,QB,2018,37,LAC,NFL,QB,16,16,18,7,1,1,0.1,6,0.3,0,0,0,0,0,0,0,0,0,0,PB
+RivePh00,Philip Rivers,QB,2019,38,LAC,NFL,QB,16,16,12,29,2,29,2.4,0,0.0,0,0,0,0,0,0,0,0,0,0,
+RivePh00,Philip Rivers,QB,2020,39,IND,NFL,QB,16,16,18,-8,0,-10,-0.6,2,0.1,0,0,0,0,0,0,0,0,0,0,

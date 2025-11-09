@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ArchDa00,David Archer,QB,1984,22,ATL,NFL,QB,2,0,6,38,0,2,66.7,12,6.3,19.0,3.0,0,0,0,0,0,0.0,0.0,6,6.3,38,0,1,
+ArchDa00,David Archer,QB,1985,23,ATL,NFL,QB,16,11,70,347,2,20,41.4,29,5.0,21.7,4.4,0,0,0,0,0,0.0,0.0,70,5.0,347,2,9,
+ArchDa00,David Archer,QB,1986,24,ATL,NFL,QB,11,11,52,298,0,12,50.0,22,5.7,27.1,4.7,0,0,0,0,0,0.0,0.0,52,5.7,298,0,8,
+ArchDa00,David Archer,QB,1987,25,ATL,NFL,QB,9,1,2,8,0,0,50.0,7,4.0,0.9,0.2,0,0,0,0,0,0.0,0.0,2,4.0,8,0,0,
+ArchDa00,David Archer,QB,1988,26,WAS,NFL,QB,1,0,3,1,0,0,0.0,4,0.3,1.0,3.0,0,0,0,0,0,0.0,0.0,3,0.3,1,0,0,
+ArchDa00,David Archer,QB,1989,27,SDG,NFL,QB,16,0,2,14,0,1,50.0,14,7.0,0.9,0.1,0,0,0,0,0,0.0,0.0,2,7.0,14,0,0,

@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RyanMa00,Matt Ryan,QB,2008,23,ATL,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,AP ORoY-1
+RyanMa00,Matt Ryan,QB,2009,24,ATL,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+RyanMa00,Matt Ryan,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RyanMa00,Matt Ryan,QB,2011,26,ATL,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+RyanMa00,Matt Ryan,QB,2012,27,ATL,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,PB
+RyanMa00,Matt Ryan,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RyanMa00,Matt Ryan,QB,2016,31,ATL,NFL,QB,16,16,0,0,0,0,0,0,0,0,1,,0,0,0,0,0,2,0.1,"PB,AP-1,AP MVP-1,AP OPoY-1"
+RyanMa00,Matt Ryan,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RyanMa00,Matt Ryan,QB,2018,33,ATL,NFL,QB,16,16,3,1,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+RyanMa00,Matt Ryan,QB,2019,34,ATL,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+RyanMa00,Matt Ryan,QB,2020,35,ATL,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+RyanMa00,Matt Ryan,QB,2021,36,ATL,NFL,QB,17,17,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,8,0.5,
+RyanMa00,Matt Ryan,QB,2022,37,IND,NFL,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.5,

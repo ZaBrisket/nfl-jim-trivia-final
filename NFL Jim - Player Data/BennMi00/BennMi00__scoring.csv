@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BennMi00,Michael Bennett,RB,2001,23,MIN,NFL,RB,13,13,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+BennMi00,Michael Bennett,RB,2002,24,MIN,NFL,RB,16,16,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,PB
+BennMi00,Michael Bennett,RB,2003,25,MIN,NFL,RB,8,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+BennMi00,Michael Bennett,RB,2004,26,MIN,NFL,RB,11,7,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+BennMi00,Michael Bennett,RB,2005,27,MIN,NFL,RB,16,6,3,2,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+BennMi00,Michael Bennett,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BennMi00,Michael Bennett,RB,2007,29,2TM,NFL,RB,14,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+BennMi00,Michael Bennett,RB,2007,29,TAM,NFL,RB,8,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,1.5,

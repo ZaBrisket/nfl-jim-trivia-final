@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StevRh00,Rhamondre Stevenson,RB,2021,23,NWE,RB,38,12,2,265,34%,0,0%,1,0%
+StevRh00,Rhamondre Stevenson,RB,2022,24,NWE,RB,38,17,7,699,66%,0,0%,2,0%
+StevRh00,Rhamondre Stevenson,RB,2023,25,NWE,RB,38,12,12,486,63%,0,0%,0,0%
+StevRh00,Rhamondre Stevenson,RB,2024,26,NWE,RB,38,15,14,599,62%,0,0%,0,0%
+StevRh00,Rhamondre Stevenson,RB,2025,27,NWE,RB,38,8,8,316,62%,0,0%,5,3%

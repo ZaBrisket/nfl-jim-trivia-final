@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HartBr00,Brian Hartline,WR,2012,26,MIA,WR,82,16,15,894,86%,0,0%,6,1%
+HartBr00,Brian Hartline,WR,2013,27,MIA,WR,82,16,15,908,88%,0,0%,0,0%
+HartBr00,Brian Hartline,WR,2014,28,MIA,WR,82,16,16,813,74%,0,0%,6,1%
+HartBr00,Brian Hartline,WR,2015,29,CLE,WR,83,12,4,514,61%,0,0%,0,0%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomJu00,Julius Thomas,TE,2011,23,DEN,NFL,TE,5,1,7,1,5,5.0,0,0,0.0,5,0.2,1.0,14.3,0.7,0,0,0,0,0.0,0.0,1,5.0,5,0,0,0,
+ThomJu00,Julius Thomas,TE,2012,24,DEN,NFL,TE,4,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+ThomJu00,Julius Thomas,TE,2013,25,DEN,NFL,TE,14,14,90,65,788,12.1,12,41,56.7,74,4.6,56.3,72.2,8.8,0,0,0,0,0.0,0.0,65,12.1,788,12,0,8,PB
+ThomJu00,Julius Thomas,TE,2014,26,DEN,NFL,TE,13,10,62,43,489,11.4,12,30,59.7,35,3.3,37.6,69.4,7.9,0,0,0,0,0.0,0.0,43,11.4,489,12,1,5,PB
+ThomJu00,Julius Thomas,TE,2015,27,JAX,NFL,TE,12,10,80,46,455,9.9,5,25,47.5,34,3.8,37.9,57.5,5.7,0,0,0,0,0.0,0.0,46,9.9,455,5,0,4,
+ThomJu00,Julius Thomas,TE,2016,28,JAX,NFL,TE,9,6,51,30,281,9.4,4,15,41.2,24,3.3,31.2,58.8,5.5,0,0,0,0,0.0,0.0,30,9.4,281,4,0,2,
+ThomJu00,Julius Thomas,TE,2017,29,MIA,NFL,TE,14,12,62,41,388,9.5,3,18,51.6,27,2.9,27.7,66.1,6.3,0,0,0,0,0.0,0.0,41,9.5,388,3,1,3,

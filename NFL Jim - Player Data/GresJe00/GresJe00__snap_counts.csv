@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GresJe00,Jermaine Gresham,TE,2012*,24,CIN,TE,84,16,15,1003,95%,0,0%,80,17%
+GresJe00,Jermaine Gresham,TE,2013,25,CIN,TE,84,14,14,891,91%,0,0%,65,16%
+GresJe00,Jermaine Gresham,TE,2014,26,CIN,TE,84,15,15,877,89%,0,0%,63,15%
+GresJe00,Jermaine Gresham,TE,2015,27,ARI,TE,84,15,12,596,58%,0,0%,0,0%
+GresJe00,Jermaine Gresham,TE,2016,28,ARI,TE,84,16,14,835,73%,0,0%,1,0%
+GresJe00,Jermaine Gresham,TE,2017,29,ARI,TE,84,14,14,750,77%,0,0%,0,0%
+GresJe00,Jermaine Gresham,TE,2018,30,ARI,TE,84,13,11,417,54%,0,0%,23,6%

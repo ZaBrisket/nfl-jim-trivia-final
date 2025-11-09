@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MowaZe00,Zeke Mowatt,TE,1984,23,NYG,NFL,TE,2,2,15,12,122,10.2,0,4,73.3,24,6.0,61.0,80.0,8.1,0,0,0,0,0.0,0.0,12,10.2,122,0,0,
+MowaZe00,Zeke Mowatt,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MowaZe00,Zeke Mowatt,TE,1986,25,NYG,NFL,TE,3,1,3,2,35,17.5,2,2,66.7,29,0.7,11.7,66.7,11.7,0,0,0,0,0.0,0.0,2,17.5,35,2,0,
+MowaZe00,Zeke Mowatt,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MowaZe00,Zeke Mowatt,TE,1989,28,NYG,NFL,TE,1,1,4,3,52,17.3,0,2,75.0,23,3.0,52.0,75.0,13.0,0,0,0,0,0.0,0.0,3,17.3,52,0,0,

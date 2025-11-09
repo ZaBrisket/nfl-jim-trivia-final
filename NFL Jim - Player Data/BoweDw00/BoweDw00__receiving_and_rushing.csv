@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BoweDw00,Dwayne Bowe,WR,2007,23,KAN,NFL,WR,16,15,116,70,995,14.2,5,52,56.0,58,4.4,62.2,60.3,8.6,0,0,0,0,,,,0.0,0.0,70,14.2,995,5,0,6,
+BoweDw00,Dwayne Bowe,WR,2008,24,KAN,NFL,WR,16,16,157,86,1022,11.9,7,49,47.1,36,5.4,63.9,54.8,6.5,0,0,0,0,,,,0.0,0.0,86,11.9,1022,7,0,9,
+BoweDw00,Dwayne Bowe,WR,2009,25,KAN,NFL,WR,11,9,87,47,589,12.5,4,30,44.8,41,4.3,53.5,54.0,6.8,0,0,0,0,,,,0.0,0.0,47,12.5,589,4,1,4,
+BoweDw00,Dwayne Bowe,WR,2010,26,KAN,NFL,WR,16,16,133,72,1162,16.1,15,55,50.4,75,4.5,72.6,54.1,8.7,1,4,0,0,0.0,4,4.0,0.3,0.1,73,16.0,1166,15,1,13,"PB,AP-2"
+BoweDw00,Dwayne Bowe,WR,2011,27,KAN,NFL,WR,16,14,142,81,1159,14.3,5,56,50.0,52,5.1,72.4,57.0,8.2,1,12,0,0,100.0,12,12.0,0.8,0.1,82,14.3,1171,5,1,7,
+BoweDw00,Dwayne Bowe,WR,2012,28,KAN,NFL,WR,13,12,114,59,801,13.6,3,44,49.1,47,4.5,61.6,51.8,7.0,0,0,0,0,,,,0.0,0.0,59,13.6,801,3,1,5,
+BoweDw00,Dwayne Bowe,WR,2013,29,KAN,NFL,WR,15,15,103,57,673,11.8,5,39,47.6,34,3.8,44.9,55.3,6.5,0,0,0,0,,,,0.0,0.0,57,11.8,673,5,0,6,
+BoweDw00,Dwayne Bowe,WR,2014,30,KAN,NFL,WR,15,15,95,60,754,12.6,0,42,56.8,37,4.0,50.3,63.2,7.9,0,0,0,0,,,,0.0,0.0,60,12.6,754,0,2,8,
+BoweDw00,Dwayne Bowe,WR,2015,31,CLE,NFL,WR,7,0,13,5,53,10.6,0,3,38.5,16,0.7,7.6,38.5,4.1,0,0,0,0,,,,0.0,0.0,5,10.6,53,0,0,0,

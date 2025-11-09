@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DougHa00,Harry Douglas,WR,2008,24,ATL,NFL,WR,16,0,39,23,320,13.9,1,13,41.0,69,1.4,20.0,59.0,8.2,12,69,1,4,58.3,33,5.8,4.3,0.8,35,11.1,389,2,1,5,
+DougHa00,Harry Douglas,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DougHa00,Harry Douglas,WR,2010,26,ATL,NFL,WR,16,4,53,22,294,13.4,1,15,35.8,46,1.4,18.4,41.5,5.5,2,-5,0,0,0.0,,-2.5,-0.3,0.1,24,12.0,289,1,0,3,
+DougHa00,Harry Douglas,WR,2011,27,ATL,NFL,WR,16,4,62,39,498,12.8,1,20,43.5,49,2.4,31.1,62.9,8.0,1,3,0,0,0.0,3,3.0,0.2,0.1,40,12.5,501,1,0,5,
+DougHa00,Harry Douglas,WR,2012,28,ATL,NFL,WR,15,1,59,38,395,10.4,1,18,49.2,37,2.5,26.3,64.4,6.7,2,4,0,1,50.0,5,2.0,0.3,0.1,40,10.0,399,1,1,4,
+DougHa00,Harry Douglas,WR,2013,29,ATL,NFL,WR,16,11,132,85,1067,12.6,2,47,53.8,80,5.3,66.7,64.4,8.1,0,0,0,0,,,,0.0,0.0,85,12.6,1067,2,3,9,
+DougHa00,Harry Douglas,WR,2014,30,ATL,NFL,WR,12,6,74,51,556,10.9,2,29,55.4,41,4.3,46.3,68.9,7.5,0,0,0,0,,,,0.0,0.0,51,10.9,556,2,0,5,
+DougHa00,Harry Douglas,WR,2015,31,TEN,NFL,WR,14,12,72,36,411,11.4,2,22,43.1,51,2.6,29.4,50.0,5.7,1,-6,0,0,0.0,-6,-6.0,-0.4,0.1,37,10.9,405,2,2,3,
+DougHa00,Harry Douglas,WR,2016,32,TEN,NFL,WR,11,2,22,15,210,14.0,0,9,63.6,35,1.4,19.1,68.2,9.5,0,0,0,0,,,,0.0,0.0,15,14.0,210,0,0,2,
+DougHa00,Harry Douglas,WR,2017,33,TEN,NFL,WR,2,0,3,1,8,8.0,0,0,0.0,8,0.5,4.0,33.3,2.7,0,0,0,0,,,,0.0,0.0,1,8.0,8,0,0,0,

@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BeueSt00,Steve Beuerlein,QB,1988,23,RAI,NFL,QB,10,8,98,88,102,96,65,91,113,83,90,
+BeueSt00,Steve Beuerlein,QB,1989,24,RAI,NFL,QB,10,7,115,105,112,106,80,123,95,86,104,
+BeueSt00,Steve Beuerlein,QB,1990,,Did not play - Contract dispute,,,,,,,,,,,,,,
+BeueSt00,Steve Beuerlein,QB,1991,26,DAL,NFL,QB,8,4,94,102,109,112,73,97,132,119,101,
+BeueSt00,Steve Beuerlein,QB,,,,,,,,,,,,,,,,,
+BeueSt00,Steve Beuerlein,QB,1993,28,PHO,NFL,QB,16,14,116,114,108,108,111,107,90,102,107,
+BeueSt00,Steve Beuerlein,QB,1994,29,ARI,NFL,QB,9,7,86,85,82,82,78,77,94,93,77,
+BeueSt00,Steve Beuerlein,QB,1995,30,JAX,NFL,QB,7,6,99,86,84,78,73,86,71,69,75,
+BeueSt00,Steve Beuerlein,QB,1996,31,CAR,NFL,QB,8,4,111,87,125,108,95,133,124,61,123,
+BeueSt00,Steve Beuerlein,QB,1997,32,CAR,NFL,QB,7,3,100,92,107,102,105,99,118,82,108,
+BeueSt00,Steve Beuerlein,QB,1998,33,CAR,NFL,QB,12,12,115,105,110,104,126,110,96,75,113,
+BeueSt00,Steve Beuerlein,QB,1999,34,CAR,NFL,QB,16,16,116,113,119,117,110,123,109,94,119,PB
+BeueSt00,Steve Beuerlein,QB,2000,35,CAR,NFL,QB,16,16,105,97,102,97,111,96,99,78,103,
+BeueSt00,Steve Beuerlein,QB,,,,,,,,,,,,,,,,,
+BeueSt00,Steve Beuerlein,QB,2002,37,DEN,NFL,QB,8,3,127,115,115,108,96,117,82,81,106,
+BeueSt00,Steve Beuerlein,QB,2003,38,DEN,NFL,QB,4,2,88,75,62,57,77,88,17,60,59,

@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+RiggJo00,John Riggins,RB,1971,22,NYJ,NFL,FB,14,14,0,0,0,0,,6,2,-7,0,0.0,,,,0,AP ORoY-3
+RiggJo00,John Riggins,RB,1972,23,NYJ,NFL,FB,12,11,0,0,0,0,,2,0,0,0,0.0,,,,0,
+RiggJo00,John Riggins,RB,1973,24,NYJ,NFL,FB,11,9,0,0,0,0,,6,1,0,0,0.0,,,,0,
+RiggJo00,John Riggins,RB,1974,25,NYJ,NFL,FB,10,10,0,0,0,0,,3,2,0,0,0.0,,,,0,
+RiggJo00,John Riggins,RB,1975,26,NYJ,NFL,FB,14,14,0,0,0,0,,5,1,0,0,0.0,,,,0,PB
+RiggJo00,John Riggins,RB,1976,27,WAS,NFL,FB,14,14,0,0,0,0,,6,1,0,0,0.0,,,,0,
+RiggJo00,John Riggins,RB,,,,,,,,,,,,,,,,,,,,,,
+RiggJo00,John Riggins,RB,1978,29,WAS,NFL,FB,15,15,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,
+RiggJo00,John Riggins,RB,1979,30,WAS,NFL,FB,16,15,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,
+RiggJo00,John Riggins,RB,1980,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,
+RiggJo00,John Riggins,RB,1981,32,WAS,NFL,RB,15,4,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+RiggJo00,John Riggins,RB,1982,33,WAS,NFL,RB,8,8,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+RiggJo00,John Riggins,RB,1983,34,WAS,NFL,RB,15,15,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,"AP-1,AP MVP-4,AP OPoY-4"
+RiggJo00,John Riggins,RB,1984,35,WAS,NFL,RB,14,14,0,0,0,0,0,7,0,0,0,0.0,0,0,0,0,
+RiggJo00,John Riggins,RB,1985,36,WAS,NFL,RB,12,11,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,

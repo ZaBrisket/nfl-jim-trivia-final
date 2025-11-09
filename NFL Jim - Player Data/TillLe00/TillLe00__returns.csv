@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+TillLe00,Lewis Tillman,RB,1991,25,NYG,NFL,RB,16,1,0,0,0,0,2,29,0,19,14.5,346,
+TillLe00,Lewis Tillman,RB,,,,,,,,,,,,,,,,,,
+TillLe00,Lewis Tillman,RB,1995,29,CHI,NFL,RB,13,1,0,0,0,0,1,20,0,20,20.0,98,

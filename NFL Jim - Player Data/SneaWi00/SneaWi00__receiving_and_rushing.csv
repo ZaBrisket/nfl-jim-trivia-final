@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SneaWi00,Willie Snead,WR,2015,23,NOR,NFL,WR,15,8,101,69,984,14.3,3,44,58.4,63,4.6,65.6,68.3,9.7,0,0,0,0,,,,0.0,0.0,69,14.3,984,3,2,8,
+SneaWi00,Willie Snead,WR,2016,24,NOR,NFL,WR,15,4,104,72,895,12.4,4,51,60.6,49,4.8,59.7,69.2,8.6,0,0,0,0,,,,0.0,0.0,72,12.4,895,4,2,8,
+SneaWi00,Willie Snead,WR,2017,25,NOR,NFL,WR,11,7,16,8,92,11.5,0,4,37.5,26,0.7,8.4,50.0,5.8,0,0,0,0,,,,0.0,0.0,8,11.5,92,0,1,1,
+SneaWi00,Willie Snead,WR,2018,26,BAL,NFL,WR,16,10,95,62,651,10.5,1,37,50.5,28,3.9,40.7,65.3,6.9,1,13,0,1,100.0,13,13.0,0.8,0.1,63,10.5,664,1,0,6,
+SneaWi00,Willie Snead,WR,2019,27,BAL,NFL,WR,16,11,46,31,339,10.9,5,20,52.2,50,1.9,21.2,67.4,7.4,2,2,0,0,0.0,2,1.0,0.1,0.1,33,10.3,341,5,0,4,
+SneaWi00,Willie Snead,WR,2020,28,BAL,NFL,WR,13,8,48,33,432,13.1,3,23,58.3,34,2.5,33.2,68.8,9.0,0,0,0,0,,,,0.0,0.0,33,13.1,432,3,1,5,
+SneaWi00,Willie Snead,WR,2021,29,2TM,NFL,WR,9,0,8,4,38,9.5,0,3,37.5,15,0.4,4.2,50.0,4.8,0,0,0,0,,,,0.0,0.0,4,9.5,38,0,0,0,
+SneaWi00,Willie Snead,WR,2021,29,LVR,NFL,WR,7,0,5,3,32,10.7,0,3,60.0,15,0.4,4.6,60.0,6.4,0,0,0,0,,,,0.0,0.0,3,10.7,32,0,0,0,
+SneaWi00,Willie Snead,WR,2021,29,CAR,NFL,WR,2,0,3,1,6,6.0,0,0,0.0,6,0.5,3.0,33.3,2.0,0,0,0,0,,,,0.0,0.0,1,6.0,6,0,0,0,
+SneaWi00,Willie Snead,WR,2022,30,SFO,NFL,WR,4,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+SneaWi00,Willie Snead,WR,2023,31,SFO,NFL,WR,4,0,3,2,14,7.0,0,0,66.7,9,0.5,3.5,66.7,4.7,0,0,0,0,,,,0.0,0.0,2,7.0,14,0,0,0,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RisoAn00,Andre Rison,WR,1989,22,IND,NFL,WR,16,13,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,AP ORoY-2
+RisoAn00,Andre Rison,WR,1990,23,ATL,NFL,WR,16,15,0,10,0,0,0,0,0,10,,0,0,0,0,0,60,3.8,"PB,AP-1"
+RisoAn00,Andre Rison,WR,1991,24,ATL,NFL,WR,16,15,0,12,0,0,0,0,0,12,,0,0,0,0,0,72,4.5,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1992,25,ATL,NFL,WR,15,13,0,11,0,0,0,0,0,11,,0,0,0,0,0,66,4.4,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1993,26,ATL,NFL,WR,16,16,0,15,0,0,0,0,0,15,,0,0,0,0,0,90,5.6,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1994,27,ATL,NFL,WR,15,14,0,8,0,0,0,0,0,8,1,0,0,0,0,0,50,3.3,
+RisoAn00,Andre Rison,WR,1995,28,CLE,NFL,WR,16,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+RisoAn00,Andre Rison,WR,1996,29,2TM,NFL,WR,15,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+RisoAn00,Andre Rison,WR,1996,29,JAX,NFL,WR,10,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.2,
+RisoAn00,Andre Rison,WR,1996,29,GNB,NFL,WR,5,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.2,
+RisoAn00,Andre Rison,WR,1997,30,KAN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,PB
+RisoAn00,Andre Rison,WR,1998,31,KAN,NFL,WR,14,13,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,
+RisoAn00,Andre Rison,WR,,,,,,,,,,,,,,,,,,,,,,,,
+RisoAn00,Andre Rison,WR,2000,33,OAK,NFL,WR,16,0,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,AP CPoY-7

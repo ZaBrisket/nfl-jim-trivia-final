@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+HerbKh00,Khalil Herbert,RB,2021,23,CHI,NFL,RB,17,2,103,433,24,247,2.4,186,1.8,9,11.4,16,14,96,6,-5,-0.4,101,7.2,-0.3,1,14.0,1,6.3,0,91.7,
+HerbKh00,Khalil Herbert,RB,2022,24,CHI,NFL,RB,13,1,129,731,26,404,3.1,327,2.5,9,14.3,12,9,57,2,-24,-2.7,81,9.0,-2.4,0,,1,8.3,0,112.2,
+HerbKh00,Khalil Herbert,RB,2023,25,CHI,NFL,RB,12,9,132,611,25,329,2.5,282,2.1,13,10.2,31,20,134,9,-4,-0.2,138,6.9,0.6,2,10.0,1,3.2,2,57.7,
+HerbKh00,Khalil Herbert,RB,2024,26,2TM,NFL,RB,14,1,36,130,10,74,2.1,56,1.6,0,,11,10,25,0,-19,-1.9,44,4.4,-2.1,0,,1,9.1,0,79.2,
+HerbKh00,Khalil Herbert,RB,2024,26,CHI,NFL,RB,6,0,8,16,3,6,0.8,10,1.3,0,,2,2,4,0,-2,-1.0,6,3.0,-1.0,0,,0,0.0,0,79.2,
+HerbKh00,Khalil Herbert,RB,2024,26,CIN,NFL,RB,8,1,28,114,7,68,2.4,46,1.6,0,,9,8,21,0,-17,-2.1,38,4.8,-2.3,0,,1,11.1,0,79.2,

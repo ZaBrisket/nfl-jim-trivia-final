@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MariMa01,Marcus Mariota,QB,2015,22,TEN,NFL,QB,12,12,34,252,2,11,44.1,87,7.4,21.0,2.8,1,1,41,41.0,1,1,100.0,41,0.1,3.4,100.0,41.0,35,8.4,293,3,10,
+MariMa01,Marcus Mariota,QB,2016,23,TEN,NFL,QB,15,15,60,349,2,22,60.0,41,5.8,23.3,4.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,60,5.8,349,2,10,
+MariMa01,Marcus Mariota,QB,2017,24,TEN,NFL,QB,15,15,60,312,5,23,55.0,34,5.2,20.8,4.0,0,0,0,,0,0,,,0.0,0.0,,,60,5.2,312,5,2,
+MariMa01,Marcus Mariota,QB,2018,25,TEN,NFL,QB,14,13,64,357,2,26,56.3,27,5.6,25.5,4.6,1,1,21,21.0,0,1,100.0,21,0.1,1.5,100.0,21.0,65,5.8,378,2,9,
+MariMa01,Marcus Mariota,QB,2019,26,TEN,NFL,QB,7,6,24,129,0,5,50.0,15,5.4,18.4,3.4,0,0,0,,0,0,,,0.0,0.0,,,24,5.4,129,0,3,
+MariMa01,Marcus Mariota,QB,2020,27,LVR,NFL,QB,1,0,9,88,1,8,100.0,26,9.8,88.0,9.0,0,0,0,,0,0,,,0.0,0.0,,,9,9.8,88,1,0,
+MariMa01,Marcus Mariota,QB,2021,28,LVR,NFL,QB,10,0,13,87,1,6,76.9,31,6.7,8.7,1.3,0,0,0,,0,0,,,0.0,0.0,,,13,6.7,87,1,1,
+MariMa01,Marcus Mariota,QB,2022,29,ATL,NFL,QB,13,13,85,438,4,30,57.6,30,5.2,33.7,6.5,0,0,0,,0,0,,,0.0,0.0,,,85,5.2,438,4,8,
+MariMa01,Marcus Mariota,QB,2023,30,PHI,NFL,QB,3,0,8,52,0,6,87.5,17,6.5,17.3,2.7,0,0,0,,0,0,,,0.0,0.0,,,8,6.5,52,0,1,
+MariMa01,Marcus Mariota,QB,2024,31,WAS,NFL,QB,3,0,18,92,1,6,50.0,33,5.1,30.7,6.0,0,0,0,,0,0,,,0.0,0.0,,,18,5.1,92,1,0,
+MariMa01,Marcus Mariota,QB,2025,32,WAS,NFL,QB,5,3,18,122,1,5,50.0,25,6.8,24.4,3.6,0,0,0,,0,0,,,0.0,0.0,,,18,6.8,122,1,2,

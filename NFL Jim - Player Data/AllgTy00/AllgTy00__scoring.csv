@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AllgTy00,Tyler Allgeier,RB,2022,22,ATL,NFL,RB,16,7,3,1,0,0,0,0,0,4,1,0,0,0,0,0,0,26,1.6,AP ORoY-5
+AllgTy00,Tyler Allgeier,RB,2023,23,ATL,NFL,RB,17,3,4,1,0,0,0,0,0,5,1,0,0,0,0,0,0,32,1.9,
+AllgTy00,Tyler Allgeier,RB,2024,24,ATL,NFL,RB,17,0,3,0,0,0,0,0,0,3,1,0,0,0,0,0,0,20,1.2,
+AllgTy00,Tyler Allgeier,RB,2025,25,ATL,NFL,RB,8,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,24,3.0,

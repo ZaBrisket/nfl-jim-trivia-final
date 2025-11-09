@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MorrSa00,Sammy Morris,RB,2000,23,BUF,NFL,RB,12,8,0,0,0,0,0,0,2,1,0,0,0.0,9,7,2,0,,0,
+MorrSa00,Sammy Morris,RB,2001,24,BUF,NFL,RB,16,1,0,0,0,0,0,0,1,1,0,0,0.0,8,7,1,0,,0,
+MorrSa00,Sammy Morris,RB,2002,25,BUF,NFL,RB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,16,11,5,0,,0,
+MorrSa00,Sammy Morris,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+MorrSa00,Sammy Morris,RB,2004,27,MIA,NFL,RB,13,8,0,0,0,0,0,1,1,0,0,0,0.0,3,3,0,0,,0,
+MorrSa00,Sammy Morris,RB,2005,28,MIA,NFL,RB,16,2,0,0,0,0,0,1,0,0,0,0,0.0,18,12,6,0,,0,
+MorrSa00,Sammy Morris,RB,2006,29,MIA,NFL,RB,12,4,0,0,0,0,0,1,4,1,0,0,0.0,8,8,0,0,0,0,
+MorrSa00,Sammy Morris,RB,2007,30,NWE,NFL,RB,6,2,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,
+MorrSa00,Sammy Morris,RB,2008,31,NWE,NFL,RB,13,7,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+MorrSa00,Sammy Morris,RB,2009,32,NWE,NFL,RB,12,5,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,,,0,
+MorrSa00,Sammy Morris,RB,2010,33,NWE,NFL,RB,16,0,0,0,0,0,0,0,1,0,0,0,0.0,8,6,2,0,0,0,

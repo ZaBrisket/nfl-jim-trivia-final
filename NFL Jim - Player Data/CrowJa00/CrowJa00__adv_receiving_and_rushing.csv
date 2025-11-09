@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+CrowJa00,Jamison Crowder,WR,2018,25,WAS,NFL,WR,9,7,49,29,388,15,177,6.1,211,7.3,9.3,0,,4,8.2,1,89.5,4,30,1,26,6.5,4,1.0,0,,
+CrowJa00,Jamison Crowder,WR,2019,26,NYJ,NFL,WR,16,12,122,78,833,41,475,6.1,358,4.6,7.3,4,19.5,8,6.6,5,83.1,1,4,0,0,0.0,4,4.0,1,1.0,
+CrowJa00,Jamison Crowder,WR,2020,27,NYJ,NFL,WR,12,7,89,59,699,32,372,6.3,327,5.5,7.6,2,29.5,3,3.4,3,98.5,1,14,1,10,10.0,4,4.0,0,,
+CrowJa00,Jamison Crowder,WR,2021,28,NYJ,NFL,WR,12,4,71,51,447,24,271,5.3,176,3.5,6.2,0,,2,2.8,2,85.8,0,0,0,0,,0,,0,,
+CrowJa00,Jamison Crowder,WR,2022,29,BUF,NFL,WR,4,0,13,6,60,4,30,5.0,30,5.0,9.3,0,,0,0.0,1,27.7,0,0,0,0,,0,,0,,
+CrowJa00,Jamison Crowder,WR,2023,30,WAS,NFL,WR,17,0,20,16,159,8,79,4.9,80,5.0,6.1,2,8.0,1,5.0,0,116.5,0,0,0,0,,0,,0,,
+CrowJa00,Jamison Crowder,WR,2024,31,WAS,NFL,WR,6,1,13,9,72,4,61,6.8,11,1.2,8.3,0,,0,0.0,1,90.4,0,0,0,0,,0,,0,,

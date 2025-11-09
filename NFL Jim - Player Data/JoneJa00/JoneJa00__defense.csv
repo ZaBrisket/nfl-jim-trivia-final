@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+JoneJa00,James Jones,FB,1983,22,DET,NFL,FB,14,14,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1984,23,DET,NFL,FB,16,16,0,0,0,0,0,6,3,-21,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1985,24,DET,NFL,FB,14,13,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1986,25,DET,NFL,FB,16,16,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1987,26,DET,NFL,FB,11,11,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1988,27,DET,NFL,FB,14,14,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,,,,,,,,,,,,,,,,,,,,,,
+JoneJa00,James Jones,FB,1991,30,SEA,NFL,RB,16,6,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+JoneJa00,James Jones,FB,1992,31,SEA,NFL,FB,16,1,0,0,0,0,1,0,1,0,0,0.0,0,0,0,0,

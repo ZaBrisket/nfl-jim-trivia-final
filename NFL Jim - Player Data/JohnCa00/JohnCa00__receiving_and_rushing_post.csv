@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JohnCa00,Calvin Johnson,WR,2011,26,DET,NFL,WR,1,1,15,12,211,17.6,2,10,80.0,42,12.0,211.0,80.0,14.1,0,0,0,0,0.0,0.0,12,17.6,211,2,0,
+JohnCa00,Calvin Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnCa00,Calvin Johnson,WR,2014,29,DET,NFL,WR,1,1,8,5,85,17.0,0,4,62.5,28,5.0,85.0,62.5,10.6,0,0,0,0,0.0,0.0,5,17.0,85,0,0,

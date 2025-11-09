@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ShahRa00,Rashid Shaheed,WR,2022,24,NOR,WR,89,12,6,298,42%,0,0%,106,36%
+ShahRa00,Rashid Shaheed,WR,2023*+,25,NOR,WR,22,15,8,604,58%,0,0%,133,32%
+ShahRa00,Rashid Shaheed,WR,2024,26,NOR,WR,22,6,5,286,76%,0,0%,46,28%
+ShahRa00,Rashid Shaheed,WR,2025,27,NOR,WR,22,9,9,426,74%,0,0%,32,14%

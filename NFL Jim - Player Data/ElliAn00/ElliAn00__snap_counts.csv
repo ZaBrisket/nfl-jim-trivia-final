@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ElliAn00,Andre Ellington,RB,2013,24,ARI,RB,38,15,1,405,40%,0,0%,5,1%
+ElliAn00,Andre Ellington,RB,2014,25,ARI,RB,38,12,12,528,68%,0,0%,0,0%
+ElliAn00,Andre Ellington,RB,2015,26,ARI,RB,38,10,2,213,32%,0,0%,0,0%
+ElliAn00,Andre Ellington,RB,2016,27,ARI,RB,38,16,0,150,13%,0,0%,74,16%
+ElliAn00,Andre Ellington,RB,2017,28,2TM,RB,,12,2,315,,0,,0,
+ElliAn00,Andre Ellington,RB,,,ARI,RB,38,8,0,246,42%,0,0%,0,0%
+ElliAn00,Andre Ellington,RB,,,,,,,,69,27%,0,0%,0,0%

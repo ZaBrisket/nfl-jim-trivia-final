@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BookDe00,Devontae Booker,RB,2016,24,DEN,RB,23,16,6,493,46%,0,0%,0,0%
+BookDe00,Devontae Booker,RB,2017,25,DEN,RB,23,13,0,291,32%,0,0%,131,36%
+BookDe00,Devontae Booker,RB,2018,26,DEN,RB,23,16,0,316,29%,0,0%,125,28%
+BookDe00,Devontae Booker,RB,2019,27,DEN,RB,23,16,0,26,3%,0,0%,195,45%
+BookDe00,Devontae Booker,RB,2020,28,LVR,RB,23,16,1,238,22%,0,0%,82,18%
+BookDe00,Devontae Booker,RB,2021,29,NYG,RB,28,16,4,519,50%,0,0%,67,16%

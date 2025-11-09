@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PickGe00,George Pickens,WR,2022,21,PIT,WR,14,17,12,882,76%,0,0%,3,1%
+PickGe00,George Pickens,WR,2023,22,PIT,WR,14,17,16,929,87%,0,0%,4,1%
+PickGe00,George Pickens,WR,2024,23,PIT,WR,14,14,12,774,81%,0,0%,2,1%
+PickGe00,George Pickens,WR,2025,24,DAL,WR,3,9,9,527,86%,0,0%,2,1%

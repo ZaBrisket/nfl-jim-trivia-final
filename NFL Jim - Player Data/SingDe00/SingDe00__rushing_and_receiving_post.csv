@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SingDe00,Devin Singletary,RB,2019,22,BUF,NFL,RB,1,1,13,58,0,2,61.5,18,4.5,58.0,13.0,7,6,76,12.7,0,4,71.4,38,6.0,76.0,85.7,10.9,19,7.1,134,0,0,
+SingDe00,Devin Singletary,RB,2020,23,BUF,NFL,RB,3,2,16,63,0,3,31.3,13,3.9,21.0,5.3,9,8,44,5.5,0,1,33.3,14,2.7,14.7,88.9,4.9,24,4.5,107,0,0,
+SingDe00,Devin Singletary,RB,2021,24,BUF,NFL,RB,2,2,26,107,3,11,65.4,16,4.1,53.5,13.0,9,7,38,5.4,0,3,55.6,15,3.5,19.0,77.8,4.2,33,4.4,145,3,0,
+SingDe00,Devin Singletary,RB,2022,25,BUF,NFL,RB,2,2,16,73,0,6,50.0,13,4.6,36.5,8.0,8,5,37,7.4,0,1,37.5,16,2.5,18.5,62.5,4.6,21,5.2,110,0,0,
+SingDe00,Devin Singletary,RB,2023,26,HOU,NFL,RB,2,2,22,88,1,4,27.3,29,4.0,44.0,11.0,9,8,52,6.5,0,2,44.4,26,4.0,26.0,88.9,5.8,30,4.7,140,1,0,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+HartJi00,Jim Hart,QB,1974,30,STL,NFL,QB,1,1,0-1-0,18,40,45.0,200,1,2.5,1,2.5,,29,5.0,4.38,11.1,200.0,58.3,2,16,4.76,4.38,3.79,0,0,
+HartJi00,Jim Hart,QB,1975,31,STL,NFL,QB,1,1,0-1-0,22,41,53.7,291,1,2.4,3,7.3,,34,7.1,4.29,13.2,291.0,54.0,2,23,4.65,6.23,3.56,0,0,
+HartJi00,Jim Hart,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HartJi00,Jim Hart,QB,1982,38,STL,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,0.0,,,,,,,0,0,

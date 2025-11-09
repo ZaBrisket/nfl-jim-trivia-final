@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnRu00,Rudi Johnson,RB,2001,22,CIN,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+JohnRu00,Rudi Johnson,RB,2002,23,CIN,NFL,RB,7,0,17,67,0,6,47.1,13,3.9,9.6,2.4,10,6,34,5.7,0,2,30.0,14,0.9,4.9,60.0,3.4,23,4.4,101,0,0,1,
+JohnRu00,Rudi Johnson,RB,2003,24,CIN,NFL,RB,13,5,215,957,9,51,46.0,54,4.5,73.6,16.5,23,21,146,7.0,0,9,56.5,17,1.6,11.2,91.3,6.3,236,4.7,1103,9,0,9,
+JohnRu00,Rudi Johnson,RB,2004,25,CIN,NFL,RB,16,16,361,1454,12,74,46.0,52,4.0,90.9,22.6,28,15,84,5.6,0,2,17.9,30,0.9,5.3,53.6,3.0,376,4.1,1538,12,4,10,PB
+JohnRu00,Rudi Johnson,RB,2005,26,CIN,NFL,RB,16,14,337,1458,12,80,50.1,33,4.3,91.1,21.1,30,23,90,3.9,0,2,23.3,15,1.4,5.6,76.7,3.0,360,4.3,1548,12,1,14,
+JohnRu00,Rudi Johnson,RB,2006,27,CIN,NFL,RB,16,15,341,1309,12,70,42.5,22,3.8,81.8,21.3,31,23,124,5.4,0,5,48.4,18,1.4,7.8,74.2,4.0,364,3.9,1433,12,6,10,
+JohnRu00,Rudi Johnson,RB,2007,28,CIN,NFL,RB,11,9,170,497,3,27,40.0,22,2.9,45.2,15.5,15,13,110,8.5,1,3,53.3,33,1.2,10.0,86.7,7.3,183,3.3,607,4,3,5,
+JohnRu00,Rudi Johnson,RB,2008,29,DET,NFL,RB,14,4,76,237,1,11,28.9,27,3.1,16.9,5.4,14,12,88,7.3,1,4,42.9,34,0.9,6.3,85.7,6.3,88,3.7,325,2,1,2,

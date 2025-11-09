@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DaniOw00,Owen Daniels,TE,2006,24,HOU,NFL,TE,14,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,
+DaniOw00,Owen Daniels,TE,2007,25,HOU,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+DaniOw00,Owen Daniels,TE,2008,26,HOU,NFL,TE,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,PB
+DaniOw00,Owen Daniels,TE,2009,27,HOU,NFL,TE,8,8,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,3.8,
+DaniOw00,Owen Daniels,TE,2010,28,HOU,NFL,TE,11,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+DaniOw00,Owen Daniels,TE,2011,29,HOU,NFL,TE,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+DaniOw00,Owen Daniels,TE,2012,30,HOU,NFL,TE,15,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,PB
+DaniOw00,Owen Daniels,TE,2013,31,HOU,NFL,TE,5,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,3.6,
+DaniOw00,Owen Daniels,TE,2014,32,BAL,NFL,TE,15,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+DaniOw00,Owen Daniels,TE,2015,33,DEN,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,

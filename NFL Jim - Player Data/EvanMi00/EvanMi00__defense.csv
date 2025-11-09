@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+EvanMi00,Mike Evans,WR,2015,22,TAM,NFL,WR,15,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+EvanMi00,Mike Evans,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+EvanMi00,Mike Evans,WR,2017,24,TAM,NFL,WR,15,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+EvanMi00,Mike Evans,WR,2018,25,TAM,NFL,WR,16,16,0,0,0,0,0,0,2,2,-3,1,0.0,0,0,0,0,0,0,PB
+EvanMi00,Mike Evans,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+EvanMi00,Mike Evans,WR,2021,28,TAM,NFL,WR,16,16,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,PB
+EvanMi00,Mike Evans,WR,2022,29,TAM,NFL,WR,15,15,0,0,0,0,0,0,0,0,0,0,0.0,4,4,0,0,0,0,
+EvanMi00,Mike Evans,WR,2023,30,TAM,NFL,WR,17,17,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+EvanMi00,Mike Evans,WR,2024,31,TAM,NFL,WR,14,14,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,PB

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WillJa06,Jamaal Williams,RB,2018,23,GNB,NFL,RB,16,8,0,0,0,0,4,95,0,30,23.8,769,
+WillJa06,Jamaal Williams,RB,2019,24,GNB,NFL,RB,14,2,0,0,0,0,1,9,0,9,9.0,722,
+WillJa06,Jamaal Williams,RB,2020,25,GNB,NFL,RB,14,3,0,0,0,0,1,20,0,20,20.0,761,
+WillJa06,Jamaal Williams,RB,,,,,,,,,,,,,,,,,,
+WillJa06,Jamaal Williams,RB,2024,29,NOR,NFL,RB,14,1,0,0,0,0,11,288,0,32,26.2,509,

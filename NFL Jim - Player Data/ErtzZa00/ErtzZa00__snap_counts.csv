@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ErtzZa00,Zach Ertz,TE,2013,23,PHI,TE,86,16,3,450,41%,0,0%,167,35%
+ErtzZa00,Zach Ertz,TE,2014,24,PHI,TE,86,16,5,588,50%,0,0%,210,41%
+ErtzZa00,Zach Ertz,TE,2015,25,PHI,TE,86,15,7,789,72%,0,0%,83,18%
+ErtzZa00,Zach Ertz,TE,2016,26,PHI,TE,86,14,12,849,85%,0,0%,137,36%
+ErtzZa00,Zach Ertz,TE,2017*,27,PHI,TE,86,14,13,776,80%,0,0%,83,22%
+ErtzZa00,Zach Ertz,TE,2018*,28,PHI,TE,86,16,16,1000,92%,0,0%,2,1%
+ErtzZa00,Zach Ertz,TE,2019*,29,PHI,TE,86,15,15,932,86%,0,0%,3,1%
+ErtzZa00,Zach Ertz,TE,2020,30,PHI,TE,86,11,11,635,82%,0,0%,10,3%
+ErtzZa00,Zach Ertz,TE,2021,31,2TM,TE,,17,14,849,,0,,1,
+ErtzZa00,Zach Ertz,TE,,,PHI,TE,86,6,3,231,61%,0,0%,0,0%
+ErtzZa00,Zach Ertz,TE,,,,,,,,618,81%,0,0%,1,0%
+ErtzZa00,Zach Ertz,TE,2022,32,ARI,TE,86,10,10,575,79%,0,0%,3,1%
+ErtzZa00,Zach Ertz,TE,2023,33,ARI,TE,86,7,7,295,64%,0,0%,0,0%
+ErtzZa00,Zach Ertz,TE,2024,34,WAS,TE,86,17,17,771,66%,0,0%,2,0%
+ErtzZa00,Zach Ertz,TE,2025,35,WAS,TE,86,9,9,361,64%,0,0%,1,0%

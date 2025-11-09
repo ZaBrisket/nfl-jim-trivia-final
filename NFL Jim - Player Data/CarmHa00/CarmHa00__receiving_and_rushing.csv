@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CarmHa00,Harold Carmichael,WR,1971,22,PHI,NFL,TE,9,6,,20,288,14.4,0,,,50,2.2,32.0,,,0,0,0,,,,,0.0,0.0,20,14.4,288,0,2,3,
+CarmHa00,Harold Carmichael,WR,1972,23,PHI,NFL,WR,13,2,,20,276,13.8,2,,,54,1.5,21.2,,,0,0,0,,,,,0.0,0.0,20,13.8,276,2,1,2,
+CarmHa00,Harold Carmichael,WR,1973,24,PHI,NFL,WR,14,14,,67,1116,16.7,9,,,73,4.8,79.7,,,3,42,0,,,23,14.0,3.0,0.2,70,16.5,1158,9,3,14,PB
+CarmHa00,Harold Carmichael,WR,1974,25,PHI,NFL,WR,14,14,,56,649,11.6,8,,,39,4.0,46.4,,,2,-6,0,,,-1,-3.0,-0.4,0.1,58,11.1,643,8,1,8,
+CarmHa00,Harold Carmichael,WR,1975,26,PHI,NFL,WR,14,13,,49,639,13.0,7,,,62,3.5,45.6,,,1,6,0,,,6,6.0,0.4,0.1,50,12.9,645,7,2,6,
+CarmHa00,Harold Carmichael,WR,1976,27,PHI,NFL,WR,14,14,,42,503,12.0,5,,,24,3.0,35.9,,,0,0,0,,,,,0.0,0.0,42,12.0,503,5,0,5,
+CarmHa00,Harold Carmichael,WR,1977,28,PHI,NFL,WR,14,14,,46,665,14.5,7,,,50,3.3,47.5,,,0,0,0,,,,,0.0,0.0,46,14.5,665,7,0,8,
+CarmHa00,Harold Carmichael,WR,1978,29,PHI,NFL,WR,16,16,104,55,1072,19.5,8,45,50.0,56,3.4,67.0,52.9,10.3,1,21,0,1,100.0,21,21.0,1.3,0.1,56,19.5,1093,8,1,12,PB
+CarmHa00,Harold Carmichael,WR,1979,30,PHI,NFL,WR,16,16,105,52,872,16.8,11,45,44.8,50,3.3,54.5,49.5,8.3,1,0,0,0,0.0,,0.0,0.0,0.1,53,16.5,872,11,0,10,"PB,AP-2,AP MVP-6"
+CarmHa00,Harold Carmichael,WR,1980,31,PHI,NFL,WR,16,16,107,48,815,17.0,9,38,42.1,56,3.0,50.9,44.9,7.6,0,0,0,0,,,,0.0,0.0,48,17.0,815,9,1,9,PB
+CarmHa00,Harold Carmichael,WR,1981,32,PHI,NFL,WR,16,16,105,61,1028,16.9,6,42,54.3,85,3.8,64.3,58.1,9.8,1,1,0,0,0.0,1,1.0,0.1,0.1,62,16.6,1029,6,3,11,
+CarmHa00,Harold Carmichael,WR,1982,33,PHI,NFL,WR,9,8,54,35,540,15.4,4,28,63.0,46,3.9,60.0,64.8,10.0,0,0,0,0,,,,0.0,0.0,35,15.4,540,4,3,9,
+CarmHa00,Harold Carmichael,WR,1983,34,PHI,NFL,WR,15,11,69,38,515,13.6,3,26,52.2,35,2.5,34.3,55.1,7.5,0,0,0,0,,,,0.0,0.0,38,13.6,515,3,0,4,
+CarmHa00,Harold Carmichael,WR,1984,35,DAL,NFL,WR,2,0,2,1,7,7.0,0,0,0.0,7,0.5,3.5,50.0,3.5,0,0,0,0,,,,0.0,0.0,1,7.0,7,0,0,0,

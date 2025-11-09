@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+KittGe00,George Kittle,TE,2019,26,SFO,NFL,TE,3,3,13,8,71,4,17,2.1,54,6.8,3.5,0,,1,7.7,0,76.1,0,0,0,0,,0,,0,
+KittGe00,George Kittle,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KittGe00,George Kittle,TE,2021,28,SFO,NFL,TE,3,3,14,7,108,7,69,9.9,39,5.6,10.1,0,,1,7.1,1,69.9,0,0,0,0,,0,,0,
+KittGe00,George Kittle,TE,2022,29,SFO,NFL,TE,3,3,11,10,164,7,110,11.0,54,5.4,9.9,0,,0,0.0,0,118.7,1,4,0,0,0.0,4,4.0,0,
+KittGe00,George Kittle,TE,2023,30,SFO,NFL,TE,3,3,13,8,112,4,56,7.0,56,7.0,11.0,2,4.0,1,7.7,0,114.9,0,0,0,0,,0,,0,

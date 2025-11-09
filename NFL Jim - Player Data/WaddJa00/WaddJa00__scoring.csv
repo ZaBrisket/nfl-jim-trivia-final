@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WaddJa00,Jaylen Waddle,WR,2021,23,MIA,NFL,WR,16,16,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.6,
+WaddJa00,Jaylen Waddle,WR,2022,24,MIA,NFL,WR,17,17,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,
+WaddJa00,Jaylen Waddle,WR,2023,25,MIA,NFL,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.7,
+WaddJa00,Jaylen Waddle,WR,2024,26,MIA,NFL,WR,15,15,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,16,1.1,
+WaddJa00,Jaylen Waddle,WR,2025,27,MIA,NFL,WR,9,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,2.7,

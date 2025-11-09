@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FergJa00,Jake Ferguson,TE,2022,23,DAL,TE,48,16,8,430,40%,0,0%,125,28%
+FergJa00,Jake Ferguson,TE,2023*,24,DAL,TE,87,17,16,880,74%,0,0%,1,0%
+FergJa00,Jake Ferguson,TE,2024,25,DAL,TE,87,14,14,616,64%,0,0%,0,0%
+FergJa00,Jake Ferguson,TE,2025,26,DAL,TE,87,9,6,426,69%,0,0%,2,1%

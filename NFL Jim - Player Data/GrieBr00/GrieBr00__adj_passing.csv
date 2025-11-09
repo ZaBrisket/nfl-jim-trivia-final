@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GrieBr00,Brian Griese,QB,1999,24,DEN,NFL,QB,14,13,99,102,98,100,101,91,103,108,97,
+GrieBr00,Brian Griese,QB,2000,25,DEN,NFL,QB,10,10,123,125,134,135,125,121,134,113,135,PB
+GrieBr00,Brian Griese,QB,2001,26,DEN,NFL,QB,15,15,91,89,90,89,107,116,84,94,99,
+GrieBr00,Brian Griese,QB,2002,27,DEN,NFL,QB,13,13,115,110,107,104,127,93,96,95,110,
+GrieBr00,Brian Griese,QB,2003,28,MIA,NFL,QB,5,5,90,85,84,81,92,97,75,87,85,
+GrieBr00,Brian Griese,QB,2004,29,TAM,NFL,QB,11,10,118,114,115,112,133,122,93,96,121,AP CPoY-7
+GrieBr00,Brian Griese,QB,2005,30,TAM,NFL,QB,6,6,94,95,91,92,115,99,85,102,98,
+GrieBr00,Brian Griese,QB,,,,,,,,,,,,,,,,,
+GrieBr00,Brian Griese,QB,2007,32,CHI,NFL,QB,7,6,100,101,90,92,103,98,76,105,91,
+GrieBr00,Brian Griese,QB,2008,33,TAM,NFL,QB,5,5,79,84,79,82,96,85,88,109,84,

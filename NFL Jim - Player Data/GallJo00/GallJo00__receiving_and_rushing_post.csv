@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GallJo00,Joey Galloway,WR,1999,28,SEA,NFL,WR,1,0,7,1,22,22.0,0,1,14.3,22,1.0,22.0,14.3,3.1,0,0,0,0,,,,0.0,0.0,1,22.0,22,0,0,
+GallJo00,Joey Galloway,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GallJo00,Joey Galloway,WR,2003,32,DAL,NFL,WR,1,1,8,4,59,14.8,0,2,50.0,28,4.0,59.0,50.0,7.4,0,0,0,0,,,,0.0,0.0,4,14.8,59,0,0,
+GallJo00,Joey Galloway,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GallJo00,Joey Galloway,WR,2005,34,TAM,NFL,WR,1,1,11,7,69,9.9,0,4,54.5,24,7.0,69.0,63.6,6.3,0,0,0,0,,,,0.0,0.0,7,9.9,69,0,0,
+GallJo00,Joey Galloway,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GallJo00,Joey Galloway,WR,2007,36,TAM,NFL,WR,1,1,8,1,9,9.0,0,1,12.5,9,1.0,9.0,12.5,1.1,1,-4,0,0,0.0,-4,-4.0,-4.0,1.0,2,2.5,5,0,0,

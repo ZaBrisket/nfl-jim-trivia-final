@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ToonAl00,Al Toon,WR,1985,22,NYJ,NFL,WR,15,8,71,46,662,14.4,3,29,54.9,78,3.1,44.1,64.8,9.3,1,5,0,0,0.0,5,5.0,0.3,0.1,47,14.2,667,3,0,7,
+ToonAl00,Al Toon,WR,1986,23,NYJ,NFL,WR,16,16,137,85,1176,13.8,8,52,52.6,62,5.3,73.5,62.0,8.6,2,-3,0,0,0.0,2,-1.5,-0.2,0.1,87,13.5,1173,8,3,12,"PB,AP-1"
+ToonAl00,Al Toon,WR,1987,24,NYJ,NFL,WR,12,11,98,68,976,14.4,5,45,63.3,58,5.7,81.3,69.4,10.0,0,0,0,0,,,,0.0,0.0,68,14.4,976,5,0,10,PB
+ToonAl00,Al Toon,WR,1988,25,NYJ,NFL,WR,15,15,157,93,1067,11.5,5,61,51.6,42,6.2,71.1,59.2,6.8,1,5,0,0,0.0,5,5.0,0.3,0.1,94,11.4,1072,5,2,11,"PB,AP-2"
+ToonAl00,Al Toon,WR,1989,26,NYJ,NFL,WR,11,10,88,63,693,11.0,2,40,62.5,37,5.7,63.0,71.6,7.9,0,0,0,0,,,,0.0,0.0,63,11.0,693,2,0,4,
+ToonAl00,Al Toon,WR,1990,27,NYJ,NFL,WR,14,12,100,57,757,13.3,6,39,53.0,46,4.1,54.1,57.0,7.6,0,0,0,0,,,,0.0,0.0,57,13.3,757,6,0,8,
+ToonAl00,Al Toon,WR,1991,28,NYJ,NFL,WR,15,15,117,74,963,13.0,0,45,55.6,32,4.9,64.2,63.2,8.2,0,0,0,0,,,,0.0,0.0,74,13.0,963,0,0,10,
+ToonAl00,Al Toon,WR,1992,29,NYJ,NFL,WR,9,8,59,31,311,10.0,2,16,40.7,32,3.4,34.6,52.5,5.3,0,0,0,0,,,,0.0,0.0,31,10.0,311,2,0,2,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WrigKe01,Kendall Wright,WR,2012,23,TEN,NFL,WR,15,5,104,64,626,9.8,4,38,49.0,38,4.3,41.7,61.5,6.0,1,4,0,0,100.0,4,4.0,0.3,0.1,65,9.7,630,4,1,5,
+WrigKe01,Kendall Wright,WR,2013,24,TEN,NFL,WR,16,12,139,94,1079,11.5,2,55,52.5,45,5.9,67.4,67.6,7.8,0,0,0,0,,,,0.0,0.0,94,11.5,1079,2,2,9,
+WrigKe01,Kendall Wright,WR,2014,25,TEN,NFL,WR,14,11,93,57,715,12.5,6,32,44.1,48,4.1,51.1,61.3,7.7,4,54,0,2,50.0,38,13.5,3.9,0.3,61,12.6,769,6,1,5,
+WrigKe01,Kendall Wright,WR,2015,26,TEN,NFL,WR,10,9,60,36,408,11.3,3,21,46.7,52,3.6,40.8,60.0,6.8,5,17,0,1,40.0,13,3.4,1.7,0.5,41,10.4,425,3,0,3,
+WrigKe01,Kendall Wright,WR,2016,27,TEN,NFL,WR,11,4,42,29,416,14.3,3,18,54.8,48,2.6,37.8,69.0,9.9,1,15,0,1,100.0,15,15.0,1.4,0.1,30,14.4,431,3,0,4,
+WrigKe01,Kendall Wright,WR,2017,28,CHI,NFL,WR,16,4,91,59,614,10.4,1,33,48.4,22,3.7,38.4,64.8,6.7,0,0,0,0,,,,0.0,0.0,59,10.4,614,1,0,5,

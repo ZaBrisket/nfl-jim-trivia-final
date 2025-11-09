@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ButlJe00,Jerry Butler,WR,1979,22,BUF,NFL,WR,13,13,85,48,834,17.4,4,32,47.1,75,3.7,64.2,56.5,9.8,2,13,0,1,50.0,12,6.5,1.0,0.2,50,16.9,847,4,1,6,
+ButlJe00,Jerry Butler,WR,1980,23,BUF,NFL,WR,16,16,103,57,832,14.6,6,37,46.6,69,3.6,52.0,55.3,8.1,1,18,0,1,100.0,18,18.0,1.1,0.1,58,14.7,850,6,0,9,PB
+ButlJe00,Jerry Butler,WR,1981,24,BUF,NFL,WR,16,16,114,55,842,15.3,8,34,44.7,67,3.4,52.6,48.2,7.4,1,1,0,0,0.0,1,1.0,0.1,0.1,56,15.1,843,8,2,8,
+ButlJe00,Jerry Butler,WR,1982,25,BUF,NFL,WR,7,7,47,26,336,12.9,4,18,48.9,47,3.7,48.0,55.3,7.1,0,0,0,0,,,,0.0,0.0,26,12.9,336,4,0,5,
+ButlJe00,Jerry Butler,WR,1983,26,BUF,NFL,WR,9,9,58,36,385,10.7,3,23,44.8,25,4.0,42.8,62.1,6.6,0,0,0,0,,,,0.0,0.0,36,10.7,385,3,1,3,
+ButlJe00,Jerry Butler,WR,1984,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ButlJe00,Jerry Butler,WR,1985,28,BUF,NFL,WR,16,13,87,41,770,18.8,2,34,46.0,60,2.6,48.1,47.1,8.9,0,0,0,0,,,,0.0,0.0,41,18.8,770,2,0,5,
+ButlJe00,Jerry Butler,WR,1986,29,BUF,NFL,WR,11,6,28,15,302,20.1,2,13,53.6,53,1.4,27.5,53.6,10.8,0,0,0,0,,,,0.0,0.0,15,20.1,302,2,0,3,

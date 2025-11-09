@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ChanWe00,Wes Chandler,WR,1978,22,NOR,NFL,WR,16,5,34,233,0,32,6.9,32,760,0,38,23.8,1475,
+ChanWe00,Wes Chandler,WR,1979,23,NOR,NFL,WR,16,16,3,13,0,8,4.3,7,136,0,37,19.4,1218,PB
+ChanWe00,Wes Chandler,WR,1980,24,NOR,NFL,WR,16,16,8,36,0,11,4.5,0,0,0,0,,1020,
+ChanWe00,Wes Chandler,WR,1981,25,2TM,NFL,WR,16,15,5,79,0,30,15.8,8,125,0,30,15.6,1396,
+ChanWe00,Wes Chandler,WR,1981,25,SDG,NFL,WR,12,11,5,79,0,30,15.8,8,125,0,30,15.6,1060,
+ChanWe00,Wes Chandler,WR,,,,,,,,,,,,,,,,,,,
+ChanWe00,Wes Chandler,WR,1983,27,SDG,NFL,WR,16,14,8,26,0,11,3.3,0,0,0,0,,896,PB
+ChanWe00,Wes Chandler,WR,,,,,,,,,,,,,,,,,,,
+ChanWe00,Wes Chandler,WR,1986,30,SDG,NFL,WR,16,14,3,13,0,10,4.3,1,11,0,11,11.0,898,
+ChanWe00,Wes Chandler,WR,,,,,,,,,,,,,,,,,,,
+ChanWe00,Wes Chandler,WR,1988,32,SFO,NFL,WR,4,4,6,28,0,13,4.7,0,0,0,0,,61,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BritKe00,Kenny Britt,WR,2009,21,TEN,NFL,WR,16,6,75,42,701,16.7,3,34,50.7,57,2.6,43.8,56.0,9.3,0,0,0,0,,,,0.0,0.0,42,16.7,701,3,1,7,
+BritKe00,Kenny Britt,WR,2010,22,TEN,NFL,WR,12,7,73,42,775,18.5,9,33,53.4,80,3.5,64.6,57.5,10.6,0,0,0,0,,,,0.0,0.0,42,18.5,775,9,1,8,
+BritKe00,Kenny Britt,WR,2011,23,TEN,NFL,WR,3,3,26,17,289,17.0,3,14,61.5,80,5.7,96.3,65.4,11.1,0,0,0,0,,,,0.0,0.0,17,17.0,289,3,1,2,
+BritKe00,Kenny Britt,WR,2012,24,TEN,NFL,WR,14,11,90,45,589,13.1,4,25,41.1,46,3.2,42.1,50.0,6.5,0,0,0,0,,,,0.0,0.0,45,13.1,589,4,2,4,
+BritKe00,Kenny Britt,WR,2013,25,TEN,NFL,WR,12,3,35,11,96,8.7,0,5,31.4,15,0.9,8.0,31.4,2.7,0,0,0,0,,,,0.0,0.0,11,8.7,96,0,0,1,
+BritKe00,Kenny Britt,WR,2014,26,STL,NFL,WR,16,13,84,48,748,15.6,3,33,50.0,63,3.0,46.8,57.1,8.9,2,14,0,1,50.0,12,7.0,0.9,0.1,50,15.2,762,3,0,6,
+BritKe00,Kenny Britt,WR,2015,27,STL,NFL,WR,16,14,72,36,681,18.9,3,29,44.4,60,2.3,42.6,50.0,9.5,0,0,0,0,,,,0.0,0.0,36,18.9,681,3,0,5,
+BritKe00,Kenny Britt,WR,2016,28,LAR,NFL,WR,15,15,111,68,1002,14.7,5,47,51.4,66,4.5,66.8,61.3,9.0,0,0,0,0,,,,0.0,0.0,68,14.7,1002,5,2,6,
+BritKe00,Kenny Britt,WR,2017,29,2TM,NFL,WR,12,4,43,20,256,12.8,2,10,32.6,38,1.7,21.3,46.5,6.0,0,0,0,0,,,,0.0,0.0,20,12.8,256,2,0,1,
+BritKe00,Kenny Britt,WR,2017,29,CLE,NFL,WR,9,4,38,18,233,12.9,2,9,31.6,38,2.0,25.9,47.4,6.1,0,0,0,0,,,,0.0,0.0,18,12.9,233,2,0,1,
+BritKe00,Kenny Britt,WR,2017,29,NWE,NFL,WR,3,0,5,2,23,11.5,0,1,40.0,16,0.7,7.7,40.0,4.6,0,0,0,0,,,,0.0,0.0,2,11.5,23,0,0,0,

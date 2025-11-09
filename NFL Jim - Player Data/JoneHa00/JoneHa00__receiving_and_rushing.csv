@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneHa00,Hassan Jones,WR,1986,22,MIN,NFL,WR,16,6,54,28,570,20.4,4,20,44.4,55,1.8,35.6,51.9,10.6,1,14,0,1,100.0,14,14.0,0.9,0.1,29,20.1,584,4,1,6,
+JoneHa00,Hassan Jones,WR,1987,23,MIN,NFL,WR,12,0,19,7,189,27.0,2,7,36.8,58,0.6,15.8,36.8,9.9,0,0,0,0,,,,0.0,0.0,7,27.0,189,2,0,2,
+JoneHa00,Hassan Jones,WR,1988,24,MIN,NFL,WR,16,15,73,40,778,19.5,5,34,54.8,68,2.5,48.6,54.8,10.7,1,7,0,0,100.0,7,7.0,0.4,0.1,41,19.1,785,5,0,7,
+JoneHa00,Hassan Jones,WR,1989,25,MIN,NFL,WR,16,13,88,42,694,16.5,1,26,39.8,50,2.6,43.4,47.7,7.9,1,37,0,1,100.0,37,37.0,2.3,0.1,43,17.0,731,1,2,6,
+JoneHa00,Hassan Jones,WR,1990,26,MIN,NFL,WR,15,10,96,51,810,15.9,7,41,47.9,75,3.4,54.0,53.1,8.4,1,-7,0,0,0.0,-7,-7.0,-0.5,0.1,52,15.4,803,7,0,7,
+JoneHa00,Hassan Jones,WR,1991,27,MIN,NFL,WR,16,7,68,32,384,12.0,1,21,44.1,43,2.0,24.0,47.1,5.6,0,0,0,0,,,,0.0,0.0,32,12.0,384,1,1,4,
+JoneHa00,Hassan Jones,WR,1992,28,MIN,NFL,WR,9,5,48,22,308,14.0,4,20,41.7,43,2.4,34.2,45.8,6.4,1,1,0,0,0.0,1,1.0,0.1,0.1,23,13.4,309,4,0,3,
+JoneHa00,Hassan Jones,WR,1993,29,KAN,NFL,WR,8,0,13,7,91,13.0,0,7,53.8,22,0.9,11.4,53.8,7.0,0,0,0,0,,,,0.0,0.0,7,13.0,91,0,0,1,

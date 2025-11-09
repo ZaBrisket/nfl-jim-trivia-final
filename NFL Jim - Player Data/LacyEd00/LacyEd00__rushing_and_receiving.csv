@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LacyEd00,Eddie Lacy,RB,2013,23,GNB,NFL,RB,15,15,284,1178,11,63,44.4,60,4.1,78.5,18.9,44,35,257,7.3,0,12,50.0,34,2.3,17.1,79.5,5.8,319,4.5,1435,11,1,10,"PB,AP-2,AP ORoY-1"
+LacyEd00,Eddie Lacy,RB,2014,24,GNB,NFL,RB,16,16,246,1139,9,60,45.9,44,4.6,71.2,15.4,55,42,427,10.2,4,18,52.7,67,2.6,26.7,76.4,7.8,288,5.4,1566,13,3,16,
+LacyEd00,Eddie Lacy,RB,2015,25,GNB,NFL,RB,15,12,187,758,3,39,47.1,29,4.1,50.5,12.5,28,20,188,9.4,2,7,46.4,28,1.3,12.5,71.4,6.7,207,4.6,946,5,4,7,
+LacyEd00,Eddie Lacy,RB,2016,26,GNB,NFL,RB,5,5,71,360,0,15,49.3,31,5.1,72.0,14.2,7,4,28,7.0,0,1,14.3,17,0.8,5.6,57.1,4.0,75,5.2,388,0,0,3,
+LacyEd00,Eddie Lacy,RB,2017,27,SEA,NFL,RB,9,3,69,179,0,7,29.0,19,2.6,19.9,7.7,6,6,47,7.8,0,2,50.0,14,0.7,5.2,100.0,7.8,75,3.0,226,0,0,2,

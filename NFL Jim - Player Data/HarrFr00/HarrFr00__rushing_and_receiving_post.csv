@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HarrFr00,Franco Harris,RB,1972,22,PIT,NFL,RB,2,2,34,140,0,,,14,4.1,70.0,17.0,,7,99,14.1,1,,,60,3.5,49.5,,,41,5.8,239,1,0,
+HarrFr00,Franco Harris,RB,1973,23,PIT,NFL,FB,1,1,10,29,0,,,8,2.9,29.0,10.0,,0,0,,0,,,,0.0,0.0,,,10,2.9,29,0,0,
+HarrFr00,Franco Harris,RB,1974,24,PIT,NFL,FB,3,3,87,343,6,,,25,3.9,114.3,29.0,,1,5,5.0,0,,,5,0.3,1.7,,,88,4.0,348,6,2,SB MVP
+HarrFr00,Franco Harris,RB,1975,25,PIT,NFL,FB,3,3,81,314,2,,,25,3.9,104.7,27.0,,6,84,14.0,0,,,26,2.0,28.0,,,87,4.6,398,2,4,
+HarrFr00,Franco Harris,RB,1976,26,PIT,NFL,FB,1,1,18,132,0,,,50,7.3,132.0,18.0,,3,24,8.0,0,,,15,3.0,24.0,,,21,7.4,156,0,0,
+HarrFr00,Franco Harris,RB,1977,27,PIT,NFL,FB,1,1,28,92,1,,,20,3.3,92.0,28.0,,4,20,5.0,0,,,12,4.0,20.0,,,32,3.5,112,1,1,
+HarrFr00,Franco Harris,RB,1978,28,PIT,NFL,FB,3,3,64,224,4,11,39.1,22,3.5,74.7,21.3,4,1,22,22.0,0,1,25.0,22,0.3,7.3,25.0,5.5,65,3.8,246,4,3,
+HarrFr00,Franco Harris,RB,1979,29,PIT,NFL,FB,3,3,62,214,3,17,41.9,13,3.5,71.3,20.7,15,14,148,10.6,0,6,73.3,32,4.7,49.3,93.3,9.9,76,4.8,362,3,0,
+HarrFr00,Franco Harris,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HarrFr00,Franco Harris,RB,1982,32,PIT,NFL,FB,1,1,10,35,0,2,50.0,7,3.5,35.0,10.0,12,11,71,6.5,0,3,75.0,17,11.0,71.0,91.7,5.9,21,5.0,106,0,0,
+HarrFr00,Franco Harris,RB,1983,33,PIT,NFL,FB,1,1,6,33,0,2,50.0,14,5.5,33.0,6.0,5,4,31,7.8,0,1,80.0,11,4.0,31.0,80.0,6.2,10,6.4,64,0,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+JoneDa05,Daniel Jones,QB,2019,22,NYG,NFL,QB,13,12,45,279,21,236,5.2,43,1.0,2,22.5,0,0,0,0,0,,0,,,0,0,,0,,
+JoneDa05,Daniel Jones,QB,2020,23,NYG,NFL,QB,14,14,65,423,17,375,5.8,48,0.7,1,65.0,0,0,0,0,0,,0,,,0,0,,0,,
+JoneDa05,Daniel Jones,QB,2021,24,NYG,NFL,QB,11,11,62,298,16,256,4.1,42,0.7,1,62.0,1,1,16,1,13,13.0,3,3.0,13.0,0,0,0.0,0,118.7,
+JoneDa05,Daniel Jones,QB,2022,25,NYG,NFL,QB,16,16,120,708,57,562,4.7,146,1.2,2,60.0,0,0,0,0,0,,0,,,0,0,,0,,AP CPoY-11
+JoneDa05,Daniel Jones,QB,2023,26,NYG,NFL,QB,6,6,40,206,15,177,4.4,29,0.7,0,,0,0,0,0,0,,0,,,0,0,,0,,
+JoneDa05,Daniel Jones,QB,2024,27,NYG,NFL,QB,10,10,67,265,26,186,2.8,79,1.2,5,13.4,0,0,0,0,0,,0,,,0,0,,0,,
+JoneDa05,Daniel Jones,QB,2025,28,IND,NFL,QB,9,9,33,90,14,67,2.0,23,0.7,1,33.0,0,0,0,0,0,,0,,,0,0,,0,,

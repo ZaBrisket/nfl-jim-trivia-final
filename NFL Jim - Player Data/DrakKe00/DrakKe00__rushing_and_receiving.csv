@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DrakKe00,Kenyan Drake,RB,2016,22,MIA,NFL,RB,16,1,33,179,2,9,45.5,45,5.4,11.2,2.1,10,9,46,5.1,0,2,60.0,9,0.6,2.9,90.0,4.6,42,5.4,225,2,1,2,
+DrakKe00,Kenyan Drake,RB,2017,23,MIA,NFL,RB,16,6,133,644,3,26,45.1,66,4.8,40.3,8.3,48,32,239,7.5,1,7,33.3,47,2.0,14.9,66.7,5.0,165,5.4,883,4,2,6,
+DrakKe00,Kenyan Drake,RB,2018,24,MIA,NFL,RB,16,7,120,535,4,23,45.0,54,4.5,33.4,7.5,73,53,477,9.0,5,23,45.2,52,3.3,29.8,72.6,6.5,173,5.8,1012,9,2,7,
+DrakKe00,Kenyan Drake,RB,2019,25,2TM,NFL,RB,14,10,170,817,8,48,48.8,80,4.8,58.4,12.1,68,50,345,6.9,0,15,42.6,26,3.6,24.6,73.5,5.1,220,5.3,1162,8,2,8,
+DrakKe00,Kenyan Drake,RB,2019,25,MIA,NFL,RB,6,2,47,174,0,6,42.6,11,3.7,29.0,7.8,33,22,174,7.9,0,6,42.4,26,3.7,29.0,66.7,5.3,69,5.0,348,0,2,2,
+DrakKe00,Kenyan Drake,RB,2019,25,ARI,NFL,RB,8,8,123,643,8,42,51.2,80,5.2,80.4,15.4,35,28,171,6.1,0,9,42.9,21,3.5,21.4,80.0,4.9,151,5.4,814,8,0,6,
+DrakKe00,Kenyan Drake,RB,2020,26,ARI,NFL,RB,15,13,239,955,10,59,48.5,69,4.0,63.7,15.9,31,25,137,5.5,0,5,48.4,18,1.7,9.1,80.6,4.4,264,4.1,1092,10,3,6,
+DrakKe00,Kenyan Drake,RB,2021,27,LVR,NFL,RB,12,2,63,254,2,15,44.4,21,4.0,21.2,5.3,40,30,291,9.7,1,12,57.5,31,2.5,24.3,75.0,7.3,93,5.9,545,3,1,4,
+DrakKe00,Kenyan Drake,RB,2022,28,BAL,NFL,RB,12,5,109,482,4,21,45.0,40,4.4,40.2,9.1,26,17,89,5.2,1,7,34.6,15,1.4,7.4,65.4,3.4,126,4.5,571,5,1,4,
+DrakKe00,Kenyan Drake,RB,2023,29,2TM,NFL,RB,3,0,2,0,0,0,0.0,,0.0,0.0,0.7,3,2,31,15.5,0,0,66.7,24,0.7,10.3,66.7,10.3,4,7.8,31,0,1,0,
+DrakKe00,Kenyan Drake,RB,2023,29,BAL,NFL,RB,2,0,1,0,0,0,0.0,,0.0,0.0,0.5,3,2,31,15.5,0,0,66.7,24,1.0,15.5,66.7,10.3,3,10.3,31,0,1,0,
+DrakKe00,Kenyan Drake,RB,2023,29,GNB,NFL,RB,1,0,1,0,0,0,0.0,,0.0,0.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,0.0,0,0,0,0,

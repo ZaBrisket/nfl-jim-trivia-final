@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+PalmPa00,Paul Palmer,RB,1987,23,KAN,NFL,RB,12,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+PalmPa00,Paul Palmer,RB,1988,24,KAN,NFL,RB,15,11,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,
+PalmPa00,Paul Palmer,RB,1989,25,2TM,NFL,RB,14,8,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+PalmPa00,Paul Palmer,RB,1989,25,DAL,NFL,RB,9,8,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,

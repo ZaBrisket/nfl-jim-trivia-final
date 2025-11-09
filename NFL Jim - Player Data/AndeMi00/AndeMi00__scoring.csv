@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AndeMi00,Mike Anderson,RB,2000,27,DEN,NFL,RB,16,12,15,0,0,0,0,0,0,15,1,0,0,0,0,0,92,5.8,AP ORoY-1
+AndeMi00,Mike Anderson,RB,2001,28,DEN,NFL,RB,16,7,4,0,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+AndeMi00,Mike Anderson,RB,2002,29,DEN,NFL,FB,15,12,2,2,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+AndeMi00,Mike Anderson,RB,2003,30,DEN,NFL,FB,12,5,3,2,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+AndeMi00,Mike Anderson,RB,,,,,,,,,,,,,,,,,,,,,,,,
+AndeMi00,Mike Anderson,RB,2005,32,DEN,NFL,RB,15,15,12,1,0,0,0,0,0,13,0,0,0,0,0,0,78,5.2,
+AndeMi00,Mike Anderson,RB,2006,33,BAL,NFL,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

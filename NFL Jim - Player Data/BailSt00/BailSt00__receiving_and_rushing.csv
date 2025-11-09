@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BailSt00,Stacey Bailey,WR,1982,22,ATL,NFL,WR,5,0,7,2,24,12.0,1,1,28.6,15,0.4,4.8,28.6,3.4,0,0,0,0,,,,0.0,0.0,2,12.0,24,1,1,0,
+BailSt00,Stacey Bailey,WR,1983,23,ATL,NFL,WR,14,12,104,55,881,16.0,6,40,49.0,53,3.9,62.9,52.9,8.5,2,-5,0,0,0.0,,-2.5,-0.4,0.1,57,15.4,876,6,1,8,
+BailSt00,Stacey Bailey,WR,1984,24,ATL,NFL,WR,16,16,131,67,1138,17.0,6,55,47.3,61,4.2,71.1,51.1,8.7,0,0,0,0,,,,0.0,0.0,67,17.0,1138,6,1,9,
+BailSt00,Stacey Bailey,WR,1985,25,ATL,NFL,WR,15,13,69,30,364,12.1,0,17,37.7,31,2.0,24.3,43.5,5.3,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,31,11.6,361,0,1,3,
+BailSt00,Stacey Bailey,WR,1986,26,ATL,NFL,WR,6,1,6,3,39,13.0,0,2,33.3,21,0.5,6.5,50.0,6.5,1,6,0,0,100.0,6,6.0,1.0,0.2,4,11.3,45,0,0,0,
+BailSt00,Stacey Bailey,WR,1987,27,ATL,NFL,WR,7,6,36,20,325,16.3,3,14,52.8,35,2.9,46.4,55.6,9.0,0,0,0,0,,,,0.0,0.0,20,16.3,325,3,1,2,
+BailSt00,Stacey Bailey,WR,1988,28,ATL,NFL,WR,10,9,39,17,437,25.7,2,16,41.0,68,1.7,43.7,43.6,11.2,0,0,0,0,,,,0.0,0.0,17,25.7,437,2,0,3,
+BailSt00,Stacey Bailey,WR,1989,29,ATL,NFL,WR,15,0,28,8,170,21.3,0,7,25.0,41,0.5,11.3,28.6,6.1,0,0,0,0,,,,0.0,0.0,8,21.3,170,0,0,1,
+BailSt00,Stacey Bailey,WR,1990,30,ATL,NFL,WR,3,1,5,4,44,11.0,0,3,60.0,13,1.3,14.7,80.0,8.8,0,0,0,0,,,,0.0,0.0,4,11.0,44,0,0,0,

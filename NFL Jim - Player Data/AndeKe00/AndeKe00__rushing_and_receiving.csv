@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+AndeKe00,Ken Anderson,QB,1971,22,CIN,NFL,QB,11,4,22,125,1,,,16,5.7,11.4,2.0,,0,0,0,,0.0,0.0,22,5.7,125,1,5,
+AndeKe00,Ken Anderson,QB,1972,23,CIN,NFL,QB,13,13,22,94,3,,,18,4.3,7.2,1.7,,0,0,0,,0.0,0.0,22,4.3,94,3,5,
+AndeKe00,Ken Anderson,QB,1973,24,CIN,NFL,QB,14,14,26,97,0,,,17,3.7,6.9,1.9,,0,0,0,,0.0,0.0,26,3.7,97,0,5,
+AndeKe00,Ken Anderson,QB,1974,25,CIN,NFL,QB,13,13,43,314,2,,,20,7.3,24.2,3.3,,0,0,0,,0.0,0.0,43,7.3,314,2,3,
+AndeKe00,Ken Anderson,QB,1975,26,CIN,NFL,QB,13,13,49,188,2,,,29,3.8,14.5,3.8,,0,0,0,,0.0,0.0,49,3.8,188,2,4,"PB,AP-2"
+AndeKe00,Ken Anderson,QB,1976,27,CIN,NFL,QB,14,14,31,134,1,,,25,4.3,9.6,2.2,,0,0,0,,0.0,0.0,31,4.3,134,1,3,PB
+AndeKe00,Ken Anderson,QB,1977,28,CIN,NFL,QB,14,13,26,128,2,,,17,4.9,9.1,1.9,,0,0,0,,0.0,0.0,26,4.9,128,2,5,
+AndeKe00,Ken Anderson,QB,1978,29,CIN,NFL,QB,12,12,29,167,1,12,48.3,16,5.8,13.9,2.4,0,0,0,0,0,0.0,0.0,29,5.8,167,1,8,
+AndeKe00,Ken Anderson,QB,1979,30,CIN,NFL,QB,15,15,28,235,2,15,67.9,21,8.4,15.7,1.9,0,0,0,0,0,0.0,0.0,28,8.4,235,2,1,
+AndeKe00,Ken Anderson,QB,1980,31,CIN,NFL,QB,13,12,16,122,0,9,68.8,20,7.6,9.4,1.2,0,0,0,0,0,0.0,0.0,16,7.6,122,0,1,
+AndeKe00,Ken Anderson,QB,1981,32,CIN,NFL,QB,16,16,46,320,1,18,58.7,25,7.0,20.0,2.9,0,0,0,0,0,0.0,0.0,46,7.0,320,1,5,"PB,AP-1,AP MVP-1,AP OPoY-1"
+AndeKe00,Ken Anderson,QB,1982,33,CIN,NFL,QB,9,9,25,85,4,5,48.0,12,3.4,9.4,2.8,0,0,0,0,0,0.0,0.0,25,3.4,85,4,1,PB
+AndeKe00,Ken Anderson,QB,1983,34,CIN,NFL,QB,13,13,22,147,1,10,63.6,29,6.7,11.3,1.7,0,0,0,0,0,0.0,0.0,22,6.7,147,1,4,
+AndeKe00,Ken Anderson,QB,1984,35,CIN,NFL,QB,11,9,11,64,0,4,63.6,14,5.8,5.8,1.0,0,0,0,0,0,0.0,0.0,11,5.8,64,0,1,
+AndeKe00,Ken Anderson,QB,1985,36,CIN,NFL,QB,3,2,1,0,0,0,0.0,,0.0,0.0,0.3,0,0,0,0,0,0.0,0.0,1,0.0,0,0,1,

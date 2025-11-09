@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ReedJo02,Jordan Reed,TE,2013,23,WAS,NFL,TE,9,4,59,45,499,11.1,3,30,64.4,38,5.0,55.4,76.3,8.5,1,18,0,1,100.0,18,18.0,2.0,0.1,46,11.2,517,3,0,3,
+ReedJo02,Jordan Reed,TE,2014,24,WAS,NFL,TE,11,2,65,50,465,9.3,0,23,52.3,30,4.5,42.3,76.9,7.2,0,0,0,0,,,,0.0,0.0,50,9.3,465,0,1,3,
+ReedJo02,Jordan Reed,TE,2015,25,WAS,NFL,TE,14,8,114,87,952,10.9,11,54,62.3,32,6.2,68.0,76.3,8.4,0,0,0,0,,,,0.0,0.0,87,10.9,952,11,3,8,
+ReedJo02,Jordan Reed,TE,2016,26,WAS,NFL,TE,12,8,89,66,686,10.4,6,41,59.6,33,5.5,57.2,74.2,7.7,0,0,0,0,,,,0.0,0.0,66,10.4,686,6,1,6,PB
+ReedJo02,Jordan Reed,TE,2017,27,WAS,NFL,TE,6,5,35,27,211,7.8,2,10,60.0,20,4.5,35.2,77.1,6.0,0,0,0,0,,,,0.0,0.0,27,7.8,211,2,1,2,
+ReedJo02,Jordan Reed,TE,2018,28,WAS,NFL,TE,13,8,84,54,558,10.3,2,26,50.0,34,4.2,42.9,64.3,6.6,0,0,0,0,,,,0.0,0.0,54,10.3,558,2,1,4,
+ReedJo02,Jordan Reed,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReedJo02,Jordan Reed,TE,2020,30,SFO,NFL,TE,10,1,46,26,231,8.9,4,16,43.5,26,2.6,23.1,56.5,5.0,0,0,0,0,,,,0.0,0.0,26,8.9,231,4,0,2,

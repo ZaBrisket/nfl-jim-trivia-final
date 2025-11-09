@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DickLy00,Lynn Dickey,QB,1971,22,HOU,NFL,QB,7,2,1,4,0,,,4,4.0,0.6,0.1,,0,0,0,,0.0,0.0,1,4.0,4,0,1,
+DickLy00,Lynn Dickey,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DickLy00,Lynn Dickey,QB,1973,24,HOU,NFL,QB,12,4,6,9,0,,,6,1.5,0.8,0.5,,0,0,0,,0.0,0.0,6,1.5,9,0,5,
+DickLy00,Lynn Dickey,QB,1974,25,HOU,NFL,QB,14,4,3,7,0,,,7,2.3,0.5,0.2,,0,0,0,,0.0,0.0,3,2.3,7,0,2,
+DickLy00,Lynn Dickey,QB,1975,26,HOU,NFL,QB,14,0,1,3,0,,,3,3.0,0.2,0.1,,0,0,0,,0.0,0.0,1,3.0,3,0,0,
+DickLy00,Lynn Dickey,QB,1976,27,GNB,NFL,QB,10,10,11,19,1,,,12,1.7,1.9,1.1,,0,0,0,,0.0,0.0,11,1.7,19,1,7,
+DickLy00,Lynn Dickey,QB,1977,28,GNB,NFL,QB,9,9,5,24,0,,,10,4.8,2.7,0.6,,0,0,0,,0.0,0.0,5,4.8,24,0,1,
+DickLy00,Lynn Dickey,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DickLy00,Lynn Dickey,QB,1979,30,GNB,NFL,QB,5,3,5,13,0,1,40.0,8,2.6,2.6,1.0,0,0,0,0,0,0.0,0.0,5,2.6,13,0,2,
+DickLy00,Lynn Dickey,QB,1980,31,GNB,NFL,QB,16,16,19,11,1,1,5.3,7,0.6,0.7,1.2,0,0,0,0,0,0.0,0.0,19,0.6,11,1,13,
+DickLy00,Lynn Dickey,QB,1981,32,GNB,NFL,QB,13,13,19,6,0,0,0.0,13,0.3,0.5,1.5,0,0,0,0,0,0.0,0.0,19,0.3,6,0,8,
+DickLy00,Lynn Dickey,QB,1982,33,GNB,NFL,QB,9,9,13,19,0,4,38.5,11,1.5,2.1,1.4,0,0,0,0,0,0.0,0.0,13,1.5,19,0,5,
+DickLy00,Lynn Dickey,QB,1983,34,GNB,NFL,QB,16,16,21,12,3,5,28.6,4,0.6,0.8,1.3,0,0,0,0,0,0.0,0.0,21,0.6,12,3,9,"AP MVP-5,AP OPoY-6"
+DickLy00,Lynn Dickey,QB,1984,35,GNB,NFL,QB,15,15,18,6,3,5,38.9,9,0.3,0.4,1.2,0,0,0,0,0,0.0,0.0,18,0.3,6,3,3,
+DickLy00,Lynn Dickey,QB,1985,36,GNB,NFL,QB,12,10,18,-12,1,3,16.7,3,-0.7,-1.0,1.5,0,0,0,0,0,0.0,0.0,18,-0.7,-12,1,8,

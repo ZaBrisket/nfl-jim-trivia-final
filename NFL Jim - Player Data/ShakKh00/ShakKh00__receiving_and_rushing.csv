@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ShakKh00,Khalil Shakir,WR,2022,22,BUF,NFL,WR,14,2,20,10,161,16.1,1,7,40.0,31,0.7,11.5,50.0,8.1,0,0,0,0,,,,0.0,0.0,10,16.1,161,1,0,2,
+ShakKh00,Khalil Shakir,WR,2023,23,BUF,NFL,WR,17,10,45,39,611,15.7,2,26,73.3,81,2.3,35.9,86.7,13.6,1,10,0,1,100.0,10,10.0,0.6,0.1,40,15.5,621,2,1,6,
+ShakKh00,Khalil Shakir,WR,2024,24,BUF,NFL,WR,15,9,100,76,821,10.8,4,35,53.0,52,5.1,54.7,76.0,8.2,2,4,0,0,0.0,2,2.0,0.3,0.1,78,10.6,825,4,1,10,
+ShakKh00,Khalil Shakir,WR,2025,25,BUF,NFL,WR,8,5,49,38,399,10.5,3,18,53.1,54,4.8,49.9,77.6,8.1,1,5,0,0,0.0,5,5.0,0.6,0.1,39,10.4,404,3,0,,

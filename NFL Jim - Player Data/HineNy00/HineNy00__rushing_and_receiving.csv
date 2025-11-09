@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HineNy00,Nyheim Hines,RB,2018,22,IND,NFL,RB,16,4,85,314,2,17,45.9,18,3.7,19.6,5.3,81,63,425,6.7,2,29,46.9,28,3.9,26.6,77.8,5.2,148,5.0,739,4,1,6,
+HineNy00,Nyheim Hines,RB,2019,23,IND,NFL,RB,16,2,52,199,2,16,51.9,18,3.8,12.4,3.3,58,44,320,7.3,0,15,43.1,21,2.8,20.0,75.9,5.5,96,5.4,519,2,1,6,
+HineNy00,Nyheim Hines,RB,2020,24,IND,NFL,RB,16,2,89,380,3,24,42.7,31,4.3,23.8,5.6,76,63,482,7.7,4,24,53.9,29,3.9,30.1,82.9,6.3,152,5.7,862,7,0,7,
+HineNy00,Nyheim Hines,RB,2021,25,IND,NFL,RB,17,4,56,276,2,15,48.2,34,4.9,16.2,3.3,57,40,310,7.8,1,15,42.1,36,2.4,18.2,70.2,5.4,96,6.1,586,3,3,5,
+HineNy00,Nyheim Hines,RB,2022,26,2TM,NFL,RB,16,5,24,33,1,2,20.8,9,1.4,2.1,1.5,37,30,241,8.0,1,11,56.8,22,1.9,15.1,81.1,6.5,54,5.1,274,2,2,4,
+HineNy00,Nyheim Hines,RB,2022,26,IND,NFL,RB,7,4,18,36,1,2,22.2,9,2.0,5.1,2.6,28,25,188,7.5,0,8,57.1,22,3.6,26.9,89.3,6.7,43,5.2,224,1,1,1,
+HineNy00,Nyheim Hines,RB,2022,26,BUF,NFL,RB,9,1,6,-3,0,0,16.7,3,-0.5,-0.3,0.7,9,5,53,10.6,1,3,55.6,21,0.6,5.9,55.6,5.9,11,4.5,50,1,1,3,
+HineNy00,Nyheim Hines,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HineNy00,Nyheim Hines,RB,2025,29,LAC,NFL,RB,3,0,2,-2,0,0,0.0,1,-1.0,-0.7,0.7,0,0,0,,0,0,,,0.0,0.0,,,2,-1.0,-2,0,0,,

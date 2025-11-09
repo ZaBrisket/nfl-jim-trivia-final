@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+SchaMa00,Matt Schaub,QB,2004,23,ATL,NFL,QB,6,1,63,72,54,60,59,68,56,108,52,
+SchaMa00,Matt Schaub,QB,2005,24,ATL,NFL,QB,16,1,114,111,132,128,73,125,154,88,121,
+SchaMa00,Matt Schaub,QB,,,,,,,,,,,,,,,,,
+SchaMa00,Matt Schaub,QB,2007,26,HOU,NFL,QB,11,11,118,116,109,108,120,90,99,106,107,
+SchaMa00,Matt Schaub,QB,2008,27,HOU,NFL,QB,11,11,120,118,115,114,116,99,105,102,112,
+SchaMa00,Matt Schaub,QB,2009,28,HOU,NFL,QB,16,16,122,125,119,121,124,111,105,114,119,PB
+SchaMa00,Matt Schaub,QB,2010,29,HOU,NFL,QB,16,16,110,110,110,111,109,99,112,107,109,
+SchaMa00,Matt Schaub,QB,2011,30,HOU,NFL,QB,10,10,128,129,125,126,101,110,113,108,116,
+SchaMa00,Matt Schaub,QB,2012,31,HOU,NFL,QB,16,16,105,107,105,107,112,97,109,114,107,PB
+SchaMa00,Matt Schaub,QB,2013,32,HOU,NFL,QB,10,8,84,87,78,81,98,82,78,107,82,
+SchaMa00,Matt Schaub,QB,,,,,,,,,,,,,,,,,
+SchaMa00,Matt Schaub,QB,2015,34,BAL,NFL,QB,2,2,89,96,73,78,108,91,53,119,80,
+SchaMa00,Matt Schaub,QB,,,,,,,,,,,,,,,,,
+SchaMa00,Matt Schaub,QB,2019,38,ATL,NFL,QB,6,1,127,132,123,127,140,98,114,126,122,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+HumpSt00,Stan Humphries,QB,1989,24,WAS,NFL,QB,2,0,,5,10,50.0,91,1,10.0,1,10.0,4,38.5,39,9.1,6.60,18.2,45.5,75.4,3,9,23.08,6.31,4.38,0,0,0,
+HumpSt00,Stan Humphries,QB,1990,25,WAS,NFL,QB,7,5,3-2-0,91,156,58.3,1015,3,1.9,10,6.4,54,48.5,44,6.5,4.01,11.2,145.0,57.5,9,62,5.45,5.78,3.41,0,0,1,
+HumpSt00,Stan Humphries,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HumpSt00,Stan Humphries,QB,1992,27,SDG,NFL,QB,16,15,11-4-0,263,454,57.9,3356,16,3.5,18,4.0,148,45.6,67,7.4,6.31,12.8,209.8,76.4,28,218,5.81,6.51,5.49,2,2,13,
+HumpSt00,Stan Humphries,QB,1993,28,SDG,NFL,QB,12,10,6-4-0,173,324,53.4,1981,12,3.7,10,3.1,102,41.2,48,6.1,5.47,11.5,165.1,71.5,18,142,5.26,5.38,4.76,2,2,8,
+HumpSt00,Stan Humphries,QB,1994,29,SDG,NFL,QB,15,15,11-4-0,264,453,58.3,3209,17,3.8,12,2.6,160,42.9,99,7.1,6.64,12.2,213.9,81.6,25,223,5.23,6.25,5.83,3,3,12,
+HumpSt00,Stan Humphries,QB,1995,30,SDG,NFL,QB,15,15,9-6-0,282,478,59.0,3381,17,3.6,14,2.9,170,47.1,51,7.1,6.47,12.0,225.4,80.4,23,197,4.59,6.36,5.78,1,2,10,
+HumpSt00,Stan Humphries,QB,1996,31,SDG,NFL,QB,13,13,7-6-0,232,416,55.8,2670,18,4.3,13,3.1,129,42.2,63,6.4,5.88,11.5,205.4,76.7,20,187,4.59,5.69,5.18,0,1,8,
+HumpSt00,Stan Humphries,QB,1997,32,SDG,NFL,QB,8,8,3-5-0,121,225,53.8,1488,5,2.2,6,2.7,71,39.1,72,6.6,5.86,12.3,186.0,70.7,18,144,7.41,5.53,4.83,0,0,4,

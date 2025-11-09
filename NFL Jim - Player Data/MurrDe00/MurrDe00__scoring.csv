@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MurrDe00,DeMarco Murray,RB,2011,23,DAL,NFL,RB,13,7,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+MurrDe00,DeMarco Murray,RB,2012,24,DAL,NFL,RB,10,10,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,2.4,
+MurrDe00,DeMarco Murray,RB,2013,25,DAL,NFL,RB,14,14,9,1,0,0,0,0,0,10,0,0,0,0,0,0,60,4.3,PB
+MurrDe00,DeMarco Murray,RB,2014,26,DAL,NFL,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,"PB,AP-1,AP MVP-3,AP OPoY-1"
+MurrDe00,DeMarco Murray,RB,2015,27,PHI,NFL,RB,15,8,6,1,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+MurrDe00,DeMarco Murray,RB,2016,28,TEN,NFL,RB,16,16,9,3,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,PB
+MurrDe00,DeMarco Murray,RB,2017,29,TEN,NFL,RB,15,15,6,1,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,

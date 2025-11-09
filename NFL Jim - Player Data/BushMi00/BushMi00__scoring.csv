@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BushMi00,Michael Bush,RB,2008,24,OAK,NFL,RB,15,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+BushMi00,Michael Bush,RB,2009,25,OAK,NFL,RB,16,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+BushMi00,Michael Bush,RB,2010,26,OAK,NFL,RB,14,3,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,3.4,
+BushMi00,Michael Bush,RB,2011,27,OAK,NFL,RB,16,9,7,1,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+BushMi00,Michael Bush,RB,2012,28,CHI,NFL,RB,13,1,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,2.3,
+BushMi00,Michael Bush,RB,2013,29,CHI,NFL,RB,15,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,

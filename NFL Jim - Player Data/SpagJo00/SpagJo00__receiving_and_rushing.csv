@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SpagJo00,John Spagnola,TE,1979,22,PHI,NFL,TE,16,3,2,2,24,12.0,0,2,100.0,14,0.1,1.5,100.0,12.0,0,0,0,0,0.0,0.0,2,12.0,24,0,0,0,
+SpagJo00,John Spagnola,TE,1980,23,PHI,NFL,TE,16,5,27,18,193,10.7,3,12,59.3,20,1.1,12.1,66.7,7.1,0,0,0,0,0.0,0.0,18,10.7,193,3,2,2,
+SpagJo00,John Spagnola,TE,1981,24,PHI,NFL,TE,11,3,14,6,83,13.8,0,4,42.9,28,0.5,7.5,42.9,5.9,0,0,0,0,0.0,0.0,6,13.8,83,0,0,1,
+SpagJo00,John Spagnola,TE,1982,25,PHI,NFL,TE,9,9,41,26,313,12.0,2,15,53.7,57,2.9,34.8,63.4,7.6,0,0,0,0,0.0,0.0,26,12.0,313,2,0,6,
+SpagJo00,John Spagnola,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SpagJo00,John Spagnola,TE,1984,27,PHI,NFL,TE,16,16,89,65,701,10.8,1,37,68.5,34,4.1,43.8,73.0,7.9,0,0,0,0,0.0,0.0,65,10.8,701,1,2,5,
+SpagJo00,John Spagnola,TE,1985,28,PHI,NFL,TE,16,16,105,64,772,12.1,5,43,58.1,35,4.0,48.3,61.0,7.4,0,0,0,0,0.0,0.0,64,12.1,772,5,1,6,
+SpagJo00,John Spagnola,TE,1986,29,PHI,NFL,TE,15,12,54,39,397,10.2,1,12,61.1,38,2.6,26.5,72.2,7.4,0,0,0,0,0.0,0.0,39,10.2,397,1,2,3,
+SpagJo00,John Spagnola,TE,1987,30,PHI,NFL,TE,12,12,49,36,350,9.7,2,12,71.4,22,3.0,29.2,73.5,7.1,0,0,0,0,0.0,0.0,36,9.7,350,2,2,3,
+SpagJo00,John Spagnola,TE,1988,31,SEA,NFL,TE,16,4,7,5,40,8.0,1,2,57.1,16,0.3,2.5,71.4,5.7,0,0,0,0,0.0,0.0,5,8.0,40,1,0,0,
+SpagJo00,John Spagnola,TE,1989,32,GNB,NFL,TE,6,0,3,2,13,6.5,0,1,33.3,14,0.3,2.2,66.7,4.3,0,0,0,0,0.0,0.0,2,6.5,13,0,0,0,

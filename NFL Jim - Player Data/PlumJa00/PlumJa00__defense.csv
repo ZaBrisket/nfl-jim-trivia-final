@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+PlumJa00,Jake Plummer,QB,1997,23,ARI,NFL,QB,10,9,0,0,0,0,,0,6,1,-1,0,0.0,0,0,0,,,0,AP ORoY-3
+PlumJa00,Jake Plummer,QB,1998,24,ARI,NFL,QB,16,16,0,0,0,0,,0,12,3,-2,0,0.0,0,0,0,,,0,
+PlumJa00,Jake Plummer,QB,1999,25,ARI,NFL,QB,12,11,0,0,0,0,0,0,7,5,-4,0,0.0,0,0,0,0,,0,
+PlumJa00,Jake Plummer,QB,2000,26,ARI,NFL,QB,14,14,0,0,0,0,0,0,8,4,-1,0,0.0,0,0,0,0,,0,
+PlumJa00,Jake Plummer,QB,2001,27,ARI,NFL,QB,16,16,0,0,0,0,0,0,8,5,-3,0,0.0,0,0,0,0,,0,
+PlumJa00,Jake Plummer,QB,2002,28,ARI,NFL,QB,16,16,0,0,0,0,0,0,13,4,-10,0,0.0,0,0,0,0,,0,
+PlumJa00,Jake Plummer,QB,2003,29,DEN,NFL,QB,11,11,0,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,,0,AP CPoY-8
+PlumJa00,Jake Plummer,QB,2004,30,DEN,NFL,QB,16,16,0,0,0,0,0,0,6,6,-8,0,0.0,0,0,0,0,,0,
+PlumJa00,Jake Plummer,QB,2005,31,DEN,NFL,QB,16,16,0,0,0,0,0,0,4,1,-10,0,0.0,0,0,0,0,,0,PB
+PlumJa00,Jake Plummer,QB,2006,32,DEN,NFL,QB,16,11,0,0,0,0,0,0,7,1,-5,0,0.0,0,0,0,0,0,0,

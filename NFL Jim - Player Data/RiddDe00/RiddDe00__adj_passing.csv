@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+RiddDe00,Desmond Ridder,QB,2022,23,ATL,NFL,QB,4,4,78,84,94,96,95,69,150,94,94,
+RiddDe00,Desmond Ridder,QB,2023,24,ATL,NFL,QB,15,13,106,104,96,96,99,87,82,96,90,
+RiddDe00,Desmond Ridder,QB,2024,25,LVR,NFL,QB,6,1,65,63,69,68,85,77,98,74,75,

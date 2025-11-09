@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AlleTe00,Terry Allen,RB,1991,23,MIN,NFL,FB,15,6,120,563,2,29,55.0,55,4.7,37.5,8.0,13,6,49,8.2,1,4,30.8,21,0.4,3.3,46.2,3.8,126,4.9,612,3,4,5,
+AlleTe00,Terry Allen,RB,1992,24,MIN,NFL,RB,16,16,266,1201,13,65,54.5,51,4.5,75.1,16.6,70,49,478,9.8,2,20,44.3,36,3.1,29.9,70.0,6.8,315,5.3,1679,15,9,14,
+AlleTe00,Terry Allen,RB,1993,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AlleTe00,Terry Allen,RB,1994,26,MIN,NFL,RB,16,16,255,1031,8,56,44.7,45,4.0,64.4,15.9,30,17,148,8.7,0,4,33.3,31,1.1,9.3,56.7,4.9,272,4.3,1179,8,3,7,
+AlleTe00,Terry Allen,RB,1995,27,WAS,NFL,RB,16,16,338,1309,10,66,44.1,28,3.9,81.8,21.1,40,31,232,7.5,1,11,57.5,24,1.9,14.5,77.5,5.8,369,4.2,1541,11,6,10,
+AlleTe00,Terry Allen,RB,1996,28,WAS,NFL,RB,16,16,347,1353,21,71,42.7,49,3.9,84.6,21.7,42,32,194,6.1,0,6,38.1,28,2.0,12.1,76.2,4.6,379,4.1,1547,21,4,13,"PB,AP-2"
+AlleTe00,Terry Allen,RB,1997,29,WAS,NFL,RB,10,10,210,724,4,32,39.0,34,3.4,72.4,21.0,29,20,172,8.6,1,7,51.7,38,2.0,17.2,69.0,5.9,230,3.9,896,5,2,5,
+AlleTe00,Terry Allen,RB,1998,30,WAS,NFL,RB,10,10,148,700,2,27,52.0,45,4.7,70.0,14.8,22,17,128,7.5,0,6,50.0,17,1.7,12.8,77.3,5.8,165,5.0,828,2,4,5,
+AlleTe00,Terry Allen,RB,1999,31,NWE,NFL,RB,16,13,254,896,8,45,39.4,39,3.5,56.0,15.9,19,14,125,8.9,1,6,42.1,38,0.9,7.8,73.7,6.6,268,3.8,1021,9,8,6,
+AlleTe00,Terry Allen,RB,2000,32,NOR,NFL,RB,4,3,46,179,2,9,43.5,18,3.9,44.8,11.5,1,1,7,7.0,0,0,0.0,7,0.3,1.8,100.0,7.0,47,4.0,186,2,0,1,
+AlleTe00,Terry Allen,RB,2001,33,BAL,NFL,RB,11,8,168,658,3,32,41.1,26,3.9,59.8,15.3,20,17,68,4.0,0,1,35.0,11,1.5,6.2,85.0,3.4,185,3.9,726,3,1,5,

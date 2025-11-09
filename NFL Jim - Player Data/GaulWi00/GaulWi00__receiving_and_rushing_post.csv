@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GaulWi00,Willie Gault,WR,1984,24,CHI,NFL,WR,2,2,4,1,75,75.0,1,1,25.0,75,0.5,37.5,25.0,18.8,0,0,0,0,0.0,0.0,1,75.0,75,1,1,
+GaulWi00,Willie Gault,WR,1985,25,CHI,NFL,WR,3,3,15,11,253,23.0,1,9,73.3,60,3.7,84.3,73.3,16.9,0,0,0,0,0.0,0.0,11,23.0,253,1,0,
+GaulWi00,Willie Gault,WR,1986,26,CHI,NFL,WR,1,1,11,5,82,16.4,1,3,36.4,50,5.0,82.0,45.5,7.5,0,0,0,0,0.0,0.0,5,16.4,82,1,0,
+GaulWi00,Willie Gault,WR,1987,27,CHI,NFL,WR,1,1,3,1,44,44.0,0,1,33.3,44,1.0,44.0,33.3,14.7,0,0,0,0,0.0,0.0,1,44.0,44,0,0,
+GaulWi00,Willie Gault,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaulWi00,Willie Gault,WR,1990,30,RAI,NFL,WR,2,2,7,2,32,16.0,0,1,28.6,26,1.0,16.0,28.6,4.6,0,0,0,0,0.0,0.0,2,16.0,32,0,0,
+GaulWi00,Willie Gault,WR,1991,31,RAI,NFL,WR,1,1,1,1,11,11.0,0,1,100.0,11,1.0,11.0,100.0,11.0,0,0,0,0,0.0,0.0,1,11.0,11,0,0,
+GaulWi00,Willie Gault,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaulWi00,Willie Gault,WR,1993,33,RAI,NFL,WR,2,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,

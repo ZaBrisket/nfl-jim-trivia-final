@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitEm00,Emmitt Smith,RB,1990,21,DAL,NFL,RB,16,15,11,0,0,0,0,0,0,11,,0,0,0,0,0,66,4.1,"PB,AP ORoY-1"
+SmitEm00,Emmitt Smith,RB,1991,22,DAL,NFL,RB,16,16,12,1,0,0,0,0,0,13,,0,0,0,0,0,78,4.9,"PB,AP-2"
+SmitEm00,Emmitt Smith,RB,1992,23,DAL,NFL,RB,16,16,18,1,0,0,0,0,0,19,,0,0,0,0,0,114,7.1,"PB,AP-1,AP MVP-3,AP OPoY-3"
+SmitEm00,Emmitt Smith,RB,1993,24,DAL,NFL,RB,14,13,9,1,0,0,0,0,0,10,,0,0,0,0,0,60,4.3,"PB,AP-1,AP MVP-1,AP OPoY-3"
+SmitEm00,Emmitt Smith,RB,1994,25,DAL,NFL,RB,15,15,21,1,0,0,0,0,0,22,0,0,0,0,0,0,132,8.8,"PB,AP-1"
+SmitEm00,Emmitt Smith,RB,1995,26,DAL,NFL,RB,16,16,25,0,0,0,0,0,0,25,0,0,0,0,0,0,150,9.4,"PB,AP-1,AP MVP-3,AP OPoY-2"
+SmitEm00,Emmitt Smith,RB,1996,27,DAL,NFL,RB,15,15,12,3,0,0,0,0,0,15,0,0,0,0,0,0,90,6.0,
+SmitEm00,Emmitt Smith,RB,1997,28,DAL,NFL,RB,16,16,4,0,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+SmitEm00,Emmitt Smith,RB,1998,29,DAL,NFL,RB,16,16,13,2,0,0,0,0,0,15,0,0,0,0,0,0,90,5.6,PB
+SmitEm00,Emmitt Smith,RB,1999,30,DAL,NFL,RB,15,15,11,2,0,0,0,0,0,13,0,0,0,0,0,0,78,5.2,PB
+SmitEm00,Emmitt Smith,RB,2000,31,DAL,NFL,RB,16,16,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+SmitEm00,Emmitt Smith,RB,2001,32,DAL,NFL,RB,14,14,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+SmitEm00,Emmitt Smith,RB,2002,33,DAL,NFL,RB,16,16,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+SmitEm00,Emmitt Smith,RB,2003,34,ARI,NFL,RB,10,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.2,
+SmitEm00,Emmitt Smith,RB,2004,35,ARI,NFL,RB,15,15,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.6,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+SiemTr00,Trevor Siemian,QB,2016,25,DEN,NFL,QB,14,14,97,98,98,99,87,92,105,101,94,
+SiemTr00,Trevor Siemian,QB,2017,26,DEN,NFL,QB,11,10,87,82,79,76,84,89,72,83,78,
+SiemTr00,Trevor Siemian,QB,,,,,,,,,,,,,,,,,
+SiemTr00,Trevor Siemian,QB,2021,30,NOR,NFL,QB,6,4,79,86,94,97,68,113,113,111,96,
+SiemTr00,Trevor Siemian,QB,,,,,,,,,,,,,,,,,
+SiemTr00,Trevor Siemian,QB,2023,32,NYJ,NFL,QB,5,3,50,64,52,63,60,64,93,114,53,

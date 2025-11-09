@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CraiRo00,Roger Craig,RB,1983,23,SFO,NFL,FB,16,13,176,725,8,38,48.9,71,4.1,45.3,11.0,62,48,427,8.9,4,20,64.5,23,3.0,26.7,77.4,6.9,224,5.1,1152,12,6,10,
+CraiRo00,Roger Craig,RB,1984,24,SFO,NFL,FB,16,16,155,649,7,36,48.4,28,4.2,40.6,9.7,94,71,675,9.5,3,29,50.0,64,4.4,42.2,75.5,7.2,226,5.9,1324,10,3,13,
+CraiRo00,Roger Craig,RB,1985,25,SFO,NFL,FB,16,16,214,1050,9,55,55.6,62,4.9,65.6,13.4,117,92,1016,11.0,6,44,55.6,73,5.8,63.5,78.6,8.7,306,6.8,2066,15,5,17,"PB,AP-2"
+CraiRo00,Roger Craig,RB,1986,26,SFO,NFL,FB,16,15,204,830,7,49,47.5,25,4.1,51.9,12.8,103,81,624,7.7,0,23,42.7,48,5.1,39.0,78.6,6.1,285,5.1,1454,7,4,11,
+CraiRo00,Roger Craig,RB,1987,27,SFO,NFL,RB/FB,14,14,215,815,3,44,45.1,25,3.8,58.2,15.4,85,66,492,7.5,1,23,49.4,35,4.7,35.1,77.6,5.8,281,4.7,1307,4,5,14,PB
+CraiRo00,Roger Craig,RB,1988,28,SFO,NFL,RB,16,15,310,1502,9,79,53.9,46,4.8,93.9,19.4,111,76,534,7.0,1,29,42.3,22,4.8,33.4,68.5,4.8,386,5.3,2036,10,8,18,"PB,AP-1,AP MVP-3,AP OPoY-1"
+CraiRo00,Roger Craig,RB,1989,29,SFO,NFL,RB,16,16,271,1054,6,54,46.1,27,3.9,65.9,16.9,67,49,473,9.7,1,23,61.2,44,3.1,29.6,73.1,7.1,320,4.8,1527,7,4,14,PB
+CraiRo00,Roger Craig,RB,1990,30,SFO,NFL,RB,11,11,141,439,1,21,42.6,26,3.1,39.9,12.8,39,25,201,8.0,0,7,43.6,31,2.3,18.3,64.1,5.2,166,3.9,640,1,2,5,
+CraiRo00,Roger Craig,RB,1991,31,RAI,NFL,RB,15,13,162,590,1,21,43.2,15,3.6,39.3,10.8,26,17,136,8.0,0,6,42.3,20,1.1,9.1,65.4,5.2,179,4.1,726,1,2,6,
+CraiRo00,Roger Craig,RB,1992,32,MIN,NFL,RB,15,1,105,416,4,26,52.4,21,4.0,27.7,7.0,30,22,164,7.5,0,9,50.0,22,1.5,10.9,73.3,5.5,127,4.6,580,4,2,5,
+CraiRo00,Roger Craig,RB,1993,33,MIN,NFL,RB,14,3,38,119,1,4,28.9,11,3.1,8.5,2.7,33,19,169,8.9,1,7,36.4,31,1.4,12.1,57.6,5.1,57,5.1,288,2,1,2,

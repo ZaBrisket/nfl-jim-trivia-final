@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FreeJo00,Josh Freeman,QB,2009,21,TAM,NFL,QB,10,9,30,161,0,11,56.7,20,5.4,16.1,3.0,1,0,1,0,0,0.0,1,0.0,0.1,0.0,1.0,30,5.4,162,0,10,
+FreeJo00,Josh Freeman,QB,2010,22,TAM,NFL,QB,16,16,68,364,0,30,57.4,33,5.4,22.8,4.3,0,0,0,0,0,,,0.0,0.0,,,68,5.4,364,0,8,
+FreeJo00,Josh Freeman,QB,2011,23,TAM,NFL,QB,15,15,55,238,4,25,54.5,25,4.3,15.9,3.7,1,0,-4,0,0,0.0,-4,0.0,-0.3,0.0,-4.0,55,4.3,234,4,9,
+FreeJo00,Josh Freeman,QB,2012,24,TAM,NFL,QB,16,16,39,139,0,16,46.2,13,3.6,8.7,2.4,0,0,0,0,0,,,0.0,0.0,,,39,3.6,139,0,10,
+FreeJo00,Josh Freeman,QB,2013,25,2TM,NFL,QB,4,4,5,20,0,1,40.0,13,4.0,5.0,1.3,0,0,0,0,0,,,0.0,0.0,,,5,4.0,20,0,2,
+FreeJo00,Josh Freeman,QB,2013,25,TAM,NFL,QB,3,3,5,20,0,1,40.0,13,4.0,6.7,1.7,0,0,0,0,0,,,0.0,0.0,,,5,4.0,20,0,2,
+FreeJo00,Josh Freeman,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FreeJo00,Josh Freeman,QB,2015,27,IND,NFL,QB,1,1,8,24,0,3,50.0,9,3.0,24.0,8.0,0,0,0,0,0,,,0.0,0.0,,,8,3.0,24,0,0,

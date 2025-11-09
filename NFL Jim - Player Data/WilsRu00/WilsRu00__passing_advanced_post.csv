@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+WilsRu00,Russell Wilson,QB,2018,30,SEA,NFL,QB,1,1,18,27,224,8.3,135,7.5,5.0,98,5.4,0,1,0,1,3.8,6,23.1,,,2.4,4,1,2,4,13.8,1,3.0,,,,,,,,,
+WilsRu00,Russell Wilson,QB,2019,31,SEA,NFL,QB,2,2,39,61,707,11.6,379,9.7,6.2,223,5.7,0,2,1,2,3.4,13,22.4,43,74.1,2.7,26,3,15,24,30.8,11,9.7,3,32,2,21,1,11,20,243,
+WilsRu00,Russell Wilson,QB,2020,32,SEA,NFL,QB,1,1,11,27,392,14.5,134,12.2,5.0,40,3.6,0,1,0,2,7.7,9,34.6,13,50.0,3.0,11,1,5,11,30.6,4,12.5,1,0,1,0,0,0,4,20,
+WilsRu00,Russell Wilson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WilsRu00,Russell Wilson,QB,2024,36,PIT,NFL,QB,1,1,20,29,244,8.4,144,7.2,5.0,126,6.3,1,3,0,2,7.7,3,11.5,22,84.6,2.1,4,3,3,10,28.6,2,3.5,2,20,2,20,0,0,4,41,

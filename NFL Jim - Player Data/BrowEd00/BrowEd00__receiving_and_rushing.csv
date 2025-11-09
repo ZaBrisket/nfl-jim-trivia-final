@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrowEd00,Eddie Brown,WR,1985,23,CIN,NFL,WR,16,16,103,53,942,17.8,8,38,45.6,68,3.3,58.9,51.5,9.1,14,129,0,6,50.0,35,9.2,8.1,0.9,67,16.0,1071,8,2,11,AP ORoY-1
+BrowEd00,Eddie Brown,WR,1986,24,CIN,NFL,WR,16,16,102,58,964,16.6,4,43,48.0,57,3.6,60.3,56.9,9.5,8,32,0,3,37.5,17,4.0,2.0,0.5,66,15.1,996,4,0,10,
+BrowEd00,Eddie Brown,WR,1987,25,CIN,NFL,WR,12,12,85,44,608,13.8,3,30,45.9,47,3.7,50.7,51.8,7.2,1,0,0,0,0.0,,0.0,0.0,0.1,45,13.5,608,3,3,5,
+BrowEd00,Eddie Brown,WR,1988,26,CIN,NFL,WR,16,16,99,53,1273,24.0,9,44,51.5,86,3.3,79.6,53.5,12.9,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,54,23.5,1268,9,1,16,"PB,AP-2,AP OPoY-4"
+BrowEd00,Eddie Brown,WR,1989,27,CIN,NFL,WR,15,15,96,52,814,15.7,6,34,51.0,46,3.5,54.3,54.2,8.5,0,0,0,0,,,,0.0,0.0,52,15.7,814,6,0,8,
+BrowEd00,Eddie Brown,WR,1990,28,CIN,NFL,WR,14,12,90,44,706,16.0,9,34,42.2,50,3.1,50.4,48.9,7.8,0,0,0,0,,,,0.0,0.0,44,16.0,706,9,0,8,
+BrowEd00,Eddie Brown,WR,1991,29,CIN,NFL,WR,13,12,110,59,827,14.0,2,39,45.5,53,4.5,63.6,53.6,7.5,1,8,0,1,100.0,8,8.0,0.6,0.1,60,13.9,835,2,0,6,

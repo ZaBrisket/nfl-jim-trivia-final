@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DeckEr00,Eric Decker,WR,2010,23,DEN,NFL,WR,14,0,8,6,106,17.7,1,4,62.5,38,0.4,7.6,75.0,13.3,0,0,0,0,,,,0.0,0.0,6,17.7,106,1,3,1,
+DeckEr00,Eric Decker,WR,2011,24,DEN,NFL,WR,16,13,96,44,612,13.9,8,30,37.5,56,2.8,38.3,45.8,6.4,1,1,0,0,0.0,1,1.0,0.1,0.1,45,13.6,613,8,1,6,
+DeckEr00,Eric Decker,WR,2012,25,DEN,NFL,WR,16,15,122,85,1064,12.5,13,53,60.7,55,5.3,66.5,69.7,8.7,0,0,0,0,,,,0.0,0.0,85,12.5,1064,13,0,9,
+DeckEr00,Eric Decker,WR,2013,26,DEN,NFL,WR,16,16,136,87,1288,14.8,11,63,58.1,61,5.4,80.5,64.0,9.5,0,0,0,0,,,,0.0,0.0,87,14.8,1288,11,2,12,
+DeckEr00,Eric Decker,WR,2014,27,NYJ,NFL,WR,15,15,115,74,962,13.0,5,47,53.9,74,4.9,64.1,64.3,8.4,0,0,0,0,,,,0.0,0.0,74,13.0,962,5,0,7,
+DeckEr00,Eric Decker,WR,2015,28,NYJ,NFL,WR,15,13,132,80,1027,12.8,12,60,53.8,35,5.3,68.5,60.6,7.8,0,0,0,0,,,,0.0,0.0,80,12.8,1027,12,1,9,
+DeckEr00,Eric Decker,WR,2016,29,NYJ,NFL,WR,3,3,21,9,194,21.6,2,9,42.9,35,3.0,64.7,42.9,9.2,0,0,0,0,,,,0.0,0.0,9,21.6,194,2,0,1,
+DeckEr00,Eric Decker,WR,2017,30,TEN,NFL,WR,16,8,83,54,563,10.4,1,31,54.2,29,3.4,35.2,65.1,6.8,0,0,0,0,,,,0.0,0.0,54,10.4,563,1,0,5,

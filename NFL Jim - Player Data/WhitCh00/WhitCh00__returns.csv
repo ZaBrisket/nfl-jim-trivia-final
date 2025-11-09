@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WhitCh00,Charles White,RB,1980,22,CLE,NFL,RB,14,7,0,0,0,0,,1,20,0,20,20.0,452,
+WhitCh00,Charles White,RB,1981,23,CLE,NFL,RB,16,8,0,0,0,0,,12,243,0,32,20.3,804,
+WhitCh00,Charles White,RB,,,,,,,,,,,,,,,,,,,
+WhitCh00,Charles White,RB,1984,26,CLE,NFL,RB,10,1,0,0,0,0,,5,80,0,23,16.0,171,
+WhitCh00,Charles White,RB,1985,27,RAM,NFL,RB,16,0,1,0,0,0,0.0,17,300,0,32,17.6,622,
+WhitCh00,Charles White,RB,1986,28,RAM,NFL,RB,16,0,0,0,0,0,,12,216,0,28,18.0,349,
+WhitCh00,Charles White,RB,1987,29,RAM,NFL,RB,15,12,0,0,0,0,,3,73,0,26,24.3,1568,"PB,AP-1"
+WhitCh00,Charles White,RB,1988,30,RAM,NFL,RB,12,3,0,0,0,0,,2,37,0,23,18.5,396,

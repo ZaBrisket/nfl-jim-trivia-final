@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CarsCa00,Carlos Carson,WR,1980,22,KAN,NFL,WR,16,1,15,5,68,13.6,0,3,33.3,32,0.3,4.3,33.3,4.5,2,41,0,1,100.0,37,20.5,2.6,0.1,7,15.6,109,0,1,1,
+CarsCa00,Carlos Carson,WR,1981,23,KAN,NFL,WR,5,1,17,7,179,25.6,1,5,35.3,53,1.4,35.8,41.2,10.5,1,-1,0,0,0.0,-1,-1.0,-0.2,0.2,8,22.3,178,1,1,2,
+CarsCa00,Carlos Carson,WR,1982,24,KAN,NFL,WR,9,7,57,27,494,18.3,2,19,42.1,51,3.0,54.9,47.4,8.7,0,0,0,0,,,,0.0,0.0,27,18.3,494,2,1,9,
+CarsCa00,Carlos Carson,WR,1983,25,KAN,NFL,WR,16,16,148,80,1351,16.9,7,57,50.7,50,5.0,84.4,54.1,9.1,2,20,0,1,50.0,18,10.0,1.3,0.1,82,16.7,1371,7,2,11,PB
+CarsCa00,Carlos Carson,WR,1984,26,KAN,NFL,WR,16,16,134,57,1078,18.9,4,46,40.3,57,3.6,67.4,42.5,8.0,1,-8,0,0,0.0,-8,-8.0,-0.5,0.1,58,18.4,1070,4,0,8,
+CarsCa00,Carlos Carson,WR,1985,27,KAN,NFL,WR,15,14,101,47,843,17.9,4,40,44.6,37,3.1,56.2,46.5,8.3,3,25,0,2,66.7,13,8.3,1.7,0.2,50,17.4,868,4,0,7,
+CarsCa00,Carlos Carson,WR,1986,28,KAN,NFL,WR,10,7,47,21,497,23.7,4,16,40.4,70,2.1,49.7,44.7,10.6,0,0,0,0,,,,0.0,0.0,21,23.7,497,4,1,5,
+CarsCa00,Carlos Carson,WR,1987,29,KAN,NFL,WR,12,12,104,55,1044,19.0,7,44,51.0,81,4.6,87.0,52.9,10.0,1,-7,0,0,0.0,-7,-7.0,-0.6,0.1,56,18.5,1037,7,1,9,PB
+CarsCa00,Carlos Carson,WR,1988,30,KAN,NFL,WR,14,14,99,46,711,15.5,3,30,41.4,80,3.3,50.8,46.5,7.2,1,1,0,0,0.0,1,1.0,0.1,0.1,47,15.1,712,3,0,6,
+CarsCa00,Carlos Carson,WR,1989,31,2TM,NFL,WR,13,4,17,8,107,13.4,1,7,47.1,28,0.6,8.2,47.1,6.3,1,-9,0,0,0.0,-9,-9.0,-0.7,0.1,9,10.9,98,1,0,1,
+CarsCa00,Carlos Carson,WR,1989,31,KAN,NFL,WR,7,3,10,7,95,13.6,1,6,70.0,28,1.0,13.6,70.0,9.5,0,0,0,0,,,,0.0,0.0,7,13.6,95,1,0,1,
+CarsCa00,Carlos Carson,WR,1989,31,PHI,NFL,WR,6,1,7,1,12,12.0,0,1,14.3,12,0.2,2.0,14.3,1.7,1,-9,0,0,0.0,-9,-9.0,-1.5,0.2,2,1.5,3,0,0,0,

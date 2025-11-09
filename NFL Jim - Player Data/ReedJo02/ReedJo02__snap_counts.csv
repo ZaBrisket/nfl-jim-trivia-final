@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ReedJo02,Jordan Reed,TE,2013,23,WAS,TE,86,9,4,378,56%,0,0%,32,12%
+ReedJo02,Jordan Reed,TE,2014,24,WAS,TE,86,11,2,364,50%,0,0%,0,0%
+ReedJo02,Jordan Reed,TE,2015,25,WAS,TE,86,14,8,702,74%,0,0%,4,1%
+ReedJo02,Jordan Reed,TE,2016*,26,WAS,TE,86,12,8,566,72%,0,0%,0,0%
+ReedJo02,Jordan Reed,TE,2017,27,WAS,TE,86,6,5,234,61%,0,0%,0,0%
+ReedJo02,Jordan Reed,TE,2018,28,WAS,TE,86,13,8,512,61%,0,0%,0,0%
+ReedJo02,Jordan Reed,TE,2020,30,SFO,TE,81,10,1,247,36%,0,0%,0,0%

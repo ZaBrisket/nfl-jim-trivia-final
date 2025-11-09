@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GlenTe00,Terry Glenn,WR,1996,22,NWE,NFL,WR,3,2,26,12,164,13.7,0,5,34.6,53,4.0,54.7,46.2,6.3,0,0,0,0,0.0,0.0,12,13.7,164,0,0,
+GlenTe00,Terry Glenn,WR,1997,23,NWE,NFL,WR,2,2,20,9,153,17.0,0,5,35.0,39,4.5,76.5,45.0,7.7,0,0,0,0,0.0,0.0,9,17.0,153,0,0,
+GlenTe00,Terry Glenn,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GlenTe00,Terry Glenn,WR,2002,28,GNB,NFL,WR,1,1,2,1,11,11.0,0,1,50.0,11,1.0,11.0,50.0,5.5,0,0,0,0,0.0,0.0,1,11.0,11,0,0,
+GlenTe00,Terry Glenn,WR,2003,29,DAL,NFL,WR,1,1,7,4,38,9.5,0,2,57.1,21,4.0,38.0,57.1,5.4,0,0,0,0,0.0,0.0,4,9.5,38,0,0,
+GlenTe00,Terry Glenn,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GlenTe00,Terry Glenn,WR,2006,32,DAL,NFL,WR,1,1,6,4,41,10.3,0,1,50.0,18,4.0,41.0,66.7,6.8,0,0,0,0,0.0,0.0,4,10.3,41,0,1,
+GlenTe00,Terry Glenn,WR,2007,33,DAL,NFL,WR,1,0,5,2,30,15.0,0,2,40.0,19,2.0,30.0,40.0,6.0,0,0,0,0,0.0,0.0,2,15.0,30,0,0,

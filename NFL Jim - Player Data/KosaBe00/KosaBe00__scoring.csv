@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+KosaBe00,Bernie Kosar,QB,1985,22,CLE,NFL,QB,12,10,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+KosaBe00,Bernie Kosar,QB,,,,,,,,,,,,,,,,,,,,,,,,
+KosaBe00,Bernie Kosar,QB,1987,24,CLE,NFL,QB,12,12,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,"PB,AP OPoY-3"
+KosaBe00,Bernie Kosar,QB,1988,25,CLE,NFL,QB,9,9,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.7,
+KosaBe00,Bernie Kosar,QB,1989,26,CLE,NFL,QB,16,16,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+KosaBe00,Bernie Kosar,QB,,,,,,,,,,,,,,,,,,,,,,,,
+KosaBe00,Bernie Kosar,QB,1995,32,MIA,NFL,QB,9,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,

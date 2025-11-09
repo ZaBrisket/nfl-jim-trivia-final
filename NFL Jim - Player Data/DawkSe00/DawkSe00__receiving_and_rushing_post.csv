@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DawkSe00,Sean Dawkins,WR,1995,24,IND,NFL,WR,3,3,15,13,182,14.0,1,9,80.0,42,4.3,60.7,86.7,12.1,0,0,0,0,0.0,0.0,13,14.0,182,1,0,
+DawkSe00,Sean Dawkins,WR,1996,25,IND,NFL,WR,1,1,6,2,18,9.0,0,1,16.7,12,2.0,18.0,33.3,3.0,0,0,0,0,0.0,0.0,2,9.0,18,0,0,
+DawkSe00,Sean Dawkins,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DawkSe00,Sean Dawkins,WR,1999,28,SEA,NFL,WR,1,1,8,3,35,11.7,1,3,37.5,17,3.0,35.0,37.5,4.4,0,0,0,0,0.0,0.0,3,11.7,35,1,0,

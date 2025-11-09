@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MoorLa00,Lance Moore,WR,2006,23,NOR,NFL,WR,4,0,3,1,10,10.0,0,1,33.3,10,0.3,2.5,33.3,3.3,0,0,0,0,,,,0.0,0.0,1,10.0,10,0,0,0,
+MoorLa00,Lance Moore,WR,2007,24,NOR,NFL,WR,16,4,50,32,302,9.4,2,22,56.0,22,2.0,18.9,64.0,6.0,2,7,1,1,50.0,7,3.5,0.4,0.1,34,9.1,309,3,2,3,
+MoorLa00,Lance Moore,WR,2008,25,NOR,NFL,WR,16,6,121,79,928,11.7,10,40,52.1,70,4.9,58.0,65.3,7.7,0,0,0,0,,,,0.0,0.0,79,11.7,928,10,1,9,
+MoorLa00,Lance Moore,WR,2009,26,NOR,NFL,WR,7,0,19,14,153,10.9,2,10,68.4,22,2.0,21.9,73.7,8.1,0,0,0,0,,,,0.0,0.0,14,10.9,153,2,0,2,
+MoorLa00,Lance Moore,WR,2010,27,NOR,NFL,WR,16,1,94,66,763,11.6,8,40,60.6,80,4.1,47.7,70.2,8.1,0,0,0,0,,,,0.0,0.0,66,11.6,763,8,2,7,
+MoorLa00,Lance Moore,WR,2011,28,NOR,NFL,WR,14,7,73,52,627,12.1,8,35,64.4,47,3.7,44.8,71.2,8.6,0,0,0,0,,,,0.0,0.0,52,12.1,627,8,0,6,
+MoorLa00,Lance Moore,WR,2012,29,NOR,NFL,WR,15,7,104,65,1041,16.0,6,55,59.6,51,4.3,69.4,62.5,10.0,0,0,0,0,,,,0.0,0.0,65,16.0,1041,6,0,8,
+MoorLa00,Lance Moore,WR,2013,30,NOR,NFL,WR,13,5,54,37,457,12.4,2,26,64.8,44,2.8,35.2,68.5,8.5,0,0,0,0,,,,0.0,0.0,37,12.4,457,2,1,4,
+MoorLa00,Lance Moore,WR,2014,31,PIT,NFL,WR,14,2,26,14,198,14.1,2,11,42.3,29,1.0,14.1,53.8,7.6,0,0,0,0,,,,0.0,0.0,14,14.1,198,2,0,2,
+MoorLa00,Lance Moore,WR,2015,32,DET,NFL,WR,14,8,43,29,337,11.6,4,20,55.8,42,2.1,24.1,67.4,7.8,0,0,0,0,,,,0.0,0.0,29,11.6,337,4,1,3,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HillRa00,Randal Hill,WR,1991,22,2TM,NFL,WR,16,4,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+HillRa00,Randal Hill,WR,1991,22,PHO,NFL,WR,15,4,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+HillRa00,Randal Hill,WR,1992,23,PHO,NFL,WR,16,14,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+HillRa00,Randal Hill,WR,1993,24,PHO,NFL,WR,16,8,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+HillRa00,Randal Hill,WR,,,,,,,,,,,,,,,,,,,,,,,,
+HillRa00,Randal Hill,WR,1996,27,MIA,NFL,WR,14,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,
+HillRa00,Randal Hill,WR,1997,28,NOR,NFL,WR,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

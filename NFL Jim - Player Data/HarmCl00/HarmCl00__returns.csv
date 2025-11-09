@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HarmCl00,Clarence Harmon,RB,1977,22,WAS,NFL,FB,12,9,0,0,0,0,,1,18,0,18,18.0,447,
+HarmCl00,Clarence Harmon,RB,1978,23,WAS,NFL,RB,16,3,1,5,0,5,5.0,3,52,0,20,17.3,310,
+HarmCl00,Clarence Harmon,RB,1979,24,WAS,NFL,RB,16,1,1,10,0,10,10.0,5,63,0,19,12.6,774,
+HarmCl00,Clarence Harmon,RB,,,,,,,,,,,,,,,,,,,
+HarmCl00,Clarence Harmon,RB,1982,27,WAS,NFL,RB,9,0,0,0,0,0,,1,13,0,13,13.0,267,

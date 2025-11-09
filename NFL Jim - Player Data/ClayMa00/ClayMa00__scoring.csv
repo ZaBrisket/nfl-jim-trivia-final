@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ClayMa00,Mark Clayton,WR,1983,22,MIA,NFL,WR,14,0,0,1,1,0,0,0,0,2,0,0,0,0,0,12,0.9,
+ClayMa00,Mark Clayton,WR,1984,23,MIA,NFL,WR,15,15,0,18,0,0,0,0,0,18,0,0,0,0,0,108,7.2,"PB,AP-2"
+ClayMa00,Mark Clayton,WR,1985,24,MIA,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,PB
+ClayMa00,Mark Clayton,WR,1986,25,MIA,NFL,WR,15,14,0,10,0,0,0,0,0,10,0,0,0,0,0,60,4.0,PB
+ClayMa00,Mark Clayton,WR,1987,26,MIA,NFL,WR,12,12,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.5,
+ClayMa00,Mark Clayton,WR,1988,27,MIA,NFL,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,84,5.3,PB
+ClayMa00,Mark Clayton,WR,1989,28,MIA,NFL,WR,15,15,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.6,
+ClayMa00,Mark Clayton,WR,1990,29,MIA,NFL,WR,10,10,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.8,
+ClayMa00,Mark Clayton,WR,1991,30,MIA,NFL,WR,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,72,4.5,PB
+ClayMa00,Mark Clayton,WR,1992,31,MIA,NFL,WR,13,13,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.4,
+ClayMa00,Mark Clayton,WR,1993,32,GNB,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,

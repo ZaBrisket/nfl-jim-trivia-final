@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+CookBr00,Brandin Cooks,WR,2018,25,LAR,NFL,WR,16,16,117,80,1204,56,858,10.7,346,4.3,12.8,4,20.0,0,0.0,2,109.1,10,68,5,57,5.7,11,1.1,0,
+CookBr00,Brandin Cooks,WR,2019,26,LAR,NFL,WR,14,14,72,42,583,32,414,9.9,169,4.0,13.9,0,,4,5.6,2,82.1,6,52,3,45,7.5,7,1.2,0,
+CookBr00,Brandin Cooks,WR,2020,27,HOU,NFL,WR,15,15,119,81,1150,51,800,9.9,350,4.3,11.8,3,27.0,2,1.7,4,101.9,0,0,0,0,,0,,0,
+CookBr00,Brandin Cooks,WR,2021,28,HOU,NFL,WR,16,16,134,90,1037,45,680,7.6,357,4.0,10.5,5,18.0,5,3.7,3,95.9,2,21,1,15,7.5,6,3.0,0,
+CookBr00,Brandin Cooks,WR,2022,29,HOU,NFL,WR,13,13,93,57,699,29,494,8.7,205,3.6,10.7,1,57.0,5,5.4,4,77.3,2,7,0,7,3.5,0,0.0,0,
+CookBr00,Brandin Cooks,WR,2023,30,DAL,NFL,WR,16,15,81,54,657,38,532,9.9,125,2.3,13.2,0,,3,3.7,4,103.8,5,35,1,29,5.8,6,1.2,0,
+CookBr00,Brandin Cooks,WR,2024,31,DAL,NFL,WR,10,9,54,26,259,19,204,7.8,55,2.1,11.7,0,,1,1.9,2,65.3,3,-3,0,-8,-2.7,5,1.7,0,
+CookBr00,Brandin Cooks,WR,2025,32,NOR,NFL,WR,9,2,25,19,165,10,128,6.7,37,1.9,9.2,0,,1,4.0,0,92.9,0,0,0,0,,0,,0,

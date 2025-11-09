@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+CulpDa00,Daunte Culpepper,QB,2000,23,MIN,NFL,QB,16,16,129,128,128,128,118,136,99,102,128,PB
+CulpDa00,Daunte Culpepper,QB,2001,24,MIN,NFL,QB,11,11,108,104,103,101,118,99,94,91,106,
+CulpDa00,Daunte Culpepper,QB,2002,25,MIN,NFL,QB,16,16,107,104,96,95,105,90,83,90,94,
+CulpDa00,Daunte Culpepper,QB,2003,26,MIN,NFL,QB,14,14,116,113,119,117,118,117,113,93,120,"PB,AP CPoY-8"
+CulpDa00,Daunte Culpepper,QB,2004,27,MIN,NFL,QB,16,16,131,126,135,132,133,136,120,92,138,"PB,AP OPoY-2"
+CulpDa00,Daunte Culpepper,QB,2005,28,MIN,NFL,QB,7,7,106,94,88,82,115,85,59,63,88,
+CulpDa00,Daunte Culpepper,QB,2006,29,MIA,NFL,QB,4,4,102,83,100,88,101,71,114,55,95,
+CulpDa00,Daunte Culpepper,QB,2007,30,OAK,NFL,QB,7,6,106,95,102,96,91,85,105,75,94,
+CulpDa00,Daunte Culpepper,QB,2008,31,DET,NFL,QB,5,5,98,87,85,80,71,93,68,66,77,
+CulpDa00,Daunte Culpepper,QB,2009,32,DET,NFL,QB,8,5,82,77,78,75,86,73,87,83,77,

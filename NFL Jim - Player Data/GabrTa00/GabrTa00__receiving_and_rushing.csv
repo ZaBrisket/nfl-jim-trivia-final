@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GabrTa00,Taylor Gabriel,WR,2014,23,CLE,NFL,WR,16,2,72,36,621,17.3,1,26,40.3,70,2.3,38.8,50.0,8.6,4,10,0,0,25.0,8,2.5,0.6,0.3,40,15.8,631,1,0,4,
+GabrTa00,Taylor Gabriel,WR,2015,24,CLE,NFL,WR,13,4,48,28,241,8.6,0,11,43.8,56,2.2,18.5,58.3,5.0,0,0,0,0,,,,0.0,0.0,28,8.6,241,0,1,1,
+GabrTa00,Taylor Gabriel,WR,2016,25,ATL,NFL,WR,13,3,50,35,579,16.5,6,23,54.0,76,2.7,44.5,70.0,11.6,4,51,1,3,75.0,27,12.8,3.9,0.3,39,16.2,630,7,0,7,
+GabrTa00,Taylor Gabriel,WR,2017,26,ATL,NFL,WR,16,4,51,33,378,11.5,1,17,43.1,40,2.1,23.6,64.7,7.4,8,49,0,4,75.0,15,6.1,3.1,0.5,41,10.4,427,1,0,4,
+GabrTa00,Taylor Gabriel,WR,2018,27,CHI,NFL,WR,16,11,93,67,688,10.3,2,31,53.8,54,4.2,43.0,72.0,7.4,9,61,0,3,77.8,20,6.8,3.8,0.6,76,9.9,749,2,1,7,
+GabrTa00,Taylor Gabriel,WR,2019,28,CHI,NFL,WR,9,7,48,29,353,12.2,4,17,50.0,53,3.2,39.2,60.4,7.4,3,20,0,1,66.7,14,6.7,2.2,0.3,32,11.7,373,4,0,3,

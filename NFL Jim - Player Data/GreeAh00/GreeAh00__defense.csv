@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+GreeAh00,Ahman Green,RB,1998,21,SEA,NFL,RB,16,0,0,0,0,0,,0,1,1,0,0,0.0,0,0,0,,,0,
+GreeAh00,Ahman Green,RB,1999,22,SEA,NFL,RB,14,0,0,0,0,0,0,0,2,1,0,0,0.0,6,5,1,0,,0,
+GreeAh00,Ahman Green,RB,2000,23,GNB,NFL,RB,16,11,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,,0,AP CPoY-12
+GreeAh00,Ahman Green,RB,2001,24,GNB,NFL,RB,16,16,0,0,0,0,0,0,5,2,0,0,0.0,1,1,0,0,,0,"PB,AP-2"
+GreeAh00,Ahman Green,RB,2002,25,GNB,NFL,RB,14,14,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,,0,PB
+GreeAh00,Ahman Green,RB,2003,26,GNB,NFL,RB,16,16,0,0,0,0,0,0,7,2,0,0,0.0,0,0,0,0,,0,PB
+GreeAh00,Ahman Green,RB,2004,27,GNB,NFL,RB,15,15,0,0,0,0,0,0,7,2,0,0,0.0,0,0,0,0,,0,PB
+GreeAh00,Ahman Green,RB,2005,28,GNB,NFL,RB,5,5,0,0,0,0,0,0,1,0,0,0,0.0,,,,,,0,
+GreeAh00,Ahman Green,RB,2006,29,GNB,NFL,RB,14,14,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RenfHu00,Hunter Renfrow,WR,2019,24,OAK,WR,13,13,4,435,53%,0,0%,16,5%
+RenfHu00,Hunter Renfrow,WR,2020,25,LVR,WR,13,16,6,550,51%,0,0%,55,12%
+RenfHu00,Hunter Renfrow,WR,2021*,26,LVR,WR,13,17,9,758,67%,0,0%,75,16%
+RenfHu00,Hunter Renfrow,WR,2022,27,LVR,WR,13,10,1,377,61%,0,0%,26,10%
+RenfHu00,Hunter Renfrow,WR,2023,28,LVR,WR,13,17,3,363,35%,0,0%,3,1%
+RenfHu00,Hunter Renfrow,WR,2025,30,CAR,WR,,6,2,210,51%,0,0%,6,4%

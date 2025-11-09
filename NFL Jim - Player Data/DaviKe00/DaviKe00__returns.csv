@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DaviKe00,Kenneth Davis,RB,1986,24,GNB,NFL,RB,16,6,0,0,0,0,12,231,0,35,19.3,892,
+DaviKe00,Kenneth Davis,RB,,,,,,,,,,,,,,,,,,
+DaviKe00,Kenneth Davis,RB,1989,27,BUF,NFL,RB,16,0,0,0,0,0,3,52,0,20,17.3,293,
+DaviKe00,Kenneth Davis,RB,,,,,,,,,,,,,,,,,,
+DaviKe00,Kenneth Davis,RB,1991,29,BUF,NFL,RB,16,1,0,0,0,0,4,73,0,23,18.3,815,
+DaviKe00,Kenneth Davis,RB,1992,30,BUF,NFL,RB,16,0,0,0,0,0,14,251,0,35,17.9,944,
+DaviKe00,Kenneth Davis,RB,1993,31,BUF,NFL,RB,16,0,0,0,0,0,8,100,0,18,12.5,586,
+DaviKe00,Kenneth Davis,RB,1994,32,BUF,NFL,RB,16,1,0,0,0,0,1,0,0,0,0.0,463,

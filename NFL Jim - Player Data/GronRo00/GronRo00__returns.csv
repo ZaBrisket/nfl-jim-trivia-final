@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GronRo00,Rob Gronkowski,TE,2011,22,NWE,NFL,TE,16,16,0,0,0,0,1,11,0,11,11.0,1340,"PB,AP-1"
+GronRo00,Rob Gronkowski,TE,2012,23,NWE,NFL,TE,11,11,0,0,0,0,1,0,0,0,0.0,790,PB
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2015,26,NWE,NFL,TE,15,15,0,0,0,0,1,5,0,5,5.0,1181,"PB,AP-1"

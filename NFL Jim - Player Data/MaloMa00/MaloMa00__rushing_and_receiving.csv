@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MaloMa00,Mark Malone,QB,1981,23,PIT,NFL,QB,8,3,16,68,2,8,50.0,19,4.3,8.5,2.0,3,1,90,90.0,1,1,33.3,90,0.1,11.3,33.3,30.0,17,9.3,158,3,2,
+MaloMa00,Mark Malone,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MaloMa00,Mark Malone,QB,1984,26,PIT,NFL,QB,13,9,25,42,3,10,44.0,13,1.7,3.2,1.9,0,0,0,,0,0,,,0.0,0.0,,,25,1.7,42,3,4,
+MaloMa00,Mark Malone,QB,1985,27,PIT,NFL,QB,10,8,15,80,1,7,60.0,25,5.3,8.0,1.5,0,0,0,,0,0,,,0.0,0.0,,,15,5.3,80,1,3,
+MaloMa00,Mark Malone,QB,1986,28,PIT,NFL,QB,14,14,31,107,5,13,48.4,45,3.5,7.6,2.2,0,0,0,,0,0,,,0.0,0.0,,,31,3.5,107,5,7,
+MaloMa00,Mark Malone,QB,1987,29,PIT,NFL,QB,12,12,34,162,3,11,47.1,42,4.8,13.5,2.8,0,0,0,,0,0,,,0.0,0.0,,,34,4.8,162,3,10,
+MaloMa00,Mark Malone,QB,1988,30,SDG,NFL,QB,12,8,37,169,4,14,51.4,36,4.6,14.1,3.1,0,0,0,,0,0,,,0.0,0.0,,,37,4.6,169,4,6,
+MaloMa00,Mark Malone,QB,1989,31,NYJ,NFL,QB,1,0,1,0,0,0,0.0,,0.0,0.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,0.0,0,0,1,

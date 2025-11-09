@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ClarDe00,Desmond Clark,TE,2000,23,DEN,NFL,TE,1,0,3,1,5,5.0,0,0,0.0,5,1.0,5.0,33.3,1.7,0,0,0,0,0.0,0.0,1,5.0,5,0,0,
+ClarDe00,Desmond Clark,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ClarDe00,Desmond Clark,TE,2005,28,CHI,NFL,TE,1,1,3,2,5,2.5,1,1,33.3,4,2.0,5.0,66.7,1.7,0,0,0,0,0.0,0.0,2,2.5,5,1,0,
+ClarDe00,Desmond Clark,TE,2006,29,CHI,NFL,TE,3,3,13,8,107,13.4,0,5,61.5,30,2.7,35.7,61.5,8.2,0,0,0,0,0.0,0.0,8,13.4,107,0,0,
+ClarDe00,Desmond Clark,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ClarDe00,Desmond Clark,TE,2010,33,CHI,NFL,TE,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,

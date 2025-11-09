@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BrowDa00,Dave Brown,QB,1994,24,NYG,NFL,QB,15,15,111,98,97,90,98,95,77,70,92,
+BrowDa00,Dave Brown,QB,1995,25,NYG,NFL,QB,16,16,86,84,93,91,92,81,116,82,93,
+BrowDa00,Dave Brown,QB,1996,26,NYG,NFL,QB,16,16,84,75,75,70,86,89,70,72,76,
+BrowDa00,Dave Brown,QB,1997,27,NYG,NFL,QB,7,6,80,84,93,95,80,87,122,102,92,
+BrowDa00,Dave Brown,QB,,,,,,,,,,,,,,,,,
+BrowDa00,Dave Brown,QB,1999,29,ARI,NFL,QB,8,5,81,76,80,77,71,71,96,85,75,
+BrowDa00,Dave Brown,QB,2000,30,ARI,NFL,QB,6,2,100,89,91,85,99,88,84,64,89,

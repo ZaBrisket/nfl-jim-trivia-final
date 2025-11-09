@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+HolmPr00,Priest Holmes,RB,1998,25,BAL,NFL,RB,16,13,0,0,0,0,,0,3,1,1,0,0.0,0,0,0,,0,
+HolmPr00,Priest Holmes,RB,1999,26,BAL,NFL,RB,9,4,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,
+HolmPr00,Priest Holmes,RB,2000,27,BAL,NFL,RB,16,2,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,
+HolmPr00,Priest Holmes,RB,2001,28,KAN,NFL,RB,16,16,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,"PB,AP-1,AP OPoY-4"
+HolmPr00,Priest Holmes,RB,2002,29,KAN,NFL,RB,14,14,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,"PB,AP-1,AP MVP-4,AP OPoY-1"
+HolmPr00,Priest Holmes,RB,2003,30,KAN,NFL,RB,16,16,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,"PB,AP-1,AP MVP-5,AP OPoY-4,AP CPoY-11"
+HolmPr00,Priest Holmes,RB,2004,31,KAN,NFL,RB,8,8,0,0,0,0,0,0,4,0,0,0,0.0,,,,,0,
+HolmPr00,Priest Holmes,RB,2005,32,KAN,NFL,RB,7,7,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,
+HolmPr00,Priest Holmes,RB,2006,,Did not play - Injured (spine),,,,,,,,,,,,,,,,,,,,,

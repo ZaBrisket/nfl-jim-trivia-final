@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+VickMi00,Michael Vick,QB,2001,21,ATL,NFL,QB,8,2,104,84,100,87,49,71,109,45,77,
+VickMi00,Michael Vick,QB,2002,22,ATL,NFL,QB,15,15,106,103,113,110,85,98,122,94,104,"PB,AP MVP-4"
+VickMi00,Michael Vick,QB,2003,23,ATL,NFL,QB,5,4,82,79,88,86,69,99,103,88,85,
+VickMi00,Michael Vick,QB,2004,24,ATL,NFL,QB,15,15,107,94,102,94,90,103,90,58,97,"PB,AP MVP-2,AP OPoY-5,AP CPoY-6"
+VickMi00,Michael Vick,QB,2005,25,ATL,NFL,QB,15,15,89,88,90,90,85,98,96,93,90,PB
+VickMi00,Michael Vick,QB,2006,26,ATL,NFL,QB,16,16,91,83,96,90,74,113,96,75,93,
+VickMi00,Michael Vick,QB,2007,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2008,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2010,30,PHI,NFL,QB,12,12,118,112,121,117,106,116,118,83,118,"PB,AP OPoY-2,AP CPoY-1"
+VickMi00,Michael Vick,QB,2011,31,PHI,NFL,QB,13,13,115,117,106,109,97,100,92,109,100,
+VickMi00,Michael Vick,QB,2012,32,PHI,NFL,QB,10,10,92,92,92,92,91,90,99,92,91,
+VickMi00,Michael Vick,QB,2013,33,PHI,NFL,QB,7,6,135,119,121,113,73,90,109,74,100,
+VickMi00,Michael Vick,QB,2014,34,NYJ,NFL,QB,10,3,48,44,69,65,62,77,115,45,73,
+VickMi00,Michael Vick,QB,2015,35,PIT,NFL,QB,5,3,62,50,78,69,91,83,116,44,86,

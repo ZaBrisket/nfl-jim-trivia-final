@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BankTo00,Tony Banks,QB,1996,23,STL,NFL,QB,14,13,105,89,97,88,80,102,85,69,90,
+BankTo00,Tony Banks,QB,1997,24,STL,NFL,QB,16,16,99,95,100,97,81,88,108,93,93,
+BankTo00,Tony Banks,QB,1998,25,STL,NFL,QB,14,14,90,87,87,86,110,76,97,88,89,
+BankTo00,Tony Banks,QB,1999,26,BAL,NFL,QB,12,10,98,94,105,102,83,113,111,87,104,
+BankTo00,Tony Banks,QB,2000,27,BAL,NFL,QB,11,8,81,82,87,86,87,88,106,101,88,
+BankTo00,Tony Banks,QB,2001,28,WAS,NFL,QB,15,14,94,94,96,95,81,84,108,97,89,
+BankTo00,Tony Banks,QB,,,,,,,,,,,,,,,,,
+BankTo00,Tony Banks,QB,2003,30,HOU,NFL,QB,7,3,100,92,103,98,101,110,104,68,105,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MorrBa00,Bam Morris,RB,1994,22,PIT,NFL,RB,15,6,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+MorrBa00,Bam Morris,RB,1995,23,PIT,NFL,RB,13,4,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,4.2,
+MorrBa00,Bam Morris,RB,1996,24,BAL,NFL,RB,11,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,2.7,
+MorrBa00,Bam Morris,RB,1997,25,BAL,NFL,RB,11,8,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,2.2,
+MorrBa00,Bam Morris,RB,1998,26,2TM,NFL,RB,12,5,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,4.0,
+MorrBa00,Bam Morris,RB,1998,26,KAN,NFL,RB,10,5,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,4.8,
+MorrBa00,Bam Morris,RB,1999,27,KAN,NFL,RB,12,8,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.5,

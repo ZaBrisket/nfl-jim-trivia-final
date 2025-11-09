@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GabrTa00,Taylor Gabriel,WR,2014,23,CLE,WR,18,16,2,612,58%,0,0%,29,6%
+GabrTa00,Taylor Gabriel,WR,2015,24,CLE,WR,18,13,4,399,45%,0,0%,12,3%
+GabrTa00,Taylor Gabriel,WR,2016,25,ATL,WR,18,13,3,348,41%,0,0%,41,11%
+GabrTa00,Taylor Gabriel,WR,2017,26,ATL,WR,18,16,4,540,53%,0,0%,1,0%
+GabrTa00,Taylor Gabriel,WR,2018,27,CHI,WR,18,16,11,830,77%,0,0%,1,0%
+GabrTa00,Taylor Gabriel,WR,2019,28,CHI,WR,18,9,7,445,76%,0,0%,0,0%

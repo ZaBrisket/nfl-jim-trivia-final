@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DiggSt00,Stefon Diggs,WR,2015,22,MIN,NFL,WR,13,9,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,0,0,
+DiggSt00,Stefon Diggs,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+DiggSt00,Stefon Diggs,WR,2018,25,MIN,NFL,WR,15,14,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,
+DiggSt00,Stefon Diggs,WR,2019,26,MIN,NFL,WR,15,15,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,0,
+DiggSt00,Stefon Diggs,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+DiggSt00,Stefon Diggs,WR,2021,28,BUF,NFL,WR,17,17,0,0,0,0,0,0,1,0,0,0,0.0,2,2,0,0,0,0,PB
+DiggSt00,Stefon Diggs,WR,2022,29,BUF,NFL,WR,16,16,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+DiggSt00,Stefon Diggs,WR,2023,30,BUF,NFL,WR,17,17,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,PB

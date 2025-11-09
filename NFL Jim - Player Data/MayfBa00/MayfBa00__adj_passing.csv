@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MayfBa00,Baker Mayfield,QB,2018,23,CLE,NFL,QB,14,13,109,112,106,108,101,112,91,113,105,AP ORoY-2
+MayfBa00,Baker Mayfield,QB,2019,24,CLE,NFL,QB,16,16,98,96,87,87,79,95,71,96,82,
+MayfBa00,Baker Mayfield,QB,2020,25,CLE,NFL,QB,16,16,103,106,108,110,92,108,112,109,106,
+MayfBa00,Baker Mayfield,QB,2021,26,CLE,NFL,QB,14,14,101,94,94,90,81,95,83,78,88,
+MayfBa00,Baker Mayfield,QB,2022,27,2TM,NFL,QB,12,10,85,80,85,82,79,84,99,77,82,
+MayfBa00,Baker Mayfield,QB,2022,27,CAR,NFL,QB,7,6,83,80,80,79,69,83,87,86,75,
+MayfBa00,Baker Mayfield,QB,2022,27,LAR,NFL,QB,5,4,89,79,94,87,95,85,117,63,94,
+MayfBa00,Baker Mayfield,QB,2023,28,TAM,NFL,QB,17,17,103,104,108,109,100,111,112,102,110,"PB,AP CPoY-3"
+MayfBa00,Baker Mayfield,QB,2024,29,TAM,NFL,QB,17,17,117,116,117,116,126,134,89,103,124,"PB,AP MVP-11,AP OPoY-11"
+MayfBa00,Baker Mayfield,QB,2025,30,TAM,NFL,QB,8,8,100,102,108,109,95,102,123,106,106,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+EsiaBo00,Boomer Esiason,QB,1984,23,CIN,NFL,QB,10,4,60,72,80,85,80,86,116,121,85,
+EsiaBo00,Boomer Esiason,QB,1985,24,CIN,NFL,QB,15,14,120,119,126,125,109,125,117,107,125,
+EsiaBo00,Boomer Esiason,QB,1986,25,CIN,NFL,QB,16,16,133,137,125,128,112,110,106,115,118,PB
+EsiaBo00,Boomer Esiason,QB,1987,26,CIN,NFL,QB,12,12,112,116,104,107,99,95,95,111,99,
+EsiaBo00,Boomer Esiason,QB,1988,27,CIN,NFL,QB,16,16,147,140,139,136,108,133,104,100,129,"PB,AP-1,AP MVP-1,AP OPoY-2"
+EsiaBo00,Boomer Esiason,QB,1989,28,CIN,NFL,QB,16,15,115,111,123,120,105,125,118,98,122,PB
+EsiaBo00,Boomer Esiason,QB,1990,29,CIN,NFL,QB,16,16,112,110,101,102,97,123,74,99,101,
+EsiaBo00,Boomer Esiason,QB,1991,30,CIN,NFL,QB,14,14,101,104,97,100,98,91,96,109,95,
+EsiaBo00,Boomer Esiason,QB,1992,31,CIN,NFL,QB,12,11,67,72,66,70,81,103,72,104,74,
+EsiaBo00,Boomer Esiason,QB,1993,32,NYJ,NFL,QB,16,16,109,115,112,116,109,95,116,120,110,PB
+EsiaBo00,Boomer Esiason,QB,1994,33,NYJ,NFL,QB,15,14,91,97,95,99,100,101,103,114,99,
+EsiaBo00,Boomer Esiason,QB,1995,34,NYJ,NFL,QB,12,12,78,78,82,82,96,103,89,98,90,
+EsiaBo00,Boomer Esiason,QB,1996,35,ARI,NFL,QB,10,8,101,107,92,96,95,91,84,112,90,
+EsiaBo00,Boomer Esiason,QB,1997,36,CIN,NFL,QB,7,5,123,131,133,139,125,131,130,120,136,

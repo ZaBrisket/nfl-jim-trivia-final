@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+YounBr01,Bryce Young,QB,2023,22,CAR,NFL,QB,16,16,2-14-0,315,527,59.8,2877,11,2.1,10,1.9,133,36.5,48,5.5,5.02,9.1,179.8,73.7,34.1,62,477,10.53,4.07,3.68,2,2,6,
+YounBr01,Bryce Young,QB,2024,23,CAR,NFL,QB,14,12,4-8-0,234,384,60.9,2403,15,3.9,9,2.3,117,39.0,83,6.3,5.98,10.3,171.6,82.2,50.7,29,186,7.02,5.37,5.11,1,4,8,
+YounBr01,Bryce Young,QB,2025,24,CAR,NFL,QB,8,8,5-3-0,149,244,61.1,1390,11,4.5,6,2.5,78,43.8,40,5.7,5.49,9.3,173.8,81.5,44.8,12,91,4.69,5.07,4.88,2,3,,

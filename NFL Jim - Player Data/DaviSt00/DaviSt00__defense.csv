@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DaviSt00,Stephen Davis,RB,1997,23,WAS,NFL,RB,14,6,0,0,0,0,,0,1,1,0,0,0.0,0,0,0,,,0,
+DaviSt00,Stephen Davis,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+DaviSt00,Stephen Davis,RB,1999,25,WAS,NFL,RB,14,14,0,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,,0,"PB,AP-2,AP CPoY-9"
+DaviSt00,Stephen Davis,RB,2000,26,WAS,NFL,RB,15,15,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,,0,PB
+DaviSt00,Stephen Davis,RB,2001,27,WAS,NFL,RB,16,16,0,0,0,0,0,0,6,7,0,0,0.0,0,0,0,0,,0,
+DaviSt00,Stephen Davis,RB,2002,28,WAS,NFL,RB,12,12,0,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,,0,
+DaviSt00,Stephen Davis,RB,2003,29,CAR,NFL,RB,14,14,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,,0,"PB,AP CPoY-4"
+DaviSt00,Stephen Davis,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+DaviSt00,Stephen Davis,RB,2005,31,CAR,NFL,RB,13,11,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+DaviSt00,Stephen Davis,RB,2006,32,STL,NFL,RB,15,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+AlleKe00,Keenan Allen,WR,2013,21,SDG,NFL,WR,15,14,15,125,0,28,8.3,0,0,0,0,,1171,AP ORoY-2
+AlleKe00,Keenan Allen,WR,2014,22,SDG,NFL,WR,14,14,11,99,0,29,9.0,0,0,0,0,,882,
+AlleKe00,Keenan Allen,WR,2015,23,SDG,NFL,WR,8,8,3,5,0,5,1.7,0,0,0,0,,730,
+AlleKe00,Keenan Allen,WR,,,,,,,,,,,,,,,,,,,
+AlleKe00,Keenan Allen,WR,2018,26,LAC,NFL,WR,16,14,1,0,0,0,0.0,1,25,0,25,25.0,1277,PB

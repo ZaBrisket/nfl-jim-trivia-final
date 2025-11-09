@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MarsBr00,Brandon Marshall,WR,2012*+,28,CHI,WR,15,16,16,969,93%,1,0%,1,0%
+MarsBr00,Brandon Marshall,WR,2013*,29,CHI,WR,15,16,16,988,93%,0,0%,3,1%
+MarsBr00,Brandon Marshall,WR,2014,30,CHI,WR,15,13,13,753,86%,0,0%,1,0%
+MarsBr00,Brandon Marshall,WR,2015*,31,NYJ,WR,15,16,16,1058,95%,0,0%,8,2%
+MarsBr00,Brandon Marshall,WR,2016,32,NYJ,WR,15,15,15,899,92%,0,0%,2,1%
+MarsBr00,Brandon Marshall,WR,2017,33,NYG,WR,15,5,5,256,77%,0,0%,0,0%
+MarsBr00,Brandon Marshall,WR,2018,34,SEA,WR,15,7,2,191,43%,0,0%,0,0%

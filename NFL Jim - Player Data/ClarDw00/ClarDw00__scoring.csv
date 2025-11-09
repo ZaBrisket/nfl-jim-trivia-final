@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ClarDw00,Dwight Clark,WR,1980,23,SFO,NFL,WR,16,12,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,
+ClarDw00,Dwight Clark,WR,1981,24,SFO,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,PB
+ClarDw00,Dwight Clark,WR,1982,25,SFO,NFL,WR,9,8,0,5,0,0,0,0,0,5,0,0,0,0,0,30,3.3,"PB,AP-1"
+ClarDw00,Dwight Clark,WR,1983,26,SFO,NFL,WR,16,13,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,
+ClarDw00,Dwight Clark,WR,1984,27,SFO,NFL,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+ClarDw00,Dwight Clark,WR,1985,28,SFO,NFL,WR,16,14,0,10,0,0,0,0,0,10,0,0,0,0,0,60,3.8,
+ClarDw00,Dwight Clark,WR,1986,29,SFO,NFL,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+ClarDw00,Dwight Clark,WR,1987,30,SFO,NFL,WR,13,3,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.3,

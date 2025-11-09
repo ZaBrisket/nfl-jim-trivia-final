@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitAl03,Alex Smith,QB,2006,22,SFO,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SmitAl03,Alex Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAl03,Alex Smith,QB,2011,27,SFO,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,AP CPoY-3
+SmitAl03,Alex Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAl03,Alex Smith,QB,2013,29,KAN,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP CPoY-6"
+SmitAl03,Alex Smith,QB,2014,30,KAN,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+SmitAl03,Alex Smith,QB,2015,31,KAN,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SmitAl03,Alex Smith,QB,2016,32,KAN,NFL,QB,15,15,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,PB
+SmitAl03,Alex Smith,QB,2017,33,KAN,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,PB
+SmitAl03,Alex Smith,QB,2018,34,WAS,NFL,QB,10,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,
+SmitAl03,Alex Smith,QB,2019,,Did not play - Injured (infection),,,,,,,,,,,,,,,,,,,,,

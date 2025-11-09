@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TurnFl00,Floyd Turner,WR,1989,23,NOR,NFL,WR,13,1,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+TurnFl00,Floyd Turner,WR,1990,24,NOR,NFL,WR,16,0,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+TurnFl00,Floyd Turner,WR,1991,25,NOR,NFL,WR,16,4,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+TurnFl00,Floyd Turner,WR,,,,,,,,,,,,,,,,,,,,,,,,
+TurnFl00,Floyd Turner,WR,1993,27,NOR,NFL,WR,10,2,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.6,
+TurnFl00,Floyd Turner,WR,1994,28,IND,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+TurnFl00,Floyd Turner,WR,1995,29,IND,NFL,WR,14,12,0,4,0,0,0,0,0,4,2,0,0,0,0,0,28,2.0,
+TurnFl00,Floyd Turner,WR,1996,30,BAL,NFL,WR,11,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+TurnFl00,Floyd Turner,WR,,,,,,,,,,,,,,,,,,,,,,,,
+TurnFl00,Floyd Turner,WR,1998,32,BAL,NFL,WR,16,3,0,5,0,0,0,0,0,5,2,0,0,0,0,0,34,2.1,

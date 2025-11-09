@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JohnAn02,Andre Johnson,WR,2012*,31,HOU,WR,80,16,16,976,87%,0,0%,0,0%
+JohnAn02,Andre Johnson,WR,2013*,32,HOU,WR,80,16,16,994,89%,0,0%,0,0%
+JohnAn02,Andre Johnson,WR,2014,33,HOU,WR,80,15,15,927,89%,0,0%,1,0%
+JohnAn02,Andre Johnson,WR,2015,34,IND,WR,81,16,14,707,64%,0,0%,0,0%
+JohnAn02,Andre Johnson,WR,2016,35,TEN,WR,81,8,4,217,40%,0,0%,4,2%

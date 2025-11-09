@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BurrJo01,Joe Burrow,QB,2020,24,CIN,NFL,QB,10,10,37,142,3,14,54.1,23,3.8,14.2,3.7,0,0,0,0,0,0.0,0.0,37,3.8,142,3,9,
+BurrJo01,Joe Burrow,QB,2021,25,CIN,NFL,QB,16,16,40,118,2,14,40.0,12,3.0,7.4,2.5,0,0,0,0,0,0.0,0.0,40,3.0,118,2,5,AP CPoY-1
+BurrJo01,Joe Burrow,QB,2022,26,CIN,NFL,QB,16,16,75,257,5,28,49.3,23,3.4,16.1,4.7,0,0,0,0,0,0.0,0.0,75,3.4,257,5,6,"PB,AP MVP-4,AP OPoY-9"
+BurrJo01,Joe Burrow,QB,2023,27,CIN,NFL,QB,10,10,31,88,0,9,38.7,20,2.8,8.8,3.1,0,0,0,0,0,0.0,0.0,31,2.8,88,0,2,
+BurrJo01,Joe Burrow,QB,2024,28,CIN,NFL,QB,17,17,42,201,2,16,47.6,47,4.8,11.8,2.5,0,0,0,0,0,0.0,0.0,42,4.8,201,2,11,"PB,AP MVP-4,AP OPoY-5,AP CPoY-1"
+BurrJo01,Joe Burrow,QB,2025,29,CIN,NFL,QB,2,2,2,3,0,0,0.0,2,1.5,1.5,1.0,0,0,0,0,0,0.0,0.0,2,1.5,3,0,0,

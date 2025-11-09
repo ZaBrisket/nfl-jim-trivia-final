@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+McDoPa00,Paul McDonald,QB,1980,22,CLE,NFL,QB,15,0,3,-2,0,0,0.0,,-0.7,-0.1,0.2,0,0,0,,0,0,,,0.0,0.0,,,3,-0.7,-2,0,2,
+McDoPa00,Paul McDonald,QB,1981,23,CLE,NFL,QB,12,0,2,0,0,0,0.0,,0.0,0.0,0.2,0,0,0,,0,0,,,0.0,0.0,,,2,0.0,0,0,4,
+McDoPa00,Paul McDonald,QB,1982,24,CLE,NFL,QB,9,3,7,-13,0,1,14.3,10,-1.9,-1.4,0.8,0,0,0,,0,0,,,0.0,0.0,,,7,-1.9,-13,0,3,
+McDoPa00,Paul McDonald,QB,1983,25,CLE,NFL,QB,16,2,3,17,0,1,66.7,10,5.7,1.1,0.2,0,0,0,,0,0,,,0.0,0.0,,,3,5.7,17,0,1,
+McDoPa00,Paul McDonald,QB,1984,26,CLE,NFL,QB,16,16,22,4,1,1,18.2,10,0.2,0.3,1.4,1,1,-4,-4.0,0,0,0.0,-4,0.1,-0.3,100.0,-4.0,23,0.0,0,1,16,

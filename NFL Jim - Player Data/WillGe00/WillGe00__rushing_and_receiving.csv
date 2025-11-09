@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillGe00,Gerald Willhite,RB,1982,23,DEN,NFL,RB,9,2,70,347,2,14,48.6,23,5.0,38.6,7.8,37,26,227,8.7,0,8,51.4,27,2.9,25.2,70.3,6.1,96,6.0,574,2,5,6,
+WillGe00,Gerald Willhite,RB,1983,24,DEN,NFL,RB,8,0,43,188,3,10,44.2,24,4.4,23.5,5.4,21,14,153,10.9,1,9,52.4,26,1.8,19.1,66.7,7.3,57,6.0,341,4,0,2,
+WillGe00,Gerald Willhite,RB,1984,25,DEN,NFL,RB,16,1,77,371,2,21,53.2,52,4.8,23.2,4.8,36,27,298,11.0,0,15,63.9,63,1.7,18.6,75.0,8.3,104,6.4,669,2,3,5,
+WillGe00,Gerald Willhite,RB,1985,26,DEN,NFL,RB,15,4,66,237,3,8,42.4,14,3.6,15.8,4.4,52,35,297,8.5,1,17,50.0,21,2.3,19.8,67.3,5.7,101,5.3,534,4,2,4,
+WillGe00,Gerald Willhite,RB,1986,27,DEN,NFL,FB,16,12,85,365,5,19,52.9,42,4.3,22.8,5.3,90,64,529,8.3,3,27,47.8,34,4.0,33.1,71.1,5.9,149,6.0,894,8,5,9,
+WillGe00,Gerald Willhite,RB,1987,28,DEN,NFL,RB,3,1,26,141,0,6,53.8,29,5.4,47.0,8.7,9,9,25,2.8,0,3,66.7,6,3.0,8.3,100.0,2.8,35,4.7,166,0,1,1,
+WillGe00,Gerald Willhite,RB,1988,29,DEN,NFL,RB,11,1,13,39,2,5,53.8,7,3.0,3.5,1.2,40,32,238,7.4,0,9,50.0,15,2.9,21.6,80.0,6.0,45,6.2,277,2,2,2,

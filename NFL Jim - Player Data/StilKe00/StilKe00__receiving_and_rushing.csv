@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+StilKe00,Kenny Stills,WR,2013,21,NOR,NFL,WR,16,10,50,32,641,20.0,5,24,60.0,76,2.0,40.1,64.0,12.8,3,10,0,0,33.3,4,3.3,0.6,0.2,35,18.6,651,5,0,6,
+StilKe00,Kenny Stills,WR,2014,22,NOR,NFL,WR,15,7,83,63,931,14.8,3,47,72.3,69,4.2,62.1,75.9,11.2,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,64,14.5,929,3,1,8,
+StilKe00,Kenny Stills,WR,2015,23,MIA,NFL,WR,16,8,63,27,440,16.3,3,18,36.5,47,1.7,27.5,42.9,7.0,0,0,0,0,,,,0.0,0.0,27,16.3,440,3,0,3,
+StilKe00,Kenny Stills,WR,2016,24,MIA,NFL,WR,16,16,81,42,726,17.3,9,30,45.7,74,2.6,45.4,51.9,9.0,0,0,0,0,,,,0.0,0.0,42,17.3,726,9,0,6,
+StilKe00,Kenny Stills,WR,2017,25,MIA,NFL,WR,16,16,105,58,847,14.6,6,36,50.5,61,3.6,52.9,55.2,8.1,0,0,0,0,,,,0.0,0.0,58,14.6,847,6,4,6,
+StilKe00,Kenny Stills,WR,2018,26,MIA,NFL,WR,15,15,64,37,553,14.9,6,27,53.1,75,2.5,36.9,57.8,8.6,0,0,0,0,,,,0.0,0.0,37,14.9,553,6,1,4,
+StilKe00,Kenny Stills,WR,2019,27,HOU,NFL,WR,13,5,55,40,561,14.0,4,27,58.2,45,3.1,43.2,72.7,10.2,0,0,0,0,,,,0.0,0.0,40,14.0,561,4,0,5,
+StilKe00,Kenny Stills,WR,2020,28,HOU,NFL,WR,10,0,19,11,144,13.1,1,8,42.1,24,1.1,14.4,57.9,7.6,0,0,0,0,,,,0.0,0.0,11,13.1,144,1,0,1,
+StilKe00,Kenny Stills,WR,2021,29,NOR,NFL,WR,13,4,23,6,68,11.3,1,4,26.1,22,0.5,5.2,26.1,3.0,1,1,0,0,0.0,1,1.0,0.1,0.1,7,9.9,69,1,0,1,

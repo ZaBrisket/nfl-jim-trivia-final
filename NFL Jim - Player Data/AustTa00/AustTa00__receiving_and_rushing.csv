@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AustTa00,Tavon Austin,WR,2013,23,STL,NFL,WR,13,3,69,40,418,10.5,4,17,42.0,81,3.1,32.2,58.0,6.1,9,151,1,3,55.6,65,16.8,11.6,0.7,49,11.6,569,5,4,6,
+AustTa00,Tavon Austin,WR,2014,24,STL,NFL,WR,15,8,44,31,242,7.8,0,12,50.0,28,2.1,16.1,70.5,5.5,36,224,2,11,66.7,19,6.2,14.9,2.4,67,7.0,466,2,5,4,
+AustTa00,Tavon Austin,WR,2015,25,STL,NFL,WR,16,15,87,52,473,9.1,5,21,35.6,66,3.3,29.6,59.8,5.4,52,434,4,25,59.6,60,8.3,27.1,3.3,104,8.7,907,9,3,7,
+AustTa00,Tavon Austin,WR,2016,26,LAR,NFL,WR,15,15,106,58,509,8.8,3,25,34.0,43,3.9,33.9,54.7,4.8,28,159,1,8,57.1,30,5.7,10.6,1.9,86,7.8,668,4,5,4,
+AustTa00,Tavon Austin,WR,2017,27,LAR,NFL,WR,16,9,22,13,47,3.6,0,2,22.7,13,0.8,2.9,59.1,2.1,59,270,1,11,45.8,27,4.6,16.9,3.7,72,4.4,317,1,5,3,
+AustTa00,Tavon Austin,WR,2018,28,DAL,NFL,WR,7,0,13,8,140,17.5,2,5,46.2,64,1.1,20.0,61.5,10.8,6,55,0,2,66.7,18,9.2,7.9,0.9,14,13.9,195,2,0,2,
+AustTa00,Tavon Austin,WR,2019,29,DAL,NFL,WR,14,0,24,13,177,13.6,1,8,45.8,59,0.9,12.6,54.2,7.4,6,47,1,2,66.7,20,7.8,3.4,0.4,19,11.8,224,2,1,2,
+AustTa00,Tavon Austin,WR,2020,30,GNB,NFL,WR,4,0,5,5,20,4.0,0,1,60.0,7,1.3,5.0,100.0,4.0,0,0,0,0,,,,0.0,0.0,5,4.0,20,0,1,0,
+AustTa00,Tavon Austin,WR,2021,31,JAX,NFL,WR,13,3,37,24,213,8.9,1,11,45.9,25,1.8,16.4,64.9,5.8,3,21,0,1,100.0,8,7.0,1.6,0.2,27,8.7,234,1,1,1,

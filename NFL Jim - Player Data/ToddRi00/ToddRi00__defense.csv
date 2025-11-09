@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ToddRi00,Richard Todd,QB,1976,23,NYJ,NFL,QB,13,6,0,0,0,0,,5,2,-10,0,0.0,,,,0,
+ToddRi00,Richard Todd,QB,1977,24,NYJ,NFL,QB,12,11,0,0,0,0,,4,0,0,0,0.0,,,,0,
+ToddRi00,Richard Todd,QB,1978,25,NYJ,NFL,QB,5,5,0,0,0,0,0,1,0,-3,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1979,26,NYJ,NFL,QB,15,15,0,0,0,0,0,7,4,-10,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1980,27,NYJ,NFL,QB,16,16,0,0,0,0,0,10,3,-3,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1981,28,NYJ,NFL,QB,16,16,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1982,29,NYJ,NFL,QB,9,9,0,0,0,0,0,4,0,-6,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1983,30,NYJ,NFL,QB,16,16,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,
+ToddRi00,Richard Todd,QB,1984,31,NOR,NFL,QB,15,14,0,0,0,0,0,9,3,-16,0,0.0,0,0,0,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WilsJe01,Jeff Wilson,RB,2018,23,SFO,RB,41,6,2,197,50%,0,0%,24,14%
+WilsJe01,Jeff Wilson,RB,2019,24,SFO,RB,30,10,0,60,9%,0,0%,97,38%
+WilsJe01,Jeff Wilson,RB,2020,25,SFO,RB,30,12,3,311,38%,0,0%,46,14%
+WilsJe01,Jeff Wilson,RB,2021,26,SFO,RB,22,9,4,228,39%,0,0%,36,15%
+WilsJe01,Jeff Wilson,RB,2022,27,2TM,RB,,16,7,525,,0,,14,
+WilsJe01,Jeff Wilson,RB,,,SFO,RB,22,8,6,266,52%,0,0%,4,2%
+WilsJe01,Jeff Wilson,RB,,,,,,,,259,53%,0,0%,10,5%
+WilsJe01,Jeff Wilson,RB,2023,28,MIA,RB,23,10,0,148,23%,0,0%,15,6%
+WilsJe01,Jeff Wilson,RB,2024,29,MIA,RB,23,9,0,71,12%,0,0%,46,20%
+WilsJe01,Jeff Wilson,RB,2025,30,MIA,RB,34,2,0,2,2%,0,0%,0,0%

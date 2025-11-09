@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+DilfTr00,Trent Dilfer,QB,1997,25,TAM,NFL,QB,2,2,1-1-0,24,62,38.7,381,1,1.6,3,4.8,18,30.3,52,6.1,4.29,15.9,190.5,45.2,4,33,6.06,5.27,3.53,0,0,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2000,28,BAL,NFL,QB,4,4,4-0-0,35,73,47.9,590,3,4.1,1,1.4,22,33.7,96,8.1,8.29,16.9,147.5,83.7,10,82,12.05,6.12,6.30,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SmitSt00,Steve Smith,RB,1988,24,RAI,NFL,FB,16,6,0,0,0,0,3,46,0,16,15.3,507,
+SmitSt00,Steve Smith,RB,1989,25,RAI,NFL,FB,16,16,0,0,0,0,2,19,0,15,9.5,630,
+SmitSt00,Steve Smith,RB,,,,,,,,,,,,,,,,,,
+SmitSt00,Steve Smith,RB,1991,27,RAI,NFL,FB,16,16,0,0,0,0,1,0,0,0,0.0,395,
+SmitSt00,Steve Smith,RB,,,,,,,,,,,,,,,,,,
+SmitSt00,Steve Smith,RB,1995,31,SEA,NFL,FB,9,7,0,0,0,0,1,11,0,11,11.0,89,

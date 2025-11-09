@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WallSe00,Seneca Wallace,QB,2006,26,SEA,NFL,QB,8,4,95,91,90,88,93,119,71,84,93,
+WallSe00,Seneca Wallace,QB,,,,,,,,,,,,,,,,,
+WallSe00,Seneca Wallace,QB,2008,28,SEA,NFL,QB,10,8,89,93,103,105,91,105,125,104,105,
+WallSe00,Seneca Wallace,QB,2009,29,SEA,NFL,QB,13,2,79,79,89,88,114,80,118,93,98,
+WallSe00,Seneca Wallace,QB,2010,30,CLE,NFL,QB,8,4,97,99,102,103,109,97,113,104,105,
+WallSe00,Seneca Wallace,QB,2011,31,CLE,NFL,QB,6,3,64,71,76,79,68,73,116,107,75,

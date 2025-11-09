@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PickCa00,Carl Pickens,WR,1992,22,CIN,NFL,WR,16,10,0,1,1,0,0,0,0,2,,0,0,0,0,0,12,0.8,AP ORoY-1
+PickCa00,Carl Pickens,WR,1993,23,CIN,NFL,WR,13,12,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.8,
+PickCa00,Carl Pickens,WR,1994,24,CIN,NFL,WR,15,15,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.4,
+PickCa00,Carl Pickens,WR,1995,25,CIN,NFL,WR,16,16,0,17,0,0,0,0,0,17,0,0,0,0,0,0,102,6.4,"PB,AP-2"
+PickCa00,Carl Pickens,WR,1996,26,CIN,NFL,WR,16,16,0,12,0,0,0,0,0,12,1,0,0,0,0,0,74,4.6,"PB,AP-2"
+PickCa00,Carl Pickens,WR,1997,27,CIN,NFL,WR,12,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+PickCa00,Carl Pickens,WR,1998,28,CIN,NFL,WR,16,16,0,5,0,0,0,0,0,5,1,0,0,0,0,0,32,2.0,
+PickCa00,Carl Pickens,WR,1999,29,CIN,NFL,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,

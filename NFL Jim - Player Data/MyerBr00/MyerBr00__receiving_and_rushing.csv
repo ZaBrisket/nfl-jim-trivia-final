@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MyerBr00,Brandon Myers,TE,2009,24,OAK,NFL,TE,11,2,6,4,19,4.8,0,0,0.0,6,0.4,1.7,66.7,3.2,0,0,0,0,0.0,0.0,4,4.8,19,0,0,0,
+MyerBr00,Brandon Myers,TE,2010,25,OAK,NFL,TE,15,3,16,12,80,6.7,0,4,43.8,16,0.8,5.3,75.0,5.0,0,0,0,0,0.0,0.0,12,6.7,80,0,1,1,
+MyerBr00,Brandon Myers,TE,2011,26,OAK,NFL,TE,16,7,27,16,151,9.4,0,9,40.7,24,1.0,9.4,59.3,5.6,0,0,0,0,0.0,0.0,16,9.4,151,0,0,1,
+MyerBr00,Brandon Myers,TE,2012,27,OAK,NFL,TE,16,16,105,79,806,10.2,4,42,57.1,29,4.9,50.4,75.2,7.7,0,0,0,0,0.0,0.0,79,10.2,806,4,0,6,
+MyerBr00,Brandon Myers,TE,2013,28,NYG,NFL,TE,16,14,76,47,522,11.1,4,28,47.4,27,2.9,32.6,61.8,6.9,0,0,0,0,0.0,0.0,47,11.1,522,4,0,3,
+MyerBr00,Brandon Myers,TE,2014,29,TAM,NFL,TE,14,6,32,22,190,8.6,0,8,43.8,26,1.6,13.6,68.8,5.9,0,0,0,0,0.0,0.0,22,8.6,190,0,0,1,
+MyerBr00,Brandon Myers,TE,2015,30,TAM,NFL,TE,11,6,17,12,127,10.6,0,7,47.1,17,1.1,11.5,70.6,7.5,0,0,0,0,0.0,0.0,12,10.6,127,0,0,1,
+MyerBr00,Brandon Myers,TE,2016,31,TAM,NFL,TE,16,9,14,7,59,8.4,1,4,42.9,12,0.4,3.7,50.0,4.2,0,0,0,0,0.0,0.0,7,8.4,59,1,0,0,

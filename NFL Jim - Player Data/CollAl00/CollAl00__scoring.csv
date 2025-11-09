@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CollAl00,Alex Collins,RB,2016,22,SEA,NFL,RB,11,0,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.5,
+CollAl00,Alex Collins,RB,2017,23,BAL,NFL,RB,15,12,6,0,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.4,
+CollAl00,Alex Collins,RB,2018,24,BAL,NFL,RB,10,10,7,1,0,0,0,0,0,8,0,,0,0,0,0,0,48,4.8,
+CollAl00,Alex Collins,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+CollAl00,Alex Collins,RB,2020,26,SEA,NFL,RB,3,1,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,4.0,
+CollAl00,Alex Collins,RB,2021,27,SEA,NFL,RB,11,6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.1,

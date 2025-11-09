@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MoonWa00,Warren Moon,QB,1987,31,HOU,NFL,QB,2,2,9,13,0,1,33.3,7,1.4,6.5,4.5,,0,0,0,0,0.0,0.0,9,1.4,13,0,2,
+MoonWa00,Warren Moon,QB,1988,32,HOU,NFL,QB,2,2,11,27,0,1,18.2,12,2.5,13.5,5.5,,0,0,0,0,0.0,0.0,11,2.5,27,0,3,
+MoonWa00,Warren Moon,QB,1989,33,HOU,NFL,QB,1,1,3,12,0,0,33.3,5,4.0,12.0,3.0,,0,0,0,0,0.0,0.0,3,4.0,12,0,0,
+MoonWa00,Warren Moon,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MoonWa00,Warren Moon,QB,1991,35,HOU,NFL,QB,2,2,5,24,0,2,60.0,15,4.8,12.0,2.5,,0,0,0,0,0.0,0.0,5,4.8,24,0,3,
+MoonWa00,Warren Moon,QB,1992,36,HOU,NFL,QB,1,1,2,7,0,0,0.0,5,3.5,7.0,2.0,,0,0,0,0,0.0,0.0,2,3.5,7,0,1,
+MoonWa00,Warren Moon,QB,1993,37,HOU,NFL,QB,1,1,3,22,0,3,100.0,17,7.3,22.0,3.0,,0,0,0,0,0.0,0.0,3,7.3,22,0,5,
+MoonWa00,Warren Moon,QB,1994,38,MIN,NFL,QB,1,1,2,9,0,0,0.0,9,4.5,9.0,2.0,0,0,0,0,0,0.0,0.0,2,4.5,9,0,1,

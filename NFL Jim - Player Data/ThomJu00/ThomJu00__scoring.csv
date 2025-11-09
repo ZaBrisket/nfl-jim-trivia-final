@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ThomJu00,Julius Thomas,TE,2013,25,DEN,NFL,TE,14,14,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,5.1,PB
+ThomJu00,Julius Thomas,TE,2014,26,DEN,NFL,TE,13,10,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,5.5,PB
+ThomJu00,Julius Thomas,TE,2015,27,JAX,NFL,TE,12,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+ThomJu00,Julius Thomas,TE,2016,28,JAX,NFL,TE,9,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+ThomJu00,Julius Thomas,TE,2017,29,MIA,NFL,TE,14,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,

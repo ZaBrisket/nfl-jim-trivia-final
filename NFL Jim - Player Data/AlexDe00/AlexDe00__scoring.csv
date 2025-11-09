@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AlexDe00,Derrick Alexander,WR,1994,23,CLE,NFL,WR,14,12,0,2,0,0,0,0,0,2,1,0,0,0,0,0,14,1.0,
+AlexDe00,Derrick Alexander,WR,1995,24,CLE,NFL,WR,14,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+AlexDe00,Derrick Alexander,WR,1996,25,BAL,NFL,WR,15,14,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.7,
+AlexDe00,Derrick Alexander,WR,1997,26,BAL,NFL,WR,15,13,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.6,
+AlexDe00,Derrick Alexander,WR,1998,27,KAN,NFL,WR,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+AlexDe00,Derrick Alexander,WR,1999,28,KAN,NFL,WR,16,15,1,2,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+AlexDe00,Derrick Alexander,WR,2000,29,KAN,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+AlexDe00,Derrick Alexander,WR,2001,30,KAN,NFL,WR,13,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+AlexDe00,Derrick Alexander,WR,2002,31,MIN,NFL,WR,8,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ReedAn00,Andre Reed,WR,1988,24,BUF,NFL,WR,2,2,13,11,146,13.3,1,8,69.2,53,5.5,73.0,84.6,11.2,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,12,12.1,145,1,0,
+ReedAn00,Andre Reed,WR,1989,25,BUF,NFL,WR,1,1,9,6,115,19.2,1,3,33.3,72,6.0,115.0,66.7,12.8,0,0,0,0,,,,0.0,0.0,6,19.2,115,1,0,
+ReedAn00,Andre Reed,WR,1990,26,BUF,NFL,WR,3,3,23,14,213,15.2,2,8,47.8,43,4.7,71.0,60.9,9.3,0,0,0,0,,,,0.0,0.0,14,15.2,213,2,0,
+ReedAn00,Andre Reed,WR,1991,27,BUF,NFL,WR,3,3,21,11,153,13.9,2,7,47.6,53,3.7,51.0,52.4,7.3,2,22,0,2,100.0,16,11.0,7.3,0.7,13,13.5,175,2,1,
+ReedAn00,Andre Reed,WR,1992,28,BUF,NFL,WR,4,4,29,19,313,16.5,3,13,65.5,40,4.8,78.3,65.5,10.8,3,-2,0,0,33.3,4,-0.7,-0.5,0.8,22,14.1,311,3,0,
+ReedAn00,Andre Reed,WR,1993,29,BUF,NFL,WR,3,3,23,14,177,12.6,0,8,47.8,28,4.7,59.0,60.9,7.7,1,8,0,0,100.0,8,8.0,2.7,0.3,15,12.3,185,0,0,
+ReedAn00,Andre Reed,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReedAn00,Andre Reed,WR,1995,31,BUF,NFL,WR,2,2,13,2,20,10.0,0,1,15.4,15,1.0,10.0,15.4,1.5,0,0,0,0,,,,0.0,0.0,2,10.0,20,0,0,
+ReedAn00,Andre Reed,WR,1996,32,BUF,NFL,WR,1,1,3,3,32,10.7,0,2,66.7,16,3.0,32.0,100.0,10.7,0,0,0,0,,,,0.0,0.0,3,10.7,32,0,0,
+ReedAn00,Andre Reed,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReedAn00,Andre Reed,WR,1998,34,BUF,NFL,WR,1,1,7,5,60,12.0,0,2,71.4,17,5.0,60.0,71.4,8.6,0,0,0,0,,,,0.0,0.0,5,12.0,60,0,1,
+ReedAn00,Andre Reed,WR,1999,35,BUF,NFL,WR,1,1,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,

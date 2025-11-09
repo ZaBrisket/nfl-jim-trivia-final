@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LaneFr00,Fred Lane,RB,1997,22,CAR,NFL,RB,13,7,182,809,7,42,51.1,50,4.4,62.2,14.0,13,8,27,3.4,0,0,30.8,7,0.6,2.1,61.5,2.1,190,4.4,836,7,4,6,
+LaneFr00,Fred Lane,RB,1998,23,CAR,NFL,RB,14,11,205,717,5,31,34.6,31,3.5,51.2,14.6,15,12,85,7.1,0,4,46.7,16,0.9,6.1,80.0,5.7,217,3.7,802,5,4,5,
+LaneFr00,Fred Lane,RB,1999,24,CAR,NFL,RB,15,5,115,475,1,29,51.3,41,4.1,31.7,7.7,30,23,163,7.1,0,5,40.0,23,1.5,10.9,76.7,5.4,138,4.6,638,1,1,6,

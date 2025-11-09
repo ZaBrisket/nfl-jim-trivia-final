@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BenjKe00,Kelvin Benjamin,WR,2014,23,CAR,NFL,WR,16,15,145,73,1008,13.8,9,52,43.4,51,4.6,63.0,50.3,7.0,0,0,0,0,0.0,0.0,73,13.8,1008,9,1,8,
+BenjKe00,Kelvin Benjamin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BenjKe00,Kelvin Benjamin,WR,2016,25,CAR,NFL,WR,16,13,118,63,941,14.9,7,50,49.2,50,3.9,58.8,53.4,8.0,0,0,0,0,0.0,0.0,63,14.9,941,7,1,7,
+BenjKe00,Kelvin Benjamin,WR,2017,26,2TM,NFL,WR,14,14,78,48,692,14.4,3,30,56.4,43,3.4,49.4,61.5,8.9,0,0,0,0,0.0,0.0,48,14.4,692,3,0,6,
+BenjKe00,Kelvin Benjamin,WR,2017,26,CAR,NFL,WR,8,8,51,32,475,14.8,2,21,56.9,43,4.0,59.4,62.7,9.3,0,0,0,0,0.0,0.0,32,14.8,475,2,0,4,
+BenjKe00,Kelvin Benjamin,WR,2017,26,BUF,NFL,WR,6,6,27,16,217,13.6,1,9,55.6,35,2.7,36.2,59.3,8.0,0,0,0,0,0.0,0.0,16,13.6,217,1,0,2,
+BenjKe00,Kelvin Benjamin,WR,2018,27,2TM,NFL,WR,15,10,67,25,380,15.2,1,16,32.8,40,1.7,25.3,37.3,5.7,0,0,0,0,0.0,0.0,25,15.2,380,1,0,2,
+BenjKe00,Kelvin Benjamin,WR,2018,27,BUF,NFL,WR,12,10,62,23,354,15.4,1,15,32.3,40,1.9,29.5,37.1,5.7,0,0,0,0,0.0,0.0,23,15.4,354,1,0,2,
+BenjKe00,Kelvin Benjamin,WR,2018,27,KAN,NFL,WR,3,0,5,2,26,13.0,0,1,40.0,17,0.7,8.7,40.0,5.2,0,0,0,0,0.0,0.0,2,13.0,26,0,0,0,

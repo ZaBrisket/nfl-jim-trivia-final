@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitTo02,Torrey Smith,WR,2011,22,BAL,NFL,WR,16,14,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+SmitTo02,Torrey Smith,WR,2012,23,BAL,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+SmitTo02,Torrey Smith,WR,2013,24,BAL,NFL,WR,16,16,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+SmitTo02,Torrey Smith,WR,2014,25,BAL,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+SmitTo02,Torrey Smith,WR,2015,26,SFO,NFL,WR,16,12,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+SmitTo02,Torrey Smith,WR,2016,27,SFO,NFL,WR,12,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.5,
+SmitTo02,Torrey Smith,WR,2017,28,PHI,NFL,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SmitTo02,Torrey Smith,WR,2018,29,CAR,NFL,WR,11,6,0,2,0,0,0,0,0,2,1,0,0,0,0,0,14,1.3,

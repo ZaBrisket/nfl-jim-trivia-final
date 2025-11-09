@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SmitTo02,Torrey Smith,WR,2012,23,BAL,WR,82,16,16,919,84%,0,0%,0,0%
+SmitTo02,Torrey Smith,WR,2013,24,BAL,WR,82,16,16,1098,97%,0,0%,0,0%
+SmitTo02,Torrey Smith,WR,2014,25,BAL,WR,82,16,16,788,73%,0,0%,0,0%
+SmitTo02,Torrey Smith,WR,2015,26,SFO,WR,82,16,12,772,76%,0,0%,2,0%
+SmitTo02,Torrey Smith,WR,2016,27,SFO,WR,82,12,12,644,82%,0,0%,1,0%
+SmitTo02,Torrey Smith,WR,2017,28,PHI,WR,82,16,14,735,65%,0,0%,2,0%
+SmitTo02,Torrey Smith,WR,2018,29,CAR,WR,11,11,6,324,43%,0,0%,0,0%

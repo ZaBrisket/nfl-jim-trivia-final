@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CosbDo00,Doug Cosbie,TE,1980,24,DAL,NFL,TE,16,0,0,0,0,0,1,13,0,13,13.0,24,
+CosbDo00,Doug Cosbie,TE,1981,25,DAL,NFL,TE,16,0,0,0,0,0,1,0,0,0,0.0,258,
+CosbDo00,Doug Cosbie,TE,1982,26,DAL,NFL,TE,9,9,0,0,0,0,1,4,0,4,4.0,443,
+CosbDo00,Doug Cosbie,TE,1983,27,DAL,NFL,TE,16,16,0,0,0,0,2,17,0,10,8.5,605,PB

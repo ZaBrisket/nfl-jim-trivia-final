@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ShahRa00,Rashid Shaheed,WR,2022,24,NOR,NFL,WR,12,6,20,193,0,42,9.7,14,320,0,31,22.9,1058,
+ShahRa00,Rashid Shaheed,WR,2023,25,NOR,NFL,WR,15,8,25,339,1,76,13.6,18,384,0,28,21.3,1479,"PB,AP-1"
+ShahRa00,Rashid Shaheed,WR,2024,26,NOR,NFL,WR,6,5,9,143,1,54,15.9,6,171,0,38,28.5,692,
+ShahRa00,Rashid Shaheed,WR,2025,27,NOR,NFL,WR,9,9,10,129,0,40,12.9,1,29,0,29,29.0,662,

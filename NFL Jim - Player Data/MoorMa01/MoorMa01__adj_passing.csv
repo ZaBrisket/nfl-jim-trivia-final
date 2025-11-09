@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MoorMa01,Matt Moore,QB,2007,23,CAR,NFL,QB,9,3,94,97,83,87,86,85,77,107,79,
+MoorMa01,Matt Moore,QB,,,,,,,,,,,,,,,,,
+MoorMa01,Matt Moore,QB,2009,25,CAR,NFL,QB,7,5,112,108,120,117,102,121,121,99,118,
+MoorMa01,Matt Moore,QB,2010,26,CAR,NFL,QB,6,5,81,78,66,65,83,91,45,84,68,
+MoorMa01,Matt Moore,QB,2011,27,MIA,NFL,QB,13,12,102,94,104,98,100,104,104,74,103,
+MoorMa01,Matt Moore,QB,,,,,,,,,,,,,,,,,
+MoorMa01,Matt Moore,QB,2016,32,MIA,NFL,QB,4,3,126,141,123,134,102,157,80,141,124,
+MoorMa01,Matt Moore,QB,2017,33,MIA,NFL,QB,4,2,92,85,82,77,93,86,73,83,81,
+MoorMa01,Matt Moore,QB,,,,,,,,,,,,,,,,,
+MoorMa01,Matt Moore,QB,2019,35,KAN,NFL,QB,6,2,99,93,112,107,101,97,140,88,111,

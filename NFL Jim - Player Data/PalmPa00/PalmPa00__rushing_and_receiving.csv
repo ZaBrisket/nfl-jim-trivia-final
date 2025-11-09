@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PalmPa00,Paul Palmer,RB,1987,23,KAN,NFL,RB,12,1,24,155,0,5,50.0,35,6.5,12.9,2.0,6,4,27,6.8,0,1,50.0,10,0.3,2.3,66.7,4.5,28,6.5,182,0,2,3,
+PalmPa00,Paul Palmer,RB,1988,24,KAN,NFL,RB,15,11,134,452,2,24,41.8,26,3.4,30.1,8.9,72,53,611,11.5,4,21,45.8,71,3.5,40.7,73.6,8.5,187,5.7,1063,6,7,8,
+PalmPa00,Paul Palmer,RB,1989,25,2TM,NFL,RB,14,8,112,446,2,19,38.4,63,4.0,31.9,8.0,27,17,93,5.5,0,3,40.7,13,1.2,6.6,63.0,3.4,129,4.2,539,2,3,3,
+PalmPa00,Paul Palmer,RB,1989,25,DET,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+PalmPa00,Paul Palmer,RB,1989,25,DAL,NFL,RB,9,8,112,446,2,19,38.4,63,4.0,49.6,12.4,27,17,93,5.5,0,3,40.7,13,1.9,10.3,63.0,3.4,129,4.2,539,2,3,3,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WilsGa00,Garrett Wilson,WR,2022,22,NYJ,NFL,WR,17,12,147,83,1103,13.3,4,56,47.6,60,4.9,64.9,56.5,7.5,4,4,0,0,25.0,7,1.0,0.2,0.2,87,12.7,1107,4,2,8,AP ORoY-1
+WilsGa00,Garrett Wilson,WR,2023,23,NYJ,NFL,WR,17,17,168,95,1042,11.0,3,47,44.0,68,5.6,61.3,56.5,6.2,4,0,0,1,50.0,,0.0,0.0,0.2,99,10.5,1042,3,2,7,
+WilsGa00,Garrett Wilson,WR,2024,24,NYJ,NFL,WR,17,17,154,101,1104,10.9,7,60,53.9,42,5.9,64.9,65.6,7.2,2,5,0,1,50.0,5,2.5,0.3,0.1,103,10.8,1109,7,2,10,
+WilsGa00,Garrett Wilson,WR,2025,25,NYJ,NFL,WR,6,6,56,36,395,11.0,4,18,48.2,33,6.0,65.8,64.3,7.1,0,0,0,0,,,,0.0,0.0,36,11.0,395,4,1,,

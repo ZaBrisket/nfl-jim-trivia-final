@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HuckHa00,Harlan Huckleby,RB,1980,23,GNB,NFL,RB,16,0,6,11,1,2,50.0,9,1.8,0.7,0.4,8,3,11,3.7,0,0,25.0,8,0.2,0.7,37.5,1.4,9,2.4,22,1,0,0,
+HuckHa00,Harlan Huckleby,RB,1981,24,GNB,NFL,RB,16,12,139,381,5,31,38.1,22,2.7,23.8,8.7,41,27,221,8.2,3,10,43.9,39,1.7,13.8,65.9,5.4,166,3.6,602,8,3,5,
+HuckHa00,Harlan Huckleby,RB,1982,25,GNB,NFL,RB,9,0,4,19,0,1,50.0,7,4.8,2.1,0.4,0,0,0,,0,0,,,0.0,0.0,,,4,4.8,19,0,0,0,
+HuckHa00,Harlan Huckleby,RB,1983,26,GNB,NFL,RB,16,2,50,182,4,13,48.0,20,3.6,11.4,3.1,19,10,87,8.7,0,5,52.6,14,0.6,5.4,52.6,4.6,60,4.5,269,4,4,2,
+HuckHa00,Harlan Huckleby,RB,1984,27,GNB,NFL,RB,16,0,35,145,0,10,40.0,23,4.1,9.1,2.2,13,8,65,8.1,0,4,46.2,13,0.5,4.1,61.5,5.0,43,4.9,210,0,1,2,
+HuckHa00,Harlan Huckleby,RB,1985,28,GNB,NFL,RB,11,0,8,41,0,2,37.5,15,5.1,3.7,0.7,9,5,27,5.4,0,1,44.4,8,0.5,2.5,55.6,3.0,13,5.2,68,0,0,0,

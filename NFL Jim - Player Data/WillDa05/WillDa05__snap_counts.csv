@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WillDa05,Damien Williams,RB,2014,22,MIA,RB,34,16,0,158,15%,0,0%,268,64%
+WillDa05,Damien Williams,RB,2015,23,MIA,RB,34,16,0,158,15%,0,0%,305,66%
+WillDa05,Damien Williams,RB,2016,24,MIA,RB,26,15,0,160,18%,0,0%,291,67%
+WillDa05,Damien Williams,RB,2017,25,MIA,RB,26,11,4,194,28%,0,0%,126,42%
+WillDa05,Damien Williams,RB,2018,26,KAN,RB,26,16,3,207,20%,0,0%,152,33%
+WillDa05,Damien Williams,RB,2019,27,KAN,RB,26,11,6,367,52%,0,0%,13,4%
+WillDa05,Damien Williams,RB,2021,29,CHI,RB,8,12,2,166,21%,0,0%,73,25%
+WillDa05,Damien Williams,RB,2022,30,ATL,RB,6,1,1,10,13%,0,0%,0,0%
+WillDa05,Damien Williams,RB,2023,31,ARI,RB,29,3,0,28,13%,0,0%,3,4%

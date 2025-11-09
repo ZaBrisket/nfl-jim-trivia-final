@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+MillCh00,Chris Miller,QB,1988,23,ATL,NFL,QB,13,13,0,0,0,0,,0,2,1,0,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1989,24,ATL,NFL,QB,15,15,0,0,0,0,,0,13,5,-3,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1990,25,ATL,NFL,QB,12,12,0,0,0,0,,0,11,4,-9,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1991,26,ATL,NFL,QB,15,14,0,0,0,0,,0,5,0,0,0,0.0,0,0,0,0,PB
+MillCh00,Chris Miller,QB,1992,27,ATL,NFL,QB,8,8,0,0,0,0,,0,6,1,-1,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1993,28,ATL,NFL,QB,3,2,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1994,29,RAM,NFL,QB,13,10,0,0,0,0,,0,7,3,-5,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1995,30,STL,NFL,QB,13,13,0,0,0,0,,0,4,2,-6,0,0.0,0,0,0,0,
+MillCh00,Chris Miller,QB,1996,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,
+MillCh00,Chris Miller,QB,1999,34,DEN,NFL,QB,3,3,0,0,0,0,0,0,2,0,-6,0,0.0,,,,0,

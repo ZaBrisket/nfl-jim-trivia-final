@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_ret_yds_opp,punt_net_yds,punt_net_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct,punt_blocked,awards
+EsiaBo00,Boomer Esiason,QB,1986,25,CIN,NFL,QB,16,16,1,31,31.0,0,31,31.0,31,0,0.0,1,100.0,0,PB
+EsiaBo00,Boomer Esiason,QB,1987,26,CIN,NFL,QB,12,12,2,68,34.0,12,56,28.0,41,0,0.0,1,50.0,0,
+EsiaBo00,Boomer Esiason,QB,1988,27,CIN,NFL,QB,16,16,1,21,21.0,0,21,21.0,21,0,0.0,0,0.0,0,"PB,AP-1,AP MVP-1,AP OPoY-2"

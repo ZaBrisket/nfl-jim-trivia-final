@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+WillMi07,Mike Williams,WR,2018,24,LAC,NFL,WR,2,2,16,7,110,6,87,12.4,23,3.3,15.9,0,1,6.3,0,67.2,0,0,0,0,0,0,
+WillMi07,Mike Williams,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WillMi07,Mike Williams,WR,2024,30,PIT,NFL,WR,1,0,2,1,37,1,20,20.0,17,17.0,12.5,0,0,0.0,0,95.8,0,0,0,0,0,0,

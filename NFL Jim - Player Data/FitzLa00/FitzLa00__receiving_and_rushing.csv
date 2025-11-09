@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FitzLa00,Larry Fitzgerald,WR,2004,21,ARI,NFL,WR,16,16,115,58,780,13.4,8,37,39.1,48,3.6,48.8,50.4,6.8,8,14,0,2,25.0,10,1.8,0.9,0.5,66,12.0,794,8,1,6,
+FitzLa00,Larry Fitzgerald,WR,2005,22,ARI,NFL,WR,16,16,165,103,1409,13.7,10,68,52.1,47,6.4,88.1,62.4,8.5,8,41,0,3,62.5,15,5.1,2.6,0.5,111,13.1,1450,10,0,10,PB
+FitzLa00,Larry Fitzgerald,WR,2006,23,ARI,NFL,WR,13,13,111,69,946,13.7,6,52,59.5,57,5.3,72.8,62.2,8.5,0,0,0,0,,,,0.0,0.0,69,13.7,946,6,0,8,
+FitzLa00,Larry Fitzgerald,WR,2007,24,ARI,NFL,WR,15,15,167,100,1409,14.1,10,70,55.1,48,6.7,93.9,59.9,8.4,0,0,0,0,,,,0.0,0.0,100,14.1,1409,10,3,12,PB
+FitzLa00,Larry Fitzgerald,WR,2008,25,ARI,NFL,WR,16,16,154,96,1431,14.9,12,66,58.4,78,6.0,89.4,62.3,9.3,0,0,0,0,,,,0.0,0.0,96,14.9,1431,12,1,14,"PB,AP-1"
+FitzLa00,Larry Fitzgerald,WR,2009,26,ARI,NFL,WR,16,16,153,97,1092,11.3,13,68,53.6,34,6.1,68.3,63.4,7.1,0,0,0,0,,,,0.0,0.0,97,11.3,1092,13,0,9,"PB,AP-2"
+FitzLa00,Larry Fitzgerald,WR,2010,27,ARI,NFL,WR,16,15,173,90,1137,12.6,6,58,44.5,41,5.6,71.1,52.0,6.6,0,0,0,0,,,,0.0,0.0,90,12.6,1137,6,0,7,PB
+FitzLa00,Larry Fitzgerald,WR,2011,28,ARI,NFL,WR,16,16,154,80,1411,17.6,8,60,48.1,73,5.0,88.2,51.9,9.2,0,0,0,0,,,,0.0,0.0,80,17.6,1411,8,0,10,"PB,AP-2"
+FitzLa00,Larry Fitzgerald,WR,2012,29,ARI,NFL,WR,16,16,156,71,798,11.2,4,45,34.6,37,4.4,49.9,45.5,5.1,0,0,0,0,,,,0.0,0.0,71,11.2,798,4,0,5,PB
+FitzLa00,Larry Fitzgerald,WR,2013,30,ARI,NFL,WR,16,16,135,82,954,11.6,10,49,48.9,75,5.1,59.6,60.7,7.1,2,8,0,0,100.0,4,4.0,0.5,0.1,84,11.5,962,10,1,7,PB
+FitzLa00,Larry Fitzgerald,WR,2014,31,ARI,NFL,WR,14,13,103,63,784,12.4,2,39,49.5,80,4.5,56.0,61.2,7.6,0,0,0,0,,,,0.0,0.0,63,12.4,784,2,1,6,
+FitzLa00,Larry Fitzgerald,WR,2015,32,ARI,NFL,WR,16,16,145,109,1215,11.1,9,65,65.5,44,6.8,75.9,75.2,8.4,0,0,0,0,,,,0.0,0.0,109,11.1,1215,9,2,11,PB
+FitzLa00,Larry Fitzgerald,WR,2016,33,ARI,NFL,WR,16,16,150,107,1023,9.6,6,60,58.0,33,6.7,63.9,71.3,6.8,2,5,0,0,50.0,4,2.5,0.3,0.1,109,9.4,1028,6,2,9,PB
+FitzLa00,Larry Fitzgerald,WR,2017,34,ARI,NFL,WR,16,16,161,109,1156,10.6,6,65,52.8,37,6.8,72.3,67.7,7.2,0,0,0,0,,,,0.0,0.0,109,10.6,1156,6,1,8,PB
+FitzLa00,Larry Fitzgerald,WR,2018,35,ARI,NFL,WR,16,16,112,69,734,10.6,6,39,50.9,37,4.3,45.9,61.6,6.6,0,0,0,0,,,,0.0,0.0,69,10.6,734,6,0,5,
+FitzLa00,Larry Fitzgerald,WR,2019,36,ARI,NFL,WR,16,16,109,75,804,10.7,4,40,50.5,54,4.7,50.3,68.8,7.4,0,0,0,0,,,,0.0,0.0,75,10.7,804,4,1,7,
+FitzLa00,Larry Fitzgerald,WR,2020,37,ARI,NFL,WR,13,13,72,54,409,7.6,1,25,54.2,18,4.2,31.5,75.0,5.7,0,0,0,0,,,,0.0,0.0,54,7.6,409,1,0,4,

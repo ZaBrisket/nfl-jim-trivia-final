@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+YounVi00,Vince Young,QB,2006,23,TEN,NFL,QB,15,13,83,552,7,32,45.8,39,6.7,36.8,5.5,0,0,0,0,0,0.0,0.0,83,6.7,552,7,12,"PB,AP ORoY-1"
+YounVi00,Vince Young,QB,2007,24,TEN,NFL,QB,15,15,93,395,3,26,41.9,21,4.2,26.3,6.2,0,0,0,0,0,0.0,0.0,93,4.2,395,3,10,
+YounVi00,Vince Young,QB,2008,25,TEN,NFL,QB,3,1,8,27,0,0,25.0,8,3.4,9.0,2.7,0,0,0,0,0,0.0,0.0,8,3.4,27,0,2,
+YounVi00,Vince Young,QB,2009,26,TEN,NFL,QB,12,10,55,281,2,21,45.5,44,5.1,23.4,4.6,0,0,0,0,0,0.0,0.0,55,5.1,281,2,8,"PB,AP CPoY-3"
+YounVi00,Vince Young,QB,2010,27,TEN,NFL,QB,9,8,25,125,0,6,40.0,20,5.0,13.9,2.8,0,0,0,0,0,0.0,0.0,25,5.0,125,0,6,
+YounVi00,Vince Young,QB,2011,28,PHI,NFL,QB,6,3,18,79,0,4,44.4,13,4.4,13.2,3.0,0,0,0,0,0,0.0,0.0,18,4.4,79,0,2,

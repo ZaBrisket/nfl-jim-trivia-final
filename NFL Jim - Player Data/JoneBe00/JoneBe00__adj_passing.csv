@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+JoneBe00,Bert Jones,QB,1973,22,BAL,NFL,QB,8,5,69,67,50,51,61,96,39,84,59,
+JoneBe00,Bert Jones,QB,1974,23,BAL,NFL,QB,11,8,90,81,95,90,102,90,108,80,97,
+JoneBe00,Bert Jones,QB,1975,24,BAL,NFL,QB,14,14,109,104,120,116,118,110,128,91,123,
+JoneBe00,Bert Jones,QB,1976,25,BAL,NFL,QB,14,14,139,134,143,141,124,127,126,105,139,"PB,AP-1,AP MVP-1,AP OPoY-1"
+JoneBe00,Bert Jones,QB,1977,26,BAL,NFL,QB,14,14,104,109,115,118,114,103,127,114,118,AP-2
+JoneBe00,Bert Jones,QB,,,,,,,,,,,,,,,,,
+JoneBe00,Bert Jones,QB,1979,28,BAL,NFL,QB,4,4,103,96,109,104,74,89,120,84,96,
+JoneBe00,Bert Jones,QB,1980,29,BAL,NFL,QB,15,15,101,101,102,102,102,112,97,100,104,
+JoneBe00,Bert Jones,QB,1981,30,BAL,NFL,QB,15,15,105,105,104,104,105,109,96,102,105,
+JoneBe00,Bert Jones,QB,1982,31,RAM,NFL,QB,4,4,80,77,80,79,97,78,96,94,84,

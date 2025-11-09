@@ -1,0 +1,22 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RodgAa00,Aaron Rodgers,QB,2005,22,GNB,NFL,QB,3,0,2,7,0,1,50.0,8,3.5,2.3,0.7,0,0,0,,0,0,,,0.0,0.0,,,2,3.5,7,0,2,
+RodgAa00,Aaron Rodgers,QB,2006,23,GNB,NFL,QB,2,0,2,11,0,1,50.0,6,5.5,5.5,1.0,0,0,0,,0,0,,,0.0,0.0,,,2,5.5,11,0,1,
+RodgAa00,Aaron Rodgers,QB,2007,24,GNB,NFL,QB,2,0,7,29,0,3,42.9,13,4.1,14.5,3.5,0,0,0,,0,0,,,0.0,0.0,,,7,4.1,29,0,0,
+RodgAa00,Aaron Rodgers,QB,2008,25,GNB,NFL,QB,16,16,56,207,4,21,48.2,21,3.7,12.9,3.5,0,0,0,,0,0,,,0.0,0.0,,,56,3.7,207,4,10,
+RodgAa00,Aaron Rodgers,QB,2009,26,GNB,NFL,QB,16,16,58,316,5,24,51.7,35,5.4,19.8,3.6,0,0,0,,0,0,,,0.0,0.0,,,58,5.4,316,5,10,PB
+RodgAa00,Aaron Rodgers,QB,2010,27,GNB,NFL,QB,15,15,64,356,4,22,48.4,27,5.6,23.7,4.3,0,0,0,,0,0,,,0.0,0.0,,,64,5.6,356,4,4,AP OPoY-5
+RodgAa00,Aaron Rodgers,QB,2011,28,GNB,NFL,QB,15,15,60,257,3,18,38.3,25,4.3,17.1,4.0,0,0,0,,0,0,,,0.0,0.0,,,60,4.3,257,3,4,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2012,29,GNB,NFL,QB,16,16,54,259,2,20,44.4,27,4.8,16.2,3.4,1,1,-1,-1.0,0,0,0.0,-1,0.1,-0.1,100.0,-1.0,55,4.7,258,2,5,"PB,AP-2,AP OPoY-3"
+RodgAa00,Aaron Rodgers,QB,2013,30,GNB,NFL,QB,9,9,30,120,0,11,50.0,18,4.0,13.3,3.3,0,0,0,,0,0,,,0.0,0.0,,,30,4.0,120,0,4,
+RodgAa00,Aaron Rodgers,QB,2014,31,GNB,NFL,QB,16,16,43,269,2,22,58.1,19,6.3,16.8,2.7,0,0,0,,0,0,,,0.0,0.0,,,43,6.3,269,2,10,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2015,32,GNB,NFL,QB,16,16,58,344,1,20,48.3,18,5.9,21.5,3.6,0,0,0,,0,0,,,0.0,0.0,,,58,5.9,344,1,8,PB
+RodgAa00,Aaron Rodgers,QB,2016,33,GNB,NFL,QB,16,16,67,369,4,26,49.3,23,5.5,23.1,4.2,0,0,0,,0,0,,,0.0,0.0,,,67,5.5,369,4,8,"PB,AP MVP-5,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2017,34,GNB,NFL,QB,7,7,24,126,0,10,58.3,18,5.3,18.0,3.4,0,0,0,,0,0,,,0.0,0.0,,,24,5.3,126,0,1,
+RodgAa00,Aaron Rodgers,QB,2018,35,GNB,NFL,QB,16,16,43,269,2,20,69.8,23,6.3,16.8,2.7,0,0,0,,0,0,,,0.0,0.0,,,43,6.3,269,2,6,PB
+RodgAa00,Aaron Rodgers,QB,2019,36,GNB,NFL,QB,16,16,46,183,1,9,34.8,17,4.0,11.4,2.9,0,0,0,,0,0,,,0.0,0.0,,,46,4.0,183,1,4,PB
+RodgAa00,Aaron Rodgers,QB,2020,37,GNB,NFL,QB,16,16,38,149,3,15,55.3,14,3.9,9.3,2.4,1,1,-6,-6.0,0,0,0.0,-6,0.1,-0.4,100.0,-6.0,39,3.7,143,3,4,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2021,38,GNB,NFL,QB,16,16,33,101,3,10,36.4,18,3.1,6.3,2.1,1,1,-4,-4.0,0,0,0.0,-4,0.1,-0.3,100.0,-4.0,34,2.9,97,3,3,"PB,AP-1,AP MVP-1,AP OPoY-4"
+RodgAa00,Aaron Rodgers,QB,2022,39,GNB,NFL,QB,17,17,34,94,1,9,32.4,18,2.8,5.5,2.0,0,0,0,,0,0,,,0.0,0.0,,,34,2.8,94,1,8,
+RodgAa00,Aaron Rodgers,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RodgAa00,Aaron Rodgers,QB,2024,41,NYJ,NFL,QB,17,17,22,107,0,7,40.9,18,4.9,6.3,1.3,0,0,0,,0,0,,,0.0,0.0,,,22,4.9,107,0,5,AP CPoY-7
+RodgAa00,Aaron Rodgers,QB,2025,42,PIT,NFL,QB,8,8,13,18,0,1,23.1,10,1.4,2.3,1.6,0,0,0,,0,0,,,0.0,0.0,,,13,1.4,18,0,1,

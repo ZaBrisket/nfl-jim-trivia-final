@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SeayMa00,Mark Seay,WR,1994,27,SDG,NFL,WR,3,3,22,13,136,10.5,1,7,54.5,22,4.3,45.3,59.1,6.2,0,0,0,0,0.0,0.0,13,10.5,136,1,0,
+SeayMa00,Mark Seay,WR,1995,28,SDG,NFL,WR,1,0,2,2,19,9.5,0,1,100.0,11,2.0,19.0,100.0,9.5,0,0,0,0,0.0,0.0,2,9.5,19,0,0,
+SeayMa00,Mark Seay,WR,1996,29,PHI,NFL,WR,1,0,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,

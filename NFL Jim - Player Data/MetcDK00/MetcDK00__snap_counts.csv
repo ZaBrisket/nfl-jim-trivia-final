@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MetcDK00,D.K. Metcalf,WR,2019,22,SEA,WR,14,16,15,927,84%,0,0%,7,2%
+MetcDK00,D.K. Metcalf,WR,2020*,23,SEA,WR,14,16,16,980,92%,0,0%,2,0%
+MetcDK00,D.K. Metcalf,WR,2021,24,SEA,WR,14,17,17,820,83%,0,0%,7,2%
+MetcDK00,D.K. Metcalf,WR,2022,25,SEA,WR,14,17,17,893,82%,0,0%,2,0%
+MetcDK00,D.K. Metcalf,WR,2023*,26,SEA,WR,14,16,16,831,84%,0,0%,2,1%
+MetcDK00,D.K. Metcalf,WR,2024,27,SEA,WR,14,15,12,832,86%,0,0%,0,0%
+MetcDK00,D.K. Metcalf,WR,2025,28,PIT,WR,4,8,8,414,89%,0,0%,4,2%

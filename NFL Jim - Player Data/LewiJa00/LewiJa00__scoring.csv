@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LewiJa00,Jamal Lewis,RB,2000,21,BAL,NFL,RB,16,13,6,0,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,AP ORoY-2
+LewiJa00,Jamal Lewis,RB,2001,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,
+LewiJa00,Jamal Lewis,RB,2002,23,BAL,NFL,RB,16,15,6,1,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,AP CPoY-4
+LewiJa00,Jamal Lewis,RB,2003,24,BAL,NFL,RB,16,16,14,0,0,0,0,0,0,14,0,0,0,0,0,0,84,5.3,"PB,AP-1,AP MVP-4,AP OPoY-1"
+LewiJa00,Jamal Lewis,RB,2004,25,BAL,NFL,RB,12,12,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,3.5,
+LewiJa00,Jamal Lewis,RB,2005,26,BAL,NFL,RB,15,15,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+LewiJa00,Jamal Lewis,RB,2006,27,BAL,NFL,RB,16,16,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+LewiJa00,Jamal Lewis,RB,2007,28,CLE,NFL,RB,15,15,9,2,0,0,0,0,0,11,0,0,0,0,0,0,66,4.4,AP CPoY-4
+LewiJa00,Jamal Lewis,RB,2008,29,CLE,NFL,RB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+LewiJa00,Jamal Lewis,RB,2009,30,CLE,NFL,RB,9,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.2,

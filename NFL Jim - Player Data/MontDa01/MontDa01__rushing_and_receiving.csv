@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MontDa01,David Montgomery,RB,2019,22,CHI,NFL,RB,16,8,242,889,6,50,43.4,55,3.7,55.6,15.1,35,25,185,7.4,1,7,42.9,30,1.6,11.6,71.4,5.3,267,4.0,1074,7,2,6,
+MontDa01,David Montgomery,RB,2020,23,CHI,NFL,RB,15,14,247,1070,8,59,46.2,80,4.3,71.3,16.5,68,54,438,8.1,2,25,55.9,28,3.6,29.2,79.4,6.4,301,5.0,1508,10,1,10,
+MontDa01,David Montgomery,RB,2021,24,CHI,NFL,RB,13,13,225,849,7,55,46.7,41,3.8,65.3,17.3,51,42,301,7.2,0,18,43.1,16,3.2,23.2,82.4,5.9,267,4.3,1150,7,1,6,
+MontDa01,David Montgomery,RB,2022,25,CHI,NFL,RB,16,16,201,801,5,41,44.8,28,4.0,50.1,12.6,40,34,316,9.3,1,10,50.0,32,2.1,19.8,85.0,7.9,235,4.8,1117,6,2,8,
+MontDa01,David Montgomery,RB,2023,26,DET,NFL,RB,14,14,219,1015,13,59,54.8,75,4.6,72.5,15.6,24,16,117,7.3,0,7,54.2,19,1.1,8.4,66.7,4.9,235,4.8,1132,13,2,9,
+MontDa01,David Montgomery,RB,2024,27,DET,NFL,RB,14,14,185,775,12,50,55.1,21,4.2,55.4,13.2,38,36,341,9.5,0,16,73.7,40,2.6,24.4,94.7,9.0,221,5.0,1116,12,2,10,
+MontDa01,David Montgomery,RB,2025,28,DET,NFL,RB,8,0,89,395,5,19,42.7,72,4.4,49.4,11.1,17,13,106,8.2,0,7,52.9,23,1.6,13.3,76.5,6.2,102,4.9,501,5,1,,

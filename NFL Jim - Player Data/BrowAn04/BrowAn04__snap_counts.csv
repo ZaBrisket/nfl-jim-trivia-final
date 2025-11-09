@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BrowAn04,Antonio Brown,WR,2012,24,PIT,WR,84,13,10,654,75%,0,0%,59,16%
+BrowAn04,Antonio Brown,WR,2013*,25,PIT,WR,84,16,14,954,91%,0,0%,84,18%
+BrowAn04,Antonio Brown,WR,2014*+,26,PIT,WR,84,16,16,1061,96%,0,0%,74,16%
+BrowAn04,Antonio Brown,WR,2015*+,27,PIT,WR,84,16,16,1029,96%,0,0%,57,13%
+BrowAn04,Antonio Brown,WR,2016*+,28,PIT,WR,84,15,15,975,96%,0,0%,67,16%
+BrowAn04,Antonio Brown,WR,2017*+,29,PIT,WR,84,14,14,888,90%,0,0%,42,11%
+BrowAn04,Antonio Brown,WR,2018*,30,PIT,WR,84,15,15,998,95%,0,0%,5,1%
+BrowAn04,Antonio Brown,WR,2019,31,NWE,WR,17,1,0,24,34%,0,0%,0,0%
+BrowAn04,Antonio Brown,WR,2020,32,TAM,WR,81,8,4,323,62%,0,0%,9,4%
+BrowAn04,Antonio Brown,WR,2021,33,TAM,WR,81,7,3,268,54%,0,0%,1,1%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JensJi00,Jim Jensen,WR,1981,23,MIA,NFL,FB,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+JensJi00,Jim Jensen,WR,1982,24,MIA,NFL,FB,4,0,,0,0,,0,0,,,0.0,0.0,,,2,-6,0,0,0.0,-3,-3.0,-1.5,0.5,2,-3.0,-6,0,0,
+JensJi00,Jim Jensen,WR,1983,25,MIA,NFL,WR,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+JensJi00,Jim Jensen,WR,1984,26,MIA,NFL,WR,3,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+JensJi00,Jim Jensen,WR,1985,27,MIA,NFL,WR,2,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+JensJi00,Jim Jensen,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JensJi00,Jim Jensen,WR,1990,32,MIA,NFL,WR,2,0,5,5,49,9.8,0,4,100.0,12,2.5,24.5,100.0,9.8,0,0,0,0,,,,0.0,0.0,5,9.8,49,0,0,

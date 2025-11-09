@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WhitRa01,Rachaad White,RB,2022,23,TAM,NFL,RB,17,8,129,481,1,27,49.6,35,3.7,28.3,7.6,58,50,290,5.8,2,13,53.4,20,2.9,17.1,86.2,5.0,179,4.3,771,3,3,4,
+WhitRa01,Rachaad White,RB,2023,24,TAM,NFL,RB,17,17,272,990,6,46,40.8,38,3.6,58.2,16.0,70,64,549,8.6,3,23,54.3,43,3.8,32.3,91.4,7.8,336,4.6,1539,9,3,10,
+WhitRa01,Rachaad White,RB,2024,25,TAM,NFL,RB,16,15,144,613,3,35,50.7,56,4.3,38.3,9.0,57,51,393,7.7,6,18,54.4,32,3.2,24.6,89.5,6.9,195,5.2,1006,9,3,8,
+WhitRa01,Rachaad White,RB,2025,26,TAM,NFL,RB,8,4,77,287,4,22,53.2,16,3.7,35.9,9.6,24,21,117,5.6,0,6,37.5,18,2.6,14.6,87.5,4.9,98,4.1,404,4,0,,

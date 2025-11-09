@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+RodgAa00,Aaron Rodgers,QB,2008,25,GNB,NFL,QB,16,16,111,109,113,112,108,113,108,100,113,
+RodgAa00,Aaron Rodgers,QB,2009,26,GNB,NFL,QB,16,16,123,114,127,121,113,118,123,81,124,PB
+RodgAa00,Aaron Rodgers,QB,2010,27,GNB,NFL,QB,15,15,121,119,120,119,116,119,109,100,119,AP OPoY-5
+RodgAa00,Aaron Rodgers,QB,2011,28,GNB,NFL,QB,15,15,144,139,150,147,127,153,127,96,149,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2012,29,GNB,NFL,QB,16,16,113,107,123,118,123,130,121,83,128,"PB,AP-2,AP OPoY-3"
+RodgAa00,Aaron Rodgers,QB,2013,30,GNB,NFL,QB,9,9,138,132,130,127,119,117,110,97,124,
+RodgAa00,Aaron Rodgers,QB,2014,31,GNB,NFL,QB,16,16,129,129,135,135,113,132,127,110,132,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2015,32,GNB,NFL,QB,16,16,87,84,102,98,91,112,118,89,105,PB
+RodgAa00,Aaron Rodgers,QB,2016,33,GNB,NFL,QB,16,16,103,104,116,116,112,126,122,105,122,"PB,AP MVP-5,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2017,34,GNB,NFL,QB,7,7,97,90,103,98,105,126,97,84,110,
+RodgAa00,Aaron Rodgers,QB,2018,35,GNB,NFL,QB,16,16,105,101,115,111,95,97,134,93,110,PB
+RodgAa00,Aaron Rodgers,QB,2019,36,GNB,NFL,QB,16,16,95,96,106,105,90,99,127,104,104,PB
+RodgAa00,Aaron Rodgers,QB,2020,37,GNB,NFL,QB,16,16,120,124,134,135,127,146,126,121,140,"PB,AP-1,AP MVP-1,AP OPoY-2"
+RodgAa00,Aaron Rodgers,QB,2021,38,GNB,NFL,QB,16,16,113,114,124,123,117,124,130,106,128,"PB,AP-1,AP MVP-1,AP OPoY-4"
+RodgAa00,Aaron Rodgers,QB,2022,39,GNB,NFL,QB,17,17,94,96,98,99,100,106,102,106,102,
+RodgAa00,Aaron Rodgers,QB,,,,,,,,,,,,,,,,,
+RodgAa00,Aaron Rodgers,QB,2024,41,NYJ,NFL,QB,17,17,92,93,98,98,93,106,107,104,100,AP CPoY-7
+RodgAa00,Aaron Rodgers,QB,2025,42,PIT,NFL,QB,8,8,97,100,104,106,111,122,101,107,112,

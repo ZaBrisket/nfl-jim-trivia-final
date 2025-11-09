@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JoneMa05,Mac Jones,QB,2021*,23,NWE,QB,10,17,17,1065,96%,0,0%,0,0%
+JoneMa05,Mac Jones,QB,2022,24,NWE,QB,10,14,14,830,96%,0,0%,0,0%
+JoneMa05,Mac Jones,QB,2023,25,NWE,QB,10,11,11,635,90%,0,0%,0,0%
+JoneMa05,Mac Jones,QB,2024,26,JAX,QB,10,10,7,497,79%,0,0%,0,0%
+JoneMa05,Mac Jones,QB,2025,27,SFO,QB,10,7,7,471,100%,0,0%,0,0%

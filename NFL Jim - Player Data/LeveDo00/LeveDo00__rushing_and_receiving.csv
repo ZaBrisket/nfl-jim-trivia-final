@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LeveDo00,Dorsey Levens,RB,1994,24,GNB,NFL,RB,14,0,5,15,0,1,40.0,5,3.0,1.1,0.4,3,1,9,9.0,0,0,33.3,9,0.1,0.6,33.3,3.0,6,4.0,24,0,0,0,
+LeveDo00,Dorsey Levens,RB,1995,25,GNB,NFL,RB,15,12,36,120,3,18,58.3,22,3.3,8.0,2.4,57,48,434,9.0,4,23,66.7,27,3.2,28.9,84.2,7.6,84,6.6,554,7,0,6,
+LeveDo00,Dorsey Levens,RB,1996,26,GNB,NFL,RB,16,1,121,566,5,31,51.2,24,4.7,35.4,7.6,33,31,226,7.3,5,14,66.7,49,1.9,14.1,93.9,6.8,152,5.2,792,10,2,8,
+LeveDo00,Dorsey Levens,RB,1997,27,GNB,NFL,RB,16,16,329,1435,7,68,42.9,52,4.4,89.7,20.6,67,53,370,7.0,5,18,46.3,56,3.3,23.1,79.1,5.5,382,4.7,1805,12,5,16,PB
+LeveDo00,Dorsey Levens,RB,1998,28,GNB,NFL,RB,7,4,115,378,1,20,38.3,50,3.3,54.0,16.4,30,27,162,6.0,0,7,53.3,17,3.9,23.1,90.0,5.4,142,3.8,540,1,0,5,
+LeveDo00,Dorsey Levens,RB,1999,29,GNB,NFL,RB,14,14,279,1034,9,58,43.0,36,3.7,73.9,19.9,92,71,573,8.1,1,28,47.8,53,5.1,40.9,77.2,6.2,350,4.6,1607,10,5,12,
+LeveDo00,Dorsey Levens,RB,2000,30,GNB,NFL,RB,5,5,77,224,3,13,28.6,17,2.9,44.8,15.4,21,16,146,9.1,0,9,52.4,37,3.2,29.2,76.2,7.0,93,4.0,370,3,0,3,
+LeveDo00,Dorsey Levens,RB,2001,31,GNB,NFL,RB,15,1,44,165,0,6,29.5,40,3.8,11.0,2.9,35,24,159,6.6,1,7,31.4,19,1.6,10.6,68.6,4.5,68,4.8,324,1,0,3,
+LeveDo00,Dorsey Levens,RB,2002,32,PHI,NFL,RB,16,0,75,411,1,13,41.3,47,5.5,25.7,4.7,28,19,124,6.5,1,6,32.1,24,1.2,7.8,67.9,4.4,94,5.7,535,2,1,4,
+LeveDo00,Dorsey Levens,RB,2003,33,NYG,NFL,RB,11,0,68,197,3,16,35.3,17,2.9,17.9,6.2,7,5,39,7.8,0,2,57.1,11,0.5,3.5,71.4,5.6,73,3.2,236,3,0,1,
+LeveDo00,Dorsey Levens,RB,2004,34,PHI,NFL,RB,15,5,94,410,4,25,53.2,45,4.4,27.3,6.3,14,9,92,10.2,0,5,42.9,23,0.6,6.1,64.3,6.6,103,4.9,502,4,0,4,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+AlleKy00,Kyle Allen,QB,2018,22,CAR,NFL,QB,2,1,20,31,243,7.8,174,8.7,5.6,92,4.6,0,1,0,0,0.0,9,30.0,,,2.4,11,3,5,8,23.5,3,5.7,,,,,,,,,
+AlleKy00,Kyle Allen,QB,2019,23,CAR,NFL,QB,13,12,303,489,3965,8.1,1649,5.4,3.4,1673,5.5,14,25,1,28,6.0,77,16.6,353,76.2,2.4,131,50,28,124,22.4,19,5.3,56,446,52,439,2,7,103,787,
+AlleKy00,Kyle Allen,QB,2020,24,WAS,NFL,QB,4,4,60,87,523,6.0,286,4.8,3.3,324,5.4,1,8,0,2,2.5,8,10.1,64,81.0,2.5,31,9,9,25,25.5,4,7.0,11,77,8,75,1,2,29,234,
+AlleKy00,Kyle Allen,QB,2021,25,WAS,NFL,QB,2,0,12,19,135,7.1,74,6.2,3.9,46,3.8,0,1,0,2,11.1,2,11.1,15,83.3,2.3,4,2,1,5,23.8,0,,2,11,1,0,1,11,1,0,
+AlleKy00,Kyle Allen,QB,2022,26,HOU,NFL,QB,2,2,46,78,553,7.1,170,3.7,2.2,246,5.3,4,3,0,4,5.3,14,18.7,52,69.3,2.0,22,2,7,14,16.5,2,4.5,1,13,1,13,0,0,28,148,
+AlleKy00,Kyle Allen,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AlleKy00,Kyle Allen,QB,2024,28,PIT,NFL,QB,1,0,1,1,13,13.0,13,13.0,13.0,6,6.0,0,0,0,0,0.0,0,0.0,1,100.0,2.1,1,0,0,0,0.0,0,,0,0,0,0,0,0,0,0,

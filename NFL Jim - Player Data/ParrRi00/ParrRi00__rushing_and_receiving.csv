@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ParrRi00,Rick Parros,RB,1981,23,DEN,NFL,FB,16,16,176,749,2,33,47.7,25,4.3,46.8,11.0,37,25,216,8.6,1,10,43.2,26,1.6,13.5,67.6,5.8,201,4.8,965,3,6,7,
+ParrRi00,Rick Parros,RB,1982,24,DEN,NFL,FB,9,9,77,277,1,15,42.9,14,3.6,30.8,8.6,48,37,259,7.0,2,14,47.9,24,4.1,28.8,77.1,5.4,114,4.7,536,3,3,6,
+ParrRi00,Rick Parros,RB,1983,25,DEN,NFL,FB,6,5,30,96,1,5,40.0,13,3.2,16.0,5.0,13,12,126,10.5,2,5,69.2,33,2.0,21.0,92.3,9.7,42,5.3,222,3,3,2,
+ParrRi00,Rick Parros,RB,1984,26,DEN,NFL,RB,15,2,46,208,2,12,60.9,25,4.5,13.9,3.1,9,6,25,4.2,0,1,33.3,9,0.4,1.7,66.7,2.8,52,4.5,233,2,0,2,
+ParrRi00,Rick Parros,RB,1985,27,SEA,NFL,RB,4,0,8,19,0,1,25.0,6,2.4,4.8,2.0,2,1,27,27.0,0,0,50.0,27,0.3,6.8,50.0,13.5,9,5.1,46,0,1,0,
+ParrRi00,Rick Parros,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ParrRi00,Rick Parros,RB,1987,29,SEA,NFL,RB,1,1,13,32,1,1,46.2,7,2.5,32.0,13.0,2,1,7,7.0,0,0,50.0,7,1.0,7.0,50.0,3.5,14,2.8,39,1,0,0,

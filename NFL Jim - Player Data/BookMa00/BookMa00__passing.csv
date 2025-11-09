@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+BookMa00,Marty Booker,WR,2001,25,CHI,NFL,WR,16,16,1,2,50.0,34,1,50.0,0,0.0,1,50.0,34,17.0,27.00,34.0,2.1,135.4,,0,0,0.00,17.00,27.00,0,0,
+BookMa00,Marty Booker,WR,2002,26,CHI,NFL,WR,16,16,1,5,20.0,44,1,20.0,0,0.0,1,20.0,44,8.8,12.80,44.0,2.8,103.3,,0,0,0.00,8.80,12.80,0,0,PB
+BookMa00,Marty Booker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BookMa00,Marty Booker,WR,2004,28,MIA,NFL,WR,15,15,1,1,100.0,48,0,0.0,0,0.0,1,100.0,48,48.0,48.00,48.0,3.2,118.7,,0,0,0.00,48.00,48.00,0,0,
+BookMa00,Marty Booker,WR,2005,29,MIA,NFL,WR,15,12,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,,0,0,0.00,0.00,0.00,0,0,
+BookMa00,Marty Booker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BookMa00,Marty Booker,WR,2007,31,MIA,NFL,WR,15,15,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,25.7,0,0,0.00,0.00,0.00,0,0,

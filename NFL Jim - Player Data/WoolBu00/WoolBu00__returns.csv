@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WoolBu00,Butch Woolfolk,RB,1982,22,NYG,NFL,RB,9,8,0,0,0,0,20,428,0,34,21.4,1091,
+WoolBu00,Butch Woolfolk,RB,1983,23,NYG,NFL,RB,16,16,0,0,0,0,2,13,0,11,6.5,1238,
+WoolBu00,Butch Woolfolk,RB,1984,24,NYG,NFL,RB,15,8,0,0,0,0,14,232,0,27,16.6,377,
+WoolBu00,Butch Woolfolk,RB,,,,,,,,,,,,,,,,,,
+WoolBu00,Butch Woolfolk,RB,1986,26,HOU,NFL,FB,10,5,0,0,0,0,2,38,0,21,19.0,409,
+WoolBu00,Butch Woolfolk,RB,1987,27,DET,NFL,RB,12,0,0,0,0,0,11,219,0,44,19.9,467,
+WoolBu00,Butch Woolfolk,RB,1988,28,DET,NFL,RB,3,0,0,0,0,0,4,99,0,46,24.8,103,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SandEm00,Emmanuel Sanders,WR,2012,25,PIT,WR,88,16,7,722,68%,0,0%,41,9%
+SandEm00,Emmanuel Sanders,WR,2013,26,PIT,WR,88,16,10,797,76%,0,0%,21,4%
+SandEm00,Emmanuel Sanders,WR,2014*,27,DEN,WR,10,16,16,1003,89%,0,0%,11,2%
+SandEm00,Emmanuel Sanders,WR,2015,28,DEN,WR,10,15,15,852,83%,0,0%,53,12%
+SandEm00,Emmanuel Sanders,WR,2016*,29,DEN,WR,10,16,16,865,81%,0,0%,0,0%
+SandEm00,Emmanuel Sanders,WR,2017,30,DEN,WR,10,12,11,636,75%,0,0%,2,1%
+SandEm00,Emmanuel Sanders,WR,2018,31,DEN,WR,10,12,12,658,84%,0,0%,0,0%
+SandEm00,Emmanuel Sanders,WR,2019,32,2TM,WR,,17,16,842,,0,,0,
+SandEm00,Emmanuel Sanders,WR,,,DEN,WR,10,7,7,355,78%,0,0%,0,0%
+SandEm00,Emmanuel Sanders,WR,,,,,,,,487,77%,0,0%,0,0%
+SandEm00,Emmanuel Sanders,WR,2020,33,NOR,WR,17,14,5,559,60%,0,0%,1,0%
+SandEm00,Emmanuel Sanders,WR,2021,34,BUF,WR,1,14,13,747,77%,0,0%,0,0%

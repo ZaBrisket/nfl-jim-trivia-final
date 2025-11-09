@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WestCh01,Charcandrick West,RB,2014,23,KAN,RB,35,6,0,4,1%,0,0%,60,35%
+WestCh01,Charcandrick West,RB,2015,24,KAN,RB,35,15,9,497,53%,0,0%,90,22%
+WestCh01,Charcandrick West,RB,2016,25,KAN,RB,35,15,2,358,38%,0,0%,20,5%
+WestCh01,Charcandrick West,RB,2017,26,KAN,RB,35,13,0,223,26%,0,0%,29,8%
+WestCh01,Charcandrick West,RB,2018,27,KAN,RB,30,3,0,30,17%,0,0%,13,17%

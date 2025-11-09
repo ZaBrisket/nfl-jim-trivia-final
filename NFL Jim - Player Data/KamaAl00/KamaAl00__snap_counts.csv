@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KamaAl00,Alvin Kamara,RB,2017*,22,NOR,RB,41,16,3,466,45%,0,0%,44,10%
+KamaAl00,Alvin Kamara,RB,2018*,23,NOR,RB,41,15,13,658,66%,0,0%,43,11%
+KamaAl00,Alvin Kamara,RB,2019*,24,NOR,RB,41,14,9,626,69%,0,0%,11,3%
+KamaAl00,Alvin Kamara,RB,2020*,25,NOR,RB,41,15,10,659,65%,0,0%,7,2%
+KamaAl00,Alvin Kamara,RB,2021*,26,NOR,RB,41,13,10,627,76%,0,0%,4,1%
+KamaAl00,Alvin Kamara,RB,2022,27,NOR,RB,41,15,13,642,70%,0,0%,1,0%
+KamaAl00,Alvin Kamara,RB,2023,28,NOR,RB,41,13,12,558,63%,0,0%,0,0%
+KamaAl00,Alvin Kamara,RB,2024,29,NOR,RB,41,14,14,641,71%,0,0%,0,0%
+KamaAl00,Alvin Kamara,RB,2025,30,NOR,RB,41,9,9,403,70%,0,0%,0,0%

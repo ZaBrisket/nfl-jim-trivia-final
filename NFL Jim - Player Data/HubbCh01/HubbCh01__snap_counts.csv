@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HubbCh01,Chuba Hubbard,RB,2021,22,CAR,RB,30,17,10,465,41%,0,0%,94,21%
+HubbCh01,Chuba Hubbard,RB,2022,23,CAR,RB,30,15,2,275,31%,0,0%,145,36%
+HubbCh01,Chuba Hubbard,RB,2023,24,CAR,RB,30,17,12,679,59%,0,0%,51,12%
+HubbCh01,Chuba Hubbard,RB,2024,25,CAR,RB,30,15,15,712,77%,0,0%,0,0%
+HubbCh01,Chuba Hubbard,RB,2025,26,CAR,RB,30,7,6,263,56%,0,0%,9,6%

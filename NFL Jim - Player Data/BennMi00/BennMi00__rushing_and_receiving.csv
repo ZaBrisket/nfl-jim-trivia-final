@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BennMi00,Michael Bennett,RB,2001,23,MIN,NFL,RB,13,13,172,682,2,28,43.6,31,4.0,52.5,13.2,38,29,226,7.8,1,9,50.0,80,2.2,17.4,76.3,5.9,201,4.5,908,3,0,6,
+BennMi00,Michael Bennett,RB,2002,24,MIN,NFL,RB,16,16,255,1296,5,47,49.4,85,5.1,81.0,15.9,41,37,351,9.5,1,16,58.5,45,2.3,21.9,90.2,8.6,292,5.6,1647,6,4,13,PB
+BennMi00,Michael Bennett,RB,2003,25,MIN,NFL,RB,8,7,90,447,1,18,45.6,28,5.0,55.9,11.3,14,12,132,11.0,0,4,57.1,40,1.5,16.5,85.7,9.4,102,5.7,579,1,2,5,
+BennMi00,Michael Bennett,RB,2004,26,MIN,NFL,RB,11,7,70,276,1,14,40.0,25,3.9,25.1,6.4,23,21,207,9.9,1,6,69.6,38,1.9,18.8,91.3,9.0,91,5.3,483,2,1,4,
+BennMi00,Michael Bennett,RB,2005,27,MIN,NFL,RB,16,6,126,473,3,21,38.9,61,3.8,29.6,7.9,31,27,124,4.6,2,8,32.3,20,1.7,7.8,87.1,4.0,153,3.9,597,5,5,4,
+BennMi00,Michael Bennett,RB,2006,28,KAN,NFL,RB,11,0,36,200,0,8,50.0,41,5.6,18.2,3.3,12,9,77,8.6,0,1,50.0,14,0.8,7.0,75.0,6.4,45,6.2,277,0,1,2,
+BennMi00,Michael Bennett,RB,2007,29,2TM,NFL,RB,14,1,61,241,1,9,37.7,28,4.0,17.2,4.4,22,15,101,6.7,1,4,40.9,23,1.1,7.2,68.2,4.6,76,4.5,342,2,2,3,
+BennMi00,Michael Bennett,RB,2007,29,KAN,NFL,RB,6,0,20,52,0,3,25.0,12,2.6,8.7,3.3,13,10,47,4.7,0,2,30.8,9,1.7,7.8,76.9,3.6,30,3.3,99,0,2,1,
+BennMi00,Michael Bennett,RB,2007,29,TAM,NFL,RB,8,1,41,189,1,6,43.9,28,4.6,23.6,5.1,9,5,54,10.8,1,2,55.6,23,0.6,6.8,55.6,6.0,46,5.3,243,2,0,2,
+BennMi00,Michael Bennett,RB,2008,30,2TM,NFL,RB,5,0,7,12,0,0,0.0,4,1.7,2.4,1.4,1,1,2,2.0,0,0,0.0,2,0.2,0.4,100.0,2.0,8,1.8,14,0,0,0,
+BennMi00,Michael Bennett,RB,2008,30,SDG,NFL,RB,0,0,0,0,0,0,,,,,,0,0,0,,0,0,,,,,,,0,,0,0,0,,
+BennMi00,Michael Bennett,RB,2008,30,TAM,NFL,RB,5,0,7,12,0,0,0.0,4,1.7,2.4,1.4,1,1,2,2.0,0,0,0.0,2,0.2,0.4,100.0,2.0,8,1.8,14,0,0,0,
+BennMi00,Michael Bennett,RB,2009,31,SDG,NFL,RB,6,0,23,65,0,3,30.4,14,2.8,10.8,3.8,7,6,65,10.8,0,2,57.1,33,1.0,10.8,85.7,9.3,29,4.5,130,0,0,1,
+BennMi00,Michael Bennett,RB,2010,32,OAK,NFL,RB,7,0,2,11,0,1,50.0,6,5.5,1.6,0.3,2,2,9,4.5,0,0,50.0,6,0.3,1.3,100.0,4.5,4,5.0,20,0,0,0,

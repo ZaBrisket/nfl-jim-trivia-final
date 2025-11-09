@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThomJu00,Julius Thomas,TE,2012,24,DEN,TE,80,4,0,2,1%,0,0%,12,13%
+ThomJu00,Julius Thomas,TE,2013*,25,DEN,TE,80,14,14,901,86%,0,0%,13,3%
+ThomJu00,Julius Thomas,TE,2014*,26,DEN,TE,80,13,10,692,75%,0,0%,3,1%
+ThomJu00,Julius Thomas,TE,2015,27,JAX,TE,80,12,10,542,70%,0,0%,0,0%
+ThomJu00,Julius Thomas,TE,2016,28,JAX,TE,80,9,6,450,72%,0,0%,0,0%
+ThomJu00,Julius Thomas,TE,2017,29,MIA,TE,89,14,12,639,70%,0,0%,0,0%

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BryaAn00,Antonio Bryant,WR,2002,21,DAL,NFL,WR,16,15,94,44,733,16.7,6,32,42.6,78,2.8,45.8,46.8,7.8,6,40,0,1,33.3,24,6.7,2.5,0.4,50,15.5,773,6,3,4,
+BryaAn00,Antonio Bryant,WR,2003,22,DAL,NFL,WR,16,5,83,39,550,14.1,2,27,39.8,54,2.4,34.4,47.0,6.6,2,0,0,0,0.0,,0.0,0.0,0.1,41,13.4,550,2,0,4,
+BryaAn00,Antonio Bryant,WR,2004,23,2TM,NFL,WR,15,8,99,58,812,14.0,4,36,47.5,55,3.9,54.1,58.6,8.2,0,0,0,0,,,,0.0,0.0,58,14.0,812,4,1,6,
+BryaAn00,Antonio Bryant,WR,2004,23,DAL,NFL,WR,5,1,27,16,266,16.6,0,11,51.9,48,3.2,53.2,59.3,9.9,0,0,0,0,,,,0.0,0.0,16,16.6,266,0,1,2,
+BryaAn00,Antonio Bryant,WR,2004,23,CLE,NFL,WR,10,7,72,42,546,13.0,4,25,45.8,55,4.2,54.6,58.3,7.6,0,0,0,0,,,,0.0,0.0,42,13.0,546,4,0,4,
+BryaAn00,Antonio Bryant,WR,2005,24,CLE,NFL,WR,16,15,123,69,1009,14.6,4,44,49.6,54,4.3,63.1,56.1,8.2,1,3,0,0,0.0,3,3.0,0.2,0.1,70,14.5,1012,4,1,8,
+BryaAn00,Antonio Bryant,WR,2006,25,SFO,NFL,WR,14,13,91,40,733,18.3,3,29,37.4,72,2.9,52.4,44.0,8.1,0,0,0,0,,,,0.0,0.0,40,18.3,733,3,0,7,
+BryaAn00,Antonio Bryant,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BryaAn00,Antonio Bryant,WR,2008,27,TAM,NFL,WR,16,15,138,83,1248,15.0,7,58,54.3,71,5.2,78.0,60.1,9.0,2,22,0,2,100.0,13,11.0,1.4,0.1,85,14.9,1270,7,1,10,AP CPoY-4
+BryaAn00,Antonio Bryant,WR,2009,28,TAM,NFL,WR,13,11,86,39,600,15.4,4,25,38.4,42,3.0,46.2,45.3,7.0,0,0,0,0,,,,0.0,0.0,39,15.4,600,4,0,4,

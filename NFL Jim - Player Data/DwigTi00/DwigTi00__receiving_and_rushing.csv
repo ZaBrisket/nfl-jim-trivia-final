@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DwigTi00,Tim Dwight,WR,1998,23,ATL,NFL,WR,12,0,7,4,94,23.5,1,4,57.1,44,0.3,7.8,57.1,13.4,8,19,0,0,50.0,7,2.4,1.6,0.7,12,9.4,113,1,3,2,
+DwigTi00,Tim Dwight,WR,1999,24,ATL,NFL,WR,12,8,51,32,669,20.9,7,27,54.9,60,2.7,55.8,62.7,13.1,5,28,1,1,60.0,9,5.6,2.3,0.4,37,18.8,697,8,2,7,
+DwigTi00,Tim Dwight,WR,2000,25,ATL,NFL,WR,14,1,53,26,406,15.6,3,20,43.4,52,1.9,29.0,49.1,7.7,5,8,0,1,20.0,5,1.6,0.6,0.4,31,13.4,414,3,3,5,
+DwigTi00,Tim Dwight,WR,2001,26,SDG,NFL,WR,10,2,50,25,406,16.2,0,22,44.0,78,2.5,40.6,50.0,8.1,2,24,1,1,100.0,16,12.0,2.4,0.2,27,15.9,430,1,1,5,
+DwigTi00,Tim Dwight,WR,2002,27,SDG,NFL,WR,16,14,93,50,623,12.5,2,33,47.3,42,3.1,38.9,53.8,6.7,12,108,1,5,50.0,20,9.0,6.8,0.8,62,11.8,731,3,1,6,
+DwigTi00,Tim Dwight,WR,2003,28,SDG,NFL,WR,9,3,31,14,193,13.8,0,12,41.9,32,1.6,21.4,45.2,6.2,9,88,0,3,88.9,20,9.8,9.8,1.0,23,12.2,281,0,1,3,
+DwigTi00,Tim Dwight,WR,2004,29,SDG,NFL,WR,12,0,5,2,31,15.5,1,2,40.0,23,0.2,2.6,40.0,6.2,4,54,0,1,25.0,48,13.5,4.5,0.3,6,14.2,85,1,0,2,
+DwigTi00,Tim Dwight,WR,2005,30,NWE,NFL,WR,16,1,34,19,332,17.5,3,14,50.0,59,1.2,20.8,55.9,9.8,4,11,0,2,50.0,12,2.8,0.7,0.3,23,14.9,343,3,1,3,
+DwigTi00,Tim Dwight,WR,2006,31,NYJ,NFL,WR,9,2,19,16,112,7.0,0,7,57.9,15,1.8,12.4,84.2,5.9,2,28,0,1,50.0,28,14.0,3.1,0.2,18,7.8,140,0,1,1,
+DwigTi00,Tim Dwight,WR,2007,32,OAK,NFL,WR,6,1,15,6,98,16.3,2,4,40.0,28,1.0,16.3,40.0,6.5,2,12,0,1,50.0,10,6.0,2.0,0.3,8,13.8,110,2,2,1,

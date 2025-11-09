@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JoneCe00,Cedric Jones,WR,1983,23,NWE,NFL,WR,15,12,0,0,0,0,4,63,0,23,15.8,386,
+JoneCe00,Cedric Jones,WR,1984,24,NWE,NFL,WR,14,3,0,0,0,0,1,20,0,20,20.0,264,
+JoneCe00,Cedric Jones,WR,1985,25,NWE,NFL,WR,16,3,0,0,0,0,3,37,0,20,12.3,289,
+JoneCe00,Cedric Jones,WR,1986,26,NWE,NFL,WR,16,0,0,0,0,0,4,63,0,20,15.8,278,
+JoneCe00,Cedric Jones,WR,,,,,,,,,,,,,,,,,,
+JoneCe00,Cedric Jones,WR,1990,30,NWE,NFL,WR,14,2,0,0,0,0,2,24,0,13,12.0,325,

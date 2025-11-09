@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+LambCe00,CeeDee Lamb,WR,2020,21,DAL,NFL,WR,16,14,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,
+LambCe00,CeeDee Lamb,WR,2021,22,DAL,NFL,WR,16,13,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,PB
+LambCe00,CeeDee Lamb,WR,2022,23,DAL,NFL,WR,17,17,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,"PB,AP-2"
+LambCe00,CeeDee Lamb,WR,2023,24,DAL,NFL,WR,17,17,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP OPoY-3"
+LambCe00,CeeDee Lamb,WR,2024,25,DAL,NFL,WR,15,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"

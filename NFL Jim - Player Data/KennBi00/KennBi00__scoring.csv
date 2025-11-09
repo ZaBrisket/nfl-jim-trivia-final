@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+KennBi00,Bill Kenney,QB,1981,26,KAN,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+KennBi00,Bill Kenney,QB,,,,,,,,,,,,,,,,,,,,,,,
+KennBi00,Bill Kenney,QB,1983,28,KAN,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,PB
+KennBi00,Bill Kenney,QB,,,,,,,,,,,,,,,,,,,,,,,
+KennBi00,Bill Kenney,QB,1985,30,KAN,NFL,QB,16,10,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

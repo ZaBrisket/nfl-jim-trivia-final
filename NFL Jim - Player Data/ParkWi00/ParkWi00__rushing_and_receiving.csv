@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ParkWi00,Willie Parker,RB,2004,24,PIT,NFL,RB,8,0,32,186,0,9,43.8,58,5.8,23.3,4.0,7,3,16,5.3,0,0,0.0,12,0.4,2.0,42.9,2.3,35,5.8,202,0,0,2,
+ParkWi00,Willie Parker,RB,2005,25,PIT,NFL,RB,15,15,255,1202,4,48,47.1,80,4.7,80.1,17.0,24,18,218,12.1,1,9,58.3,48,1.2,14.5,75.0,9.1,273,5.2,1420,5,4,13,
+ParkWi00,Willie Parker,RB,2006,26,PIT,NFL,RB,16,16,337,1494,13,72,44.5,76,4.4,93.4,21.1,42,31,222,7.2,3,12,35.7,25,1.9,13.9,73.8,5.3,368,4.7,1716,16,7,12,PB
+ParkWi00,Willie Parker,RB,2007,27,PIT,NFL,RB,15,15,321,1316,2,48,39.9,32,4.1,87.7,21.4,31,23,164,7.1,0,7,48.4,22,1.5,10.9,74.2,5.3,344,4.3,1480,2,4,13,PB
+ParkWi00,Willie Parker,RB,2008,28,PIT,NFL,RB,11,11,210,791,5,29,41.0,34,3.8,71.9,19.1,10,3,13,4.3,0,0,0.0,5,0.3,1.2,30.0,1.3,213,3.8,804,5,0,5,
+ParkWi00,Willie Parker,RB,2009,29,PIT,NFL,RB,14,3,98,389,0,19,44.9,34,4.0,27.8,7.0,7,6,64,10.7,1,2,57.1,27,0.4,4.6,85.7,9.1,104,4.4,453,1,2,3,

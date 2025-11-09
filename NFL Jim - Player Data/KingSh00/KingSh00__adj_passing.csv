@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KingSh00,Shaun King,QB,1999,22,TAM,NFL,QB,6,5,87,88,96,95,114,108,107,100,105,
+KingSh00,Shaun King,QB,2000,23,TAM,NFL,QB,16,16,95,92,99,97,85,104,104,94,97,
+KingSh00,Shaun King,QB,,,,,,,,,,,,,,,,,
+KingSh00,Shaun King,QB,2004,27,ARI,NFL,QB,3,2,85,86,74,75,88,66,72,99,71,

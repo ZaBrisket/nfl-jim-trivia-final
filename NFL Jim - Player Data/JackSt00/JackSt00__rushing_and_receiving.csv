@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JackSt00,Steven Jackson,RB,2004,21,STL,NFL,RB,14,3,134,673,4,37,56.0,48,5.0,48.1,9.6,24,19,189,9.9,0,6,41.7,28,1.4,13.5,79.2,7.9,153,5.6,862,4,1,5,
+JackSt00,Steven Jackson,RB,2005,22,STL,NFL,RB,15,15,254,1046,8,50,41.7,51,4.1,69.7,16.9,55,43,320,7.4,2,13,56.4,27,2.9,21.3,78.2,5.8,297,4.6,1366,10,3,9,
+JackSt00,Steven Jackson,RB,2006,23,STL,NFL,RB,16,16,346,1528,13,73,46.5,59,4.4,95.5,21.6,110,90,806,9.0,3,32,51.8,64,5.6,50.4,81.8,7.3,436,5.4,2334,16,4,20,"PB,AP-2,AP OPoY-4"
+JackSt00,Steven Jackson,RB,2007,24,STL,NFL,RB,12,12,237,1002,5,37,43.9,54,4.2,83.5,19.8,52,38,271,7.1,1,13,34.6,37,3.2,22.6,73.1,5.2,275,4.6,1273,6,5,8,
+JackSt00,Steven Jackson,RB,2008,25,STL,NFL,RB,12,11,253,1042,7,57,44.3,56,4.1,86.8,21.1,62,40,379,9.5,1,15,43.5,53,3.3,31.6,64.5,6.1,293,4.8,1421,8,5,8,
+JackSt00,Steven Jackson,RB,2009,26,STL,NFL,RB,15,15,324,1416,4,59,45.4,58,4.4,94.4,21.6,75,51,322,6.3,0,16,34.7,38,3.4,21.5,68.0,4.3,375,4.6,1738,4,2,8,"PB,AP-2"
+JackSt00,Steven Jackson,RB,2010,27,STL,NFL,RB,16,16,330,1241,6,60,39.7,42,3.8,77.6,20.6,62,46,383,8.3,0,14,41.9,49,2.9,23.9,74.2,6.2,376,4.3,1624,6,1,10,PB
+JackSt00,Steven Jackson,RB,2011,28,STL,NFL,RB,15,15,260,1145,5,51,38.5,47,4.4,76.3,17.3,58,42,333,7.9,1,17,48.3,50,2.8,22.2,72.4,5.7,302,4.9,1478,6,2,6,
+JackSt00,Steven Jackson,RB,2012,29,STL,NFL,RB,16,16,258,1045,4,49,45.3,46,4.1,65.3,16.1,53,38,321,8.4,0,13,49.1,22,2.4,20.1,71.7,6.1,296,4.6,1366,4,0,7,
+JackSt00,Steven Jackson,RB,2013,30,ATL,NFL,RB,12,12,157,543,6,26,40.1,50,3.5,45.3,13.1,49,33,191,5.8,1,11,26.5,25,2.8,15.9,67.3,3.9,190,3.9,734,7,0,5,
+JackSt00,Steven Jackson,RB,2014,31,ATL,NFL,RB,15,15,190,707,6,38,50.0,55,3.7,47.1,12.7,27,20,148,7.4,0,6,48.1,17,1.3,9.9,74.1,5.5,210,4.1,855,6,0,6,
+JackSt00,Steven Jackson,RB,2015,32,NWE,NFL,RB,2,1,21,50,1,4,42.9,7,2.4,25.0,10.5,1,1,20,20.0,0,1,100.0,20,0.5,10.0,100.0,20.0,22,3.2,70,1,0,1,

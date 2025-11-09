@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DrewMa00,Maurice Jones-Drew,RB,2012,27,JAX,RB,32,6,5,240,66%,0,0%,2,1%
+DrewMa00,Maurice Jones-Drew,RB,2013,28,JAX,RB,32,15,15,648,66%,0,0%,0,0%
+DrewMa00,Maurice Jones-Drew,RB,2014,29,OAK,RB,21,12,1,205,26%,0,0%,0,0%

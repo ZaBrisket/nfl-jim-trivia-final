@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RamsDe00,Derrick Ramsey,TE,1978,22,OAK,NFL,TE,16,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+RamsDe00,Derrick Ramsey,TE,1979,23,OAK,NFL,TE,16,3,24,13,161,12.4,3,10,45.8,40,0.8,10.1,54.2,6.7,0,0,0,0,0.0,0.0,13,12.4,161,3,0,2,
+RamsDe00,Derrick Ramsey,TE,1980,24,OAK,NFL,TE,16,0,14,5,117,23.4,0,5,35.7,58,0.3,7.3,35.7,8.4,0,0,0,0,0.0,0.0,5,23.4,117,0,0,1,
+RamsDe00,Derrick Ramsey,TE,1981,25,OAK,NFL,TE,16,12,91,52,674,13.0,4,33,50.5,66,3.3,42.1,57.1,7.4,0,0,0,0,0.0,0.0,52,13.0,674,4,2,5,
+RamsDe00,Derrick Ramsey,TE,1982,26,RAI,NFL,TE,9,0,3,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+RamsDe00,Derrick Ramsey,TE,1983,27,2TM,NFL,TE,16,7,46,24,335,14.0,6,18,47.8,39,1.5,20.9,52.2,7.3,0,0,0,0,0.0,0.0,24,14.0,335,6,0,3,
+RamsDe00,Derrick Ramsey,TE,1983,27,RAI,NFL,TE,2,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+RamsDe00,Derrick Ramsey,TE,1983,27,NWE,NFL,TE,14,7,45,24,335,14.0,6,18,48.9,39,1.7,23.9,53.3,7.4,0,0,0,0,0.0,0.0,24,14.0,335,6,0,3,
+RamsDe00,Derrick Ramsey,TE,1984,28,NWE,NFL,TE,16,13,95,66,792,12.0,7,43,64.2,34,4.1,49.5,69.5,8.3,0,0,0,0,0.0,0.0,66,12.0,792,7,0,7,
+RamsDe00,Derrick Ramsey,TE,1985,29,NWE,NFL,TE,16,3,56,28,285,10.2,1,16,44.6,26,1.8,17.8,50.0,5.1,0,0,0,0,0.0,0.0,28,10.2,285,1,1,2,
+RamsDe00,Derrick Ramsey,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RamsDe00,Derrick Ramsey,TE,1987,31,DET,NFL,TE,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,0,

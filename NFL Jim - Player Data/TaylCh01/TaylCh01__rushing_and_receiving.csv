@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+TaylCh01,Chester Taylor,RB,2002,23,BAL,NFL,RB,15,2,33,122,0,5,39.4,17,3.7,8.1,2.2,22,14,129,9.2,2,8,36.4,20,0.9,8.6,63.6,5.9,47,5.3,251,2,1,2,
+TaylCh01,Chester Taylor,RB,2003,24,BAL,NFL,RB,16,1,63,276,2,12,39.7,32,4.4,17.3,3.9,27,20,132,6.6,0,7,33.3,23,1.3,8.3,74.1,4.9,83,4.9,408,2,3,3,
+TaylCh01,Chester Taylor,RB,2004,25,BAL,NFL,RB,16,4,160,714,2,34,41.3,47,4.5,44.6,10.0,38,30,184,6.1,0,10,47.4,23,1.9,11.5,78.9,4.8,190,4.7,898,2,1,6,
+TaylCh01,Chester Taylor,RB,2005,26,BAL,NFL,RB,15,1,117,487,0,30,41.9,52,4.2,32.5,7.8,52,41,292,7.1,1,13,38.5,20,2.7,19.5,78.8,5.6,158,4.9,779,1,3,5,
+TaylCh01,Chester Taylor,RB,2006,27,MIN,NFL,RB,15,15,303,1216,6,54,43.6,95,4.0,81.1,20.2,51,42,288,6.9,0,17,51.0,24,2.8,19.2,82.4,5.6,345,4.4,1504,6,5,8,
+TaylCh01,Chester Taylor,RB,2007,28,MIN,NFL,RB,14,8,157,844,7,36,43.9,84,5.4,60.3,11.2,43,29,281,9.7,0,12,39.5,50,2.1,20.1,67.4,6.5,186,6.0,1125,7,5,8,
+TaylCh01,Chester Taylor,RB,2008,29,MIN,NFL,RB,16,1,101,399,4,19,42.6,21,4.0,24.9,6.3,55,45,399,8.9,2,17,43.6,47,2.8,24.9,81.8,7.3,146,5.5,798,6,2,6,
+TaylCh01,Chester Taylor,RB,2009,30,MIN,NFL,RB,16,0,94,338,1,12,29.8,25,3.6,21.1,5.9,59,44,389,8.8,1,18,39.0,33,2.8,24.3,74.6,6.6,138,5.3,727,2,2,7,
+TaylCh01,Chester Taylor,RB,2010,31,CHI,NFL,RB,16,1,112,267,3,16,36.6,24,2.4,16.7,7.0,26,20,139,7.0,0,7,50.0,18,1.3,8.7,76.9,5.3,132,3.1,406,3,0,3,
+TaylCh01,Chester Taylor,RB,2011,32,ARI,NFL,RB,12,1,20,77,1,4,40.0,34,3.9,6.4,1.7,24,14,91,6.5,0,3,16.7,17,1.2,7.6,58.3,3.8,34,4.9,168,1,0,1,

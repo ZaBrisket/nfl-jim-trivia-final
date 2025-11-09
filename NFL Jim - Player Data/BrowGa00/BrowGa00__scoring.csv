@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BrowGa00,Gary Brown,RB,1991,22,HOU,NFL,RB,11,0,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+BrowGa00,Gary Brown,RB,1992,23,HOU,NFL,RB,16,0,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+BrowGa00,Gary Brown,RB,1993,24,HOU,NFL,RB,16,8,6,2,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+BrowGa00,Gary Brown,RB,1994,25,HOU,NFL,RB,12,8,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+BrowGa00,Gary Brown,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BrowGa00,Gary Brown,RB,1997,28,SDG,NFL,RB,15,14,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+BrowGa00,Gary Brown,RB,1998,29,NYG,NFL,RB,16,11,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,

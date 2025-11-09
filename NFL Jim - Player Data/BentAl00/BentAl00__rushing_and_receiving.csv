@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BentAl00,Albert Bentley,RB,1985,25,IND,NFL,RB,15,1,54,288,2,18,57.4,26,5.3,19.2,3.6,18,11,85,7.7,0,4,44.4,16,0.7,5.7,61.1,4.7,65,5.7,373,2,1,3,
+BentAl00,Albert Bentley,RB,1986,26,IND,NFL,RB,12,3,73,351,3,18,47.9,70,4.8,29.3,6.1,39,25,230,9.2,0,8,35.9,38,2.1,19.2,64.1,5.9,98,5.9,581,3,2,3,
+BentAl00,Albert Bentley,RB,1987,27,IND,NFL,RB,12,4,142,631,7,43,58.5,17,4.4,52.6,11.8,47,34,447,13.1,2,17,55.3,72,2.8,37.3,72.3,9.5,176,6.1,1078,9,3,9,
+BentAl00,Albert Bentley,RB,1988,28,IND,NFL,RB,16,2,45,230,2,15,60.0,20,5.1,14.4,2.8,46,26,252,9.7,1,13,43.5,21,1.6,15.8,56.5,5.5,71,6.8,482,3,2,5,
+BentAl00,Albert Bentley,RB,1989,29,IND,NFL,FB,16,8,75,299,1,18,54.7,22,4.0,18.7,4.7,87,52,525,10.1,3,23,46.0,61,3.3,32.8,59.8,6.0,127,6.5,824,4,3,7,
+BentAl00,Albert Bentley,RB,1990,30,IND,NFL,FB,16,15,137,556,4,35,44.5,26,4.1,34.8,8.6,123,71,664,9.4,2,23,36.6,73,4.4,41.5,57.7,5.4,208,5.9,1220,6,2,11,
+BentAl00,Albert Bentley,RB,1991,31,IND,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,9,7,42,6.0,0,3,55.6,11,7.0,42.0,77.8,4.7,7,6.0,42,0,0,0,
+BentAl00,Albert Bentley,RB,1992,32,PIT,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LaFeBr00,Brandon LaFell,WR,2010,24,CAR,NFL,WR,14,2,77,38,468,12.3,1,23,39.0,44,2.7,33.4,49.4,6.1,1,60,0,1,100.0,60,60.0,4.3,0.1,39,13.5,528,1,0,3,
+LaFeBr00,Brandon LaFell,WR,2011,25,CAR,NFL,WR,16,6,56,36,613,17.0,3,25,51.8,91,2.3,38.3,64.3,10.9,0,0,0,0,,,,0.0,0.0,36,17.0,613,3,0,6,
+LaFeBr00,Brandon LaFell,WR,2012,26,CAR,NFL,WR,14,12,76,44,677,15.4,4,31,48.7,62,3.1,48.4,57.9,8.9,3,35,0,1,100.0,25,11.7,2.5,0.2,47,15.1,712,4,1,6,
+LaFeBr00,Brandon LaFell,WR,2013,27,CAR,NFL,WR,16,16,85,49,627,12.8,5,31,50.6,79,3.1,39.2,57.6,7.4,2,15,0,1,100.0,9,7.5,0.9,0.1,51,12.6,642,5,1,7,
+LaFeBr00,Brandon LaFell,WR,2014,28,NWE,NFL,WR,16,13,119,74,953,12.9,7,50,52.9,56,4.6,59.6,62.2,8.0,2,13,0,0,100.0,9,6.5,0.8,0.1,76,12.7,966,7,1,11,
+LaFeBr00,Brandon LaFell,WR,2015,29,NWE,NFL,WR,11,7,74,37,515,13.9,0,22,37.8,54,3.4,46.8,50.0,7.0,2,9,0,0,50.0,9,4.5,0.8,0.2,39,13.4,524,0,0,5,
+LaFeBr00,Brandon LaFell,WR,2016,30,CIN,NFL,WR,16,14,107,64,862,13.5,6,42,51.4,86,4.0,53.9,59.8,8.1,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,65,13.2,860,6,0,6,
+LaFeBr00,Brandon LaFell,WR,2017,31,CIN,NFL,WR,16,15,89,52,548,10.5,3,25,41.6,45,3.3,34.3,58.4,6.2,0,0,0,0,,,,0.0,0.0,52,10.5,548,3,1,5,
+LaFeBr00,Brandon LaFell,WR,2018,32,OAK,NFL,WR,6,5,16,12,135,11.3,2,9,56.3,24,2.0,22.5,75.0,8.4,0,0,0,0,,,,0.0,0.0,12,11.3,135,2,0,1,

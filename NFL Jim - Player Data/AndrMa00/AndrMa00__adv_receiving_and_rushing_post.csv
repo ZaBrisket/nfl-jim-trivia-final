@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+AndrMa00,Mark Andrews,TE,2018,23,BAL,NFL,TE,1,0,7,3,31,1,21,7.0,10,3.3,8.1,0,,0,0.0,0,56.2,0,0,0,0,,0,,0,
+AndrMa00,Mark Andrews,TE,2019,24,BAL,NFL,TE,1,0,7,4,39,3,32,8.0,7,1.8,9.7,0,,1,14.3,1,33.3,0,0,0,0,,0,,0,
+AndrMa00,Mark Andrews,TE,2020,25,BAL,NFL,TE,2,1,17,8,69,3,44,5.5,25,3.1,6.9,1,8.0,0,0.0,1,33.7,0,0,0,0,,0,,0,
+AndrMa00,Mark Andrews,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AndrMa00,Mark Andrews,TE,2022,27,BAL,NFL,TE,1,1,10,5,73,3,49,9.8,24,4.8,9.9,0,,0,0.0,1,34.6,1,0,0,0,0.0,0,0.0,0,
+AndrMa00,Mark Andrews,TE,2023,28,BAL,NFL,TE,1,0,2,2,15,0,15,7.5,0,0.0,7.5,0,,0,0.0,0,97.9,0,0,0,0,,0,,0,
+AndrMa00,Mark Andrews,TE,2024,29,BAL,NFL,TE,2,2,10,7,88,5,56,8.0,32,4.6,8.1,0,,1,10.0,0,97.1,4,8,4,6,1.5,2,0.5,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+OBriKe00,Ken O'Brien,QB,1984,24,NYJ,NFL,QB,10,5,96,92,98,96,103,86,110,91,99,
+OBriKe00,Ken O'Brien,QB,1985,25,NYJ,NFL,QB,16,16,119,109,130,122,119,112,133,81,129,PB
+OBriKe00,Ken O'Brien,QB,1986,26,NYJ,NFL,QB,15,14,115,111,111,109,127,111,98,101,115,AP OPoY-5
+OBriKe00,Ken O'Brien,QB,1987,27,NYJ,NFL,QB,12,12,98,87,108,100,115,91,127,76,111,
+OBriKe00,Ken O'Brien,QB,1988,28,NYJ,NFL,QB,14,12,79,80,99,98,102,93,131,94,105,
+OBriKe00,Ken O'Brien,QB,1989,29,NYJ,NFL,QB,15,12,100,92,96,91,117,82,100,84,99,
+OBriKe00,Ken O'Brien,QB,1990,30,NYJ,NFL,QB,16,16,98,96,104,102,94,91,117,96,101,
+OBriKe00,Ken O'Brien,QB,1991,31,NYJ,NFL,QB,16,16,96,98,101,101,106,78,120,106,100,PB
+OBriKe00,Ken O'Brien,QB,1992,32,NYJ,NFL,QB,10,3,95,92,84,84,95,117,61,86,88,
+OBriKe00,Ken O'Brien,QB,1993,33,PHI,NFL,QB,5,4,69,64,83,79,82,89,118,80,87,

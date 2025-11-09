@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MackSt00,Stacey Mack,RB,1999,24,JAX,NFL,RB,12,0,0,0,0,0,6,112,0,32,18.7,152,
+MackSt00,Stacey Mack,RB,2000,25,JAX,NFL,RB,6,2,0,0,0,0,6,104,0,35,17.3,249,
+MackSt00,Stacey Mack,RB,2001,26,JAX,NFL,RB,16,11,0,0,0,0,2,49,0,31,24.5,1091,
+MackSt00,Stacey Mack,RB,2002,27,JAX,NFL,RB,16,0,0,0,0,0,12,234,0,54,19.5,749,

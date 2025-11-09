@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BlouLe00,LeGarrette Blount,RB,2010,24,TAM,NFL,RB,13,7,201,1007,6,38,43.8,53,5.0,77.5,15.5,7,5,14,2.8,0,0,14.3,7,0.4,1.1,71.4,2.0,206,5.0,1021,6,4,7,AP CPoY-7
+BlouLe00,LeGarrette Blount,RB,2011,25,TAM,NFL,RB,14,14,184,781,5,32,46.2,54,4.2,55.8,13.1,25,15,148,9.9,0,6,40.0,35,1.1,10.6,60.0,5.9,199,4.7,929,5,5,5,
+BlouLe00,LeGarrette Blount,RB,2012,26,TAM,NFL,RB,13,0,41,151,2,7,36.6,35,3.7,11.6,3.2,2,1,2,2.0,0,0,0.0,2,0.1,0.2,50.0,1.0,42,3.6,153,2,0,1,
+BlouLe00,LeGarrette Blount,RB,2013,27,NWE,NFL,RB,16,7,153,772,7,37,52.3,47,5.0,48.3,9.6,5,2,38,19.0,0,1,40.0,32,0.1,2.4,40.0,7.6,155,5.2,810,7,3,5,
+BlouLe00,LeGarrette Blount,RB,2014,28,2TM,NFL,RB,16,1,125,547,5,33,44.8,50,4.4,34.2,7.8,12,10,54,5.4,0,4,41.7,13,0.6,3.4,83.3,4.5,135,4.5,601,5,1,5,
+BlouLe00,LeGarrette Blount,RB,2014,28,PIT,NFL,RB,11,0,65,266,2,17,46.2,50,4.1,24.2,5.9,8,6,36,6.0,0,3,37.5,13,0.5,3.3,75.0,4.5,71,4.3,302,2,1,2,
+BlouLe00,LeGarrette Blount,RB,2014,28,NWE,NFL,RB,5,1,60,281,3,16,43.3,34,4.7,56.2,12.0,4,4,18,4.5,0,1,50.0,11,0.8,3.6,100.0,4.5,64,4.7,299,3,0,3,
+BlouLe00,LeGarrette Blount,RB,2015,29,NWE,NFL,RB,12,6,165,703,6,39,49.1,38,4.3,58.6,13.8,7,6,43,7.2,1,3,42.9,14,0.5,3.6,85.7,6.1,171,4.4,746,7,1,6,
+BlouLe00,LeGarrette Blount,RB,2016,30,NWE,NFL,RB,16,8,299,1161,18,68,42.5,44,3.9,72.6,18.7,8,7,38,5.4,0,1,50.0,16,0.4,2.4,87.5,4.8,306,3.9,1199,18,2,8,
+BlouLe00,LeGarrette Blount,RB,2017,31,PHI,NFL,RB,16,11,173,766,2,33,39.3,68,4.4,47.9,10.8,8,8,50,6.3,1,3,50.0,20,0.5,3.1,100.0,6.3,181,4.5,816,3,1,6,
+BlouLe00,LeGarrette Blount,RB,2018,32,DET,NFL,RB,16,8,154,418,5,25,35.1,27,2.7,26.1,9.6,15,10,67,6.7,0,4,40.0,23,0.6,4.2,66.7,4.5,164,3.0,485,5,2,3,

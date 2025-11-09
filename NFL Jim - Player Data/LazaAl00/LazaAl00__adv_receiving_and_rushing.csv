@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+LazaAl00,Allen Lazard,WR,2018,23,GNB,NFL,WR,1,0,1,1,7,0,7,7.0,0,0.0,7.0,0,,0,0.0,0,95.8,0,0,0,0,,0,,0,,
+LazaAl00,Allen Lazard,WR,2019,24,GNB,NFL,WR,16,3,52,35,477,24,346,9.9,131,3.7,14.2,0,,2,3.8,0,115.6,1,21,1,15,15.0,6,6.0,1,1.0,
+LazaAl00,Allen Lazard,WR,2020,25,GNB,NFL,WR,10,9,46,33,451,23,256,7.8,195,5.9,10.0,0,,5,10.9,0,124.5,2,17,1,13,6.5,4,2.0,0,,
+LazaAl00,Allen Lazard,WR,2021,26,GNB,NFL,WR,15,13,60,40,513,28,345,8.6,168,4.2,10.9,1,40.0,1,1.7,0,132.8,3,32,2,29,9.7,3,1.0,0,,
+LazaAl00,Allen Lazard,WR,2022,27,GNB,NFL,WR,15,15,100,60,788,45,540,9.0,248,4.1,12.5,1,60.0,6,6.0,5,84.1,2,0,0,-1,-0.5,1,0.5,0,,
+LazaAl00,Allen Lazard,WR,2023,28,NYJ,NFL,WR,14,12,49,23,311,17,255,11.1,56,2.4,12.2,1,23.0,4,8.2,1,65.9,0,0,0,0,,0,,0,,
+LazaAl00,Allen Lazard,WR,2024,29,NYJ,NFL,WR,12,10,60,37,530,29,375,10.1,155,4.2,11.0,0,,6,10.0,2,109.7,0,0,0,0,,0,,0,,
+LazaAl00,Allen Lazard,WR,2025,30,NYJ,NFL,WR,6,2,11,7,45,2,18,2.6,27,3.9,8.2,0,,1,9.1,0,102.5,0,0,0,0,,0,,0,,

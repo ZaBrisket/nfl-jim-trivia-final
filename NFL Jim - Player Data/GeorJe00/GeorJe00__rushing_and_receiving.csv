@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GeorJe00,Jeff George,QB,1990,23,IND,NFL,QB,13,12,11,2,1,3,36.4,6,0.2,0.2,0.8,0,0,0,0,0,,0.0,0.0,,,11,0.2,2,1,4,AP ORoY-3
+GeorJe00,Jeff George,QB,1991,24,IND,NFL,QB,16,16,16,36,0,4,37.5,13,2.3,2.3,1.0,0,0,0,0,0,,0.0,0.0,,,16,2.3,36,0,8,
+GeorJe00,Jeff George,QB,1992,25,IND,NFL,QB,10,10,14,26,1,2,21.4,13,1.9,2.6,1.4,0,0,0,0,0,,0.0,0.0,,,14,1.9,26,1,6,
+GeorJe00,Jeff George,QB,1993,26,IND,NFL,QB,13,11,13,39,0,1,15.4,14,3.0,3.0,1.0,0,0,0,0,0,,0.0,0.0,,,13,3.0,39,0,4,
+GeorJe00,Jeff George,QB,1994,27,ATL,NFL,QB,16,16,30,66,0,2,23.3,10,2.2,4.1,1.9,0,0,0,0,0,,0.0,0.0,,,30,2.2,66,0,12,
+GeorJe00,Jeff George,QB,1995,28,ATL,NFL,QB,16,16,27,17,0,2,11.1,6,0.6,1.1,1.7,0,0,0,0,0,,0.0,0.0,,,27,0.6,17,0,6,
+GeorJe00,Jeff George,QB,1996,29,ATL,NFL,QB,3,3,5,10,0,0,40.0,5,2.0,3.3,1.7,0,0,0,0,0,,0.0,0.0,,,5,2.0,10,0,3,
+GeorJe00,Jeff George,QB,1997,30,OAK,NFL,QB,16,16,17,44,0,3,17.6,12,2.6,2.8,1.1,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,17,2.6,44,0,7,
+GeorJe00,Jeff George,QB,1998,31,OAK,NFL,QB,8,7,8,2,0,0,12.5,8,0.3,0.3,1.0,0,0,0,0,0,,0.0,0.0,,,8,0.3,2,0,7,
+GeorJe00,Jeff George,QB,1999,32,MIN,NFL,QB,12,10,16,41,0,4,18.8,17,2.6,3.4,1.3,0,0,0,0,0,,0.0,0.0,,,16,2.6,41,0,8,AP CPoY-4
+GeorJe00,Jeff George,QB,2000,33,WAS,NFL,QB,6,5,7,24,0,1,42.9,14,3.4,4.0,1.2,0,0,0,0,0,,0.0,0.0,,,7,3.4,24,0,3,
+GeorJe00,Jeff George,QB,2001,34,WAS,NFL,QB,2,2,4,0,0,1,25.0,,0.0,0.0,2.0,0,0,0,0,0,,0.0,0.0,,,4,0.0,0,0,2,

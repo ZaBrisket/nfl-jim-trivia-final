@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MackMa00,Marlon Mack,RB,2017,21,IND,NFL,RB,14,0,93,358,3,20,40.9,35,3.8,25.6,6.6,33,21,225,10.7,1,10,45.5,34,1.5,16.1,63.6,6.8,114,5.1,583,4,1,4,
+MackMa00,Marlon Mack,RB,2018,22,IND,NFL,RB,12,10,195,908,9,50,52.8,49,4.7,75.7,16.3,26,17,103,6.1,1,3,50.0,29,1.4,8.6,65.4,4.0,212,4.8,1011,10,2,7,
+MackMa00,Marlon Mack,RB,2019,23,IND,NFL,RB,14,12,247,1091,8,67,51.0,63,4.4,77.9,17.6,17,14,82,5.9,0,2,47.1,14,1.0,5.9,82.4,4.8,261,4.5,1173,8,0,8,
+MackMa00,Marlon Mack,RB,2020,24,IND,NFL,RB,1,1,4,26,0,2,75.0,18,6.5,26.0,4.0,3,3,30,10.0,0,1,66.7,19,3.0,30.0,100.0,10.0,7,8.0,56,0,0,0,
+MackMa00,Marlon Mack,RB,2021,25,IND,NFL,RB,6,0,28,101,0,6,32.1,22,3.6,16.8,4.7,5,2,8,4.0,0,0,20.0,7,0.3,1.3,40.0,1.6,30,3.6,109,0,0,1,
+MackMa00,Marlon Mack,RB,2022,26,2TM,NFL,RB,8,0,16,84,1,4,75.0,17,5.3,10.5,2.0,10,8,99,12.4,1,2,40.0,66,1.0,12.4,80.0,9.9,24,7.6,183,2,0,1,
+MackMa00,Marlon Mack,RB,2022,26,SFO,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+MackMa00,Marlon Mack,RB,2022,26,DEN,NFL,RB,6,0,16,84,1,4,75.0,17,5.3,14.0,2.7,10,8,99,12.4,1,2,40.0,66,1.3,16.5,80.0,9.9,24,7.6,183,2,0,1,

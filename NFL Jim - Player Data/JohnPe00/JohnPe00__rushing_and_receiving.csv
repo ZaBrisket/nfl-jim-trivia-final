@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnPe00,Pete Johnson,RB,1977,23,CIN,NFL,FB,14,9,153,585,4,,,65,3.8,41.8,10.9,,5,49,9.8,0,,,21,0.4,3.5,,,158,4.0,634,4,1,6,
+JohnPe00,Pete Johnson,RB,1978,24,CIN,NFL,FB,16,10,180,762,7,41,49.4,50,4.2,47.6,11.3,48,31,236,7.6,0,11,39.6,34,1.9,14.8,64.6,4.9,211,4.7,998,7,4,6,
+JohnPe00,Pete Johnson,RB,1979,25,CIN,NFL,FB,16,13,243,865,14,69,53.9,35,3.6,54.1,15.2,42,24,154,6.4,1,5,38.1,15,1.5,9.6,57.1,3.7,267,3.8,1019,15,6,8,
+JohnPe00,Pete Johnson,RB,1980,26,CIN,NFL,FB,12,8,186,747,6,45,55.9,57,4.0,62.3,15.5,36,21,172,8.2,1,8,38.9,28,1.8,14.3,58.3,4.8,207,4.4,919,7,2,5,
+JohnPe00,Pete Johnson,RB,1981,27,CIN,NFL,FB,16,16,274,1077,12,70,56.6,39,3.9,67.3,17.1,63,46,320,7.0,4,18,50.8,33,2.9,20.0,73.0,5.1,320,4.4,1397,16,4,12,PB
+JohnPe00,Pete Johnson,RB,1982,28,CIN,NFL,FB,9,9,156,622,7,37,57.1,21,4.0,69.1,17.3,44,31,267,8.6,0,9,50.0,25,3.4,29.7,70.5,6.1,187,4.8,889,7,1,15,
+JohnPe00,Pete Johnson,RB,1983,29,CIN,NFL,FB,11,8,210,763,14,51,56.7,16,3.6,69.4,19.1,23,15,129,8.6,0,9,47.8,18,1.4,11.7,65.2,5.6,225,4.0,892,14,2,6,
+JohnPe00,Pete Johnson,RB,1984,30,2TM,NFL,RB,16,0,87,205,12,33,57.5,9,2.4,12.8,5.4,2,2,7,3.5,0,0,50.0,7,0.1,0.4,100.0,3.5,89,2.4,212,12,1,1,
+JohnPe00,Pete Johnson,RB,1984,30,SDG,NFL,RB,3,0,19,46,3,5,57.9,7,2.4,15.3,6.3,2,2,7,3.5,0,0,50.0,7,0.7,2.3,100.0,3.5,21,2.5,53,3,0,0,
+JohnPe00,Pete Johnson,RB,1984,30,MIA,NFL,RB,13,0,68,159,9,28,57.4,9,2.3,12.2,5.2,0,0,0,,0,0,,,0.0,0.0,,,68,2.3,159,9,1,1,

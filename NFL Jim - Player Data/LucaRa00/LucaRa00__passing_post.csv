@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_yds,pass_td,pass_int,pass_first_down,pass_yds_per_g,comebacks,gwd,awards
+LucaRa00,Ray Lucas,QB,1996,24,NWE,NFL,QB,3,0,0,0,0,0,,0,0.0,0,0,
+LucaRa00,Ray Lucas,QB,,,,,,,,,,,,,,,,,
+LucaRa00,Ray Lucas,QB,1998,26,NYJ,NFL,QB,1,0,0,0,0,0,,0,0.0,0,0,
+LucaRa00,Ray Lucas,QB,,,,,,,,,,,,,,,,,
+LucaRa00,Ray Lucas,QB,2001,29,MIA,NFL,QB,1,0,0,0,0,0,0,0,0.0,0,0,

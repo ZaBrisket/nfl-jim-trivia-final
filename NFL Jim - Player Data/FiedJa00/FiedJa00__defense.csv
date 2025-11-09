@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+FiedJa00,Jay Fiedler,QB,1999,28,JAX,NFL,QB,7,1,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,
+FiedJa00,Jay Fiedler,QB,2000,29,MIA,NFL,QB,15,15,0,0,0,0,0,0,2,0,-8,0,0.0,,,,,0,AP CPoY-12
+FiedJa00,Jay Fiedler,QB,2001,30,MIA,NFL,QB,16,16,0,0,0,0,0,0,6,0,0,0,0.0,0,0,0,0,0,
+FiedJa00,Jay Fiedler,QB,2002,31,MIA,NFL,QB,11,10,0,0,0,0,0,0,3,2,0,0,0.0,1,0,1,0,0,
+FiedJa00,Jay Fiedler,QB,2003,32,MIA,NFL,QB,12,11,0,0,0,0,0,0,7,2,-5,0,0.0,0,0,0,0,0,
+FiedJa00,Jay Fiedler,QB,2004,33,MIA,NFL,QB,8,7,0,0,0,0,0,0,9,1,0,0,0.0,0,0,0,0,0,
+FiedJa00,Jay Fiedler,QB,2005,34,NYJ,NFL,QB,2,0,0,0,0,0,0,0,1,1,-5,0,0.0,0,0,0,0,0,

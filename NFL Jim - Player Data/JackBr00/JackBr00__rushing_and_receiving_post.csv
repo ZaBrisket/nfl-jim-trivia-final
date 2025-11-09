@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JackBr00,Brandon Jackson,RB,2007,22,GNB,NFL,RB,2,0,8,34,0,2,37.5,18,4.3,17.0,4.0,2,2,14,7.0,1,1,50.0,13,1.0,7.0,100.0,7.0,10,4.8,48,1,0,
+JackBr00,Brandon Jackson,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JackBr00,Brandon Jackson,RB,2009,24,GNB,NFL,RB,1,0,2,6,0,0,0.0,4,3.0,6.0,2.0,1,1,-1,-1.0,0,0,0.0,-1,1.0,-1.0,100.0,-1.0,3,1.7,5,0,0,
+JackBr00,Brandon Jackson,RB,2010,25,GNB,NFL,RB,4,0,6,28,0,2,50.0,13,4.7,7.0,1.5,8,5,64,12.8,1,3,50.0,16,1.3,16.0,62.5,8.0,11,8.4,92,1,0,

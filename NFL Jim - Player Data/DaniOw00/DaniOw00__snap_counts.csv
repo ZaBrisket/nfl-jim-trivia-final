@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DaniOw00,Owen Daniels,TE,2012*,30,HOU,TE,81,15,14,863,81%,0,0%,72,15%
+DaniOw00,Owen Daniels,TE,2013,31,HOU,TE,81,5,5,352,91%,0,0%,22,14%
+DaniOw00,Owen Daniels,TE,2014,32,BAL,TE,81,15,13,816,81%,0,0%,2,1%
+DaniOw00,Owen Daniels,TE,2015,33,DEN,TE,81,16,16,821,75%,0,0%,5,1%

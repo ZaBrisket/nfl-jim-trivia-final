@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+BeueSt00,Steve Beuerlein,QB,1988,23,RAI,NFL,QB,10,8,0,0,0,0,,0,6,2,-1,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1989,24,RAI,NFL,QB,10,7,0,0,0,0,,0,6,3,-8,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1990,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,,
+BeueSt00,Steve Beuerlein,QB,1993,28,PHO,NFL,QB,16,14,0,0,0,0,,0,8,2,0,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1994,29,ARI,NFL,QB,9,7,0,0,0,0,,0,8,3,-13,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1995,30,JAX,NFL,QB,7,6,0,0,0,0,,0,3,0,0,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1996,31,CAR,NFL,QB,8,4,0,0,0,0,,0,9,2,-7,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1997,32,CAR,NFL,QB,7,3,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1998,33,CAR,NFL,QB,12,12,0,0,0,0,,0,13,5,-19,0,0.0,0,0,0,,0,
+BeueSt00,Steve Beuerlein,QB,1999,34,CAR,NFL,QB,16,16,0,0,0,0,0,0,12,0,-4,0,0.0,,,,,0,PB
+BeueSt00,Steve Beuerlein,QB,2000,35,CAR,NFL,QB,16,16,0,0,0,0,0,0,9,0,-5,0,0.0,0,0,0,0,0,
+BeueSt00,Steve Beuerlein,QB,,,,,,,,,,,,,,,,,,,,,,,,
+BeueSt00,Steve Beuerlein,QB,2002,37,DEN,NFL,QB,8,3,0,0,0,0,0,0,4,4,-2,0,0.0,,,,,0,
+BeueSt00,Steve Beuerlein,QB,2003,38,DEN,NFL,QB,4,2,0,0,0,0,0,0,3,0,0,0,0.0,,,,,0,

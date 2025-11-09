@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CribJo00,Joe Cribbs,RB,1980,22,BUF,NFL,RB,16,16,11,1,0,0,0,0,0,12,0,0,0,0,0,72,4.5,"PB,AP ORoY-2"
+CribJo00,Joe Cribbs,RB,1981,23,BUF,NFL,RB,15,15,3,7,0,0,0,0,0,10,0,0,0,0,0,60,4.0,PB
+CribJo00,Joe Cribbs,RB,1982,24,BUF,NFL,RB,7,6,3,0,0,0,0,0,0,3,0,0,0,0,0,18,2.6,
+CribJo00,Joe Cribbs,RB,1983,25,BUF,NFL,RB,16,16,3,7,0,0,0,0,0,10,0,0,0,0,0,60,3.8,PB
+CribJo00,Joe Cribbs,RB,1984,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,
+CribJo00,Joe Cribbs,RB,1985,27,BUF,NFL,RB,10,5,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.6,
+CribJo00,Joe Cribbs,RB,1986,28,SFO,NFL,RB,14,10,5,0,0,0,0,0,0,5,0,0,0,0,0,30,2.1,
+CribJo00,Joe Cribbs,RB,1987,29,SFO,NFL,RB,11,3,1,0,0,1,0,0,0,2,0,0,0,0,0,12,1.1,

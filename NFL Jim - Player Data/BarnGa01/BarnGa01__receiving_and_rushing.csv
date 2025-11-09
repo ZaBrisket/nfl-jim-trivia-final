@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BarnGa01,Gary Barnidge,TE,2008,23,CAR,NFL,TE,15,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+BarnGa01,Gary Barnidge,TE,2009,24,CAR,NFL,TE,16,3,21,12,242,20.2,0,8,52.4,55,0.8,15.1,57.1,11.5,0,0,0,0,0.0,0.0,12,20.2,242,0,1,2,
+BarnGa01,Gary Barnidge,TE,2010,25,CAR,NFL,TE,16,3,9,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+BarnGa01,Gary Barnidge,TE,2011,,Did not play - Injured (broken ankle),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BarnGa01,Gary Barnidge,TE,2012,27,CAR,NFL,TE,16,5,6,6,78,13.0,1,3,83.3,24,0.4,4.9,100.0,13.0,0,0,0,0,0.0,0.0,6,13.0,78,1,0,1,
+BarnGa01,Gary Barnidge,TE,2013,28,CLE,NFL,TE,16,12,18,13,127,9.8,2,6,50.0,40,0.8,7.9,72.2,7.1,0,0,0,0,0.0,0.0,13,9.8,127,2,0,1,
+BarnGa01,Gary Barnidge,TE,2014,29,CLE,NFL,TE,13,2,25,13,156,12.0,0,9,40.0,28,1.0,12.0,52.0,6.2,0,0,0,0,0.0,0.0,13,12.0,156,0,0,1,
+BarnGa01,Gary Barnidge,TE,2015,30,CLE,NFL,TE,16,13,125,79,1043,13.2,9,52,52.8,40,4.9,65.2,63.2,8.3,0,0,0,0,0.0,0.0,79,13.2,1043,9,0,6,PB
+BarnGa01,Gary Barnidge,TE,2016,31,CLE,NFL,TE,16,16,82,55,612,11.1,2,34,52.4,43,3.4,38.3,67.1,7.5,0,0,0,0,0.0,0.0,55,11.1,612,2,0,4,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JennGr00,Greg Jennings,WR,2006,23,GNB,NFL,WR,14,11,104,45,632,14.0,3,29,38.5,75,3.2,45.1,43.3,6.1,0,0,0,0,,,,0.0,0.0,45,14.0,632,3,1,5,
+JennGr00,Greg Jennings,WR,2007,24,GNB,NFL,WR,13,13,84,53,920,17.4,12,36,57.1,82,4.1,70.8,63.1,11.0,0,0,0,0,,,,0.0,0.0,53,17.4,920,12,1,9,
+JennGr00,Greg Jennings,WR,2008,25,GNB,NFL,WR,16,15,140,80,1292,16.2,9,55,50.7,63,5.0,80.8,57.1,9.2,0,0,0,0,,,,0.0,0.0,80,16.2,1292,9,1,12,
+JennGr00,Greg Jennings,WR,2009,26,GNB,NFL,WR,16,13,119,68,1113,16.4,4,49,52.1,83,4.3,69.6,57.1,9.4,0,0,0,0,,,,0.0,0.0,68,16.4,1113,4,0,11,
+JennGr00,Greg Jennings,WR,2010,27,GNB,NFL,WR,16,16,125,76,1265,16.6,12,51,54.4,86,4.8,79.1,60.8,10.1,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,77,16.4,1264,12,2,11,PB
+JennGr00,Greg Jennings,WR,2011,28,GNB,NFL,WR,13,13,101,67,949,14.2,9,43,56.4,79,5.2,73.0,66.3,9.4,0,0,0,0,,,,0.0,0.0,67,14.2,949,9,0,12,PB
+JennGr00,Greg Jennings,WR,2012,29,GNB,NFL,WR,8,5,62,36,366,10.2,4,22,53.2,45,4.5,45.8,58.1,5.9,0,0,0,0,,,,0.0,0.0,36,10.2,366,4,0,3,
+JennGr00,Greg Jennings,WR,2013,30,MIN,NFL,WR,15,15,106,68,804,11.8,4,37,50.9,70,4.5,53.6,64.2,7.6,0,0,0,0,,,,0.0,0.0,68,11.8,804,4,0,8,
+JennGr00,Greg Jennings,WR,2014,31,MIN,NFL,WR,16,13,92,59,742,12.6,6,40,52.2,38,3.7,46.4,64.1,8.1,0,0,0,0,,,,0.0,0.0,59,12.6,742,6,1,6,
+JennGr00,Greg Jennings,WR,2015,32,MIA,NFL,WR,16,5,36,19,208,10.9,1,7,38.9,31,1.2,13.0,52.8,5.8,0,0,0,0,,,,0.0,0.0,19,10.9,208,1,0,1,

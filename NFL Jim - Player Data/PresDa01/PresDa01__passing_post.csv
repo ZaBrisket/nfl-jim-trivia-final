@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+PresDa01,Dak Prescott,QB,2016,23,DAL,NFL,QB,1,1,0-1-0,24,38,63.2,302,3,7.9,1,2.6,16,55.0,40,7.9,8.34,12.6,302.0,103.2,2,11,5.00,7.28,7.65,0,0,
+PresDa01,Dak Prescott,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PresDa01,Dak Prescott,QB,2018,25,DAL,NFL,QB,2,2,1-1-0,42,65,64.6,492,2,3.1,1,1.5,22,47.8,44,7.6,7.49,11.7,246.0,91.3,2,18,2.99,7.07,7.00,1,1,
+PresDa01,Dak Prescott,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PresDa01,Dak Prescott,QB,2021,28,DAL,NFL,QB,1,1,0-1-0,23,43,53.5,254,1,2.3,1,2.3,11,37.5,38,5.9,5.33,11.0,254.0,69.3,5,40,10.42,4.46,3.94,0,0,
+PresDa01,Dak Prescott,QB,2022,29,DAL,NFL,QB,2,2,1-1-0,48,70,68.6,511,5,7.1,2,2.9,25,48.6,46,7.3,7.44,10.6,255.5,101.5,2,8,2.78,6.99,7.13,0,0,
+PresDa01,Dak Prescott,QB,2023,30,DAL,NFL,QB,1,1,0-1-0,41,60,68.3,403,3,5.0,2,3.3,25,56.3,47,6.7,6.22,9.8,403.0,89.8,4,16,6.25,6.05,5.58,0,0,

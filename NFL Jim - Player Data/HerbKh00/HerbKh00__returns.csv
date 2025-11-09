@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HerbKh00,Khalil Herbert,RB,2021,23,CHI,NFL,RB,17,2,0,0,0,0,27,650,0,50,24.1,1179,
+HerbKh00,Khalil Herbert,RB,2022,24,CHI,NFL,RB,13,1,0,0,0,0,5,146,0,50,29.2,934,
+HerbKh00,Khalil Herbert,RB,,,,,,,,,,,,,,,,,,
+HerbKh00,Khalil Herbert,RB,2024,26,2TM,NFL,RB,14,1,0,0,0,0,4,124,0,35,31.0,279,
+HerbKh00,Khalil Herbert,RB,2024,26,CHI,NFL,RB,6,0,0,0,0,0,1,28,0,28,28.0,48,
+HerbKh00,Khalil Herbert,RB,2024,26,CIN,NFL,RB,8,1,0,0,0,0,3,96,0,35,32.0,231,
+HerbKh00,Khalil Herbert,RB,2025,27,NYJ,NFL,RB,2,0,0,0,0,0,1,22,0,22,22.0,22,

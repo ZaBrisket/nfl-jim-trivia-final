@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+EngrBo00,Bobby Engram,WR,1996,23,CHI,NFL,WR,16,2,0,0,0,0,,1,2,0,0,0,0.0,0,0,0,,,0,
+EngrBo00,Bobby Engram,WR,1997,24,CHI,NFL,WR,11,11,0,0,0,0,,1,1,1,0,0,0.0,0,0,0,,,0,
+EngrBo00,Bobby Engram,WR,1998,25,CHI,NFL,WR,16,16,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,,0,
+EngrBo00,Bobby Engram,WR,1999,26,CHI,NFL,WR,16,14,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,,0,
+EngrBo00,Bobby Engram,WR,2000,27,CHI,NFL,WR,3,3,0,0,0,0,0,0,1,1,0,0,0.0,,,,,,0,
+EngrBo00,Bobby Engram,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+EngrBo00,Bobby Engram,WR,2002,29,SEA,NFL,WR,15,6,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,,0,
+EngrBo00,Bobby Engram,WR,2003,30,SEA,NFL,WR,16,7,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,,0,
+EngrBo00,Bobby Engram,WR,2004,31,SEA,NFL,WR,13,7,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,,0,
+EngrBo00,Bobby Engram,WR,2005,32,SEA,NFL,WR,13,13,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+EngrBo00,Bobby Engram,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+EngrBo00,Bobby Engram,WR,2007,34,SEA,NFL,WR,16,13,0,0,0,0,0,0,1,1,0,0,0.0,1,1,0,0,0,0,AP CPoY-6
+EngrBo00,Bobby Engram,WR,2008,35,SEA,NFL,WR,13,11,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McKiJe00,Jerick McKinnon,RB,2014,22,MIN,NFL,RB,11,6,113,538,0,24,40.7,55,4.8,48.9,10.3,41,27,135,5.0,0,7,24.4,17,2.5,12.3,65.9,3.3,140,4.8,673,0,0,4,
+McKiJe00,Jerick McKinnon,RB,2015,23,MIN,NFL,RB,16,0,52,271,2,13,48.1,68,5.2,16.9,3.3,29,21,173,8.2,1,9,44.8,30,1.3,10.8,72.4,6.0,73,6.1,444,3,0,4,
+McKiJe00,Jerick McKinnon,RB,2016,24,MIN,NFL,RB,15,7,159,539,2,21,37.1,36,3.4,35.9,10.6,53,43,255,5.9,2,17,43.4,41,2.9,17.0,81.1,4.8,202,3.9,794,4,0,6,
+McKiJe00,Jerick McKinnon,RB,2017,25,MIN,NFL,RB,16,1,150,570,3,24,40.0,58,3.8,35.6,9.4,68,51,421,8.3,2,20,44.1,41,3.2,26.3,75.0,6.2,201,4.9,991,5,3,8,
+McKiJe00,Jerick McKinnon,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McKiJe00,Jerick McKinnon,RB,2020,28,SFO,NFL,RB,16,4,81,319,5,16,40.7,55,3.9,19.9,5.1,46,33,253,7.7,1,12,45.7,26,2.1,15.8,71.7,5.5,114,5.0,572,6,0,4,
+McKiJe00,Jerick McKinnon,RB,2021,29,KAN,NFL,RB,13,0,12,62,0,2,58.3,18,5.2,4.8,0.9,20,13,107,8.2,1,6,45.0,14,1.0,8.2,65.0,5.4,25,6.8,169,1,0,1,
+McKiJe00,Jerick McKinnon,RB,2022,30,KAN,NFL,RB,17,0,72,291,1,12,45.8,30,4.0,17.1,4.2,71,56,512,9.1,9,28,54.9,56,3.3,30.1,78.9,7.2,128,6.3,803,10,1,7,AP CPoY-12
+McKiJe00,Jerick McKinnon,RB,2023,31,KAN,NFL,RB,12,0,21,60,1,7,47.6,10,2.9,5.0,1.8,32,25,192,7.7,4,10,43.8,27,2.1,16.0,78.1,6.0,46,5.5,252,5,0,2,

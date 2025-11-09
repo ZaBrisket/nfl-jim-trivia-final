@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SoloFr01,Freddie Solomon,WR,1975,22,MIA,NFL,WR,14,5,26,320,1,60,12.3,17,348,0,31,20.5,1096,
+SoloFr01,Freddie Solomon,WR,1976,23,MIA,NFL,WR,10,8,13,205,1,79,15.8,1,12,0,12,12.0,730,
+SoloFr01,Freddie Solomon,WR,1977,24,MIA,NFL,WR,13,6,32,285,0,39,8.9,10,273,1,90,27.3,782,
+SoloFr01,Freddie Solomon,WR,1978,25,SFO,NFL,WR,16,15,9,35,0,11,3.9,0,0,0,0,,561,
+SoloFr01,Freddie Solomon,WR,1979,26,SFO,NFL,WR,15,11,23,142,0,14,6.2,0,0,0,0,,1034,
+SoloFr01,Freddie Solomon,WR,1980,27,SFO,NFL,WR,16,13,27,298,2,57,11.0,4,61,0,32,15.3,1073,
+SoloFr01,Freddie Solomon,WR,1981,28,SFO,NFL,WR,15,15,29,173,0,19,6.0,0,0,0,0,,1185,
+SoloFr01,Freddie Solomon,WR,1982,29,SFO,NFL,WR,9,7,13,122,0,27,9.4,0,0,0,0,,441,
+SoloFr01,Freddie Solomon,WR,1983,30,SFO,NFL,WR,13,11,5,34,0,11,6.8,0,0,0,0,,699,

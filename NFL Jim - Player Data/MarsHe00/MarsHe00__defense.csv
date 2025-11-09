@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+MarsHe00,Henry Marshall,WR,1976,22,KAN,NFL,WR,14,14,0,0,0,0,,1,0,0,0,0.0,,,,0,
+MarsHe00,Henry Marshall,WR,1977,23,KAN,NFL,WR,14,13,0,0,0,0,,2,1,0,0,0.0,,,,0,
+MarsHe00,Henry Marshall,WR,,,,,,,,,,,,,,,,,,,,,,
+MarsHe00,Henry Marshall,WR,1981,27,KAN,NFL,WR,12,12,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+MarsHe00,Henry Marshall,WR,,,,,,,,,,,,,,,,,,,,,,
+MarsHe00,Henry Marshall,WR,1984,30,KAN,NFL,WR,16,16,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+MarsHe00,Henry Marshall,WR,1985,31,KAN,NFL,WR,11,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

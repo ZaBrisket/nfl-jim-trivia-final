@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+VickRo00,Roger Vick,RB,1987,23,NYJ,NFL,FB,12,10,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+VickRo00,Roger Vick,RB,1988,24,NYJ,NFL,FB,16,12,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+VickRo00,Roger Vick,RB,1989,25,NYJ,NFL,FB,16,10,5,2,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+VickRo00,Roger Vick,RB,1990,26,PHI,NFL,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

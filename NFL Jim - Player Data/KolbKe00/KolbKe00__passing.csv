@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+KolbKe00,Kevin Kolb,QB,2007,23,PHI,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0.2,2,13,100.00,-6.50,-6.50,0,0,0,
+KolbKe00,Kevin Kolb,QB,2008,24,PHI,NFL,QB,6,0,,17,34,50.0,144,0,0.0,4,11.8,8,41.2,16,4.2,-1.06,8.5,24.0,21.8,4.7,0,0,0.00,4.24,-1.06,0,0,0,
+KolbKe00,Kevin Kolb,QB,2009,25,PHI,NFL,QB,5,2,1-1-0,62,96,64.6,741,4,4.2,3,3.1,31,50.5,71,7.7,7.15,12.0,148.2,88.9,62.2,3,27,3.03,7.21,6.66,0,0,2,
+KolbKe00,Kevin Kolb,QB,2010,26,PHI,NFL,QB,7,5,2-3-0,115,189,60.8,1197,7,3.7,7,3.7,58,40.2,83,6.3,5.41,10.4,171.0,76.1,44.9,15,99,7.35,5.38,4.52,0,0,3,
+KolbKe00,Kevin Kolb,QB,2011,27,ARI,NFL,QB,9,9,3-6-0,146,253,57.7,1955,9,3.6,8,3.2,87,40.3,73,7.7,7.02,13.4,217.2,81.1,33.3,30,219,10.60,6.13,5.50,2,1,5,
+KolbKe00,Kevin Kolb,QB,2012,28,ARI,NFL,QB,6,5,3-2-0,109,183,59.6,1169,8,4.4,3,1.6,63,40.0,46,6.4,6.52,10.7,194.8,86.1,42.7,27,159,12.86,4.81,4.93,2,2,3,

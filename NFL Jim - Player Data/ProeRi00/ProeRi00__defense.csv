@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ProeRi00,Ricky Proehl,WR,1991,23,PHO,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,
+ProeRi00,Ricky Proehl,WR,1992,24,PHO,NFL,WR,16,15,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,
+ProeRi00,Ricky Proehl,WR,1993,25,PHO,NFL,WR,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ProeRi00,Ricky Proehl,WR,1994,26,ARI,NFL,WR,16,16,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,1997,29,CHI,NFL,WR,15,10,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,

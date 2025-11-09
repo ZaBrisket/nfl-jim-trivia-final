@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+GronRo00,Rob Gronkowski,TE,2018,29,NWE,NFL,TE,13,11,72,47,682,34,500,10.6,182,3.9,12.4,1,47.0,3,4.2,2,98.3,0,0,0,0,0,0,
+GronRo00,Rob Gronkowski,TE,2019,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2020,31,TAM,NFL,TE,16,16,77,45,623,29,377,8.4,246,5.5,11.0,1,45.0,2,2.6,2,104.0,0,0,0,0,0,0,
+GronRo00,Rob Gronkowski,TE,2021,32,TAM,NFL,TE,12,12,89,55,802,34,452,8.2,350,6.4,10.1,9,6.1,5,5.6,0,113.6,0,0,0,0,0,0,

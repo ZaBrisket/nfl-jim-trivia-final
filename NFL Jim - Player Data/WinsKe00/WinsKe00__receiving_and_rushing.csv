@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WinsKe00,Kellen Winslow,TE,1979,22,SDG,NFL,TE,7,1,36,25,255,10.2,2,10,47.2,30,3.6,36.4,69.4,7.1,0,0,0,0,0.0,0.0,25,10.2,255,2,1,3,
+WinsKe00,Kellen Winslow,TE,1980,23,SDG,NFL,TE,16,11,132,89,1290,14.5,9,63,64.4,65,5.6,80.6,67.4,9.8,0,0,0,0,0.0,0.0,89,14.5,1290,9,2,13,"PB,AP-1"
+WinsKe00,Kellen Winslow,TE,1981,24,SDG,NFL,TE,16,16,140,88,1075,12.2,10,57,56.4,67,5.5,67.2,62.9,7.7,0,0,0,0,0.0,0.0,88,12.2,1075,10,2,12,"PB,AP-1,AP MVP-6,AP OPoY-8"
+WinsKe00,Kellen Winslow,TE,1982,25,SDG,NFL,TE,9,9,72,54,721,13.4,6,35,65.3,40,6.0,80.1,75.0,10.0,0,0,0,0,0.0,0.0,54,13.4,721,6,1,15,"PB,AP-1,AP OPoY-6"
+WinsKe00,Kellen Winslow,TE,1983,26,SDG,NFL,TE,16,16,138,88,1172,13.3,8,62,56.5,46,5.5,73.3,63.8,8.5,0,0,0,0,0.0,0.0,88,13.3,1172,8,3,10,PB
+WinsKe00,Kellen Winslow,TE,1984,27,SDG,NFL,TE,7,7,75,55,663,12.1,2,39,62.7,33,7.9,94.7,73.3,8.8,0,0,0,0,0.0,0.0,55,12.1,663,2,1,6,
+WinsKe00,Kellen Winslow,TE,1985,28,SDG,NFL,TE,10,6,43,25,318,12.7,0,19,51.2,26,2.5,31.8,58.1,7.4,0,0,0,0,0.0,0.0,25,12.7,318,0,0,3,
+WinsKe00,Kellen Winslow,TE,1986,29,SDG,NFL,TE,16,16,111,64,728,11.4,5,43,49.5,28,4.0,45.5,57.7,6.6,0,0,0,0,0.0,0.0,64,11.4,728,5,0,7,
+WinsKe00,Kellen Winslow,TE,1987,30,SDG,NFL,TE,12,12,84,53,519,9.8,3,31,47.6,30,4.4,43.3,63.1,6.2,0,0,0,0,0.0,0.0,53,9.8,519,3,1,3,"PB,AP-2"

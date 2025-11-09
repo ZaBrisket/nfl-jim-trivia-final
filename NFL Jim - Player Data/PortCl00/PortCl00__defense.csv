@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+PortCl00,Clinton Portis,RB,2002,21,DEN,NFL,RB,16,12,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,,0,AP ORoY-1
+PortCl00,Clinton Portis,RB,2003,22,DEN,NFL,RB,13,13,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,,0,PB
+PortCl00,Clinton Portis,RB,2004,23,WAS,NFL,RB,15,15,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,,0,
+PortCl00,Clinton Portis,RB,2005,24,WAS,NFL,RB,16,16,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,,0,
+PortCl00,Clinton Portis,RB,2006,25,WAS,NFL,RB,8,7,0,0,0,0,0,0,0,2,0,0,0.0,,,,,,0,
+PortCl00,Clinton Portis,RB,2007,26,WAS,NFL,RB,16,16,0,0,0,0,0,0,6,1,-11,0,0.0,0,0,0,0,0,0,
+PortCl00,Clinton Portis,RB,2008,27,WAS,NFL,RB,16,16,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+PortCl00,Clinton Portis,RB,2009,28,WAS,NFL,RB,8,8,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,

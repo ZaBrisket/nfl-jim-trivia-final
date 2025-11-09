@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+JoneAa00,Aaron Jones,RB,2018,24,GNB,NFL,RB,12,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+JoneAa00,Aaron Jones,RB,2019,25,GNB,NFL,RB,16,16,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,
+JoneAa00,Aaron Jones,RB,2020,26,GNB,NFL,RB,14,14,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,PB
+JoneAa00,Aaron Jones,RB,2021,27,GNB,NFL,RB,15,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+JoneAa00,Aaron Jones,RB,2022,28,GNB,NFL,RB,17,17,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,0,0,
+JoneAa00,Aaron Jones,RB,2023,29,GNB,NFL,RB,11,11,0,0,0,0,0,0,2,1,-1,0,0.0,0,0,0,0,0,0,
+JoneAa00,Aaron Jones,RB,2024,30,MIN,NFL,RB,17,17,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,0,0,

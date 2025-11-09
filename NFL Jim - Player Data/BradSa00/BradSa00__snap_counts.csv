@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BradSa00,Sam Bradford,QB,2012,25,STL,QB,8,16,16,1036,99%,0,0%,0,0%
+BradSa00,Sam Bradford,QB,2013,26,STL,QB,8,7,7,451,99%,0,0%,0,0%
+BradSa00,Sam Bradford,QB,2015,28,PHI,QB,7,14,14,987,96%,0,0%,0,0%
+BradSa00,Sam Bradford,QB,2016,29,MIN,QB,8,15,15,979,99%,0,0%,0,0%
+BradSa00,Sam Bradford,QB,2017,30,MIN,QB,8,2,2,91,67%,0,0%,0,0%
+BradSa00,Sam Bradford,QB,2018,31,ARI,QB,9,3,3,135,91%,0,0%,0,0%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FranRu00,Russ Francis,TE,1976,23,NWE,NFL,TE,1,1,,4,96,24.0,1,,,40,4.0,96.0,,,0,0,0,,0.0,0.0,4,24.0,96,1,0,
+FranRu00,Russ Francis,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FranRu00,Russ Francis,TE,1978,25,NWE,NFL,TE,1,1,10,8,101,12.6,1,3,70.0,24,8.0,101.0,80.0,10.1,0,0,0,0,0.0,0.0,8,12.6,101,1,0,
+FranRu00,Russ Francis,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FranRu00,Russ Francis,TE,1983,30,SFO,NFL,TE,2,2,11,8,123,15.4,0,7,72.7,27,4.0,61.5,72.7,11.2,0,0,0,0,0.0,0.0,8,15.4,123,0,0,
+FranRu00,Russ Francis,TE,1984,31,SFO,NFL,TE,3,3,11,8,89,11.1,1,6,72.7,19,2.7,29.7,72.7,8.1,0,0,0,0,0.0,0.0,8,11.1,89,1,0,
+FranRu00,Russ Francis,TE,1985,32,SFO,NFL,TE,1,1,5,4,39,9.8,0,1,60.0,20,4.0,39.0,80.0,7.8,0,0,0,0,0.0,0.0,4,9.8,39,0,0,
+FranRu00,Russ Francis,TE,1986,33,SFO,NFL,TE,1,1,5,3,26,8.7,0,1,40.0,20,3.0,26.0,60.0,5.2,0,0,0,0,0.0,0.0,3,8.7,26,0,0,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+BrucIs00,Isaac Bruce,WR,1996,24,STL,NFL,WR,16,16,1,2,50.0,15,0,0.0,1,50.0,1,50.0,15,7.5,-15.00,15.0,0.9,35.4,,0,0,0.00,7.50,-15.00,0,0,"PB,AP OPoY-5"
+BrucIs00,Isaac Bruce,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrucIs00,Isaac Bruce,WR,2003,31,STL,NFL,WR,15,15,2,2,100.0,66,0,0.0,0,0.0,2,100.0,41,33.0,33.00,33.0,4.4,118.7,,0,0,0.00,33.00,33.00,0,0,
+BrucIs00,Isaac Bruce,WR,2004,32,STL,NFL,WR,16,16,0,2,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,,0,0,0.00,0.00,0.00,0,0,
+BrucIs00,Isaac Bruce,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrucIs00,Isaac Bruce,WR,2006,34,STL,NFL,WR,16,13,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,7.3,0,0,0.00,0.00,0.00,0,0,
+BrucIs00,Isaac Bruce,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrucIs00,Isaac Bruce,WR,2008,36,SFO,NFL,WR,16,15,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,7.0,0,0,0.00,0.00,0.00,0,0,

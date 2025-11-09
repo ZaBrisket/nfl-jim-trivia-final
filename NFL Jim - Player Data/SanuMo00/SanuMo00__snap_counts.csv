@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SanuMo00,Mohamed Sanu,WR,2012,23,CIN,WR,12,9,3,204,35%,0,0%,34,13%
+SanuMo00,Mohamed Sanu,WR,2013,24,CIN,WR,12,16,14,750,66%,0,0%,1,0%
+SanuMo00,Mohamed Sanu,WR,2014,25,CIN,WR,12,16,13,988,93%,0,0%,2,0%
+SanuMo00,Mohamed Sanu,WR,2015,26,CIN,WR,12,16,4,643,61%,0,0%,7,2%
+SanuMo00,Mohamed Sanu,WR,2016,27,ATL,WR,12,15,15,744,76%,0,0%,15,3%
+SanuMo00,Mohamed Sanu,WR,2017,28,ATL,WR,12,15,15,755,78%,0,0%,3,1%
+SanuMo00,Mohamed Sanu,WR,2018,29,ATL,WR,12,16,16,830,78%,0,0%,3,1%
+SanuMo00,Mohamed Sanu,WR,2019,30,2TM,WR,,15,12,758,,0,,37,
+SanuMo00,Mohamed Sanu,WR,,,ATL,WR,12,7,6,379,80%,0,0%,6,3%
+SanuMo00,Mohamed Sanu,WR,,,,,,,,379,68%,0,0%,31,14%
+SanuMo00,Mohamed Sanu,WR,2020,31,2TM,WR,,10,4,281,,0,,2,
+SanuMo00,Mohamed Sanu,WR,,,SFO,WR,14,3,0,40,19%,0,0%,0,0%
+SanuMo00,Mohamed Sanu,WR,,,,,,,,241,54%,0,0%,2,1%
+SanuMo00,Mohamed Sanu,WR,2021,32,SFO,WR,18,8,0,240,47%,0,0%,22,11%

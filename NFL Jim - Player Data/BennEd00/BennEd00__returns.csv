@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BennEd00,Edgar Bennett,RB,1992,23,GNB,NFL,RB,16,2,0,0,0,0,5,104,0,33,20.8,411,
+BennEd00,Edgar Bennett,RB,,,,,,,,,,,,,,,,,,
+BennEd00,Edgar Bennett,RB,1999,30,CHI,NFL,RB,16,2,0,0,0,0,3,53,0,20,17.7,197,

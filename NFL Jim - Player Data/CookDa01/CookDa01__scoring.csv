@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CookDa01,Dalvin Cook,RB,2017,22,MIN,NFL,RB,4,4,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,3.0,
+CookDa01,Dalvin Cook,RB,2018,23,MIN,NFL,RB,11,10,2,2,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.2,
+CookDa01,Dalvin Cook,RB,2019,24,MIN,NFL,RB,14,14,13,0,0,0,0,0,0,13,0,,0,0,0,0,0,78,5.6,"PB,AP CPoY-5"
+CookDa01,Dalvin Cook,RB,2020,25,MIN,NFL,RB,14,14,16,1,0,0,0,0,0,17,3,,0,0,0,0,0,108,7.7,PB
+CookDa01,Dalvin Cook,RB,2021,26,MIN,NFL,RB,13,13,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,38,2.9,PB
+CookDa01,Dalvin Cook,RB,2022,27,MIN,NFL,RB,17,17,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,60,3.5,PB

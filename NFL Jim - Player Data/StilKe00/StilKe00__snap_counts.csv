@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StilKe00,Kenny Stills,WR,2013,21,NOR,WR,84,16,10,690,61%,0,0%,0,0%
+StilKe00,Kenny Stills,WR,2014,22,NOR,WR,84,15,7,617,58%,0,0%,2,1%
+StilKe00,Kenny Stills,WR,2015,23,MIA,WR,10,16,8,594,58%,0,0%,1,0%
+StilKe00,Kenny Stills,WR,2016,24,MIA,WR,10,16,16,795,84%,0,0%,0,0%
+StilKe00,Kenny Stills,WR,2017,25,MIA,WR,10,16,16,939,91%,0,0%,0,0%
+StilKe00,Kenny Stills,WR,2018,26,MIA,WR,10,15,15,744,87%,0,0%,6,2%
+StilKe00,Kenny Stills,WR,2019,27,HOU,WR,12,13,5,587,70%,0,0%,0,0%
+StilKe00,Kenny Stills,WR,2020,28,HOU,WR,12,10,0,165,27%,0,0%,0,0%
+StilKe00,Kenny Stills,WR,2021,29,NOR,WR,12,13,4,274,32%,0,0%,0,0%

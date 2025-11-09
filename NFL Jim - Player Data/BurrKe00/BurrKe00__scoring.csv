@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BurrKe00,Ken Burrough,WR,1970,22,NOR,NFL,WR,12,0,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+BurrKe00,Ken Burrough,WR,1971,23,HOU,NFL,WR,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+BurrKe00,Ken Burrough,WR,1972,24,HOU,NFL,WR,14,11,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.7,
+BurrKe00,Ken Burrough,WR,1973,25,HOU,NFL,WR,14,12,1,2,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+BurrKe00,Ken Burrough,WR,1974,26,HOU,NFL,WR,11,11,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.1,
+BurrKe00,Ken Burrough,WR,1975,27,HOU,NFL,WR,14,14,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.4,PB
+BurrKe00,Ken Burrough,WR,1976,28,HOU,NFL,WR,14,14,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.0,
+BurrKe00,Ken Burrough,WR,1977,29,HOU,NFL,WR,14,14,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.4,"PB,AP-2"
+BurrKe00,Ken Burrough,WR,1978,30,HOU,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+BurrKe00,Ken Burrough,WR,1979,31,HOU,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+BurrKe00,Ken Burrough,WR,,,,,,,,,,,,,,,,,,,,,,,
+BurrKe00,Ken Burrough,WR,1981,33,HOU,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+CartQu00,Quincy Carter,QB,2001,24,DAL,NFL,QB,8,8,3-5-0,90,176,51.1,1072,5,2.8,7,4.0,46,35.1,64,6.1,4.87,11.9,134.0,63.0,,12,56,6.38,5.40,4.26,0,2,3,
+CartQu00,Quincy Carter,QB,2002,25,DAL,NFL,QB,7,7,3-4-0,125,221,56.6,1465,7,3.2,8,3.6,67,38.8,80,6.6,5.63,11.7,209.3,72.3,,19,130,7.92,5.56,4.65,2,2,3,
+CartQu00,Quincy Carter,QB,2003,26,DAL,NFL,QB,16,16,10-6-0,292,505,57.8,3302,17,3.4,21,4.2,148,39.1,64,6.5,5.34,11.3,206.4,71.4,100.0,37,185,6.83,5.75,4.63,2,2,9,AP CPoY-2
+CartQu00,Quincy Carter,QB,2004,27,NYJ,NFL,QB,7,3,2-1-0,35,58,60.3,498,3,5.2,1,1.7,25,40.0,69,8.6,8.84,14.2,71.1,98.2,,12,70,17.14,6.11,6.33,1,1,2,

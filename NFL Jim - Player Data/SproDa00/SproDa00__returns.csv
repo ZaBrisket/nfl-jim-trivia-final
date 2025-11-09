@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SproDa00,Darren Sproles,RB,2005,22,SDG,NFL,RB,15,0,18,108,0,23,6.0,63,1528,0,58,24.3,1696,
+SproDa00,Darren Sproles,RB,2006,,Did not play - Injured (broken ankle),,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2007,24,SDG,NFL,RB,15,0,24,229,1,45,9.5,37,1008,1,89,27.2,1432,
+SproDa00,Darren Sproles,RB,2008,25,SDG,NFL,RB,16,0,22,249,0,43,11.3,53,1376,1,103,26.0,2295,
+SproDa00,Darren Sproles,RB,2009,26,SDG,NFL,RB,16,2,26,183,1,77,7.0,54,1300,0,66,24.1,2323,
+SproDa00,Darren Sproles,RB,2010,27,SDG,NFL,RB,16,3,24,166,0,16,6.9,51,1257,0,45,24.6,2210,
+SproDa00,Darren Sproles,RB,2011,28,NOR,NFL,RB,16,4,29,294,1,72,10.1,40,1089,0,92,27.2,2696,
+SproDa00,Darren Sproles,RB,2012,29,NOR,NFL,RB,13,6,23,183,0,37,8.0,18,483,0,48,26.8,1577,
+SproDa00,Darren Sproles,RB,2013,30,NOR,NFL,RB,15,4,29,194,0,28,6.7,12,255,0,32,21.3,1273,
+SproDa00,Darren Sproles,RB,2014,31,PHI,NFL,RB,15,0,39,506,2,82,13.0,1,15,0,15,15.0,1230,"PB,AP-2"
+SproDa00,Darren Sproles,RB,2015,32,PHI,NFL,RB,16,4,38,446,2,89,11.7,1,20,0,20,20.0,1171,PB
+SproDa00,Darren Sproles,RB,2016,33,PHI,NFL,RB,15,5,17,224,0,66,13.2,1,19,0,19,19.0,1108,PB
+SproDa00,Darren Sproles,RB,2017,34,PHI,NFL,RB,3,0,1,10,0,10,10.0,0,0,0,0,,144,
+SproDa00,Darren Sproles,RB,2018,35,PHI,NFL,RB,6,2,10,83,0,14,8.3,1,2,0,2,2.0,365,
+SproDa00,Darren Sproles,RB,2019,36,PHI,NFL,RB,6,1,11,86,0,17,7.8,0,0,0,0,,176,

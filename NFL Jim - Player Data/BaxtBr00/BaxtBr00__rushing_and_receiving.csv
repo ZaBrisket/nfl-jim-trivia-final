@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BaxtBr00,Brad Baxter,RB,1989,22,NYJ,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+BaxtBr00,Brad Baxter,RB,1990,23,NYJ,NFL,FB,16,10,124,539,6,28,56.5,28,4.3,33.7,7.8,11,8,73,9.1,0,3,54.5,22,0.5,4.6,72.7,6.6,132,4.6,612,6,4,5,
+BaxtBr00,Brad Baxter,RB,1991,24,NYJ,NFL,FB,16,14,184,666,11,48,57.6,31,3.6,41.6,11.5,19,12,124,10.3,0,4,52.6,34,0.8,7.8,63.2,6.5,196,4.0,790,11,6,6,
+BaxtBr00,Brad Baxter,RB,1992,25,NYJ,NFL,FB,15,15,152,698,6,43,52.0,30,4.6,46.5,10.1,10,4,32,8.0,0,2,40.0,12,0.3,2.1,40.0,3.2,156,4.7,730,6,3,4,
+BaxtBr00,Brad Baxter,RB,1993,26,NYJ,NFL,FB,16,13,174,559,7,34,48.3,16,3.2,34.9,10.9,36,20,158,7.9,0,5,36.1,24,1.3,9.9,55.6,4.4,194,3.7,717,7,3,5,
+BaxtBr00,Brad Baxter,RB,1994,27,NYJ,NFL,FB,15,9,60,170,4,15,50.0,13,2.8,11.3,4.0,11,10,40,4.0,0,1,45.5,7,0.7,2.7,90.9,3.6,70,3.0,210,4,0,1,
+BaxtBr00,Brad Baxter,RB,1995,28,NYJ,NFL,FB,15,13,85,296,1,21,44.7,26,3.5,19.7,5.7,40,26,160,6.2,0,7,37.5,20,1.7,10.7,65.0,4.0,111,4.1,456,1,0,2,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+WillDa05,Damien Williams,RB,2014,22,MIA,NFL,RB,16,0,0,0,0,0,0,1,0,0,0,0,0.0,4,4,0,0,0,0,
+WillDa05,Damien Williams,RB,2015,23,MIA,NFL,RB,16,0,0,0,0,0,0,0,2,1,0,0,0.0,4,2,2,0,0,0,
+WillDa05,Damien Williams,RB,2016,24,MIA,NFL,RB,15,0,0,0,0,0,0,0,1,1,0,0,0.0,2,2,0,0,0,0,
+WillDa05,Damien Williams,RB,2017,25,MIA,NFL,RB,11,4,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+WillDa05,Damien Williams,RB,2018,26,KAN,NFL,RB,16,3,0,0,0,0,0,0,1,0,0,0,0.0,4,4,0,0,0,0,
+WillDa05,Damien Williams,RB,2019,27,KAN,NFL,RB,11,6,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+WillDa05,Damien Williams,RB,2020,,Did not play - Opted out during COVID-19 pandemic,,,,,,,,,,,,,,,,,,,,,,
+WillDa05,Damien Williams,RB,2021,29,CHI,NFL,RB,12,2,0,0,0,0,0,0,0,0,0,0,0.0,5,4,1,0,0,0,

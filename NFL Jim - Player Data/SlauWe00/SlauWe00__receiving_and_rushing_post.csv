@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SlauWe00,Webster Slaughter,WR,1986,22,CLE,NFL,WR,2,2,17,7,106,15.1,0,5,41.2,37,3.5,53.0,41.2,6.2,0,0,0,0,0.0,0.0,7,15.1,106,0,0,
+SlauWe00,Webster Slaughter,WR,1987,23,CLE,NFL,WR,2,2,10,5,67,13.4,1,4,50.0,24,2.5,33.5,50.0,6.7,0,0,0,0,0.0,0.0,5,13.4,67,1,0,
+SlauWe00,Webster Slaughter,WR,1988,24,CLE,NFL,WR,1,1,10,5,58,11.6,2,5,50.0,18,5.0,58.0,50.0,5.8,0,0,0,0,0.0,0.0,5,11.6,58,2,0,
+SlauWe00,Webster Slaughter,WR,1989,25,CLE,NFL,WR,2,2,16,6,150,25.0,2,5,37.5,52,3.0,75.0,37.5,9.4,0,0,0,0,0.0,0.0,6,25.0,150,2,0,
+SlauWe00,Webster Slaughter,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SlauWe00,Webster Slaughter,WR,1992,28,HOU,NFL,WR,1,1,12,8,73,9.1,1,4,58.3,18,8.0,73.0,66.7,6.1,0,0,0,0,0.0,0.0,8,9.1,73,1,0,
+SlauWe00,Webster Slaughter,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SlauWe00,Webster Slaughter,WR,1995,31,KAN,NFL,WR,1,1,4,2,10,5.0,0,1,25.0,13,2.0,10.0,50.0,2.5,0,0,0,0,0.0,0.0,2,5.0,10,0,0,

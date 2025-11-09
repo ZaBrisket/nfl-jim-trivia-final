@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JennSt00,Stanford Jennings,RB,1984,22,CIN,NFL,RB,15,4,79,379,2,23,58.2,20,4.8,25.3,5.3,45,35,346,9.9,3,12,55.6,43,2.3,23.1,77.8,7.7,114,6.4,725,5,3,5,
+JennSt00,Stanford Jennings,RB,1985,23,CIN,NFL,RB,16,0,31,92,1,7,41.9,19,3.0,5.8,1.9,22,12,101,8.4,3,7,40.9,24,0.8,6.3,54.5,4.6,43,4.5,193,4,1,2,
+JennSt00,Stanford Jennings,RB,1986,24,CIN,NFL,RB,16,0,16,54,1,8,62.5,10,3.4,3.4,1.0,8,6,86,14.3,0,3,50.0,34,0.4,5.4,75.0,10.8,22,6.4,140,1,0,1,
+JennSt00,Stanford Jennings,RB,1987,25,CIN,NFL,RB,12,5,70,314,1,18,51.4,18,4.5,26.2,5.8,58,35,277,7.9,2,17,46.6,24,2.9,23.1,60.3,4.8,105,5.6,591,3,0,4,
+JennSt00,Stanford Jennings,RB,1988,26,CIN,NFL,RB,16,1,17,47,1,4,41.2,9,2.8,2.9,1.1,7,5,75,15.0,0,4,71.4,31,0.3,4.7,71.4,10.7,22,5.5,122,1,1,2,
+JennSt00,Stanford Jennings,RB,1989,27,CIN,NFL,FB,16,6,83,293,2,17,44.6,17,3.5,18.3,5.2,13,10,119,11.9,1,4,69.2,43,0.6,7.4,76.9,9.2,93,4.4,412,3,1,3,
+JennSt00,Stanford Jennings,RB,1990,28,CIN,NFL,RB,16,0,12,46,1,3,41.7,13,3.8,2.9,0.8,5,4,23,5.8,0,0,60.0,13,0.3,1.4,80.0,4.6,16,4.3,69,1,2,1,
+JennSt00,Stanford Jennings,RB,1991,29,NOR,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,
+JennSt00,Stanford Jennings,RB,1992,30,TAM,NFL,RB,11,0,5,25,0,2,60.0,10,5.0,2.3,0.5,16,9,69,7.7,1,3,25.0,20,0.8,6.3,56.3,4.3,14,6.7,94,1,1,1,

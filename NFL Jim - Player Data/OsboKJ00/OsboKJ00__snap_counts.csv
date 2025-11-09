@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+OsboKJ00,K.J. Osborn,WR,2020,23,MIN,WR,17,9,0,0,0%,0,0%,119,48%
+OsboKJ00,K.J. Osborn,WR,2021,24,MIN,WR,17,17,9,774,68%,0,0%,35,7%
+OsboKJ00,K.J. Osborn,WR,2022,25,MIN,WR,17,17,9,873,75%,0,0%,2,0%
+OsboKJ00,K.J. Osborn,WR,2023,26,MIN,WR,17,16,12,821,78%,0,0%,1,0%
+OsboKJ00,K.J. Osborn,WR,2024,27,2TM,,,8,4,251,,0,,0,
+OsboKJ00,K.J. Osborn,WR,,,NWE,WR,2,7,4,232,53%,0,0%,0,0%
+OsboKJ00,K.J. Osborn,WR,,,WAS,WR,,1,0,19,23%,0,0%,0,0%

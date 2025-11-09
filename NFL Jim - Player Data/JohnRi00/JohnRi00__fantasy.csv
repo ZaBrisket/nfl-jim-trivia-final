@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+JohnRi00,Richard Johnson,WR,1987,26,1,WR,1,,228,,All 1987 Games
+JohnRi00,Richard Johnson,WR,1989,28,16,WR,158,53,12,32,All 1989 Games
+JohnRi00,Richard Johnson,WR,1990,29,16,WR,107,,31,,All 1990 Games

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WalsSt00,Steve Walsh,QB,1994,28,CHI,NFL,QB,2,2,6,5,0,1,16.7,5,0.8,2.5,3.0,0,0,0,0,0,0.0,0.0,6,0.8,5,0,1,
+WalsSt00,Steve Walsh,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WalsSt00,Steve Walsh,QB,1997,31,TAM,NFL,QB,2,0,1,0,0,0,0.0,,0.0,0.0,0.5,0,0,0,0,0,0.0,0.0,1,0.0,0,0,0,

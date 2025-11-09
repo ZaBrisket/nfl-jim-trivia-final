@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KellJi00,Jim Kelly,QB,1986,26,BUF,NFL,QB,16,16,111,108,111,109,116,104,107,98,112,
+KellJi00,Jim Kelly,QB,1987,27,BUF,NFL,QB,12,12,94,97,105,106,116,104,119,108,112,PB
+KellJi00,Jim Kelly,QB,1988,28,BUF,NFL,QB,16,16,110,111,105,106,114,91,102,106,104,PB
+KellJi00,Jim Kelly,QB,1989,29,BUF,NFL,QB,13,13,121,118,114,113,110,128,89,100,114,
+KellJi00,Jim Kelly,QB,1990,30,BUF,NFL,QB,14,14,126,125,132,131,126,134,114,110,135,"PB,AP MVP-5,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1991,31,BUF,NFL,QB,15,15,125,123,125,123,126,136,100,107,129,"PB,AP-1,AP MVP-2,AP OPoY-2"
+KellJi00,Jim Kelly,QB,1992,32,BUF,NFL,QB,16,16,113,118,109,113,102,116,91,118,107,"PB,AP-2,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1993,33,BUF,NFL,QB,16,16,108,111,103,106,110,101,93,111,104,
+KellJi00,Jim Kelly,QB,1994,34,BUF,NFL,QB,14,14,104,101,102,99,117,114,89,94,109,
+KellJi00,Jim Kelly,QB,1995,35,BUF,NFL,QB,15,15,102,104,107,107,92,111,106,105,104,
+KellJi00,Jim Kelly,QB,1996,36,BUF,NFL,QB,13,13,117,106,97,91,105,97,70,86,93,

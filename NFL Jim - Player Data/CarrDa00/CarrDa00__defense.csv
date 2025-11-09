@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+CarrDa00,David Carr,QB,2002,23,HOU,NFL,QB,16,16,0,0,0,0,0,0,21,12,-28,0,0.0,0,0,0,0,,0,AP ORoY-3
+CarrDa00,David Carr,QB,2003,24,HOU,NFL,QB,12,11,0,0,0,0,0,0,4,1,-1,0,0.0,,,,,,0,
+CarrDa00,David Carr,QB,2004,25,HOU,NFL,QB,16,16,0,0,0,0,0,0,10,4,-8,0,0.0,0,0,0,0,,0,
+CarrDa00,David Carr,QB,2005,26,HOU,NFL,QB,16,16,0,0,0,0,0,0,17,6,-7,0,0.0,0,0,0,0,,0,
+CarrDa00,David Carr,QB,2006,27,HOU,NFL,QB,16,16,0,0,0,0,0,0,16,5,-4,0,0.0,0,0,0,0,0,0,
+CarrDa00,David Carr,QB,2007,28,CAR,NFL,QB,6,4,0,0,0,0,0,0,1,2,-6,0,0.0,0,0,0,0,0,0,
+CarrDa00,David Carr,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+CarrDa00,David Carr,QB,2009,30,NYG,NFL,QB,6,0,0,0,0,0,0,0,1,0,-1,0,0.0,0,0,0,,,0,
+CarrDa00,David Carr,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+CarrDa00,David Carr,QB,2012,33,NYG,NFL,QB,2,0,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,

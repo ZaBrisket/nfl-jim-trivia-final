@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JoneMa02,Marvin Jones,WR,2012,22,CIN,WR,82,11,5,355,49%,0,0%,32,10%
+JoneMa02,Marvin Jones,WR,2013,23,CIN,WR,82,16,3,542,48%,0,0%,67,14%
+JoneMa02,Marvin Jones,WR,2015,25,CIN,WR,82,16,13,900,85%,0,0%,4,1%
+JoneMa02,Marvin Jones,WR,2016,26,DET,WR,11,15,15,879,91%,0,0%,0,0%
+JoneMa02,Marvin Jones,WR,2017,27,DET,WR,11,16,16,1002,96%,0,0%,2,0%
+JoneMa02,Marvin Jones,WR,2018,28,DET,WR,11,9,9,538,89%,0,0%,1,0%
+JoneMa02,Marvin Jones,WR,2019,29,DET,WR,11,13,11,818,90%,0,0%,2,1%
+JoneMa02,Marvin Jones,WR,2020,30,DET,WR,11,16,16,939,90%,0,0%,1,0%
+JoneMa02,Marvin Jones,WR,2021,31,JAX,WR,11,17,16,980,90%,0,0%,1,0%
+JoneMa02,Marvin Jones,WR,2022,32,JAX,WR,11,16,10,700,66%,0,0%,0,0%
+JoneMa02,Marvin Jones,WR,2023,33,DET,WR,0,6,4,178,43%,0,0%,0,0%

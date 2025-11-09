@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,awards
+MariMa01,Marcus Mariota,QB,2019,26,TEN,NFL,QB,3,0,1,5,0,0,0.0,5,5.0,1,1.0,0,0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+MariMa01,Marcus Mariota,QB,2024,31,WAS,NFL,QB,3,0,2,1,1,-1,-0.5,2,1.0,0,,0,0,0,0,0,0,0,0,

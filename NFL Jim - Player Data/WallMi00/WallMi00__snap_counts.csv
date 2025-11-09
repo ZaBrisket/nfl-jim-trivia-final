@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WallMi00,Mike Wallace,WR,2012,26,PIT,WR,17,15,14,835,83%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2013,27,MIA,WR,11,16,16,951,93%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2014,28,MIA,WR,11,16,16,819,75%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2015,29,MIN,WR,11,16,12,748,73%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2016,30,BAL,WR,17,16,16,873,77%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2017,31,BAL,WR,17,15,14,714,70%,0,0%,0,0%
+WallMi00,Mike Wallace,WR,2018,32,PHI,WR,14,2,2,73,48%,0,0%,0,0%

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+McKiJe00,Jerick McKinnon,RB,2020,28,SFO,NFL,RB,16,4,81,319,16,191,2.4,128,1.6,3,27.0,46,33,253,12,75,2.3,178,5.4,3.4,1,33.0,2,4.3,3,64.9,
+McKiJe00,Jerick McKinnon,RB,2021,29,KAN,NFL,RB,13,0,12,62,2,43,3.6,19,1.6,0,,20,13,107,6,-18,-1.4,125,9.6,-0.5,2,6.5,1,5.0,0,95.2,
+McKiJe00,Jerick McKinnon,RB,2022,30,KAN,NFL,RB,17,0,72,291,12,180,2.5,111,1.5,6,12.0,71,56,512,28,-29,-0.5,541,9.7,0.7,4,14.0,4,5.6,1,130.4,AP CPoY-12
+McKiJe00,Jerick McKinnon,RB,2023,31,KAN,NFL,RB,12,0,21,60,7,46,2.2,14,0.7,0,,32,25,192,10,-26,-1.0,218,8.7,0.3,1,25.0,3,9.4,0,131.2,

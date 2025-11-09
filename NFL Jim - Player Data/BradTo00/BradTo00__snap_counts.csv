@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BradTo00,Tom Brady,QB,2012*,35,NWE,QB,12,16,16,1215,98%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2013*,36,NWE,QB,12,16,16,1197,100%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2014*,37,NWE,QB,12,16,16,1063,94%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2015*,38,NWE,QB,12,16,16,1103,99%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2016*,39,NWE,QB,12,12,12,818,96%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2017*+,40,NWE,QB,12,16,16,1116,98%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2018*,41,NWE,QB,12,16,16,1092,98%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2019,42,NWE,QB,12,16,16,1135,99%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2020,43,TAM,QB,12,16,16,1024,95%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2021*,44,TAM,QB,12,17,17,1139,96%,0,0%,0,0%
+BradTo00,Tom Brady,QB,2022,45,TAM,QB,12,17,17,1192,98%,0,0%,0,0%

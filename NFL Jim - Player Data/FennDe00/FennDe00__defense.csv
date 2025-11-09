@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+FennDe00,Derrick Fenner,RB,1990,23,SEA,NFL,RB,16,15,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,1991,24,SEA,NFL,RB,11,7,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,1992,25,CIN,NFL,RB,16,1,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,1993,26,CIN,NFL,FB,15,14,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,1994,27,CIN,NFL,FB,16,13,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,1995,28,OAK,NFL,FB,16,10,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+FennDe00,Derrick Fenner,RB,,,,,,,,,,,,,,,,,,,,,,
+FennDe00,Derrick Fenner,RB,1997,30,OAK,NFL,FB,9,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

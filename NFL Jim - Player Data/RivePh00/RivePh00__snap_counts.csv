@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RivePh00,Philip Rivers,QB,2012,31,SDG,QB,17,16,16,1025,100%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2013*,32,SDG,QB,17,16,16,1098,99%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2014,33,SDG,QB,17,16,16,1052,99%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2015,34,SDG,QB,17,16,16,1153,99%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2016*,35,SDG,QB,17,16,16,1060,100%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2017*,36,LAC,QB,17,16,16,1027,97%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2018*,37,LAC,QB,17,16,16,964,97%,0,0%,1,0%
+RivePh00,Philip Rivers,QB,2019,38,LAC,QB,17,16,16,1030,98%,0,0%,0,0%
+RivePh00,Philip Rivers,QB,2020,39,IND,QB,17,16,16,1045,96%,0,0%,0,0%

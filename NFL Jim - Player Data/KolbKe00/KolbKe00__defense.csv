@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+KolbKe00,Kevin Kolb,QB,2007,23,PHI,NFL,QB,1,0,0,0,0,0,0,0,1,0,0,0,0.0,,,,,,0,
+KolbKe00,Kevin Kolb,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+KolbKe00,Kevin Kolb,QB,2009,25,PHI,NFL,QB,5,2,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,,,0,
+KolbKe00,Kevin Kolb,QB,2010,26,PHI,NFL,QB,7,5,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,0,0,
+KolbKe00,Kevin Kolb,QB,2011,27,ARI,NFL,QB,9,9,0,0,0,0,0,0,8,0,-8,0,0.0,0,0,0,0,0,0,
+KolbKe00,Kevin Kolb,QB,2012,28,ARI,NFL,QB,6,5,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,,,0,

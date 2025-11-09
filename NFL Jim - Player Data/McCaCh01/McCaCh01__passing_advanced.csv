@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+McCaCh01,Christian McCaffrey,RB,2018,22,CAR,NFL,RB,16,16,1,1,13,13.0,13,13.0,13.0,37,37.0,0,0,0,0,0.0,0,0.0,,,2.3,1,0,0,0,0.0,0,,,,,,,,,AP-2
+McCaCh01,Christian McCaffrey,RB,2019,23,CAR,NFL,RB,16,16,0,2,16,8.0,0,,0.0,0,,0,1,0,0,0.0,1,100.0,0,0.0,1.8,1,1,0,1,50.0,0,21,68,0,0,21,68,0,0,"PB,AP-1,AP OPoY-3"
+McCaCh01,Christian McCaffrey,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McCaCh01,Christian McCaffrey,RB,2022,26,2TM,NFL,RB,17,16,1,1,31,31.0,31,31.0,31.0,3,3.0,0,0,0,0,0.0,0,0.0,1,100.0,1.4,0,0,0,0,0.0,0,4,10,0,0,4,10,0,0,"PB,AP OPoY-7,AP CPoY-2"
+McCaCh01,Christian McCaffrey,RB,2022,26,SFO,NFL,RB,11,10,1,1,31,31.0,31,31.0,31.0,3,3.0,0,0,0,0,0.0,0,0.0,1,100.0,1.4,0,0,0,0,0.0,0,4,10,0,0,4,10,0,0,

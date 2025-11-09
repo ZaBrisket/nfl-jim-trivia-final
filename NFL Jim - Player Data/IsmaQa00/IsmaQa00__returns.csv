@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+IsmaQa00,Qadry Ismail,WR,1993,23,MIN,NFL,WR,15,3,0,0,0,0,42,902,0,47,21.5,1128,
+IsmaQa00,Qadry Ismail,WR,1994,24,MIN,NFL,WR,16,3,0,0,0,0,35,807,0,61,23.1,1504,
+IsmaQa00,Qadry Ismail,WR,1995,25,MIN,NFL,WR,16,1,0,0,0,0,42,1037,0,71,24.7,1641,
+IsmaQa00,Qadry Ismail,WR,1996,26,MIN,NFL,WR,16,2,0,0,0,0,28,527,0,32,18.8,878,
+IsmaQa00,Qadry Ismail,WR,1997,27,MIA,NFL,WR,3,0,0,0,0,0,8,166,0,27,20.8,166,
+IsmaQa00,Qadry Ismail,WR,1998,28,NOR,NFL,WR,10,1,0,0,0,0,28,590,0,39,21.1,590,
+IsmaQa00,Qadry Ismail,WR,1999,29,BAL,NFL,WR,16,16,0,0,0,0,4,55,0,19,13.8,1164,AP CPoY-6
+IsmaQa00,Qadry Ismail,WR,2000,30,BAL,NFL,WR,15,13,0,0,0,0,2,51,0,38,25.5,706,

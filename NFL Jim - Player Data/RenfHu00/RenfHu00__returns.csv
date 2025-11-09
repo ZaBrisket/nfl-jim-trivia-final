@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,all_purpose_yds,awards
+RenfHu00,Hunter Renfrow,WR,2019,24,OAK,NFL,WR,13,4,5,38,0,13,7.6,0,0,0,0,643,
+RenfHu00,Hunter Renfrow,WR,2020,25,LVR,NFL,WR,16,6,23,265,0,32,11.5,0,0,0,0,921,
+RenfHu00,Hunter Renfrow,WR,2021,26,LVR,NFL,WR,17,9,31,303,0,41,9.8,0,0,0,0,1383,PB
+RenfHu00,Hunter Renfrow,WR,2022,27,LVR,NFL,WR,10,1,11,74,0,17,6.7,0,0,0,0,404,
+RenfHu00,Hunter Renfrow,WR,,,,,,,,,,,,,,,,,,
+RenfHu00,Hunter Renfrow,WR,2025,30,CAR,NFL,WR,6,2,2,13,0,13,6.5,0,0,0,0,102,

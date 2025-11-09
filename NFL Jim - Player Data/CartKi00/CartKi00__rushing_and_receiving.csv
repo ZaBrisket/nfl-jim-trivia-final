@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,team_name_abbr,age,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CartKi00,Ki-Jana Carter,RB,1995,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CartKi00,Ki-Jana Carter,RB,1996,CIN,23,NFL,RB,16,4,91,264,8,20,37.4,31,2.9,16.5,5.7,36,22,169,7.7,1,7,38.9,20,1.4,10.6,61.1,4.7,113,3.8,433,9,2,4,
+CartKi00,Ki-Jana Carter,RB,1997,CIN,24,NFL,RB,15,10,128,464,7,21,40.6,79,3.6,30.9,8.5,31,21,157,7.5,0,7,32.3,35,1.4,10.5,67.7,5.1,149,4.2,621,7,3,5,
+CartKi00,Ki-Jana Carter,RB,1998,CIN,25,NFL,RB,1,0,2,4,0,0,0.0,4,2.0,4.0,2.0,6,6,25,4.2,0,0,0.0,8,6.0,25.0,100.0,4.2,8,3.6,29,0,0,0,
+CartKi00,Ki-Jana Carter,RB,1999,CIN,26,NFL,RB,3,0,6,15,1,1,50.0,8,2.5,5.0,2.0,6,3,24,8.0,0,1,50.0,11,1.0,8.0,50.0,4.0,9,4.3,39,1,0,0,
+CartKi00,Ki-Jana Carter,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CartKi00,Ki-Jana Carter,RB,2001,WAS,28,NFL,RB,14,0,63,308,3,18,47.6,30,4.9,22.0,4.5,21,13,83,6.4,0,3,38.1,15,0.9,5.9,61.9,4.0,76,5.1,391,3,1,2,
+CartKi00,Ki-Jana Carter,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CartKi00,Ki-Jana Carter,RB,2003,NOR,30,NFL,RB,8,0,19,72,1,4,31.6,31,3.8,9.0,2.4,3,1,11,11.0,0,1,33.3,11,0.1,1.4,33.3,3.7,20,4.2,83,1,0,1,
+CartKi00,Ki-Jana Carter,RB,2004,NOR,31,NFL,RB,2,0,10,17,0,2,20.0,8,1.7,8.5,5.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,10,1.7,17,0,0,0,

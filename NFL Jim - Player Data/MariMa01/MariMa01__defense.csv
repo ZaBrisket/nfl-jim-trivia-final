@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MariMa01,Marcus Mariota,QB,2015,22,TEN,NFL,QB,12,12,0,0,0,0,0,0,10,3,-10,0,0.0,0,0,0,,,0,
+MariMa01,Marcus Mariota,QB,2016,23,TEN,NFL,QB,15,15,0,0,0,0,0,0,10,2,-22,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2017,24,TEN,NFL,QB,15,15,0,0,0,0,0,0,2,1,-7,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2018,25,TEN,NFL,QB,14,13,0,0,0,0,0,0,9,2,0,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2019,26,TEN,NFL,QB,7,6,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+MariMa01,Marcus Mariota,QB,2021,28,LVR,NFL,QB,10,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2022,29,ATL,NFL,QB,13,13,0,0,0,0,0,0,8,4,0,0,0.0,1,1,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2023,30,PHI,NFL,QB,3,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2024,31,WAS,NFL,QB,3,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,
+MariMa01,Marcus Mariota,QB,2025,32,WAS,NFL,QB,5,3,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,

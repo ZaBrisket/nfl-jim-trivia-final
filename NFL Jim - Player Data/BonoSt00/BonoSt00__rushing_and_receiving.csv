@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BonoSt00,Steve Bono,QB,1987,25,PIT,NFL,QB,3,3,8,27,1,3,37.5,23,3.4,9.0,2.7,1,1,2,2.0,0,0,100.0,2,0.3,0.7,100.0,2.0,9,3.2,29,1,5,
+BonoSt00,Steve Bono,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BonoSt00,Steve Bono,QB,1991,29,SFO,NFL,QB,9,6,17,46,0,4,23.5,18,2.7,5.1,1.9,0,0,0,,0,0,,,0.0,0.0,,,17,2.7,46,0,7,
+BonoSt00,Steve Bono,QB,1992,30,SFO,NFL,QB,16,0,15,23,0,2,13.3,19,1.5,1.4,0.9,0,0,0,,0,0,,,0.0,0.0,,,15,1.5,23,0,2,
+BonoSt00,Steve Bono,QB,1993,31,SFO,NFL,QB,8,0,12,14,1,3,25.0,10,1.2,1.8,1.5,0,0,0,,0,0,,,0.0,0.0,,,12,1.2,14,1,0,
+BonoSt00,Steve Bono,QB,1994,32,KAN,NFL,QB,7,2,4,-1,0,1,25.0,2,-0.3,-0.1,0.6,0,0,0,,0,0,,,0.0,0.0,,,4,-0.3,-1,0,0,
+BonoSt00,Steve Bono,QB,1995,33,KAN,NFL,QB,16,16,28,113,5,8,28.6,76,4.0,7.1,1.8,0,0,0,,0,0,,,0.0,0.0,,,28,4.0,113,5,10,PB
+BonoSt00,Steve Bono,QB,1996,34,KAN,NFL,QB,14,13,26,27,0,1,11.5,17,1.0,1.9,1.9,0,0,0,,0,0,,,0.0,0.0,,,26,1.0,27,0,5,
+BonoSt00,Steve Bono,QB,1997,35,GNB,NFL,QB,2,0,3,-3,0,0,0.0,-1,-1.0,-1.5,1.5,0,0,0,,0,0,,,0.0,0.0,,,3,-1.0,-3,0,1,
+BonoSt00,Steve Bono,QB,1998,36,STL,NFL,QB,6,2,10,13,0,1,10.0,7,1.3,2.2,1.7,0,0,0,,0,0,,,0.0,0.0,,,10,1.3,13,0,4,
+BonoSt00,Steve Bono,QB,1999,37,CAR,NFL,QB,2,0,2,-2,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,2,-1.0,-2,0,0,

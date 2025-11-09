@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitJi00,Jimmy Smith,WR,1992,23,DAL,NFL,WR,7,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+SmitJi00,Jimmy Smith,WR,1993,,Did not play - Injured (appendicitis/complications),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJi00,Jimmy Smith,WR,1994,,Did not play - Out of NFL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJi00,Jimmy Smith,WR,1995,26,JAX,NFL,WR,16,4,41,22,288,13.1,3,12,41.5,33,1.4,18.0,53.7,7.0,0,0,0,0,,,,0.0,0.0,22,13.1,288,3,2,3,
+SmitJi00,Jimmy Smith,WR,1996,27,JAX,NFL,WR,16,9,129,83,1244,15.0,7,60,60.5,62,5.2,77.8,64.3,9.6,0,0,0,0,,,,0.0,0.0,83,15.0,1244,7,1,11,
+SmitJi00,Jimmy Smith,WR,1997,28,JAX,NFL,WR,16,16,152,82,1324,16.1,4,64,48.0,75,5.1,82.8,53.9,8.7,0,0,0,0,,,,0.0,0.0,82,16.1,1324,4,1,14,PB
+SmitJi00,Jimmy Smith,WR,1998,29,JAX,NFL,WR,16,15,134,78,1182,15.2,8,50,53.7,72,4.9,73.9,58.2,8.8,0,0,0,0,,,,0.0,0.0,78,15.2,1182,8,2,13,"PB,AP-2"
+SmitJi00,Jimmy Smith,WR,1999,30,JAX,NFL,WR,16,16,177,116,1636,14.1,6,86,61.6,62,7.3,102.3,65.5,9.2,0,0,0,0,,,,0.0,0.0,116,14.1,1636,6,1,15,"PB,AP-2"
+SmitJi00,Jimmy Smith,WR,2000,31,JAX,NFL,WR,15,14,145,91,1213,13.3,8,46,53.8,65,6.1,80.9,62.8,8.4,0,0,0,0,,,,0.0,0.0,91,13.3,1213,8,1,12,PB
+SmitJi00,Jimmy Smith,WR,2001,32,JAX,NFL,WR,16,16,176,112,1373,12.3,8,69,53.4,35,7.0,85.8,63.6,7.8,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,113,12.1,1370,8,1,12,"PB,AP CPoY-2"
+SmitJi00,Jimmy Smith,WR,2002,33,JAX,NFL,WR,16,16,138,80,1027,12.8,7,53,47.8,47,5.0,64.2,58.0,7.4,1,2,0,0,0.0,2,2.0,0.1,0.1,81,12.7,1029,7,0,11,
+SmitJi00,Jimmy Smith,WR,2003,34,JAX,NFL,WR,12,12,112,54,805,14.9,4,38,44.6,67,4.5,67.1,48.2,7.2,0,0,0,0,,,,0.0,0.0,54,14.9,805,4,1,7,
+SmitJi00,Jimmy Smith,WR,2004,35,JAX,NFL,WR,16,16,137,74,1172,15.8,6,52,49.6,65,4.6,73.3,54.0,8.6,0,0,0,0,,,,0.0,0.0,74,15.8,1172,6,2,9,
+SmitJi00,Jimmy Smith,WR,2005,36,JAX,NFL,WR,16,16,128,70,1023,14.6,6,55,49.2,45,4.4,63.9,54.7,8.0,0,0,0,0,,,,0.0,0.0,70,14.6,1023,6,0,11,

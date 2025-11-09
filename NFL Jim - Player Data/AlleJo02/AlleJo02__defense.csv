@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+AlleJo02,Josh Allen,QB,2018,22,BUF,NFL,QB,12,11,0,0,0,0,0,0,8,2,-14,0,0.0,0,0,0,0,0,0,
+AlleJo02,Josh Allen,QB,2019,23,BUF,NFL,QB,16,16,0,0,0,0,0,0,14,4,-1,0,0.0,0,0,0,0,0,0,
+AlleJo02,Josh Allen,QB,2020,24,BUF,NFL,QB,16,16,0,0,0,0,0,0,9,1,-2,0,0.0,0,0,0,0,0,0,"PB,AP-2,AP MVP-2,AP OPoY-4"
+AlleJo02,Josh Allen,QB,2021,25,BUF,NFL,QB,17,17,0,0,0,0,0,0,8,2,-4,0,0.0,1,1,0,0,0,0,
+AlleJo02,Josh Allen,QB,2022,26,BUF,NFL,QB,16,16,0,0,0,0,0,0,13,5,-2,0,0.0,3,3,0,0,0,0,"PB,AP MVP-3,AP OPoY-8"
+AlleJo02,Josh Allen,QB,2023,27,BUF,NFL,QB,17,17,0,0,0,0,0,0,7,1,-4,0,0.0,0,0,0,0,0,0,"AP MVP-5,AP OPoY-6"
+AlleJo02,Josh Allen,QB,2024,28,BUF,NFL,QB,17,17,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-2,AP MVP-1,AP OPoY-6"
+AlleJo02,Josh Allen,QB,2025,29,BUF,NFL,QB,8,8,0,0,0,0,0,0,4,1,-11,0,0.0,0,0,0,0,0,0,

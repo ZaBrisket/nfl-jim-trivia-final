@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SchrBi00,Bill Schroeder,WR,1997,26,GNB,NFL,WR,15,1,33,342,0,46,10.4,24,562,0,40,23.4,919,
+SchrBi00,Bill Schroeder,WR,1998,27,GNB,NFL,WR,13,3,2,5,0,3,2.5,0,0,0,0,,457,
+SchrBi00,Bill Schroeder,WR,1999,28,GNB,NFL,WR,16,16,0,0,0,0,,1,10,0,10,10.0,1061,
+SchrBi00,Bill Schroeder,WR,,,,,,,,,,,,,,,,,,,
+SchrBi00,Bill Schroeder,WR,2004,33,TAM,NFL,WR,7,2,6,21,0,12,3.5,2,29,0,16,14.5,206,

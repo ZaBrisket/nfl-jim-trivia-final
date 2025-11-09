@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+McCoCo00,Colt McCoy,QB,2010,24,CLE,NFL,QB,8,8,101,95,91,88,101,82,85,76,89,
+McCoCo00,Colt McCoy,QB,2011,25,CLE,NFL,QB,13,13,76,79,84,85,88,86,107,98,87,
+McCoCo00,Colt McCoy,QB,,,,,,,,,,,,,,,,,
+McCoCo00,Colt McCoy,QB,2014,28,WAS,NFL,QB,5,4,125,103,112,100,135,84,104,59,111,
+McCoCo00,Colt McCoy,QB,,,,,,,,,,,,,,,,,
+McCoCo00,Colt McCoy,QB,2018,32,WAS,NFL,QB,3,2,94,87,79,76,98,112,47,74,85,
+McCoCo00,Colt McCoy,QB,,,,,,,,,,,,,,,,,
+McCoCo00,Colt McCoy,QB,2020,34,NYG,NFL,QB,4,2,69,73,76,79,83,69,115,94,78,
+McCoCo00,Colt McCoy,QB,2021,35,ARI,NFL,QB,8,3,107,107,108,108,141,85,124,103,113,
+McCoCo00,Colt McCoy,QB,2022,36,ARI,NFL,QB,4,3,72,68,70,69,116,57,101,82,78,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GaskMy00,Myles Gaskin,RB,2019,22,MIA,RB,37,7,0,125,25%,0,0%,18,8%
+GaskMy00,Myles Gaskin,RB,2020,23,MIA,RB,37,10,7,453,69%,0,0%,17,6%
+GaskMy00,Myles Gaskin,RB,2021,24,MIA,RB,37,17,10,575,50%,0,0%,4,1%
+GaskMy00,Myles Gaskin,RB,2022,25,MIA,RB,3,4,0,39,15%,0,0%,11,10%
+GaskMy00,Myles Gaskin,RB,2023,26,2TM,RB,,3,0,0,,0,,10,
+GaskMy00,Myles Gaskin,RB,,,,,,,,0,0%,0,0%,4,7%
+GaskMy00,Myles Gaskin,RB,,,,,,,,0,0%,0,0%,6,20%
+GaskMy00,Myles Gaskin,RB,2024,27,MIN,RB,37,5,0,7,2%,0,0%,26,20%

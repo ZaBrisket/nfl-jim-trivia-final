@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FerrVi00,Vince Ferragamo,QB,1977,23,RAM,NFL,QB,3,0,1,0,0,,,,0.0,0.0,0.3,,0,0,0,,0.0,0.0,1,0.0,0,0,0,
+FerrVi00,Vince Ferragamo,QB,1978,24,RAM,NFL,QB,9,0,2,10,0,0,50.0,12,5.0,1.1,0.2,0,0,0,0,0,0.0,0.0,2,5.0,10,0,0,
+FerrVi00,Vince Ferragamo,QB,1979,25,RAM,NFL,QB,8,5,3,-2,0,0,0.0,2,-0.7,-0.3,0.4,0,0,0,0,0,0.0,0.0,3,-0.7,-2,0,2,
+FerrVi00,Vince Ferragamo,QB,1980,26,RAM,NFL,QB,16,15,15,34,1,3,40.0,15,2.3,2.1,0.9,0,0,0,0,0,0.0,0.0,15,2.3,34,1,4,
+FerrVi00,Vince Ferragamo,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FerrVi00,Vince Ferragamo,QB,1982,28,RAM,NFL,QB,7,5,4,3,1,1,25.0,2,0.8,0.4,0.6,0,0,0,0,0,0.0,0.0,4,0.8,3,1,1,
+FerrVi00,Vince Ferragamo,QB,1983,29,RAM,NFL,QB,16,16,22,17,0,7,40.9,8,0.8,1.1,1.4,0,0,0,0,0,0.0,0.0,22,0.8,17,0,8,
+FerrVi00,Vince Ferragamo,QB,1984,30,RAM,NFL,QB,3,3,4,0,0,1,25.0,,0.0,0.0,1.3,0,0,0,0,0,0.0,0.0,4,0.0,0,0,0,
+FerrVi00,Vince Ferragamo,QB,1985,31,BUF,NFL,QB,10,9,8,15,1,2,25.0,5,1.9,1.5,0.8,0,0,0,0,0,0.0,0.0,8,1.9,15,1,1,
+FerrVi00,Vince Ferragamo,QB,1986,32,GNB,NFL,QB,3,0,1,0,0,0,0.0,,0.0,0.0,0.3,0,0,0,0,0,0.0,0.0,1,0.0,0,0,3,

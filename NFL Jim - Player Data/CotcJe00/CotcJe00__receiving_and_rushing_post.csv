@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CotcJe00,Jerricho Cotchery,WR,2004,22,NYJ,NFL,WR,2,0,0,0,0,,0,0,,,0.0,0.0,,,1,0,0,0,0.0,,0.0,0.0,0.5,1,0.0,0,0,0,
+CotcJe00,Jerricho Cotchery,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CotcJe00,Jerricho Cotchery,WR,2006,24,NYJ,NFL,WR,1,1,8,4,100,25.0,1,3,50.0,77,4.0,100.0,50.0,12.5,2,19,0,1,100.0,14,9.5,19.0,2.0,6,19.8,119,1,0,
+CotcJe00,Jerricho Cotchery,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CotcJe00,Jerricho Cotchery,WR,2009,27,NYJ,NFL,WR,3,3,19,14,194,13.9,0,11,68.4,46,4.7,64.7,73.7,10.2,1,1,0,0,0.0,1,1.0,0.3,0.3,15,13.0,195,0,0,
+CotcJe00,Jerricho Cotchery,WR,2010,28,NYJ,NFL,WR,3,1,18,12,146,12.2,1,7,55.6,58,4.0,48.7,66.7,8.1,1,-4,0,0,0.0,-4,-4.0,-1.3,0.3,13,10.9,142,1,0,
+CotcJe00,Jerricho Cotchery,WR,2011,29,PIT,NFL,WR,1,0,2,1,31,31.0,1,1,50.0,31,1.0,31.0,50.0,15.5,0,0,0,0,,,,0.0,0.0,1,31.0,31,1,0,
+CotcJe00,Jerricho Cotchery,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CotcJe00,Jerricho Cotchery,WR,2014,32,CAR,NFL,WR,2,1,11,6,39,6.5,0,1,36.4,13,3.0,19.5,54.5,3.5,2,5,0,1,50.0,5,2.5,2.5,1.0,8,5.5,44,0,0,
+CotcJe00,Jerricho Cotchery,WR,2015,33,CAR,NFL,WR,3,1,11,7,56,8.0,0,4,54.5,12,2.3,18.7,63.6,5.1,0,0,0,0,,,,0.0,0.0,7,8.0,56,0,0,

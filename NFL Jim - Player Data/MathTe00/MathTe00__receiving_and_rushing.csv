@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MathTe00,Terance Mathis,WR,1990,23,NYJ,NFL,WR,16,1,42,19,245,12.9,0,13,38.1,23,1.2,15.3,45.2,5.8,2,9,0,1,50.0,10,4.5,0.6,0.1,21,12.1,254,0,1,4,
+MathTe00,Terance Mathis,WR,1991,24,NYJ,NFL,WR,16,1,40,28,329,11.8,1,15,55.0,39,1.8,20.6,70.0,8.2,1,19,0,1,100.0,19,19.0,1.2,0.1,29,12.0,348,1,4,3,
+MathTe00,Terance Mathis,WR,1992,25,NYJ,NFL,WR,16,1,41,22,316,14.4,3,14,46.3,55,1.4,19.8,53.7,7.7,3,25,1,1,100.0,10,8.3,1.6,0.2,25,13.6,341,4,2,3,
+MathTe00,Terance Mathis,WR,1993,26,NYJ,NFL,WR,16,3,46,24,352,14.7,0,17,43.5,46,1.5,22.0,52.2,7.7,2,20,1,1,50.0,17,10.0,1.3,0.1,26,14.3,372,1,5,3,
+MathTe00,Terance Mathis,WR,1994,27,ATL,NFL,WR,16,16,152,111,1342,12.1,11,67,61.2,81,6.9,83.9,73.0,8.8,0,0,0,0,,,,0.0,0.0,111,12.1,1342,11,0,11,"PB,AP-2"
+MathTe00,Terance Mathis,WR,1995,28,ATL,NFL,WR,14,12,121,78,1039,13.3,9,50,57.0,54,5.6,74.2,64.5,8.6,0,0,0,0,,,,0.0,0.0,78,13.3,1039,9,1,9,
+MathTe00,Terance Mathis,WR,1996,29,ATL,NFL,WR,16,16,114,69,771,11.2,7,48,52.6,55,4.3,48.2,60.5,6.8,0,0,0,0,,,,0.0,0.0,69,11.2,771,7,0,7,
+MathTe00,Terance Mathis,WR,1997,30,ATL,NFL,WR,16,16,109,62,802,12.9,6,42,55.0,49,3.9,50.1,56.9,7.4,3,35,0,3,100.0,16,11.7,2.2,0.2,65,12.9,837,6,0,8,
+MathTe00,Terance Mathis,WR,1998,31,ATL,NFL,WR,16,16,113,64,1136,17.8,11,54,51.3,78,4.0,71.0,56.6,10.1,1,-6,0,0,0.0,-6,-6.0,-0.4,0.1,65,17.4,1130,11,0,12,
+MathTe00,Terance Mathis,WR,1999,32,ATL,NFL,WR,16,16,154,81,1016,12.5,6,57,46.1,52,5.1,63.5,52.6,6.6,1,0,0,0,0.0,,0.0,0.0,0.1,82,12.4,1016,6,0,9,
+MathTe00,Terance Mathis,WR,2000,33,ATL,NFL,WR,16,16,126,57,679,11.9,5,42,39.7,44,3.6,42.4,45.2,5.4,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,58,11.6,674,5,1,6,
+MathTe00,Terance Mathis,WR,2001,34,ATL,NFL,WR,16,16,105,51,564,11.1,2,34,40.0,34,3.2,35.3,48.6,5.4,0,0,0,0,,,,0.0,0.0,51,11.1,564,2,0,5,
+MathTe00,Terance Mathis,WR,2002,35,PIT,NFL,WR,16,0,40,23,218,9.5,2,14,50.0,22,1.4,13.6,57.5,5.5,0,0,0,0,,,,0.0,0.0,23,9.5,218,2,0,2,

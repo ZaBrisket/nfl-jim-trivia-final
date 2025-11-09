@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+KittGe00,George Kittle,TE,2018,25,SFO,NFL,TE,16,16,136,88,1377,60,507,5.8,870,9.9,7.1,9,9.8,5,3.7,3,101.3,1,10,1,10,10.0,0,0.0,0,"PB,AP-2"
+KittGe00,George Kittle,TE,2019,26,SFO,NFL,TE,14,14,107,85,1053,53,451,5.3,602,7.1,5.9,8,10.6,2,1.9,1,119.4,5,22,1,14,2.8,8,1.6,0,"PB,AP-1"
+KittGe00,George Kittle,TE,2020,27,SFO,NFL,TE,8,8,63,48,634,32,337,7.0,297,6.2,7.3,1,48.0,5,7.9,2,104.9,2,17,1,4,2.0,13,6.5,0,
+KittGe00,George Kittle,TE,2021,28,SFO,NFL,TE,14,14,94,71,910,42,460,6.5,450,6.3,8.3,8,8.9,2,2.1,6,100.0,3,20,0,11,3.7,9,3.0,0,PB
+KittGe00,George Kittle,TE,2022,29,SFO,NFL,TE,15,15,86,60,765,36,383,6.4,382,6.4,6.5,4,15.0,3,3.5,2,127.2,0,0,0,0,,0,,0,"PB,AP-2"
+KittGe00,George Kittle,TE,2023,30,SFO,NFL,TE,16,16,90,65,1020,42,537,8.3,483,7.4,9.5,5,13.0,4,4.4,2,122.5,1,2,1,1,1.0,1,1.0,0,"PB,AP-1"
+KittGe00,George Kittle,TE,2024,31,SFO,NFL,TE,15,15,94,78,1106,50,584,7.5,522,6.7,8.1,4,19.5,2,2.1,2,135.2,0,0,0,0,,0,,0,"PB,AP-2,AP OPoY-11"
+KittGe00,George Kittle,TE,2025,32,SFO,NFL,TE,4,4,15,12,100,7,72,6.0,28,2.3,5.8,0,,0,0.0,0,134.0,1,-3,0,-3,-3.0,0,0.0,0,

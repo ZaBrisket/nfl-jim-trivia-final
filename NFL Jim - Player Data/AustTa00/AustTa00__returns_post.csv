@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,all_purpose_yds,awards
+AustTa00,Tavon Austin,WR,2018,28,DAL,NFL,WR,2,1,5,73,0,51,14.6,0,0,0,0,75,
+AustTa00,Tavon Austin,WR,,,,,,,,,,,,,,,,,,
+AustTa00,Tavon Austin,WR,2020,30,GNB,NFL,WR,2,0,2,17,0,9,8.5,0,0,0,0,17,

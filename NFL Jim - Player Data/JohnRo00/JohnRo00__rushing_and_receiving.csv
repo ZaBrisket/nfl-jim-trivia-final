@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JohnRo00,Rob Johnson,QB,1995,22,JAX,NFL,QB,1,0,3,17,0,1,100.0,7,5.7,17.0,3.0,0,0,0,,0,0,,,0.0,0.0,,,3,5.7,17,0,0,
+JohnRo00,Rob Johnson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnRo00,Rob Johnson,QB,1997,24,JAX,NFL,QB,5,1,10,34,1,1,20.0,25,3.4,6.8,2.0,0,0,0,,0,0,,,0.0,0.0,,,10,3.4,34,1,0,
+JohnRo00,Rob Johnson,QB,1998,25,BUF,NFL,QB,8,6,24,123,1,7,37.5,32,5.1,15.4,3.0,0,0,0,,0,0,,,0.0,0.0,,,24,5.1,123,1,2,
+JohnRo00,Rob Johnson,QB,1999,26,BUF,NFL,QB,2,1,8,61,0,3,62.5,25,7.6,30.5,4.0,0,0,0,,0,0,,,0.0,0.0,,,8,7.6,61,0,0,
+JohnRo00,Rob Johnson,QB,2000,27,BUF,NFL,QB,12,11,42,307,1,16,47.6,23,7.3,25.6,3.5,1,1,-6,-6.0,0,0,0.0,-6,0.1,-0.5,100.0,-6.0,43,7.0,301,1,4,
+JohnRo00,Rob Johnson,QB,2001,28,BUF,NFL,QB,8,8,36,241,1,13,55.6,23,6.7,30.1,4.5,0,0,0,,0,0,,,0.0,0.0,,,36,6.7,241,1,6,
+JohnRo00,Rob Johnson,QB,2002,29,TAM,NFL,QB,6,2,14,73,0,4,57.1,21,5.2,12.2,2.3,0,0,0,,0,0,,,0.0,0.0,,,14,5.2,73,0,2,
+JohnRo00,Rob Johnson,QB,2003,30,2TM,NFL,QB,4,0,3,21,0,1,33.3,14,7.0,5.3,0.8,0,0,0,,0,0,,,0.0,0.0,,,3,7.0,21,0,0,
+JohnRo00,Rob Johnson,QB,2003,30,WAS,NFL,QB,2,0,1,6,0,0,0.0,6,6.0,3.0,0.5,0,0,0,,0,0,,,0.0,0.0,,,1,6.0,6,0,0,
+JohnRo00,Rob Johnson,QB,2003,30,OAK,NFL,QB,2,0,2,15,0,1,50.0,14,7.5,7.5,1.0,0,0,0,,0,0,,,0.0,0.0,,,2,7.5,15,0,0,

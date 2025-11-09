@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ParmBe00,Bernie Parmalee,RB,1992,25,MIA,NFL,RB,1,0,5,18,0,0,60.0,6,3.6,18.0,5.0,,0,0,,0,0,,,0.0,0.0,,,5,3.6,18,0,1,
+ParmBe00,Bernie Parmalee,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ParmBe00,Bernie Parmalee,RB,1994,27,MIA,NFL,RB,2,2,25,73,1,6,32.0,16,2.9,36.5,12.5,5,4,42,10.5,0,2,60.0,26,2.0,21.0,80.0,8.4,29,4.0,115,1,0,
+ParmBe00,Bernie Parmalee,RB,1995,28,MIA,NFL,RB,1,1,5,13,0,2,40.0,7,2.6,13.0,5.0,4,4,51,12.8,0,2,100.0,19,4.0,51.0,100.0,12.8,9,7.1,64,0,0,
+ParmBe00,Bernie Parmalee,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ParmBe00,Bernie Parmalee,RB,1997,30,MIA,NFL,RB,1,1,9,22,0,1,55.6,5,2.4,22.0,9.0,4,3,13,4.3,0,0,25.0,9,3.0,13.0,75.0,3.3,12,2.9,35,0,0,
+ParmBe00,Bernie Parmalee,RB,1998,31,MIA,NFL,RB,2,0,9,24,0,2,33.3,12,2.7,12.0,4.5,6,5,24,4.8,0,0,33.3,9,2.5,12.0,83.3,4.0,14,3.4,48,0,0,

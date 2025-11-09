@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+EdelJu00,Julian Edelman,WR,2009,23,NWE,NFL,WR,1,1,1,28,0,28,28.0,0,0,0,0,,72,
+EdelJu00,Julian Edelman,WR,2010,24,NWE,NFL,WR,1,1,2,42,0,41,21.0,0,0,0,0,,65,
+EdelJu00,Julian Edelman,WR,2011,25,NWE,NFL,WR,3,0,4,35,0,15,8.8,3,73,0,31,24.3,126,
+EdelJu00,Julian Edelman,WR,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2013,27,NWE,NFL,WR,2,1,5,36,0,15,7.2,0,0,0,0,,209,
+EdelJu00,Julian Edelman,WR,2014,28,NWE,NFL,WR,3,3,9,143,0,45,15.9,0,0,0,0,,443,
+EdelJu00,Julian Edelman,WR,2015,29,NWE,NFL,WR,2,2,1,16,0,16,16.0,0,0,0,0,,180,
+EdelJu00,Julian Edelman,WR,2016,30,NWE,NFL,WR,3,3,7,66,0,26,9.4,0,0,0,0,,422,
+EdelJu00,Julian Edelman,WR,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2018,32,NWE,NFL,WR,3,3,10,77,0,16,7.7,0,0,0,0,,480,SB MVP
+EdelJu00,Julian Edelman,WR,2019,33,NWE,NFL,WR,1,1,0,0,0,0,,1,10,0,10,10.0,52,

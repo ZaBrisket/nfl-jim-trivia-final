@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+FoutDa00,Dan Fouts,QB,1973,22,SDG,NFL,QB,10,6,0,0,0,0,,2,1,0,0,0.0,,,,0,
+FoutDa00,Dan Fouts,QB,1974,23,SDG,NFL,QB,11,11,0,0,0,0,,4,0,0,0,0.0,,,,0,
+FoutDa00,Dan Fouts,QB,1975,24,SDG,NFL,QB,10,9,0,0,0,0,,3,1,0,0,0.0,,,,0,
+FoutDa00,Dan Fouts,QB,1976,25,SDG,NFL,QB,14,13,0,0,0,0,,8,4,-5,0,0.0,,,,0,
+FoutDa00,Dan Fouts,QB,1977,26,SDG,NFL,QB,4,4,0,0,0,0,,4,0,0,0,0.0,,,,0,
+FoutDa00,Dan Fouts,QB,1978,27,SDG,NFL,QB,15,14,0,0,0,0,0,10,3,-4,0,0.0,0,0,0,0,
+FoutDa00,Dan Fouts,QB,1979,28,SDG,NFL,QB,16,16,0,0,0,0,0,13,6,-20,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-2"
+FoutDa00,Dan Fouts,QB,1980,29,SDG,NFL,QB,16,16,0,0,0,0,0,11,3,-5,0,0.0,0,0,0,0,"PB,AP-2,AP MVP-5,AP OPoY-3"
+FoutDa00,Dan Fouts,QB,1981,30,SDG,NFL,QB,16,16,0,0,0,0,0,9,2,-22,0,0.0,0,0,0,0,"PB,AP MVP-6,AP OPoY-5"
+FoutDa00,Dan Fouts,QB,1982,31,SDG,NFL,QB,9,9,0,0,0,0,0,2,3,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-1"
+FoutDa00,Dan Fouts,QB,1983,32,SDG,NFL,QB,10,10,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,PB
+FoutDa00,Dan Fouts,QB,1984,33,SDG,NFL,QB,13,13,0,0,0,0,0,8,1,0,0,0.0,0,0,0,0,
+FoutDa00,Dan Fouts,QB,1985,34,SDG,NFL,QB,14,12,0,0,0,0,0,13,6,-11,0,0.0,0,0,0,0,"PB,AP-2"
+FoutDa00,Dan Fouts,QB,1986,35,SDG,NFL,QB,12,12,0,0,0,0,0,4,2,-13,0,0.0,0,0,0,0,
+FoutDa00,Dan Fouts,QB,1987,36,SDG,NFL,QB,11,10,0,0,0,0,0,10,4,-10,0,0.0,0,0,0,0,

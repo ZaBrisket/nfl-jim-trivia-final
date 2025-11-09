@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HillJe01,Jeremy Hill,RB,2014,22,CIN,NFL,RB,16,8,222,1124,9,61,52.3,85,5.1,70.3,13.9,32,27,215,8.0,0,7,46.9,38,1.7,13.4,84.4,6.7,249,5.4,1339,9,5,10,
+HillJe01,Jeremy Hill,RB,2015,23,CIN,NFL,RB,16,15,223,794,11,47,46.2,38,3.6,49.6,13.9,19,15,79,5.3,1,6,36.8,14,0.9,4.9,78.9,4.2,238,3.7,873,12,3,6,
+HillJe01,Jeremy Hill,RB,2016,24,CIN,NFL,RB,15,13,222,839,9,46,43.7,74,3.8,55.9,14.8,27,21,174,8.3,0,6,59.3,25,1.4,11.6,77.8,6.4,243,4.2,1013,9,0,5,
+HillJe01,Jeremy Hill,RB,2017,25,CIN,NFL,RB,7,7,37,116,0,6,37.8,13,3.1,16.6,5.3,4,4,16,4.0,0,1,50.0,10,0.6,2.3,100.0,4.0,41,3.2,132,0,1,1,
+HillJe01,Jeremy Hill,RB,2018,26,NWE,NFL,RB,1,0,4,25,0,1,75.0,11,6.3,25.0,4.0,1,1,6,6.0,0,0,100.0,6,1.0,6.0,100.0,6.0,5,6.2,31,0,0,0,

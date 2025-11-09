@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CrabMi00,Michael Crabtree,WR,2012,25,SFO,WR,15,16,16,675,67%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2013,26,SFO,WR,15,5,5,237,73%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2014,27,SFO,WR,15,16,16,722,68%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2015,28,OAK,WR,15,16,15,808,77%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2016,29,OAK,WR,15,16,16,836,75%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2017,30,OAK,WR,15,14,14,599,67%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2018,31,BAL,WR,15,16,16,805,68%,0,0%,0,0%
+CrabMi00,Michael Crabtree,WR,2019,32,ARI,WR,15,2,1,31,24%,0,0%,0,0%

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnAn02,Andre Johnson,WR,2003,22,HOU,NFL,WR,16,16,119,66,976,14.8,4,46,47.1,46,4.1,61.0,55.5,8.2,5,-10,0,1,20.0,11,-2.0,-0.6,0.3,71,13.6,966,4,0,9,
+JohnAn02,Andre Johnson,WR,2004,23,HOU,NFL,WR,16,16,138,79,1142,14.5,6,53,51.4,54,4.9,71.4,57.2,8.3,4,12,0,2,50.0,14,3.0,0.8,0.3,83,13.9,1154,6,1,10,PB
+JohnAn02,Andre Johnson,WR,2005,24,HOU,NFL,WR,13,13,114,63,688,10.9,2,42,49.1,53,4.8,52.9,55.3,6.0,6,10,0,2,33.3,5,1.7,0.8,0.5,69,10.1,698,2,1,7,
+JohnAn02,Andre Johnson,WR,2006,25,HOU,NFL,WR,16,16,163,103,1147,11.1,5,56,50.3,53,6.4,71.7,63.2,7.0,3,14,0,1,66.7,18,4.7,0.9,0.2,106,11.0,1161,5,1,11,"PB,AP-2"
+JohnAn02,Andre Johnson,WR,2007,26,HOU,NFL,WR,9,9,86,60,851,14.2,8,39,66.3,77,6.7,94.6,69.8,9.9,0,0,0,0,,,,0.0,0.0,60,14.2,851,8,1,8,
+JohnAn02,Andre Johnson,WR,2008,27,HOU,NFL,WR,16,16,171,115,1575,13.7,8,79,62.6,65,7.2,98.4,67.3,9.2,0,0,0,0,,,,0.0,0.0,115,13.7,1575,8,1,14,"PB,AP-1"
+JohnAn02,Andre Johnson,WR,2009,28,HOU,NFL,WR,16,16,171,101,1569,15.5,9,70,49.1,72,6.3,98.1,59.1,9.2,2,10,0,1,100.0,7,5.0,0.6,0.1,103,15.3,1579,9,1,14,"PB,AP-1"
+JohnAn02,Andre Johnson,WR,2010,29,HOU,NFL,WR,13,13,138,86,1216,14.1,8,59,54.3,60,6.6,93.5,62.3,8.8,2,10,0,1,50.0,7,5.0,0.8,0.2,88,13.9,1226,8,1,13,PB
+JohnAn02,Andre Johnson,WR,2011,30,HOU,NFL,WR,7,7,51,33,492,14.9,2,23,58.8,50,4.7,70.3,64.7,9.6,1,8,0,0,100.0,8,8.0,1.1,0.1,34,14.7,500,2,0,4,
+JohnAn02,Andre Johnson,WR,2012,31,HOU,NFL,WR,16,16,162,112,1598,14.3,4,79,61.1,60,7.0,99.9,69.1,9.9,0,0,0,0,,,,0.0,0.0,112,14.3,1598,4,0,13,"PB,AP-2"
+JohnAn02,Andre Johnson,WR,2013,32,HOU,NFL,WR,16,16,181,109,1407,12.9,5,69,50.3,62,6.8,87.9,60.2,7.8,0,0,0,0,,,,0.0,0.0,109,12.9,1407,5,0,8,PB
+JohnAn02,Andre Johnson,WR,2014,33,HOU,NFL,WR,15,15,146,85,936,11.0,3,50,47.3,35,5.7,62.4,58.2,6.4,0,0,0,0,,,,0.0,0.0,85,11.0,936,3,3,8,
+JohnAn02,Andre Johnson,WR,2015,34,IND,NFL,WR,16,14,77,41,503,12.3,4,32,45.5,35,2.6,31.4,53.2,6.5,0,0,0,0,,,,0.0,0.0,41,12.3,503,4,0,4,
+JohnAn02,Andre Johnson,WR,2016,35,TEN,NFL,WR,8,4,22,9,85,9.4,2,4,36.4,20,1.1,10.6,40.9,3.9,0,0,0,0,,,,0.0,0.0,9,9.4,85,2,0,1,

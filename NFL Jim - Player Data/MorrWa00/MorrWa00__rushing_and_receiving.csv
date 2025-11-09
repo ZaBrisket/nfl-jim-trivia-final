@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MorrWa00,Wayne Morris,RB,1976,22,STL,NFL,RB,14,1,64,292,3,,,27,4.6,20.9,4.6,,8,75,9.4,1,,,19,0.6,5.4,,,72,5.1,367,4,4,3,
+MorrWa00,Wayne Morris,RB,1977,23,STL,NFL,FB,12,7,165,661,8,,,35,4.0,55.1,13.8,,24,222,9.3,1,,,34,2.0,18.5,,,189,4.7,883,9,5,9,
+MorrWa00,Wayne Morris,RB,1978,24,STL,NFL,RB,13,13,174,631,1,27,39.7,27,3.6,48.5,13.4,59,33,298,9.0,1,15,42.4,33,2.5,22.9,55.9,5.1,207,4.5,929,2,1,5,
+MorrWa00,Wayne Morris,RB,1979,25,STL,NFL,FB,15,15,106,387,8,27,47.2,16,3.7,25.8,7.1,49,35,237,6.8,1,16,40.8,20,2.3,15.8,71.4,4.8,141,4.4,624,9,2,4,
+MorrWa00,Wayne Morris,RB,1980,26,STL,NFL,FB,16,16,117,456,6,28,58.1,24,3.9,28.5,7.3,19,15,110,7.3,1,4,47.4,24,0.9,6.9,78.9,5.8,132,4.3,566,7,0,4,
+MorrWa00,Wayne Morris,RB,1981,27,STL,NFL,FB,16,13,109,417,5,32,49.5,14,3.8,26.1,6.8,26,19,165,8.7,0,8,53.8,21,1.2,10.3,73.1,6.3,128,4.5,582,5,0,4,
+MorrWa00,Wayne Morris,RB,1982,28,STL,NFL,FB,9,7,84,274,4,16,54.8,11,3.3,30.4,9.3,4,3,8,2.7,0,1,25.0,11,0.3,0.9,75.0,2.0,87,3.2,282,4,1,3,
+MorrWa00,Wayne Morris,RB,1983,29,STL,NFL,FB,15,11,75,257,2,17,50.7,17,3.4,17.1,5.0,17,14,55,3.9,0,3,35.3,11,0.9,3.7,82.4,3.2,89,3.5,312,2,2,2,
+MorrWa00,Wayne Morris,RB,1984,30,SDG,NFL,RB,10,3,5,12,1,2,40.0,5,2.4,1.2,0.5,5,5,20,4.0,0,0,40.0,9,0.5,2.0,100.0,4.0,10,3.2,32,1,0,0,

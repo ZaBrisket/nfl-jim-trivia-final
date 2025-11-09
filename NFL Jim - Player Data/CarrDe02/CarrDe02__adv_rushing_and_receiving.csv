@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+CarrDe02,Derek Carr,QB,2018,27,OAK,NFL,QB,16,16,24,47,5,34,1.4,13,0.5,0,,1,1,-9,0,0,0.0,-9,-9.0,0.0,0,0,0.0,0,79.2,
+CarrDe02,Derek Carr,QB,2019,28,OAK,NFL,QB,16,16,27,82,7,81,3.0,1,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,
+CarrDe02,Derek Carr,QB,2020,29,LVR,NFL,QB,16,16,39,140,16,130,3.3,10,0.3,1,39.0,0,0,0,0,0,,0,,,0,0,,0,,
+CarrDe02,Derek Carr,QB,2021,30,LVR,NFL,QB,17,17,40,108,9,100,2.5,8,0.2,0,,0,0,0,0,0,,0,,,0,0,,0,,
+CarrDe02,Derek Carr,QB,2022,31,LVR,NFL,QB,15,15,24,102,10,90,3.8,12,0.5,0,,0,0,0,0,0,,0,,,0,0,,0,,PB
+CarrDe02,Derek Carr,QB,2023,32,NOR,NFL,QB,17,17,32,40,4,34,1.1,6,0.2,0,,0,0,0,0,0,,0,,,0,0,,0,,
+CarrDe02,Derek Carr,QB,2024,33,NOR,NFL,QB,10,10,17,71,4,66,3.9,5,0.3,0,,0,0,0,0,0,,0,,,0,0,,0,,

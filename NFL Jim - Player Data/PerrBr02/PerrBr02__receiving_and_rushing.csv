@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PerrBr02,Breshad Perriman,WR,2016,23,BAL,NFL,WR,16,1,66,33,499,15.1,3,19,36.4,53,2.1,31.2,50.0,7.6,1,2,0,0,0.0,2,2.0,0.1,0.1,34,14.7,501,3,0,3,
+PerrBr02,Breshad Perriman,WR,2017,24,BAL,NFL,WR,11,3,35,10,77,7.7,0,3,20.0,14,0.9,7.0,28.6,2.2,0,0,0,0,,,,0.0,0.0,10,7.7,77,0,0,1,
+PerrBr02,Breshad Perriman,WR,2018,25,CLE,NFL,WR,10,2,25,16,340,21.3,2,13,56.0,66,1.6,34.0,64.0,13.6,4,2,0,0,75.0,7,0.5,0.2,0.4,20,17.1,342,2,0,2,
+PerrBr02,Breshad Perriman,WR,2019,26,TAM,NFL,WR,14,4,69,36,645,17.9,6,29,47.8,44,2.6,46.1,52.2,9.3,2,16,0,1,50.0,13,8.0,1.1,0.1,38,17.4,661,6,0,5,
+PerrBr02,Breshad Perriman,WR,2020,27,NYJ,NFL,WR,12,12,60,30,505,16.8,3,20,36.7,53,2.5,42.1,50.0,8.4,1,6,0,0,100.0,6,6.0,0.5,0.1,31,16.5,511,3,0,4,
+PerrBr02,Breshad Perriman,WR,2021,28,TAM,NFL,WR,6,0,18,11,167,15.2,1,5,50.0,58,1.8,27.8,61.1,9.3,1,-3,0,0,0.0,-3,-3.0,-0.5,0.2,12,13.7,164,1,0,1,
+PerrBr02,Breshad Perriman,WR,2022,29,TAM,NFL,WR,11,3,19,9,110,12.2,1,5,31.6,28,0.8,10.0,47.4,5.8,2,-7,0,0,0.0,,-3.5,-0.6,0.2,11,9.4,103,1,2,1,

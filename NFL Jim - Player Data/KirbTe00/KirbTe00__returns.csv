@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+KirbTe00,Terry Kirby,RB,1993,23,MIA,NFL,RB,16,8,0,0,0,0,,4,85,0,26,21.3,1349,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,1996,26,SFO,NFL,RB,14,10,1,3,0,3,3.0,1,22,0,22,22.0,1023,
+KirbTe00,Terry Kirby,RB,1997,27,SFO,NFL,RB,16,3,0,0,0,0,,3,124,1,101,41.3,821,
+KirbTe00,Terry Kirby,RB,1998,28,SFO,NFL,RB,9,0,0,0,0,0,,17,340,0,33,20.0,732,
+KirbTe00,Terry Kirby,RB,1999,29,CLE,NFL,RB,16,10,0,0,0,0,,11,230,0,28,20.9,1210,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,2001,31,OAK,NFL,RB,11,0,0,0,0,0,,46,1066,1,90,23.2,1177,
+KirbTe00,Terry Kirby,RB,2002,32,OAK,NFL,RB,6,0,0,79,1,79,,19,425,1,96,22.4,670,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+TaylCh01,Chester Taylor,RB,2002,23,BAL,NFL,RB,15,2,0,0,0,0,10,236,0,54,23.6,487,
+TaylCh01,Chester Taylor,RB,2003,24,BAL,NFL,RB,16,1,0,0,0,0,23,448,0,29,19.5,856,
+TaylCh01,Chester Taylor,RB,,,,,,,,,,,,,,,,,,
+TaylCh01,Chester Taylor,RB,2005,26,BAL,NFL,RB,15,1,0,0,0,0,12,253,0,45,21.1,1032,
+TaylCh01,Chester Taylor,RB,,,,,,,,,,,,,,,,,,
+TaylCh01,Chester Taylor,RB,2008,29,MIN,NFL,RB,16,1,0,0,0,0,10,234,0,37,23.4,1032,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+FullSt00,Steve Fuller,QB,1979,22,KAN,NFL,QB,16,12,0,0,0,0,0,6,3,-4,0,0.0,0,0,0,0,
+FullSt00,Steve Fuller,QB,1980,23,KAN,NFL,QB,14,13,0,0,0,0,0,16,7,-43,0,0.0,0,0,0,0,
+FullSt00,Steve Fuller,QB,1981,24,KAN,NFL,QB,13,3,0,0,0,0,0,4,1,-6,0,0.0,0,0,0,0,
+FullSt00,Steve Fuller,QB,1982,25,KAN,NFL,QB,9,3,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+FullSt00,Steve Fuller,QB,,,,,,,,,,,,,,,,,,,,,,
+FullSt00,Steve Fuller,QB,1985,28,CHI,NFL,QB,16,5,0,0,0,0,0,3,1,-15,0,0.0,0,0,0,0,
+FullSt00,Steve Fuller,QB,1986,29,CHI,NFL,QB,16,2,0,0,0,0,0,2,1,-3,0,0.0,0,0,0,0,

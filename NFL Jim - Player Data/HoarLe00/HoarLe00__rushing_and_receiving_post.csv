@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HoarLe00,Leroy Hoard,RB,1994,26,CLE,NFL,FB,2,0,20,74,1,5,45.0,10,3.7,37.0,10.0,3,2,30,15.0,0,1,66.7,25,1.0,15.0,66.7,10.0,22,4.7,104,1,0,
+HoarLe00,Leroy Hoard,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HoarLe00,Leroy Hoard,RB,1996,28,MIN,NFL,RB,1,0,3,21,0,0,66.7,12,7.0,21.0,3.0,1,1,7,7.0,0,0,100.0,7,1.0,7.0,100.0,7.0,4,7.0,28,0,1,
+HoarLe00,Leroy Hoard,RB,1997,29,MIN,NFL,RB,2,0,8,25,1,2,62.5,6,3.1,12.5,4.0,3,1,9,9.0,0,0,33.3,9,0.5,4.5,33.3,3.0,9,3.8,34,1,0,
+HoarLe00,Leroy Hoard,RB,1998,30,MIN,NFL,RB,2,0,17,54,2,5,52.9,11,3.2,27.0,8.5,5,4,39,9.8,1,3,60.0,16,2.0,19.5,80.0,7.8,21,4.4,93,3,0,
+HoarLe00,Leroy Hoard,RB,1999,31,MIN,NFL,RB,2,0,13,55,1,6,53.8,10,4.2,27.5,6.5,3,2,15,7.5,0,1,33.3,10,1.0,7.5,66.7,5.0,15,4.7,70,1,0,

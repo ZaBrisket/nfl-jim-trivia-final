@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BrowRe01,Reggie Brown,WR,2005,24,PHI,NFL,WR,16,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,AP ORoY-2
+BrowRe01,Reggie Brown,WR,2006,25,PHI,NFL,WR,16,15,1,8,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+BrowRe01,Reggie Brown,WR,2007,26,PHI,NFL,WR,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+BrowRe01,Reggie Brown,WR,2008,27,PHI,NFL,WR,10,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,

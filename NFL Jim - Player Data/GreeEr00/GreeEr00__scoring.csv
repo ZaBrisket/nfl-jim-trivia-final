@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GreeEr00,Eric Green,TE,1990,23,PIT,NFL,TE,13,6,0,7,0,0,0,0,0,7,,0,0,0,0,0,42,3.2,AP ORoY-5
+GreeEr00,Eric Green,TE,1991,24,PIT,NFL,TE,11,11,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,3.3,
+GreeEr00,Eric Green,TE,1992,25,PIT,NFL,TE,7,5,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,1.7,
+GreeEr00,Eric Green,TE,1993,26,PIT,NFL,TE,16,16,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,PB
+GreeEr00,Eric Green,TE,1994,27,PIT,NFL,TE,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,PB
+GreeEr00,Eric Green,TE,1995,28,MIA,NFL,TE,14,14,0,3,0,0,0,0,0,3,1,0,0,0,0,0,20,1.4,
+GreeEr00,Eric Green,TE,1996,29,BAL,NFL,TE,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+GreeEr00,Eric Green,TE,1997,30,BAL,NFL,TE,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+GreeEr00,Eric Green,TE,1998,31,BAL,NFL,TE,12,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+GreeEr00,Eric Green,TE,1999,32,NYJ,NFL,TE,10,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.2,

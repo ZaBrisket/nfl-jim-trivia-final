@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+SlayDa01,Darius Slayton,WR,2019,22,NYG,NFL,WR,14,9,84,48,740,32,551,11.5,189,3.9,14.1,5,9.6,2,2.4,4,98.3,0,0,0,0,,0,,0,
+SlayDa01,Darius Slayton,WR,2020,23,NYG,NFL,WR,16,15,96,50,751,40,592,11.8,159,3.2,13.6,1,50.0,6,6.3,2,79.8,2,-1,0,-3,-1.5,2,1.0,0,
+SlayDa01,Darius Slayton,WR,2021,24,NYG,NFL,WR,13,5,58,26,339,14,274,10.5,65,2.5,13.3,1,26.0,6,10.3,3,53.7,1,-13,0,-13,-13.0,0,0.0,0,
+SlayDa01,Darius Slayton,WR,2022,25,NYG,NFL,WR,16,11,71,46,724,30,462,10.0,262,5.7,12.5,2,23.0,7,9.9,2,96.2,0,0,0,0,,0,,0,
+SlayDa01,Darius Slayton,WR,2023,26,NYG,NFL,WR,17,13,79,50,770,29,472,9.4,298,6.0,12.2,5,10.0,3,3.8,2,101.8,0,0,0,0,,0,,0,
+SlayDa01,Darius Slayton,WR,2024,27,NYG,NFL,WR,16,13,71,39,573,30,449,11.5,124,3.2,13.1,4,9.8,4,5.6,2,79.1,2,17,1,12,6.0,5,2.5,0,
+SlayDa01,Darius Slayton,WR,2025,28,NYG,NFL,WR,7,6,30,19,254,8,151,7.9,103,5.4,13.7,0,,2,6.7,0,90.1,0,0,0,0,,0,,0,

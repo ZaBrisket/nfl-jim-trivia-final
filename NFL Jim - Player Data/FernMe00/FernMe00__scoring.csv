@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FernMe00,Mervyn Fernandez,WR,1988,29,RAI,NFL,WR,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+FernMe00,Mervyn Fernandez,WR,1989,30,RAI,NFL,WR,16,13,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.4,
+FernMe00,Mervyn Fernandez,WR,1990,31,RAI,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+FernMe00,Mervyn Fernandez,WR,1991,32,RAI,NFL,WR,16,13,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

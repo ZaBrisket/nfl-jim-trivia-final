@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AghoNe00,Nelson Agholor,WR,2015,22,PHI,WR,17,13,12,669,73%,0,0%,1,0%
+AghoNe00,Nelson Agholor,WR,2016,23,PHI,WR,17,15,14,882,82%,0,0%,20,5%
+AghoNe00,Nelson Agholor,WR,2017,24,PHI,WR,13,16,10,811,72%,0,0%,0,0%
+AghoNe00,Nelson Agholor,WR,2018,25,PHI,WR,13,16,16,982,90%,0,0%,1,0%
+AghoNe00,Nelson Agholor,WR,2019,26,PHI,WR,13,11,10,690,89%,0,0%,3,1%
+AghoNe00,Nelson Agholor,WR,2020,27,LVR,WR,15,16,13,731,68%,0,0%,0,0%
+AghoNe00,Nelson Agholor,WR,2021,28,NWE,WR,15,15,13,707,73%,0,0%,0,0%
+AghoNe00,Nelson Agholor,WR,2022,29,NWE,WR,15,16,7,476,49%,0,0%,0,0%
+AghoNe00,Nelson Agholor,WR,2023,30,BAL,WR,15,17,3,582,52%,0,0%,5,1%
+AghoNe00,Nelson Agholor,WR,2024,31,BAL,WR,15,14,7,420,46%,0,0%,0,0%

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ToneAn00,Anthony Toney,RB,1986,24,PHI,NFL,FB,12,5,69,285,1,17,44.9,43,4.1,23.8,5.8,14,13,177,13.6,0,9,64.3,47,1.1,14.8,92.9,12.6,82,5.6,462,1,0,3,
+ToneAn00,Anthony Toney,RB,1987,25,PHI,NFL,FB,11,11,127,473,5,32,41.7,36,3.7,43.0,11.5,59,39,341,8.7,1,16,44.1,33,3.5,31.0,66.1,5.8,166,4.9,814,6,5,6,
+ToneAn00,Anthony Toney,RB,1988,26,PHI,NFL,FB,15,13,139,502,4,25,46.8,20,3.6,33.5,9.3,46,34,256,7.5,1,10,50.0,24,2.3,17.1,73.9,5.6,173,4.4,758,5,2,6,
+ToneAn00,Anthony Toney,RB,1989,27,PHI,NFL,FB,14,14,172,582,3,31,37.8,44,3.4,41.6,12.3,24,19,124,6.5,0,7,37.5,15,1.4,8.9,79.2,5.2,191,3.7,706,3,4,5,
+ToneAn00,Anthony Toney,RB,1990,28,PHI,NFL,FB,15,11,132,452,1,22,44.7,20,3.4,30.1,8.8,20,17,133,7.8,3,8,50.0,32,1.1,8.9,85.0,6.7,149,3.9,585,4,3,5,

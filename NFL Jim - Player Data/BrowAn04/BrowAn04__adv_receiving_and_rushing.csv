@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+BrowAn04,Antonio Brown,WR,2018,30,PIT,NFL,WR,15,15,168,104,1297,63,812,7.8,485,4.7,11.3,5,20.8,3,1.8,11,88.3,0,0,0,0,,0,,0,PB
+BrowAn04,Antonio Brown,WR,2019,31,NWE,NFL,WR,1,0,8,4,56,3,49,12.3,7,1.8,11.5,1,4.0,0,0.0,0,112.5,1,5,1,5,5.0,0,0.0,0,
+BrowAn04,Antonio Brown,WR,2020,32,TAM,NFL,WR,8,4,62,45,483,27,232,5.2,251,5.6,8.9,3,15.0,0,0.0,1,109.8,2,-2,0,-2,-1.0,0,0.0,0,
+BrowAn04,Antonio Brown,WR,2021,33,TAM,NFL,WR,7,3,62,42,545,29,355,8.5,190,4.5,11.8,2,21.0,2,3.2,1,109.9,1,6,0,5,5.0,1,1.0,0,

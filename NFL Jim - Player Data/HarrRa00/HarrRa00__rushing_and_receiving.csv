@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HarrRa00,Raymont Harris,RB,1994,24,CHI,NFL,FB,16,11,123,464,1,25,56.9,13,3.8,29.0,7.7,56,39,236,6.1,0,11,41.1,18,2.4,14.8,69.6,4.2,162,4.3,700,1,1,6,
+HarrRa00,Raymont Harris,RB,1995,25,CHI,NFL,RB,1,1,0,0,0,0,,,,0.0,0.0,1,1,4,4.0,0,0,0.0,4,1.0,4.0,100.0,4.0,1,4.0,4,0,0,0,
+HarrRa00,Raymont Harris,RB,1996,26,CHI,NFL,RB,12,10,194,748,4,40,42.3,23,3.9,62.3,16.2,44,32,296,9.3,1,14,43.2,47,2.7,24.7,72.7,6.7,226,4.6,1044,5,3,7,
+HarrRa00,Raymont Harris,RB,1997,27,CHI,NFL,RB,13,13,275,1033,10,52,42.9,68,3.8,79.5,21.2,42,28,115,4.1,0,7,28.6,16,2.2,8.8,66.7,2.7,303,3.8,1148,10,1,6,
+HarrRa00,Raymont Harris,RB,1998,28,GNB,NFL,RB,8,3,79,228,1,9,35.4,14,2.9,28.5,9.9,11,10,68,6.8,0,3,72.7,12,1.3,8.5,90.9,6.2,89,3.3,296,1,3,3,
+HarrRa00,Raymont Harris,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HarrRa00,Raymont Harris,RB,2000,30,2TM,NFL,RB,4,0,13,36,0,1,46.2,7,2.8,9.0,3.3,4,4,20,5.0,0,1,25.0,16,1.0,5.0,100.0,5.0,17,3.3,56,0,0,0,
+HarrRa00,Raymont Harris,RB,2000,30,DEN,NFL,RB,3,0,10,22,0,0,40.0,6,2.2,7.3,3.3,2,2,19,9.5,0,1,50.0,16,0.7,6.3,100.0,9.5,12,3.4,41,0,0,0,
+HarrRa00,Raymont Harris,RB,2000,30,NWE,NFL,RB,1,0,3,14,0,1,66.7,7,4.7,14.0,3.0,2,2,1,0.5,0,0,0.0,2,2.0,1.0,100.0,0.5,5,3.0,15,0,0,0,

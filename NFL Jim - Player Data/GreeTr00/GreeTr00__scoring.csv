@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GreeTr00,Trent Green,QB,1998,28,WAS,NFL,QB,15,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+GreeTr00,Trent Green,QB,1999,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,
+GreeTr00,Trent Green,QB,2000,30,STL,NFL,QB,8,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,AP CPoY-12
+GreeTr00,Trent Green,QB,2001,31,KAN,NFL,QB,16,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.1,
+GreeTr00,Trent Green,QB,2002,32,KAN,NFL,QB,16,16,1,0,0,0,0,0,0,1,1,0,0,0,0,0,8,0.5,
+GreeTr00,Trent Green,QB,2003,33,KAN,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,PB

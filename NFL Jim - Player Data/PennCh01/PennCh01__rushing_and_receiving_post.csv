@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PennCh01,Chad Pennington,QB,2002,26,NYJ,NFL,QB,2,2,3,6,0,1,33.3,3,2.0,3.0,1.5,0,0,0,0,0,0.0,0.0,3,2.0,6,0,2,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2004,28,NYJ,NFL,QB,2,2,5,13,0,1,40.0,6,2.6,6.5,2.5,0,0,0,0,0,0.0,0.0,5,2.6,13,0,0,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2006,30,NYJ,NFL,QB,1,1,2,1,0,0,0.0,7,0.5,1.0,2.0,0,0,0,0,0,0.0,0.0,2,0.5,1,0,1,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2008,32,MIA,NFL,QB,1,1,1,0,0,0,0.0,,0.0,0.0,1.0,0,0,0,0,0,0.0,0.0,1,0.0,0,0,1,

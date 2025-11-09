@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+NortDe00,Dennis Northcutt,WR,2000,23,CLE,NFL,WR,15,8,27,289,0,30,10.7,0,0,0,0,,744,
+NortDe00,Dennis Northcutt,WR,2001,24,CLE,NFL,WR,11,7,15,86,0,32,5.7,1,26,0,26,26.0,349,
+NortDe00,Dennis Northcutt,WR,2002,25,CLE,NFL,WR,13,0,25,367,2,87,14.7,0,0,0,0,,1072,
+NortDe00,Dennis Northcutt,WR,2003,26,CLE,NFL,WR,15,6,36,295,0,38,8.2,0,0,0,0,,1107,
+NortDe00,Dennis Northcutt,WR,2004,27,CLE,NFL,WR,16,11,36,432,0,44,12.0,0,0,0,0,,1257,
+NortDe00,Dennis Northcutt,WR,2005,28,CLE,NFL,WR,16,7,35,368,1,62,10.5,0,0,0,0,,842,
+NortDe00,Dennis Northcutt,WR,2006,29,CLE,NFL,WR,13,6,28,312,0,81,11.1,0,0,0,0,,572,
+NortDe00,Dennis Northcutt,WR,2007,30,JAX,NFL,WR,15,11,26,240,0,37,9.2,0,0,0,0,,868,
+NortDe00,Dennis Northcutt,WR,2008,31,JAX,NFL,WR,14,3,5,14,0,9,2.8,0,0,0,0,,568,
+NortDe00,Dennis Northcutt,WR,2009,32,DET,NFL,WR,16,2,22,189,0,43,8.6,3,66,0,34,22.0,612,

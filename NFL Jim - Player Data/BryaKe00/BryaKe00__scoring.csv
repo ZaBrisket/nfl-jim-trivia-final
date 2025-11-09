@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BryaKe00,Kelvin Bryant,RB,1986,26,WAS,NFL,RB,10,0,4,3,0,0,0,0,0,7,0,0,0,0,0,42,4.2,
+BryaKe00,Kelvin Bryant,RB,1987,27,WAS,NFL,RB,11,1,1,5,0,0,0,0,0,6,0,0,0,0,0,36,3.3,
+BryaKe00,Kelvin Bryant,RB,1988,28,WAS,NFL,RB,10,4,1,5,0,0,0,0,0,6,0,0,0,0,0,36,3.6,
+BryaKe00,Kelvin Bryant,RB,,,,,,,,,,,,,,,,,,,,,,,
+BryaKe00,Kelvin Bryant,RB,1990,30,WAS,NFL,RB,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

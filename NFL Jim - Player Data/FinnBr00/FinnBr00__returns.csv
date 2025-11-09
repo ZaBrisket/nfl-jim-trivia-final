@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+FinnBr00,Brian Finneran,WR,2000,24,ATL,NFL,WR,12,0,0,0,0,0,,1,2,0,2,2.0,62,
+FinnBr00,Brian Finneran,WR,,,,,,,,,,,,,,,,,,,
+FinnBr00,Brian Finneran,WR,2002,26,ATL,NFL,WR,16,16,2,0,0,0,0.0,0,0,0,0,,838,
+FinnBr00,Brian Finneran,WR,,,,,,,,,,,,,,,,,,,
+FinnBr00,Brian Finneran,WR,2005,29,ATL,NFL,WR,16,7,2,7,0,5,3.5,0,0,0,0,,618,
+FinnBr00,Brian Finneran,WR,,,,,,,,,,,,,,,,,,,
+FinnBr00,Brian Finneran,WR,2008,32,ATL,NFL,WR,16,0,1,2,0,2,2.0,1,5,0,5,5.0,176,
+FinnBr00,Brian Finneran,WR,2009,33,ATL,NFL,WR,10,2,0,0,0,0,,2,22,0,16,11.0,133,
+FinnBr00,Brian Finneran,WR,2010,34,ATL,NFL,WR,16,1,0,0,0,0,,1,18,0,18,18.0,184,

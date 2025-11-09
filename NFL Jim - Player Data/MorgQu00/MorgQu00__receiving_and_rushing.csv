@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MorgQu00,Quincy Morgan,WR,2001,24,CLE,NFL,WR,16,9,72,30,432,14.4,2,16,29.2,78,1.9,27.0,41.7,6.0,2,27,0,1,50.0,23,13.5,1.7,0.1,32,14.3,459,2,3,4,
+MorgQu00,Quincy Morgan,WR,2002,25,CLE,NFL,WR,16,16,97,56,964,17.2,7,34,50.5,78,3.5,60.3,57.7,9.9,3,7,0,0,0.0,11,2.3,0.4,0.2,59,16.5,971,7,2,8,
+MorgQu00,Quincy Morgan,WR,2003,26,CLE,NFL,WR,16,15,79,38,516,13.6,3,22,36.7,71,2.4,32.3,48.1,6.5,3,-4,0,0,33.3,2,-1.3,-0.3,0.2,41,12.5,512,3,0,5,
+MorgQu00,Quincy Morgan,WR,2004,27,2TM,NFL,WR,15,12,68,31,404,13.0,3,19,39.7,53,2.1,26.9,45.6,5.9,2,23,0,1,50.0,24,11.5,1.5,0.1,33,12.9,427,3,1,3,
+MorgQu00,Quincy Morgan,WR,2004,27,CLE,NFL,WR,6,5,21,9,144,16.0,3,7,38.1,46,1.5,24.0,42.9,6.9,0,0,0,0,,,,0.0,0.0,9,16.0,144,3,1,1,
+MorgQu00,Quincy Morgan,WR,2004,27,DAL,NFL,WR,9,7,47,22,260,11.8,0,12,40.4,53,2.4,28.9,46.8,5.5,2,23,0,1,50.0,24,11.5,2.6,0.2,24,11.8,283,0,0,2,
+MorgQu00,Quincy Morgan,WR,2005,28,PIT,NFL,WR,16,0,18,9,150,16.7,2,7,50.0,31,0.6,9.4,50.0,8.3,0,0,0,0,,,,0.0,0.0,9,16.7,150,2,1,2,
+MorgQu00,Quincy Morgan,WR,2006,29,DEN,NFL,WR,7,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

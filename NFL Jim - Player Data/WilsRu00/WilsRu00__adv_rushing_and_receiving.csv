@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+WilsRu00,Russell Wilson,QB,2018,30,SEA,NFL,QB,16,16,67,376,23,305,4.6,71,1.1,3,22.3,1,1,-11,0,-10,-10.0,-1,-1.0,-10.0,0,0,0.0,0,79.2,PB
+WilsRu00,Russell Wilson,QB,2019,31,SEA,NFL,QB,16,16,75,342,17,290,3.9,52,0.7,1,75.0,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP-2,AP OPoY-4"
+WilsRu00,Russell Wilson,QB,2020,32,SEA,NFL,QB,16,16,83,513,25,489,5.9,24,0.3,0,,0,0,0,0,0,,0,,,0,0,,0,,PB
+WilsRu00,Russell Wilson,QB,2021,33,SEA,NFL,QB,14,14,43,183,17,135,3.1,48,1.1,1,43.0,0,0,0,0,0,,0,,,0,0,,0,,PB
+WilsRu00,Russell Wilson,QB,2022,34,DEN,NFL,QB,15,15,55,277,21,256,4.7,21,0.4,0,,1,1,1,0,-1,-1.0,2,2.0,-1.0,0,0,0.0,0,79.2,
+WilsRu00,Russell Wilson,QB,2023,35,DEN,NFL,QB,15,15,80,341,38,293,3.7,48,0.6,1,80.0,0,0,0,0,0,,0,,,0,0,,0,,
+WilsRu00,Russell Wilson,QB,2024,36,PIT,NFL,QB,11,11,43,155,16,142,3.3,13,0.3,0,,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP CPoY-14"
+WilsRu00,Russell Wilson,QB,2025,37,NYG,NFL,QB,5,3,16,94,5,82,5.1,12,0.8,0,,0,0,0,0,0,,0,,,0,0,,0,,

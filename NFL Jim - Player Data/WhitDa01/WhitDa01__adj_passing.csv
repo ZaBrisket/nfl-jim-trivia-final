@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WhitDa01,Danny White,QB,1980,28,DAL,NFL,QB,16,16,113,112,106,107,116,129,83,104,112,
+WhitDa01,Danny White,QB,1981,29,DAL,NFL,QB,16,15,119,118,124,122,104,117,114,100,121,
+WhitDa01,Danny White,QB,1982,30,DAL,NFL,QB,9,9,127,114,120,112,123,126,93,90,122,"PB,AP-2,AP MVP-5,AP OPoY-4"
+WhitDa01,Danny White,QB,1983,31,DAL,NFL,QB,16,16,107,110,107,109,119,113,99,110,112,
+WhitDa01,Danny White,QB,1984,32,DAL,NFL,QB,14,6,93,92,94,93,93,105,93,98,96,
+WhitDa01,Danny White,QB,1985,33,DAL,NFL,QB,14,14,99,103,103,105,113,106,104,111,108,
+WhitDa01,Danny White,QB,1986,34,DAL,NFL,QB,7,6,113,113,122,122,126,141,111,110,131,
+WhitDa01,Danny White,QB,1987,35,DAL,NFL,QB,11,9,106,93,97,90,115,91,89,78,99,

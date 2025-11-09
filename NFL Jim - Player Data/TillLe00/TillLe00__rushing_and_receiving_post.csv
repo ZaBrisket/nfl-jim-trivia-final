@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TillLe00,Lewis Tillman,RB,1989,23,NYG,NFL,RB,1,0,7,25,0,2,57.1,12,3.6,25.0,7.0,,0,0,,0,0,,,0.0,0.0,,,7,3.6,25,0,0,
+TillLe00,Lewis Tillman,RB,1990,24,NYG,NFL,RB,3,0,9,31,0,3,88.9,6,3.4,10.3,3.0,,0,0,,0,0,,,0.0,0.0,,,9,3.4,31,0,0,
+TillLe00,Lewis Tillman,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TillLe00,Lewis Tillman,RB,1993,27,NYG,NFL,RB,2,0,6,7,0,1,16.7,3,1.2,3.5,3.0,1,1,14,14.0,0,1,100.0,14,0.5,7.0,100.0,14.0,7,3.0,21,0,0,
+TillLe00,Lewis Tillman,RB,1994,28,CHI,NFL,RB,2,1,17,24,2,2,23.5,8,1.4,12.0,8.5,5,2,11,5.5,0,0,40.0,7,1.0,5.5,40.0,2.2,19,1.8,35,2,1,

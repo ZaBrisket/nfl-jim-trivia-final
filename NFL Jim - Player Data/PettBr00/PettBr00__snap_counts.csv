@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PettBr00,Brandon Pettigrew,TE,2012,27,DET,TE,87,14,11,769,74%,0,0%,61,14%
+PettBr00,Brandon Pettigrew,TE,2013,28,DET,TE,87,14,14,903,91%,0,0%,70,17%
+PettBr00,Brandon Pettigrew,TE,2014,29,DET,TE,87,14,9,587,61%,0,0%,62,16%
+PettBr00,Brandon Pettigrew,TE,2015,30,DET,TE,87,8,8,285,52%,0,0%,8,3%

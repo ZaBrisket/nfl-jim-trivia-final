@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CulpDa00,Daunte Culpepper,QB,2000,23,MIN,NFL,QB,2,2,6,61,0,2,83.3,30,10.2,30.5,3.0,0,0,0,0,0,0.0,0.0,6,10.2,61,0,2,
+CulpDa00,Daunte Culpepper,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CulpDa00,Daunte Culpepper,QB,2004,27,MIN,NFL,QB,2,2,12,72,1,5,58.3,27,6.0,36.0,6.0,0,0,0,0,0,0.0,0.0,12,6.0,72,1,1,

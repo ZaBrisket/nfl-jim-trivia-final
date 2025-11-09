@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AllgTy00,Tyler Allgeier,RB,2022,22,ATL,RB,25,16,7,497,51%,0,0%,30,7%
+AllgTy00,Tyler Allgeier,RB,2023,23,ATL,RB,25,17,3,360,32%,0,0%,31,7%
+AllgTy00,Tyler Allgeier,RB,2024,24,ATL,RB,25,17,0,287,25%,0,0%,204,46%
+AllgTy00,Tyler Allgeier,RB,2025,25,ATL,RB,25,8,1,142,28%,0,0%,72,36%

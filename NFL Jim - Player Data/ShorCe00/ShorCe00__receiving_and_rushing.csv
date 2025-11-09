@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ShorCe00,Cecil Shorts,WR,2011,24,JAX,NFL,WR,10,0,12,2,30,15.0,1,2,16.7,25,0.2,3.0,16.7,2.5,0,0,0,0,,,,0.0,0.0,2,15.0,30,1,0,0,
+ShorCe00,Cecil Shorts,WR,2012,25,JAX,NFL,WR,14,9,105,55,979,17.8,7,37,44.8,80,3.9,69.9,52.4,9.3,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,56,17.4,975,7,1,7,
+ShorCe00,Cecil Shorts,WR,2013,26,JAX,NFL,WR,13,13,123,66,777,11.8,3,41,43.1,59,5.1,59.8,53.7,6.3,0,0,0,0,,,,0.0,0.0,66,11.8,777,3,0,5,
+ShorCe00,Cecil Shorts,WR,2014,27,JAX,NFL,WR,13,12,110,53,557,10.5,1,27,40.9,53,4.1,42.8,48.2,5.1,0,0,0,0,,,,0.0,0.0,53,10.5,557,1,1,3,
+ShorCe00,Cecil Shorts,WR,2015,28,HOU,NFL,WR,11,4,75,42,484,11.5,2,27,42.7,42,3.8,44.0,56.0,6.5,10,47,0,3,60.0,12,4.7,4.3,0.9,52,10.2,531,2,2,4,
+ShorCe00,Cecil Shorts,WR,2016,29,TAM,NFL,WR,9,5,27,11,152,13.8,0,8,37.0,22,1.2,16.9,40.7,5.6,0,0,0,0,,,,0.0,0.0,11,13.8,152,0,0,1,

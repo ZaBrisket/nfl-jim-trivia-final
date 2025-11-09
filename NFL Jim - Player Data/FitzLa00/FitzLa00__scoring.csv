@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FitzLa00,Larry Fitzgerald,WR,2004,21,ARI,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+FitzLa00,Larry Fitzgerald,WR,2005,22,ARI,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,PB
+FitzLa00,Larry Fitzgerald,WR,2006,23,ARI,NFL,WR,13,13,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.8,
+FitzLa00,Larry Fitzgerald,WR,2007,24,ARI,NFL,WR,15,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,4.0,PB
+FitzLa00,Larry Fitzgerald,WR,2008,25,ARI,NFL,WR,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,"PB,AP-1"
+FitzLa00,Larry Fitzgerald,WR,2009,26,ARI,NFL,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,"PB,AP-2"
+FitzLa00,Larry Fitzgerald,WR,2010,27,ARI,NFL,WR,16,15,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,PB
+FitzLa00,Larry Fitzgerald,WR,2011,28,ARI,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,"PB,AP-2"
+FitzLa00,Larry Fitzgerald,WR,2012,29,ARI,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,PB
+FitzLa00,Larry Fitzgerald,WR,2013,30,ARI,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,PB
+FitzLa00,Larry Fitzgerald,WR,2014,31,ARI,NFL,WR,14,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+FitzLa00,Larry Fitzgerald,WR,2015,32,ARI,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB
+FitzLa00,Larry Fitzgerald,WR,2016,33,ARI,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,PB
+FitzLa00,Larry Fitzgerald,WR,2017,34,ARI,NFL,WR,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,PB
+FitzLa00,Larry Fitzgerald,WR,2018,35,ARI,NFL,WR,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,
+FitzLa00,Larry Fitzgerald,WR,2019,36,ARI,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+FitzLa00,Larry Fitzgerald,WR,2020,37,ARI,NFL,WR,13,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

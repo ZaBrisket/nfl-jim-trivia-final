@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HillPe00,Peyton Hillis,RB,2012,26,KAN,RB,40,13,2,210,25%,0,0%,7,2%
+HillPe00,Peyton Hillis,RB,2013,27,NYG,RB,44,7,1,202,45%,0,0%,0,0%
+HillPe00,Peyton Hillis,RB,2014,28,NYG,RB,33,9,0,109,18%,0,0%,86,33%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WatsSt00,Steve Watson,WR,1981,24,DEN,NFL,WR,16,13,0,13,0,0,0,0,0,13,0,0,0,0,0,78,4.9,"PB,AP-2"
+WatsSt00,Steve Watson,WR,1982,25,DEN,NFL,WR,9,9,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.3,
+WatsSt00,Steve Watson,WR,1983,26,DEN,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+WatsSt00,Steve Watson,WR,1984,27,DEN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+WatsSt00,Steve Watson,WR,1985,28,DEN,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+WatsSt00,Steve Watson,WR,1986,29,DEN,NFL,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+WatsSt00,Steve Watson,WR,1987,30,DEN,NFL,WR,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6,1.2,

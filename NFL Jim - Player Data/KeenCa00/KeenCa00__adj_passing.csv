@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KeenCa00,Case Keenum,QB,2013,25,HOU,NFL,QB,8,8,96,89,97,92,72,91,105,95,89,
+KeenCa00,Case Keenum,QB,2014,26,HOU,NFL,QB,2,2,64,77,73,80,84,78,99,120,78,
+KeenCa00,Case Keenum,QB,2015,27,STL,NFL,QB,6,5,86,96,98,104,92,85,129,123,97,
+KeenCa00,Case Keenum,QB,2016,28,LAR,NFL,QB,10,9,93,93,84,85,93,81,81,95,82,
+KeenCa00,Case Keenum,QB,2017,29,MIN,NFL,QB,15,14,104,109,108,112,115,102,115,114,111,AP CPoY-2
+KeenCa00,Case Keenum,QB,2018,30,DEN,NFL,QB,16,16,89,93,87,90,95,85,97,109,88,
+KeenCa00,Case Keenum,QB,2019,31,WAS,NFL,QB,10,8,93,92,96,95,101,98,104,105,99,
+KeenCa00,Case Keenum,QB,,,,,,,,,,,,,,,,,
+KeenCa00,Case Keenum,QB,2021,33,CLE,NFL,QB,7,2,85,87,95,95,101,96,117,98,100,
+KeenCa00,Case Keenum,QB,,,,,,,,,,,,,,,,,
+KeenCa00,Case Keenum,QB,2023,35,HOU,NFL,QB,2,2,66,58,44,42,99,71,24,76,51,

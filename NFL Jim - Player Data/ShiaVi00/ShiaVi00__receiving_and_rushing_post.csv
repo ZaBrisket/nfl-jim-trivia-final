@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ShiaVi00,Visanthe Shiancoe,TE,2005,25,NYG,NFL,TE,1,0,1,1,4,4.0,0,0,0.0,4,1.0,4.0,100.0,4.0,0,0,0,0,0.0,0.0,1,4.0,4,0,0,
+ShiaVi00,Visanthe Shiancoe,TE,2006,26,NYG,NFL,TE,1,0,1,1,4,4.0,0,0,0.0,4,1.0,4.0,100.0,4.0,0,0,0,0,0.0,0.0,1,4.0,4,0,0,
+ShiaVi00,Visanthe Shiancoe,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ShiaVi00,Visanthe Shiancoe,TE,2008,28,MIN,NFL,TE,1,1,3,1,7,7.0,0,0,0.0,7,1.0,7.0,33.3,2.3,0,0,0,0,0.0,0.0,1,7.0,7,0,0,
+ShiaVi00,Visanthe Shiancoe,TE,2009,29,MIN,NFL,TE,2,2,7,5,94,18.8,1,5,71.4,26,2.5,47.0,71.4,13.4,0,0,0,0,0.0,0.0,5,18.8,94,1,0,

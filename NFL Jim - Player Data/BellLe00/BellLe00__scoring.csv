@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BellLe00,Le'Veon Bell,RB,2013,21,PIT,NFL,RB,13,13,8,0,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.7,
+BellLe00,Le'Veon Bell,RB,2014,22,PIT,NFL,RB,16,16,8,3,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,"PB,AP-1,AP OPoY-4"
+BellLe00,Le'Veon Bell,RB,2015,23,PIT,NFL,RB,6,6,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,3.0,
+BellLe00,Le'Veon Bell,RB,2016,24,PIT,NFL,RB,12,12,7,2,0,0,0,0,0,9,1,,0,0,0,0,0,56,4.7,"PB,AP-2,AP OPoY-6,AP CPoY-4"
+BellLe00,Le'Veon Bell,RB,2017,25,PIT,NFL,RB,15,15,9,2,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.4,"PB,AP-1"
+BellLe00,Le'Veon Bell,RB,2018,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,,,
+BellLe00,Le'Veon Bell,RB,2019,27,NYJ,NFL,RB,15,15,3,1,0,0,0,0,0,4,1,,0,0,0,0,0,26,1.7,
+BellLe00,Le'Veon Bell,RB,2020,28,2TM,NFL,RB,11,4,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.1,
+BellLe00,Le'Veon Bell,RB,2020,28,KAN,NFL,RB,9,2,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.3,
+BellLe00,Le'Veon Bell,RB,2021,29,2TM,NFL,RB,8,0,2,1,0,0,0,0,0,3,1,0,0,0,0,0,0,20,2.5,
+BellLe00,Le'Veon Bell,RB,2021,29,BAL,NFL,RB,5,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,2.4,
+BellLe00,Le'Veon Bell,RB,2021,29,TAM,NFL,RB,3,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,8,2.7,

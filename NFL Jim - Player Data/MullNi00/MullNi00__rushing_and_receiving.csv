@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MullNi00,Nick Mullens,QB,2018,23,SFO,NFL,QB,8,8,18,-16,0,1,5.6,2,-0.9,-2.0,2.3,0,0,0,0,0,0.0,0.0,18,-0.9,-16,0,2,
+MullNi00,Nick Mullens,QB,2019,24,SFO,NFL,QB,1,0,3,-3,0,0,0.0,-1,-1.0,-3.0,3.0,0,0,0,0,0,0.0,0.0,3,-1.0,-3,0,0,
+MullNi00,Nick Mullens,QB,2020,25,SFO,NFL,QB,10,8,9,8,0,1,22.2,7,0.9,0.8,0.9,0,0,0,0,0,0.0,0.0,9,0.9,8,0,6,
+MullNi00,Nick Mullens,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MullNi00,Nick Mullens,QB,2022,27,MIN,NFL,QB,4,0,4,8,0,1,50.0,4,2.0,2.0,1.0,0,0,0,0,0,0.0,0.0,4,2.0,8,0,0,
+MullNi00,Nick Mullens,QB,2023,28,MIN,NFL,QB,5,3,10,25,0,4,50.0,6,2.5,5.0,2.0,0,0,0,0,0,0.0,0.0,10,2.5,25,0,2,
+MullNi00,Nick Mullens,QB,2024,29,MIN,NFL,QB,4,0,3,-2,0,0,0.0,,-0.7,-0.5,0.8,0,0,0,0,0,0.0,0.0,3,-0.7,-2,0,0,

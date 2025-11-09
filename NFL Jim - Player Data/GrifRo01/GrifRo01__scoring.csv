@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GrifRo01,Robert Griffin III,QB,2012,22,WAS,NFL,QB,15,15,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,"PB,AP ORoY-1"
+GrifRo01,Robert Griffin III,QB,2013,23,WAS,NFL,QB,13,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.2,
+GrifRo01,Robert Griffin III,QB,2014,24,WAS,NFL,QB,9,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,
+GrifRo01,Robert Griffin III,QB,,,,,,,,,,,,,,,,,,,,,,,,
+GrifRo01,Robert Griffin III,QB,2016,26,CLE,NFL,QB,5,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.4,

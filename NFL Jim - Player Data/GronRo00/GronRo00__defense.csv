@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+GronRo00,Rob Gronkowski,TE,2010,21,NWE,NFL,TE,16,11,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2012,23,NWE,NFL,TE,11,11,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,PB
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2015,26,NWE,NFL,TE,15,15,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-1"
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2017,28,NWE,NFL,TE,14,14,0,0,0,0,1,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP CPoY-3"
+GronRo00,Rob Gronkowski,TE,2018,29,NWE,NFL,TE,13,11,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+GronRo00,Rob Gronkowski,TE,2019,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2020,31,TAM,NFL,TE,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

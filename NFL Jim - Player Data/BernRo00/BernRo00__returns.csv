@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BernRo00,Rod Bernstine,RB,1987,22,SDG,NFL,TE,10,2,0,0,0,0,1,13,0,13,13.0,98,
+BernRo00,Rod Bernstine,RB,,,,,,,,,,,,,,,,,,
+BernRo00,Rod Bernstine,RB,1991,26,SDG,NFL,RB,13,8,0,0,0,0,1,7,0,7,7.0,897,

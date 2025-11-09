@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PeteAd01,Adrian Peterson,RB,2007,22,MIN,NFL,RB,14,9,12,1,0,0,0,0,0,13,0,,0,0,0,0,0,78,5.6,"PB,AP-2,AP ORoY-1"
+PeteAd01,Adrian Peterson,RB,2008,23,MIN,NFL,RB,16,15,10,0,0,0,0,0,0,10,0,,0,0,0,0,0,60,3.8,"PB,AP-1,AP MVP-4,AP OPoY-2"
+PeteAd01,Adrian Peterson,RB,2009,24,MIN,NFL,RB,16,15,18,0,0,0,0,0,0,18,0,,0,0,0,0,0,108,6.8,"PB,AP-1"
+PeteAd01,Adrian Peterson,RB,2010,25,MIN,NFL,RB,15,15,12,1,0,0,0,0,0,13,0,,0,0,0,0,0,78,5.2,"PB,AP-2"
+PeteAd01,Adrian Peterson,RB,2011,26,MIN,NFL,RB,12,12,12,1,0,0,0,0,0,13,0,,0,0,0,0,0,78,6.5,
+PeteAd01,Adrian Peterson,RB,2012,27,MIN,NFL,RB,16,16,12,1,0,0,0,0,0,13,1,,0,0,0,0,0,80,5.0,"PB,AP-1,AP MVP-1,AP OPoY-1,AP CPoY-2"
+PeteAd01,Adrian Peterson,RB,2013,28,MIN,NFL,RB,14,14,10,1,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.7,"PB,AP-2"
+PeteAd01,Adrian Peterson,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+PeteAd01,Adrian Peterson,RB,2015,30,MIN,NFL,RB,16,16,11,0,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,"PB,AP-1,AP OPoY-7,AP CPoY-3"
+PeteAd01,Adrian Peterson,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+PeteAd01,Adrian Peterson,RB,2017,32,2TM,NFL,RB,10,7,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.2,
+PeteAd01,Adrian Peterson,RB,2017,32,ARI,NFL,RB,6,6,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,2.0,
+PeteAd01,Adrian Peterson,RB,2018,33,WAS,NFL,RB,16,16,7,1,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.0,AP CPoY-3
+PeteAd01,Adrian Peterson,RB,2019,34,WAS,NFL,RB,15,15,5,0,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.0,
+PeteAd01,Adrian Peterson,RB,2020,35,DET,NFL,RB,16,10,7,0,0,0,0,0,0,7,0,,0,0,0,0,0,42,2.6,
+PeteAd01,Adrian Peterson,RB,2021,36,2TM,NFL,RB,4,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,3.0,
+PeteAd01,Adrian Peterson,RB,2021,36,TEN,NFL,RB,3,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,2.0,
+PeteAd01,Adrian Peterson,RB,2021,36,SEA,NFL,RB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,6.0,

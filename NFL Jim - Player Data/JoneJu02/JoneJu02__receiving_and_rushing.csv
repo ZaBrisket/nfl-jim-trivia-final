@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneJu02,Julio Jones,WR,2011,22,ATL,NFL,WR,13,13,95,54,959,17.8,8,36,43.2,80,4.2,73.8,56.8,10.1,6,56,0,4,83.3,19,9.3,4.3,0.5,60,16.9,1015,8,1,10,
+JoneJu02,Julio Jones,WR,2012,23,ATL,NFL,WR,16,15,128,79,1198,15.2,10,56,54.7,80,4.9,74.9,61.7,9.4,6,30,0,3,50.0,18,5.0,1.9,0.4,85,14.4,1228,10,0,13,PB
+JoneJu02,Julio Jones,WR,2013,24,ATL,NFL,WR,5,5,59,41,580,14.1,2,25,57.6,81,8.2,116.0,69.5,9.8,1,7,0,1,100.0,7,7.0,1.4,0.2,42,14.0,587,2,2,5,
+JoneJu02,Julio Jones,WR,2014,25,ATL,NFL,WR,15,15,163,104,1593,15.3,6,76,55.8,79,6.9,106.2,63.8,9.8,1,1,0,1,0.0,1,1.0,0.1,0.1,105,15.2,1594,6,2,14,PB
+JoneJu02,Julio Jones,WR,2015,26,ATL,NFL,WR,16,16,203,136,1871,13.8,8,93,57.6,70,8.5,116.9,67.0,9.2,0,0,0,0,,,,0.0,0.0,136,13.8,1871,8,3,16,"PB,AP-1,AP OPoY-6"
+JoneJu02,Julio Jones,WR,2016,27,ATL,NFL,WR,14,14,129,83,1409,17.0,6,64,58.9,75,5.9,100.6,64.3,10.9,0,0,0,0,,,,0.0,0.0,83,17.0,1409,6,0,16,"PB,AP-1"
+JoneJu02,Julio Jones,WR,2017,28,ATL,NFL,WR,16,16,148,88,1444,16.4,3,67,54.7,53,5.5,90.3,59.5,9.8,1,15,0,1,100.0,15,15.0,0.9,0.1,89,16.4,1459,3,0,14,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2018,29,ATL,NFL,WR,16,16,170,113,1677,14.8,8,80,59.4,58,7.1,104.8,66.5,9.9,2,12,0,1,50.0,11,6.0,0.8,0.1,115,14.7,1689,8,2,14,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2019,30,ATL,NFL,WR,15,15,157,99,1394,14.1,6,77,55.4,54,6.6,92.9,63.1,8.9,2,-3,0,0,0.0,1,-1.5,-0.2,0.1,101,13.8,1391,6,1,11,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2020,31,ATL,NFL,WR,9,9,68,51,771,15.1,3,36,64.7,44,5.7,85.7,75.0,11.3,0,0,0,0,,,,0.0,0.0,51,15.1,771,3,0,6,
+JoneJu02,Julio Jones,WR,2021,32,TEN,NFL,WR,10,10,48,31,434,14.0,1,19,52.1,51,3.1,43.4,64.6,9.0,0,0,0,0,,,,0.0,0.0,31,14.0,434,1,0,4,
+JoneJu02,Julio Jones,WR,2022,33,TAM,NFL,WR,10,5,43,24,299,12.5,2,13,41.9,48,2.4,29.9,55.8,7.0,5,45,0,4,80.0,15,9.0,4.5,0.5,29,11.9,344,2,0,2,
+JoneJu02,Julio Jones,WR,2023,34,PHI,NFL,WR,11,4,19,11,74,6.7,3,4,31.6,22,1.0,6.7,57.9,3.9,0,0,0,0,,,,0.0,0.0,11,6.7,74,3,0,1,

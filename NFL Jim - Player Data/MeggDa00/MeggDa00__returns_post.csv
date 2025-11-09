@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MeggDa00,Dave Meggett,RB,1989,23,NYG,NFL,RB,1,0,1,0,0,0,0.0,1,25,0,25,25.0,84,
+MeggDa00,Dave Meggett,RB,1990,24,NYG,NFL,RB,3,0,8,92,0,20,11.5,4,62,0,18,15.5,289,
+MeggDa00,Dave Meggett,RB,,,,,,,,,,,,,,,,,,,
+MeggDa00,Dave Meggett,RB,1993,27,NYG,NFL,RB,2,0,3,8,0,3,2.7,5,80,0,26,16.0,122,
+MeggDa00,Dave Meggett,RB,,,,,,,,,,,,,,,,,,,
+MeggDa00,Dave Meggett,RB,1996,30,NWE,NFL,RB,3,0,14,131,0,20,9.4,8,169,0,26,21.1,350,
+MeggDa00,Dave Meggett,RB,1997,31,NWE,NFL,RB,2,0,4,34,0,10,8.5,0,0,0,0,,47,
+MeggDa00,Dave Meggett,RB,1998,32,NYJ,NFL,RB,2,0,4,47,0,33,11.8,7,91,0,21,13.0,154,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FloyMa00,Malcom Floyd,WR,2012,31,SDG,WR,80,14,14,846,93%,0,0%,8,2%
+FloyMa00,Malcom Floyd,WR,2013,32,SDG,WR,80,2,2,88,65%,0,0%,0,0%
+FloyMa00,Malcom Floyd,WR,2014,33,SDG,WR,80,16,16,942,88%,0,0%,4,1%
+FloyMa00,Malcom Floyd,WR,2015,34,SDG,WR,80,15,13,832,75%,1,0%,2,1%

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BushMi00,Michael Bush,RB,2008,24,OAK,NFL,RB,15,0,95,421,3,15,36.8,67,4.4,28.1,6.3,30,19,162,8.5,0,6,46.7,25,1.3,10.8,63.3,5.4,114,5.1,583,3,1,4,
+BushMi00,Michael Bush,RB,2009,25,OAK,NFL,RB,16,7,123,589,3,22,45.5,60,4.8,36.8,7.7,19,17,105,6.2,0,3,57.9,17,1.1,6.6,89.5,5.5,140,5.0,694,3,2,4,
+BushMi00,Michael Bush,RB,2010,26,OAK,NFL,RB,14,3,158,655,8,32,44.3,30,4.1,46.8,11.3,24,18,194,10.8,0,11,58.3,55,1.3,13.9,75.0,8.1,176,4.8,849,8,0,6,
+BushMi00,Michael Bush,RB,2011,27,OAK,NFL,RB,16,9,256,977,7,56,43.4,44,3.8,61.1,16.0,47,37,418,11.3,1,14,55.3,55,2.3,26.1,78.7,8.9,293,4.8,1395,8,1,8,
+BushMi00,Michael Bush,RB,2012,28,CHI,NFL,RB,13,1,114,411,5,28,46.5,20,3.6,31.6,8.8,11,9,83,9.2,0,6,54.5,18,0.7,6.4,81.8,7.5,123,4.0,494,5,1,4,
+BushMi00,Michael Bush,RB,2013,29,CHI,NFL,RB,15,0,63,197,3,10,33.3,40,3.1,13.1,4.2,8,4,48,12.0,1,2,50.0,17,0.3,3.2,50.0,6.0,67,3.7,245,4,0,2,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+ColeTe01,Tevin Coleman,RB,2018,25,ATL,NFL,RB,16,14,167,800,36,497,3.0,303,1.8,6,27.8,44,32,276,15,1,0.0,275,8.6,0.5,2,16.0,3,6.8,0,126.7,
+ColeTe01,Tevin Coleman,RB,2019,26,SFO,NFL,RB,14,11,137,544,26,354,2.6,190,1.4,5,27.4,30,21,180,9,-24,-1.1,204,9.7,-1.0,0,,2,6.7,1,82.6,
+ColeTe01,Tevin Coleman,RB,2020,27,SFO,NFL,RB,8,1,28,53,3,6,0.2,47,1.7,3,9.3,5,4,34,2,13,3.3,21,5.3,2.6,1,4.0,0,0.0,0,95.0,
+ColeTe01,Tevin Coleman,RB,2021,28,NYJ,NFL,RB,11,5,84,356,19,166,2.0,190,2.3,6,14.0,16,11,49,2,-34,-3.1,83,7.5,-1.1,0,,2,12.5,0,72.1,
+ColeTe01,Tevin Coleman,RB,2022,29,SFO,NFL,RB,5,0,12,26,2,13,1.1,13,1.1,0,,3,3,44,2,24,8.0,20,6.7,8.0,0,,0,0.0,0,158.3,

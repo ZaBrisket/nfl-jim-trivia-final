@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+BigsTa00,Tank Bigsby,RB,2023,22,JAX,NFL,RB,17,0,50,132,12,67,1.3,65,1.3,7,7.1,4,1,6,0,1,1.0,5,5.0,1.5,0,,2,50.0,2,0.0,
+BigsTa00,Tank Bigsby,RB,2024,23,JAX,NFL,RB,16,1,168,766,39,295,1.8,471,2.8,14,12.0,12,7,54,1,-10,-1.4,64,9.1,-1.1,1,7.0,2,16.7,1,34.7,
+BigsTa00,Tank Bigsby,RB,2025,24,2TM,NFL,RB,8,0,15,127,7,52,3.5,75,5.0,5,3.0,1,1,-1,0,-7,-7.0,6,6.0,-7.0,0,,0,0.0,0,79.2,
+BigsTa00,Tank Bigsby,RB,2025,24,JAX,NFL,RB,1,0,5,12,1,6,1.2,6,1.2,0,,0,0,0,0,0,,0,,,0,,0,,0,,
+BigsTa00,Tank Bigsby,RB,2025,24,PHI,NFL,RB,7,0,10,115,6,46,4.6,69,6.9,5,2.0,1,1,-1,0,-7,-7.0,6,6.0,-7.0,0,,0,0.0,0,79.2,

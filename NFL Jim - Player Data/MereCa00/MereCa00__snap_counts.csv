@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MereCa00,Cameron Meredith,WR,2015,23,CHI,WR,81,11,0,136,18%,0,0%,30,9%
+MereCa00,Cameron Meredith,WR,2016,24,CHI,WR,81,14,10,703,78%,0,0%,3,1%
+MereCa00,Cameron Meredith,WR,2018,26,NOR,WR,81,6,1,126,31%,0,0%,3,2%

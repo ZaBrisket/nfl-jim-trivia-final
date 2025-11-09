@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HoweSa00,Sam Howell,QB,2022,22,WAS,QB,14,1,1,66,100%,0,0%,0,0%
+HoweSa00,Sam Howell,QB,2023,23,WAS,QB,14,17,17,1061,96%,0,0%,0,0%
+HoweSa00,Sam Howell,QB,2024,24,SEA,QB,6,2,0,25,21%,0,0%,0,0%

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CookJa02,Jared Cook,TE,2012,25,TEN,TE,89,13,5,470,57%,0,0%,15,4%
+CookJa02,Jared Cook,TE,2013,26,STL,TE,89,16,13,718,71%,1,0%,3,1%
+CookJa02,Jared Cook,TE,2014,27,STL,TE,89,16,6,684,68%,0,0%,2,0%
+CookJa02,Jared Cook,TE,2015,28,STL,TE,89,16,12,672,70%,0,0%,4,1%
+CookJa02,Jared Cook,TE,2016,29,GNB,TE,89,10,5,328,51%,0,0%,12,4%
+CookJa02,Jared Cook,TE,2017,30,OAK,TE,87,16,16,791,79%,0,0%,10,2%
+CookJa02,Jared Cook,TE,2018*,31,OAK,TE,87,16,14,767,74%,0,0%,1,0%
+CookJa02,Jared Cook,TE,2019*,32,NOR,TE,87,14,7,502,55%,0,0%,0,0%
+CookJa02,Jared Cook,TE,2020,33,NOR,TE,87,15,5,466,46%,0,0%,0,0%
+CookJa02,Jared Cook,TE,2021,34,LAC,TE,87,16,10,644,57%,0,0%,0,0%

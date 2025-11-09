@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SipeBr00,Brian Sipe,QB,1974,25,CLE,NFL,QB,10,5,16,44,4,,,17,2.8,4.4,1.6,,0,0,0,,0.0,0.0,16,2.8,44,4,8,
+SipeBr00,Brian Sipe,QB,1975,26,CLE,NFL,QB,7,2,9,60,0,,,21,6.7,8.6,1.3,,0,0,0,,0.0,0.0,9,6.7,60,0,1,
+SipeBr00,Brian Sipe,QB,1976,27,CLE,NFL,QB,14,12,18,71,0,,,17,3.9,5.1,1.3,,0,0,0,,0.0,0.0,18,3.9,71,0,7,
+SipeBr00,Brian Sipe,QB,1977,28,CLE,NFL,QB,9,9,10,14,0,,,9,1.4,1.6,1.1,,0,0,0,,0.0,0.0,10,1.4,14,0,4,
+SipeBr00,Brian Sipe,QB,1978,29,CLE,NFL,QB,16,16,28,87,3,6,25.0,35,3.1,5.4,1.8,0,0,0,0,0,0.0,0.0,28,3.1,87,3,12,
+SipeBr00,Brian Sipe,QB,1979,30,CLE,NFL,QB,16,16,45,178,2,12,37.8,34,4.0,11.1,2.8,0,0,0,0,0,0.0,0.0,45,4.0,178,2,10,"AP-2,AP MVP-3,AP OPoY-3"
+SipeBr00,Brian Sipe,QB,1980,31,CLE,NFL,QB,16,16,20,55,1,5,35.0,24,2.8,3.4,1.3,0,0,0,0,0,0.0,0.0,20,2.8,55,1,3,"PB,AP-1,AP MVP-1,AP OPoY-2"
+SipeBr00,Brian Sipe,QB,1981,32,CLE,NFL,QB,16,16,38,153,1,10,42.1,22,4.0,9.6,2.4,0,0,0,0,0,0.0,0.0,38,4.0,153,1,10,
+SipeBr00,Brian Sipe,QB,1982,33,CLE,NFL,QB,6,6,13,44,0,3,38.5,12,3.4,7.3,2.2,0,0,0,0,0,0.0,0.0,13,3.4,44,0,1,
+SipeBr00,Brian Sipe,QB,1983,34,CLE,NFL,QB,15,14,26,56,0,4,34.6,9,2.2,3.7,1.7,0,0,0,0,0,0.0,0.0,26,2.2,56,0,6,

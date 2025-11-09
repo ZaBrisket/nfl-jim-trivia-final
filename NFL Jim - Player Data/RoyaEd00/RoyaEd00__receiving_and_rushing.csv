@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RoyaEd00,Eddie Royal,WR,2008,22,DEN,NFL,WR,15,15,129,91,980,10.8,5,43,60.5,93,6.1,65.3,70.5,7.6,11,109,0,4,45.5,71,9.9,7.3,0.7,102,10.7,1089,5,2,9,
+RoyaEd00,Eddie Royal,WR,2009,23,DEN,NFL,WR,14,12,79,37,345,9.3,0,23,39.2,20,2.6,24.6,46.8,4.4,1,1,0,0,0.0,1,1.0,0.1,0.1,38,9.1,346,0,1,5,
+RoyaEd00,Eddie Royal,WR,2010,24,DEN,NFL,WR,16,10,105,59,627,10.6,3,32,41.9,41,3.7,39.2,56.2,6.0,6,61,0,4,66.7,20,10.2,3.8,0.4,65,10.6,688,3,4,5,
+RoyaEd00,Eddie Royal,WR,2011,25,DEN,NFL,WR,12,8,50,19,155,8.2,1,8,24.0,26,1.6,12.9,38.0,3.1,7,48,0,3,71.4,11,6.9,4.0,0.6,26,7.8,203,1,0,2,
+RoyaEd00,Eddie Royal,WR,2012,26,SDG,NFL,WR,10,2,44,23,234,10.2,1,15,38.6,31,2.3,23.4,52.3,5.3,3,22,0,2,66.7,11,7.3,2.2,0.3,26,9.8,256,1,1,2,
+RoyaEd00,Eddie Royal,WR,2013,27,SDG,NFL,WR,15,3,68,47,631,13.4,8,33,58.8,54,3.1,42.1,69.1,9.3,3,21,0,1,66.7,15,7.0,1.4,0.2,50,13.0,652,8,1,6,
+RoyaEd00,Eddie Royal,WR,2014,28,SDG,NFL,WR,16,11,91,62,778,12.5,7,39,52.7,47,3.9,48.6,68.1,8.5,3,14,0,1,33.3,15,4.7,0.9,0.2,65,12.2,792,7,1,6,
+RoyaEd00,Eddie Royal,WR,2015,29,CHI,NFL,WR,9,9,50,37,238,6.4,1,9,36.0,30,4.1,26.4,74.0,4.8,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,38,6.2,237,1,0,2,
+RoyaEd00,Eddie Royal,WR,2016,30,CHI,NFL,WR,9,1,43,33,369,11.2,2,16,46.5,64,3.7,41.0,76.7,8.6,0,0,0,0,,,,0.0,0.0,33,11.2,369,2,2,3,

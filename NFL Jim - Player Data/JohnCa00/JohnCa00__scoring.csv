@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JohnCa00,Calvin Johnson,WR,2007,22,DET,NFL,WR,15,10,1,4,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,
+JohnCa00,Calvin Johnson,WR,2008,23,DET,NFL,WR,16,16,0,12,0,0,0,0,0,12,1,0,0,0,0,0,74,4.6,
+JohnCa00,Calvin Johnson,WR,2009,24,DET,NFL,WR,14,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,
+JohnCa00,Calvin Johnson,WR,2010,25,DET,NFL,WR,15,15,0,12,0,0,0,0,0,12,1,0,0,0,0,0,74,4.9,"PB,AP-2"
+JohnCa00,Calvin Johnson,WR,2011,26,DET,NFL,WR,16,16,0,16,0,0,0,0,0,16,0,0,0,0,0,0,96,6.0,"PB,AP-1"
+JohnCa00,Calvin Johnson,WR,2012,27,DET,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,"PB,AP-1,AP OPoY-3"
+JohnCa00,Calvin Johnson,WR,2013,28,DET,NFL,WR,14,14,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,5.1,"PB,AP-1"
+JohnCa00,Calvin Johnson,WR,2014,29,DET,NFL,WR,13,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.7,PB
+JohnCa00,Calvin Johnson,WR,2015,30,DET,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB

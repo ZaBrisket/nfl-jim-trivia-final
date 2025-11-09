@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WillTy00,Tyrell Williams,WR,2015,23,SDG,WR,16,7,0,30,6%,0,0%,74,37%
+WillTy00,Tyrell Williams,WR,2016,24,SDG,WR,16,16,12,891,84%,0,0%,4,1%
+WillTy00,Tyrell Williams,WR,2017,25,LAC,WR,16,16,15,851,80%,0,0%,11,3%
+WillTy00,Tyrell Williams,WR,2018,26,LAC,WR,16,16,10,761,77%,0,0%,5,1%
+WillTy00,Tyrell Williams,WR,2019,27,OAK,WR,16,14,12,727,82%,0,0%,3,1%
+WillTy00,Tyrell Williams,WR,2021,29,DET,WR,6,1,1,39,42%,0,0%,0,0%

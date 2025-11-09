@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ValdMa00,Marquez Valdes-Scantling,WR,2018,24,GNB,NFL,WR,16,10,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+ValdMa00,Marquez Valdes-Scantling,WR,2019,25,GNB,NFL,WR,16,10,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+ValdMa00,Marquez Valdes-Scantling,WR,2020,26,GNB,NFL,WR,16,12,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+ValdMa00,Marquez Valdes-Scantling,WR,2021,27,GNB,NFL,WR,11,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.6,
+ValdMa00,Marquez Valdes-Scantling,WR,2022,28,KAN,NFL,WR,17,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,0.7,
+ValdMa00,Marquez Valdes-Scantling,WR,2023,29,KAN,NFL,WR,16,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+ValdMa00,Marquez Valdes-Scantling,WR,2024,30,2TM,NFL,WR,14,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.7,
+ValdMa00,Marquez Valdes-Scantling,WR,2024,30,NOR,NFL,WR,8,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,3.0,

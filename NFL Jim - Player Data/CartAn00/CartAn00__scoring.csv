@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CartAn00,Anthony Carter,WR,1985,25,MIN,NFL,WR,16,15,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+CartAn00,Anthony Carter,WR,1986,26,MIN,NFL,WR,12,10,0,7,0,0,0,0,0,7,,0,0,0,0,0,42,3.5,
+CartAn00,Anthony Carter,WR,1987,27,MIN,NFL,WR,12,11,0,7,0,0,0,0,0,7,,0,0,0,0,0,42,3.5,PB
+CartAn00,Anthony Carter,WR,1988,28,MIN,NFL,WR,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,PB
+CartAn00,Anthony Carter,WR,1989,29,MIN,NFL,WR,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,PB
+CartAn00,Anthony Carter,WR,1990,30,MIN,NFL,WR,15,14,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.2,
+CartAn00,Anthony Carter,WR,1991,31,MIN,NFL,WR,15,15,1,5,0,0,0,0,0,6,,0,0,0,0,0,36,2.4,
+CartAn00,Anthony Carter,WR,1992,32,MIN,NFL,WR,16,14,1,2,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+CartAn00,Anthony Carter,WR,1993,33,MIN,NFL,WR,15,14,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,2.0,
+CartAn00,Anthony Carter,WR,1994,34,DET,NFL,WR,4,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,4.5,

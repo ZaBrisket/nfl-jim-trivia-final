@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MorrMa00,Maurice Morris,RB,2002,23,SEA,NFL,RB,11,0,32,153,0,7,46.9,24,4.8,13.9,2.9,3,3,25,8.3,0,1,66.7,12,0.3,2.3,100.0,8.3,35,5.1,178,0,1,2,
+MorrMa00,Maurice Morris,RB,2003,24,SEA,NFL,RB,16,1,38,239,0,10,42.1,43,6.3,14.9,2.4,6,4,32,8.0,1,2,66.7,13,0.3,2.0,66.7,5.3,42,6.5,271,1,2,2,
+MorrMa00,Maurice Morris,RB,2004,25,SEA,NFL,RB,15,0,30,126,0,9,56.7,12,4.2,8.4,2.0,20,9,53,5.9,0,5,30.0,12,0.6,3.5,45.0,2.7,39,4.6,179,0,0,1,
+MorrMa00,Maurice Morris,RB,2005,26,SEA,NFL,RB,16,2,71,288,1,18,42.3,49,4.1,18.0,4.4,6,5,48,9.6,0,3,50.0,20,0.3,3.0,83.3,8.0,76,4.4,336,1,0,3,
+MorrMa00,Maurice Morris,RB,2006,27,SEA,NFL,RB,16,8,161,604,0,34,36.6,29,3.8,37.8,10.1,20,11,46,4.2,0,2,30.0,27,0.7,2.9,55.0,2.3,172,3.8,650,0,1,4,
+MorrMa00,Maurice Morris,RB,2007,28,SEA,NFL,RB,14,6,140,628,4,33,47.1,46,4.5,44.9,10.0,32,23,213,9.3,1,8,43.8,34,1.6,15.2,71.9,6.7,163,5.2,841,5,1,5,
+MorrMa00,Maurice Morris,RB,2008,29,SEA,NFL,RB,13,6,132,574,0,29,43.9,45,4.3,44.2,10.2,27,19,136,7.2,2,5,55.6,13,1.5,10.5,70.4,5.0,151,4.7,710,2,1,4,
+MorrMa00,Maurice Morris,RB,2009,30,DET,NFL,RB,14,3,93,384,2,14,41.9,64,4.1,27.4,6.6,38,26,210,8.1,0,7,50.0,19,1.9,15.0,68.4,5.5,119,5.0,594,2,1,4,
+MorrMa00,Maurice Morris,RB,2010,31,DET,NFL,RB,14,7,90,336,5,17,45.6,26,3.7,24.0,6.4,31,25,170,6.8,0,7,51.6,16,1.8,12.1,80.6,5.5,115,4.4,506,5,1,4,
+MorrMa00,Maurice Morris,RB,2011,32,DET,NFL,RB,16,5,80,316,1,12,46.3,31,4.0,19.8,5.0,35,26,230,8.8,1,9,45.7,16,1.6,14.4,74.3,6.6,106,5.2,546,2,1,4,

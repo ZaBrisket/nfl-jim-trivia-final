@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SuttCo00,Courtland Sutton,WR,2018,23,DEN,WR,14,16,9,819,76%,0,0%,27,6%
+SuttCo00,Courtland Sutton,WR,2019*,24,DEN,WR,14,16,14,933,92%,0,0%,4,1%
+SuttCo00,Courtland Sutton,WR,2020,25,DEN,WR,14,1,1,31,40%,0,0%,0,0%
+SuttCo00,Courtland Sutton,WR,2021,26,DEN,WR,14,17,16,920,85%,0,0%,4,1%
+SuttCo00,Courtland Sutton,WR,2022,27,DEN,WR,14,15,15,882,89%,0,0%,0,0%
+SuttCo00,Courtland Sutton,WR,2023,28,DEN,WR,14,16,14,782,78%,0,0%,1,0%
+SuttCo00,Courtland Sutton,WR,2024,29,DEN,WR,14,17,13,936,85%,0,0%,3,1%
+SuttCo00,Courtland Sutton,WR,2025,30,DEN,WR,14,10,10,586,88%,0,0%,0,0%

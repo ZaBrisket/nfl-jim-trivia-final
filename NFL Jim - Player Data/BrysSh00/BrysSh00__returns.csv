@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrysSh00,Shawn Bryson,RB,2000,24,BUF,NFL,RB,16,7,0,0,0,0,8,122,0,26,15.3,984,
+BrysSh00,Shawn Bryson,RB,2001,25,BUF,NFL,RB,15,3,0,0,0,0,16,299,0,32,18.7,699,
+BrysSh00,Shawn Bryson,RB,2002,26,BUF,NFL,RB,6,0,0,0,0,0,1,18,0,18,18.0,62,
+BrysSh00,Shawn Bryson,RB,,,,,,,,,,,,,,,,,,
+BrysSh00,Shawn Bryson,RB,2004,28,DET,NFL,RB,16,1,0,0,0,0,2,27,0,14,13.5,613,
+BrysSh00,Shawn Bryson,RB,2005,29,DET,NFL,RB,16,2,0,0,0,0,4,55,0,25,13.8,645,

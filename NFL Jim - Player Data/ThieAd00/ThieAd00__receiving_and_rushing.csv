@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThieAd00,Adam Thielen,WR,2014,24,MIN,NFL,WR,16,2,13,8,137,17.1,1,7,53.8,44,0.5,8.6,61.5,10.5,0,0,0,0,,,,0.0,0.0,8,17.1,137,1,0,1,
+ThieAd00,Adam Thielen,WR,2015,25,MIN,NFL,WR,16,2,18,12,144,12.0,0,5,38.9,30,0.8,9.0,66.7,8.0,4,89,0,4,100.0,41,22.3,5.6,0.3,16,14.6,233,0,0,2,
+ThieAd00,Adam Thielen,WR,2016,26,MIN,NFL,WR,16,10,92,69,967,14.0,5,44,60.9,71,4.3,60.4,75.0,10.5,2,15,0,1,100.0,11,7.5,0.9,0.1,71,13.8,982,5,2,8,
+ThieAd00,Adam Thielen,WR,2017,27,MIN,NFL,WR,16,16,142,91,1276,14.0,4,59,52.8,65,5.7,79.8,64.1,9.0,1,11,0,1,100.0,11,11.0,0.7,0.1,92,14.0,1287,4,3,13,"PB,AP-2"
+ThieAd00,Adam Thielen,WR,2018,28,MIN,NFL,WR,16,16,153,113,1373,12.2,9,74,64.1,68,7.1,85.8,73.9,9.0,5,30,0,1,60.0,15,6.0,1.9,0.3,118,11.9,1403,9,1,11,PB
+ThieAd00,Adam Thielen,WR,2019,29,MIN,NFL,WR,10,10,48,30,418,13.9,6,18,52.1,44,3.0,41.8,62.5,8.7,4,6,1,1,25.0,3,1.5,0.6,0.4,34,12.5,424,7,0,5,
+ThieAd00,Adam Thielen,WR,2020,30,MIN,NFL,WR,15,15,108,74,925,12.5,14,52,62.0,51,4.9,61.7,68.5,8.6,3,15,0,0,66.7,8,5.0,1.0,0.2,77,12.2,940,14,0,8,
+ThieAd00,Adam Thielen,WR,2021,31,MIN,NFL,WR,13,13,95,67,726,10.8,10,37,50.5,35,5.2,55.8,70.5,7.6,1,2,0,0,0.0,2,2.0,0.2,0.1,68,10.7,728,10,1,6,
+ThieAd00,Adam Thielen,WR,2022,32,MIN,NFL,WR,17,17,107,70,716,10.2,6,45,49.5,36,4.1,42.1,65.4,6.7,1,4,0,0,100.0,4,4.0,0.2,0.1,71,10.1,720,6,0,6,
+ThieAd00,Adam Thielen,WR,2023,33,CAR,NFL,WR,17,17,137,103,1014,9.8,4,56,58.4,32,6.1,59.6,75.2,7.4,1,6,0,0,100.0,6,6.0,0.4,0.1,104,9.8,1020,4,2,8,
+ThieAd00,Adam Thielen,WR,2024,34,CAR,NFL,WR,10,10,62,48,615,12.8,5,28,58.1,40,4.8,61.5,77.4,9.9,0,0,0,0,,,,0.0,0.0,48,12.8,615,5,0,6,
+ThieAd00,Adam Thielen,WR,2025,35,MIN,NFL,WR,8,4,12,5,47,9.4,0,5,41.7,19,0.6,5.9,41.7,3.9,0,0,0,0,,,,0.0,0.0,5,9.4,47,0,0,,

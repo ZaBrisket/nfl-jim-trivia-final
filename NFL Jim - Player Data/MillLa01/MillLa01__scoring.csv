@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MillLa01,Lamar Miller,RB,2012,21,MIA,NFL,RB,13,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+MillLa01,Lamar Miller,RB,2013,22,MIA,NFL,RB,16,15,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+MillLa01,Lamar Miller,RB,2014,23,MIA,NFL,RB,16,16,8,1,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+MillLa01,Lamar Miller,RB,2015,24,MIA,NFL,RB,16,16,8,2,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+MillLa01,Lamar Miller,RB,2016,25,HOU,NFL,RB,14,14,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,
+MillLa01,Lamar Miller,RB,2017,26,HOU,NFL,RB,16,13,3,3,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+MillLa01,Lamar Miller,RB,2018,27,HOU,NFL,RB,14,14,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,PB

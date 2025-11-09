@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RidlSt00,Stevan Ridley,RB,2011,22,NWE,NFL,RB,16,2,87,441,1,18,49.4,33,5.1,27.6,5.4,5,3,13,4.3,0,0,20.0,8,0.2,0.8,60.0,2.6,90,5.0,454,1,1,4,
+RidlSt00,Stevan Ridley,RB,2012,23,NWE,NFL,RB,16,12,290,1263,12,83,52.8,41,4.4,78.9,18.1,14,6,51,8.5,0,2,28.6,20,0.4,3.2,42.9,3.6,296,4.4,1314,12,4,11,
+RidlSt00,Stevan Ridley,RB,2013,24,NWE,NFL,RB,14,6,178,773,7,40,49.4,29,4.3,55.2,12.7,12,10,62,6.2,0,2,41.7,24,0.7,4.4,83.3,5.2,188,4.4,835,7,4,6,
+RidlSt00,Stevan Ridley,RB,2014,25,NWE,NFL,RB,6,5,94,340,2,17,53.2,43,3.6,56.7,15.7,5,4,20,5.0,0,0,60.0,7,0.7,3.3,80.0,4.0,98,3.7,360,2,0,3,
+RidlSt00,Stevan Ridley,RB,2015,26,NYJ,NFL,RB,8,1,36,90,0,5,27.8,13,2.5,11.3,4.5,5,4,-2,-0.5,0,0,0.0,3,0.5,-0.3,80.0,-0.4,40,2.2,88,0,0,1,
+RidlSt00,Stevan Ridley,RB,2016,27,ATL,NFL,RB,1,0,3,7,0,1,33.3,7,2.3,7.0,3.0,0,0,0,,0,0,,,0.0,0.0,,,3,2.3,7,0,0,0,
+RidlSt00,Stevan Ridley,RB,2017,28,PIT,NFL,RB,2,1,26,108,1,6,38.5,21,4.2,54.0,13.0,0,0,0,,0,0,,,0.0,0.0,,,26,4.2,108,1,0,1,
+RidlSt00,Stevan Ridley,RB,2018,29,PIT,NFL,RB,10,0,29,80,1,3,27.6,12,2.8,8.0,2.9,4,3,18,6.0,0,1,50.0,10,0.3,1.8,75.0,4.5,32,3.1,98,1,2,1,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GaskMy00,Myles Gaskin,RB,2019,22,MIA,NFL,RB,7,0,1,0,0,0,0,0,0,1,0,,0,0,,,0,6,0.9,
+GaskMy00,Myles Gaskin,RB,2020,23,MIA,NFL,RB,10,7,3,2,0,0,0,0,0,5,0,,0,0,0,0,0,30,3.0,
+GaskMy00,Myles Gaskin,RB,2021,24,MIA,NFL,RB,17,10,3,4,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.5,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+KellRo00,Robert Kelley,RB,2016,24,WAS,NFL,RB,15,9,168,704,6,30,46.4,66,4.2,46.9,11.2,18,12,82,6.8,1,6,44.4,22,0.8,5.5,66.7,4.6,180,4.4,786,7,0,5,
+KellRo00,Robert Kelley,RB,2017,25,WAS,NFL,RB,7,7,62,194,3,7,48.4,21,3.1,27.7,8.9,7,4,18,4.5,0,3,42.9,9,0.6,2.6,57.1,2.6,66,3.2,212,3,0,1,
+KellRo00,Robert Kelley,RB,2018,26,WAS,NFL,RB,2,0,4,8,0,1,50.0,6,2.0,4.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,4,2.0,8,0,0,0,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LargSt00,Steve Largent,WR,1976,22,SEA,NFL,WR,14,13,,54,705,13.1,4,,,45,3.9,50.4,,,4,-14,0,,,7,-3.5,-1.0,0.3,58,11.9,691,4,2,7,
+LargSt00,Steve Largent,WR,1977,23,SEA,NFL,WR,14,14,,33,643,19.5,10,,,74,2.4,45.9,,,0,0,0,,,,,0.0,0.0,33,19.5,643,10,0,10,
+LargSt00,Steve Largent,WR,1978,24,SEA,NFL,WR,16,16,123,71,1168,16.5,8,57,52.8,57,4.4,73.0,57.7,9.5,0,0,0,0,,,,0.0,0.0,71,16.5,1168,8,0,14,"PB,AP-2"
+LargSt00,Steve Largent,WR,1979,25,SEA,NFL,WR,15,15,120,66,1237,18.7,9,50,52.5,55,4.4,82.5,55.0,10.3,0,0,0,0,,,,0.0,0.0,66,18.7,1237,9,0,14,"PB,AP-2,AP MVP-6,AP OPoY-7"
+LargSt00,Steve Largent,WR,1980,26,SEA,NFL,WR,16,16,132,66,1064,16.1,6,52,47.0,67,4.1,66.5,50.0,8.1,1,2,0,0,0.0,2,2.0,0.1,0.1,67,15.9,1066,6,1,9,
+LargSt00,Steve Largent,WR,1981,27,SEA,NFL,WR,16,16,123,75,1224,16.3,9,55,59.3,57,4.7,76.5,61.0,10.0,6,47,1,3,83.3,15,7.8,2.9,0.4,81,15.7,1271,10,2,12,PB
+LargSt00,Steve Largent,WR,1982,28,SEA,NFL,WR,8,8,71,34,493,14.5,3,23,42.3,45,4.3,61.6,47.9,6.9,1,8,0,0,100.0,8,8.0,1.0,0.1,35,14.3,501,3,0,6,
+LargSt00,Steve Largent,WR,1983,29,SEA,NFL,WR,15,14,120,72,1074,14.9,11,50,55.0,46,4.8,71.6,60.0,9.0,0,0,0,0,,,,0.0,0.0,72,14.9,1074,11,3,12,
+LargSt00,Steve Largent,WR,1984,30,SEA,NFL,WR,16,16,128,74,1164,15.7,12,61,55.5,65,4.6,72.8,57.8,9.1,2,10,0,1,100.0,6,5.0,0.6,0.1,76,15.4,1174,12,1,11,"PB,AP-2"
+LargSt00,Steve Largent,WR,1985,31,SEA,NFL,WR,16,16,149,79,1287,16.3,6,68,49.7,43,4.9,80.4,53.0,8.6,0,0,0,0,,,,0.0,0.0,79,16.3,1287,6,0,11,"PB,AP-1"
+LargSt00,Steve Largent,WR,1986,32,SEA,NFL,WR,16,16,119,70,1070,15.3,9,51,54.6,38,4.4,66.9,58.8,9.0,0,0,0,0,,,,0.0,0.0,70,15.3,1070,9,3,11,PB
+LargSt00,Steve Largent,WR,1987,33,SEA,NFL,WR,13,13,95,58,912,15.7,8,47,54.7,55,4.5,70.2,61.1,9.6,2,33,0,2,100.0,21,16.5,2.5,0.2,60,15.8,945,8,2,13,"PB,AP-2"
+LargSt00,Steve Largent,WR,1988,34,SEA,NFL,WR,15,15,65,39,645,16.5,2,31,58.5,46,2.6,43.0,60.0,9.9,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,40,16.1,642,2,3,7,
+LargSt00,Steve Largent,WR,1989,35,SEA,NFL,WR,10,9,61,28,403,14.4,3,18,39.3,33,2.8,40.3,45.9,6.6,0,0,0,0,,,,0.0,0.0,28,14.4,403,3,0,3,

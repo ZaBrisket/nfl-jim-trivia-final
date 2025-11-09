@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PattCo00,Cordarrelle Patterson,WR,2013,22,MIN,NFL,WR,16,6,0,0,0,0,,43,1393,2,109,32.4,2020,"PB,AP-1,AP ORoY-3"
+PattCo00,Cordarrelle Patterson,WR,2014,23,MIN,NFL,WR,16,7,0,0,0,0,,34,871,0,51,25.6,1372,
+PattCo00,Cordarrelle Patterson,WR,2015,24,MIN,NFL,WR,16,1,0,0,0,0,,32,1019,2,101,31.8,1044,AP-2
+PattCo00,Cordarrelle Patterson,WR,2016,25,MIN,NFL,WR,16,8,1,9,0,9,9.0,25,792,1,104,31.7,1297,"PB,AP-1"
+PattCo00,Cordarrelle Patterson,WR,2017,26,OAK,NFL,WR,16,2,0,0,0,0,,19,538,0,49,28.3,968,
+PattCo00,Cordarrelle Patterson,WR,2018,27,NWE,NFL,WR,15,5,0,0,0,0,,23,663,1,95,28.8,1138,AP-2
+PattCo00,Cordarrelle Patterson,WR,2019,28,CHI,NFL,WR,16,4,0,0,0,0,,28,825,1,102,29.5,1011,"PB,AP-1"
+PattCo00,Cordarrelle Patterson,WR,2020,29,CHI,NFL,WR,16,3,0,0,0,0,,35,1017,1,104,29.1,1381,"PB,AP-1"
+PattCo00,Cordarrelle Patterson,WR,2021,30,ATL,NFL,RB,16,13,0,0,0,0,,18,434,0,32,24.1,1609,
+PattCo00,Cordarrelle Patterson,WR,2022,31,ATL,NFL,RB,13,11,0,0,0,0,,9,284,1,103,31.6,1101,
+PattCo00,Cordarrelle Patterson,WR,2023,32,ATL,NFL,RB,14,0,0,0,0,0,,7,153,0,29,21.9,372,
+PattCo00,Cordarrelle Patterson,WR,2024,33,PIT,NFL,RB,13,1,0,0,0,0,,11,240,0,33,21.8,455,

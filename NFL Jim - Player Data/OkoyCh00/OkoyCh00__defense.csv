@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+OkoyCh00,Christian Okoye,RB,1987,26,KAN,NFL,FB,12,12,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,
+OkoyCh00,Christian Okoye,RB,1988,27,KAN,NFL,FB,9,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+OkoyCh00,Christian Okoye,RB,1989,28,KAN,NFL,FB,15,14,0,0,0,0,0,8,0,0,0,0.0,0,0,0,0,"PB,AP-1,AP OPoY-4"
+OkoyCh00,Christian Okoye,RB,1990,29,KAN,NFL,FB,14,13,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,
+OkoyCh00,Christian Okoye,RB,1991,30,KAN,NFL,FB,14,12,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,PB
+OkoyCh00,Christian Okoye,RB,1992,31,KAN,NFL,FB,15,5,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,

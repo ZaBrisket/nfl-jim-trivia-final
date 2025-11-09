@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+JacoJo01,Josh Jacobs,RB,2021,23,LVR,NFL,RB,1,1,13,83,3,36,2.8,47,3.6,0,,5,4,44,2,2,0.5,42,10.5,0.8,0,,0,0.0,0,103.3,
+JacoJo01,Josh Jacobs,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JacoJo01,Josh Jacobs,RB,2024,26,GNB,NFL,RB,1,1,18,81,2,14,0.8,67,3.7,8,2.3,3,3,40,3,6,2.0,34,11.3,2.0,2,1.5,0,0.0,0,118.7,

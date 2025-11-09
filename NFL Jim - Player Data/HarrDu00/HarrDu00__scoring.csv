@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HarrDu00,Duriel Harris,WR,1976,22,MIA,NFL,WR,12,2,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+HarrDu00,Duriel Harris,WR,1977,23,MIA,NFL,WR,14,4,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.1,
+HarrDu00,Duriel Harris,WR,1978,24,MIA,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+HarrDu00,Duriel Harris,WR,1979,25,MIA,NFL,WR,15,14,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.2,
+HarrDu00,Duriel Harris,WR,1980,26,MIA,NFL,WR,12,3,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+HarrDu00,Duriel Harris,WR,1981,27,MIA,NFL,WR,15,12,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+HarrDu00,Duriel Harris,WR,1982,28,MIA,NFL,WR,9,8,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+HarrDu00,Duriel Harris,WR,1983,29,MIA,NFL,WR,12,3,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+HarrDu00,Duriel Harris,WR,1984,30,2TM,NFL,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+HarrDu00,Duriel Harris,WR,1984,30,CLE,NFL,WR,11,11,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.1,

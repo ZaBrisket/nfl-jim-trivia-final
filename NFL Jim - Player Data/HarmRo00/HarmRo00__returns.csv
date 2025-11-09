@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HarmRo00,Ronnie Harmon,RB,1986,22,BUF,NFL,RB,14,2,0,0,0,0,18,321,0,32,17.8,678,
+HarmRo00,Ronnie Harmon,RB,1987,23,BUF,NFL,RB,12,10,0,0,0,0,1,30,0,30,30.0,992,
+HarmRo00,Ronnie Harmon,RB,1988,24,BUF,NFL,RB,16,1,0,0,0,0,11,249,0,37,22.6,888,
+HarmRo00,Ronnie Harmon,RB,1989,25,BUF,NFL,RB,15,2,0,0,0,0,18,409,0,49,22.7,871,
+HarmRo00,Ronnie Harmon,RB,,,,,,,,,,,,,,,,,,
+HarmRo00,Ronnie Harmon,RB,1991,27,SDG,NFL,RB,16,0,0,0,0,0,2,25,0,14,12.5,1124,
+HarmRo00,Ronnie Harmon,RB,1992,28,SDG,NFL,RB,16,2,0,0,0,0,7,96,0,30,13.7,1245,PB
+HarmRo00,Ronnie Harmon,RB,1993,29,SDG,NFL,RB,16,1,0,0,0,0,1,18,0,18,18.0,905,
+HarmRo00,Ronnie Harmon,RB,1994,30,SDG,NFL,RB,16,0,0,0,0,0,9,157,0,25,17.4,866,
+HarmRo00,Ronnie Harmon,RB,1995,31,SDG,NFL,RB,16,1,0,0,0,0,4,25,0,9,6.3,885,
+HarmRo00,Ronnie Harmon,RB,1996,32,HOU,NFL,RB,16,6,0,0,0,0,4,69,0,20,17.3,688,
+HarmRo00,Ronnie Harmon,RB,1997,33,2TM,NFL,RB,12,0,0,0,0,0,1,16,0,16,16.0,249,
+HarmRo00,Ronnie Harmon,RB,1997,33,TEN,NFL,RB,11,0,0,0,0,0,1,16,0,16,16.0,235,

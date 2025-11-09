@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HarrFr00,Franco Harris,RB,1972,22,PIT,NFL,RB,14,10,188,1055,10,,,75,5.6,75.4,13.4,,21,180,8.6,1,,,29,1.5,12.9,,,209,5.9,1235,11,7,13,"PB,AP-2,AP MVP-8,AP OPoY-5,AP ORoY-1"
+HarrFr00,Franco Harris,RB,1973,23,PIT,NFL,FB,12,8,188,698,3,,,35,3.7,58.2,15.7,,10,69,6.9,0,,,19,0.8,5.8,,,198,3.9,767,3,8,8,PB
+HarrFr00,Franco Harris,RB,1974,24,PIT,NFL,FB,12,11,208,1006,5,,,54,4.8,83.8,17.3,,23,200,8.7,1,,,31,1.9,16.7,,,231,5.2,1206,6,9,12,PB
+HarrFr00,Franco Harris,RB,1975,25,PIT,NFL,FB,14,14,262,1246,10,,,36,4.8,89.0,18.7,,28,214,7.6,1,,,44,2.0,15.3,,,290,5.0,1460,11,9,17,"PB,AP-2"
+HarrFr00,Franco Harris,RB,1976,26,PIT,NFL,FB,14,14,289,1128,14,,,30,3.9,80.6,20.6,,23,151,6.6,0,,,39,1.6,10.8,,,312,4.1,1279,14,8,13,PB
+HarrFr00,Franco Harris,RB,1977,27,PIT,NFL,FB,14,14,300,1162,11,,,61,3.9,83.0,21.4,,11,62,5.6,0,,,15,0.8,4.4,,,311,3.9,1224,11,10,12,"PB,AP-1"
+HarrFr00,Franco Harris,RB,1978,28,PIT,NFL,FB,16,16,310,1082,8,66,47.4,37,3.5,67.6,19.4,26,22,144,6.5,0,4,53.8,15,1.4,9.0,84.6,5.5,332,3.7,1226,8,4,12,PB
+HarrFr00,Franco Harris,RB,1979,29,PIT,NFL,FB,15,15,267,1186,11,65,47.9,71,4.4,79.1,17.8,51,36,291,8.1,1,15,52.9,21,2.4,19.4,70.6,5.7,303,4.9,1477,12,11,12,PB
+HarrFr00,Franco Harris,RB,1980,30,PIT,NFL,FB,13,13,208,789,4,36,47.6,26,3.8,60.7,16.0,47,30,196,6.5,2,8,38.3,31,2.3,15.1,63.8,4.2,238,4.1,985,6,7,7,PB
+HarrFr00,Franco Harris,RB,1981,31,PIT,NFL,FB,16,16,242,987,8,58,54.1,50,4.1,61.7,15.1,48,37,250,6.8,1,6,58.3,26,2.3,15.6,77.1,5.2,279,4.4,1237,9,6,9,
+HarrFr00,Franco Harris,RB,1982,32,PIT,NFL,FB,9,9,140,604,2,28,50.0,21,4.3,67.1,15.6,37,31,249,8.0,0,9,59.5,20,3.4,27.7,83.8,6.7,171,5.0,853,2,1,12,
+HarrFr00,Franco Harris,RB,1983,33,PIT,NFL,FB,16,16,279,1007,5,61,51.6,19,3.6,62.9,17.4,40,34,278,8.2,2,12,55.0,29,2.1,17.4,85.0,7.0,313,4.1,1285,7,10,8,
+HarrFr00,Franco Harris,RB,1984,34,SEA,NFL,FB,8,6,68,170,0,10,35.3,16,2.5,21.3,8.5,4,1,3,3.0,0,0,0.0,3,0.1,0.4,25.0,0.8,69,2.5,173,0,0,1,

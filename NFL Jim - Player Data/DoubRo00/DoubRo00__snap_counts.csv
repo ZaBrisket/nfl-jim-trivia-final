@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DoubRo00,Romeo Doubs,WR,2022,22,GNB,WR,87,13,7,529,62%,0,0%,3,1%
+DoubRo00,Romeo Doubs,WR,2023,23,GNB,WR,87,17,16,845,77%,0,0%,1,0%
+DoubRo00,Romeo Doubs,WR,2024,24,GNB,WR,87,13,12,660,77%,0,0%,1,0%
+DoubRo00,Romeo Doubs,WR,2025,25,GNB,WR,87,8,8,430,84%,0,0%,14,7%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ShipMa00,Marcel Shipp,RB,2001,23,ARI,NFL,RB,11,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+ShipMa00,Marcel Shipp,RB,2002,24,ARI,NFL,RB,15,6,188,834,6,44,39.4,56,4.4,55.6,12.5,50,38,413,10.9,3,14,48.0,80,2.5,27.5,76.0,8.3,226,5.5,1247,9,4,8,
+ShipMa00,Marcel Shipp,RB,2003,25,ARI,NFL,RB,16,11,228,830,0,37,42.1,36,3.6,51.9,14.3,37,30,184,6.1,0,6,32.4,34,1.9,11.5,81.1,5.0,258,3.9,1014,0,3,5,
+ShipMa00,Marcel Shipp,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ShipMa00,Marcel Shipp,RB,2005,27,ARI,NFL,RB,15,11,157,451,0,23,40.8,19,2.9,30.1,10.5,44,35,255,7.3,0,8,36.4,28,2.3,17.0,79.5,5.8,192,3.7,706,0,4,4,
+ShipMa00,Marcel Shipp,RB,2006,28,ARI,NFL,RB,15,0,17,41,4,8,47.1,9,2.4,2.7,1.1,11,6,60,10.0,0,3,27.3,22,0.4,4.0,54.5,5.5,23,4.4,101,4,0,1,
+ShipMa00,Marcel Shipp,RB,2007,29,ARI,NFL,RB,16,0,15,41,1,5,40.0,14,2.7,2.6,0.9,15,4,25,6.3,0,0,20.0,9,0.3,1.6,26.7,1.7,19,3.5,66,1,0,0,

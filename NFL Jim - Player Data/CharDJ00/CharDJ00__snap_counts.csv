@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CharDJ00,DJ Chark,WR,2018,22,JAX,WR,17,11,0,291,40%,0,0%,166,55%
+CharDJ00,DJ Chark,WR,2019*,23,JAX,WR,17,15,14,851,82%,0,0%,45,11%
+CharDJ00,DJ Chark,WR,2020,24,JAX,WR,17,13,12,702,83%,0,0%,0,0%
+CharDJ00,DJ Chark,WR,2021,25,JAX,WR,17,4,4,170,67%,0,0%,0,0%
+CharDJ00,DJ Chark,WR,2022,26,DET,WR,4,11,10,534,70%,0,0%,0,0%
+CharDJ00,DJ Chark,WR,2023,27,CAR,WR,17,15,11,771,76%,0,0%,0,0%
+CharDJ00,DJ Chark,WR,2024,28,LAC,WR,9,7,0,105,24%,0,0%,0,0%

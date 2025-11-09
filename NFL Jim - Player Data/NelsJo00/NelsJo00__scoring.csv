@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+NelsJo00,Jordy Nelson,WR,2008,23,GNB,NFL,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+NelsJo00,Jordy Nelson,WR,2009,24,GNB,NFL,WR,13,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+NelsJo00,Jordy Nelson,WR,2010,25,GNB,NFL,WR,16,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+NelsJo00,Jordy Nelson,WR,2011,26,GNB,NFL,WR,16,9,0,15,0,0,0,0,0,15,0,0,0,0,0,0,90,5.6,
+NelsJo00,Jordy Nelson,WR,2012,27,GNB,NFL,WR,12,10,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,3.7,
+NelsJo00,Jordy Nelson,WR,2013,28,GNB,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+NelsJo00,Jordy Nelson,WR,2014,29,GNB,NFL,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,"PB,AP-2"
+NelsJo00,Jordy Nelson,WR,,,,,,,,,,,,,,,,,,,,,,,,
+NelsJo00,Jordy Nelson,WR,2016,31,GNB,NFL,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,84,5.3,AP CPoY-1
+NelsJo00,Jordy Nelson,WR,2017,32,GNB,NFL,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+NelsJo00,Jordy Nelson,WR,2018,33,OAK,NFL,WR,15,14,0,3,0,0,0,0,0,3,1,0,0,0,0,0,20,1.3,

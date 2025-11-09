@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+FordJe00,Jerome Ford,RB,2022,23,CLE,NFL,RB,13,0,8,12,1,-1,-0.1,13,1.6,0,,0,0,0,0,0,,0,,,0,,0,,0,,
+FordJe00,Jerome Ford,RB,2023,24,CLE,NFL,RB,17,12,204,813,33,446,2.2,367,1.8,26,7.8,63,44,319,16,15,0.3,304,6.9,0.5,4,11.0,9,14.3,0,107.8,
+FordJe00,Jerome Ford,RB,2024,25,CLE,NFL,RB,14,6,104,565,25,345,3.3,220,2.1,5,20.8,43,37,225,10,-69,-1.9,294,7.9,-0.3,7,5.3,1,2.3,0,88.5,
+FordJe00,Jerome Ford,RB,2025,26,CLE,NFL,RB,8,0,21,73,5,44,2.1,29,1.4,9,2.3,25,21,76,2,-33,-1.6,109,5.2,-1.5,2,10.5,2,8.0,0,79.3,

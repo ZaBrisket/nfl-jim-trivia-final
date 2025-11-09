@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RobiMa00,Marcus Robinson,WR,1998,23,CHI,NFL,WR,3,0,6,4,44,11.0,1,3,50.0,20,1.3,14.7,66.7,7.3,0,0,0,0,,,,0.0,0.0,4,11.0,44,1,0,0,
+RobiMa00,Marcus Robinson,WR,1999,24,CHI,NFL,WR,16,11,149,84,1400,16.7,9,56,49.0,80,5.3,87.5,56.4,9.4,0,0,0,0,,,,0.0,0.0,84,16.7,1400,9,0,10,AP CPoY-9
+RobiMa00,Marcus Robinson,WR,2000,25,CHI,NFL,WR,11,11,102,55,738,13.4,5,27,39.2,68,5.0,67.1,53.9,7.2,1,9,0,0,100.0,9,9.0,0.8,0.1,56,13.3,747,5,1,5,
+RobiMa00,Marcus Robinson,WR,2001,26,CHI,NFL,WR,5,4,42,23,269,11.7,2,11,47.6,34,4.6,53.8,54.8,6.4,0,0,0,0,,,,0.0,0.0,23,11.7,269,2,0,3,
+RobiMa00,Marcus Robinson,WR,2002,27,CHI,NFL,WR,16,2,53,21,244,11.6,3,9,22.6,45,1.3,15.3,39.6,4.6,0,0,0,0,,,,0.0,0.0,21,11.6,244,3,0,2,
+RobiMa00,Marcus Robinson,WR,2003,28,BAL,NFL,WR,15,5,62,31,451,14.5,6,23,46.8,50,2.1,30.1,50.0,7.3,0,0,0,0,,,,0.0,0.0,31,14.5,451,6,0,5,
+RobiMa00,Marcus Robinson,WR,2004,29,MIN,NFL,WR,16,7,79,47,657,14.0,8,31,53.2,50,2.9,41.1,59.5,8.3,0,0,0,0,,,,0.0,0.0,47,14.0,657,8,1,7,
+RobiMa00,Marcus Robinson,WR,2005,30,MIN,NFL,WR,15,9,57,31,515,16.6,5,24,43.9,68,2.1,34.3,54.4,9.0,0,0,0,0,,,,0.0,0.0,31,16.6,515,5,0,4,
+RobiMa00,Marcus Robinson,WR,2006,31,MIN,NFL,WR,10,3,58,29,381,13.1,4,20,43.1,40,2.9,38.1,50.0,6.6,0,0,0,0,,,,0.0,0.0,29,13.1,381,4,2,2,

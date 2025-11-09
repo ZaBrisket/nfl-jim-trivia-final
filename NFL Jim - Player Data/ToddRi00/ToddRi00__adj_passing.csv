@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+ToddRi00,Richard Todd,QB,1976,23,NYJ,NFL,QB,13,6,80,70,73,68,66,79,79,64,68,
+ToddRi00,Richard Todd,QB,1977,24,NYJ,NFL,QB,12,11,107,107,99,100,94,101,88,102,95,
+ToddRi00,Richard Todd,QB,1978,25,NYJ,NFL,QB,5,5,128,109,95,88,110,119,52,75,94,
+ToddRi00,Richard Todd,QB,1979,26,NYJ,NFL,QB,15,15,124,122,106,106,89,107,78,103,95,
+ToddRi00,Richard Todd,QB,1980,27,NYJ,NFL,QB,16,16,100,97,86,86,100,91,76,94,85,
+ToddRi00,Richard Todd,QB,1981,28,NYJ,NFL,QB,16,16,89,95,107,109,101,110,124,108,112,
+ToddRi00,Richard Todd,QB,1982,29,NYJ,NFL,QB,9,9,109,104,116,113,108,114,116,96,117,
+ToddRi00,Richard Todd,QB,1983,30,NYJ,NFL,QB,16,16,92,95,89,90,109,92,90,104,94,
+ToddRi00,Richard Todd,QB,1984,31,NOR,NFL,QB,15,14,97,93,86,84,85,92,76,92,82,

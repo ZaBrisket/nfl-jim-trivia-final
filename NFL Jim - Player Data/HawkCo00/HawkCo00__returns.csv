@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HawkCo00,Courtney Hawkins,WR,1992,23,TAM,NFL,WR,16,5,13,53,0,17,4.1,9,118,0,18,13.1,507,
+HawkCo00,Courtney Hawkins,WR,1993,24,TAM,NFL,WR,16,12,15,166,0,35,11.1,0,0,0,0,,1099,
+HawkCo00,Courtney Hawkins,WR,1994,25,TAM,NFL,WR,13,12,5,28,0,9,5.6,0,0,0,0,,466,
+HawkCo00,Courtney Hawkins,WR,,,,,,,,,,,,,,,,,,,
+HawkCo00,Courtney Hawkins,WR,1996,27,TAM,NFL,WR,16,16,1,-1,0,-1,-1.0,0,0,0,0,,530,
+HawkCo00,Courtney Hawkins,WR,1997,28,PIT,NFL,WR,15,3,4,68,0,30,17.0,0,0,0,0,,640,
+HawkCo00,Courtney Hawkins,WR,1998,29,PIT,NFL,WR,15,14,15,175,0,47,11.7,0,0,0,0,,967,
+HawkCo00,Courtney Hawkins,WR,1999,30,PIT,NFL,WR,11,11,11,49,0,14,4.5,0,0,0,0,,334,
+HawkCo00,Courtney Hawkins,WR,2000,31,PIT,NFL,WR,13,5,4,15,0,9,3.8,0,0,0,0,,253,

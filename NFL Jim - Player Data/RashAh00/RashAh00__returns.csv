@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RashAh00,Ahmad Rashad,WR,1972,23,STL,NFL,WR,14,13,0,0,0,0,20,437,0,37,21.9,981,
+RashAh00,Ahmad Rashad,WR,,,,,,,,,,,,,,,,,,
+RashAh00,Ahmad Rashad,WR,1974,25,BUF,NFL,WR,14,14,0,0,0,0,1,0,0,0,0.0,433,
+RashAh00,Ahmad Rashad,WR,1975,,Did not play - Injured (knee),,,,,,,,,,,,,,,

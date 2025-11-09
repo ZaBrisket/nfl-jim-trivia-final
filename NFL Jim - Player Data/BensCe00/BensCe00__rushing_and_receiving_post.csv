@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BensCe00,Cedric Benson,RB,2006,24,CHI,NFL,RB,3,0,38,104,1,8,44.7,12,2.7,34.7,12.7,4,3,24,8.0,0,1,75.0,11,1.0,8.0,75.0,6.0,41,3.1,128,1,1,
+BensCe00,Cedric Benson,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BensCe00,Cedric Benson,RB,2009,27,CIN,NFL,RB,1,1,21,169,1,5,57.1,47,8.0,169.0,21.0,3,3,12,4.0,0,0,66.7,5,3.0,12.0,100.0,4.0,24,7.5,181,1,0,
+BensCe00,Cedric Benson,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BensCe00,Cedric Benson,RB,2011,29,CIN,NFL,RB,1,1,7,14,1,1,28.6,7,2.0,14.0,7.0,2,1,-2,-2.0,0,0,0.0,-2,1.0,-2.0,50.0,-1.0,8,1.5,12,1,0,

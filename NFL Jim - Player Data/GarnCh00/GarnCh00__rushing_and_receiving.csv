@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GarnCh00,Charlie Garner,RB,1994,22,PHI,NFL,FB,10,8,109,399,3,24,45.0,28,3.7,39.9,10.9,13,8,74,9.3,0,3,30.8,28,0.8,7.4,61.5,5.7,117,4.0,473,3,3,3,
+GarnCh00,Charlie Garner,RB,1995,23,PHI,NFL,RB,15,3,108,588,6,25,53.7,55,5.4,39.2,7.2,15,10,61,6.1,0,4,46.7,29,0.7,4.1,66.7,4.1,118,5.5,649,6,2,4,
+GarnCh00,Charlie Garner,RB,1996,24,PHI,NFL,RB,15,1,66,346,1,16,57.6,46,5.2,23.1,4.4,17,14,92,6.6,0,4,64.7,13,0.9,6.1,82.4,5.4,80,5.5,438,1,1,3,
+GarnCh00,Charlie Garner,RB,1997,25,PHI,NFL,RB,16,2,116,547,3,31,51.7,26,4.7,34.2,7.3,34,24,225,9.4,0,9,61.8,27,1.5,14.1,70.6,6.6,140,5.5,772,3,1,5,
+GarnCh00,Charlie Garner,RB,1998,26,PHI,NFL,RB,10,3,96,381,4,18,32.3,40,4.0,38.1,9.6,25,19,110,5.8,0,5,40.0,21,1.9,11.0,76.0,4.4,115,4.3,491,4,1,2,
+GarnCh00,Charlie Garner,RB,1999,27,SFO,NFL,RB,16,15,241,1229,4,54,43.6,53,5.1,76.8,15.1,76,56,535,9.6,2,23,55.3,53,3.5,33.4,73.7,7.0,297,5.9,1764,6,4,13,
+GarnCh00,Charlie Garner,RB,2000,28,SFO,NFL,RB,16,15,258,1142,7,57,45.0,42,4.4,71.4,16.1,94,68,647,9.5,3,28,52.1,62,4.3,40.4,72.3,6.9,326,5.5,1789,10,4,16,PB
+GarnCh00,Charlie Garner,RB,2001,29,OAK,NFL,RB,16,16,211,839,1,33,46.9,38,4.0,52.4,13.2,91,72,578,8.0,2,29,54.9,27,4.5,36.1,79.1,6.4,283,5.0,1417,3,2,13,
+GarnCh00,Charlie Garner,RB,2002,30,OAK,NFL,RB,16,15,182,962,7,49,51.6,36,5.3,60.1,11.4,111,91,941,10.3,4,47,64.0,69,5.7,58.8,82.0,8.5,273,7.0,1903,11,0,16,
+GarnCh00,Charlie Garner,RB,2003,31,OAK,NFL,RB,14,9,120,553,3,27,44.2,33,4.6,39.5,8.6,70,48,386,8.0,1,15,34.3,46,3.4,27.6,68.6,5.5,168,5.6,939,4,1,6,
+GarnCh00,Charlie Garner,RB,2004,32,TAM,NFL,RB,3,3,30,111,0,3,40.0,25,3.7,37.0,10.0,14,9,62,6.9,0,1,35.7,31,3.0,20.7,64.3,4.4,39,4.4,173,0,0,1,

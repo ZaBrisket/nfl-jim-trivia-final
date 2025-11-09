@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AndrWi00,William Andrews,RB,1979,24,ATL,NFL,FB,15,15,3,2,0,0,0,0,0,5,0,0,0,0,0,30,2.0,
+AndrWi00,William Andrews,RB,1980,25,ATL,NFL,FB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,30,1.9,PB
+AndrWi00,William Andrews,RB,1981,26,ATL,NFL,FB,16,16,10,2,0,0,0,0,0,12,0,0,0,0,0,72,4.5,"PB,AP-2,AP OPoY-8"
+AndrWi00,William Andrews,RB,1982,27,ATL,NFL,FB,9,9,5,2,0,0,0,0,0,7,0,0,0,0,0,42,4.7,"PB,AP-2"
+AndrWi00,William Andrews,RB,1983,28,ATL,NFL,RB,16,16,7,4,0,0,0,0,0,11,0,0,0,0,0,66,4.1,PB
+AndrWi00,William Andrews,RB,1984,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,
+AndrWi00,William Andrews,RB,1986,31,ATL,NFL,RB,15,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

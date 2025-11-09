@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WillHa00,Harvey Williams,RB,1991,24,KAN,NFL,RB,14,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,AP ORoY-6
+WillHa00,Harvey Williams,RB,1992,25,KAN,NFL,RB,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WillHa00,Harvey Williams,RB,1993,26,KAN,NFL,RB,7,6,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+WillHa00,Harvey Williams,RB,1994,27,RAI,NFL,RB,16,10,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,
+WillHa00,Harvey Williams,RB,1995,28,OAK,NFL,RB,16,16,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,
+WillHa00,Harvey Williams,RB,1996,29,OAK,NFL,RB,13,5,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+WillHa00,Harvey Williams,RB,,,,,,,,,,,,,,,,,,,,,,
+WillHa00,Harvey Williams,RB,1998,31,OAK,NFL,RB,16,3,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,

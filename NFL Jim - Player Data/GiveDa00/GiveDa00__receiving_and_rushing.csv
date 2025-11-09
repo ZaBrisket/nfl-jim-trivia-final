@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GiveDa00,David Givens,WR,2002,22,NWE,NFL,WR,12,0,15,9,92,10.2,1,4,53.3,30,0.8,7.7,60.0,6.1,0,0,0,0,,,,0.0,0.0,9,10.2,92,1,1,1,
+GiveDa00,David Givens,WR,2003,23,NWE,NFL,WR,13,5,55,34,510,15.0,6,24,54.5,57,2.6,39.2,61.8,9.3,0,0,0,0,,,,0.0,0.0,34,15.0,510,6,0,4,
+GiveDa00,David Givens,WR,2004,24,NWE,NFL,WR,15,12,106,56,874,15.6,3,47,49.1,50,3.7,58.3,52.8,8.2,0,0,0,0,,,,0.0,0.0,56,15.6,874,3,0,10,
+GiveDa00,David Givens,WR,2005,25,NWE,NFL,WR,13,10,96,59,738,12.5,2,33,52.1,40,4.5,56.8,61.5,7.7,2,13,0,0,50.0,9,6.5,1.0,0.2,61,12.3,751,2,0,7,
+GiveDa00,David Givens,WR,2006,26,TEN,NFL,WR,5,5,20,8,104,13.0,0,5,30.0,27,1.6,20.8,40.0,5.2,1,3,0,0,0.0,3,3.0,0.6,0.2,9,11.9,107,0,0,1,

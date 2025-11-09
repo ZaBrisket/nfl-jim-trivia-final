@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SpriRo00,Ron Springs,RB,1979,23,DAL,NFL,RB,16,2,2,1,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+SpriRo00,Ron Springs,RB,1980,24,DAL,NFL,FB,15,6,6,1,0,0,0,0,0,7,0,0,0,0,0,42,2.8,
+SpriRo00,Ron Springs,RB,1981,25,DAL,NFL,FB,16,13,10,2,0,0,0,0,0,12,0,0,0,0,0,72,4.5,
+SpriRo00,Ron Springs,RB,1982,26,DAL,NFL,FB,9,9,2,2,0,0,0,0,0,4,0,0,0,0,0,24,2.7,
+SpriRo00,Ron Springs,RB,1983,27,DAL,NFL,FB,16,14,7,1,0,0,0,0,0,8,0,0,0,0,0,48,3.0,
+SpriRo00,Ron Springs,RB,1984,28,DAL,NFL,FB,16,12,1,3,0,0,0,0,0,4,0,0,0,0,0,24,1.5,

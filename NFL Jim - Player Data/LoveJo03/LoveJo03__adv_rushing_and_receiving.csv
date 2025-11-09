@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+LoveJo03,Jordan Love,QB,2021,23,GNB,NFL,QB,6,1,12,27,1,24,2.0,3,0.3,0,,0,0,0,0,0,0,0,0,0,
+LoveJo03,Jordan Love,QB,2022,24,GNB,NFL,QB,4,0,1,-1,0,-1,-1.0,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+LoveJo03,Jordan Love,QB,2023,25,GNB,NFL,QB,17,17,50,247,16,219,4.4,28,0.6,2,25.0,0,0,0,0,0,0,0,0,0,
+LoveJo03,Jordan Love,QB,2024,26,GNB,NFL,QB,15,15,25,83,9,48,1.9,35,1.4,0,,0,0,0,0,0,0,0,0,0,
+LoveJo03,Jordan Love,QB,2025,27,GNB,NFL,QB,8,8,26,110,8,69,2.7,41,1.6,1,26.0,0,0,0,0,0,0,0,0,0,

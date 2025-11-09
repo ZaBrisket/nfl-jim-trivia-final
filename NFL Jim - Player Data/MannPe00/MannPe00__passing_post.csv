@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+MannPe00,Peyton Manning,QB,1999,23,IND,NFL,QB,1,1,0-1-0,19,42,45.2,227,0,0.0,0,0.0,13,38.1,33,5.4,5.40,11.9,227.0,62.3,0,0,0.00,5.40,5.40,0,0,
+MannPe00,Peyton Manning,QB,2000,24,IND,NFL,QB,1,1,0-1-0,17,32,53.1,194,1,3.1,0,0.0,8,40.6,30,6.1,6.69,11.4,194.0,82.0,0,0,0.00,6.06,6.69,0,0,
+MannPe00,Peyton Manning,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2002,26,IND,NFL,QB,1,1,0-1-0,14,31,45.2,137,0,0.0,2,6.5,8,43.8,17,4.4,1.52,9.8,137.0,31.3,1,13,3.13,3.88,1.06,0,0,
+MannPe00,Peyton Manning,QB,2003,27,IND,NFL,QB,3,3,2-1-0,67,103,65.0,918,9,8.7,4,3.9,46,55.6,87,8.9,8.91,13.7,306.0,106.4,5,41,4.63,8.12,8.12,0,0,
+MannPe00,Peyton Manning,QB,2004,28,IND,NFL,QB,2,2,1-1-0,54,75,72.0,696,4,5.3,2,2.7,35,63.6,49,9.3,9.15,12.9,348.0,107.4,2,12,2.60,8.88,8.75,0,0,
+MannPe00,Peyton Manning,QB,2005,29,IND,NFL,QB,1,1,0-1-0,22,38,57.9,290,1,2.6,0,0.0,11,37.2,50,7.6,8.16,13.2,290.0,90.9,5,43,11.63,5.74,6.21,0,0,
+MannPe00,Peyton Manning,QB,2006,30,IND,NFL,QB,4,4,4-0-0,97,153,63.4,1034,3,2.0,7,4.6,55,49.7,53,6.8,5.09,10.7,258.5,70.5,6,41,3.77,6.25,4.64,1,1,SB MVP
+MannPe00,Peyton Manning,QB,2007,31,IND,NFL,QB,1,1,0-1-0,33,48,68.8,402,3,6.3,2,4.2,21,60.4,55,8.4,7.75,12.2,402.0,97.7,0,0,0.00,8.38,7.75,0,0,
+MannPe00,Peyton Manning,QB,2008,32,IND,NFL,QB,1,1,0-1-0,25,42,59.5,310,1,2.4,0,0.0,11,41.9,72,7.4,7.86,12.4,310.0,90.4,1,8,2.33,7.02,7.49,0,0,
+MannPe00,Peyton Manning,QB,2009,33,IND,NFL,QB,3,3,2-1-0,87,128,68.0,956,6,4.7,2,1.6,52,57.6,46,7.5,7.70,11.0,318.7,99.0,4,30,3.03,7.02,7.24,0,0,
+MannPe00,Peyton Manning,QB,2010,34,IND,NFL,QB,1,1,0-1-0,18,26,69.2,225,1,3.8,0,0.0,11,55.6,57,8.7,9.42,12.5,225.0,108.7,1,6,3.70,8.11,8.85,0,0,
+MannPe00,Peyton Manning,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2012,36,DEN,NFL,QB,1,1,0-1-0,28,43,65.1,290,3,7.0,2,4.7,15,50.0,32,6.7,6.05,10.4,290.0,88.3,3,17,6.52,5.93,5.28,0,0,
+MannPe00,Peyton Manning,QB,2013,37,DEN,NFL,QB,3,3,2-1-0,91,128,71.1,910,5,3.9,3,2.3,45,56.6,37,7.1,6.84,10.0,303.3,94.2,1,1,0.78,7.05,6.78,0,0,
+MannPe00,Peyton Manning,QB,2014,38,DEN,NFL,QB,1,1,0-1-0,26,46,56.5,211,1,2.2,0,0.0,11,25.0,32,4.6,5.02,8.1,211.0,75.5,2,11,4.17,4.17,4.58,0,0,
+MannPe00,Peyton Manning,QB,2015,39,DEN,NFL,QB,3,3,3-0-0,51,92,55.4,539,2,2.2,1,1.1,26,37.6,34,5.9,5.80,10.6,179.7,75.4,9,75,8.91,4.59,4.54,1,1,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CoatBe00,Ben Coates,TE,1991,22,NWE,NFL,TE,16,2,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+CoatBe00,Ben Coates,TE,1992,23,NWE,NFL,TE,16,2,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+CoatBe00,Ben Coates,TE,1993,24,NWE,NFL,TE,16,10,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+CoatBe00,Ben Coates,TE,1994,25,NWE,NFL,TE,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,"PB,AP-1"
+CoatBe00,Ben Coates,TE,1995,26,NWE,NFL,TE,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,"PB,AP-1"
+CoatBe00,Ben Coates,TE,1996,27,NWE,NFL,TE,16,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,PB
+CoatBe00,Ben Coates,TE,1997,28,NWE,NFL,TE,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,PB
+CoatBe00,Ben Coates,TE,1998,29,NWE,NFL,TE,14,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,"PB,AP-2"
+CoatBe00,Ben Coates,TE,1999,30,NWE,NFL,TE,16,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+CoatBe00,Ben Coates,TE,2000,31,BAL,NFL,TE,16,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.1,

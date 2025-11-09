@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WoolBu00,Butch Woolfolk,RB,1982,22,NYG,NFL,RB,9,8,112,439,2,23,48.2,18,3.9,48.8,12.4,40,23,224,9.7,2,8,37.5,40,2.6,24.9,57.5,5.6,135,4.9,663,4,5,8,
+WoolBu00,Butch Woolfolk,RB,1983,23,NYG,NFL,RB,16,16,246,857,4,47,44.3,22,3.5,53.6,15.4,53,28,368,13.1,0,13,47.2,44,1.8,23.0,52.8,6.9,274,4.5,1225,4,8,5,
+WoolBu00,Butch Woolfolk,RB,1984,24,NYG,NFL,RB,15,8,40,92,1,5,25.0,17,2.3,6.1,2.7,16,9,53,5.9,0,2,31.3,13,0.6,3.5,56.3,3.3,49,3.0,145,1,1,1,
+WoolBu00,Butch Woolfolk,RB,1985,25,HOU,NFL,RB,16,14,103,392,1,16,39.8,43,3.8,24.5,6.4,115,80,814,10.2,4,27,48.7,80,5.0,50.9,69.6,7.1,183,6.6,1206,5,5,9,
+WoolBu00,Butch Woolfolk,RB,1986,26,HOU,NFL,FB,10,5,23,57,0,2,30.4,15,2.5,5.7,2.3,47,28,314,11.2,2,15,48.9,30,2.8,31.4,59.6,6.7,51,7.3,371,2,0,3,
+WoolBu00,Butch Woolfolk,RB,1987,27,DET,NFL,RB,12,0,12,82,0,3,41.7,31,6.8,6.8,1.0,32,19,166,8.7,0,6,43.8,13,1.6,13.8,59.4,5.2,31,8.0,248,0,1,2,
+WoolBu00,Butch Woolfolk,RB,1988,28,DET,NFL,RB,3,0,1,4,0,0,0.0,4,4.0,1.3,0.3,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,1,4.0,4,0,1,0,

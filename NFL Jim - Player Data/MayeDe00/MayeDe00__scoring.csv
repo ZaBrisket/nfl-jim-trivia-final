@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MayeDe00,Derrick Mayes,WR,1996,22,GNB,NFL,WR,7,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.7,
+MayeDe00,Derrick Mayes,WR,,,,,,,,,,,,,,,,,,,,,,,,
+MayeDe00,Derrick Mayes,WR,1998,24,GNB,NFL,WR,10,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.8,
+MayeDe00,Derrick Mayes,WR,1999,25,SEA,NFL,WR,16,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+MayeDe00,Derrick Mayes,WR,2000,26,SEA,NFL,WR,13,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

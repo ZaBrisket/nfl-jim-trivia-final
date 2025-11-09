@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BailSt00,Stacey Bailey,WR,1982,22,ATL,NFL,WR,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,1.2,
+BailSt00,Stacey Bailey,WR,1983,23,ATL,NFL,WR,14,12,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.6,
+BailSt00,Stacey Bailey,WR,1984,24,ATL,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+BailSt00,Stacey Bailey,WR,,,,,,,,,,,,,,,,,,,,,,,
+BailSt00,Stacey Bailey,WR,1987,27,ATL,NFL,WR,7,6,0,3,0,0,0,0,0,3,0,0,0,0,0,18,2.6,
+BailSt00,Stacey Bailey,WR,1988,28,ATL,NFL,WR,10,9,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.2,

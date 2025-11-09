@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CarrRo00,Roger Carr,WR,1974,22,BAL,NFL,WR,11,8,,21,405,19.3,0,,,57,1.9,36.8,,,0,0,0,,,,,0.0,0.0,21,19.3,405,0,0,4,
+CarrRo00,Roger Carr,WR,1975,23,BAL,NFL,WR,14,14,,23,517,22.5,2,,,90,1.6,36.9,,,0,0,0,,,,,0.0,0.0,23,22.5,517,2,0,7,
+CarrRo00,Roger Carr,WR,1976,24,BAL,NFL,WR,14,14,,43,1112,25.9,11,,,79,3.1,79.4,,,0,0,0,,,,,0.0,0.0,43,25.9,1112,11,0,18,"PB,AP-2"
+CarrRo00,Roger Carr,WR,1977,25,BAL,NFL,WR,7,0,,11,199,18.1,1,,,45,1.6,28.4,,,0,0,0,,,,,0.0,0.0,11,18.1,199,1,0,3,
+CarrRo00,Roger Carr,WR,1978,26,BAL,NFL,WR,16,16,74,30,629,21.0,6,24,40.5,78,1.9,39.3,40.5,8.5,0,0,0,0,,,,0.0,0.0,30,21.0,629,6,0,5,
+CarrRo00,Roger Carr,WR,1979,27,BAL,NFL,WR,9,9,54,27,400,14.8,1,17,48.1,37,3.0,44.4,50.0,7.4,0,0,0,0,,,,0.0,0.0,27,14.8,400,1,0,3,
+CarrRo00,Roger Carr,WR,1980,28,BAL,NFL,WR,16,16,129,61,924,15.1,5,48,46.5,43,3.8,57.8,47.3,7.2,1,-8,0,0,0.0,-8,-8.0,-0.5,0.1,62,14.8,916,5,0,9,
+CarrRo00,Roger Carr,WR,1981,29,BAL,NFL,WR,15,15,84,38,584,15.4,3,27,42.9,43,2.5,38.9,45.2,7.0,0,0,0,0,,,,0.0,0.0,38,15.4,584,3,0,5,
+CarrRo00,Roger Carr,WR,1982,30,SEA,NFL,WR,9,0,31,15,265,17.7,2,11,45.2,50,1.7,29.4,48.4,8.5,0,0,0,0,,,,0.0,0.0,15,17.7,265,2,0,3,
+CarrRo00,Roger Carr,WR,1983,31,SDG,NFL,WR,4,0,5,2,36,18.0,0,2,40.0,23,0.5,9.0,40.0,7.2,0,0,0,0,,,,0.0,0.0,2,18.0,36,0,0,0,

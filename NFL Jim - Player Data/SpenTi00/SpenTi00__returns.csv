@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SpenTi00,Tim Spencer,RB,1986,26,SDG,NFL,FB,14,12,0,0,0,0,5,81,0,21,16.2,479,
+SpenTi00,Tim Spencer,RB,,,,,,,,,,,,,,,,,,
+SpenTi00,Tim Spencer,RB,1988,28,SDG,NFL,RB,16,1,0,0,0,0,1,16,0,16,16.0,245,

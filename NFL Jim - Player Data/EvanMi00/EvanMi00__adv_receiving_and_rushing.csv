@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+EvanMi00,Mike Evans,WR,2018,25,TAM,NFL,WR,16,16,138,86,1524,68,1242,14.4,282,3.3,15.6,0,,7,5.1,8,95.2,0,0,0,0,,0,,0,PB
+EvanMi00,Mike Evans,WR,2019,26,TAM,NFL,WR,13,13,118,67,1157,54,901,13.4,256,3.8,15.1,3,22.3,7,5.9,8,84.6,0,0,0,0,,0,,0,PB
+EvanMi00,Mike Evans,WR,2020,27,TAM,NFL,WR,16,16,109,70,1006,55,741,10.6,265,3.8,12.1,2,35.0,4,3.7,2,126.0,0,0,0,0,,0,,0,
+EvanMi00,Mike Evans,WR,2021,28,TAM,NFL,WR,16,16,114,74,1035,56,776,10.5,259,3.5,13.0,2,37.0,2,1.8,3,122.6,1,10,1,8,8.0,2,2.0,0,PB
+EvanMi00,Mike Evans,WR,2022,29,TAM,NFL,WR,15,15,127,77,1124,53,908,11.8,216,2.8,12.6,2,38.5,4,3.1,6,85.5,0,0,0,0,,0,,0,
+EvanMi00,Mike Evans,WR,2023,30,TAM,NFL,WR,17,17,136,79,1255,54,933,11.8,322,4.1,14.0,2,39.5,7,5.1,3,111.6,0,0,0,0,,0,,0,"PB,AP-2"
+EvanMi00,Mike Evans,WR,2024,31,TAM,NFL,WR,14,14,110,74,1004,53,778,10.5,226,3.1,11.6,2,37.0,4,3.6,5,110.6,0,0,0,0,,0,,0,PB
+EvanMi00,Mike Evans,WR,2025,32,TAM,NFL,WR,4,4,32,14,140,10,122,8.7,18,1.3,13.4,0,,2,6.3,0,67.2,0,0,0,0,,0,,0,

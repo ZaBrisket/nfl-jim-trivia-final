@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BushRe00,Reggie Bush,RB,2006,21,NOR,NFL,RB,2,1,16,71,1,6,50.0,25,4.4,35.5,8.0,15,10,154,15.4,1,5,53.3,88,5.0,77.0,66.7,10.3,26,8.7,225,2,1,
+BushRe00,Reggie Bush,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BushRe00,Reggie Bush,RB,2009,24,NOR,NFL,RB,3,2,17,117,1,7,52.9,46,6.9,39.0,5.7,14,10,95,9.5,1,6,57.1,28,3.3,31.7,71.4,6.8,27,7.9,212,2,1,
+BushRe00,Reggie Bush,RB,2010,25,NOR,NFL,RB,1,1,5,12,0,1,40.0,4,2.4,12.0,5.0,6,5,37,7.4,0,3,50.0,14,5.0,37.0,83.3,6.2,10,4.9,49,0,0,
+BushRe00,Reggie Bush,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BushRe00,Reggie Bush,RB,2014,29,DET,NFL,RB,1,1,8,37,1,1,50.0,18,4.6,37.0,8.0,5,3,10,3.3,0,0,20.0,9,3.0,10.0,60.0,2.0,11,4.3,47,1,1,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HendDe00,Devery Henderson,WR,2004,22,NOR,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+HendDe00,Devery Henderson,WR,2005,23,NOR,NFL,WR,15,3,50,22,343,15.6,3,16,40.0,66,1.5,22.9,44.0,6.9,1,9,0,0,100.0,9,9.0,0.6,0.1,23,15.3,352,3,0,2,
+HendDe00,Devery Henderson,WR,2006,24,NOR,NFL,WR,13,7,54,32,745,23.3,5,28,53.7,76,2.5,57.3,59.3,13.8,2,14,1,2,100.0,11,7.0,1.1,0.2,34,22.3,759,6,0,7,
+HendDe00,Devery Henderson,WR,2007,25,NOR,NFL,WR,16,9,43,20,409,20.5,3,16,46.5,54,1.3,25.6,46.5,9.5,2,20,0,1,100.0,15,10.0,1.3,0.1,22,19.5,429,3,0,4,
+HendDe00,Devery Henderson,WR,2008,26,NOR,NFL,WR,16,13,56,32,793,24.8,3,27,53.6,84,2.0,49.6,57.1,14.2,4,33,0,1,50.0,30,8.3,2.1,0.3,36,22.9,826,3,1,8,
+HendDe00,Devery Henderson,WR,2009,27,NOR,NFL,WR,16,11,83,51,804,15.8,2,33,53.0,75,3.2,50.3,61.4,9.7,4,13,0,1,50.0,13,3.3,0.8,0.3,55,14.9,817,2,0,8,
+HendDe00,Devery Henderson,WR,2010,28,NOR,NFL,WR,16,11,59,34,464,13.6,1,22,49.2,57,2.1,29.0,57.6,7.9,3,8,0,1,33.3,9,2.7,0.5,0.2,37,12.8,472,1,0,4,
+HendDe00,Devery Henderson,WR,2011,29,NOR,NFL,WR,16,13,50,32,503,15.7,2,22,62.0,79,2.0,31.4,64.0,10.1,1,9,0,1,100.0,9,9.0,0.6,0.1,33,15.5,512,2,1,5,
+HendDe00,Devery Henderson,WR,2012,30,NOR,NFL,WR,15,9,47,22,316,14.4,1,10,38.3,41,1.5,21.1,46.8,6.7,1,13,0,1,100.0,13,13.0,0.9,0.1,23,14.3,329,1,1,3,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+JohnDi01,Diontae Johnson,WR,2020,24,PIT,NFL,WR,1,1,16,11,117,8,89,8.1,28,2.5,11.4,0,2,12.5,1,63.8,0,0,0,0,0,0,
+JohnDi01,Diontae Johnson,WR,2021,25,PIT,NFL,WR,1,1,10,5,34,4,24,4.8,10,2.0,10.2,0,2,20.0,0,91.2,0,0,0,0,0,0,
+JohnDi01,Diontae Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnDi01,Diontae Johnson,WR,2023,27,PIT,NFL,WR,1,1,7,4,48,4,30,7.5,18,4.5,10.7,0,0,0.0,1,78.3,0,0,0,0,0,0,
+JohnDi01,Diontae Johnson,WR,2024,28,HOU,NFL,WR,1,0,1,1,12,0,8,8.0,4,4.0,8.0,0,0,0.0,0,116.7,0,0,0,0,0,0,

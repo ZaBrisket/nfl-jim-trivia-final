@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnSt00,Stevie Johnson,WR,2008,22,BUF,NFL,WR,11,1,14,10,102,10.2,2,9,71.4,21,0.9,9.3,71.4,7.3,1,6,0,0,100.0,6,6.0,0.5,0.1,11,9.8,108,2,0,1,
+JohnSt00,Stevie Johnson,WR,2009,23,BUF,NFL,WR,5,0,3,2,10,5.0,0,1,33.3,5,0.4,2.0,66.7,3.3,0,0,0,0,,,,0.0,0.0,2,5.0,10,0,0,0,
+JohnSt00,Stevie Johnson,WR,2010,24,BUF,NFL,WR,16,13,141,82,1073,13.1,10,61,50.4,45,5.1,67.1,58.2,7.6,0,0,0,0,,,,0.0,0.0,82,13.1,1073,10,1,8,
+JohnSt00,Stevie Johnson,WR,2011,25,BUF,NFL,WR,16,16,134,76,1004,13.2,7,44,45.5,55,4.8,62.8,56.7,7.5,0,0,0,0,,,,0.0,0.0,76,13.2,1004,7,0,8,
+JohnSt00,Stevie Johnson,WR,2012,26,BUF,NFL,WR,16,16,148,79,1046,13.2,6,52,47.3,63,4.9,65.4,53.4,7.1,0,0,0,0,,,,0.0,0.0,79,13.2,1046,6,1,9,
+JohnSt00,Stevie Johnson,WR,2013,27,BUF,NFL,WR,12,12,101,52,597,11.5,3,33,41.6,45,4.3,49.8,51.5,5.9,1,10,0,0,0.0,10,10.0,0.8,0.1,53,11.5,607,3,1,5,
+JohnSt00,Stevie Johnson,WR,2014,28,SFO,NFL,WR,13,1,50,35,435,12.4,3,24,62.0,32,2.7,33.5,70.0,8.7,0,0,0,0,,,,0.0,0.0,35,12.4,435,3,0,3,
+JohnSt00,Stevie Johnson,WR,2015,29,SDG,NFL,WR,10,8,65,45,497,11.0,3,29,58.5,34,4.5,49.7,69.2,7.6,0,0,0,0,,,,0.0,0.0,45,11.0,497,3,1,3,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PattCo00,Cordarrelle Patterson,WR,2015,24,MIN,NFL,WR,1,0,0,0,0,0,3,65,0,34,21.7,65,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2018,27,NWE,NFL,WR,3,0,0,0,0,0,5,141,0,38,28.2,183,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2020,29,CHI,NFL,WR,1,0,0,0,0,0,2,68,0,42,34.0,70,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2024,33,PIT,NFL,RB,1,0,0,0,0,0,1,26,0,26,26.0,26,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+VanPAl00,Alex Van Pelt,QB,1995,25,1,QB,12,,51,,All 1995 Games
+VanPAl00,Alex Van Pelt,QB,1996,26,1,QB,,,79,,All 1996 Games
+VanPAl00,Alex Van Pelt,QB,1997,27,6,QB,27,,47,,All 1997 Games
+VanPAl00,Alex Van Pelt,QB,1998,28,1,QB,,,73,,All 1998 Games
+VanPAl00,Alex Van Pelt,QB,1999,29,1,QB,,,73,,All 1999 Games
+VanPAl00,Alex Van Pelt,QB,2000,30,1,QB,3,,62,,All 2000 Games
+VanPAl00,Alex Van Pelt,QB,2001,31,12,QB,112,,29,,All 2001 Games
+VanPAl00,Alex Van Pelt,QB,2002,32,2,QB,,,70,,All 2002 Games
+VanPAl00,Alex Van Pelt,QB,2003,33,6,QB,-5,,79,,All 2003 Games

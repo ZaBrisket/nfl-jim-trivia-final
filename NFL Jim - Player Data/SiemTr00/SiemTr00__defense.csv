@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+SiemTr00,Trevor Siemian,QB,2016,25,DEN,NFL,QB,14,14,0,0,0,0,0,0,4,0,-1,0,0.0,0,0,0,0,0,0,
+SiemTr00,Trevor Siemian,QB,2017,26,DEN,NFL,QB,11,10,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,0,0,
+SiemTr00,Trevor Siemian,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+SiemTr00,Trevor Siemian,QB,2021,30,NOR,NFL,QB,6,4,0,0,0,0,0,0,3,1,5,0,0.0,0,0,0,0,0,0,
+SiemTr00,Trevor Siemian,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+SiemTr00,Trevor Siemian,QB,2023,32,NYJ,NFL,QB,5,3,0,0,0,0,0,0,5,1,-5,0,0.0,0,0,0,0,0,0,

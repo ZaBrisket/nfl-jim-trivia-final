@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+SuheMa00,Matt Suhey,RB,1980,22,CHI,NFL,RB,16,1,0,0,0,0,1,1,0,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1981,23,CHI,NFL,FB,15,14,0,0,0,0,0,3,3,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1982,24,CHI,NFL,FB,9,8,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1983,25,CHI,NFL,FB,16,13,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1984,26,CHI,NFL,FB,16,16,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1985,27,CHI,NFL,FB,16,16,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1986,28,CHI,NFL,FB,16,14,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,,,,,,,,,,,,,,,,,,,,,,
+SuheMa00,Matt Suhey,RB,1988,30,CHI,NFL,FB,16,16,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+SuheMa00,Matt Suhey,RB,1989,31,CHI,NFL,RB,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

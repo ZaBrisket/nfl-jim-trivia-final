@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CaspDa00,Dave Casper,TE,1974,22,OAK,NFL,TE,2,0,,0,0,,0,,,,0.0,0.0,,,0,0,0,,,,0.0,0.0,0,,0,0,0,
+CaspDa00,Dave Casper,TE,1975,23,OAK,NFL,TE,2,0,,6,69,11.5,1,,,23,3.0,34.5,,,0,0,0,,,,0.0,0.0,6,11.5,69,1,0,
+CaspDa00,Dave Casper,TE,1976,24,OAK,NFL,TE,3,3,,9,122,13.6,1,,,26,3.0,40.7,,,1,-13,0,,-13,-13.0,-4.3,0.3,10,10.9,109,1,1,
+CaspDa00,Dave Casper,TE,1977,25,OAK,NFL,TE,2,2,,9,141,15.7,5,,,42,4.5,70.5,,,0,0,0,,,,0.0,0.0,9,15.7,141,5,0,
+CaspDa00,Dave Casper,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CaspDa00,Dave Casper,TE,1980,28,HOU,NFL,TE,1,1,6,3,31,10.3,0,2,33.3,12,3.0,31.0,50.0,5.2,0,0,0,0,,,0.0,0.0,3,10.3,31,0,0,
+CaspDa00,Dave Casper,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CaspDa00,Dave Casper,TE,1984,32,RAI,NFL,TE,1,1,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,0.0,0.0,0,,0,0,0,

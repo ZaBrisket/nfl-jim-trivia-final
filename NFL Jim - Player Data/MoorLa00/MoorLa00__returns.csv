@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MoorLa00,Lance Moore,WR,2006,23,NOR,NFL,WR,4,0,6,45,0,25,7.5,0,0,0,0,,55,
+MoorLa00,Lance Moore,WR,2007,24,NOR,NFL,WR,16,4,20,185,0,48,9.3,17,318,0,32,18.7,812,
+MoorLa00,Lance Moore,WR,2008,25,NOR,NFL,WR,16,6,6,40,0,11,6.7,1,36,0,36,36.0,1004,
+MoorLa00,Lance Moore,WR,2009,26,NOR,NFL,WR,7,0,1,0,0,0,0.0,0,0,0,0,,153,
+MoorLa00,Lance Moore,WR,2010,27,NOR,NFL,WR,16,1,11,112,0,72,10.2,0,0,0,0,,875,
+MoorLa00,Lance Moore,WR,,,,,,,,,,,,,,,,,,,
+MoorLa00,Lance Moore,WR,2012,29,NOR,NFL,WR,15,7,1,5,0,5,5.0,0,0,0,0,,1046,
+MoorLa00,Lance Moore,WR,2013,30,NOR,NFL,WR,13,5,2,0,0,0,0.0,0,0,0,0,,457,
+MoorLa00,Lance Moore,WR,,,,,,,,,,,,,,,,,,,
+MoorLa00,Lance Moore,WR,2015,32,DET,NFL,WR,14,8,2,1,0,1,0.5,0,0,0,0,,338,

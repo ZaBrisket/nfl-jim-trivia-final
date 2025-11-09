@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BarbPe01,Peyton Barber,RB,2016,22,TAM,NFL,RB,15,1,55,223,1,10,41.8,44,4.1,14.9,3.7,6,5,28,5.6,0,1,66.7,11,0.3,1.9,83.3,4.7,60,4.2,251,1,0,2,
+BarbPe01,Peyton Barber,RB,2017,23,TAM,NFL,RB,16,4,108,423,3,25,56.5,34,3.9,26.4,6.8,19,16,114,7.1,0,4,42.1,34,1.0,7.1,84.2,6.0,124,4.3,537,3,2,3,
+BarbPe01,Peyton Barber,RB,2018,24,TAM,NFL,RB,16,16,234,871,5,41,42.3,28,3.7,54.4,14.6,29,20,92,4.6,1,4,34.5,10,1.3,5.8,69.0,3.2,254,3.8,963,6,1,4,
+BarbPe01,Peyton Barber,RB,2019,25,TAM,NFL,RB,16,7,154,470,6,23,38.3,17,3.1,29.4,9.6,24,16,115,7.2,1,4,41.7,16,1.0,7.2,66.7,4.8,170,3.4,585,7,1,4,
+BarbPe01,Peyton Barber,RB,2020,26,WAS,NFL,RB,16,2,94,258,4,26,41.5,15,2.7,16.1,5.9,7,4,12,3.0,0,1,28.6,7,0.3,0.8,57.1,1.7,98,2.8,270,4,0,1,
+BarbPe01,Peyton Barber,RB,2021,27,LVR,NFL,RB,10,1,55,212,2,12,47.3,27,3.9,21.2,5.5,13,10,67,6.7,0,3,30.8,23,1.0,6.7,76.9,5.2,65,4.3,279,2,2,2,

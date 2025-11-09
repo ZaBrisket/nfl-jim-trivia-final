@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+BledDr00,Drew Bledsoe,QB,1994,22,NWE,NFL,QB,1,1,0-1-0,21,50,42.0,235,1,2.0,3,6.0,13,39.2,24,4.7,2.40,11.2,235.0,38.3,1,10,1.96,4.41,2.16,0,0,
+BledDr00,Drew Bledsoe,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BledDr00,Drew Bledsoe,QB,1996,24,NWE,NFL,QB,3,3,2-1-0,59,105,56.2,595,3,2.9,7,6.7,25,38.6,53,5.7,3.24,10.1,198.3,54.3,9,71,7.89,4.60,2.36,0,0,
+BledDr00,Drew Bledsoe,QB,1997,25,NWE,NFL,QB,2,2,1-1-0,39,76,51.3,403,1,1.3,2,2.6,21,33.3,39,5.3,4.38,10.3,201.5,60.4,5,39,6.17,4.49,3.63,0,0,
+BledDr00,Drew Bledsoe,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BledDr00,Drew Bledsoe,QB,2001,29,NWE,NFL,QB,1,0,,10,21,47.6,102,1,4.8,0,0.0,7,39.1,18,4.9,5.81,10.2,102.0,77.9,2,11,8.70,3.96,4.83,0,0,

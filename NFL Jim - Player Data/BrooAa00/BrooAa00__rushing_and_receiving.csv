@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BrooAa00,Aaron Brooks,QB,2000,24,NOR,NFL,QB,8,5,41,170,2,14,48.8,29,4.1,21.3,5.1,0,0,0,,0,0,,,0.0,0.0,,,41,4.1,170,2,4,
+BrooAa00,Aaron Brooks,QB,2001,25,NOR,NFL,QB,16,16,80,358,1,25,40.0,26,4.5,22.4,5.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,80,4.5,358,1,13,
+BrooAa00,Aaron Brooks,QB,2002,26,NOR,NFL,QB,16,16,62,253,2,21,46.8,21,4.1,15.8,3.9,0,0,0,,0,0,,,0.0,0.0,,,62,4.1,253,2,11,
+BrooAa00,Aaron Brooks,QB,2003,27,NOR,NFL,QB,16,16,54,175,2,20,48.1,15,3.2,10.9,3.4,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,54,3.2,175,2,14,
+BrooAa00,Aaron Brooks,QB,2004,28,NOR,NFL,QB,16,16,58,173,4,15,44.8,15,3.0,10.8,3.6,1,1,1,1.0,0,0,0.0,1,0.1,0.1,100.0,1.0,59,2.9,174,4,13,
+BrooAa00,Aaron Brooks,QB,2005,29,NOR,NFL,QB,13,13,45,281,2,20,60.0,22,6.2,21.6,3.5,0,0,0,,0,0,,,0.0,0.0,,,45,6.2,281,2,4,
+BrooAa00,Aaron Brooks,QB,2006,30,OAK,NFL,QB,8,8,22,124,0,5,45.5,23,5.6,15.5,2.8,0,0,0,,0,0,,,0.0,0.0,,,22,5.6,124,0,5,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+DrakKe00,Kenyan Drake,RB,2018,24,MIA,NFL,RB,16,7,120,535,23,290,2.4,245,2.0,9,13.3,73,53,477,23,54,1.0,423,8.0,2.2,2,26.5,6,8.2,0,112.6,
+DrakKe00,Kenyan Drake,RB,2019,25,2TM,NFL,RB,14,10,170,817,48,479,2.8,338,2.0,12,14.2,68,50,345,15,-79,-1.6,424,8.5,-0.6,2,25.0,3,4.4,1,78.4,
+DrakKe00,Kenyan Drake,RB,2019,25,MIA,NFL,RB,6,2,47,174,6,83,1.8,91,1.9,4,11.8,33,22,174,6,11,0.5,163,7.4,1.5,1,22.0,3,9.1,1,67.0,
+DrakKe00,Kenyan Drake,RB,2019,25,ARI,NFL,RB,8,8,123,643,42,396,3.2,247,2.0,8,15.4,35,28,171,9,-90,-3.2,261,9.3,-2.5,1,28.0,0,0.0,0,87.0,
+DrakKe00,Kenyan Drake,RB,2020,26,ARI,NFL,RB,15,13,239,955,59,549,2.3,406,1.7,16,14.9,31,25,137,5,-28,-1.1,165,6.6,-1.0,1,25.0,2,6.5,0,85.1,
+DrakKe00,Kenyan Drake,RB,2021,27,LVR,NFL,RB,12,2,63,254,15,147,2.3,107,1.7,4,15.8,40,30,291,12,32,1.1,259,8.6,1.8,5,6.0,0,0.0,0,103.2,
+DrakKe00,Kenyan Drake,RB,2022,28,BAL,NFL,RB,12,5,109,482,21,355,3.3,127,1.2,0,,26,17,89,7,-36,-2.1,125,7.4,-0.5,2,8.5,4,15.4,1,67.6,
+DrakKe00,Kenyan Drake,RB,2023,29,2TM,NFL,RB,3,0,2,0,0,0,0.0,0,0.0,0,,3,2,31,0,-5,-2.5,36,18.0,-1.3,1,2.0,0,0.0,0,100.7,
+DrakKe00,Kenyan Drake,RB,2023,29,BAL,NFL,RB,2,0,1,0,0,0,0.0,0,0.0,0,,3,2,31,0,-5,-2.5,36,18.0,-1.3,1,2.0,0,0.0,0,100.7,
+DrakKe00,Kenyan Drake,RB,2023,29,GNB,NFL,RB,1,0,1,0,0,0,0.0,0,0.0,0,,0,0,0,0,0,,0,,,0,,0,,0,,

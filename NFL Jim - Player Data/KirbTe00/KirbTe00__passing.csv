@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+KirbTe00,Terry Kirby,RB,1995,25,MIA,NFL,RB,16,4,1,1,100.0,31,1,100.0,0,0.0,1,100.0,31,31.0,51.00,31.0,1.9,158.3,0,0,0.00,31.00,51.00,0,0,
+KirbTe00,Terry Kirby,RB,1996,26,SFO,NFL,RB,14,10,1,2,50.0,24,1,50.0,0,0.0,1,50.0,24,12.0,22.00,24.0,1.7,133.3,0,0,0.00,12.00,22.00,0,0,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,1998,28,SFO,NFL,RB,9,0,1,1,100.0,28,1,100.0,0,0.0,1,100.0,28,28.0,48.00,28.0,3.1,158.3,0,0,0.00,28.00,48.00,0,0,
+KirbTe00,Terry Kirby,RB,1999,29,CLE,NFL,RB,16,10,1,1,100.0,2,0,0.0,0,0.0,0,,2,2.0,2.00,2.0,0.1,79.2,0,0,0.00,2.00,2.00,0,0,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,2002,32,OAK,NFL,RB,6,0,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,

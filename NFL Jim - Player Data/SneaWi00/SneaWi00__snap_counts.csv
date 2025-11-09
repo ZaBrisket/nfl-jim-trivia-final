@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SneaWi00,Willie Snead,WR,2015,23,NOR,WR,83,15,8,780,71%,0,0%,74,17%
+SneaWi00,Willie Snead,WR,2016,24,NOR,WR,83,15,4,743,69%,0,0%,15,3%
+SneaWi00,Willie Snead,WR,2017,25,NOR,WR,83,11,7,259,37%,0,0%,58,18%
+SneaWi00,Willie Snead,WR,2018,26,BAL,WR,83,16,10,821,69%,0,0%,5,1%
+SneaWi00,Willie Snead,WR,2019,27,BAL,WR,83,16,11,677,61%,0,0%,5,1%
+SneaWi00,Willie Snead,WR,2020,28,BAL,WR,83,13,8,535,63%,0,0%,4,1%
+SneaWi00,Willie Snead,WR,2021,29,2TM,WR,,9,0,56,,0,,38,
+SneaWi00,Willie Snead,WR,,,LVR,WR,17,7,0,38,8%,0,0%,38,19%
+SneaWi00,Willie Snead,WR,,,,,,,,18,13%,0,0%,0,0%
+SneaWi00,Willie Snead,WR,2022,30,SFO,WR,83,4,0,30,13%,0,0%,38,38%
+SneaWi00,Willie Snead,WR,2023,31,SFO,WR,83,4,0,47,19%,0,0%,23,24%

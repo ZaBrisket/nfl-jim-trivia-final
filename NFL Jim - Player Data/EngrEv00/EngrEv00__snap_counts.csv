@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+EngrEv00,Evan Engram,TE,2017,23,NYG,TE,88,15,11,777,77%,0,0%,115,27%
+EngrEv00,Evan Engram,TE,2018,24,NYG,TE,88,11,8,475,67%,0,0%,7,2%
+EngrEv00,Evan Engram,TE,2019,25,NYG,TE,88,8,6,444,80%,0,0%,1,1%
+EngrEv00,Evan Engram,TE,2020*,26,NYG,TE,88,16,14,837,83%,0,0%,35,9%
+EngrEv00,Evan Engram,TE,2021,27,NYG,TE,88,15,12,722,74%,0,0%,0,0%
+EngrEv00,Evan Engram,TE,2022,28,JAX,TE,17,17,14,868,77%,0,0%,1,0%
+EngrEv00,Evan Engram,TE,2023*,29,JAX,TE,17,17,15,917,79%,0,0%,7,2%
+EngrEv00,Evan Engram,TE,2024,30,JAX,TE,17,9,9,363,72%,0,0%,1,1%
+EngrEv00,Evan Engram,TE,2025,31,DEN,TE,1,9,1,275,45%,0,0%,0,0%

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WilsCe01,Cedrick Wilson Jr.,WR,2020,25,DAL,NFL,WR,16,0,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+WilsCe01,Cedrick Wilson Jr.,WR,2021,26,DAL,NFL,WR,16,4,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,38,2.4,
+WilsCe01,Cedrick Wilson Jr.,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+WilsCe01,Cedrick Wilson Jr.,WR,2023,28,MIA,NFL,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.2,
+WilsCe01,Cedrick Wilson Jr.,WR,2024,29,NOR,NFL,WR,15,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CrumAl00,Alge Crumpler,TE,2001,24,ATL,NFL,TE,16,12,0,0,0,0,3,32,0,14,10.7,362,
+CrumAl00,Alge Crumpler,TE,2002,25,ATL,NFL,TE,16,9,0,0,0,0,1,9,0,9,9.0,464,
+CrumAl00,Alge Crumpler,TE,,,,,,,,,,,,,,,,,,
+CrumAl00,Alge Crumpler,TE,2009,32,TEN,NFL,TE,16,14,0,0,0,0,3,20,0,15,6.7,242,
+CrumAl00,Alge Crumpler,TE,2010,33,NWE,NFL,TE,16,10,0,0,0,0,5,18,0,7,3.6,70,

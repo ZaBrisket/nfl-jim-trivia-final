@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WashLe00,Leon Washington,RB,2006,24,NYJ,NFL,RB,16,8,151,650,4,32,47.0,23,4.3,40.6,9.4,31,25,270,10.8,0,7,48.4,64,1.6,16.9,80.6,8.7,176,5.2,920,4,3,7,
+WashLe00,Leon Washington,RB,2007,25,NYJ,NFL,RB,16,4,71,353,3,12,36.6,49,5.0,22.1,4.4,51,36,213,5.9,0,15,43.1,18,2.3,13.3,70.6,4.2,107,5.3,566,3,4,7,
+WashLe00,Leon Washington,RB,2008,26,NYJ,NFL,RB,16,1,76,448,6,17,50.0,61,5.9,28.0,4.8,61,47,355,7.6,2,17,42.6,40,2.9,22.2,77.0,5.8,123,6.5,803,8,3,8,"PB,AP-1"
+WashLe00,Leon Washington,RB,2009,27,NYJ,NFL,RB,7,0,72,331,0,9,33.3,33,4.6,47.3,10.3,26,15,131,8.7,0,4,23.1,33,2.1,18.7,57.7,5.0,87,5.3,462,0,1,3,
+WashLe00,Leon Washington,RB,2010,28,SEA,NFL,RB,16,0,27,100,1,5,44.4,21,3.7,6.3,1.7,13,9,79,8.8,0,3,46.2,28,0.6,4.9,69.2,6.1,36,5.0,179,1,3,4,"AP-2,AP CPoY-7"
+WashLe00,Leon Washington,RB,2011,29,SEA,NFL,RB,16,1,53,248,1,9,35.8,48,4.7,15.5,3.3,14,10,48,4.8,0,2,42.9,9,0.6,3.0,71.4,3.4,63,4.7,296,1,2,2,
+WashLe00,Leon Washington,RB,2012,30,SEA,NFL,RB,16,0,23,83,1,3,21.7,14,3.6,5.2,1.4,8,4,31,7.8,0,2,50.0,9,0.3,1.9,50.0,3.9,27,4.2,114,1,2,2,PB
+WashLe00,Leon Washington,RB,2013,31,2TM,NFL,RB,7,0,1,1,0,0,0.0,1,1.0,0.1,0.1,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,1,1.0,1,0,1,0,
+WashLe00,Leon Washington,RB,2013,31,NWE,NFL,RB,2,0,1,1,0,0,0.0,1,1.0,0.5,0.5,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,1,1.0,1,0,0,0,
+WashLe00,Leon Washington,RB,2013,31,TEN,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,
+WashLe00,Leon Washington,RB,2014,32,TEN,NFL,RB,16,0,13,57,0,1,15.4,16,4.4,3.6,0.8,31,22,159,7.2,2,8,32.3,25,1.4,9.9,71.0,5.1,35,6.2,216,2,3,1,

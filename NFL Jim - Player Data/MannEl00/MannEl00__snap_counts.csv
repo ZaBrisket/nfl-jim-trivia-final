@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MannEl00,Eli Manning,QB,2012*,31,NYG,QB,10,16,16,1005,99%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2013,32,NYG,QB,10,16,16,987,96%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2014,33,NYG,QB,10,16,16,1109,98%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2015*,34,NYG,QB,10,16,16,1107,99%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2016,35,NYG,QB,10,16,16,1062,100%,0,0%,1,0%
+MannEl00,Eli Manning,QB,2017,36,NYG,QB,10,15,15,1017,100%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2018,37,NYG,QB,10,16,16,1009,98%,0,0%,0,0%
+MannEl00,Eli Manning,QB,2019,38,NYG,QB,10,4,4,248,97%,0,0%,0,0%

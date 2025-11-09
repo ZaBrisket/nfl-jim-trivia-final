@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+AlleKe00,Keenan Allen,WR,2013,21,SDG,NFL,WR,15,14,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,AP ORoY-2
+AlleKe00,Keenan Allen,WR,2014,22,SDG,NFL,WR,14,14,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,
+AlleKe00,Keenan Allen,WR,2015,23,SDG,NFL,WR,8,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+AlleKe00,Keenan Allen,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+AlleKe00,Keenan Allen,WR,2017,25,LAC,NFL,WR,16,15,1,32,0,32,1,0,1,1,27,1,0.0,0,0,0,0,0,0,"PB,AP CPoY-1"
+AlleKe00,Keenan Allen,WR,2018,26,LAC,NFL,WR,16,14,0,0,0,0,0,0,3,1,-19,0,0.0,0,0,0,0,0,0,PB
+AlleKe00,Keenan Allen,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+AlleKe00,Keenan Allen,WR,2020,28,LAC,NFL,WR,14,13,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,PB
+AlleKe00,Keenan Allen,WR,2021,29,LAC,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,PB
+AlleKe00,Keenan Allen,WR,2022,30,LAC,NFL,WR,10,10,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+AlleKe00,Keenan Allen,WR,2023,31,LAC,NFL,WR,13,13,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,PB
+AlleKe00,Keenan Allen,WR,2024,32,CHI,NFL,WR,15,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+AlleKe00,Keenan Allen,WR,2025,33,LAC,NFL,WR,9,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,

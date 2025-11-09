@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WoodRo02,Robert Woods,WR,2013,21,BUF,NFL,WR,14,14,85,40,587,14.7,3,26,42.4,57,2.9,41.9,47.1,6.9,2,16,0,1,50.0,13,8.0,1.1,0.1,42,14.4,603,3,0,5,
+WoodRo02,Robert Woods,WR,2014,22,BUF,NFL,WR,16,15,104,65,699,10.8,5,35,47.1,37,4.1,43.7,62.5,6.7,0,0,0,0,,,,0.0,0.0,65,10.8,699,5,1,5,
+WoodRo02,Robert Woods,WR,2015,23,BUF,NFL,WR,14,9,80,47,552,11.7,3,27,52.5,37,3.4,39.4,58.8,6.9,1,0,0,0,0.0,,0.0,0.0,0.1,48,11.5,552,3,2,5,
+WoodRo02,Robert Woods,WR,2016,24,BUF,NFL,WR,13,10,76,51,613,12.0,1,34,56.6,34,3.9,47.2,67.1,8.1,1,6,0,1,100.0,6,6.0,0.5,0.1,52,11.9,619,1,0,6,
+WoodRo02,Robert Woods,WR,2017,25,LAR,NFL,WR,12,11,85,56,781,13.9,5,36,52.9,94,4.7,65.1,65.9,9.2,2,12,0,0,50.0,8,6.0,1.0,0.2,58,13.7,793,5,1,8,
+WoodRo02,Robert Woods,WR,2018,26,LAR,NFL,WR,16,16,130,86,1219,14.2,6,66,59.2,39,5.4,76.2,66.2,9.4,19,157,1,9,63.2,56,8.3,9.8,1.2,105,13.1,1376,7,0,14,
+WoodRo02,Robert Woods,WR,2019,27,LAR,NFL,WR,15,15,139,90,1134,12.6,2,54,51.1,48,6.0,75.6,64.7,8.2,17,115,1,5,64.7,20,6.8,7.7,1.1,107,11.7,1249,3,0,9,
+WoodRo02,Robert Woods,WR,2020,28,LAR,NFL,WR,16,16,129,90,936,10.4,6,46,55.0,56,5.6,58.5,69.8,7.3,24,155,2,9,66.7,40,6.5,9.7,1.5,114,9.6,1091,8,2,7,
+WoodRo02,Robert Woods,WR,2021,29,LAR,NFL,WR,9,9,69,45,556,12.4,4,34,59.4,28,5.0,61.8,65.2,8.1,8,46,1,1,50.0,16,5.8,5.1,0.9,53,11.4,602,5,0,5,
+WoodRo02,Robert Woods,WR,2022,30,TEN,NFL,WR,17,15,91,53,527,9.9,2,31,50.5,41,3.1,31.0,58.2,5.8,0,0,0,0,,,,0.0,0.0,53,9.9,527,2,1,4,
+WoodRo02,Robert Woods,WR,2023,31,HOU,NFL,WR,14,11,75,40,426,10.7,1,26,45.3,26,2.9,30.4,53.3,5.7,1,7,0,0,100.0,7,7.0,0.5,0.1,41,10.6,433,1,0,4,
+WoodRo02,Robert Woods,WR,2024,32,HOU,NFL,WR,15,4,30,20,203,10.2,0,12,50.0,32,1.3,13.5,66.7,6.8,0,0,0,0,,,,0.0,0.0,20,10.2,203,0,3,2,

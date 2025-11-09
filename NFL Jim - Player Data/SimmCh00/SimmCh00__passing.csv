@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+SimmCh00,Chris Simms,QB,2004,24,TAM,NFL,QB,5,2,1-1-0,42,73,57.5,467,1,1.4,3,4.1,21,41.0,75,6.4,4.82,11.1,93.4,64.1,,10,75,12.05,4.72,3.34,0,0,1,
+SimmCh00,Chris Simms,QB,2005,25,TAM,NFL,QB,11,10,6-4-0,191,313,61.0,2035,10,3.2,7,2.2,107,43.6,78,6.5,6.13,10.7,185.0,81.4,,29,205,8.48,5.35,5.01,3,3,6,
+SimmCh00,Chris Simms,QB,2006,26,TAM,NFL,QB,3,3,0-3-0,58,106,54.7,585,1,0.9,7,6.6,28,42.7,55,5.5,2.74,10.1,195.0,46.3,34.1,4,32,3.64,5.03,2.35,0,0,1,
+SimmCh00,Chris Simms,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SimmCh00,Chris Simms,QB,2008,28,TEN,NFL,QB,1,0,,1,2,50.0,7,0,0.0,0,0.0,1,33.3,7,3.5,3.50,7.0,7.0,58.3,3.9,1,10,33.33,-1.00,-1.00,0,0,0,
+SimmCh00,Chris Simms,QB,2009,29,DEN,NFL,QB,3,1,0-1-0,5,17,29.4,23,0,0.0,1,5.9,1,9.1,7,1.4,-1.29,4.6,7.7,15.1,1.5,5,39,22.73,-0.73,-2.77,0,0,0,

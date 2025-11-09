@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CarsCh00,Chris Carson,RB,2018,24,SEA,NFL,RB,1,1,13,20,0,0,23.1,5,1.5,20.0,13.0,3,2,-1,-0.5,0,0,0.0,7,2.0,-1.0,66.7,-0.3,15,1.3,19,0,0,
+CarsCh00,Chris Carson,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CarsCh00,Chris Carson,RB,2020,26,SEA,NFL,RB,1,1,16,77,0,3,50.0,14,4.8,77.0,16.0,2,1,5,5.0,0,0,50.0,5,1.0,5.0,50.0,2.5,17,4.8,82,0,0,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WoodIc00,Ickey Woods,RB,1988,22,CIN,NFL,FB,16,10,203,1066,15,73,60.6,56,5.3,66.6,12.7,23,21,199,9.5,0,10,69.6,25,1.3,12.4,91.3,8.7,224,5.6,1265,15,8,13,"AP-2,AP ORoY-3"
+WoodIc00,Ickey Woods,RB,1989,23,CIN,NFL,RB,2,2,29,94,2,8,51.7,12,3.2,47.0,14.5,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,29,3.2,94,2,1,1,
+WoodIc00,Ickey Woods,RB,1990,24,CIN,NFL,FB,10,6,64,268,6,20,42.2,32,4.2,26.8,6.4,25,20,162,8.1,0,11,60.0,22,2.0,16.2,80.0,6.5,84,5.1,430,6,1,4,
+WoodIc00,Ickey Woods,RB,1991,25,CIN,NFL,RB,9,2,36,97,4,12,38.9,12,2.7,10.8,4.0,9,6,36,6.0,0,1,33.3,16,0.7,4.0,66.7,4.0,42,3.2,133,4,2,1,

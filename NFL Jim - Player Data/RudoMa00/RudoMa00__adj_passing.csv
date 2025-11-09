@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+RudoMa00,Mason Rudolph,QB,2019,24,PIT,NFL,QB,10,8,80,84,81,84,90,99,84,110,86,
+RudoMa00,Mason Rudolph,QB,,,,,,,,,,,,,,,,,
+RudoMa00,Mason Rudolph,QB,2021,26,PIT,NFL,QB,2,1,51,71,64,76,81,72,110,143,72,
+RudoMa00,Mason Rudolph,QB,,,,,,,,,,,,,,,,,
+RudoMa00,Mason Rudolph,QB,2023,28,PIT,NFL,QB,4,3,159,146,159,149,148,99,152,95,150,
+RudoMa00,Mason Rudolph,QB,2024,29,TEN,NFL,QB,8,5,93,100,83,89,97,96,67,117,85,

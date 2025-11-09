@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+StevRh00,Rhamondre Stevenson,RB,2021,23,NWE,NFL,RB,12,2,133,606,33,250,1.9,356,2.7,16,8.3,18,14,123,3,-22,-1.6,145,10.4,-0.3,5,2.8,1,5.6,0,95.1,
+StevRh00,Rhamondre Stevenson,RB,2022,24,NWE,NFL,RB,17,7,210,1040,49,601,2.9,439,2.1,24,8.8,88,69,421,13,-53,-0.8,474,6.9,0.0,11,6.3,7,8.0,0,90.4,
+StevRh00,Rhamondre Stevenson,RB,2023,25,NWE,NFL,RB,12,12,156,619,36,296,1.9,323,2.1,11,14.2,51,38,238,8,-23,-0.6,261,6.9,0.3,4,9.5,4,7.8,1,75.4,
+StevRh00,Rhamondre Stevenson,RB,2024,26,NWE,NFL,RB,15,14,207,801,40,370,1.8,431,2.1,14,14.8,41,33,168,8,-69,-2.1,237,7.2,-1.0,3,11.0,1,2.4,0,91.9,
+StevRh00,Rhamondre Stevenson,RB,2025,27,NWE,NFL,RB,8,8,83,279,13,118,1.4,161,1.9,10,8.3,19,16,169,4,42,2.6,127,7.9,4.3,0,,0,0.0,0,103.7,

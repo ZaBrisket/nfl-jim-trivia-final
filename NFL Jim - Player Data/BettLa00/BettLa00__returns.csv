@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BettLa00,Ladell Betts,RB,2002,23,WAS,NFL,RB,11,0,0,0,0,0,28,690,0,60,24.6,1151,
+BettLa00,Ladell Betts,RB,2003,24,WAS,NFL,RB,9,1,0,0,0,0,3,59,0,26,19.7,481,
+BettLa00,Ladell Betts,RB,2004,25,WAS,NFL,RB,16,1,0,0,0,0,23,528,0,70,23.0,1007,
+BettLa00,Ladell Betts,RB,2005,26,WAS,NFL,RB,12,0,0,0,0,0,24,621,1,94,25.9,1037,
+BettLa00,Ladell Betts,RB,2006,27,WAS,NFL,RB,16,9,0,0,0,0,2,27,0,27,13.5,1626,
+BettLa00,Ladell Betts,RB,2007,28,WAS,NFL,RB,16,0,0,0,0,0,5,108,0,36,21.6,617,
+BettLa00,Ladell Betts,RB,,,,,,,,,,,,,,,,,,
+BettLa00,Ladell Betts,RB,2009,30,WAS,NFL,RB,10,2,0,0,0,0,1,29,0,29,29.0,418,
+BettLa00,Ladell Betts,RB,2010,31,NOR,NFL,RB,8,1,0,0,0,0,1,23,0,23,23.0,314,

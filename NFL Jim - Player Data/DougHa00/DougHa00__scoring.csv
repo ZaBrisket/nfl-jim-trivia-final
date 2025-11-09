@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DougHa00,Harry Douglas,WR,2008,24,ATL,NFL,WR,16,0,1,1,1,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+DougHa00,Harry Douglas,WR,,,,,,,,,,,,,,,,,,,,,,,,
+DougHa00,Harry Douglas,WR,2010,26,ATL,NFL,WR,16,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+DougHa00,Harry Douglas,WR,2011,27,ATL,NFL,WR,16,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+DougHa00,Harry Douglas,WR,2012,28,ATL,NFL,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+DougHa00,Harry Douglas,WR,2013,29,ATL,NFL,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DougHa00,Harry Douglas,WR,2014,30,ATL,NFL,WR,12,6,0,2,0,0,0,0,0,2,1,0,0,0,0,0,14,1.2,
+DougHa00,Harry Douglas,WR,2015,31,TEN,NFL,WR,14,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,

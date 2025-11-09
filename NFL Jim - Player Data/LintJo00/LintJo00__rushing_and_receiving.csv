@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LintJo00,Jonathan Linton,RB,1998,24,BUF,NFL,RB,14,0,45,195,1,11,44.4,20,4.3,13.9,3.2,3,1,10,10.0,0,0,0.0,10,0.1,0.7,33.3,3.3,46,4.5,205,1,0,2,
+LintJo00,Jonathan Linton,RB,1999,25,BUF,NFL,RB,16,2,205,695,5,44,42.4,18,3.4,43.4,12.8,39,29,228,7.9,1,8,46.2,28,1.8,14.3,74.4,5.8,234,3.9,923,6,4,6,
+LintJo00,Jonathan Linton,RB,2000,26,BUF,NFL,RB,14,2,38,112,0,6,39.5,12,2.9,8.0,2.7,4,3,8,2.7,1,1,25.0,4,0.2,0.6,75.0,2.0,41,2.9,120,1,3,1,

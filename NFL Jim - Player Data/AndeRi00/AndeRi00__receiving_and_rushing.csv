@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AndeRi00,Richie Anderson,FB,1993,22,NYJ,NFL,FB,7,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,1,0,
+AndeRi00,Richie Anderson,FB,1994,23,NYJ,NFL,FB,13,5,33,25,212,8.5,1,12,54.5,27,1.9,16.3,75.8,6.4,43,207,1,10,44.2,55,4.8,15.9,3.3,68,6.2,419,2,1,3,
+AndeRi00,Richie Anderson,FB,1995,24,NYJ,NFL,FB,10,0,8,5,26,5.2,0,1,50.0,9,0.5,2.6,62.5,3.3,5,17,0,2,40.0,10,3.4,1.7,0.5,10,4.3,43,0,2,0,
+AndeRi00,Richie Anderson,FB,1996,25,NYJ,NFL,FB,16,13,70,44,385,8.8,0,16,32.9,48,2.8,24.1,62.9,5.5,47,150,1,15,51.1,11,3.2,9.4,2.9,91,5.9,535,1,0,4,
+AndeRi00,Richie Anderson,FB,1997,26,NYJ,NFL,FB,16,3,34,26,150,5.8,1,6,44.1,19,1.6,9.4,76.5,4.4,21,70,0,4,28.6,19,3.3,4.4,1.3,47,4.7,220,1,2,2,
+AndeRi00,Richie Anderson,FB,1998,27,NYJ,NFL,FB,8,1,5,3,12,4.0,0,1,40.0,7,0.4,1.5,60.0,2.4,1,2,0,0,0.0,2,2.0,0.3,0.1,4,3.5,14,0,0,0,
+AndeRi00,Richie Anderson,FB,1999,28,NYJ,NFL,FB,16,9,46,29,302,10.4,3,14,43.5,29,1.8,18.9,63.0,6.6,16,84,0,4,37.5,16,5.3,5.3,1.0,45,8.6,386,3,0,4,
+AndeRi00,Richie Anderson,FB,2000,29,NYJ,NFL,FB,16,10,124,88,853,9.7,2,35,51.6,41,5.5,53.3,71.0,6.9,27,63,0,8,44.4,9,2.3,3.9,1.7,115,8.0,916,2,2,7,PB
+AndeRi00,Richie Anderson,FB,2001,30,NYJ,NFL,FB,16,15,58,40,252,6.3,2,13,39.7,22,2.5,15.8,69.0,4.3,26,102,0,4,53.8,12,3.9,6.4,1.6,66,5.4,354,2,1,3,
+AndeRi00,Richie Anderson,FB,2002,31,NYJ,NFL,FB,16,14,56,45,257,5.7,1,9,48.2,15,2.8,16.1,80.4,4.6,5,27,0,1,40.0,16,5.4,1.7,0.3,50,5.7,284,1,0,3,
+AndeRi00,Richie Anderson,FB,2003,32,DAL,NFL,FB,15,8,87,69,493,7.1,4,21,43.7,37,4.6,32.9,79.3,5.7,70,306,1,16,44.3,19,4.4,20.4,4.7,139,5.7,799,5,1,5,
+AndeRi00,Richie Anderson,FB,2004,33,DAL,NFL,FB,12,4,41,26,207,8.0,0,7,41.5,28,2.2,17.3,63.4,5.0,57,246,1,12,40.4,27,4.3,20.5,4.8,83,5.5,453,1,1,3,

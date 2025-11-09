@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ThraJa00,James Thrash,WR,1998,23,WAS,NFL,WR,10,1,0,0,0,0,,6,129,0,39,21.5,292,
+ThraJa00,James Thrash,WR,1999,24,WAS,NFL,WR,16,0,0,0,0,0,,14,355,1,95,25.4,436,
+ThraJa00,James Thrash,WR,2000,25,WAS,NFL,WR,16,9,10,106,0,25,10.6,45,1000,0,49,22.2,1841,
+ThraJa00,James Thrash,WR,2001,26,PHI,NFL,WR,15,15,0,0,0,0,,5,101,0,34,20.2,991,
+ThraJa00,James Thrash,WR,,,,,,,,,,,,,,,,,,,
+ThraJa00,James Thrash,WR,2003,28,PHI,NFL,WR,16,16,1,2,0,2,2.0,34,815,0,54,24.0,1427,
+ThraJa00,James Thrash,WR,2004,29,WAS,NFL,WR,16,3,19,162,0,43,8.5,9,186,0,36,20.7,551,
+ThraJa00,James Thrash,WR,2005,30,WAS,NFL,WR,12,2,10,77,0,18,7.7,7,170,0,31,24.3,449,
+ThraJa00,James Thrash,WR,2006,31,WAS,NFL,WR,16,0,0,0,0,0,,1,10,0,10,10.0,161,
+ThraJa00,James Thrash,WR,2007,32,WAS,NFL,WR,12,4,2,71,0,62,35.5,2,36,0,20,18.0,214,
+ThraJa00,James Thrash,WR,2008,33,WAS,NFL,WR,16,5,0,0,0,0,,1,17,0,17,17.0,98,

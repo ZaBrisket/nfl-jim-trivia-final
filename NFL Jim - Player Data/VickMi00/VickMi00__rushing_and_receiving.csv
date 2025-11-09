@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+VickMi00,Michael Vick,QB,2001,21,ATL,NFL,QB,8,2,31,289,1,15,64.5,35,9.3,36.1,3.9,0,0,0,,0,0,,,0.0,0.0,,,31,9.3,289,1,6,
+VickMi00,Michael Vick,QB,2002,22,ATL,NFL,QB,15,15,113,777,8,45,53.1,46,6.9,51.8,7.5,1,0,16,,0,0,0.0,16,0.0,1.1,0.0,16.0,113,7.0,793,8,9,"PB,AP MVP-4"
+VickMi00,Michael Vick,QB,2003,23,ATL,NFL,QB,5,4,40,255,1,14,57.5,43,6.4,51.0,8.0,0,0,0,,0,0,,,0.0,0.0,,,40,6.4,255,1,4,
+VickMi00,Michael Vick,QB,2004,24,ATL,NFL,QB,15,15,120,902,3,52,58.3,58,7.5,60.1,8.0,0,0,0,,0,0,,,0.0,0.0,,,120,7.5,902,3,16,"PB,AP MVP-2,AP OPoY-5,AP CPoY-6"
+VickMi00,Michael Vick,QB,2005,25,ATL,NFL,QB,15,15,102,597,6,43,56.9,32,5.9,39.8,6.8,1,1,-14,-14.0,0,0,0.0,-14,0.1,-0.9,100.0,-14.0,103,5.7,583,6,11,PB
+VickMi00,Michael Vick,QB,2006,26,ATL,NFL,QB,16,16,123,1039,2,56,63.4,51,8.4,64.9,7.7,1,1,1,1.0,0,0,0.0,1,0.1,0.1,100.0,1.0,124,8.4,1040,2,9,
+VickMi00,Michael Vick,QB,2007,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2008,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2009,29,PHI,NFL,QB,12,1,24,95,2,7,45.8,34,4.0,7.9,2.0,0,0,0,,0,0,,,0.0,0.0,,,24,4.0,95,2,0,
+VickMi00,Michael Vick,QB,2010,30,PHI,NFL,QB,12,12,100,676,9,36,54.0,35,6.8,56.3,8.3,0,0,0,,0,0,,,0.0,0.0,,,100,6.8,676,9,11,"PB,AP OPoY-2,AP CPoY-1"
+VickMi00,Michael Vick,QB,2011,31,PHI,NFL,QB,13,13,76,589,1,27,61.8,53,7.8,45.3,5.8,0,0,0,,0,0,,,0.0,0.0,,,76,7.8,589,1,10,
+VickMi00,Michael Vick,QB,2012,32,PHI,NFL,QB,10,10,62,332,1,20,58.1,20,5.4,33.2,6.2,0,0,0,,0,0,,,0.0,0.0,,,62,5.4,332,1,11,
+VickMi00,Michael Vick,QB,2013,33,PHI,NFL,QB,7,6,36,306,2,17,61.1,61,8.5,43.7,5.1,0,0,-2,,0,0,,-2,0.0,-0.3,,,36,8.4,304,2,4,
+VickMi00,Michael Vick,QB,2014,34,NYJ,NFL,QB,10,3,26,153,0,10,50.0,24,5.9,15.3,2.6,0,0,0,,0,0,,,0.0,0.0,,,26,5.9,153,0,5,
+VickMi00,Michael Vick,QB,2015,35,PIT,NFL,QB,5,3,20,99,0,5,45.0,24,5.0,19.8,4.0,0,0,0,,0,0,,,0.0,0.0,,,20,5.0,99,0,2,

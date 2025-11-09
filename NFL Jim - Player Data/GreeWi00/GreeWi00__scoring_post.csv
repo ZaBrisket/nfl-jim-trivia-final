@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GreeWi00,Willie Green,WR,1991,25,DET,NFL,WR,2,2,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,9.0,
+GreeWi00,Willie Green,WR,,,,,,,,,,,,,,,,,,,,,,,,
+GreeWi00,Willie Green,WR,1996,30,CAR,NFL,WR,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,

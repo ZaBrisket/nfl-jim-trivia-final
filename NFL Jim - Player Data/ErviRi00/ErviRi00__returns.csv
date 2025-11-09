@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ErviRi00,Ricky Ervins,RB,1991,23,WAS,NFL,RB,15,0,0,0,0,0,11,232,0,46,21.1,1093,AP ORoY-2
+ErviRi00,Ricky Ervins,RB,,,,,,,,,,,,,,,,,,
+ErviRi00,Ricky Ervins,RB,1993,25,WAS,NFL,RB,15,1,0,0,0,0,2,29,0,18,14.5,353,
+ErviRi00,Ricky Ervins,RB,1994,26,WAS,NFL,RB,16,10,0,0,0,0,1,17,0,17,17.0,960,
+ErviRi00,Ricky Ervins,RB,1995,27,SFO,NFL,RB,14,0,0,0,0,0,5,32,0,14,6.4,141,

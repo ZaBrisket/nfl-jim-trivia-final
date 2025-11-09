@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McMiRa00,Randy McMillan,RB,1981,23,BAL,NFL,FB,16,16,149,597,3,36,47.7,42,4.0,37.3,9.3,64,50,466,9.3,1,22,62.5,31,3.1,29.1,78.1,7.3,199,5.3,1063,4,1,8,
+McMiRa00,Randy McMillan,RB,1982,24,BAL,NFL,FB,9,9,101,305,1,20,39.6,13,3.0,33.9,11.2,24,15,90,6.0,0,4,33.3,17,1.7,10.0,62.5,3.8,116,3.4,395,1,1,4,
+McMiRa00,Randy McMillan,RB,1983,25,BAL,NFL,FB,16,16,198,802,5,62,54.5,39,4.1,50.1,12.4,48,24,195,8.1,1,6,22.9,27,1.5,12.2,50.0,4.1,222,4.5,997,6,5,6,
+McMiRa00,Randy McMillan,RB,1984,26,IND,NFL,FB,16,16,163,705,5,48,49.1,31,4.3,44.1,10.2,28,19,201,10.6,0,6,42.9,44,1.2,12.6,67.9,7.2,182,5.0,906,5,1,6,
+McMiRa00,Randy McMillan,RB,1985,27,IND,NFL,FB,15,14,190,858,7,40,50.0,38,4.5,57.2,12.7,50,22,115,5.2,0,8,24.0,17,1.5,7.7,44.0,2.3,212,4.6,973,7,0,7,
+McMiRa00,Randy McMillan,RB,1986,28,IND,NFL,FB,16,16,189,609,3,29,39.2,28,3.2,38.1,11.8,54,34,289,8.5,0,15,38.9,45,2.1,18.1,63.0,5.4,223,4.0,898,3,5,5,

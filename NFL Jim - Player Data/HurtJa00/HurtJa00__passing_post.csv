@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+HurtJa00,Jalen Hurts,QB,2021,23,PHI,NFL,QB,1,1,0-1-0,23,43,53.5,258,1,2.3,2,4.7,10,28.9,35,6.0,4.37,11.2,258.0,60.0,2,14,4.44,5.42,3.87,0,0,
+HurtJa00,Jalen Hurts,QB,2022,24,PHI,NFL,QB,3,3,2-1-0,58,87,66.7,579,3,3.4,0,0.0,25,42.9,45,6.7,7.34,10.0,193.0,96.9,4,8,4.40,6.27,6.93,0,0,
+HurtJa00,Jalen Hurts,QB,2023,25,PHI,NFL,QB,1,1,0-1-0,25,35,71.4,250,1,2.9,0,0.0,9,34.2,55,7.1,7.71,10.0,250.0,100.9,3,16,7.89,6.16,6.68,0,0,
+HurtJa00,Jalen Hurts,QB,2024,26,PHI,NFL,QB,4,4,4-0-0,65,91,71.4,726,5,5.5,1,1.1,35,49.0,46,8.0,8.58,11.2,181.5,108.6,13,100,12.50,6.02,6.55,0,0,SB MVP

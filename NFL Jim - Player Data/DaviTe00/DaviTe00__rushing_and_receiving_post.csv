@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DaviTe00,Terrell Davis,RB,1996,24,DEN,NFL,RB,1,1,14,91,1,5,64.3,47,6.5,91.0,14.0,9,7,24,3.4,0,0,11.1,6,7.0,24.0,77.8,2.7,21,5.5,115,1,0,
+DaviTe00,Terrell Davis,RB,1997,25,DEN,NFL,RB,4,4,112,581,8,34,55.4,59,5.2,145.3,28.0,10,8,38,4.8,0,2,40.0,17,2.0,9.5,80.0,3.8,120,5.2,619,8,4,SB MVP
+DaviTe00,Terrell Davis,RB,1998,26,DEN,NFL,RB,3,3,78,468,3,19,51.3,62,6.0,156.0,26.0,7,4,69,17.3,0,4,57.1,39,1.3,23.0,57.1,9.9,82,6.5,537,3,0,

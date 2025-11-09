@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WhitJa02,James White,RB,2014,22,NWE,RB,28,3,0,31,16%,0,0%,0,0%
+WhitJa02,James White,RB,2015,23,NWE,RB,28,14,1,291,31%,0,0%,2,1%
+WhitJa02,James White,RB,2016,24,NWE,RB,28,16,4,426,38%,0,0%,13,3%
+WhitJa02,James White,RB,2017,25,NWE,RB,28,14,4,383,39%,0,0%,6,2%
+WhitJa02,James White,RB,2018,26,NWE,RB,28,16,3,600,54%,0,0%,33,7%
+WhitJa02,James White,RB,2019,27,NWE,RB,28,15,1,490,46%,0,0%,51,12%
+WhitJa02,James White,RB,2020,28,NWE,RB,28,14,0,330,38%,0,0%,13,4%
+WhitJa02,James White,RB,2021,29,NWE,RB,28,3,0,63,31%,0,0%,1,1%

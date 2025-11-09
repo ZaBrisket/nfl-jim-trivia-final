@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+AustMi00,Miles Austin,WR,2006,22,DAL,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+AustMi00,Miles Austin,WR,2007,23,DAL,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+AustMi00,Miles Austin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AustMi00,Miles Austin,WR,2009,25,DAL,NFL,WR,2,2,18,11,116,10.5,1,4,44.4,36,5.5,58.0,61.1,6.4,1,8,0,1,100.0,8,8.0,4.0,0.5,12,10.3,124,1,0,

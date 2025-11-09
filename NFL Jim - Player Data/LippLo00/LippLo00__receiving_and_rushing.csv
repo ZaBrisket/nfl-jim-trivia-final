@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LippLo00,Louis Lipps,WR,1984,22,PIT,NFL,WR,14,8,83,45,860,19.1,9,35,48.2,80,3.2,61.4,54.2,10.4,3,71,1,3,100.0,36,23.7,5.1,0.2,48,19.4,931,10,8,10,"PB,AP-2,AP ORoY-1"
+LippLo00,Louis Lipps,WR,1985,23,PIT,NFL,WR,16,16,120,59,1134,19.2,12,46,44.2,51,3.7,70.9,49.2,9.5,2,16,1,1,50.0,15,8.0,1.0,0.1,61,18.9,1150,13,5,13,"PB,AP-2"
+LippLo00,Louis Lipps,WR,1986,24,PIT,NFL,WR,13,12,92,38,590,15.5,3,33,41.3,48,2.9,45.4,41.3,6.4,4,-3,0,0,25.0,8,-0.8,-0.2,0.3,42,14.0,587,3,2,6,
+LippLo00,Louis Lipps,WR,1987,25,PIT,NFL,WR,4,2,30,11,164,14.9,0,9,33.3,27,2.8,41.0,36.7,5.5,0,0,0,0,,,,0.0,0.0,11,14.9,164,0,0,1,
+LippLo00,Louis Lipps,WR,1988,26,PIT,NFL,WR,16,16,129,50,973,19.5,5,44,38.0,89,3.1,60.8,38.8,7.5,6,129,1,5,100.0,39,21.5,8.1,0.4,56,19.7,1102,6,2,9,
+LippLo00,Louis Lipps,WR,1989,27,PIT,NFL,WR,16,16,97,50,944,18.9,5,39,51.5,79,3.1,59.0,51.5,9.7,13,180,1,7,69.2,58,13.8,11.3,0.8,63,17.8,1124,6,2,10,
+LippLo00,Louis Lipps,WR,1990,28,PIT,NFL,WR,14,14,79,50,682,13.6,3,36,62.0,37,3.6,48.7,63.3,8.6,1,-5,0,0,0.0,-5,-5.0,-0.4,0.1,51,13.3,677,3,1,7,
+LippLo00,Louis Lipps,WR,1991,29,PIT,NFL,WR,15,14,108,55,671,12.2,2,37,48.1,35,3.7,44.7,50.9,6.2,0,0,0,0,,,,0.0,0.0,55,12.2,671,2,1,6,
+LippLo00,Louis Lipps,WR,1992,30,NOR,NFL,WR,2,0,1,1,1,1.0,0,0,0.0,1,0.5,0.5,100.0,1.0,0,0,0,0,,,,0.0,0.0,1,1.0,1,0,1,0,

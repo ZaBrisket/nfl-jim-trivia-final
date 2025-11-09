@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrowTe00,Ted Brown,RB,1979,22,MIN,NFL,FB,14,9,130,551,1,35,51.5,34,4.2,39.4,9.3,39,31,197,6.4,0,5,38.5,35,2.2,14.1,79.5,5.1,161,4.6,748,1,6,5,
+BrowTe00,Ted Brown,RB,1980,23,MIN,NFL,FB,16,16,219,912,8,56,51.6,55,4.2,57.0,13.7,79,62,623,10.0,2,28,54.4,67,3.9,38.9,78.5,7.9,281,5.5,1535,10,6,12,
+BrowTe00,Ted Brown,RB,1981,24,MIN,NFL,FB,16,16,274,1063,6,59,44.2,34,3.9,66.4,17.1,117,83,694,8.4,2,31,41.0,63,5.2,43.4,70.9,5.9,357,4.9,1757,8,3,11,
+BrowTe00,Ted Brown,RB,1982,25,MIN,NFL,FB,8,8,120,515,1,29,47.5,30,4.3,64.4,15.0,42,31,207,6.7,2,9,38.1,29,3.9,25.9,73.8,4.9,151,4.8,722,3,0,9,
+BrowTe00,Ted Brown,RB,1983,26,MIN,NFL,FB,10,8,120,476,10,36,56.7,43,4.0,47.6,12.0,50,41,357,8.7,1,20,58.0,25,4.1,35.7,82.0,7.1,161,5.2,833,11,2,6,
+BrowTe00,Ted Brown,RB,1984,27,MIN,NFL,RB,13,9,98,442,3,27,50.0,19,4.5,34.0,7.5,61,46,349,7.6,3,15,45.9,35,3.5,26.8,75.4,5.7,144,5.5,791,6,2,6,
+BrowTe00,Ted Brown,RB,1985,28,MIN,NFL,FB,14,9,93,336,7,20,46.2,30,3.6,24.0,6.6,44,30,291,9.7,3,13,50.0,54,2.1,20.8,68.2,6.6,123,5.1,627,10,1,5,
+BrowTe00,Ted Brown,RB,1986,29,MIN,NFL,RB,13,0,63,251,4,14,44.4,60,4.0,19.3,4.8,20,15,132,8.8,0,5,45.0,20,1.2,10.2,75.0,6.6,78,4.9,383,4,0,4,

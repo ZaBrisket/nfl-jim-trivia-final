@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackVi00,Vincent Jackson,WR,2012*,29,TAM,WR,83,16,16,976,93%,1,0%,6,1%
+JackVi00,Vincent Jackson,WR,2013,30,TAM,WR,83,16,16,969,94%,1,0%,6,1%
+JackVi00,Vincent Jackson,WR,2014,31,TAM,WR,83,16,16,904,91%,0,0%,0,0%
+JackVi00,Vincent Jackson,WR,2015,32,TAM,WR,83,10,9,531,79%,0,0%,2,1%
+JackVi00,Vincent Jackson,WR,2016,33,TAM,WR,83,5,5,313,83%,0,0%,0,0%

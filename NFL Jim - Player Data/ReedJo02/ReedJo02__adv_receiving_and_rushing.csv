@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ReedJo02,Jordan Reed,TE,2018,28,WAS,NFL,TE,13,8,84,54,558,26,327,6.1,231,4.3,6.8,4,13.5,3,3.6,2,81.3,0,0,0,0,0,0,
+ReedJo02,Jordan Reed,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReedJo02,Jordan Reed,TE,2020,30,SFO,NFL,TE,10,1,46,26,231,16,147,5.7,84,3.2,8.0,2,13.0,3,6.5,1,90.0,0,0,0,0,0,0,

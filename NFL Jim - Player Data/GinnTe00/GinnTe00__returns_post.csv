@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GinnTe00,Ted Ginn Jr.,WR,2008,23,MIA,NFL,WR,1,1,0,0,0,0,,1,14,0,14,14.0,52,
+GinnTe00,Ted Ginn Jr.,WR,,,,,,,,,,,,,,,,,,,
+GinnTe00,Ted Ginn Jr.,WR,2011,26,SFO,NFL,WR,1,0,2,23,0,16,11.5,0,0,0,0,,37,
+GinnTe00,Ted Ginn Jr.,WR,2012,27,SFO,NFL,WR,3,0,3,52,0,32,17.3,1,31,0,31,31.0,86,
+GinnTe00,Ted Ginn Jr.,WR,2013,28,CAR,NFL,WR,1,0,2,27,0,24,13.5,3,62,0,25,20.7,193,
+GinnTe00,Ted Ginn Jr.,WR,2014,29,ARI,NFL,WR,1,0,0,0,0,0,,2,59,0,48,29.5,59,
+GinnTe00,Ted Ginn Jr.,WR,2015,30,CAR,NFL,WR,3,0,6,40,0,32,6.7,0,0,0,0,,199,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BensCe00,Cedric Benson,RB,2006,24,CHI,NFL,RB,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,
+BensCe00,Cedric Benson,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BensCe00,Cedric Benson,RB,2009,27,CIN,NFL,RB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,
+BensCe00,Cedric Benson,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BensCe00,Cedric Benson,RB,2011,29,CIN,NFL,RB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,

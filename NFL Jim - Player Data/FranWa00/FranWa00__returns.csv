@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+FranWa00,Wallace Francis,WR,1973,22,BUF,NFL,WR,12,0,0,0,0,0,23,687,2,101,29.9,687,
+FranWa00,Wallace Francis,WR,1974,23,BUF,NFL,WR,14,0,0,0,0,0,37,947,0,74,25.6,947,
+FranWa00,Wallace Francis,WR,1975,24,ATL,NFL,WR,14,3,0,0,0,0,14,265,0,32,18.9,547,
+FranWa00,Wallace Francis,WR,1976,25,ATL,NFL,WR,14,0,0,0,0,0,9,156,0,30,17.3,180,
+FranWa00,Wallace Francis,WR,1977,26,ATL,NFL,WR,14,14,0,0,0,0,1,22,0,22,22.0,418,

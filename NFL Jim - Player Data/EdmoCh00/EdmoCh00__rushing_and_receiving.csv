@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EdmoCh00,Chase Edmonds,RB,2018,22,ARI,NFL,RB,16,0,60,208,2,14,43.3,29,3.5,13.0,3.8,23,20,103,5.2,0,5,39.1,13,1.3,6.4,87.0,4.5,80,3.9,311,2,1,2,
+EdmoCh00,Chase Edmonds,RB,2019,23,ARI,NFL,RB,13,2,60,303,4,12,38.3,37,5.1,23.3,4.6,21,12,105,8.8,1,5,42.9,31,0.9,8.1,57.1,5.0,72,5.7,408,5,0,3,
+EdmoCh00,Chase Edmonds,RB,2020,24,ARI,NFL,RB,16,2,97,448,1,22,48.5,32,4.6,28.0,6.1,67,53,402,7.6,4,21,50.7,30,3.3,25.1,79.1,6.0,150,5.7,850,5,2,6,
+EdmoCh00,Chase Edmonds,RB,2021,25,ARI,NFL,RB,12,11,116,592,2,32,56.9,54,5.1,49.3,9.7,53,43,311,7.2,0,11,35.8,36,3.6,25.9,81.1,5.9,159,5.7,903,2,1,7,
+EdmoCh00,Chase Edmonds,RB,2022,26,2TM,NFL,RB,13,3,68,245,2,8,42.6,28,3.6,18.8,5.2,24,16,157,9.8,1,7,41.7,27,1.2,12.1,66.7,6.5,84,4.8,402,3,0,3,
+EdmoCh00,Chase Edmonds,RB,2022,26,MIA,NFL,RB,8,2,42,120,2,6,40.5,28,2.9,15.0,5.3,17,10,96,9.6,1,4,41.2,15,1.3,12.0,58.8,5.6,52,4.2,216,3,0,2,
+EdmoCh00,Chase Edmonds,RB,2022,26,DEN,NFL,RB,5,1,26,125,0,2,46.2,25,4.8,25.0,5.2,7,6,61,10.2,0,3,42.9,27,1.2,12.2,85.7,8.7,32,5.8,186,0,0,1,
+EdmoCh00,Chase Edmonds,RB,2023,27,TAM,NFL,RB,13,0,49,176,0,8,46.9,21,3.6,13.5,3.8,17,14,81,5.8,0,5,58.8,14,1.1,6.2,82.4,4.8,63,4.1,257,0,0,2,

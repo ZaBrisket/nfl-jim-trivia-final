@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JoneBe00,Bert Jones,QB,1974,23,BAL,NFL,QB,11,8,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.2,
+JoneBe00,Bert Jones,QB,1975,24,BAL,NFL,QB,14,14,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+JoneBe00,Bert Jones,QB,1976,25,BAL,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,"PB,AP-1,AP MVP-1,AP OPoY-1"
+JoneBe00,Bert Jones,QB,1977,26,BAL,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,AP-2
+JoneBe00,Bert Jones,QB,,,,,,,,,,,,,,,,,,,,,,,
+JoneBe00,Bert Jones,QB,1979,28,BAL,NFL,QB,4,4,1,0,0,0,0,0,0,1,0,0,0,0,0,6,1.5,
+JoneBe00,Bert Jones,QB,1980,29,BAL,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,

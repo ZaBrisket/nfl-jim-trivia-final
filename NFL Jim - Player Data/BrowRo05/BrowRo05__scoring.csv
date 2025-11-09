@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BrowRo05,Ronnie Brown,RB,2005,24,MIA,NFL,RB,15,14,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,
+BrowRo05,Ronnie Brown,RB,2006,25,MIA,NFL,RB,13,12,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,2.3,
+BrowRo05,Ronnie Brown,RB,2007,26,MIA,NFL,RB,7,7,4,1,0,0,0,0,0,5,1,0,0,0,0,0,32,4.6,
+BrowRo05,Ronnie Brown,RB,2008,27,MIA,NFL,RB,16,13,10,0,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP CPoY-8"
+BrowRo05,Ronnie Brown,RB,2009,28,MIA,NFL,RB,9,9,8,0,0,0,0,0,0,8,0,0,0,0,0,0,48,5.3,
+BrowRo05,Ronnie Brown,RB,2010,29,MIA,NFL,RB,16,16,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+BrowRo05,Ronnie Brown,RB,2011,30,PHI,NFL,RB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BrowRo05,Ronnie Brown,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BrowRo05,Ronnie Brown,RB,2013,32,SDG,NFL,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

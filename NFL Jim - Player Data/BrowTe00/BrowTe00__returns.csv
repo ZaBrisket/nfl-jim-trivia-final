@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrowTe00,Ted Brown,RB,1979,22,MIN,NFL,FB,14,9,0,0,0,0,8,186,0,43,23.3,934,
+BrowTe00,Ted Brown,RB,,,,,,,,,,,,,,,,,,
+BrowTe00,Ted Brown,RB,1985,28,MIN,NFL,FB,14,9,0,0,0,0,1,7,0,7,7.0,634,
+BrowTe00,Ted Brown,RB,1986,29,MIN,NFL,RB,13,0,0,0,0,0,2,18,0,17,9.0,401,

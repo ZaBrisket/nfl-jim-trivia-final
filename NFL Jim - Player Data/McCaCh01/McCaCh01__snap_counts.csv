@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McCaCh01,Christian McCaffrey,RB,2017,21,CAR,RB,22,16,10,746,70%,0,0%,48,11%
+McCaCh01,Christian McCaffrey,RB,2018,22,CAR,RB,22,16,16,966,91%,0,0%,1,0%
+McCaCh01,Christian McCaffrey,RB,2019*+,23,CAR,RB,22,16,16,1039,93%,0,0%,0,0%
+McCaCh01,Christian McCaffrey,RB,2020,24,CAR,RB,22,3,3,171,77%,0,0%,1,1%
+McCaCh01,Christian McCaffrey,RB,2021,25,CAR,RB,22,7,7,272,60%,0,0%,2,1%
+McCaCh01,Christian McCaffrey,RB,2022*,26,2TM,RB,,17,16,777,,0,,3,
+McCaCh01,Christian McCaffrey,RB,*,,CAR,RB,22,6,6,287,85%,0,0%,1,1%
+McCaCh01,Christian McCaffrey,RB,,,,,,,,490,68%,0,0%,2,1%
+McCaCh01,Christian McCaffrey,RB,2023*+,27,SFO,RB,23,16,16,812,81%,0,0%,1,0%
+McCaCh01,Christian McCaffrey,RB,2024,28,SFO,RB,23,4,4,167,75%,0,0%,0,0%
+McCaCh01,Christian McCaffrey,RB,2025,29,SFO,RB,23,9,9,521,85%,0,0%,1,0%

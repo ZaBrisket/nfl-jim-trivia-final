@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AiyuBr00,Brandon Aiyuk,WR,2020,22,SFO,NFL,WR,12,11,96,60,748,12.5,5,42,57.3,49,5.0,62.3,62.5,7.8,6,77,2,3,66.7,38,12.8,6.4,0.5,66,12.5,825,7,0,6,
+AiyuBr00,Brandon Aiyuk,WR,2021,23,SFO,NFL,WR,17,16,84,56,826,14.8,5,37,60.7,43,3.3,48.6,66.7,9.8,5,17,0,0,40.0,8,3.4,1.0,0.3,61,13.8,843,5,2,7,
+AiyuBr00,Brandon Aiyuk,WR,2022,24,SFO,NFL,WR,17,17,114,78,1015,13.0,8,47,59.6,54,4.6,59.7,68.4,8.9,2,23,0,1,100.0,16,11.5,1.4,0.1,80,13.0,1038,8,1,11,
+AiyuBr00,Brandon Aiyuk,WR,2023,25,SFO,NFL,WR,16,16,105,75,1342,17.9,7,61,70.5,76,4.7,83.9,71.4,12.8,0,0,0,0,,,,0.0,0.0,75,17.9,1342,7,1,15,AP-2
+AiyuBr00,Brandon Aiyuk,WR,2024,26,SFO,NFL,WR,7,7,47,25,374,15.0,0,19,48.9,53,3.6,53.4,53.2,8.0,0,0,0,0,,,,0.0,0.0,25,15.0,374,0,0,3,

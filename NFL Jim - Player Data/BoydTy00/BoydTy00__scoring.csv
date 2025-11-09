@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BoydTy00,Tyler Boyd,WR,2016,22,CIN,NFL,WR,16,2,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+BoydTy00,Tyler Boyd,WR,2017,23,CIN,NFL,WR,10,1,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.2,
+BoydTy00,Tyler Boyd,WR,2018,24,CIN,NFL,WR,14,14,0,7,0,0,0,0,0,7,0,,0,0,0,0,0,42,3.0,
+BoydTy00,Tyler Boyd,WR,2019,25,CIN,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,1.9,
+BoydTy00,Tyler Boyd,WR,2020,26,CIN,NFL,WR,15,8,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.6,
+BoydTy00,Tyler Boyd,WR,2021,27,CIN,NFL,WR,16,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,1.9,
+BoydTy00,Tyler Boyd,WR,2022,28,CIN,NFL,WR,16,14,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,32,2.0,
+BoydTy00,Tyler Boyd,WR,2023,29,CIN,NFL,WR,17,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,0.7,

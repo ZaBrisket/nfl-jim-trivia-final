@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RoetBe00,Ben Roethlisberger,QB,2004,22,PIT,NFL,QB,14,13,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,AP ORoY-1
+RoetBe00,Ben Roethlisberger,QB,2005,23,PIT,NFL,QB,12,12,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.5,
+RoetBe00,Ben Roethlisberger,QB,2006,24,PIT,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+RoetBe00,Ben Roethlisberger,QB,2007,25,PIT,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,"PB,AP CPoY-3"
+RoetBe00,Ben Roethlisberger,QB,2008,26,PIT,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+RoetBe00,Ben Roethlisberger,QB,2009,27,PIT,NFL,QB,15,15,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+RoetBe00,Ben Roethlisberger,QB,2010,28,PIT,NFL,QB,12,12,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2013,31,PIT,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2016,34,PIT,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,PB
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2018,36,PIT,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2021,39,PIT,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,

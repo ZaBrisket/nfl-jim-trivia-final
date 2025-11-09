@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BeckOd00,Odell Beckham Jr.,WR,2014*,22,NYG,WR,13,12,11,771,91%,0,0%,45,12%
+BeckOd00,Odell Beckham Jr.,WR,2015*,23,NYG,WR,13,15,15,998,95%,1,0%,15,3%
+BeckOd00,Odell Beckham Jr.,WR,2016*,24,NYG,WR,13,16,16,1002,94%,1,0%,20,4%
+BeckOd00,Odell Beckham Jr.,WR,2017,25,NYG,WR,13,4,2,211,77%,0,0%,4,4%
+BeckOd00,Odell Beckham Jr.,WR,2018,26,NYG,WR,13,12,12,716,94%,0,0%,20,6%
+BeckOd00,Odell Beckham Jr.,WR,2019,27,CLE,WR,13,16,15,993,95%,0,0%,1,0%
+BeckOd00,Odell Beckham Jr.,WR,2020,28,CLE,WR,13,7,7,316,70%,0,0%,0,0%
+BeckOd00,Odell Beckham Jr.,WR,2021,29,2TM,WR,,14,13,666,,0,,0,
+BeckOd00,Odell Beckham Jr.,WR,,,CLE,WR,13,6,6,290,69%,0,0%,0,0%
+BeckOd00,Odell Beckham Jr.,WR,,,,,,,,376,75%,0,0%,0,0%
+BeckOd00,Odell Beckham Jr.,WR,2023,31,BAL,WR,3,14,6,465,50%,0,0%,0,0%
+BeckOd00,Odell Beckham Jr.,WR,2024,32,MIA,WR,3,9,0,119,20%,0,0%,1,0%

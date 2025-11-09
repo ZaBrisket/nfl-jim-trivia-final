@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+McLaTe00,Terry McLaurin,WR,2020,25,WAS,NFL,WR,1,1,7,6,75,5,66,11.0,9,1.5,10.1,0,,0,0.0,1,71.7,0,0,0,0,0,0,
+McLaTe00,Terry McLaurin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McLaTe00,Terry McLaurin,WR,2024,29,WAS,NFL,WR,3,3,23,14,227,10,97,6.9,130,9.3,9.1,2,7.0,0,0.0,1,115.4,0,0,0,0,0,0,

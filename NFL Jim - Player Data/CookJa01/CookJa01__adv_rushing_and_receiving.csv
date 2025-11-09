@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+CookJa01,James Cook,RB,2022,23,BUF,NFL,RB,16,0,89,507,25,329,3.7,178,2.0,3,29.7,32,21,180,5,48,2.3,132,6.3,2.4,0,,3,9.4,1,77.6,
+CookJa01,James Cook,RB,2023,24,BUF,NFL,RB,17,13,237,1122,53,640,2.7,482,2.0,8,29.6,54,44,445,16,47,1.1,398,9.0,2.5,7,6.3,6,11.1,0,125.7,PB
+CookJa01,James Cook,RB,2024,25,BUF,NFL,RB,16,16,207,1009,48,530,2.6,479,2.3,14,14.8,38,32,258,14,-2,-0.1,260,8.1,0.9,0,,2,5.3,0,112.5,PB
+CookJa01,James Cook,RB,2025,26,BUF,NFL,RB,8,8,153,867,42,467,3.1,400,2.6,15,10.2,15,13,100,3,-8,-0.6,108,8.3,-0.3,1,13.0,1,6.7,0,94.4,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WalkHu00,Delanie Walker,TE,2006,22,SFO,NFL,TE,7,1,4,2,30,15.0,0,1,25.0,29,0.3,4.3,50.0,7.5,0,0,0,0,,,,0.0,0.0,2,15.0,30,0,0,0,
+WalkHu00,Delanie Walker,TE,2007,23,SFO,NFL,TE,16,10,42,21,174,8.3,1,8,31.0,26,1.3,10.9,50.0,4.1,0,0,0,0,,,,0.0,0.0,21,8.3,174,1,0,1,
+WalkHu00,Delanie Walker,TE,2008,24,SFO,NFL,TE,15,2,16,10,155,15.5,1,7,56.3,53,0.7,10.3,62.5,9.7,2,-13,0,0,0.0,-3,-6.5,-0.9,0.1,12,11.8,142,1,2,1,
+WalkHu00,Delanie Walker,TE,2009,25,SFO,NFL,FB,16,8,33,21,233,11.1,0,10,42.4,39,1.3,14.6,63.6,7.1,3,34,0,1,100.0,16,11.3,2.1,0.2,24,11.1,267,0,2,2,
+WalkHu00,Delanie Walker,TE,2010,26,SFO,NFL,TE,14,8,45,29,331,11.4,0,13,55.6,38,2.1,23.6,64.4,7.4,3,18,0,1,66.7,10,6.0,1.3,0.2,32,10.9,349,0,1,3,
+WalkHu00,Delanie Walker,TE,2011,27,SFO,NFL,FB,15,7,35,19,198,10.4,3,9,40.0,29,1.3,13.2,54.3,5.7,3,5,0,1,33.3,14,1.7,0.3,0.2,22,9.2,203,3,0,2,
+WalkHu00,Delanie Walker,TE,2012,28,SFO,NFL,TE,16,4,39,21,344,16.4,3,14,48.7,45,1.3,21.5,53.8,8.8,0,0,0,0,,,,0.0,0.0,21,16.4,344,3,1,3,
+WalkHu00,Delanie Walker,TE,2013,29,TEN,NFL,TE,15,11,86,60,571,9.5,6,31,55.8,33,4.0,38.1,69.8,6.6,0,0,0,0,,,,0.0,0.0,60,9.5,571,6,1,5,
+WalkHu00,Delanie Walker,TE,2014,30,TEN,NFL,TE,15,14,106,63,890,14.1,4,34,45.3,68,4.2,59.3,59.4,8.4,0,0,0,0,,,,0.0,0.0,63,14.1,890,4,2,6,
+WalkHu00,Delanie Walker,TE,2015,31,TEN,NFL,TE,15,10,133,94,1088,11.6,6,53,53.4,61,6.3,72.5,70.7,8.2,1,36,0,1,100.0,36,36.0,2.4,0.1,95,11.8,1124,6,0,8,PB
+WalkHu00,Delanie Walker,TE,2016,32,TEN,NFL,TE,15,9,102,65,800,12.3,7,35,49.0,47,4.3,53.3,63.7,7.8,2,11,0,0,0.0,8,5.5,0.7,0.1,67,12.1,811,7,1,7,PB
+WalkHu00,Delanie Walker,TE,2017,33,TEN,NFL,TE,16,11,111,74,807,10.9,3,44,55.0,42,4.6,50.4,66.7,7.3,2,-2,1,1,50.0,1,-1.0,-0.1,0.1,76,10.6,805,4,2,7,PB
+WalkHu00,Delanie Walker,TE,2018,34,TEN,NFL,TE,1,1,7,4,52,13.0,0,3,57.1,16,4.0,52.0,57.1,7.4,0,0,0,0,,,,0.0,0.0,4,13.0,52,0,0,0,
+WalkHu00,Delanie Walker,TE,2019,35,TEN,NFL,TE,7,4,31,21,215,10.2,2,11,38.7,29,3.0,30.7,67.7,6.9,0,0,0,0,,,,0.0,0.0,21,10.2,215,2,1,2,

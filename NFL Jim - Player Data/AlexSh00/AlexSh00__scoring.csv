@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AlexSh00,Shaun Alexander,RB,2000,23,SEA,NFL,RB,16,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+AlexSh00,Shaun Alexander,RB,2001,24,SEA,NFL,RB,16,12,14,2,0,0,0,0,0,16,0,0,0,0,0,0,96,6.0,
+AlexSh00,Shaun Alexander,RB,2002,25,SEA,NFL,RB,16,16,16,2,0,0,0,0,0,18,0,0,0,0,0,0,108,6.8,
+AlexSh00,Shaun Alexander,RB,2003,26,SEA,NFL,RB,16,15,14,2,0,0,0,0,0,16,0,0,0,0,0,0,96,6.0,PB
+AlexSh00,Shaun Alexander,RB,2004,27,SEA,NFL,RB,16,16,16,4,0,0,0,0,0,20,0,0,0,0,0,0,120,7.5,"PB,AP-2"
+AlexSh00,Shaun Alexander,RB,2005,28,SEA,NFL,RB,16,16,27,1,0,0,0,0,0,28,0,0,0,0,0,0,168,10.5,"PB,AP-1,AP MVP-1,AP OPoY-1"
+AlexSh00,Shaun Alexander,RB,2006,29,SEA,NFL,RB,10,10,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,4.2,
+AlexSh00,Shaun Alexander,RB,2007,30,SEA,NFL,RB,13,10,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,2.3,

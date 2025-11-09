@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MinsGa00,Gardner Minshew II,QB,2019,23,JAX,NFL,QB,14,12,67,344,20,256,3.8,88,1.3,2,33.5,0,0,0,0,0,,0,,,0,0,,0,,
+MinsGa00,Gardner Minshew II,QB,2020,24,JAX,NFL,QB,9,8,29,153,10,149,5.1,4,0.1,0,,1,1,0,0,-8,-8.0,8,8.0,-8.0,0,0,0.0,0,79.2,
+MinsGa00,Gardner Minshew II,QB,2021,25,PHI,NFL,QB,4,2,9,21,2,19,2.1,2,0.2,0,,0,0,0,0,0,,0,,,0,0,,0,,
+MinsGa00,Gardner Minshew II,QB,2022,26,PHI,NFL,QB,5,2,7,3,1,3,0.4,0,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,
+MinsGa00,Gardner Minshew II,QB,2023,27,IND,NFL,QB,17,13,34,100,7,93,2.7,7,0.2,1,34.0,0,0,0,0,0,,0,,,0,0,,0,,PB
+MinsGa00,Gardner Minshew II,QB,2024,28,LVR,NFL,QB,10,9,19,58,5,45,2.4,13,0.7,0,,0,0,0,0,0,,0,,,0,0,,0,,
+MinsGa00,Gardner Minshew II,QB,2025,29,KAN,NFL,QB,2,0,5,-6,0,-6,-1.2,0,0.0,0,,0,0,0,0,0,,0,,,0,0,,0,,

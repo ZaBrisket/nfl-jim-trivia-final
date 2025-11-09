@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,awards
+HurtJa00,Jalen Hurts,QB,2021,23,PHI,NFL,QB,1,1,8,39,1,32,4.0,7,0.9,0,,0,0,0,0,0,0,0,0,
+HurtJa00,Jalen Hurts,QB,2022,24,PHI,NFL,QB,3,3,35,143,16,75,2.1,68,1.9,3,11.7,0,0,0,0,0,0,0,0,
+HurtJa00,Jalen Hurts,QB,2023,25,PHI,NFL,QB,1,1,1,5,0,5,5.0,0,0.0,0,,0,0,0,0,0,0,0,0,
+HurtJa00,Jalen Hurts,QB,2024,26,PHI,NFL,QB,4,4,34,194,14,125,3.7,69,2.0,3,11.3,0,0,0,0,0,0,0,0,SB MVP

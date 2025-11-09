@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JoneDa05,Daniel Jones,QB,2019,22,NYG,NFL,QB,13,12,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.9,
+JoneDa05,Daniel Jones,QB,2020,23,NYG,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+JoneDa05,Daniel Jones,QB,2021,24,NYG,NFL,QB,11,11,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,16,1.5,
+JoneDa05,Daniel Jones,QB,2022,25,NYG,NFL,QB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.6,AP CPoY-11
+JoneDa05,Daniel Jones,QB,2023,26,NYG,NFL,QB,6,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.0,
+JoneDa05,Daniel Jones,QB,2024,27,NYG,NFL,QB,10,10,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.2,
+JoneDa05,Daniel Jones,QB,2025,28,IND,NFL,QB,9,9,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,30,3.3,

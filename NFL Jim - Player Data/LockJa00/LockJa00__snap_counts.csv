@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+LockJa00,Jake Locker,QB,2012,24,TEN,QB,10,11,11,593,88%,0,0%,0,0%
+LockJa00,Jake Locker,QB,2013,25,TEN,QB,10,7,7,395,84%,0,0%,0,0%
+LockJa00,Jake Locker,QB,2014,26,TEN,QB,10,7,5,299,66%,0,0%,0,0%

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BradAh00,Ahmad Bradshaw,RB,2007,21,NYG,NFL,RB,4,0,48,208,1,9,50.0,13,4.3,52.0,12.0,6,4,27,6.8,0,1,33.3,9,1.0,6.8,66.7,4.5,52,4.5,235,1,0,
+BradAh00,Ahmad Bradshaw,RB,2008,22,NYG,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+BradAh00,Ahmad Bradshaw,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradAh00,Ahmad Bradshaw,RB,2011,25,NYG,NFL,RB,4,3,63,272,1,11,39.7,30,4.3,68.0,15.8,21,16,114,7.1,0,3,33.3,30,4.0,28.5,76.2,5.4,79,4.9,386,1,1,

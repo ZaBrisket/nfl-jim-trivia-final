@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GarcPi00,Pierre Garcon,WR,2008,22,IND,NFL,WR,14,0,4,4,23,5.8,0,2,50.0,12,0.3,1.6,100.0,5.8,0,0,0,0,,,,0.0,0.0,4,5.8,23,0,0,0,
+GarcPi00,Pierre Garcon,WR,2009,23,IND,NFL,WR,14,13,92,47,765,16.3,4,33,45.7,66,3.4,54.6,51.1,8.3,2,10,0,2,50.0,17,5.0,0.7,0.1,49,15.8,775,4,1,9,
+GarcPi00,Pierre Garcon,WR,2010,24,IND,NFL,WR,14,14,119,67,784,11.7,6,41,52.9,57,4.8,56.0,56.3,6.6,2,6,0,1,50.0,11,3.0,0.4,0.1,69,11.4,790,6,0,8,
+GarcPi00,Pierre Garcon,WR,2011,25,IND,NFL,WR,16,16,134,70,947,13.5,6,42,38.8,87,4.4,59.2,52.2,7.1,4,28,0,1,75.0,18,7.0,1.8,0.3,74,13.2,975,6,2,7,
+GarcPi00,Pierre Garcon,WR,2012,26,WAS,NFL,WR,10,10,68,44,633,14.4,4,26,50.0,88,4.4,63.3,64.7,9.3,2,9,0,0,0.0,7,4.5,0.9,0.2,46,14.0,642,4,0,7,
+GarcPi00,Pierre Garcon,WR,2013,27,WAS,NFL,WR,16,16,181,113,1346,11.9,5,61,50.8,53,7.1,84.1,62.4,7.4,2,19,0,1,100.0,10,9.5,1.2,0.1,115,11.9,1365,5,1,9,AP CPoY-6
+GarcPi00,Pierre Garcon,WR,2014,28,WAS,NFL,WR,16,14,105,68,752,11.1,3,33,45.7,70,4.3,47.0,64.8,7.2,0,0,0,0,,,,0.0,0.0,68,11.1,752,3,0,5,
+GarcPi00,Pierre Garcon,WR,2015,29,WAS,NFL,WR,16,16,111,72,777,10.8,6,44,54.1,39,4.5,48.6,64.9,7.0,0,0,0,0,,,,0.0,0.0,72,10.8,777,6,0,6,
+GarcPi00,Pierre Garcon,WR,2016,30,WAS,NFL,WR,16,16,114,79,1041,13.2,3,53,60.5,70,4.9,65.1,69.3,9.1,0,0,0,0,,,,0.0,0.0,79,13.2,1041,3,0,9,
+GarcPi00,Pierre Garcon,WR,2017,31,SFO,NFL,WR,8,8,67,40,500,12.5,0,26,49.3,59,5.0,62.5,59.7,7.5,0,0,0,0,,,,0.0,0.0,40,12.5,500,0,0,4,
+GarcPi00,Pierre Garcon,WR,2018,32,SFO,NFL,WR,8,8,46,24,286,11.9,1,14,45.7,25,3.0,35.8,52.2,6.2,0,0,0,0,,,,0.0,0.0,24,11.9,286,1,0,2,

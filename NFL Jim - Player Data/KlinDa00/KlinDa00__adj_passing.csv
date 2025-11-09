@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KlinDa00,David Klingler,QB,1992,23,CIN,NFL,QB,4,4,73,56,88,74,69,93,122,48,87,AP ORoY-5
+KlinDa00,David Klingler,QB,1993,24,CIN,NFL,QB,14,13,78,76,84,82,93,74,111,77,86,
+KlinDa00,David Klingler,QB,1994,25,CIN,NFL,QB,10,7,79,73,77,74,96,85,88,79,83,

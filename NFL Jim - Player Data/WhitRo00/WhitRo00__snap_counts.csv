@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WhitRo00,Roddy White,WR,2012,31,ATL,WR,84,16,15,988,93%,0,0%,2,1%
+WhitRo00,Roddy White,WR,2013,32,ATL,WR,84,13,13,782,87%,0,0%,2,1%
+WhitRo00,Roddy White,WR,2014,33,ATL,WR,84,14,14,870,93%,0,0%,1,0%
+WhitRo00,Roddy White,WR,2015,34,ATL,WR,84,16,16,935,82%,0,0%,3,1%

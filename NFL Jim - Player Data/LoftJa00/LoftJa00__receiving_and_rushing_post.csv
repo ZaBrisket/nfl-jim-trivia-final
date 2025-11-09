@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LoftJa00,James Lofton,WR,1982,26,GNB,NFL,WR,2,2,12,8,161,20.1,2,7,66.7,50,4.0,80.5,66.7,13.4,2,58,1,1,50.0,71,29.0,29.0,1.0,10,21.9,219,3,0,
+LoftJa00,James Lofton,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LoftJa00,James Lofton,WR,1989,33,BUF,NFL,WR,1,1,8,3,66,22.0,1,3,37.5,33,3.0,66.0,37.5,8.3,0,0,0,0,,,,0.0,0.0,3,22.0,66,1,0,
+LoftJa00,James Lofton,WR,1990,34,BUF,NFL,WR,3,3,16,13,323,24.8,3,13,81.3,61,4.3,107.7,81.3,20.2,0,0,0,0,,,,0.0,0.0,13,24.8,323,3,0,
+LoftJa00,James Lofton,WR,1991,35,BUF,NFL,WR,3,3,30,11,137,12.5,1,9,36.7,18,3.7,45.7,36.7,4.6,1,-3,0,0,0.0,-3,-3.0,-1.0,0.3,12,11.2,134,1,1,
+LoftJa00,James Lofton,WR,1992,36,BUF,NFL,WR,4,4,15,6,72,12.0,1,3,33.3,18,1.5,18.0,40.0,4.8,0,0,0,0,,,,0.0,0.0,6,12.0,72,1,0,

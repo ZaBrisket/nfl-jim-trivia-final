@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AndeDe00,Derek Anderson,QB,2007,24,CLE,NFL,QB,16,15,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,"PB,AP CPoY-7"
+AndeDe00,Derek Anderson,QB,,,,,,,,,,,,,,,,,,,,,,,,
+AndeDe00,Derek Anderson,QB,2009,26,CLE,NFL,QB,8,7,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.5,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SanuMo00,Mohamed Sanu,WR,2012,23,CIN,NFL,WR,9,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+SanuMo00,Mohamed Sanu,WR,2013,24,CIN,NFL,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SanuMo00,Mohamed Sanu,WR,2014,25,CIN,NFL,WR,16,13,0,5,0,0,0,0,0,5,1,0,0,0,0,0,32,2.0,
+SanuMo00,Mohamed Sanu,WR,2015,26,CIN,NFL,WR,16,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SanuMo00,Mohamed Sanu,WR,2016,27,ATL,NFL,WR,15,15,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.7,
+SanuMo00,Mohamed Sanu,WR,2017,28,ATL,NFL,WR,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,
+SanuMo00,Mohamed Sanu,WR,2018,29,ATL,NFL,WR,16,16,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+SanuMo00,Mohamed Sanu,WR,2019,30,2TM,NFL,WR,15,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+SanuMo00,Mohamed Sanu,WR,2019,30,ATL,NFL,WR,7,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,
+SanuMo00,Mohamed Sanu,WR,2019,30,NWE,NFL,WR,8,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+SanuMo00,Mohamed Sanu,WR,2020,31,2TM,NFL,WR,10,4,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.8,
+SanuMo00,Mohamed Sanu,WR,2020,31,DET,NFL,WR,7,4,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,1.1,

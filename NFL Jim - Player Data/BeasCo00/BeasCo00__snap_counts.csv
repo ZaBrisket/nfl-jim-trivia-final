@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BeasCo00,Cole Beasley,WR,2012,23,DAL,WR,11,10,0,124,18%,0,0%,8,3%
+BeasCo00,Cole Beasley,WR,2013,24,DAL,WR,11,14,3,243,28%,0,0%,26,6%
+BeasCo00,Cole Beasley,WR,2014,25,DAL,WR,11,16,2,431,41%,0,0%,3,1%
+BeasCo00,Cole Beasley,WR,2015,26,DAL,WR,11,16,3,564,55%,0,0%,51,12%
+BeasCo00,Cole Beasley,WR,2016,27,DAL,WR,11,16,6,601,57%,0,0%,37,8%
+BeasCo00,Cole Beasley,WR,2017,28,DAL,WR,11,15,4,572,57%,0,0%,12,3%
+BeasCo00,Cole Beasley,WR,2018,29,DAL,WR,11,16,4,712,66%,0,0%,49,12%
+BeasCo00,Cole Beasley,WR,2019,30,BUF,WR,10,15,10,729,73%,0,0%,3,1%
+BeasCo00,Cole Beasley,WR,2020,31,BUF,WR,11,15,10,680,66%,0,0%,7,2%
+BeasCo00,Cole Beasley,WR,2021,32,BUF,WR,11,16,8,691,62%,0,0%,1,0%
+BeasCo00,Cole Beasley,WR,2022,33,2TM,WR,,4,1,30,,0,,11,
+BeasCo00,Cole Beasley,WR,,,TAM,WR,15,2,0,13,10%,0,0%,11,20%
+BeasCo00,Cole Beasley,WR,,,,,,,,17,12%,0,0%,0,0%

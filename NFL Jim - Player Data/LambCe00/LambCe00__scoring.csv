@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LambCe00,CeeDee Lamb,WR,2020,21,DAL,NFL,WR,16,14,1,5,0,1,0,0,0,7,1,,0,0,0,0,0,44,2.8,
+LambCe00,CeeDee Lamb,WR,2021,22,DAL,NFL,WR,16,13,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,36,2.3,PB
+LambCe00,CeeDee Lamb,WR,2022,23,DAL,NFL,WR,17,17,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,54,3.2,"PB,AP-2"
+LambCe00,CeeDee Lamb,WR,2023,24,DAL,NFL,WR,17,17,2,12,0,0,0,0,0,14,1,0,0,0,0,0,0,86,5.1,"PB,AP-1,AP OPoY-3"
+LambCe00,CeeDee Lamb,WR,2024,25,DAL,NFL,WR,15,15,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,38,2.5,"PB,AP-2"
+LambCe00,CeeDee Lamb,WR,2025,26,DAL,NFL,WR,6,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.0,

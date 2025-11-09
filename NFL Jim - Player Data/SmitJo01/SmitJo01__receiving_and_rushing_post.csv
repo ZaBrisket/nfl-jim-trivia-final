@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SmitJo01,Jonnu Smith,TE,2017,22,TEN,NFL,TE,2,1,5,3,19,6.3,0,1,20.0,10,1.5,9.5,60.0,3.8,0,0,0,0,0.0,0.0,3,6.3,19,0,0,
+SmitJo01,Jonnu Smith,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJo01,Jonnu Smith,TE,2019,24,TEN,NFL,TE,3,3,9,6,59,9.8,1,2,44.4,22,2.0,19.7,66.7,6.6,0,0,0,0,0.0,0.0,6,9.8,59,1,0,
+SmitJo01,Jonnu Smith,TE,2020,25,TEN,NFL,TE,1,1,3,2,9,4.5,0,0,33.3,5,2.0,9.0,66.7,3.0,0,0,0,0,0.0,0.0,2,4.5,9,0,0,
+SmitJo01,Jonnu Smith,TE,2021,26,NWE,NFL,TE,1,1,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,

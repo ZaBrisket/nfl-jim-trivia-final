@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+HumpSt00,Stan Humphries,QB,1992,27,SDG,NFL,QB,2,2,1-1-0,32,67,47.8,339,0,0.0,4,6.0,14,34.2,44,5.1,2.37,10.6,169.5,38.1,6,57,8.22,3.86,1.40,0,0,
+HumpSt00,Stan Humphries,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HumpSt00,Stan Humphries,QB,1994,29,SDG,NFL,QB,3,3,2-1-0,63,114,55.3,716,4,3.5,5,4.4,35,45.4,43,6.3,5.01,11.4,238.7,67.7,5,35,4.20,5.72,4.50,2,2,
+HumpSt00,Stan Humphries,QB,1995,30,SDG,NFL,QB,1,1,0-1-0,23,47,48.9,292,2,4.3,4,8.5,20,47.9,26,6.2,3.23,12.7,292.0,47.5,1,8,2.08,5.92,3.00,0,0,

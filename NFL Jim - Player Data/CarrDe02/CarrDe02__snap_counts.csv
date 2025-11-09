@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CarrDe02,Derek Carr,QB,2014,23,OAK,QB,4,16,16,989,96%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2015*,24,OAK,QB,4,16,16,1012,96%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2016*,25,OAK,QB,4,15,15,1048,98%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2017*,26,OAK,QB,4,15,15,932,98%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2018,27,OAK,QB,4,16,16,1030,99%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2019,28,OAK,QB,4,16,16,996,98%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2020,29,LVR,QB,4,16,16,1007,93%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2021,30,LVR,QB,4,17,17,1127,99%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2022*,31,LVR,QB,4,15,15,946,98%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2023,32,NOR,QB,4,17,17,978,85%,0,0%,0,0%
+CarrDe02,Derek Carr,QB,2024,33,NOR,QB,4,10,10,604,95%,0,0%,0,0%

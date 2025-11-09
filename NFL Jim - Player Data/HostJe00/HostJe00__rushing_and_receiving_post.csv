@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HostJe00,Jeff Hostetler,QB,1990,29,NYG,NFL,QB,3,3,15,64,1,8,60.0,11,4.3,21.3,5.0,0,0,0,0,0.0,0.0,15,4.3,64,1,1,
+HostJe00,Jeff Hostetler,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HostJe00,Jeff Hostetler,QB,1993,32,RAI,NFL,QB,2,2,9,34,0,4,44.4,12,3.8,17.0,4.5,0,0,0,0,0.0,0.0,9,3.8,34,0,1,

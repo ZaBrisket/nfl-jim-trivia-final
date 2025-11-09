@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MartTo00,Tony Martin,WR,1990,25,MIA,NFL,WR,16,5,26,140,0,35,5.4,0,0,0,0,,536,
+MartTo00,Tony Martin,WR,1991,26,MIA,NFL,WR,16,0,1,10,0,10,10.0,0,0,0,0,,444,
+MartTo00,Tony Martin,WR,1992,27,MIA,NFL,WR,16,3,1,0,0,0,0.0,0,0,0,0,,551,
+MartTo00,Tony Martin,WR,,,,,,,,,,,,,,,,,,,
+MartTo00,Tony Martin,WR,1994,29,SDG,NFL,WR,16,1,0,0,0,0,,8,167,0,29,20.9,1043,

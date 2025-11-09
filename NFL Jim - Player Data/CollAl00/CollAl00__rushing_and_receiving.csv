@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CollAl00,Alex Collins,RB,2016,22,SEA,NFL,RB,11,0,31,125,1,8,38.7,26,4.0,11.4,2.8,11,11,84,7.6,0,6,81.8,14,1.0,7.6,100.0,7.6,42,5.0,209,1,2,2,
+CollAl00,Alex Collins,RB,2017,23,BAL,NFL,RB,15,12,212,973,6,53,50.5,50,4.6,64.9,14.1,36,23,187,8.1,0,8,30.6,37,1.5,12.5,63.9,5.2,235,4.9,1160,6,4,9,
+CollAl00,Alex Collins,RB,2018,24,BAL,NFL,RB,10,10,114,411,7,22,46.5,19,3.6,41.1,11.4,21,15,105,7.0,1,6,52.4,24,1.5,10.5,71.4,5.0,129,4.0,516,8,3,3,
+CollAl00,Alex Collins,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CollAl00,Alex Collins,RB,2020,26,SEA,NFL,RB,3,1,18,77,2,5,61.1,13,4.3,25.7,6.0,2,1,4,4.0,0,0,50.0,4,0.3,1.3,50.0,2.0,19,4.3,81,2,0,1,
+CollAl00,Alex Collins,RB,2021,27,SEA,NFL,RB,11,6,108,411,2,22,50.9,25,3.8,37.4,9.8,10,9,87,9.7,0,3,60.0,28,0.8,7.9,90.0,8.7,117,4.3,498,2,1,3,

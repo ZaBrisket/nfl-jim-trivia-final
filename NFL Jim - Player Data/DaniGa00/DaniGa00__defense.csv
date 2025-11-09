@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+DaniGa00,Gary Danielson,QB,1977,26,DET,NFL,QB,13,2,0,0,0,0,,0,1,0,0,0.0,,,,0,
+DaniGa00,Gary Danielson,QB,1978,27,DET,NFL,QB,16,11,0,0,0,0,0,5,2,-12,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,,,,,,,,,,,,,,,,,,,,,,
+DaniGa00,Gary Danielson,QB,1980,29,DET,NFL,QB,16,16,0,0,0,0,0,11,4,-2,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1981,30,DET,NFL,QB,6,4,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1982,31,DET,NFL,QB,8,5,0,0,0,0,0,6,1,-11,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1983,32,DET,NFL,QB,10,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1984,33,DET,NFL,QB,15,14,0,0,0,0,0,7,2,-5,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1985,34,CLE,NFL,QB,8,6,0,0,0,0,0,5,1,-17,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,,,,,,,,,,,,,,,,,,,,,,
+DaniGa00,Gary Danielson,QB,1987,36,CLE,NFL,QB,6,1,0,0,0,0,0,2,2,-2,0,0.0,0,0,0,0,
+DaniGa00,Gary Danielson,QB,1988,37,CLE,NFL,QB,2,1,0,0,0,0,0,1,0,-4,0,0.0,0,0,0,0,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnLa00,Larry Johnson,RB,2003,24,KAN,NFL,RB,6,0,20,85,1,6,45.0,15,4.3,14.2,3.3,3,1,2,2.0,0,0,0.0,2,0.2,0.3,33.3,0.7,21,4.1,87,1,0,1,
+JohnLa00,Larry Johnson,RB,2004,25,KAN,NFL,RB,10,3,120,581,9,36,53.3,46,4.8,58.1,12.0,29,22,278,12.6,2,13,62.1,40,2.2,27.8,75.9,9.6,142,6.0,859,11,0,7,
+JohnLa00,Larry Johnson,RB,2005,26,KAN,NFL,RB,16,9,336,1750,20,99,53.0,49,5.2,109.4,21.0,49,33,343,10.4,1,13,51.0,36,2.1,21.4,67.3,7.0,369,5.7,2093,21,5,16,"PB,AP-2"
+JohnLa00,Larry Johnson,RB,2006,27,KAN,NFL,RB,16,16,416,1789,17,91,44.7,47,4.3,111.8,26.0,66,41,410,10.0,2,21,37.9,78,2.6,25.6,62.1,6.2,457,4.8,2199,19,2,18,"PB,AP-1"
+JohnLa00,Larry Johnson,RB,2007,28,KAN,NFL,RB,8,8,158,559,3,24,38.6,54,3.5,69.9,19.8,41,30,186,6.2,1,9,36.6,30,3.8,23.3,73.2,4.5,188,4.0,745,4,1,4,
+JohnLa00,Larry Johnson,RB,2008,29,KAN,NFL,RB,12,12,193,874,5,44,43.5,65,4.5,72.8,16.1,17,12,74,6.2,0,3,29.4,20,1.0,6.2,70.6,4.4,205,4.6,948,5,5,6,
+JohnLa00,Larry Johnson,RB,2009,30,2TM,NFL,RB,14,7,178,581,0,28,38.2,27,3.3,41.5,12.7,21,15,80,5.3,0,5,28.6,22,1.1,5.7,71.4,3.8,193,3.4,661,0,2,4,
+JohnLa00,Larry Johnson,RB,2009,30,KAN,NFL,RB,7,7,132,377,0,17,34.8,19,2.9,53.9,18.9,17,12,76,6.3,0,5,29.4,22,1.7,10.9,70.6,4.5,144,3.1,453,0,2,3,
+JohnLa00,Larry Johnson,RB,2009,30,CIN,NFL,RB,7,0,46,204,0,11,47.8,27,4.4,29.1,6.6,4,3,4,1.3,0,0,25.0,6,0.4,0.6,75.0,1.0,49,4.2,208,0,0,1,
+JohnLa00,Larry Johnson,RB,2010,31,WAS,NFL,RB,2,0,5,2,0,0,0.0,7,0.4,1.0,2.5,0,0,0,,0,0,,,0.0,0.0,,,5,0.4,2,0,0,0,
+JohnLa00,Larry Johnson,RB,2011,32,MIA,NFL,RB,1,0,1,2,0,0,0.0,2,2.0,2.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,2.0,2,0,0,0,

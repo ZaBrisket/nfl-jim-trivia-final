@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+AlleMa00,Marcus Allen,RB,1982,22,RAI,NFL,RB,9,9,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-3,AP OPoY-2,AP ORoY-1"
+AlleMa00,Marcus Allen,RB,1983,23,RAI,NFL,RB,16,15,0,0,0,0,0,14,2,0,1,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1984,24,RAI,NFL,RB,16,16,0,0,0,0,0,8,3,0,0,0.0,0,0,0,0,"PB,AP-2"
+AlleMa00,Marcus Allen,RB,1985,25,RAI,NFL,RB,16,16,0,0,0,0,0,3,2,-6,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-1"
+AlleMa00,Marcus Allen,RB,1986,26,RAI,NFL,RB,13,10,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,PB
+AlleMa00,Marcus Allen,RB,1987,27,RAI,NFL,RB,12,12,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,PB
+AlleMa00,Marcus Allen,RB,1988,28,RAI,NFL,RB,15,15,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1989,29,RAI,NFL,RB,8,5,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1990,30,RAI,NFL,RB,16,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1991,31,RAI,NFL,RB,8,2,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1992,32,RAI,NFL,RB,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1993,33,KAN,NFL,RB,16,10,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,"PB,AP MVP-6"
+AlleMa00,Marcus Allen,RB,1994,34,KAN,NFL,RB,13,13,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1995,35,KAN,NFL,RB,16,15,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1996,36,KAN,NFL,RB,16,15,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+AlleMa00,Marcus Allen,RB,1997,37,KAN,NFL,RB,16,0,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,

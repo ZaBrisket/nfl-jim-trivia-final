@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McCuSa00,Sam McCullum,WR,1974,22,MIN,NFL,WR,12,0,,7,138,19.7,3,,,34,0.6,11.5,,,0,0,0,,0.0,0.0,7,19.7,138,3,1,2,
+McCuSa00,Sam McCullum,WR,1975,23,MIN,NFL,WR,9,0,,2,25,12.5,0,,,20,0.2,2.8,,,0,0,0,,0.0,0.0,2,12.5,25,0,2,0,
+McCuSa00,Sam McCullum,WR,1976,24,SEA,NFL,WR,14,13,,32,506,15.8,4,,,72,2.3,36.1,,,0,0,0,,0.0,0.0,32,15.8,506,4,0,5,
+McCuSa00,Sam McCullum,WR,1977,25,SEA,NFL,WR,13,3,,9,198,22.0,1,,,65,0.7,15.2,,,0,0,0,,0.0,0.0,9,22.0,198,1,0,3,
+McCuSa00,Sam McCullum,WR,1978,26,SEA,NFL,WR,16,16,63,37,525,14.2,3,23,57.1,44,2.3,32.8,58.7,8.3,0,0,0,0,0.0,0.0,37,14.2,525,3,0,6,
+McCuSa00,Sam McCullum,WR,1979,27,SEA,NFL,WR,16,16,95,46,739,16.1,4,35,42.1,65,2.9,46.2,48.4,7.8,0,0,0,0,0.0,0.0,46,16.1,739,4,2,8,
+McCuSa00,Sam McCullum,WR,1980,28,SEA,NFL,WR,16,16,103,62,874,14.1,6,40,52.4,58,3.9,54.6,60.2,8.5,0,0,0,0,0.0,0.0,62,14.1,874,6,0,8,
+McCuSa00,Sam McCullum,WR,1981,29,SEA,NFL,WR,16,14,94,46,567,12.3,3,27,42.6,36,2.9,35.4,48.9,6.0,0,0,0,0,0.0,0.0,46,12.3,567,3,1,5,
+McCuSa00,Sam McCullum,WR,1982,30,MIN,NFL,WR,6,2,25,12,131,10.9,0,8,44.0,21,2.0,21.8,48.0,5.2,0,0,0,0,0.0,0.0,12,10.9,131,0,1,2,
+McCuSa00,Sam McCullum,WR,1983,31,MIN,NFL,WR,11,6,41,21,314,15.0,2,13,34.1,49,1.9,28.5,51.2,7.7,0,0,0,0,0.0,0.0,21,15.0,314,2,0,3,

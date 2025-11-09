@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+BrowGa00,Gary Brown,RB,1992,23,HOU,NFL,RB,16,0,0,0,0,0,,0,0,1,0,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1993,24,HOU,NFL,RB,16,8,0,0,0,0,,0,4,2,4,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1994,25,HOU,NFL,RB,12,8,0,0,0,0,,0,6,0,0,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1995,26,HOU,NFL,RB,10,4,0,0,0,0,,0,2,1,0,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1996,,Did not play - Out of NFL,,,,,,,,,,,,,,,,,,,,
+BrowGa00,Gary Brown,RB,1997,28,SDG,NFL,RB,15,14,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1998,29,NYG,NFL,RB,16,11,0,0,0,0,,0,1,1,0,0,0.0,0,0,0,0,
+BrowGa00,Gary Brown,RB,1999,30,NYG,NFL,RB,3,2,0,0,0,0,0,0,1,0,0,0,0.0,,,,0,

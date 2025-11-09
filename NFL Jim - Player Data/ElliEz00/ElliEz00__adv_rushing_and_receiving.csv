@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+ElliEz00,Ezekiel Elliott,RB,2018,23,DAL,NFL,RB,15,15,304,1434,74,839,2.8,595,2.0,19,16.0,95,77,567,22,-9,-0.1,576,7.5,0.3,3,25.7,2,2.1,0,102.1,"PB,AP-2"
+ElliEz00,Ezekiel Elliott,RB,2019,24,DAL,NFL,RB,16,16,301,1357,78,678,2.3,679,2.3,24,12.5,71,54,420,21,25,0.5,395,7.3,0.6,6,9.0,4,5.6,0,99.5,PB
+ElliEz00,Ezekiel Elliott,RB,2020,25,DAL,NFL,RB,15,15,244,979,62,458,1.9,521,2.1,15,16.3,71,52,338,20,-22,-0.4,360,6.9,-0.2,2,26.0,8,11.3,3,74.7,
+ElliEz00,Ezekiel Elliott,RB,2021,26,DAL,NFL,RB,17,17,237,1002,55,593,2.5,409,1.7,9,26.3,65,47,287,17,9,0.2,278,5.9,0.5,3,15.7,3,4.6,1,84.6,
+ElliEz00,Ezekiel Elliott,RB,2022,27,DAL,NFL,RB,15,14,231,876,52,520,2.3,356,1.5,9,25.7,23,17,92,4,4,0.2,88,5.2,0.0,1,17.0,2,8.7,0,80.3,
+ElliEz00,Ezekiel Elliott,RB,2023,28,NWE,NFL,RB,17,5,184,642,33,350,1.9,292,1.6,5,36.8,65,51,313,12,-61,-1.2,374,7.3,-0.6,8,6.4,2,3.1,0,97.0,
+ElliEz00,Ezekiel Elliott,RB,2024,29,DAL,NFL,RB,15,2,74,226,14,115,1.6,111,1.5,2,37.0,15,12,69,3,-28,-2.3,97,8.1,-1.8,1,12.0,0,0.0,0,85.8,

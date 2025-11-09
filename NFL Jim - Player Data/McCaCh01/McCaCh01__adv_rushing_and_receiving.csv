@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+McCaCh01,Christian McCaffrey,RB,2018,22,CAR,NFL,RB,16,16,219,1098,53,633,2.9,465,2.1,15,14.6,124,107,867,41,12,0.1,855,8.0,0.7,7,15.3,1,0.8,0,111.9,AP-2
+McCaCh01,Christian McCaffrey,RB,2019,23,CAR,NFL,RB,16,16,287,1387,57,874,3.0,513,1.8,16,17.9,142,116,1005,58,-14,-0.1,1019,8.8,0.6,14,8.3,7,4.9,2,99.7,"PB,AP-1,AP OPoY-3"
+McCaCh01,Christian McCaffrey,RB,2020,24,CAR,NFL,RB,3,3,59,225,14,97,1.6,128,2.2,9,6.6,19,17,149,8,26,1.5,123,7.2,1.4,3,5.7,0,0.0,1,95.0,
+McCaCh01,Christian McCaffrey,RB,2021,25,CAR,NFL,RB,7,7,99,442,20,218,2.2,224,2.3,12,8.3,41,37,343,21,85,2.3,258,7.0,2.2,6,6.2,0,0.0,0,109.7,
+McCaCh01,Christian McCaffrey,RB,2022,26,2TM,NFL,RB,17,16,244,1139,59,683,2.8,456,1.9,10,24.4,108,85,741,36,46,0.5,695,8.2,1.2,8,10.6,6,5.6,1,106.8,"PB,AP OPoY-7,AP CPoY-2"
+McCaCh01,Christian McCaffrey,RB,2022,26,CAR,NFL,RB,6,6,85,393,20,214,2.5,179,2.1,3,28.3,43,33,277,10,-17,-0.5,294,8.9,0.0,3,11.0,2,4.7,1,90.9,
+McCaCh01,Christian McCaffrey,RB,2022,26,SFO,NFL,RB,11,10,159,746,39,469,2.9,277,1.7,7,22.7,65,52,464,26,63,1.2,401,7.7,2.0,5,10.4,4,6.2,0,116.9,
+McCaCh01,Christian McCaffrey,RB,2023,27,SFO,NFL,RB,16,16,272,1459,83,853,3.1,606,2.2,15,18.1,83,67,564,31,103,1.5,461,6.9,1.8,2,33.5,0,0.0,2,113.1,"PB,AP-1,AP MVP-3,AP OPoY-1"
+McCaCh01,Christian McCaffrey,RB,2024,28,SFO,NFL,RB,4,4,50,202,12,116,2.3,86,1.7,3,16.7,19,15,146,6,48,3.2,98,6.5,3.2,1,15.0,0,0.0,1,76.8,
+McCaCh01,Christian McCaffrey,RB,2025,29,SFO,NFL,RB,9,9,168,596,35,359,2.1,237,1.4,9,18.7,80,61,626,29,129,2.1,497,8.1,2.6,7,8.7,7,8.8,1,109.7,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DaviMi01,Mike Davis,RB,2016,23,SFO,NFL,RB,8,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+DaviMi01,Mike Davis,RB,2017,24,SEA,NFL,RB,6,6,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,,,0,
+DaviMi01,Mike Davis,RB,2018,25,SEA,NFL,RB,15,2,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+DaviMi01,Mike Davis,RB,2019,26,2TM,NFL,RB,12,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+DaviMi01,Mike Davis,RB,2019,26,CAR,NFL,RB,5,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+DaviMi01,Mike Davis,RB,2020,27,CAR,NFL,RB,15,12,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+DaviMi01,Mike Davis,RB,2021,28,ATL,NFL,RB,17,8,0,0,0,0,0,0,4,1,0,0,0.0,1,1,0,0,0,0,
+DaviMi01,Mike Davis,RB,2022,29,BAL,NFL,RB,8,0,0,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,0,0,

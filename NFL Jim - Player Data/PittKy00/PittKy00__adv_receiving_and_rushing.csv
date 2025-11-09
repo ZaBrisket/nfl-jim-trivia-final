@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+PittKy00,Kyle Pitts,TE,2021,21,ATL,NFL,TE,17,15,110,68,1026,43,713,10.5,313,4.6,10.8,3,22.7,6,5.5,5,76.6,0,0,0,0,,0,,0,PB
+PittKy00,Kyle Pitts,TE,2022,22,ATL,NFL,TE,10,10,59,28,356,20,230,8.2,126,4.5,13.8,0,,3,5.1,1,71.0,0,0,0,0,,0,,0,
+PittKy00,Kyle Pitts,TE,2023,23,ATL,NFL,TE,17,15,90,53,667,35,533,10.1,134,2.5,11.4,0,,4,4.4,2,83.9,1,-4,0,-4,-4.0,0,0.0,0,
+PittKy00,Kyle Pitts,TE,2024,24,ATL,NFL,TE,17,15,74,47,602,21,330,7.0,272,5.8,8.6,4,11.8,4,5.4,4,84.4,0,0,0,0,,0,,0,
+PittKy00,Kyle Pitts,TE,2025,25,ATL,NFL,TE,8,8,54,43,382,20,224,5.2,158,3.7,6.4,1,43.0,0,0.0,0,102.3,0,0,0,0,,0,,0,

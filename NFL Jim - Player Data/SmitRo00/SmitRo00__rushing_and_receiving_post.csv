@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SmitRo00,Robert Smith,RB,1994,22,MIN,NFL,RB,1,0,1,0,0,0,0.0,,0.0,0.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,0.0,0,0,0,
+SmitRo00,Robert Smith,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitRo00,Robert Smith,RB,1997,25,MIN,NFL,RB,2,2,24,73,0,4,29.2,18,3.0,36.5,12.0,4,3,27,9.0,0,1,75.0,10,1.5,13.5,75.0,6.8,27,3.7,100,0,0,
+SmitRo00,Robert Smith,RB,1998,26,MIN,NFL,RB,2,2,40,195,0,7,57.5,27,4.9,97.5,20.0,7,3,13,4.3,0,1,14.3,12,1.5,6.5,42.9,1.9,43,4.8,208,0,0,
+SmitRo00,Robert Smith,RB,1999,27,MIN,NFL,RB,2,2,48,204,0,10,43.8,16,4.3,102.0,24.0,11,10,90,9.0,1,4,63.6,32,5.0,45.0,90.9,8.2,58,5.1,294,1,0,
+SmitRo00,Robert Smith,RB,2000,28,MIN,NFL,RB,2,2,32,118,1,6,34.4,25,3.7,59.0,16.0,7,4,23,5.8,0,2,42.9,20,2.0,11.5,57.1,3.3,36,3.9,141,1,0,

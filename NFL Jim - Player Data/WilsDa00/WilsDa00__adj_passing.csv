@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WilsDa00,Dave Wilson,QB,1981,22,NOR,NFL,QB,11,4,92,90,69,69,86,56,66,100,60,
+WilsDa00,Dave Wilson,QB,,,,,,,,,,,,,,,,,
+WilsDa00,Dave Wilson,QB,1983,24,NOR,NFL,QB,8,2,95,79,86,77,107,103,74,70,92,
+WilsDa00,Dave Wilson,QB,1984,25,NOR,NFL,QB,5,2,97,101,106,107,96,137,99,107,111,
+WilsDa00,Dave Wilson,QB,1985,26,NOR,NFL,QB,10,10,84,77,83,79,78,96,86,78,82,
+WilsDa00,Dave Wilson,QB,1986,27,NOR,NFL,QB,14,13,97,102,89,92,101,86,87,110,89,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PollMa00,Marcus Pollard,TE,1995,23,IND,NFL,TE,2,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,
+PollMa00,Marcus Pollard,TE,1996,24,IND,NFL,TE,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,
+PollMa00,Marcus Pollard,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PollMa00,Marcus Pollard,TE,1999,27,IND,NFL,TE,1,1,1,1,10,10.0,0,1,100.0,10,1.0,10.0,100.0,10.0,0,0,0,0,0.0,0.0,1,10.0,10,0,0,
+PollMa00,Marcus Pollard,TE,2000,28,IND,NFL,TE,1,1,4,1,13,13.0,0,1,25.0,13,1.0,13.0,25.0,3.3,0,0,0,0,0.0,0.0,1,13.0,13,0,0,
+PollMa00,Marcus Pollard,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PollMa00,Marcus Pollard,TE,2002,30,IND,NFL,TE,1,1,5,1,16,16.0,0,1,20.0,16,1.0,16.0,20.0,3.2,0,0,0,0,0.0,0.0,1,16.0,16,0,0,
+PollMa00,Marcus Pollard,TE,2003,31,IND,NFL,TE,3,3,18,10,156,15.6,1,9,55.6,32,3.3,52.0,55.6,8.7,0,0,0,0,0.0,0.0,10,15.6,156,1,1,
+PollMa00,Marcus Pollard,TE,2004,32,IND,NFL,TE,2,2,6,3,30,10.0,0,1,16.7,25,1.5,15.0,50.0,5.0,0,0,0,0,0.0,0.0,3,10.0,30,0,0,
+PollMa00,Marcus Pollard,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PollMa00,Marcus Pollard,TE,2007,35,SEA,NFL,TE,2,2,6,1,3,3.0,0,0,0.0,3,0.5,1.5,16.7,0.5,0,0,0,0,0.0,0.0,1,3.0,3,0,1,
+PollMa00,Marcus Pollard,TE,2008,36,ATL,NFL,TE,1,0,2,2,7,3.5,0,0,0.0,6,2.0,7.0,100.0,3.5,0,0,0,0,0.0,0.0,2,3.5,7,0,1,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RudoKy00,Kyle Rudolph,TE,2011,22,MIN,NFL,TE,15,8,39,26,249,9.6,3,15,46.2,41,1.7,16.6,66.7,6.4,0,0,0,0,0.0,0.0,26,9.6,249,3,0,2,
+RudoKy00,Kyle Rudolph,TE,2012,23,MIN,NFL,TE,16,16,93,53,493,9.3,9,34,48.4,29,3.3,30.8,57.0,5.3,0,0,0,0,0.0,0.0,53,9.3,493,9,0,6,PB
+RudoKy00,Kyle Rudolph,TE,2013,24,MIN,NFL,TE,8,8,46,30,313,10.4,3,13,47.8,31,3.8,39.1,65.2,6.8,0,0,0,0,0.0,0.0,30,10.4,313,3,0,3,
+RudoKy00,Kyle Rudolph,TE,2014,25,MIN,NFL,TE,9,8,34,24,231,9.6,2,13,64.7,23,2.7,25.7,70.6,6.8,0,0,0,0,0.0,0.0,24,9.6,231,2,1,2,
+RudoKy00,Kyle Rudolph,TE,2015,26,MIN,NFL,TE,16,16,73,49,495,10.1,5,25,49.3,47,3.1,30.9,67.1,6.8,0,0,0,0,0.0,0.0,49,10.1,495,5,0,5,
+RudoKy00,Kyle Rudolph,TE,2016,27,MIN,NFL,TE,16,16,132,83,840,10.1,7,50,50.0,44,5.2,52.5,62.9,6.4,0,0,0,0,0.0,0.0,83,10.1,840,7,0,7,
+RudoKy00,Kyle Rudolph,TE,2017,28,MIN,NFL,TE,16,16,81,57,532,9.3,8,32,59.3,34,3.6,33.3,70.4,6.6,0,0,0,0,0.0,0.0,57,9.3,532,8,0,5,PB
+RudoKy00,Kyle Rudolph,TE,2018,29,MIN,NFL,TE,16,16,82,64,634,9.9,4,32,61.0,44,4.0,39.6,78.0,7.7,0,0,0,0,0.0,0.0,64,9.9,634,4,0,5,
+RudoKy00,Kyle Rudolph,TE,2019,30,MIN,NFL,TE,16,16,48,39,367,9.4,6,24,66.7,32,2.4,22.9,81.3,7.6,0,0,0,0,0.0,0.0,39,9.4,367,6,0,4,
+RudoKy00,Kyle Rudolph,TE,2020,31,MIN,NFL,TE,12,12,37,28,334,11.9,1,16,64.9,25,2.3,27.8,75.7,9.0,0,0,0,0,0.0,0.0,28,11.9,334,1,1,3,
+RudoKy00,Kyle Rudolph,TE,2021,32,NYG,NFL,TE,16,13,39,26,257,9.9,1,12,53.8,60,1.6,16.1,66.7,6.6,0,0,0,0,0.0,0.0,26,9.9,257,1,0,2,
+RudoKy00,Kyle Rudolph,TE,2022,33,TAM,NFL,TE,9,0,5,3,28,9.3,1,2,60.0,12,0.3,3.1,60.0,5.6,0,0,0,0,0.0,0.0,3,9.3,28,1,0,0,

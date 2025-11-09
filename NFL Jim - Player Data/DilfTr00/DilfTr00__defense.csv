@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DilfTr00,Trent Dilfer,QB,1994,22,TAM,NFL,QB,5,2,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,,,0,
+DilfTr00,Trent Dilfer,QB,1995,23,TAM,NFL,QB,16,16,0,0,0,0,,0,13,1,-9,0,0.0,0,0,0,,,0,
+DilfTr00,Trent Dilfer,QB,1996,24,TAM,NFL,QB,16,16,0,0,0,0,,0,10,4,-4,0,0.0,0,0,0,,,0,
+DilfTr00,Trent Dilfer,QB,1997,25,TAM,NFL,QB,16,16,0,0,0,0,,0,9,3,-22,0,0.0,0,0,0,,,0,PB
+DilfTr00,Trent Dilfer,QB,1998,26,TAM,NFL,QB,16,16,0,0,0,0,,0,9,2,-5,0,0.0,0,0,0,,,0,
+DilfTr00,Trent Dilfer,QB,1999,27,TAM,NFL,QB,10,10,0,0,0,0,0,0,6,0,-4,0,0.0,0,0,0,0,,0,
+DilfTr00,Trent Dilfer,QB,2000,28,BAL,NFL,QB,11,8,0,0,0,0,0,0,8,1,-7,0,0.0,0,0,0,0,,0,AP CPoY-3
+DilfTr00,Trent Dilfer,QB,2001,29,SEA,NFL,QB,6,4,0,0,0,0,0,0,3,0,-3,0,0.0,,,,,,0,
+DilfTr00,Trent Dilfer,QB,2002,30,SEA,NFL,QB,6,6,0,0,0,0,0,0,2,0,-12,0,0.0,,,,,,0,
+DilfTr00,Trent Dilfer,QB,2003,31,SEA,NFL,QB,5,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+DilfTr00,Trent Dilfer,QB,2004,32,SEA,NFL,QB,5,2,0,0,0,0,0,0,1,0,0,0,0.0,,,,,,0,
+DilfTr00,Trent Dilfer,QB,2005,33,CLE,NFL,QB,11,11,0,0,0,0,0,0,9,0,-14,0,0.0,0,0,0,0,,0,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2007,35,SFO,NFL,QB,7,6,0,0,0,0,0,0,8,6,-13,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DaniOw00,Owen Daniels,TE,2006,24,HOU,NFL,TE,14,12,51,34,352,10.4,5,21,60.8,33,2.4,25.1,66.7,6.9,0,0,0,0,0.0,0.0,34,10.4,352,5,0,3,
+DaniOw00,Owen Daniels,TE,2007,25,HOU,NFL,TE,16,16,94,63,768,12.2,3,44,61.7,29,3.9,48.0,67.0,8.2,0,0,0,0,0.0,0.0,63,12.2,768,3,4,7,
+DaniOw00,Owen Daniels,TE,2008,26,HOU,NFL,TE,16,16,101,70,862,12.3,2,46,60.4,35,4.4,53.9,69.3,8.5,0,0,0,0,0.0,0.0,70,12.3,862,2,2,8,PB
+DaniOw00,Owen Daniels,TE,2009,27,HOU,NFL,TE,8,8,58,40,519,13.0,5,28,58.6,44,5.0,64.9,69.0,8.9,0,0,0,0,0.0,0.0,40,13.0,519,5,1,5,
+DaniOw00,Owen Daniels,TE,2010,28,HOU,NFL,TE,11,10,68,38,471,12.4,2,25,50.0,31,3.5,42.8,55.9,6.9,0,0,0,0,0.0,0.0,38,12.4,471,2,0,5,
+DaniOw00,Owen Daniels,TE,2011,29,HOU,NFL,TE,15,15,85,54,677,12.5,3,41,55.3,34,3.6,45.1,63.5,8.0,0,0,0,0,0.0,0.0,54,12.5,677,3,0,6,
+DaniOw00,Owen Daniels,TE,2012,30,HOU,NFL,TE,15,14,104,62,716,11.5,6,38,47.1,39,4.1,47.7,59.6,6.9,0,0,0,0,0.0,0.0,62,11.5,716,6,0,6,PB
+DaniOw00,Owen Daniels,TE,2013,31,HOU,NFL,TE,5,5,41,24,252,10.5,3,18,51.2,28,4.8,50.4,58.5,6.1,0,0,0,0,0.0,0.0,24,10.5,252,3,0,1,
+DaniOw00,Owen Daniels,TE,2014,32,BAL,NFL,TE,15,13,79,48,527,11.0,4,32,54.4,39,3.2,35.1,60.8,6.7,0,0,0,0,0.0,0.0,48,11.0,527,4,0,5,
+DaniOw00,Owen Daniels,TE,2015,33,DEN,NFL,TE,16,16,77,46,517,11.2,3,27,50.6,37,2.9,32.3,59.7,6.7,0,0,0,0,0.0,0.0,46,11.2,517,3,0,3,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BridTe00,Teddy Bridgewater,QB,2014,22,MIN,NFL,QB,13,12,47,209,1,15,46.8,16,4.4,16.1,3.6,0,0,0,0,0,0.0,0.0,47,4.4,209,1,3,
+BridTe00,Teddy Bridgewater,QB,2015,23,MIN,NFL,QB,16,16,44,192,3,18,38.6,19,4.4,12.0,2.8,0,0,0,0,0,0.0,0.0,44,4.4,192,3,8,PB
+BridTe00,Teddy Bridgewater,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BridTe00,Teddy Bridgewater,QB,2017,25,MIN,NFL,QB,1,0,3,-3,0,0,0.0,-1,-1.0,-3.0,3.0,0,0,0,0,0,0.0,0.0,3,-1.0,-3,0,0,
+BridTe00,Teddy Bridgewater,QB,2018,26,NOR,NFL,QB,5,1,11,5,0,1,9.1,9,0.5,1.0,2.2,0,0,0,0,0,0.0,0.0,11,0.5,5,0,0,
+BridTe00,Teddy Bridgewater,QB,2019,27,NOR,NFL,QB,9,5,28,31,0,4,21.4,11,1.1,3.4,3.1,0,0,0,0,0,0.0,0.0,28,1.1,31,0,1,AP CPoY-5
+BridTe00,Teddy Bridgewater,QB,2020,28,CAR,NFL,QB,15,15,53,279,5,18,50.9,18,5.3,18.6,3.5,0,0,0,0,0,0.0,0.0,53,5.3,279,5,6,
+BridTe00,Teddy Bridgewater,QB,2021,29,DEN,NFL,QB,14,14,30,106,2,16,60.0,13,3.5,7.6,2.1,0,0,0,0,0,0.0,0.0,30,3.5,106,2,1,
+BridTe00,Teddy Bridgewater,QB,2022,30,MIA,NFL,QB,5,2,3,27,0,2,66.7,11,9.0,5.4,0.6,0,0,0,0,0,0.0,0.0,3,9.0,27,0,0,
+BridTe00,Teddy Bridgewater,QB,2023,31,DET,NFL,QB,1,0,2,-2,0,0,0.0,-1,-1.0,-2.0,2.0,0,0,0,0,0,0.0,0.0,2,-1.0,-2,0,0,
+BridTe00,Teddy Bridgewater,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BridTe00,Teddy Bridgewater,QB,2025,33,TAM,NFL,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,

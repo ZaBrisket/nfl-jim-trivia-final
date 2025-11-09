@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ReedJa00,Jake Reed,WR,1991,24,MIN,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+ReedJa00,Jake Reed,WR,1992,25,MIN,NFL,WR,16,0,14,6,142,23.7,0,6,42.9,51,0.4,8.9,42.9,10.1,0,0,0,0,0.0,0.0,6,23.7,142,0,0,1,
+ReedJa00,Jake Reed,WR,1993,26,MIN,NFL,WR,10,1,10,5,65,13.0,0,4,50.0,18,0.5,6.5,50.0,6.5,0,0,0,0,0.0,0.0,5,13.0,65,0,0,1,
+ReedJa00,Jake Reed,WR,1994,27,MIN,NFL,WR,16,16,161,85,1175,13.8,4,59,51.6,59,5.3,73.4,52.8,7.3,0,0,0,0,0.0,0.0,85,13.8,1175,4,3,9,
+ReedJa00,Jake Reed,WR,1995,28,MIN,NFL,WR,16,16,142,72,1167,16.2,9,55,46.5,55,4.5,72.9,50.7,8.2,0,0,0,0,0.0,0.0,72,16.2,1167,9,1,10,
+ReedJa00,Jake Reed,WR,1996,29,MIN,NFL,WR,16,15,128,72,1320,18.3,7,56,53.1,82,4.5,82.5,56.3,10.3,0,0,0,0,0.0,0.0,72,18.3,1320,7,0,10,
+ReedJa00,Jake Reed,WR,1997,30,MIN,NFL,WR,16,16,117,68,1138,16.7,6,58,57.3,56,4.3,71.1,58.1,9.7,0,0,0,0,0.0,0.0,68,16.7,1138,6,0,11,
+ReedJa00,Jake Reed,WR,1998,31,MIN,NFL,WR,11,11,69,34,474,13.9,4,21,43.5,56,3.1,43.1,49.3,6.9,0,0,0,0,0.0,0.0,34,13.9,474,4,0,6,
+ReedJa00,Jake Reed,WR,1999,32,MIN,NFL,WR,16,8,79,44,643,14.6,2,27,46.8,50,2.8,40.2,55.7,8.1,0,0,0,0,0.0,0.0,44,14.6,643,2,0,6,
+ReedJa00,Jake Reed,WR,2000,33,NOR,NFL,WR,7,6,31,16,206,12.9,0,12,51.6,22,2.3,29.4,51.6,6.6,0,0,0,0,0.0,0.0,16,12.9,206,0,0,2,
+ReedJa00,Jake Reed,WR,2001,34,MIN,NFL,WR,16,0,53,27,309,11.4,1,15,41.5,27,1.7,19.3,50.9,5.8,0,0,0,0,0.0,0.0,27,11.4,309,1,0,3,
+ReedJa00,Jake Reed,WR,2002,35,NOR,NFL,WR,14,2,47,21,360,17.1,3,16,42.6,54,1.5,25.7,44.7,7.7,0,0,0,0,0.0,0.0,21,17.1,360,3,1,4,

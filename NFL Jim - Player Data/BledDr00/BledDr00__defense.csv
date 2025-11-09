@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+BledDr00,Drew Bledsoe,QB,1993,21,NWE,NFL,QB,13,12,0,0,0,0,,0,8,5,-23,0,0.0,0,0,0,,0,
+BledDr00,Drew Bledsoe,QB,1994,22,NWE,NFL,QB,16,16,0,0,0,0,,0,9,3,-5,0,0.0,0,0,0,,0,PB
+BledDr00,Drew Bledsoe,QB,1995,23,NWE,NFL,QB,15,15,0,0,0,0,,0,11,1,-8,0,0.0,0,0,0,,0,
+BledDr00,Drew Bledsoe,QB,1996,24,NWE,NFL,QB,16,16,0,0,0,0,,0,9,1,-2,0,0.0,0,0,0,,0,PB
+BledDr00,Drew Bledsoe,QB,1997,25,NWE,NFL,QB,16,16,0,0,0,0,,0,4,3,-4,0,0.0,0,0,0,,0,PB
+BledDr00,Drew Bledsoe,QB,1998,26,NWE,NFL,QB,14,14,0,0,0,0,,0,9,4,-10,0,0.0,0,0,0,,0,
+BledDr00,Drew Bledsoe,QB,1999,27,NWE,NFL,QB,16,16,0,0,0,0,0,0,8,6,-13,0,0.0,0,0,0,0,0,
+BledDr00,Drew Bledsoe,QB,2000,28,NWE,NFL,QB,16,16,0,0,0,0,0,0,9,3,-20,0,0.0,0,0,0,0,0,
+BledDr00,Drew Bledsoe,QB,2001,29,NWE,NFL,QB,2,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,
+BledDr00,Drew Bledsoe,QB,2002,30,BUF,NFL,QB,16,16,0,0,0,0,0,0,11,2,-8,0,0.0,,,,,0,"PB,AP CPoY-3"
+BledDr00,Drew Bledsoe,QB,2003,31,BUF,NFL,QB,16,16,0,0,0,0,0,0,15,4,-18,0,0.0,0,0,0,0,0,
+BledDr00,Drew Bledsoe,QB,2004,32,BUF,NFL,QB,16,16,0,0,0,0,0,0,9,2,-56,0,0.0,,,,,0,
+BledDr00,Drew Bledsoe,QB,2005,33,DAL,NFL,QB,16,16,0,0,0,0,0,0,17,3,-12,0,0.0,0,0,0,0,0,
+BledDr00,Drew Bledsoe,QB,2006,34,DAL,NFL,QB,6,6,0,0,0,0,0,0,3,1,0,0,0.0,,,,,0,

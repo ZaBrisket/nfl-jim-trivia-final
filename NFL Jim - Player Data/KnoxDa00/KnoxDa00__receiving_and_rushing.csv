@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+KnoxDa00,Dawson Knox,TE,2019,23,BUF,NFL,TE,15,11,50,28,388,13.9,2,15,42.0,49,1.9,25.9,56.0,7.8,1,9,0,1,100.0,9,9.0,0.6,0.1,29,13.7,397,2,0,3,
+KnoxDa00,Dawson Knox,TE,2020,24,BUF,NFL,TE,12,7,44,24,288,12.0,3,14,50.0,36,2.0,24.0,54.5,6.5,0,0,0,0,,,,0.0,0.0,24,12.0,288,3,2,3,
+KnoxDa00,Dawson Knox,TE,2021,25,BUF,NFL,TE,15,14,71,49,587,12.0,9,31,59.2,53,3.3,39.1,69.0,8.3,0,4,0,0,,,,0.3,0.0,49,12.1,591,9,0,6,
+KnoxDa00,Dawson Knox,TE,2022,26,BUF,NFL,TE,15,15,65,48,517,10.8,6,25,60.0,45,3.2,34.5,73.8,8.0,0,0,0,0,,,,0.0,0.0,48,10.8,517,6,0,5,PB
+KnoxDa00,Dawson Knox,TE,2023,27,BUF,NFL,TE,12,11,36,22,186,8.5,2,13,50.0,17,1.8,15.5,61.1,5.2,0,0,0,0,,,,0.0,0.0,22,8.5,186,2,0,2,
+KnoxDa00,Dawson Knox,TE,2024,28,BUF,NFL,TE,16,13,33,22,311,14.1,1,12,63.6,39,1.4,19.4,66.7,9.4,0,0,0,0,,,,0.0,0.0,22,14.1,311,1,0,4,
+KnoxDa00,Dawson Knox,TE,2025,29,BUF,NFL,TE,8,6,14,9,118,13.1,1,6,64.3,30,1.1,14.8,64.3,8.4,0,0,0,0,,,,0.0,0.0,9,13.1,118,1,0,,

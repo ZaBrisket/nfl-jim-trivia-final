@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GoedDa00,Dallas Goedert,TE,2018,23,PHI,TE,88,16,8,523,48%,0,0%,187,43%
+GoedDa00,Dallas Goedert,TE,2019,24,PHI,TE,88,15,9,770,71%,0,0%,143,34%
+GoedDa00,Dallas Goedert,TE,2020,25,PHI,TE,88,11,9,604,77%,0,0%,41,13%
+GoedDa00,Dallas Goedert,TE,2021,26,PHI,TE,88,15,14,781,79%,0,0%,27,7%
+GoedDa00,Dallas Goedert,TE,2022,27,PHI,TE,88,12,12,735,90%,0,0%,4,1%
+GoedDa00,Dallas Goedert,TE,2023,28,PHI,TE,88,14,14,809,85%,0,0%,3,1%
+GoedDa00,Dallas Goedert,TE,2024,29,PHI,TE,88,10,10,446,66%,0,0%,3,1%
+GoedDa00,Dallas Goedert,TE,2025,30,PHI,TE,88,7,7,341,82%,0,0%,1,1%

@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+MontJo01,Joe Montana,QB,1979,23,16,QB,9,,51,,All 1979 Games
+MontJo01,Joe Montana,QB,1980,24,15,QB,130,,25,,All 1980 Games
+MontJo01,Joe Montana,QB,1981,25,16,QB,214,30,5,50,All 1981 Games
+MontJo01,Joe Montana,QB,1982,26,9,QB,164,116,2,8,All 1982 Games
+MontJo01,Joe Montana,QB,1983,27,16,QB,274,104,1,9,All 1983 Games
+MontJo01,Joe Montana,QB,1984,28,16,QB,257,93,3,12,All 1984 Games
+MontJo01,Joe Montana,QB,1985,29,15,QB,256,80,1,9,All 1985 Games
+MontJo01,Joe Montana,QB,1986,30,8,QB,104,,22,,All 1986 Games
+MontJo01,Joe Montana,QB,1987,31,13,QB,237,95,1,2,All 1987 Games
+MontJo01,Joe Montana,QB,1988,32,14,QB,199,26,7,38,All 1988 Games
+MontJo01,Joe Montana,QB,1989,33,13,QB,261,86,2,13,All 1989 Games
+MontJo01,Joe Montana,QB,1990,34,15,QB,248,79,3,7,All 1990 Games
+MontJo01,Joe Montana,QB,1992,36,1,QB,16,,53,,All 1992 Games
+MontJo01,Joe Montana,QB,1993,37,11,QB,129,,17,,All 1993 Games
+MontJo01,Joe Montana,QB,1994,38,14,QB,171,,14,77,All 1994 Games

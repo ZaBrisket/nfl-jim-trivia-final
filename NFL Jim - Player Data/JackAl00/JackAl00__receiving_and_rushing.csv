@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JackAl00,Alfred Jackson,WR,1978,23,ATL,NFL,WR,15,0,60,26,526,20.2,2,20,40.0,71,1.7,35.1,43.3,8.8,0,0,0,0,,,,0.0,0.0,26,20.2,526,2,3,4,
+JackAl00,Alfred Jackson,WR,1979,24,ATL,NFL,WR,12,0,20,11,156,14.2,0,9,50.0,23,0.9,13.0,55.0,7.8,0,0,0,0,,,,0.0,0.0,11,14.2,156,0,0,1,
+JackAl00,Alfred Jackson,WR,1980,25,ATL,NFL,WR,16,0,42,22,403,18.3,7,17,50.0,54,1.4,25.2,52.4,9.6,0,0,0,0,,,,0.0,0.0,22,18.3,403,7,0,4,
+JackAl00,Alfred Jackson,WR,1981,26,ATL,NFL,WR,16,0,85,37,604,16.3,6,29,40.0,49,2.3,37.8,43.5,7.1,2,5,0,0,50.0,5,2.5,0.3,0.1,39,15.6,609,6,0,5,
+JackAl00,Alfred Jackson,WR,1982,27,ATL,NFL,WR,9,9,43,26,361,13.9,1,20,60.5,40,2.9,40.1,60.5,8.4,1,4,0,0,100.0,4,4.0,0.4,0.1,27,13.5,365,1,0,6,
+JackAl00,Alfred Jackson,WR,1983,28,ATL,NFL,WR,4,4,23,13,220,16.9,3,9,47.8,54,3.3,55.0,56.5,9.6,0,0,0,0,,,,0.0,0.0,13,16.9,220,3,0,2,
+JackAl00,Alfred Jackson,WR,1984,29,ATL,NFL,WR,16,15,92,52,731,14.1,2,27,44.6,50,3.3,45.7,56.5,7.9,0,0,0,0,,,,0.0,0.0,52,14.1,731,2,0,6,

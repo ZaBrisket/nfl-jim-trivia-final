@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FullSt00,Steve Fuller,QB,1979,22,KAN,NFL,QB,16,12,50,264,1,14,38.0,49,5.3,16.5,3.1,0,0,0,0,0,,0.0,0.0,,,50,5.3,264,1,6,
+FullSt00,Steve Fuller,QB,1980,23,KAN,NFL,QB,14,13,60,274,4,25,51.7,38,4.6,19.6,4.3,0,0,0,0,0,,0.0,0.0,,,60,4.6,274,4,16,
+FullSt00,Steve Fuller,QB,1981,24,KAN,NFL,QB,13,3,19,118,0,4,36.8,27,6.2,9.1,1.5,0,0,0,0,0,,0.0,0.0,,,19,6.2,118,0,4,
+FullSt00,Steve Fuller,QB,1982,25,KAN,NFL,QB,9,3,10,56,0,5,60.0,12,5.6,6.2,1.1,0,0,0,0,0,,0.0,0.0,,,10,5.6,56,0,3,
+FullSt00,Steve Fuller,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FullSt00,Steve Fuller,QB,1984,27,CHI,NFL,QB,6,4,15,89,1,6,46.7,26,5.9,14.8,2.5,0,0,0,0,0,,0.0,0.0,,,15,5.9,89,1,0,
+FullSt00,Steve Fuller,QB,1985,28,CHI,NFL,QB,16,5,24,77,5,10,58.3,13,3.2,4.8,1.5,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,24,3.2,77,5,3,
+FullSt00,Steve Fuller,QB,1986,29,CHI,NFL,QB,16,2,8,30,0,0,12.5,10,3.8,1.9,0.5,0,0,0,0,0,,0.0,0.0,,,8,3.8,30,0,2,

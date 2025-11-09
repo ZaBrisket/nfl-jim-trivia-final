@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+EbroEr00,Eric Ebron,TE,2014,21,DET,NFL,TE,13,7,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.5,
+EbroEr00,Eric Ebron,TE,2015,22,DET,NFL,TE,14,8,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.1,
+EbroEr00,Eric Ebron,TE,2016,23,DET,NFL,TE,13,13,1,1,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.9,
+EbroEr00,Eric Ebron,TE,2017,24,DET,NFL,TE,16,9,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+EbroEr00,Eric Ebron,TE,2018,25,IND,NFL,TE,16,8,1,13,0,0,0,0,0,14,0,,0,0,0,0,0,84,5.3,PB
+EbroEr00,Eric Ebron,TE,2019,26,IND,NFL,TE,11,2,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.6,
+EbroEr00,Eric Ebron,TE,2020,27,PIT,NFL,TE,15,9,0,5,0,0,0,0,0,5,1,,0,0,0,0,0,32,2.1,
+EbroEr00,Eric Ebron,TE,2021,28,PIT,NFL,TE,8,3,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.5,

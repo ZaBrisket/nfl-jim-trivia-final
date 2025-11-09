@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WhitCh00,Charles White,RB,1980,22,CLE,NFL,RB,14,7,86,279,5,18,45.3,16,3.2,19.9,6.1,24,17,153,9.0,1,11,50.0,31,1.2,10.9,70.8,6.4,103,4.2,432,6,1,4,
+WhitCh00,Charles White,RB,1981,23,CLE,NFL,RB,16,8,97,342,1,24,48.5,26,3.5,21.4,6.1,35,27,219,8.1,0,7,48.6,21,1.7,13.7,77.1,6.3,124,4.5,561,1,8,3,
+WhitCh00,Charles White,RB,1982,24,CLE,NFL,RB,9,9,69,259,3,19,52.2,18,3.8,28.8,7.7,50,34,283,8.3,0,12,48.0,36,3.8,31.4,68.0,5.7,103,5.3,542,3,2,6,
+WhitCh00,Charles White,RB,1983,,Did not play - Injured (ankle),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WhitCh00,Charles White,RB,1984,26,CLE,NFL,RB,10,1,24,62,0,2,29.2,8,2.6,6.2,2.4,6,5,29,5.8,0,2,33.3,17,0.5,2.9,83.3,4.8,29,3.1,91,0,0,1,
+WhitCh00,Charles White,RB,1985,27,RAM,NFL,RB,16,0,70,310,3,13,55.7,32,4.4,19.4,4.4,4,1,12,12.0,0,1,25.0,12,0.1,0.8,25.0,3.0,71,4.5,322,3,3,2,
+WhitCh00,Charles White,RB,1986,28,RAM,NFL,RB,16,0,22,126,0,5,40.9,19,5.7,7.9,1.4,1,1,7,7.0,0,0,100.0,7,0.1,0.4,100.0,7.0,23,5.8,133,0,2,1,
+WhitCh00,Charles White,RB,1987,29,RAM,NFL,RB,15,12,324,1374,11,74,47.5,58,4.2,91.6,21.6,34,23,121,5.3,0,7,29.4,20,1.5,8.1,67.6,3.6,347,4.3,1495,11,8,13,"PB,AP-1"
+WhitCh00,Charles White,RB,1988,30,RAM,NFL,RB,12,3,88,323,0,13,53.4,13,3.7,26.9,7.3,7,6,36,6.0,0,1,42.9,18,0.5,3.0,85.7,5.1,94,3.8,359,0,3,3,

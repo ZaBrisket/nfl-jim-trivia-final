@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+AustTa00,Tavon Austin,WR,2018,28,DAL,NFL,WR,7,0,13,8,140,5,103,12.9,37,4.6,16.0,0,,2,15.4,1,105.8,6,55,2,44,7.3,11,1.8,0,
+AustTa00,Tavon Austin,WR,2019,29,DAL,NFL,WR,14,0,24,13,177,8,92,7.1,85,6.5,12.5,0,,0,0.0,1,74.5,6,47,2,28,4.7,19,3.2,0,
+AustTa00,Tavon Austin,WR,2020,30,GNB,NFL,WR,4,0,5,5,20,1,-22,-4.4,42,8.4,-4.4,0,,0,0.0,0,83.3,0,0,0,0,,0,,0,
+AustTa00,Tavon Austin,WR,2021,31,JAX,NFL,WR,13,3,37,24,213,11,154,6.4,59,2.5,8.9,1,24.0,2,5.4,3,55.3,3,21,1,20,6.7,1,0.3,0,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CartGe00,Gerald Carter,WR,1980,23,NYJ,NFL,WR,3,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,1,0,
+CartGe00,Gerald Carter,WR,1981,24,TAM,NFL,WR,16,0,3,1,10,10.0,0,0,0.0,10,0.1,0.6,33.3,3.3,0,0,0,0,,,,0.0,0.0,1,10.0,10,0,0,0,
+CartGe00,Gerald Carter,WR,1982,25,TAM,NFL,WR,9,0,20,10,140,14.0,0,8,50.0,27,1.1,15.6,50.0,7.0,0,0,0,0,,,,0.0,0.0,10,14.0,140,0,0,2,
+CartGe00,Gerald Carter,WR,1983,26,TAM,NFL,WR,16,9,79,48,694,14.5,2,31,48.1,56,3.0,43.4,60.8,8.8,1,0,0,0,0.0,,0.0,0.0,0.1,49,14.2,694,2,3,5,
+CartGe00,Gerald Carter,WR,1984,27,TAM,NFL,WR,16,9,104,60,816,13.6,5,50,53.8,74,3.8,51.0,57.7,7.8,1,16,0,1,100.0,16,16.0,1.0,0.1,61,13.6,832,5,1,8,
+CartGe00,Gerald Carter,WR,1985,28,TAM,NFL,WR,16,16,86,40,557,13.9,3,28,43.0,40,2.5,34.8,46.5,6.5,1,13,0,1,100.0,13,13.0,0.8,0.1,41,13.9,570,3,1,5,
+CartGe00,Gerald Carter,WR,1986,29,TAM,NFL,WR,15,15,91,42,640,15.2,2,32,40.7,46,2.8,42.7,46.2,7.0,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,43,14.8,635,2,2,5,
+CartGe00,Gerald Carter,WR,1987,30,TAM,NFL,WR,12,12,74,38,586,15.4,5,33,51.4,57,3.2,48.8,51.4,7.9,0,0,0,0,,,,0.0,0.0,38,15.4,586,5,0,5,

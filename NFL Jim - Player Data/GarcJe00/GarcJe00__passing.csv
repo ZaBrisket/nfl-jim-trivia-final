@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+GarcJe00,Jeff Garcia,QB,1999,29,SFO,NFL,QB,13,10,2-8-0,225,375,60.0,2544,11,2.9,11,2.9,134,46.4,62,6.8,6.05,11.3,195.7,77.9,,15,104,3.85,6.26,5.55,0,0,9,
+GarcJe00,Jeff Garcia,QB,2000,30,SFO,NFL,QB,16,16,6-10-0,355,561,63.3,4278,31,5.5,10,1.8,206,49.9,69,7.6,7.93,12.1,267.4,97.6,,24,155,4.10,7.05,7.34,0,0,20,PB
+GarcJe00,Jeff Garcia,QB,2001,31,SFO,NFL,QB,16,16,12-4-0,316,504,62.7,3538,32,6.3,12,2.4,184,48.5,61,7.0,7.22,11.2,221.1,94.8,,26,114,4.91,6.46,6.65,4,4,18,PB
+GarcJe00,Jeff Garcia,QB,2002,32,SFO,NFL,QB,16,16,10-6-0,328,528,62.1,3344,21,4.0,10,1.9,173,45.7,76,6.3,6.28,10.2,209.0,85.6,,17,93,3.12,5.97,5.91,2,4,15,PB
+GarcJe00,Jeff Garcia,QB,2003,33,SFO,NFL,QB,13,13,5-8-0,225,392,57.4,2704,18,4.6,13,3.3,130,43.6,75,6.9,6.32,12.0,208.0,80.1,,21,104,5.08,6.30,5.75,1,1,13,
+GarcJe00,Jeff Garcia,QB,2004,34,CLE,NFL,QB,11,10,3-7-0,144,252,57.1,1731,10,4.0,9,3.6,71,36.6,99,6.9,6.06,12.0,157.4,76.7,,24,99,8.70,5.91,5.17,1,1,6,
+GarcJe00,Jeff Garcia,QB,2005,35,DET,NFL,QB,6,5,1-4-0,102,173,59.0,937,3,1.7,6,3.5,46,39.1,49,5.4,4.20,9.2,156.2,65.1,,6,34,3.35,5.04,3.87,0,1,0,
+GarcJe00,Jeff Garcia,QB,2006,36,PHI,NFL,QB,8,6,5-1-0,116,188,61.7,1309,10,5.3,2,1.1,61,47.9,65,7.0,7.55,11.3,163.6,95.8,67.1,6,40,3.09,6.54,7.11,2,2,5,AP CPoY-5
+GarcJe00,Jeff Garcia,QB,2007,37,TAM,NFL,QB,13,13,8-5-0,209,327,63.9,2440,13,4.0,4,1.2,111,47.7,69,7.5,7.71,11.7,187.7,94.6,59.4,19,104,5.49,6.75,6.98,0,1,9,PB
+GarcJe00,Jeff Garcia,QB,2008,38,TAM,NFL,QB,12,11,6-5-0,244,376,64.9,2712,12,3.2,6,1.6,123,48.6,71,7.2,7.13,11.1,226.0,90.2,69.3,23,100,5.76,6.55,6.47,1,3,9,
+GarcJe00,Jeff Garcia,QB,2009,39,PHI,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0.0,0,0,,,,0,0,0,

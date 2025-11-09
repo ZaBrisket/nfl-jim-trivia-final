@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+StewJa00,James Stewart,RB,1995,24,JAX,NFL,RB,14,8,137,525,2,27,48.2,22,3.8,37.5,9.8,27,21,190,9.0,1,8,44.4,38,1.5,13.6,77.8,7.0,158,4.5,715,3,1,5,
+StewJa00,James Stewart,RB,1996,25,JAX,NFL,RB,13,11,190,723,8,37,44.2,34,3.8,55.6,14.6,40,30,177,5.9,2,7,35.0,21,2.3,13.6,75.0,4.4,220,4.1,900,10,2,6,
+StewJa00,James Stewart,RB,1997,26,JAX,NFL,RB,16,5,136,555,8,39,47.8,33,4.1,34.7,8.5,49,41,336,8.2,1,15,51.0,40,2.6,21.0,83.7,6.9,177,5.0,891,9,0,8,
+StewJa00,James Stewart,RB,1998,27,JAX,NFL,RB,3,3,53,217,2,13,45.3,30,4.1,72.3,17.7,8,6,42,7.0,1,4,50.0,19,2.0,14.0,75.0,5.3,59,4.4,259,3,2,2,
+StewJa00,James Stewart,RB,1999,28,JAX,NFL,RB,14,7,249,931,13,55,46.2,44,3.7,66.5,17.8,28,21,108,5.1,0,4,25.0,19,1.5,7.7,75.0,3.9,270,3.8,1039,13,4,7,
+StewJa00,James Stewart,RB,2000,29,DET,NFL,RB,16,16,339,1184,10,66,46.3,34,3.5,74.0,21.2,48,32,287,9.0,1,15,37.5,32,2.0,17.9,66.7,6.0,371,4.0,1471,11,4,10,
+StewJa00,James Stewart,RB,2001,30,DET,NFL,RB,11,10,143,685,1,23,39.2,38,4.8,62.3,13.0,26,23,242,10.5,1,9,50.0,56,2.1,22.0,88.5,9.3,166,5.6,927,2,0,6,
+StewJa00,James Stewart,RB,2002,31,DET,NFL,RB,14,9,231,1021,4,47,41.6,56,4.4,72.9,16.5,70,46,333,7.2,2,13,38.6,52,3.3,23.8,65.7,4.8,277,4.9,1354,6,0,9,

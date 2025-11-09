@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BernGi00,Giovani Bernard,RB,2013,22,CIN,RB,25,16,0,613,54%,0,0%,3,1%
+BernGi00,Giovani Bernard,RB,2014,23,CIN,RB,25,13,9,510,59%,0,0%,1,0%
+BernGi00,Giovani Bernard,RB,2015,24,CIN,RB,25,16,1,580,55%,0,0%,2,1%
+BernGi00,Giovani Bernard,RB,2016,25,CIN,RB,25,10,2,394,57%,0,0%,0,0%
+BernGi00,Giovani Bernard,RB,2017,26,CIN,RB,25,16,2,482,50%,0,0%,25,6%
+BernGi00,Giovani Bernard,RB,2018,27,CIN,RB,25,12,4,329,44%,0,0%,11,3%
+BernGi00,Giovani Bernard,RB,2019,28,CIN,RB,25,16,2,443,40%,0,0%,10,2%
+BernGi00,Giovani Bernard,RB,2020,29,CIN,RB,25,16,10,517,48%,0,0%,53,11%
+BernGi00,Giovani Bernard,RB,2021,30,TAM,RB,25,12,0,146,18%,0,0%,82,24%
+BernGi00,Giovani Bernard,RB,2022,31,TAM,RB,25,8,0,25,4%,0,0%,85,40%

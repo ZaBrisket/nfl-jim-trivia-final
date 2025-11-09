@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+JoneAa00,Aaron Jones,RB,2019,25,GNB,NFL,RB,2,2,33,118,8,58,1.8,60,1.8,3,11.0,7,6,31,3,-10,-1.7,41,6.8,-2.0,0,0,0.0,0,124.7,
+JoneAa00,Aaron Jones,RB,2020,26,GNB,NFL,RB,2,2,20,126,6,59,3.0,67,3.4,3,6.7,8,5,21,2,-8,-1.6,29,5.8,-1.0,0,1,12.5,0,66.7,
+JoneAa00,Aaron Jones,RB,2021,27,GNB,NFL,RB,1,1,12,41,3,20,1.7,21,1.8,0,,10,9,129,2,23,2.6,106,11.8,2.1,0,1,10.0,0,118.7,
+JoneAa00,Aaron Jones,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneAa00,Aaron Jones,RB,2023,29,GNB,NFL,RB,2,2,39,226,14,136,3.5,90,2.3,5,7.8,7,4,21,1,-5,-1.3,26,6.5,-1.3,0,1,14.3,0,62.2,
+JoneAa00,Aaron Jones,RB,2024,30,MIN,NFL,RB,1,1,13,48,1,19,1.5,29,2.2,0,,6,3,12,0,-6,-2.0,18,6.0,-4.0,0,1,16.7,0,56.2,

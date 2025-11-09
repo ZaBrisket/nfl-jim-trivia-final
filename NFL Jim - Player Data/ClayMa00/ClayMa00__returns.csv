@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ClayMa00,Mark Clayton,WR,1983,22,MIA,NFL,WR,14,0,41,392,1,60,9.6,1,25,0,25,25.0,540,
+ClayMa00,Mark Clayton,WR,1984,23,MIA,NFL,WR,15,15,8,79,0,22,9.9,2,15,0,14,7.5,1518,"PB,AP-2"
+ClayMa00,Mark Clayton,WR,1985,24,MIA,NFL,WR,16,16,2,14,0,11,7.0,0,0,0,0,,1020,PB
+ClayMa00,Mark Clayton,WR,1986,25,MIA,NFL,WR,15,14,1,0,0,0,0.0,0,0,0,0,,1183,PB

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+NelsDa00,Darrin Nelson,RB,1982,23,MIN,NFL,RB,7,4,0,0,0,0,0,2,0,-8,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1983,24,MIN,NFL,RB,15,10,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1984,25,MIN,NFL,RB,15,8,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1985,26,MIN,NFL,RB,16,10,0,0,0,0,0,7,2,16,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1986,27,MIN,NFL,RB,16,16,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1987,28,MIN,NFL,RB,10,9,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1988,29,MIN,NFL,RB,13,11,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1989,30,2TM,NFL,RB,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1989,30,SDG,NFL,RB,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1990,31,SDG,NFL,RB,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1991,32,MIN,NFL,RB,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+NelsDa00,Darrin Nelson,RB,1992,33,MIN,NFL,RB,16,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,

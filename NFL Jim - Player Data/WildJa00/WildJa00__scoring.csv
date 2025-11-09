@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WildJa00,James Wilder,RB,1981,23,TAM,NFL,FB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+WildJa00,James Wilder,RB,1982,24,TAM,NFL,FB,9,9,3,1,0,0,0,0,0,4,0,0,0,0,0,24,2.7,
+WildJa00,James Wilder,RB,1983,25,TAM,NFL,FB,10,10,4,2,0,0,0,0,0,6,0,0,0,0,0,36,3.6,
+WildJa00,James Wilder,RB,1984,26,TAM,NFL,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,78,4.9,"PB,AP-2"
+WildJa00,James Wilder,RB,1985,27,TAM,NFL,RB,16,16,10,0,0,0,0,0,0,10,0,0,0,0,0,60,3.8,
+WildJa00,James Wilder,RB,1986,28,TAM,NFL,RB,12,12,2,1,0,0,0,0,0,3,0,0,0,0,0,18,1.5,
+WildJa00,James Wilder,RB,1987,29,TAM,NFL,FB,12,12,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+WildJa00,James Wilder,RB,1988,30,TAM,NFL,FB,7,7,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.9,
+WildJa00,James Wilder,RB,1989,31,TAM,NFL,RB,15,4,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.2,
+WildJa00,James Wilder,RB,1990,32,2TM,NFL,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+WildJa00,James Wilder,RB,1990,32,DET,NFL,RB,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

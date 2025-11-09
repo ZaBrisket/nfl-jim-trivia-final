@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BrisJa00,Jacoby Brissett,QB,2016,24,NWE,NFL,QB,3,2,103,89,104,95,96,48,142,69,93,
+BrisJa00,Jacoby Brissett,QB,2017,25,IND,NFL,QB,16,15,88,82,93,88,84,82,114,73,89,
+BrisJa00,Jacoby Brissett,QB,,,,,,,,,,,,,,,,,
+BrisJa00,Jacoby Brissett,QB,2019,27,IND,NFL,QB,15,15,86,91,95,97,85,94,116,106,94,
+BrisJa00,Jacoby Brissett,QB,,,,,,,,,,,,,,,,,
+BrisJa00,Jacoby Brissett,QB,2021,29,MIA,NFL,QB,11,5,70,70,77,77,90,77,109,89,81,
+BrisJa00,Jacoby Brissett,QB,2022,30,CLE,NFL,QB,16,11,100,101,102,102,97,87,115,102,98,
+BrisJa00,Jacoby Brissett,QB,,,,,,,,,,,,,,,,,
+BrisJa00,Jacoby Brissett,QB,2024,32,NWE,NFL,QB,8,5,60,60,74,72,77,64,131,77,76,
+BrisJa00,Jacoby Brissett,QB,2025,33,ARI,NFL,QB,5,3,110,100,115,107,99,107,120,78,112,

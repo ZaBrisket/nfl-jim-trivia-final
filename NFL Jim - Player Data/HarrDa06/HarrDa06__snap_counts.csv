@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HarrDa06,Damien Harris,RB,2019,22,NWE,RB,37,2,0,5,3%,0,0%,5,9%
+HarrDa06,Damien Harris,RB,2020,23,NWE,RB,37,10,10,251,40%,0,0%,0,0%
+HarrDa06,Damien Harris,RB,2021,24,NWE,RB,37,15,15,407,42%,0,0%,0,0%
+HarrDa06,Damien Harris,RB,2022,25,NWE,RB,37,11,9,238,35%,0,0%,0,0%
+HarrDa06,Damien Harris,RB,2023,26,BUF,RB,22,6,0,60,15%,0,0%,34,24%

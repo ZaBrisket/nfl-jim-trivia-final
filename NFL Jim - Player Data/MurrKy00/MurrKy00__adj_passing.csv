@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MurrKy00,Kyler Murray,QB,2019,22,ARI,NFL,QB,16,16,92,89,92,90,99,90,101,87,94,AP ORoY-1
+MurrKy00,Kyler Murray,QB,2020,23,ARI,NFL,QB,16,16,99,103,100,103,112,101,102,113,104,PB
+MurrKy00,Kyler Murray,QB,2021,24,ARI,NFL,QB,14,14,115,111,112,109,118,105,103,101,112,PB
+MurrKy00,Kyler Murray,QB,2022,25,ARI,NFL,QB,11,11,76,80,85,87,108,91,111,103,95,
+MurrKy00,Kyler Murray,QB,2023,26,ARI,NFL,QB,8,8,93,96,97,99,106,95,110,104,101,AP CPoY-9
+MurrKy00,Kyler Murray,QB,2024,27,ARI,NFL,QB,17,17,101,105,101,103,115,95,104,112,104,AP CPoY-10
+MurrKy00,Kyler Murray,QB,2025,28,ARI,NFL,QB,5,5,80,77,86,83,110,91,105,87,95,

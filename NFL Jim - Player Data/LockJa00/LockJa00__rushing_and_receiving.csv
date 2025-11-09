@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LockJa00,Jake Locker,QB,2011,23,TEN,NFL,QB,5,0,8,56,1,4,62.5,17,7.0,11.2,1.6,0,0,0,0,0,,0.0,0.0,,,8,7.0,56,1,0,
+LockJa00,Jake Locker,QB,2012,24,TEN,NFL,QB,11,11,41,291,1,14,48.8,32,7.1,26.5,3.7,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,41,7.1,291,1,4,
+LockJa00,Jake Locker,QB,2013,25,TEN,NFL,QB,7,7,24,155,2,10,50.0,39,6.5,22.1,3.4,0,0,0,0,0,,0.0,0.0,,,24,6.5,155,2,3,
+LockJa00,Jake Locker,QB,2014,26,TEN,NFL,QB,7,5,22,142,1,11,59.1,29,6.5,20.3,3.1,0,0,0,0,0,,0.0,0.0,,,22,6.5,142,1,3,

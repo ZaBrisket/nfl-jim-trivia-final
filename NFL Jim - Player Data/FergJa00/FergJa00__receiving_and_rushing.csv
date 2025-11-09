@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FergJa00,Jake Ferguson,TE,2022,23,DAL,NFL,TE,16,8,22,19,174,9.2,2,8,63.6,30,1.2,10.9,86.4,7.9,0,0,0,0,0.0,0.0,19,9.2,174,2,0,2,
+FergJa00,Jake Ferguson,TE,2023,24,DAL,NFL,TE,17,16,102,71,761,10.7,5,40,55.9,40,4.2,44.8,69.6,7.5,0,0,0,0,0.0,0.0,71,10.7,761,5,0,9,PB
+FergJa00,Jake Ferguson,TE,2024,25,DAL,NFL,TE,14,14,86,59,494,8.4,0,18,39.5,27,4.2,35.3,68.6,5.7,0,0,0,0,0.0,0.0,59,8.4,494,0,4,4,
+FergJa00,Jake Ferguson,TE,2025,26,DAL,NFL,TE,9,6,66,56,384,6.9,6,18,51.5,26,6.2,42.7,84.8,5.8,0,0,0,0,0.0,0.0,56,6.9,384,6,1,,

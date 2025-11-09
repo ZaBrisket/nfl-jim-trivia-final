@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JohnCa00,Calvin Johnson,WR,2012*+,27,DET,WR,81,16,16,1151,96%,0,0%,2,0%
+JohnCa00,Calvin Johnson,WR,2013*+,28,DET,WR,81,14,14,892,89%,1,0%,4,1%
+JohnCa00,Calvin Johnson,WR,2014*,29,DET,WR,81,13,13,695,79%,1,0%,1,0%
+JohnCa00,Calvin Johnson,WR,2015*,30,DET,WR,81,16,16,1002,93%,2,0%,2,0%

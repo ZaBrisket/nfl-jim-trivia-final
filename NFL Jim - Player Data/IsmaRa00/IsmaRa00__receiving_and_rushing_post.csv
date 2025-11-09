@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+IsmaRa00,Rocket Ismail,WR,1993,24,RAI,NFL,WR,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+IsmaRa00,Rocket Ismail,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IsmaRa00,Rocket Ismail,WR,1996,27,CAR,NFL,WR,2,0,1,1,24,24.0,0,1,100.0,24,0.5,12.0,100.0,24.0,1,7,0,0,100.0,7,7.0,3.5,0.5,2,15.5,31,0,0,
+IsmaRa00,Rocket Ismail,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IsmaRa00,Rocket Ismail,WR,1999,30,DAL,NFL,WR,1,1,12,8,163,20.4,0,7,66.7,45,8.0,163.0,66.7,13.6,0,0,0,0,,,,0.0,0.0,8,20.4,163,0,0,

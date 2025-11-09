@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WalkJa00,Javon Walker,WR,2002,24,GNB,NFL,WR,15,2,50,23,319,13.9,1,14,38.0,30,1.5,21.3,46.0,6.4,1,11,0,1,100.0,11,11.0,0.7,0.1,24,13.8,330,1,1,3,
+WalkJa00,Javon Walker,WR,2003,25,GNB,NFL,WR,16,3,74,41,716,17.5,9,27,51.4,66,2.6,44.8,55.4,9.7,2,1,0,0,0.0,1,0.5,0.1,0.1,43,16.7,717,9,1,9,
+WalkJa00,Javon Walker,WR,2004,26,GNB,NFL,WR,16,12,144,89,1382,15.5,12,63,54.2,79,5.6,86.4,61.8,9.6,0,0,0,0,,,,0.0,0.0,89,15.5,1382,12,2,14,PB
+WalkJa00,Javon Walker,WR,2005,27,GNB,NFL,WR,1,1,5,4,27,6.8,0,2,80.0,9,4.0,27.0,80.0,5.4,0,0,0,0,,,,0.0,0.0,4,6.8,27,0,0,0,
+WalkJa00,Javon Walker,WR,2006,28,DEN,NFL,WR,16,16,126,69,1084,15.7,8,53,49.2,83,4.3,67.8,54.8,8.6,9,123,1,4,55.6,72,13.7,7.7,0.6,78,15.5,1207,9,0,12,AP CPoY-6
+WalkJa00,Javon Walker,WR,2007,29,DEN,NFL,WR,8,5,50,26,287,11.0,0,10,36.0,24,3.3,35.9,52.0,5.7,2,-3,0,0,0.0,-1,-1.5,-0.4,0.3,28,10.1,284,0,0,3,
+WalkJa00,Javon Walker,WR,2008,30,OAK,NFL,WR,8,7,32,15,196,13.1,1,12,46.9,29,1.9,24.5,46.9,6.1,0,0,0,0,,,,0.0,0.0,15,13.1,196,1,0,2,
+WalkJa00,Javon Walker,WR,2009,31,OAK,NFL,WR,3,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,1,0,

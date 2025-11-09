@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WatsKe00,Kenny Watson,RB,2002,24,WAS,NFL,RB,16,4,0,0,0,0,23,496,0,28,21.6,1283,
+WatsKe00,Kenny Watson,RB,2003,25,CIN,NFL,RB,8,0,0,0,0,0,7,113,0,27,16.1,113,
+WatsKe00,Kenny Watson,RB,2004,26,CIN,NFL,RB,16,0,0,0,0,0,13,240,0,32,18.5,572,
+WatsKe00,Kenny Watson,RB,,,,,,,,,,,,,,,,,,
+WatsKe00,Kenny Watson,RB,2006,28,CIN,NFL,RB,16,0,0,0,0,0,10,198,0,34,19.8,557,
+WatsKe00,Kenny Watson,RB,,,,,,,,,,,,,,,,,,
+WatsKe00,Kenny Watson,RB,2008,30,CIN,NFL,RB,10,0,0,0,0,0,4,63,0,24,15.8,122,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BessDa00,Davone Bess,WR,2008,23,MIA,NFL,WR,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+BessDa00,Davone Bess,WR,2009,24,MIA,NFL,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+BessDa00,Davone Bess,WR,2010,25,MIA,NFL,WR,16,8,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+BessDa00,Davone Bess,WR,2011,26,MIA,NFL,WR,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+BessDa00,Davone Bess,WR,2012,27,MIA,NFL,WR,13,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+BessDa00,Davone Bess,WR,2013,28,CLE,NFL,WR,14,3,0,2,0,0,0,0,0,2,1,0,0,0,0,0,14,1.0,

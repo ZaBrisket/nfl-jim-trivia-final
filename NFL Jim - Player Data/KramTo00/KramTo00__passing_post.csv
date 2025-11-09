@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+KramTo00,Tommy Kramer,QB,1980,25,MIN,NFL,QB,1,1,0-1-0,19,39,48.7,209,1,2.6,5,12.8,10,33.3,30,5.4,0.10,11.0,209.0,34.0,3,30,7.14,4.26,-0.62,0,0,
+KramTo00,Tommy Kramer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KramTo00,Tommy Kramer,QB,1982,27,MIN,NFL,QB,2,2,1-1-0,38,73,52.1,505,2,2.7,1,1.4,23,38.7,42,6.9,6.85,13.3,252.5,77.7,2,14,2.67,6.55,6.48,1,1,
+KramTo00,Tommy Kramer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KramTo00,Tommy Kramer,QB,1987,32,MIN,NFL,QB,1,1,1-0-0,5,9,55.6,50,0,0.0,0,0.0,4,36.4,17,5.6,5.56,10.0,50.0,71.5,2,13,18.18,3.36,3.36,0,0,
+KramTo00,Tommy Kramer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KramTo00,Tommy Kramer,QB,1989,34,MIN,NFL,QB,1,0,,9,19,47.4,110,0,0.0,1,5.3,5,42.1,27,5.8,3.42,12.2,110.0,43.7,0,0,0.00,5.79,3.42,0,0,

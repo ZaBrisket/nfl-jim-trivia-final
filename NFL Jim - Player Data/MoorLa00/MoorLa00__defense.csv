@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MoorLa00,Lance Moore,WR,2007,24,NOR,NFL,WR,16,4,0,0,0,0,0,0,2,2,0,0,0.0,,,,,,0,
+MoorLa00,Lance Moore,WR,2008,25,NOR,NFL,WR,16,6,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+MoorLa00,Lance Moore,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+MoorLa00,Lance Moore,WR,2010,27,NOR,NFL,WR,16,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+MoorLa00,Lance Moore,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+MoorLa00,Lance Moore,WR,2013,30,NOR,NFL,WR,13,5,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+MoorLa00,Lance Moore,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+MoorLa00,Lance Moore,WR,2015,32,DET,NFL,WR,14,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+KirkCh01,Christian Kirk,WR,2018,22,ARI,NFL,WR,12,7,21,164,0,44,7.8,0,0,0,0,,789,
+KirkCh01,Christian Kirk,WR,2019,23,ARI,NFL,WR,13,13,7,39,0,20,5.6,0,0,0,0,,841,
+KirkCh01,Christian Kirk,WR,2020,24,ARI,NFL,WR,14,10,22,132,0,24,6.0,1,20,0,20,20.0,776,
+KirkCh01,Christian Kirk,WR,2021,25,ARI,NFL,WR,17,11,1,-5,0,0,-5.0,0,0,0,0,,988,
+KirkCh01,Christian Kirk,WR,2022,26,JAX,NFL,WR,17,17,4,25,0,10,6.3,0,0,0,0,,1144,
+KirkCh01,Christian Kirk,WR,2023,27,JAX,NFL,WR,12,12,2,27,0,15,13.5,0,0,0,0,,820,

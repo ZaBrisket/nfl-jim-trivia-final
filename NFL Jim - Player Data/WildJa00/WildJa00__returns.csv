@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WildJa00,James Wilder,RB,1981,23,TAM,NFL,FB,16,16,0,0,0,0,1,19,0,19,19.0,896,
+WildJa00,James Wilder,RB,,,,,,,,,,,,,,,,,,
+WildJa00,James Wilder,RB,1989,31,TAM,NFL,RB,15,4,0,0,0,0,2,42,0,23,21.0,621,

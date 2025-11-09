@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+WoodRo02,Robert Woods,WR,2018,26,LAR,NFL,WR,3,3,28,17,172,8,115,6.8,57,3.4,7.0,1,17.0,1,3.6,0,78.3,4,11,0,4,1.0,7,1.8,0,
+WoodRo02,Robert Woods,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WoodRo02,Robert Woods,WR,2020,28,LAR,NFL,WR,2,2,18,12,96,8,73,6.1,23,1.9,4.7,0,,2,11.1,0,98.4,1,-3,0,-3,-3.0,0,0.0,0,
+WoodRo02,Robert Woods,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WoodRo02,Robert Woods,WR,2023,31,HOU,NFL,WR,2,1,6,2,17,1,12,6.0,5,2.5,7.0,0,,0,0.0,0,42.4,0,0,0,0,,0,,0,
+WoodRo02,Robert Woods,WR,2024,32,HOU,NFL,WR,2,0,4,2,22,2,20,10.0,2,1.0,8.5,0,,0,0.0,0,66.7,0,0,0,0,,0,,0,

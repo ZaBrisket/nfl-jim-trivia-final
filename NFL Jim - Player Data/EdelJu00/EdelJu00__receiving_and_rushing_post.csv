@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+EdelJu00,Julian Edelman,WR,2009,23,NWE,NFL,WR,1,1,8,6,44,7.3,2,4,62.5,24,6.0,44.0,75.0,5.5,0,0,0,0,,,,0.0,0.0,6,7.3,44,2,0,
+EdelJu00,Julian Edelman,WR,2010,24,NWE,NFL,WR,1,1,1,1,12,12.0,0,1,100.0,12,1.0,12.0,100.0,12.0,1,11,0,1,100.0,11,11.0,11.0,1.0,2,11.5,23,0,0,
+EdelJu00,Julian Edelman,WR,2011,25,NWE,NFL,WR,3,0,5,2,19,9.5,0,2,40.0,11,0.7,6.3,40.0,3.8,1,-1,0,0,0.0,-1,-1.0,-0.3,0.3,3,6.0,18,0,0,
+EdelJu00,Julian Edelman,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2013,27,NWE,NFL,WR,2,1,24,16,173,10.8,1,9,58.3,27,8.0,86.5,66.7,7.2,0,0,0,0,,,,0.0,0.0,16,10.8,173,1,0,
+EdelJu00,Julian Edelman,WR,2014,28,NWE,NFL,WR,3,3,37,26,281,10.8,1,18,64.9,23,8.7,93.7,70.3,7.6,2,19,0,1,100.0,12,9.5,6.3,0.7,28,10.7,300,1,2,
+EdelJu00,Julian Edelman,WR,2015,29,NWE,NFL,WR,2,2,29,17,153,9.0,0,10,51.7,19,8.5,76.5,58.6,5.3,1,11,0,1,100.0,11,11.0,5.5,0.5,18,9.1,164,0,0,
+EdelJu00,Julian Edelman,WR,2016,30,NWE,NFL,WR,3,3,36,21,342,16.3,1,14,52.8,48,7.0,114.0,58.3,9.5,2,14,0,1,50.0,12,7.0,4.7,0.7,23,15.5,356,1,0,
+EdelJu00,Julian Edelman,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2018,32,NWE,NFL,WR,3,3,35,26,388,14.9,0,22,74.3,35,8.7,129.3,74.3,11.1,2,15,0,0,100.0,8,7.5,5.0,0.7,28,14.4,403,0,0,SB MVP
+EdelJu00,Julian Edelman,WR,2019,33,NWE,NFL,WR,1,1,5,3,30,10.0,0,2,60.0,20,3.0,30.0,60.0,6.0,2,12,1,2,100.0,7,6.0,12.0,2.0,5,8.4,42,1,1,

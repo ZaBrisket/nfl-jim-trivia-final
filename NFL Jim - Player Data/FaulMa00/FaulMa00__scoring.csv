@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FaulMa00,Marshall Faulk,RB,1994,21,IND,NFL,RB,16,16,11,1,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,"PB,AP-2,AP ORoY-1"
+FaulMa00,Marshall Faulk,RB,1995,22,IND,NFL,RB,16,16,11,3,0,0,0,0,0,14,0,0,0,0,0,0,84,5.3,"PB,AP-2"
+FaulMa00,Marshall Faulk,RB,1996,23,IND,NFL,RB,13,13,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,3.2,
+FaulMa00,Marshall Faulk,RB,1997,24,IND,NFL,RB,16,16,7,1,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+FaulMa00,Marshall Faulk,RB,1998,25,IND,NFL,RB,16,15,6,4,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP-2,AP OPoY-4"
+FaulMa00,Marshall Faulk,RB,1999,26,STL,NFL,RB,16,16,7,5,0,0,0,0,0,12,1,0,0,0,0,0,74,4.6,"PB,AP-1,AP MVP-2,AP OPoY-1"
+FaulMa00,Marshall Faulk,RB,2000,27,STL,NFL,RB,14,14,18,8,0,0,0,0,0,26,2,0,0,0,0,0,160,11.4,"PB,AP-1,AP MVP-1,AP OPoY-1"
+FaulMa00,Marshall Faulk,RB,2001,28,STL,NFL,RB,14,14,12,9,0,0,0,0,0,21,1,0,0,0,0,0,128,9.1,"PB,AP-1,AP MVP-2,AP OPoY-1"
+FaulMa00,Marshall Faulk,RB,2002,29,STL,NFL,RB,14,10,8,2,0,0,0,0,0,10,0,0,0,0,0,0,60,4.3,PB
+FaulMa00,Marshall Faulk,RB,2003,30,STL,NFL,RB,11,11,10,1,0,0,0,0,0,11,0,0,0,0,0,0,66,6.0,AP CPoY-11
+FaulMa00,Marshall Faulk,RB,2004,31,STL,NFL,RB,14,14,3,1,0,0,0,0,0,4,2,0,0,0,0,0,28,2.0,
+FaulMa00,Marshall Faulk,RB,2005,32,STL,NFL,RB,16,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.5,

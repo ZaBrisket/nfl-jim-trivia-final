@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+BettJe00,Jerome Bettis,RB,1993,21,RAM,NFL,RB,16,12,0,0,0,0,,0,4,0,0,0,0.0,0,0,0,,0,"PB,AP-1,AP ORoY-1"
+BettJe00,Jerome Bettis,RB,1994,22,RAM,NFL,RB,16,16,0,0,0,0,,0,5,3,0,0,0.0,0,0,0,,0,PB
+BettJe00,Jerome Bettis,RB,1995,23,STL,NFL,RB,15,13,0,0,0,0,,0,4,2,0,0,0.0,0,0,0,,0,
+BettJe00,Jerome Bettis,RB,1996,24,PIT,NFL,RB,16,12,0,0,0,0,,0,7,2,0,0,0.0,0,0,0,,0,"PB,AP-1,AP MVP-4,AP OPoY-4"
+BettJe00,Jerome Bettis,RB,1997,25,PIT,NFL,RB,15,15,0,0,0,0,,0,6,1,0,0,0.0,0,0,0,,0,"PB,AP-2,AP MVP-5"
+BettJe00,Jerome Bettis,RB,1998,26,PIT,NFL,RB,15,15,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,,0,
+BettJe00,Jerome Bettis,RB,1999,27,PIT,NFL,RB,16,16,0,0,0,0,0,0,2,3,1,0,0.0,0,0,0,0,0,
+BettJe00,Jerome Bettis,RB,2000,28,PIT,NFL,RB,16,16,0,0,0,0,0,0,1,1,1,0,0.0,0,0,0,0,0,
+BettJe00,Jerome Bettis,RB,2001,29,PIT,NFL,RB,11,11,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,PB
+BettJe00,Jerome Bettis,RB,2002,30,PIT,NFL,RB,13,11,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,
+BettJe00,Jerome Bettis,RB,2003,31,PIT,NFL,RB,16,10,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,0,
+BettJe00,Jerome Bettis,RB,2004,32,PIT,NFL,RB,15,6,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,"PB,AP CPoY-4"

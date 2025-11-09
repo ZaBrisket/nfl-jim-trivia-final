@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KosaBe00,Bernie Kosar,QB,1985,22,CLE,NFL,QB,12,10,86,92,96,99,80,90,117,106,93,
+KosaBe00,Bernie Kosar,QB,1986,23,CLE,NFL,QB,16,16,106,109,114,115,112,89,130,106,113,
+KosaBe00,Bernie Kosar,QB,1987,24,CLE,NFL,QB,12,12,117,123,125,129,123,116,123,112,127,"PB,AP OPoY-3"
+KosaBe00,Bernie Kosar,QB,1988,25,CLE,NFL,QB,9,9,106,101,110,107,117,97,117,89,112,
+KosaBe00,Bernie Kosar,QB,1989,26,CLE,NFL,QB,16,16,97,102,103,106,113,93,114,106,107,
+KosaBe00,Bernie Kosar,QB,1990,27,CLE,NFL,QB,13,13,79,81,82,84,92,82,101,93,85,
+KosaBe00,Bernie Kosar,QB,1991,28,CLE,NFL,QB,16,16,103,103,112,111,118,97,127,97,116,
+KosaBe00,Bernie Kosar,QB,1992,29,CLE,NFL,QB,7,7,113,100,107,99,128,118,85,70,115,
+KosaBe00,Bernie Kosar,QB,1993,30,2TM,NFL,QB,11,7,86,81,102,97,98,103,128,78,107,
+KosaBe00,Bernie Kosar,QB,1993,30,CLE,NFL,QB,7,6,82,71,94,85,98,98,118,59,100,
+KosaBe00,Bernie Kosar,QB,1993,30,DAL,NFL,QB,4,1,95,107,120,127,98,113,151,124,121,
+KosaBe00,Bernie Kosar,QB,,,,,,,,,,,,,,,,,
+KosaBe00,Bernie Kosar,QB,1995,32,MIA,NFL,QB,9,2,93,99,82,87,135,85,76,106,97,

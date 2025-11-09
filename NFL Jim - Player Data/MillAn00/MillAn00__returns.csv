@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MillAn00,Anthony Miller,WR,1988,23,SDG,NFL,WR,16,15,0,0,0,0,25,648,1,93,25.9,1219,
+MillAn00,Anthony Miller,WR,1989,24,SDG,NFL,WR,16,16,0,0,0,0,21,533,1,91,25.4,1806,PB
+MillAn00,Anthony Miller,WR,1990,25,SDG,NFL,WR,16,16,0,0,0,0,1,13,0,13,13.0,959,PB
+MillAn00,Anthony Miller,WR,,,,,,,,,,,,,,,,,,
+MillAn00,Anthony Miller,WR,1992,27,SDG,NFL,WR,16,16,0,0,0,0,1,33,0,33,33.0,1092,PB
+MillAn00,Anthony Miller,WR,1993,28,SDG,NFL,WR,16,16,0,0,0,0,2,42,0,29,21.0,1204,PB

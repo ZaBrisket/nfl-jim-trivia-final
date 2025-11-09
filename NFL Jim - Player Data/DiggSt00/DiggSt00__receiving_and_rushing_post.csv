@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DiggSt00,Stefon Diggs,WR,2015,22,MIN,NFL,WR,1,1,6,4,26,6.5,0,3,66.7,9,4.0,26.0,66.7,4.3,1,6,0,0,100.0,6,6.0,6.0,1.0,5,6.4,32,0,0,
+DiggSt00,Stefon Diggs,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DiggSt00,Stefon Diggs,WR,2017,24,MIN,NFL,WR,2,2,22,14,207,14.8,1,9,54.5,61,7.0,103.5,63.6,9.4,0,0,0,0,,,,0.0,0.0,14,14.8,207,1,0,
+DiggSt00,Stefon Diggs,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DiggSt00,Stefon Diggs,WR,2019,26,MIN,NFL,WR,2,2,8,4,76,19.0,1,4,50.0,41,2.0,38.0,50.0,9.5,2,8,0,0,50.0,6,4.0,4.0,1.0,6,14.0,84,1,0,
+DiggSt00,Stefon Diggs,WR,2020,27,BUF,NFL,WR,3,2,31,20,311,15.6,2,18,61.3,36,6.7,103.7,64.5,10.0,0,0,0,0,,,,0.0,0.0,20,15.6,311,2,0,
+DiggSt00,Stefon Diggs,WR,2021,28,BUF,NFL,WR,2,2,10,6,67,11.2,0,2,40.0,45,3.0,33.5,60.0,6.7,0,0,0,0,,,,0.0,0.0,6,11.2,67,0,0,
+DiggSt00,Stefon Diggs,WR,2022,29,BUF,NFL,WR,2,2,19,11,149,13.5,0,6,42.1,52,5.5,74.5,57.9,7.8,0,0,0,0,,,,0.0,0.0,11,13.5,149,0,0,
+DiggSt00,Stefon Diggs,WR,2023,30,BUF,NFL,WR,2,2,17,10,73,7.3,0,5,41.2,15,5.0,36.5,58.8,4.3,1,7,0,1,100.0,7,7.0,3.5,0.5,11,7.3,80,0,1,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SamuDe00,Deebo Samuel,WR,2019,23,SFO,NFL,WR,15,11,81,57,802,14.1,3,32,53.1,42,3.8,53.5,70.4,9.9,14,159,3,5,64.3,31,11.4,10.6,0.9,71,13.5,961,6,2,10,
+SamuDe00,Deebo Samuel,WR,2020,24,SFO,NFL,WR,7,5,44,33,391,11.8,1,19,59.1,35,4.7,55.9,75.0,8.9,8,26,0,1,50.0,10,3.3,3.7,1.1,41,10.2,417,1,0,3,
+SamuDe00,Deebo Samuel,WR,2021,25,SFO,NFL,WR,16,15,121,77,1405,18.2,6,51,50.4,83,4.8,87.8,63.6,11.6,59,365,8,21,54.2,49,6.2,22.8,3.7,136,13.0,1770,14,4,14,"PB,AP-1"
+SamuDe00,Deebo Samuel,WR,2022,26,SFO,NFL,WR,13,12,94,56,632,11.3,2,25,47.9,57,4.3,48.6,59.6,6.7,42,232,3,8,40.5,51,5.5,17.8,3.2,98,8.8,864,5,3,8,
+SamuDe00,Deebo Samuel,WR,2023,27,SFO,NFL,WR,15,15,89,60,892,14.9,7,34,56.2,54,4.0,59.5,67.4,10.0,37,225,5,13,67.6,23,6.1,15.0,2.5,97,11.5,1117,12,1,11,
+SamuDe00,Deebo Samuel,WR,2024,28,SFO,NFL,WR,15,15,81,51,670,13.1,3,28,40.7,76,3.4,44.7,63.0,8.3,42,136,1,5,45.2,13,3.2,9.1,2.8,93,8.7,806,4,2,6,
+SamuDe00,Deebo Samuel,WR,2025,29,WAS,NFL,WR,8,4,55,42,367,8.7,3,15,56.4,24,5.3,45.9,76.4,6.7,10,49,1,2,60.0,19,4.9,6.1,1.3,52,8.0,416,4,1,,

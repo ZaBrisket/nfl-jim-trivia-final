@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CrumAl00,Alge Crumpler,TE,2002,25,ATL,NFL,TE,2,2,10,5,75,15.0,0,3,30.0,25,2.5,37.5,50.0,7.5,0,0,0,0,0.0,0.0,5,15.0,75,0,0,
+CrumAl00,Alge Crumpler,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CrumAl00,Alge Crumpler,TE,2004,27,ATL,NFL,TE,2,2,12,6,71,11.8,1,2,33.3,31,3.0,35.5,50.0,5.9,0,0,0,0,0.0,0.0,6,11.8,71,1,0,
+CrumAl00,Alge Crumpler,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CrumAl00,Alge Crumpler,TE,2008,31,TEN,NFL,TE,1,1,2,2,9,4.5,0,0,0.0,7,2.0,9.0,100.0,4.5,0,0,0,0,0.0,0.0,2,4.5,9,0,1,
+CrumAl00,Alge Crumpler,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CrumAl00,Alge Crumpler,TE,2010,33,NWE,NFL,TE,1,0,5,3,39,13.0,1,2,60.0,28,3.0,39.0,60.0,7.8,0,0,0,0,0.0,0.0,3,13.0,39,1,0,

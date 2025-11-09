@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BellMi00,Mike Bell,RB,2006,23,DEN,NFL,RB,15,3,157,677,8,43,49.7,48,4.3,45.1,10.5,27,20,158,7.9,0,5,29.6,24,1.3,10.5,74.1,5.9,177,4.7,835,8,1,6,
+BellMi00,Mike Bell,RB,2007,24,DEN,NFL,RB,5,0,6,3,0,2,33.3,3,0.5,0.6,1.2,1,1,7,7.0,0,0,100.0,7,0.2,1.4,100.0,7.0,7,1.4,10,0,1,0,
+BellMi00,Mike Bell,RB,2008,25,NOR,NFL,RB,4,0,13,42,1,4,38.5,15,3.2,10.5,3.3,2,1,14,14.0,0,1,50.0,14,0.3,3.5,50.0,7.0,14,4.0,56,1,0,0,
+BellMi00,Mike Bell,RB,2009,26,NOR,NFL,RB,13,3,172,654,5,34,49.4,35,3.8,50.3,13.2,4,4,12,3.0,0,1,25.0,9,0.3,0.9,100.0,3.0,176,3.8,666,5,2,5,
+BellMi00,Mike Bell,RB,2010,27,2TM,NFL,RB,16,1,47,99,0,6,21.3,11,2.1,6.2,2.9,10,7,67,9.6,0,3,40.0,28,0.4,4.2,70.0,6.7,54,3.1,166,0,2,1,
+BellMi00,Mike Bell,RB,2010,27,PHI,NFL,RB,5,0,16,28,0,0,0.0,9,1.8,5.6,3.2,3,1,5,5.0,0,0,0.0,5,0.2,1.0,33.3,1.7,17,1.9,33,0,1,0,
+BellMi00,Mike Bell,RB,2010,27,CLE,NFL,RB,11,1,31,71,0,6,32.3,11,2.3,6.5,2.8,7,6,62,10.3,0,3,57.1,28,0.5,5.6,85.7,8.9,37,3.6,133,0,1,1,

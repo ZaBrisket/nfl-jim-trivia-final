@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SandEm00,Emmanuel Sanders,WR,2010,23,PIT,NFL,WR,13,1,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.9,
+SandEm00,Emmanuel Sanders,WR,2011,24,PIT,NFL,WR,11,0,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.1,
+SandEm00,Emmanuel Sanders,WR,2012,25,PIT,NFL,WR,16,7,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+SandEm00,Emmanuel Sanders,WR,2013,26,PIT,NFL,WR,16,10,0,6,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.4,
+SandEm00,Emmanuel Sanders,WR,2014,27,DEN,NFL,WR,16,16,0,9,0,0,0,0,0,9,1,,0,0,0,0,0,56,3.5,PB
+SandEm00,Emmanuel Sanders,WR,2015,28,DEN,NFL,WR,15,15,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.4,
+SandEm00,Emmanuel Sanders,WR,2016,29,DEN,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,1.9,PB
+SandEm00,Emmanuel Sanders,WR,2017,30,DEN,NFL,WR,12,11,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.0,
+SandEm00,Emmanuel Sanders,WR,2018,31,DEN,NFL,WR,12,12,1,4,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.5,
+SandEm00,Emmanuel Sanders,WR,2019,32,2TM,NFL,WR,17,16,0,5,0,0,0,0,0,5,1,,0,0,0,0,0,32,1.9,
+SandEm00,Emmanuel Sanders,WR,2019,32,DEN,NFL,WR,7,7,0,2,0,0,0,0,0,2,1,,0,0,0,0,0,14,2.0,
+SandEm00,Emmanuel Sanders,WR,2019,32,SFO,NFL,WR,10,9,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.8,
+SandEm00,Emmanuel Sanders,WR,2020,33,NOR,NFL,WR,14,5,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.1,
+SandEm00,Emmanuel Sanders,WR,2021,34,BUF,NFL,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.7,

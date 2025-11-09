@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+DetmTy00,Ty Detmer,QB,1993,26,GNB,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+DetmTy00,Ty Detmer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DetmTy00,Ty Detmer,QB,1996,29,PHI,NFL,QB,1,1,0-1-0,14,21,66.7,148,0,0.0,2,9.5,10,60.9,15,7.0,2.76,10.6,148.0,47.4,2,12,8.70,5.91,2.00,0,0,
+DetmTy00,Ty Detmer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DetmTy00,Ty Detmer,QB,1998,31,SFO,NFL,QB,2,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,

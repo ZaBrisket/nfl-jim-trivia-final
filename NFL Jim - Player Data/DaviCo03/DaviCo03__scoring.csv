@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DaviCo03,Corey Davis,WR,2018,23,TEN,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+DaviCo03,Corey Davis,WR,2019,24,TEN,NFL,TE,15,11,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+DaviCo03,Corey Davis,WR,2020,25,TEN,NFL,WR,14,12,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.1,
+DaviCo03,Corey Davis,WR,2021,26,NYJ,NFL,WR,9,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,2.7,
+DaviCo03,Corey Davis,WR,2022,27,NYJ,NFL,WR,13,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,0.9,

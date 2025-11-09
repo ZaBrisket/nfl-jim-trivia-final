@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,team_name_abbr,age,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+EdelJu00,Julian Edelman,WR,2017,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2018,NWE,32,NFL,WR,12,12,108,74,850,41,502,6.8,348,4.7,7.7,4,18.5,8,7.4,2,102.8,9,107,7,101,11.2,6,0.7,0,
+EdelJu00,Julian Edelman,WR,2019,NWE,33,NFL,WR,16,13,153,100,1117,54,797,8.0,320,3.2,9.5,4,25.0,13,8.5,3,91.9,8,27,2,21,2.6,6,0.8,0,
+EdelJu00,Julian Edelman,WR,2020,NWE,34,NFL,WR,6,1,39,21,315,18,251,12.0,64,3.0,10.3,0,,3,7.7,3,48.6,2,22,1,22,11.0,0,0.0,0,

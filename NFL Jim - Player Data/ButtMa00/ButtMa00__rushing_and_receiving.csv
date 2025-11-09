@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ButtMa00,Marion Butts,RB,1989,23,SDG,NFL,RB,15,5,170,683,9,38,41.8,50,4.0,45.5,11.3,12,7,21,3.0,0,0,16.7,8,0.5,1.4,58.3,1.8,177,4.0,704,9,2,4,
+ButtMa00,Marion Butts,RB,1990,24,SDG,NFL,RB,14,13,265,1225,8,62,49.8,52,4.6,87.5,18.9,19,16,117,7.3,0,4,52.6,26,1.1,8.4,84.2,6.2,281,4.8,1342,8,0,11,"PB,AP-2"
+ButtMa00,Marion Butts,RB,1991,25,SDG,NFL,RB,16,8,193,834,6,39,38.9,44,4.3,52.1,12.1,15,10,91,9.1,1,4,40.0,46,0.6,5.7,66.7,6.1,203,4.6,925,7,3,6,PB
+ButtMa00,Marion Butts,RB,1992,26,SDG,NFL,RB,15,15,218,809,4,38,47.2,22,3.7,53.9,14.5,11,9,73,8.1,0,2,63.6,22,0.6,4.9,81.8,6.6,227,3.9,882,4,4,7,
+ButtMa00,Marion Butts,RB,1993,27,SDG,NFL,RB,16,16,185,746,4,35,47.6,27,4.0,46.6,11.6,24,15,105,7.0,0,2,29.2,23,0.9,6.6,62.5,4.4,200,4.3,851,4,0,7,
+ButtMa00,Marion Butts,RB,1994,28,NWE,NFL,RB,16,15,243,703,8,38,39.1,26,2.9,43.9,15.2,14,9,54,6.0,0,2,50.0,15,0.6,3.4,64.3,3.9,252,3.0,757,8,1,3,
+ButtMa00,Marion Butts,RB,1995,29,HOU,NFL,RB,12,2,71,185,4,24,56.3,9,2.6,15.4,5.9,2,2,10,5.0,0,0,50.0,10,0.2,0.8,100.0,5.0,73,2.7,195,4,0,1,

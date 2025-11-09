@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+HogeGa00,Gary Hogeboom,QB,1982,24,DAL,NFL,QB,4,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+HogeGa00,Gary Hogeboom,QB,,,,,,,,,,,,,,,,,,,,,,
+HogeGa00,Gary Hogeboom,QB,1984,26,DAL,NFL,QB,16,10,0,0,0,0,0,8,4,-3,0,0.0,0,0,0,0,
+HogeGa00,Gary Hogeboom,QB,,,,,,,,,,,,,,,,,,,,,,
+HogeGa00,Gary Hogeboom,QB,1986,28,IND,NFL,QB,5,5,0,0,0,0,0,3,2,50,0,0.0,0,0,0,0,
+HogeGa00,Gary Hogeboom,QB,1987,29,IND,NFL,QB,6,6,0,0,0,0,0,1,1,-1,0,0.0,0,0,0,0,
+HogeGa00,Gary Hogeboom,QB,1988,30,IND,NFL,QB,9,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+HogeGa00,Gary Hogeboom,QB,1989,31,PHO,NFL,QB,14,13,0,0,0,0,0,5,1,-4,0,0.0,0,0,0,0,

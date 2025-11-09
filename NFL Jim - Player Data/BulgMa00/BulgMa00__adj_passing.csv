@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BulgMa00,Marc Bulger,QB,2002,25,STL,NFL,QB,7,7,141,138,139,137,119,138,107,108,134,
+BulgMa00,Marc Bulger,QB,2003,26,STL,NFL,QB,15,15,108,105,100,99,112,100,83,100,101,PB
+BulgMa00,Marc Bulger,QB,2004,27,STL,NFL,QB,14,14,124,117,119,114,123,103,105,91,117,
+BulgMa00,Marc Bulger,QB,2005,28,STL,NFL,QB,8,8,119,112,115,110,124,109,100,90,117,
+BulgMa00,Marc Bulger,QB,2006,29,STL,NFL,QB,16,16,110,103,117,112,109,101,128,92,116,PB
+BulgMa00,Marc Bulger,QB,2007,30,STL,NFL,QB,12,12,88,83,84,81,92,88,85,82,84,
+BulgMa00,Marc Bulger,QB,2008,31,STL,NFL,QB,15,15,86,83,87,85,87,83,100,86,86,
+BulgMa00,Marc Bulger,QB,2009,32,STL,NFL,QB,9,8,81,85,85,87,86,74,107,105,84,

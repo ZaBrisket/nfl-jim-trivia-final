@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+HillTy00,Tyreek Hill,WR,2018,24,KAN,NFL,WR,16,16,137,87,1479,60,952,10.9,527,6.1,14.8,4,21.8,6,4.4,6,110.9,22,151,7,132,6.0,19,0.9,0,,"PB,AP-1"
+HillTy00,Tyreek Hill,WR,2019,25,KAN,NFL,WR,12,12,89,58,860,39,585,10.1,275,4.7,12.9,4,14.5,3,3.4,2,113.5,8,23,1,9,1.1,14,1.8,0,,PB
+HillTy00,Tyreek Hill,WR,2020,26,KAN,NFL,WR,15,15,135,87,1276,57,842,9.7,434,5.0,12.9,8,10.9,5,3.7,1,129.1,13,123,5,103,7.9,20,1.5,1,13.0,"PB,AP-1"
+HillTy00,Tyreek Hill,WR,2021,27,KAN,NFL,WR,17,16,159,111,1239,75,795,7.2,444,4.0,10.4,10,11.1,7,4.4,3,103.7,9,96,4,85,9.4,11,1.2,0,,PB
+HillTy00,Tyreek Hill,WR,2022,28,MIA,NFL,WR,17,17,170,119,1710,77,1228,10.3,482,4.1,12.2,5,23.8,8,4.7,6,101.3,7,32,3,26,3.7,6,0.9,1,7.0,"PB,AP-1,AP MVP-9,AP OPoY-4"
+HillTy00,Tyreek Hill,WR,2023,29,MIA,NFL,WR,16,16,171,119,1799,83,1147,9.6,652,5.5,10.8,12,9.9,12,7.0,5,117.1,6,15,2,-2,-0.3,17,2.8,1,6.0,"PB,AP-1,AP MVP-6,AP OPoY-2"
+HillTy00,Tyreek Hill,WR,2024,30,MIA,NFL,WR,17,17,123,81,959,54,667,8.2,292,3.6,11.4,1,81.0,2,1.6,3,95.5,8,53,2,45,5.6,8,1.0,1,8.0,
+HillTy00,Tyreek Hill,WR,2025,31,MIA,NFL,WR,4,4,29,21,265,17,208,9.9,57,2.7,13.4,0,,0,0.0,1,97.6,0,0,0,0,,0,,0,,

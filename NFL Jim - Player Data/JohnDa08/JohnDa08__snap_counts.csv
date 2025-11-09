@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JohnDa08,David Johnson,RB,2015,24,ARI,RB,31,16,5,413,37%,0,0%,114,25%
+JohnDa08,David Johnson,RB,2016*+,25,ARI,RB,31,16,16,964,84%,0,0%,1,0%
+JohnDa08,David Johnson,RB,2017,26,ARI,RB,31,1,1,46,61%,0,0%,0,0%
+JohnDa08,David Johnson,RB,2018,27,ARI,RB,31,16,16,749,80%,0,0%,0,0%
+JohnDa08,David Johnson,RB,2019,28,ARI,RB,31,13,9,437,50%,0,0%,1,0%
+JohnDa08,David Johnson,RB,2020,29,HOU,RB,31,12,12,550,74%,0,0%,0,0%
+JohnDa08,David Johnson,RB,2021,30,HOU,RB,31,13,4,317,40%,0,0%,0,0%
+JohnDa08,David Johnson,RB,2022,31,NOR,RB,28,5,0,58,20%,0,0%,0,0%

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+KitnJo00,Jon Kitna,QB,1997,25,SEA,NFL,QB,3,1,0,0,0,0,,0,1,1,-2,0,0.0,0,0,0,,,0,
+KitnJo00,Jon Kitna,QB,1998,26,SEA,NFL,QB,6,5,0,0,0,0,,0,6,4,-10,0,0.0,0,0,0,,,0,
+KitnJo00,Jon Kitna,QB,1999,27,SEA,NFL,QB,15,15,0,0,0,0,0,0,14,6,-9,0,0.0,0,0,0,0,,0,
+KitnJo00,Jon Kitna,QB,2000,28,SEA,NFL,QB,15,12,0,0,0,0,0,0,17,9,-19,0,0.0,0,0,0,0,,0,
+KitnJo00,Jon Kitna,QB,2001,29,CIN,NFL,QB,16,15,0,0,0,0,0,0,13,7,-13,0,0.0,0,0,0,0,,0,
+KitnJo00,Jon Kitna,QB,2002,30,CIN,NFL,QB,14,12,0,0,0,0,0,0,10,1,-4,0,0.0,0,0,0,0,,0,
+KitnJo00,Jon Kitna,QB,2003,31,CIN,NFL,QB,16,16,0,0,0,0,0,0,9,1,0,0,0.0,0,0,0,0,,0,AP CPoY-1
+KitnJo00,Jon Kitna,QB,2004,32,CIN,NFL,QB,4,3,0,0,0,0,0,0,2,1,-1,0,0.0,0,0,0,0,,0,
+KitnJo00,Jon Kitna,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+KitnJo00,Jon Kitna,QB,2006,34,DET,NFL,QB,16,16,0,0,0,0,0,0,11,0,-10,0,0.0,0,0,0,0,0,0,
+KitnJo00,Jon Kitna,QB,2007,35,DET,NFL,QB,16,16,0,0,0,0,0,0,17,7,-3,0,0.0,0,0,0,0,0,0,
+KitnJo00,Jon Kitna,QB,2008,36,DET,NFL,QB,4,4,0,0,0,0,0,0,3,1,-8,0,0.0,0,0,0,0,0,0,
+KitnJo00,Jon Kitna,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+KitnJo00,Jon Kitna,QB,2010,38,DAL,NFL,QB,10,9,0,0,0,0,0,0,7,5,-6,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BridTe00,Teddy Bridgewater,QB,2014,22,MIN,QB,5,13,12,794,97%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2015*,23,MIN,QB,5,16,16,992,97%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2017,25,MIN,QB,5,1,0,9,14%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2018,26,NOR,QB,5,5,1,71,23%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2019,27,NOR,QB,5,9,5,400,66%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2020,28,CAR,QB,5,15,15,928,97%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2021,29,DEN,QB,5,14,14,844,91%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2022,30,MIA,QB,5,5,2,141,44%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2023,31,DET,QB,10,1,0,3,5%,0,0%,0,0%
+BridTe00,Teddy Bridgewater,QB,2025,33,TAM,QB,10,2,0,3,2%,0,0%,0,0%

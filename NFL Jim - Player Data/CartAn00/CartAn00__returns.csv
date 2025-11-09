@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CartAn00,Anthony Carter,WR,1985,25,MIN,NFL,WR,16,15,9,117,0,41,13.0,0,0,0,0,,938,
+CartAn00,Anthony Carter,WR,,,,,,,,,,,,,,,,,,,
+CartAn00,Anthony Carter,WR,1987,27,MIN,NFL,WR,12,11,3,40,0,22,13.3,0,0,0,0,,962,PB
+CartAn00,Anthony Carter,WR,1988,28,MIN,NFL,WR,16,16,1,3,0,3,3.0,1,0,0,0,0.0,1269,PB
+CartAn00,Anthony Carter,WR,1989,29,MIN,NFL,WR,16,16,1,2,0,2,2.0,1,19,0,19,19.0,1105,PB
+CartAn00,Anthony Carter,WR,,,,,,,,,,,,,,,,,,,
+CartAn00,Anthony Carter,WR,1995,35,DET,NFL,WR,3,0,1,3,0,3,3.0,2,46,0,23,23.0,49,

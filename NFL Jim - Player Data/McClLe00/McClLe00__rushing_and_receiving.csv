@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McClLe00,Le'Ron McClain,RB,2007,23,BAL,NFL,FB,16,11,8,18,0,2,25.0,4,2.3,1.1,0.5,13,9,55,6.1,1,1,38.5,13,0.6,3.4,69.2,4.2,17,4.3,73,1,1,0,
+McClLe00,Le'Ron McClain,RB,2008,24,BAL,NFL,FB,16,16,232,902,10,53,45.7,82,3.9,56.4,14.5,30,19,123,6.5,1,7,26.7,25,1.2,7.7,63.3,4.1,251,4.1,1025,11,4,7,"PB,AP-1"
+McClLe00,Le'Ron McClain,RB,2009,25,BAL,NFL,FB,16,14,46,180,2,22,63.0,20,3.9,11.3,2.9,27,21,141,6.7,0,6,55.6,19,1.3,8.8,77.8,5.2,67,4.8,321,2,0,3,"PB,AP-2"
+McClLe00,Le'Ron McClain,RB,2010,26,BAL,NFL,FB,15,13,28,85,0,15,71.4,16,3.0,5.7,1.9,26,21,134,6.4,0,6,50.0,19,1.4,8.9,80.8,5.2,49,4.5,219,0,0,2,
+McClLe00,Le'Ron McClain,RB,2011,27,KAN,NFL,FB,16,10,15,51,1,3,46.7,12,3.4,3.2,0.9,22,14,82,5.9,1,7,45.5,14,0.9,5.1,63.6,3.7,29,4.6,133,2,0,1,
+McClLe00,Le'Ron McClain,RB,2012,28,SDG,NFL,FB,16,9,14,42,0,2,35.7,17,3.0,2.6,0.9,10,8,29,3.6,0,2,30.0,12,0.5,1.8,80.0,2.9,22,3.2,71,0,0,0,
+McClLe00,Le'Ron McClain,RB,2013,29,SDG,NFL,RB,16,2,11,32,0,7,72.7,7,2.9,2.0,0.7,4,2,-7,-3.5,0,0,0.0,7,0.1,-0.4,50.0,-1.8,13,1.9,25,0,0,0,

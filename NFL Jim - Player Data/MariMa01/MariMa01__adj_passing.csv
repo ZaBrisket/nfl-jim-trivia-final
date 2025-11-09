@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MariMa01,Marcus Mariota,QB,2015,22,TEN,NFL,QB,12,12,110,98,106,98,97,108,94,74,103,
+MariMa01,Marcus Mariota,QB,2016,23,TEN,NFL,QB,15,15,110,113,113,114,94,117,106,110,110,
+MariMa01,Marcus Mariota,QB,2017,24,TEN,NFL,QB,15,15,99,101,89,91,95,83,84,105,86,
+MariMa01,Marcus Mariota,QB,2018,25,TEN,NFL,QB,14,13,109,97,102,95,120,88,99,65,103,
+MariMa01,Marcus Mariota,QB,2019,26,TEN,NFL,QB,7,6,105,86,109,95,79,97,118,47,100,
+MariMa01,Marcus Mariota,QB,,,,,,,,,,,,,,,,,
+MariMa01,Marcus Mariota,QB,2022,29,ATL,NFL,QB,13,13,108,100,102,98,85,108,85,85,97,
+MariMa01,Marcus Mariota,QB,,,,,,,,,,,,,,,,,
+MariMa01,Marcus Mariota,QB,2025,32,WAS,NFL,QB,5,3,103,102,89,89,94,99,61,97,86,

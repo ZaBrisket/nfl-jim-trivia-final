@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FielJu00,Justin Fields,QB,2021,22,CHI,QB,1,12,10,635,84%,0,0%,0,0%
+FielJu00,Justin Fields,QB,2022,23,CHI,QB,1,15,15,917,99%,0,0%,0,0%
+FielJu00,Justin Fields,QB,2023,24,CHI,QB,1,13,13,829,96%,0,0%,0,0%
+FielJu00,Justin Fields,QB,2024,25,PIT,QB,2,10,6,408,62%,0,0%,0,0%
+FielJu00,Justin Fields,QB,2025,26,NYJ,QB,7,7,7,395,89%,0,0%,0,0%

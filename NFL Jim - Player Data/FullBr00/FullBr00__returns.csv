@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+FullBr00,Brent Fullwood,RB,1987,24,GNB,NFL,RB,11,1,0,0,0,0,24,510,0,46,21.3,795,
+FullBr00,Brent Fullwood,RB,1988,25,GNB,NFL,FB,14,10,0,0,0,0,21,421,0,31,20.0,1032,
+FullBr00,Brent Fullwood,RB,1989,26,GNB,NFL,FB,15,15,0,0,0,0,11,243,0,35,22.1,1278,PB
+FullBr00,Brent Fullwood,RB,1990,27,2TM,NFL,RB,6,4,0,0,0,0,6,119,0,27,19.8,260,
+FullBr00,Brent Fullwood,RB,1990,27,CLE,NFL,RB,1,0,0,0,0,0,6,119,0,27,19.8,119,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FitzLa00,Larry Fitzgerald,WR,2012*,29,ARI,WR,11,16,16,1030,98%,0,0%,0,0%
+FitzLa00,Larry Fitzgerald,WR,2013*,30,ARI,WR,11,16,16,998,92%,0,0%,4,1%
+FitzLa00,Larry Fitzgerald,WR,2014,31,ARI,WR,11,14,13,855,90%,0,0%,2,1%
+FitzLa00,Larry Fitzgerald,WR,2015*,32,ARI,WR,11,16,16,984,89%,0,0%,4,1%
+FitzLa00,Larry Fitzgerald,WR,2016*,33,ARI,WR,11,16,16,1052,91%,1,0%,3,1%
+FitzLa00,Larry Fitzgerald,WR,2017*,34,ARI,WR,11,16,16,1071,96%,0,0%,2,0%
+FitzLa00,Larry Fitzgerald,WR,2018,35,ARI,WR,11,16,16,872,93%,0,0%,1,0%
+FitzLa00,Larry Fitzgerald,WR,2019,36,ARI,WR,11,16,16,887,85%,0,0%,2,0%
+FitzLa00,Larry Fitzgerald,WR,2020,37,ARI,WR,11,13,13,745,79%,0,0%,2,1%

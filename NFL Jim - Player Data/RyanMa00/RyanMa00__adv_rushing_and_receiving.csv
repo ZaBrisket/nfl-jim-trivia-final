@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+RyanMa00,Matt Ryan,QB,2018,33,ATL,NFL,QB,16,16,33,125,15,113,3.4,12,0.4,3,11.0,1,1,5,1,1,1.0,4,4.0,1.0,0,0,0.0,0,127.1,
+RyanMa00,Matt Ryan,QB,2019,34,ATL,NFL,QB,15,15,34,147,10,133,3.9,14,0.4,0,,0,0,0,0,0,,0,,,0,0,,0,,
+RyanMa00,Matt Ryan,QB,2020,35,ATL,NFL,QB,16,16,29,92,8,83,2.9,9,0.3,0,,0,0,0,0,0,,0,,,0,0,,0,,
+RyanMa00,Matt Ryan,QB,2021,36,ATL,NFL,QB,17,17,40,82,9,67,1.7,15,0.4,0,,0,0,0,0,0,,0,,,0,0,,0,,
+RyanMa00,Matt Ryan,QB,2022,37,IND,NFL,QB,12,12,27,70,9,59,2.2,11,0.4,0,,0,0,0,0,0,,0,,,0,0,,0,,

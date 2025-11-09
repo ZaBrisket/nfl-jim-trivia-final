@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KirkCh01,Christian Kirk,WR,2018,22,ARI,WR,13,12,7,542,79%,0,0%,58,18%
+KirkCh01,Christian Kirk,WR,2019,23,ARI,WR,13,13,13,791,94%,0,0%,21,6%
+KirkCh01,Christian Kirk,WR,2020,24,ARI,WR,13,14,10,781,77%,0,0%,55,14%
+KirkCh01,Christian Kirk,WR,2021,25,ARI,WR,13,17,11,894,76%,0,0%,15,3%
+KirkCh01,Christian Kirk,WR,2022,26,JAX,WR,13,17,17,991,88%,0,0%,9,2%
+KirkCh01,Christian Kirk,WR,2023,27,JAX,WR,13,12,12,585,71%,0,0%,12,4%
+KirkCh01,Christian Kirk,WR,2024,28,JAX,WR,13,8,7,337,70%,0,0%,0,0%
+KirkCh01,Christian Kirk,WR,2025,29,HOU,WR,13,4,2,160,58%,0,0%,0,0%

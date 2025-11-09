@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CharZa00,Zach Charbonnet,RB,2023,22,SEA,NFL,RB,16,2,108,462,1,32,49.1,23,4.3,28.9,6.8,40,33,209,6.3,0,7,45.0,39,2.1,13.1,82.5,5.2,141,4.8,671,1,0,5,
+CharZa00,Zach Charbonnet,RB,2024,23,SEA,NFL,RB,17,6,135,569,8,32,47.4,51,4.2,33.5,7.9,52,42,340,8.1,1,6,40.4,32,2.5,20.0,80.8,6.5,177,5.1,909,9,0,6,
+CharZa00,Zach Charbonnet,RB,2025,24,SEA,NFL,RB,7,0,80,230,5,15,43.8,15,2.9,32.9,11.4,8,7,57,8.1,0,2,25.0,21,1.0,8.1,87.5,7.1,87,3.3,287,5,0,,

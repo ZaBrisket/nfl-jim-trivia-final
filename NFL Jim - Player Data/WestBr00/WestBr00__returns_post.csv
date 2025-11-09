@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,all_purpose_yds,awards
+WestBr00,Brian Westbrook,RB,2004,25,PHI,NFL,RB,3,3,3,19,0,10,6.3,0,0,0,0,375,
+WestBr00,Brian Westbrook,RB,,,,,,,,,,,,,,,,,,
+WestBr00,Brian Westbrook,RB,2006,27,PHI,NFL,RB,2,2,3,9,0,5,3.0,0,0,0,0,283,

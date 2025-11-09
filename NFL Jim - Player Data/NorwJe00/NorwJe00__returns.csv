@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+NorwJe00,Jerious Norwood,RB,2006,23,ATL,NFL,RB,14,0,0,0,0,0,13,320,0,37,24.6,1055,
+NorwJe00,Jerious Norwood,RB,2007,24,ATL,NFL,RB,15,2,0,0,0,0,52,1317,0,76,25.3,2207,
+NorwJe00,Jerious Norwood,RB,2008,25,ATL,NFL,RB,16,0,0,0,0,0,51,1311,0,92,25.7,2138,
+NorwJe00,Jerious Norwood,RB,2009,26,ATL,NFL,RB,10,4,0,0,0,0,1,39,0,39,39.0,479,
+NorwJe00,Jerious Norwood,RB,2010,27,ATL,NFL,RB,2,0,0,0,0,0,4,97,0,34,24.3,114,
+NorwJe00,Jerious Norwood,RB,2011,28,STL,NFL,RB,9,0,0,0,0,0,24,611,0,47,25.5,672,

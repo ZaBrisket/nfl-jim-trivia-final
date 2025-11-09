@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ClarGa00,Gary Clark,WR,1986,24,WAS,NFL,WR,15,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,"PB,AP-2"
+ClarGa00,Gary Clark,WR,1987,25,WAS,NFL,WR,12,11,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,"PB,AP-1"
+ClarGa00,Gary Clark,WR,1988,26,WAS,NFL,WR,16,13,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+ClarGa00,Gary Clark,WR,1989,27,WAS,NFL,WR,15,12,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ClarGa00,Gary Clark,WR,,,,,,,,,,,,,,,,,,,,,,
+ClarGa00,Gary Clark,WR,1992,30,WAS,NFL,WR,16,14,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ClarGa00,Gary Clark,WR,1993,31,PHO,NFL,WR,14,10,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneCe00,Cedric Jones,WR,1982,22,NWE,NFL,WR,2,0,1,1,5,5.0,0,0,0.0,5,0.5,2.5,100.0,5.0,0,0,0,0,,,,0.0,0.0,1,5.0,5,0,0,0,
+JoneCe00,Cedric Jones,WR,1983,23,NWE,NFL,WR,15,12,51,20,323,16.2,1,16,37.3,30,1.3,21.5,39.2,6.3,0,0,0,0,,,,0.0,0.0,20,16.2,323,1,1,3,
+JoneCe00,Cedric Jones,WR,1984,24,NWE,NFL,WR,14,3,30,19,244,12.8,2,14,56.7,22,1.4,17.4,63.3,8.1,0,0,0,0,,,,0.0,0.0,19,12.8,244,2,1,2,
+JoneCe00,Cedric Jones,WR,1985,25,NWE,NFL,WR,16,3,42,21,237,11.3,2,16,42.9,29,1.3,14.8,50.0,5.6,0,0,0,0,,,,0.0,0.0,21,11.3,237,2,0,2,
+JoneCe00,Cedric Jones,WR,1986,26,NWE,NFL,WR,16,0,23,14,222,15.9,1,10,56.5,28,0.9,13.9,60.9,9.7,1,-7,0,0,0.0,-7,-7.0,-0.4,0.1,15,14.3,215,1,1,2,
+JoneCe00,Cedric Jones,WR,1987,27,NWE,NFL,WR,12,4,42,25,388,15.5,3,24,57.1,29,2.1,32.3,59.5,9.2,0,0,0,0,,,,0.0,0.0,25,15.5,388,3,0,4,
+JoneCe00,Cedric Jones,WR,1988,28,NWE,NFL,WR,16,2,54,22,313,14.2,1,16,35.2,41,1.4,19.6,40.7,5.8,0,0,0,0,,,,0.0,0.0,22,14.2,313,1,1,3,
+JoneCe00,Cedric Jones,WR,1989,29,NWE,NFL,WR,15,12,103,48,670,14.0,6,39,42.7,65,3.2,44.7,46.6,6.5,1,3,0,0,0.0,3,3.0,0.2,0.1,49,13.7,673,6,1,5,
+JoneCe00,Cedric Jones,WR,1990,30,NWE,NFL,WR,14,2,41,21,301,14.3,0,16,46.3,26,1.5,21.5,51.2,7.3,0,0,0,0,,,,0.0,0.0,21,14.3,301,0,0,2,

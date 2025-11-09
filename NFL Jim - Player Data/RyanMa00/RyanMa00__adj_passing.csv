@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+RyanMa00,Matt Ryan,QB,2008,23,ATL,NFL,QB,16,16,119,121,114,116,100,96,107,116,106,AP ORoY-1
+RyanMa00,Matt Ryan,QB,2009,24,ATL,NFL,QB,14,14,90,97,95,99,91,109,97,115,97,
+RyanMa00,Matt Ryan,QB,2010,25,ATL,NFL,QB,16,16,90,96,102,105,106,107,119,118,108,PB
+RyanMa00,Matt Ryan,QB,2011,26,ATL,NFL,QB,16,16,106,110,110,113,102,109,111,115,110,
+RyanMa00,Matt Ryan,QB,2012,27,ATL,NFL,QB,16,16,111,114,112,114,128,110,108,117,117,PB
+RyanMa00,Matt Ryan,QB,2013,28,ATL,NFL,QB,16,16,95,96,96,96,122,95,100,101,104,
+RyanMa00,Matt Ryan,QB,2014,29,ATL,NFL,QB,16,16,107,110,106,108,115,99,106,113,107,PB
+RyanMa00,Matt Ryan,QB,2015,30,ATL,NFL,QB,16,16,107,110,99,102,113,87,96,111,99,
+RyanMa00,Matt Ryan,QB,2016,31,ATL,NFL,QB,16,16,148,142,145,141,128,133,119,97,140,"PB,AP-1,AP MVP-1,AP OPoY-1"
+RyanMa00,Matt Ryan,QB,2017,32,ATL,NFL,QB,16,16,112,116,106,110,105,93,101,115,102,
+RyanMa00,Matt Ryan,QB,2018,33,ATL,NFL,QB,16,16,118,116,123,121,122,114,120,101,124,
+RyanMa00,Matt Ryan,QB,2019,34,ATL,NFL,QB,15,15,100,98,99,97,107,96,100,94,100,
+RyanMa00,Matt Ryan,QB,2020,35,ATL,NFL,QB,16,16,103,103,104,104,102,96,110,101,102,
+RyanMa00,Matt Ryan,QB,2021,36,ATL,NFL,QB,17,17,99,98,97,97,109,90,102,97,98,
+RyanMa00,Matt Ryan,QB,2022,37,IND,NFL,QB,12,12,90,86,85,84,111,85,89,92,90,

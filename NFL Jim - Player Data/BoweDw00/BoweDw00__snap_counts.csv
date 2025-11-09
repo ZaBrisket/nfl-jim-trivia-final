@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BoweDw00,Dwayne Bowe,WR,2012,28,KAN,WR,82,13,12,738,84%,0,0%,0,0%
+BoweDw00,Dwayne Bowe,WR,2013,29,KAN,WR,82,15,15,837,83%,0,0%,0,0%
+BoweDw00,Dwayne Bowe,WR,2014,30,KAN,WR,82,15,15,790,83%,0,0%,2,1%
+BoweDw00,Dwayne Bowe,WR,2015,31,CLE,WR,80,7,0,81,19%,0,0%,0,0%

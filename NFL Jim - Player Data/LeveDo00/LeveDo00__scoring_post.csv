@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LeveDo00,Dorsey Levens,RB,1994,24,GNB,NFL,RB,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,
+LeveDo00,Dorsey Levens,RB,1995,25,GNB,NFL,RB,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,
+LeveDo00,Dorsey Levens,RB,1996,26,GNB,NFL,RB,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,
+LeveDo00,Dorsey Levens,RB,1997,27,GNB,NFL,RB,3,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,4.0,
+LeveDo00,Dorsey Levens,RB,1998,28,GNB,NFL,RB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,
+LeveDo00,Dorsey Levens,RB,,,,,,,,,,,,,,,,,,,,,,,,
+LeveDo00,Dorsey Levens,RB,2004,34,PHI,NFL,RB,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TrubMi00,Mitchell Trubisky,QB,2017,23,CHI,NFL,QB,12,12,89,85,88,85,86,75,104,83,84,
+TrubMi00,Mitchell Trubisky,QB,2018,24,CHI,NFL,QB,14,14,104,108,103,106,111,111,93,110,107,PB
+TrubMi00,Mitchell Trubisky,QB,2019,25,CHI,NFL,QB,15,15,77,79,83,84,94,86,106,97,88,
+TrubMi00,Mitchell Trubisky,QB,2020,26,CHI,NFL,QB,10,9,95,96,96,97,111,108,92,104,102,
+TrubMi00,Mitchell Trubisky,QB,,,,,,,,,,,,,,,,,
+TrubMi00,Mitchell Trubisky,QB,2022,28,PIT,NFL,QB,7,5,97,100,88,91,102,75,90,105,85,
+TrubMi00,Mitchell Trubisky,QB,2023,29,PIT,NFL,QB,5,2,76,82,64,71,91,95,47,105,70,

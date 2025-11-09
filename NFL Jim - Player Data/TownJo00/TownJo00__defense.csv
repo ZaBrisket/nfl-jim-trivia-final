@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+TownJo00,Jo-Jo Townsell,WR,1985,25,NYJ,NFL,WR,16,6,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+TownJo00,Jo-Jo Townsell,WR,,,,,,,,,,,,,,,,,,,,,,
+TownJo00,Jo-Jo Townsell,WR,1987,27,NYJ,NFL,WR,12,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+TownJo00,Jo-Jo Townsell,WR,1988,28,NYJ,NFL,WR,16,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+TownJo00,Jo-Jo Townsell,WR,1989,29,NYJ,NFL,WR,16,6,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,
+TownJo00,Jo-Jo Townsell,WR,1990,30,NYJ,NFL,WR,9,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,

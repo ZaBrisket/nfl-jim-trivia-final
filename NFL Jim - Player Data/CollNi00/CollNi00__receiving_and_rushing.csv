@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CollNi00,Nico Collins,WR,2021,22,HOU,NFL,WR,14,8,60,33,446,13.5,1,22,48.3,32,2.4,31.9,55.0,7.4,0,0,0,0,,,,0.0,0.0,33,13.5,446,1,0,3,
+CollNi00,Nico Collins,WR,2022,23,HOU,NFL,WR,10,7,66,37,481,13.0,2,21,42.4,58,3.7,48.1,56.1,7.3,0,0,0,0,,,,0.0,0.0,37,13.0,481,2,0,4,
+CollNi00,Nico Collins,WR,2023,24,HOU,NFL,WR,15,10,109,80,1297,16.2,8,53,61.5,75,5.3,86.5,73.4,11.9,1,7,0,0,100.0,7,7.0,0.5,0.1,81,16.1,1304,8,1,11,
+CollNi00,Nico Collins,WR,2024,25,HOU,NFL,WR,12,12,99,68,1006,14.8,7,48,56.6,67,5.7,83.8,68.7,10.2,0,0,0,0,,,,0.0,0.0,68,14.8,1006,7,0,8,PB
+CollNi00,Nico Collins,WR,2025,26,HOU,NFL,WR,7,7,57,33,414,12.5,3,17,42.1,50,4.7,59.1,57.9,7.3,1,8,0,0,100.0,8,8.0,1.1,0.1,34,12.4,422,3,1,,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+SneaWi00,Willie Snead,WR,2018,26,BAL,NFL,WR,1,1,6,3,50,2,27,9.0,23,7.7,10.3,0,0,0.0,0,78.5,0,0,0,0,0,0,
+SneaWi00,Willie Snead,WR,2019,27,BAL,NFL,WR,1,1,8,6,56,3,45,7.5,11,1.8,7.0,0,2,25.0,0,93.7,0,0,0,0,0,0,
+SneaWi00,Willie Snead,WR,2020,28,BAL,NFL,WR,2,1,7,7,34,0,21,3.0,13,1.9,3.0,0,0,0.0,0,86.9,0,0,0,0,0,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+IverEd00,Eddie Lee Ivery,RB,1980,23,GNB,NFL,RB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+IverEd00,Eddie Lee Ivery,RB,1981,24,GNB,NFL,RB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,6,6.0,
+IverEd00,Eddie Lee Ivery,RB,1982,25,GNB,NFL,RB,9,9,9,1,0,0,0,0,0,10,0,0,0,0,0,60,6.7,
+IverEd00,Eddie Lee Ivery,RB,1983,26,GNB,NFL,RB,8,8,2,1,0,0,0,0,0,3,0,0,0,0,0,18,2.3,
+IverEd00,Eddie Lee Ivery,RB,1984,27,GNB,NFL,RB,10,5,6,1,0,0,0,0,0,7,0,0,0,0,0,42,4.2,
+IverEd00,Eddie Lee Ivery,RB,1985,28,GNB,NFL,RB,15,10,2,2,0,0,0,0,0,4,0,0,0,0,0,24,1.6,
+IverEd00,Eddie Lee Ivery,RB,1986,29,GNB,NFL,RB,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnRi00,Richard Johnson,WR,1987,26,WAS,NFL,WR,1,0,1,1,5,5.0,0,1,100.0,5,1.0,5.0,100.0,5.0,0,0,0,0,,,,0.0,0.0,1,5.0,5,0,0,0,
+JohnRi00,Richard Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnRi00,Richard Johnson,WR,1989,28,DET,NFL,WR,16,15,114,70,1091,15.6,8,47,57.0,75,4.4,68.2,61.4,9.6,12,38,0,2,41.7,14,3.2,2.4,0.8,82,13.8,1129,8,3,11,
+JohnRi00,Richard Johnson,WR,1990,29,DET,NFL,WR,16,16,118,64,727,11.4,6,38,47.5,44,4.0,45.4,54.2,6.2,0,0,0,0,,,,0.0,0.0,64,11.4,727,6,2,8,

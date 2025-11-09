@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SwanLy00,Lynn Swann,WR,1974,22,PIT,NFL,WR,12,2,0,2,1,0,0,0,0,3,0,0,0,0,0,18,1.5,
+SwanLy00,Lynn Swann,WR,1975,23,PIT,NFL,WR,14,12,0,11,0,0,0,0,0,11,0,0,0,0,0,66,4.7,"PB,AP-2"
+SwanLy00,Lynn Swann,WR,1976,24,PIT,NFL,WR,12,10,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.5,
+SwanLy00,Lynn Swann,WR,1977,25,PIT,NFL,WR,14,14,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.0,"PB,AP-2"
+SwanLy00,Lynn Swann,WR,1978,26,PIT,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,66,4.1,"PB,AP-1"
+SwanLy00,Lynn Swann,WR,1979,27,PIT,NFL,WR,13,11,1,5,0,0,0,0,0,6,0,0,0,0,0,36,2.8,
+SwanLy00,Lynn Swann,WR,1980,28,PIT,NFL,WR,13,11,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.2,
+SwanLy00,Lynn Swann,WR,1981,29,PIT,NFL,WR,13,12,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.3,

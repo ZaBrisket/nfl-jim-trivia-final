@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BoldAn00,Anquan Boldin,WR,2003,23,ARI,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,"PB,AP ORoY-1"
+BoldAn00,Anquan Boldin,WR,2004,24,ARI,NFL,WR,10,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,
+BoldAn00,Anquan Boldin,WR,2005,25,ARI,NFL,WR,14,14,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,3.1,
+BoldAn00,Anquan Boldin,WR,2006,26,ARI,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,PB
+BoldAn00,Anquan Boldin,WR,2007,27,ARI,NFL,WR,12,11,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,4.5,
+BoldAn00,Anquan Boldin,WR,2008,28,ARI,NFL,WR,12,11,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,5.5,"PB,AP CPoY-4"
+BoldAn00,Anquan Boldin,WR,2009,29,ARI,NFL,WR,15,15,1,4,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,
+BoldAn00,Anquan Boldin,WR,2010,30,BAL,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+BoldAn00,Anquan Boldin,WR,2011,31,BAL,NFL,WR,14,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+BoldAn00,Anquan Boldin,WR,2012,32,BAL,NFL,WR,15,15,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.7,
+BoldAn00,Anquan Boldin,WR,2013,33,SFO,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+BoldAn00,Anquan Boldin,WR,2014,34,SFO,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+BoldAn00,Anquan Boldin,WR,2015,35,SFO,NFL,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,
+BoldAn00,Anquan Boldin,WR,2016,36,DET,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,

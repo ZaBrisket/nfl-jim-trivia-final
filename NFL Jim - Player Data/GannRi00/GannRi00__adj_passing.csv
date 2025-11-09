@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GannRi00,Rich Gannon,QB,1990,25,MIN,NFL,QB,14,12,89,89,89,89,84,107,86,88,89,
+GannRi00,Rich Gannon,QB,1991,26,MIN,NFL,QB,15,11,83,93,99,104,109,94,129,113,107,
+GannRi00,Rich Gannon,QB,1992,27,MIN,NFL,QB,12,12,100,97,95,93,98,107,83,93,96,
+GannRi00,Rich Gannon,QB,1993,28,WAS,NFL,QB,8,4,78,73,67,66,104,82,67,71,77,
+GannRi00,Rich Gannon,QB,1994,,Did not play - Injured (shoulder),,,,,,,,,,,,,,
+GannRi00,Rich Gannon,QB,1996,31,KAN,NFL,QB,4,3,69,74,103,104,110,135,132,109,121,
+GannRi00,Rich Gannon,QB,1997,32,KAN,NFL,QB,9,6,96,97,103,103,97,100,113,101,103,
+GannRi00,Rich Gannon,QB,1998,33,KAN,NFL,QB,12,10,95,97,102,103,106,88,121,103,103,
+GannRi00,Rich Gannon,QB,1999,34,OAK,NFL,QB,16,16,111,108,111,110,106,107,108,90,110,PB
+GannRi00,Rich Gannon,QB,2000,35,OAK,NFL,QB,16,16,109,114,118,121,108,124,116,108,120,"PB,AP-1,AP MVP-4,AP OPoY-5"
+GannRi00,Rich Gannon,QB,2001,36,OAK,NFL,QB,16,16,104,109,116,119,123,114,125,113,124,PB
+GannRi00,Rich Gannon,QB,2002,37,OAK,NFL,QB,16,16,120,121,126,126,130,104,127,107,128,"PB,AP-1,AP MVP-1,AP OPoY-3"
+GannRi00,Rich Gannon,QB,2003,38,OAK,NFL,QB,7,7,79,81,90,90,87,82,124,96,91,
+GannRi00,Rich Gannon,QB,2004,39,OAK,NFL,QB,3,3,115,117,113,114,103,104,104,98,108,

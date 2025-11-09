@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ThomCh03,Chris Thompson,RB,2013,23,WAS,NFL,RB,4,0,7,36,0,11,5.1,8,160,0,28,20.0,196,
+ThomCh03,Chris Thompson,RB,,,,,,,,,,,,,,,,,,,
+ThomCh03,Chris Thompson,RB,2015,25,WAS,NFL,RB,13,0,0,0,0,0,,3,63,0,36,21.0,519,
+ThomCh03,Chris Thompson,RB,2016,26,WAS,NFL,RB,16,0,0,0,0,0,,17,360,0,28,21.2,1065,
+ThomCh03,Chris Thompson,RB,2017,27,WAS,NFL,RB,10,1,0,0,0,0,,8,165,0,29,20.6,967,
+ThomCh03,Chris Thompson,RB,2018,28,WAS,NFL,RB,10,0,0,0,0,0,,1,0,0,0,0.0,451,

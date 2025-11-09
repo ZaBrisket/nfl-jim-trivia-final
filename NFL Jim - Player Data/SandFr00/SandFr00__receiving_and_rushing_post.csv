@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SandFr00,Frank Sanders,WR,1998,25,ARI,NFL,WR,2,2,12,7,102,14.6,0,4,41.7,59,3.5,51.0,58.3,8.5,0,0,0,0,0.0,0.0,7,14.6,102,0,0,
+SandFr00,Frank Sanders,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SandFr00,Frank Sanders,WR,2003,30,BAL,NFL,WR,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,

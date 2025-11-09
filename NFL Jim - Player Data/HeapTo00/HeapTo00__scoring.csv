@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HeapTo00,Todd Heap,TE,2001,21,BAL,NFL,TE,12,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+HeapTo00,Todd Heap,TE,2002,22,BAL,NFL,TE,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,PB
+HeapTo00,Todd Heap,TE,2003,23,BAL,NFL,TE,16,16,0,3,0,0,0,0,0,3,4,0,0,0,0,0,26,1.6,"PB,AP-2"
+HeapTo00,Todd Heap,TE,2004,24,BAL,NFL,TE,6,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,3.0,
+HeapTo00,Todd Heap,TE,2005,25,BAL,NFL,TE,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+HeapTo00,Todd Heap,TE,2006,26,BAL,NFL,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+HeapTo00,Todd Heap,TE,2007,27,BAL,NFL,TE,6,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+HeapTo00,Todd Heap,TE,2008,28,BAL,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+HeapTo00,Todd Heap,TE,2009,29,BAL,NFL,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+HeapTo00,Todd Heap,TE,2010,30,BAL,NFL,TE,13,13,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.3,
+HeapTo00,Todd Heap,TE,2011,31,ARI,NFL,TE,10,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,

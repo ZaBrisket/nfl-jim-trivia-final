@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+JohnDa08,David Johnson,RB,2015,24,ARI,NFL,RB,16,5,0,0,0,0,0,0,4,0,0,0,0.0,2,2,0,0,0,0,AP ORoY-4
+JohnDa08,David Johnson,RB,2016,25,ARI,NFL,RB,16,16,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP OPoY-3"
+JohnDa08,David Johnson,RB,2017,26,ARI,NFL,RB,1,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+JohnDa08,David Johnson,RB,2018,27,ARI,NFL,RB,16,16,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,
+JohnDa08,David Johnson,RB,2019,28,ARI,NFL,RB,13,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+JohnDa08,David Johnson,RB,2020,29,HOU,NFL,RB,12,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,
+JohnDa08,David Johnson,RB,2021,30,HOU,NFL,RB,13,4,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+JohnDa08,David Johnson,RB,2022,31,NOR,NFL,RB,5,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

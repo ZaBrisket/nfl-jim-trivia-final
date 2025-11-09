@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MurrKy00,Kyler Murray,QB,2019,22,ARI,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,AP ORoY-1
+MurrKy00,Kyler Murray,QB,2020,23,ARI,NFL,QB,16,16,11,0,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,PB
+MurrKy00,Kyler Murray,QB,2021,24,ARI,NFL,QB,14,14,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.1,PB
+MurrKy00,Kyler Murray,QB,2022,25,ARI,NFL,QB,11,11,3,0,0,0,0,0,0,3,1,0,0,0,0,0,0,20,1.8,
+MurrKy00,Kyler Murray,QB,2023,26,ARI,NFL,QB,8,8,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,18,2.3,AP CPoY-9
+MurrKy00,Kyler Murray,QB,2024,27,ARI,NFL,QB,17,17,5,0,0,0,0,0,0,5,1,0,0,0,0,0,0,32,1.9,AP CPoY-10
+MurrKy00,Kyler Murray,QB,2025,28,ARI,NFL,QB,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.2,

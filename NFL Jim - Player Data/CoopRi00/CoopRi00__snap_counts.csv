@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CoopRi00,Riley Cooper,WR,2012,25,PHI,WR,14,11,5,487,64%,0,0%,102,32%
+CoopRi00,Riley Cooper,WR,2013,26,PHI,WR,14,16,15,980,89%,0,0%,2,0%
+CoopRi00,Riley Cooper,WR,2014,27,PHI,WR,14,16,16,958,81%,0,0%,1,0%
+CoopRi00,Riley Cooper,WR,2015,28,PHI,WR,14,16,13,570,49%,0,0%,185,37%

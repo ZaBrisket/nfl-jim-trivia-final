@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MannEl00,Eli Manning,QB,2004,23,NYG,NFL,QB,9,7,73,77,71,74,63,88,76,103,68,
+MannEl00,Eli Manning,QB,2005,24,NYG,NFL,QB,16,16,97,102,99,102,77,103,101,112,93,
+MannEl00,Eli Manning,QB,2006,25,NYG,NFL,QB,16,16,88,93,92,95,91,107,95,112,95,
+MannEl00,Eli Manning,QB,2007,26,NYG,NFL,QB,16,16,88,92,88,91,84,104,88,108,89,
+MannEl00,Eli Manning,QB,2008,27,NYG,NFL,QB,16,16,97,99,104,104,98,103,113,105,104,PB
+MannEl00,Eli Manning,QB,2009,28,NYG,NFL,QB,16,16,117,116,115,114,105,115,103,103,112,
+MannEl00,Eli Manning,QB,2010,29,NYG,NFL,QB,16,16,106,113,99,104,107,117,77,125,102,
+MannEl00,Eli Manning,QB,2011,30,NYG,NFL,QB,16,16,126,128,119,121,101,107,102,114,111,"PB,AP CPoY-6"
+MannEl00,Eli Manning,QB,2012,31,NYG,NFL,QB,16,16,105,112,104,109,97,106,99,125,102,PB
+MannEl00,Eli Manning,QB,2013,32,NYG,NFL,QB,16,16,95,94,80,81,84,87,60,98,77,
+MannEl00,Eli Manning,QB,2014,33,NYG,NFL,QB,16,16,103,108,105,108,103,106,104,115,105,
+MannEl00,Eli Manning,QB,2015,34,NYG,NFL,QB,16,16,99,106,104,108,99,115,102,115,106,PB
+MannEl00,Eli Manning,QB,2016,35,NYG,NFL,QB,16,16,91,99,92,97,101,100,94,122,96,
+MannEl00,Eli Manning,QB,2017,36,NYG,NFL,QB,15,15,77,83,83,86,94,88,101,109,88,
+MannEl00,Eli Manning,QB,2018,37,NYG,NFL,QB,16,16,105,101,104,101,109,91,107,93,103,
+MannEl00,Eli Manning,QB,2019,38,NYG,NFL,QB,4,4,96,103,89,95,89,94,80,123,87,

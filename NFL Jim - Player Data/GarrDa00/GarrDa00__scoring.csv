@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GarrDa00,David Garrard,QB,2002,24,JAX,NFL,QB,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,3.0,
+GarrDa00,David Garrard,QB,,,,,,,,,,,,,,,,,,,,,,,,
+GarrDa00,David Garrard,QB,2004,26,JAX,NFL,QB,4,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,
+GarrDa00,David Garrard,QB,2005,27,JAX,NFL,QB,7,5,3,0,0,0,0,0,0,3,1,0,0,0,0,0,20,2.9,
+GarrDa00,David Garrard,QB,,,,,,,,,,,,,,,,,,,,,,,,
+GarrDa00,David Garrard,QB,2007,29,JAX,NFL,QB,12,12,1,0,0,0,0,0,0,1,1,0,0,0,0,0,8,0.7,
+GarrDa00,David Garrard,QB,2008,30,JAX,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+GarrDa00,David Garrard,QB,2009,31,JAX,NFL,QB,16,16,3,0,0,0,0,0,0,3,1,0,0,0,0,0,20,1.3,PB
+GarrDa00,David Garrard,QB,2010,32,JAX,NFL,QB,14,14,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,

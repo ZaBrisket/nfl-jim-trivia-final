@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+GeorJe00,Jeff George,QB,1990,23,IND,NFL,QB,13,12,0,0,0,0,,0,4,2,0,0,0.0,0,0,0,,0,AP ORoY-3
+GeorJe00,Jeff George,QB,1991,24,IND,NFL,QB,16,16,0,0,0,0,,0,8,2,-4,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1992,25,IND,NFL,QB,10,10,0,0,0,0,,0,6,1,-2,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1993,26,IND,NFL,QB,13,11,0,0,0,0,,0,4,0,-1,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1994,27,ATL,NFL,QB,16,16,0,0,0,0,,0,12,6,-12,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1995,28,ATL,NFL,QB,16,16,0,0,0,0,,0,6,2,-15,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1996,29,ATL,NFL,QB,3,3,0,0,0,0,,0,3,2,-24,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1997,30,OAK,NFL,QB,16,16,0,0,0,0,,0,7,3,-14,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1998,31,OAK,NFL,QB,8,7,0,0,0,0,,0,7,1,-6,0,0.0,0,0,0,,0,
+GeorJe00,Jeff George,QB,1999,32,MIN,NFL,QB,12,10,0,0,0,0,0,0,8,2,0,0,0.0,0,0,0,0,0,AP CPoY-4
+GeorJe00,Jeff George,QB,2000,33,WAS,NFL,QB,6,5,0,0,0,0,0,0,3,1,-3,0,0.0,,,,,0,
+GeorJe00,Jeff George,QB,2001,34,WAS,NFL,QB,2,2,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,

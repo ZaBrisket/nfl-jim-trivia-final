@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GreeTr00,Trent Green,QB,1998,28,WAS,NFL,QB,15,14,42,117,2,8,28.6,13,2.8,7.8,2.8,2,2,-8,-4.0,0,0,0.0,,0.1,-0.5,100.0,-4.0,44,2.5,109,2,14,
+GreeTr00,Trent Green,QB,1999,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GreeTr00,Trent Green,QB,2000,30,STL,NFL,QB,8,5,20,69,1,6,35.0,18,3.5,8.6,2.5,0,0,0,,0,0,,,0.0,0.0,,,20,3.5,69,1,3,AP CPoY-12
+GreeTr00,Trent Green,QB,2001,31,KAN,NFL,QB,16,16,35,158,0,8,40.0,16,4.5,9.9,2.2,1,1,1,1.0,0,0,0.0,1,0.1,0.1,100.0,1.0,36,4.4,159,0,11,
+GreeTr00,Trent Green,QB,2002,32,KAN,NFL,QB,16,16,31,225,1,12,74.2,24,7.3,14.1,1.9,0,0,0,,0,0,,,0.0,0.0,,,31,7.3,225,1,1,
+GreeTr00,Trent Green,QB,2003,33,KAN,NFL,QB,16,16,26,83,2,9,46.2,14,3.2,5.2,1.6,0,0,0,,0,0,,,0.0,0.0,,,26,3.2,83,2,5,PB
+GreeTr00,Trent Green,QB,2004,34,KAN,NFL,QB,16,16,25,85,0,4,48.0,13,3.4,5.3,1.6,0,0,0,,0,0,,,0.0,0.0,,,25,3.4,85,0,11,
+GreeTr00,Trent Green,QB,2005,35,KAN,NFL,QB,16,16,35,82,0,10,31.4,13,2.3,5.1,2.2,0,0,0,,0,0,,,0.0,0.0,,,35,2.3,82,0,8,PB
+GreeTr00,Trent Green,QB,2006,36,KAN,NFL,QB,8,8,19,59,0,5,36.8,10,3.1,7.4,2.4,0,0,0,,0,0,,,0.0,0.0,,,19,3.1,59,0,5,
+GreeTr00,Trent Green,QB,2007,37,MIA,NFL,QB,5,5,7,32,0,4,57.1,23,4.6,6.4,1.4,0,0,0,,0,0,,,0.0,0.0,,,7,4.6,32,0,2,
+GreeTr00,Trent Green,QB,2008,38,STL,NFL,QB,3,1,3,4,0,1,33.3,3,1.3,1.3,1.0,0,0,0,,0,0,,,0.0,0.0,,,3,1.3,4,0,0,

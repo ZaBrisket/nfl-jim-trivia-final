@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DaviMi01,Mike Davis,RB,2015,22,SFO,RB,22,6,0,126,32%,0,0%,0,0%
+DaviMi01,Mike Davis,RB,2016,23,SFO,RB,22,8,1,66,13%,0,0%,63,25%
+DaviMi01,Mike Davis,RB,2017,24,SEA,RB,39,6,6,175,48%,0,0%,0,0%
+DaviMi01,Mike Davis,RB,2018,25,SEA,RB,27,15,2,391,39%,0,0%,38,9%
+DaviMi01,Mike Davis,RB,2019,26,2TM,RB,,12,1,79,,0,,129,
+DaviMi01,Mike Davis,RB,,,CHI,RB,25,7,1,71,16%,0,0%,46,25%
+DaviMi01,Mike Davis,RB,,,,,,,,8,2%,0,0%,83,55%
+DaviMi01,Mike Davis,RB,2020,27,CAR,RB,28,15,12,579,60%,0,0%,33,8%
+DaviMi01,Mike Davis,RB,2021,28,ATL,RB,28,17,8,594,57%,0,0%,1,0%
+DaviMi01,Mike Davis,RB,2022,29,BAL,RB,28,8,0,42,8%,0,0%,0,0%

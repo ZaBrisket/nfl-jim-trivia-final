@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+DobbJo00,Joshua Dobbs,QB,2018,23,PIT,NFL,QB,5,0,4,11,2,11,2.8,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,,,,,,,,,,,,,,,,,,,,,,,,,,
+DobbJo00,Joshua Dobbs,QB,2020,25,PIT,NFL,QB,1,0,2,20,1,20,10.0,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,,,,,,,,,,,,,,,,,,,,,,,,,,
+DobbJo00,Joshua Dobbs,QB,2022,27,TEN,NFL,QB,2,2,8,44,4,37,4.6,7,0.9,0,,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,2023,28,2TM,NFL,QB,13,12,77,421,31,274,3.6,147,1.9,5,15.4,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,2023,28,ARI,NFL,QB,8,8,47,258,19,180,3.8,78,1.7,2,23.5,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,2023,28,MIN,NFL,QB,5,4,30,163,12,94,3.1,69,2.3,3,10.0,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,2024,29,SFO,NFL,QB,2,1,9,24,2,18,2.0,6,0.7,1,9.0,0,0,0,0,0,0,0,0,0,
+DobbJo00,Joshua Dobbs,QB,2025,30,NWE,NFL,QB,2,0,5,-4,0,-4,-0.8,0,0.0,0,,0,0,0,0,0,0,0,0,0,

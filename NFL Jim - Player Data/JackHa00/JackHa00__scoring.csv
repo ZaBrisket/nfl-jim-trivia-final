@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JackHa00,Harold Jackson,WR,1969,23,PHI,NFL,WR,14,14,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.9,PB
+JackHa00,Harold Jackson,WR,1970,24,PHI,NFL,WR,14,12,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.1,
+JackHa00,Harold Jackson,WR,1971,25,PHI,NFL,WR,14,12,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+JackHa00,Harold Jackson,WR,1972,26,PHI,NFL,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.7,"PB,AP-2"
+JackHa00,Harold Jackson,WR,1973,27,RAM,NFL,WR,14,14,0,13,0,0,0,0,0,13,0,0,0,0,0,78,5.6,"PB,AP-1,AP MVP-2"
+JackHa00,Harold Jackson,WR,1974,28,RAM,NFL,WR,14,14,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.1,
+JackHa00,Harold Jackson,WR,1975,29,RAM,NFL,WR,14,14,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.0,PB
+JackHa00,Harold Jackson,WR,1976,30,RAM,NFL,WR,14,14,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.1,
+JackHa00,Harold Jackson,WR,1977,31,RAM,NFL,WR,14,14,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.6,PB
+JackHa00,Harold Jackson,WR,1978,32,NWE,NFL,WR,16,13,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+JackHa00,Harold Jackson,WR,1979,33,NWE,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+JackHa00,Harold Jackson,WR,1980,34,NWE,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+JackHa00,Harold Jackson,WR,,,,,,,,,,,,,,,,,,,,,,,
+JackHa00,Harold Jackson,WR,1983,37,SEA,NFL,WR,15,6,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

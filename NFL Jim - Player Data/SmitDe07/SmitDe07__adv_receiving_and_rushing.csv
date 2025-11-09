@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+SmitDe07,DeVonta Smith,WR,2021,23,PHI,NFL,WR,17,16,104,64,916,43,696,10.9,220,3.4,13.9,2,32.0,2,1.9,1,102.1,0,0,0,0,,0,,0,
+SmitDe07,DeVonta Smith,WR,2022,24,PHI,NFL,WR,17,17,136,95,1196,57,706,7.4,490,5.2,9.6,5,19.0,8,5.9,1,111.0,0,0,0,0,,0,,0,
+SmitDe07,DeVonta Smith,WR,2023,25,PHI,NFL,WR,16,16,112,81,1066,47,772,9.5,294,3.6,12.1,4,20.3,5,4.5,3,111.7,0,0,0,0,,0,,0,
+SmitDe07,DeVonta Smith,WR,2024,26,PHI,NFL,WR,13,13,89,68,833,42,534,7.9,299,4.4,9.1,0,,2,2.2,3,120.7,1,1,0,0,0.0,1,1.0,0,
+SmitDe07,DeVonta Smith,WR,2025,27,PHI,NFL,WR,8,8,55,44,588,25,409,9.3,179,4.1,11.2,0,,0,0.0,0,123.3,0,0,0,0,,0,,0,

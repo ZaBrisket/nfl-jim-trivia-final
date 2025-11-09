@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SherMi00,Mike Sherrard,WR,1986,23,DAL,NFL,WR,16,4,90,41,744,18.1,5,34,42.2,68,2.6,46.5,45.6,8.3,2,11,0,0,50.0,8,5.5,0.7,0.1,43,17.6,755,5,0,6,AP ORoY-2
+SherMi00,Mike Sherrard,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SherMi00,Mike Sherrard,WR,1989,26,SFO,NFL,WR,0,0,0,0,0,,0,0,,,,,,,0,0,0,0,,,,,,0,,0,0,0,0,
+SherMi00,Mike Sherrard,WR,1990,27,SFO,NFL,WR,7,2,31,17,264,15.5,2,10,48.4,43,2.4,37.7,54.8,8.5,0,0,0,0,,,,0.0,0.0,17,15.5,264,2,0,2,
+SherMi00,Mike Sherrard,WR,1991,28,SFO,NFL,WR,16,0,39,24,296,12.3,2,14,51.3,31,1.5,18.5,61.5,7.6,0,0,0,0,,,,0.0,0.0,24,12.3,296,2,0,3,
+SherMi00,Mike Sherrard,WR,1992,29,SFO,NFL,WR,16,8,59,38,607,16.0,0,25,52.5,56,2.4,37.9,64.4,10.3,0,0,0,0,,,,0.0,0.0,38,16.0,607,0,1,8,
+SherMi00,Mike Sherrard,WR,1993,30,NYG,NFL,WR,6,5,40,24,433,18.0,2,17,50.0,55,4.0,72.2,60.0,10.8,0,0,0,0,,,,0.0,0.0,24,18.0,433,2,0,4,
+SherMi00,Mike Sherrard,WR,1994,31,NYG,NFL,WR,16,14,102,53,825,15.6,6,39,44.1,55,3.3,51.6,52.0,8.1,1,-10,0,0,0.0,-10,-10.0,-0.6,0.1,54,15.1,815,6,0,8,
+SherMi00,Mike Sherrard,WR,1995,32,NYG,NFL,WR,13,13,86,44,577,13.1,4,30,44.2,57,3.4,44.4,51.2,6.7,0,0,0,0,,,,0.0,0.0,44,13.1,577,4,2,5,
+SherMi00,Mike Sherrard,WR,1996,33,DEN,NFL,WR,15,0,28,16,185,11.6,1,11,42.9,25,1.1,12.3,57.1,6.6,0,0,0,0,,,,0.0,0.0,16,11.6,185,1,0,2,

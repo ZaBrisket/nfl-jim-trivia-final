@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WhitJa00,Jamel White,RB,2000,23,CLE,NFL,RB,13,0,47,145,0,6,31.9,14,3.1,11.2,3.6,19,13,100,7.7,0,3,36.8,25,1.0,7.7,68.4,5.3,60,4.1,245,0,0,1,
+WhitJa00,Jamel White,RB,2001,24,CLE,NFL,RB,16,7,126,443,5,28,42.9,51,3.5,27.7,7.9,60,44,418,9.5,1,18,43.3,45,2.8,26.1,73.3,7.0,170,5.1,861,6,1,6,
+WhitJa00,Jamel White,RB,2002,25,CLE,NFL,RB,14,6,106,470,3,22,41.5,54,4.4,33.6,7.6,86,63,452,7.2,0,15,32.6,33,4.5,32.3,73.3,5.3,169,5.5,922,3,0,7,
+WhitJa00,Jamel White,RB,2003,26,CLE,NFL,RB,16,3,70,266,1,15,44.3,23,3.8,16.6,4.4,69,46,303,6.6,1,14,31.9,22,2.9,18.9,66.7,4.4,116,4.9,569,2,1,4,
+WhitJa00,Jamel White,RB,2004,27,2TM,NFL,RB,13,0,27,82,0,2,25.9,16,3.0,6.3,2.1,9,6,21,3.5,0,1,11.1,12,0.5,1.6,66.7,2.3,33,3.1,103,0,0,0,
+WhitJa00,Jamel White,RB,2004,27,TAM,NFL,RB,7,0,13,20,0,0,15.4,10,1.5,2.9,1.9,7,4,17,4.3,0,1,14.3,12,0.6,2.4,57.1,2.4,17,2.2,37,0,0,0,
+WhitJa00,Jamel White,RB,2004,27,BAL,NFL,RB,6,0,14,62,0,2,35.7,16,4.4,10.3,2.3,2,2,4,2.0,0,0,0.0,6,0.3,0.7,100.0,2.0,16,4.1,66,0,0,0,
+WhitJa00,Jamel White,RB,2005,28,BAL,NFL,RB,5,0,6,17,0,0,0.0,5,2.8,3.4,1.2,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,6,2.8,17,0,0,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WorlTi00,Tim Worley,RB,1989,23,PIT,NFL,RB,15,14,0,0,0,0,0,9,1,0,0,0.0,0,0,0,0,
+WorlTi00,Tim Worley,RB,1990,24,PIT,NFL,RB,11,8,0,0,0,0,0,6,0,0,0,0.0,0,0,0,0,
+WorlTi00,Tim Worley,RB,1991,25,PIT,NFL,RB,2,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WorlTi00,Tim Worley,RB,1992,,Did not play - Violation of league substance abuse policy,,,,,,,,,,,,,,,,,,,
+WorlTi00,Tim Worley,RB,1993,27,2TM,NFL,RB,15,3,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+WorlTi00,Tim Worley,RB,1993,27,CHI,NFL,RB,10,3,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+WorlTi00,Tim Worley,RB,1994,28,CHI,NFL,RB,5,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

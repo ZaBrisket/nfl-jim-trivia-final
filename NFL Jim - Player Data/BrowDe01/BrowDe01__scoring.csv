@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BrowDe01,Derek Brown,RB,1993,22,NOR,NFL,RB,13,12,2,1,0,0,0,0,0,3,,0,0,0,0,0,18,1.4,
+BrowDe01,Derek Brown,RB,1994,23,NOR,NFL,RB,16,9,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+BrowDe01,Derek Brown,RB,1995,24,NOR,NFL,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

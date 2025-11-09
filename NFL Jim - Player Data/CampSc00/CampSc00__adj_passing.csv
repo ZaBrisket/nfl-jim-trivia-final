@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+CampSc00,Scott Campbell,QB,1985,23,PIT,NFL,QB,16,2,86,87,78,80,61,101,71,92,73,
+CampSc00,Scott Campbell,QB,,,,,,,,,,,,,,,,,
+CampSc00,Scott Campbell,QB,1987,25,ATL,NFL,QB,12,9,93,91,88,86,91,101,80,91,88,
+CampSc00,Scott Campbell,QB,,,,,,,,,,,,,,,,,
+CampSc00,Scott Campbell,QB,1990,28,ATL,NFL,QB,7,2,98,91,88,85,65,100,77,78,79,

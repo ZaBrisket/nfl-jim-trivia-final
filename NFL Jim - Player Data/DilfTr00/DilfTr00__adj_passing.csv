@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+DilfTr00,Trent Dilfer,QB,1994,22,TAM,NFL,QB,5,2,69,69,45,48,63,68,34,82,43,
+DilfTr00,Trent Dilfer,QB,1995,23,TAM,NFL,QB,16,16,99,85,82,75,87,62,81,72,74,
+DilfTr00,Trent Dilfer,QB,1996,24,TAM,NFL,QB,16,16,81,85,79,81,93,82,87,107,81,
+DilfTr00,Trent Dilfer,QB,1997,25,TAM,NFL,QB,16,16,98,97,104,103,98,115,105,96,107,PB
+DilfTr00,Trent Dilfer,QB,1998,26,TAM,NFL,QB,16,16,93,96,96,98,83,109,96,107,96,
+DilfTr00,Trent Dilfer,QB,1999,27,TAM,NFL,QB,10,10,98,91,94,89,109,105,83,85,98,
+DilfTr00,Trent Dilfer,QB,2000,28,BAL,NFL,QB,11,8,98,93,93,90,105,117,75,85,98,AP CPoY-3
+DilfTr00,Trent Dilfer,QB,2001,29,SEA,NFL,QB,6,4,130,123,127,122,103,125,99,95,119,
+DilfTr00,Trent Dilfer,QB,2002,30,SEA,NFL,QB,6,6,107,115,98,103,88,77,94,117,88,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2004,32,SEA,NFL,QB,5,2,81,84,70,73,46,72,65,101,57,
+DilfTr00,Trent Dilfer,QB,2005,33,CLE,NFL,QB,11,11,101,102,96,97,100,91,92,101,95,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2007,35,SFO,NFL,QB,7,6,68,63,62,60,68,91,62,69,63,

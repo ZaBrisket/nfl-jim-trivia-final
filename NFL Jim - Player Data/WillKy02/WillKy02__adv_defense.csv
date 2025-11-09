@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_targets,def_cmp,def_cmp_pct,def_cmp_yds,def_yds_per_cmp,def_yds_per_target,def_cmp_td,def_pass_rating,def_tgt_yds_per_att,def_air_yds,def_yac,blitzes,qb_hurry,qb_knockdown,def_batted_passes,sacks,pressures,tackles_combined,tackles_missed,tackles_missed_pct,awards
+WillKy02,Kyren Williams,RB,2022,22,LAR,NFL,RB,10,0,0,1,1,100.0,18,18.0,18.0,0,118.7,13.0,13,5,0,0,0,0,0.0,0,2,1,33.3,
+WillKy02,Kyren Williams,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WillKy02,Kyren Williams,RB,2025,25,LAR,NFL,RB,8,8,0,1,1,100.0,15,15.0,15.0,0,118.7,4.0,4,11,0,0,0,0,0.0,0,0,1,100.0,

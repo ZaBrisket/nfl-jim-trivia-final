@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RoseSa00,Sage Rosenfels,QB,2002,24,MIA,NFL,QB,4,0,2,-9,0,0,0.0,-2,-4.5,-2.3,0.5,0,0,0,0,0,0.0,0.0,2,-4.5,-9,0,0,
+RoseSa00,Sage Rosenfels,QB,2003,25,MIA,NFL,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,
+RoseSa00,Sage Rosenfels,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RoseSa00,Sage Rosenfels,QB,2005,27,MIA,NFL,QB,4,1,6,15,0,2,33.3,12,2.5,3.8,1.5,0,0,0,0,0,0.0,0.0,6,2.5,15,0,1,
+RoseSa00,Sage Rosenfels,QB,2006,28,HOU,NFL,QB,4,0,4,5,0,0,25.0,7,1.3,1.3,1.0,0,0,0,0,0,0.0,0.0,4,1.3,5,0,0,
+RoseSa00,Sage Rosenfels,QB,2007,29,HOU,NFL,QB,9,5,21,51,1,6,28.6,19,2.4,5.7,2.3,0,0,0,0,0,0.0,0.0,21,2.4,51,1,4,
+RoseSa00,Sage Rosenfels,QB,2008,30,HOU,NFL,QB,6,5,11,37,0,3,27.3,15,3.4,6.2,1.8,0,0,0,0,0,0.0,0.0,11,3.4,37,0,4,
+RoseSa00,Sage Rosenfels,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RoseSa00,Sage Rosenfels,QB,2010,32,NYG,NFL,QB,12,0,3,-3,0,0,0.0,,-1.0,-0.3,0.3,0,0,0,0,0,0.0,0.0,3,-1.0,-3,0,0,

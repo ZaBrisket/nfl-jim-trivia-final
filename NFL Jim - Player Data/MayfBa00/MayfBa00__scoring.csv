@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MayfBa00,Baker Mayfield,QB,2018,23,CLE,NFL,QB,14,13,0,0,0,0,0,0,0,0,1,,0,0,0,0,0,2,0.1,AP ORoY-2
+MayfBa00,Baker Mayfield,QB,2019,24,CLE,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+MayfBa00,Baker Mayfield,QB,2020,25,CLE,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+MayfBa00,Baker Mayfield,QB,2021,26,CLE,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+MayfBa00,Baker Mayfield,QB,2022,27,2TM,NFL,QB,12,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.5,
+MayfBa00,Baker Mayfield,QB,2022,27,CAR,NFL,QB,7,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.9,
+MayfBa00,Baker Mayfield,QB,2023,28,TAM,NFL,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,"PB,AP CPoY-3"
+MayfBa00,Baker Mayfield,QB,2024,29,TAM,NFL,QB,17,17,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.1,"PB,AP MVP-11,AP OPoY-11"

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CookDa01,Dalvin Cook,RB,2017,22,MIN,RB,33,4,4,169,65%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2018,23,MIN,RB,33,11,10,491,69%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2019*,24,MIN,RB,33,14,14,604,66%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2020*,25,MIN,RB,33,14,14,669,71%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2021*,26,MIN,RB,33,13,13,608,71%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2022*,27,MIN,RB,4,17,17,841,72%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2023,28,,,,,,202,21%,0,0%,0,0%
+CookDa01,Dalvin Cook,RB,2024,29,DAL,RB,20,2,0,24,17%,0,0%,0,0%

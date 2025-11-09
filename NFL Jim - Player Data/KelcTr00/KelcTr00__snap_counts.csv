@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KelcTr00,Travis Kelce,TE,2013,24,KAN,TE,87,1,0,0,0%,0,0%,1,4%
+KelcTr00,Travis Kelce,TE,2014,25,KAN,TE,87,16,11,668,66%,0,0%,69,16%
+KelcTr00,Travis Kelce,TE,2015*,26,KAN,TE,87,16,16,923,92%,0,0%,78,18%
+KelcTr00,Travis Kelce,TE,2016*+,27,KAN,TE,87,16,15,886,87%,0,0%,14,3%
+KelcTr00,Travis Kelce,TE,2017*,28,KAN,TE,87,15,15,872,91%,1,0%,0,0%
+KelcTr00,Travis Kelce,TE,2018*+,29,KAN,TE,87,16,16,993,95%,0,0%,0,0%
+KelcTr00,Travis Kelce,TE,2019*,30,KAN,TE,87,16,16,971,93%,1,0%,0,0%
+KelcTr00,Travis Kelce,TE,2020*+,31,KAN,TE,87,15,15,899,86%,1,0%,0,0%
+KelcTr00,Travis Kelce,TE,2021*,32,KAN,TE,87,16,16,926,82%,0,0%,0,0%
+KelcTr00,Travis Kelce,TE,2022*+,33,KAN,TE,87,17,17,914,80%,0,0%,0,0%
+KelcTr00,Travis Kelce,TE,2023*,34,KAN,TE,87,15,15,775,77%,2,0%,0,0%
+KelcTr00,Travis Kelce,TE,2024*,35,KAN,TE,87,16,16,940,84%,0,0%,0,0%
+KelcTr00,Travis Kelce,TE,2025,36,KAN,TE,87,9,9,457,76%,0,0%,0,0%

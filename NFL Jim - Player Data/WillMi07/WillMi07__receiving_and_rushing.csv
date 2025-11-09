@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillMi07,Mike Williams,WR,2017,23,LAC,NFL,WR,10,1,23,11,95,8.6,0,7,39.1,20,1.1,9.5,47.8,4.1,0,0,0,0,,,,0.0,0.0,11,8.6,95,0,0,1,
+WillMi07,Mike Williams,WR,2018,24,LAC,NFL,WR,16,5,66,43,664,15.4,10,36,59.1,55,2.7,41.5,65.2,10.1,7,28,1,2,42.9,19,4.0,1.8,0.4,50,13.8,692,11,0,6,
+WillMi07,Mike Williams,WR,2019,25,LAC,NFL,WR,15,15,90,49,1001,20.4,2,41,52.2,56,3.3,66.7,54.4,11.1,1,2,0,0,0.0,2,2.0,0.1,0.1,50,20.1,1003,2,0,8,
+WillMi07,Mike Williams,WR,2020,26,LAC,NFL,WR,15,11,85,48,756,15.8,5,35,50.6,64,3.2,50.4,56.5,8.9,1,1,0,0,0.0,1,1.0,0.1,0.1,49,15.4,757,5,0,6,
+WillMi07,Mike Williams,WR,2021,27,LAC,NFL,WR,16,14,129,76,1146,15.1,9,51,51.9,72,4.8,71.6,58.9,8.9,0,0,0,0,,,,0.0,0.0,76,15.1,1146,9,0,11,
+WillMi07,Mike Williams,WR,2022,28,LAC,NFL,WR,13,13,93,63,895,14.2,4,39,59.1,55,4.8,68.8,67.7,9.6,0,0,0,0,,,,0.0,0.0,63,14.2,895,4,0,7,
+WillMi07,Mike Williams,WR,2023,29,LAC,NFL,WR,3,3,26,19,249,13.1,1,9,53.8,49,6.3,83.0,73.1,9.6,1,3,0,0,0.0,3,3.0,1.0,0.3,20,12.6,252,1,0,2,
+WillMi07,Mike Williams,WR,2024,30,2TM,NFL,WR,18,5,34,21,298,14.2,1,14,50.0,32,1.2,16.6,61.8,8.8,0,0,0,0,,,,0.0,0.0,21,14.2,298,1,0,2,
+WillMi07,Mike Williams,WR,2024,30,NYJ,NFL,WR,9,3,21,12,166,13.8,0,9,52.4,22,1.3,18.4,57.1,7.9,0,0,0,0,,,,0.0,0.0,12,13.8,166,0,0,1,
+WillMi07,Mike Williams,WR,2024,30,PIT,NFL,WR,9,2,13,9,132,14.7,1,5,46.2,32,1.0,14.7,69.2,10.2,0,0,0,0,,,,0.0,0.0,9,14.7,132,1,0,1,

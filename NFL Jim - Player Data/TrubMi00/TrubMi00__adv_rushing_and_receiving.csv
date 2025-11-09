@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+TrubMi00,Mitchell Trubisky,QB,2018,24,CHI,NFL,QB,14,14,68,421,29,306,4.5,115,1.7,1,68.0,0,0,0,0,0,0,0,0,0,PB
+TrubMi00,Mitchell Trubisky,QB,2019,25,CHI,NFL,QB,15,15,48,193,12,140,2.9,53,1.1,4,12.0,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2020,26,CHI,NFL,QB,10,9,33,195,12,145,4.4,50,1.5,2,16.5,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2021,27,BUF,NFL,QB,6,0,13,24,3,24,1.8,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2022,28,PIT,NFL,QB,7,5,19,38,7,23,1.2,15,0.8,1,19.0,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2023,29,PIT,NFL,QB,5,2,16,54,6,43,2.7,11,0.7,1,16.0,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2024,30,BUF,NFL,QB,9,0,17,1,1,1,0.1,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+TrubMi00,Mitchell Trubisky,QB,2025,31,BUF,NFL,QB,2,0,3,-3,0,-3,-1.0,0,0.0,0,,0,0,0,0,0,0,0,0,0,

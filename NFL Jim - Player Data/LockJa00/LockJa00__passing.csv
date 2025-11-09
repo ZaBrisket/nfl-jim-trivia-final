@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+LockJa00,Jake Locker,QB,2011,23,TEN,NFL,QB,5,0,,34,66,51.5,542,4,6.1,0,0.0,22,39.4,54,8.2,9.42,15.9,108.4,99.4,64.1,5,37,7.04,7.11,8.24,0,0,2,
+LockJa00,Jake Locker,QB,2012,24,TEN,NFL,QB,11,11,4-7-0,177,314,56.4,2176,10,3.2,11,3.5,94,38.1,71,6.9,5.99,12.3,197.8,74.0,42.0,25,151,7.37,5.97,5.10,0,1,6,
+LockJa00,Jake Locker,QB,2013,25,TEN,NFL,QB,7,7,4-3-0,111,183,60.7,1256,8,4.4,4,2.2,58,42.2,66,6.9,6.75,11.3,179.4,86.7,55.2,16,105,8.04,5.78,5.68,1,2,5,
+LockJa00,Jake Locker,QB,2014,26,TEN,NFL,QB,7,5,1-4-0,86,146,58.9,993,5,3.4,7,4.8,47,40.0,61,6.8,5.33,11.5,141.9,70.9,45.3,14,85,8.75,5.68,4.33,0,0,3,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FuncDe00,Devin Funchess,WR,2015,21,CAR,WR,17,16,5,493,45%,0,0%,1,0%
+FuncDe00,Devin Funchess,WR,2016,22,CAR,WR,17,15,7,493,47%,0,0%,0,0%
+FuncDe00,Devin Funchess,WR,2017,23,CAR,WR,17,16,16,841,79%,0,0%,4,1%
+FuncDe00,Devin Funchess,WR,2018,24,CAR,WR,17,14,12,622,67%,0,0%,1,0%
+FuncDe00,Devin Funchess,WR,2019,25,IND,WR,17,1,1,36,57%,0,0%,0,0%

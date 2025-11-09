@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CruzVi00,Victor Cruz,WR,2010,24,NYG,NFL,WR,3,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+CruzVi00,Victor Cruz,WR,2011,25,NYG,NFL,WR,16,7,131,82,1536,18.7,9,59,56.5,99,5.1,96.0,62.6,11.7,1,3,0,0,0.0,3,3.0,0.2,0.1,83,18.5,1539,9,1,13,AP-2
+CruzVi00,Victor Cruz,WR,2012,26,NYG,NFL,WR,16,16,143,86,1092,12.7,10,52,50.3,80,5.4,68.3,60.1,7.6,0,0,0,0,,,,0.0,0.0,86,12.7,1092,10,0,12,PB
+CruzVi00,Victor Cruz,WR,2013,27,NYG,NFL,WR,14,12,122,73,998,13.7,4,45,51.6,70,5.2,71.3,59.8,8.2,0,0,0,0,,,,0.0,0.0,73,13.7,998,4,1,6,
+CruzVi00,Victor Cruz,WR,2014,28,NYG,NFL,WR,6,6,41,23,337,14.7,1,13,43.9,61,3.8,56.2,56.1,8.2,0,0,0,0,,,,0.0,0.0,23,14.7,337,1,0,3,
+CruzVi00,Victor Cruz,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CruzVi00,Victor Cruz,WR,2016,30,NYG,NFL,WR,15,12,72,39,586,15.0,1,25,47.2,48,2.6,39.1,54.2,8.1,0,0,0,0,,,,0.0,0.0,39,15.0,586,1,1,4,

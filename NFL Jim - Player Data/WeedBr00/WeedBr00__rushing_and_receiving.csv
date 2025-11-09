@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WeedBr00,Brandon Weeden,QB,2012,29,CLE,NFL,QB,15,15,27,111,0,12,51.9,25,4.1,7.4,1.8,1,0,-9,0,0,0.0,-9,0.0,-0.6,0.0,-9.0,27,3.8,102,0,6,
+WeedBr00,Brandon Weeden,QB,2013,30,CLE,NFL,QB,8,5,12,44,0,2,50.0,11,3.7,5.5,1.5,0,0,0,0,0,,,0.0,0.0,,,12,3.7,44,0,6,
+WeedBr00,Brandon Weeden,QB,2014,31,DAL,NFL,QB,5,1,6,-1,0,0,0.0,1,-0.2,-0.2,1.2,0,0,0,0,0,,,0.0,0.0,,,6,-0.2,-1,0,1,
+WeedBr00,Brandon Weeden,QB,2015,32,2TM,NFL,QB,6,4,16,47,1,7,31.3,11,2.9,7.8,2.7,0,0,0,0,0,,,0.0,0.0,,,16,2.9,47,1,2,
+WeedBr00,Brandon Weeden,QB,2015,32,DAL,NFL,QB,4,3,9,30,0,5,33.3,11,3.3,7.5,2.3,0,0,0,0,0,,,0.0,0.0,,,9,3.3,30,0,0,
+WeedBr00,Brandon Weeden,QB,2015,32,HOU,NFL,QB,2,1,7,17,1,2,28.6,7,2.4,8.5,3.5,0,0,0,0,0,,,0.0,0.0,,,7,2.4,17,1,2,
+WeedBr00,Brandon Weeden,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WeedBr00,Brandon Weeden,QB,2018,35,HOU,NFL,QB,1,0,1,-1,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,0,0,,,0.0,0.0,,,1,-1.0,-1,0,0,

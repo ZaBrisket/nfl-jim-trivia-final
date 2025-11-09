@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CookBr00,Brandin Cooks,WR,2014,21,NOR,NFL,WR,10,7,69,53,550,10.4,3,25,58.0,50,5.3,55.0,76.8,8.0,7,73,1,4,85.7,28,10.4,7.3,0.7,60,10.4,623,4,1,5,
+CookBr00,Brandin Cooks,WR,2015,22,NOR,NFL,WR,16,12,129,84,1138,13.5,9,45,47.3,71,5.3,71.1,65.1,8.8,8,18,0,2,25.0,11,2.3,1.1,0.5,92,12.6,1156,9,1,9,
+CookBr00,Brandin Cooks,WR,2016,23,NOR,NFL,WR,16,12,117,78,1173,15.0,8,46,52.1,98,4.9,73.3,66.7,10.0,6,30,0,1,66.7,11,5.0,1.9,0.4,84,14.3,1203,8,1,11,
+CookBr00,Brandin Cooks,WR,2017,24,NWE,NFL,WR,16,15,114,65,1082,16.6,7,42,49.1,64,4.1,67.6,57.0,9.5,9,40,0,2,55.6,13,4.4,2.5,0.6,74,15.2,1122,7,0,13,
+CookBr00,Brandin Cooks,WR,2018,25,LAR,NFL,WR,16,16,117,80,1204,15.1,5,56,57.3,57,5.0,75.3,68.4,10.3,10,68,1,5,90.0,17,6.8,4.3,0.6,90,14.1,1272,6,1,13,
+CookBr00,Brandin Cooks,WR,2019,26,LAR,NFL,WR,14,14,72,42,583,13.9,2,32,50.0,57,3.0,41.6,58.3,8.1,6,52,0,3,66.7,27,8.7,3.7,0.4,48,13.2,635,2,0,5,
+CookBr00,Brandin Cooks,WR,2020,27,HOU,NFL,WR,15,15,119,81,1150,14.2,6,51,61.3,57,5.4,76.7,68.1,9.7,0,0,0,0,,,,0.0,0.0,81,14.2,1150,6,0,9,
+CookBr00,Brandin Cooks,WR,2021,28,HOU,NFL,WR,16,16,134,90,1037,11.5,6,45,53.7,52,5.6,64.8,67.2,7.7,2,21,0,1,100.0,16,10.5,1.3,0.1,92,11.5,1058,6,0,8,
+CookBr00,Brandin Cooks,WR,2022,29,HOU,NFL,WR,13,13,93,57,699,12.3,3,29,47.3,44,4.4,53.8,61.3,7.5,2,7,0,0,50.0,5,3.5,0.5,0.2,59,12.0,706,3,0,5,
+CookBr00,Brandin Cooks,WR,2023,30,DAL,NFL,WR,16,15,81,54,657,12.2,8,38,59.3,37,3.4,41.1,66.7,8.1,5,35,0,1,60.0,14,7.0,2.2,0.3,59,11.7,692,8,1,8,
+CookBr00,Brandin Cooks,WR,2024,31,DAL,NFL,WR,10,9,54,26,259,10.0,3,19,44.4,29,2.6,25.9,48.1,4.8,3,-3,0,0,33.3,5,-1.0,-0.3,0.3,29,8.8,256,3,0,2,
+CookBr00,Brandin Cooks,WR,2025,32,NOR,NFL,WR,9,2,25,19,165,8.7,0,10,68.0,21,2.1,18.3,76.0,6.6,0,0,0,0,,,,0.0,0.0,19,8.7,165,0,0,,

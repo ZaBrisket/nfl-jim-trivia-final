@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GonzTo00,Tony Gonzalez,TE,1997,21,KAN,NFL,TE,1,0,7,3,26,8.7,1,1,28.6,12,3.0,26.0,42.9,3.7,0,0,0,0,0.0,0.0,3,8.7,26,1,0,
+GonzTo00,Tony Gonzalez,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GonzTo00,Tony Gonzalez,TE,2003,27,KAN,NFL,TE,1,1,4,4,55,13.8,0,2,100.0,22,4.0,55.0,100.0,13.8,0,0,0,0,0.0,0.0,4,13.8,55,0,0,
+GonzTo00,Tony Gonzalez,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GonzTo00,Tony Gonzalez,TE,2006,30,KAN,NFL,TE,1,1,8,4,25,6.3,1,2,50.0,9,4.0,25.0,50.0,3.1,0,0,0,0,0.0,0.0,4,6.3,25,1,0,
+GonzTo00,Tony Gonzalez,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GonzTo00,Tony Gonzalez,TE,2010,34,ATL,NFL,TE,1,1,1,1,7,7.0,0,0,0.0,7,1.0,7.0,100.0,7.0,0,0,0,0,0.0,0.0,1,7.0,7,0,0,
+GonzTo00,Tony Gonzalez,TE,2011,35,ATL,NFL,TE,1,1,6,4,44,11.0,0,4,66.7,16,4.0,44.0,66.7,7.3,0,0,0,0,0.0,0.0,4,11.0,44,0,0,
+GonzTo00,Tony Gonzalez,TE,2012,36,ATL,NFL,TE,2,2,15,14,129,9.2,2,10,86.7,19,7.0,64.5,93.3,8.6,0,0,0,0,0.0,0.0,14,9.2,129,2,0,

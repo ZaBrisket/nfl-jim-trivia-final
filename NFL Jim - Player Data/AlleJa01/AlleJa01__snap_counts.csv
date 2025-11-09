@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AlleJa01,Javorius Allen,RB,2015,24,BAL,RB,37,16,6,393,35%,0,0%,20,4%
+AlleJa01,Javorius Allen,RB,2016,25,BAL,RB,37,8,0,41,7%,0,0%,93,39%
+AlleJa01,Javorius Allen,RB,2017,26,BAL,RB,37,16,0,464,43%,0,0%,166,35%
+AlleJa01,Javorius Allen,RB,2018,27,BAL,RB,37,14,0,310,30%,0,0%,189,49%
+AlleJa01,Javorius Allen,RB,2019,28,NYG,RB,37,10,0,32,5%,0,0%,168,57%

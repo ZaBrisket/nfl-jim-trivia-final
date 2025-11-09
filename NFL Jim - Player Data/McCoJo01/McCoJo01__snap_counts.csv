@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McCoJo01,Josh McCown,QB,2013,34,CHI,QB,12,8,5,422,76%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2014,35,TAM,QB,12,11,11,630,94%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2015,36,CLE,QB,13,8,8,509,87%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2016,37,CLE,QB,13,5,3,262,81%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2017,38,NYJ,QB,15,13,13,819,98%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2018,39,NYJ,QB,15,4,3,191,79%,0,0%,0,0%
+McCoJo01,Josh McCown,QB,2019,40,PHI,QB,18,3,0,15,7%,0,0%,0,0%

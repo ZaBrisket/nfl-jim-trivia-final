@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ElliAn00,Andre Ellington,RB,2013,24,ARI,NFL,RB,15,1,118,652,3,27,44.1,80,5.5,43.5,7.9,57,39,371,9.5,1,21,42.1,38,2.6,24.7,68.4,6.5,157,6.5,1023,4,1,7,
+ElliAn00,Andre Ellington,RB,2014,25,ARI,NFL,RB,12,12,201,660,3,31,35.8,22,3.3,55.0,16.8,64,46,395,8.6,2,19,40.6,81,3.8,32.9,71.9,6.2,247,4.3,1055,5,2,5,
+ElliAn00,Andre Ellington,RB,2015,26,ARI,NFL,RB,10,2,45,289,3,11,48.9,63,6.4,28.9,4.5,24,15,148,9.9,0,8,54.2,32,1.5,14.8,62.5,6.2,60,7.3,437,3,1,3,
+ElliAn00,Andre Ellington,RB,2016,27,ARI,NFL,RB,16,0,34,96,0,4,32.4,13,2.8,6.0,2.1,19,12,85,7.1,0,5,26.3,16,0.8,5.3,63.2,4.5,46,3.9,181,0,0,1,
+ElliAn00,Andre Ellington,RB,2017,28,2TM,NFL,RB,12,2,20,55,1,3,40.0,14,2.8,4.6,1.7,59,39,369,9.5,0,16,47.5,29,3.3,30.8,66.1,6.3,59,7.2,424,1,0,3,
+ElliAn00,Andre Ellington,RB,2017,28,ARI,NFL,RB,8,0,15,53,1,3,46.7,14,3.5,6.6,1.9,50,33,297,9.0,0,13,44.0,24,4.1,37.1,66.0,5.9,48,7.3,350,1,0,2,
+ElliAn00,Andre Ellington,RB,2017,28,HOU,NFL,RB,4,2,5,2,0,0,20.0,7,0.4,0.5,1.3,9,6,72,12.0,0,3,66.7,29,1.5,18.0,66.7,8.0,11,6.7,74,0,0,1,

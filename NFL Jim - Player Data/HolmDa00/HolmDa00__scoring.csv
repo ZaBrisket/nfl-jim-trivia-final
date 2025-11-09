@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HolmDa00,Darick Holmes,RB,1995,24,BUF,NFL,RB,16,2,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+HolmDa00,Darick Holmes,RB,1996,25,BUF,NFL,RB,16,1,4,1,0,0,0,0,0,5,1,0,0,0,0,0,32,2.0,
+HolmDa00,Darick Holmes,RB,1997,26,BUF,NFL,RB,13,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+HolmDa00,Darick Holmes,RB,1998,27,2TM,NFL,RB,14,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+HolmDa00,Darick Holmes,RB,1998,27,GNB,NFL,RB,11,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

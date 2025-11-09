@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WallWe00,Wesley Walls,TE,1989,23,SFO,NFL,TE,16,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+WallWe00,Wesley Walls,TE,,,,,,,,,,,,,,,,,,,,,,,,
+WallWe00,Wesley Walls,TE,1994,28,NOR,NFL,TE,15,7,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.7,
+WallWe00,Wesley Walls,TE,1995,29,NOR,NFL,TE,16,12,0,4,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+WallWe00,Wesley Walls,TE,1996,30,CAR,NFL,TE,16,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP-2"
+WallWe00,Wesley Walls,TE,1997,31,CAR,NFL,TE,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,"PB,AP-2"
+WallWe00,Wesley Walls,TE,1998,32,CAR,NFL,TE,14,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,PB
+WallWe00,Wesley Walls,TE,1999,33,CAR,NFL,TE,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,"PB,AP-2"
+WallWe00,Wesley Walls,TE,2000,34,CAR,NFL,TE,8,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.5,
+WallWe00,Wesley Walls,TE,2001,35,CAR,NFL,TE,14,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,PB
+WallWe00,Wesley Walls,TE,2002,36,CAR,NFL,TE,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+WallWe00,Wesley Walls,TE,2003,37,GNB,NFL,TE,14,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

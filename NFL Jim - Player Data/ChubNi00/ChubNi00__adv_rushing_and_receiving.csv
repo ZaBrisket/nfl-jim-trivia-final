@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+ChubNi00,Nick Chubb,RB,2018,23,CLE,NFL,RB,16,9,192,996,47,398,2.1,598,3.1,22,8.7,29,20,149,5,-32,-1.6,181,9.1,1.6,0,,3,10.3,0,104.0,
+ChubNi00,Nick Chubb,RB,2019,24,CLE,NFL,RB,16,16,298,1494,62,612,2.1,882,3.0,32,9.3,49,36,278,13,-40,-1.1,318,8.8,-0.6,8,4.5,4,8.2,0,86.9,PB
+ChubNi00,Nick Chubb,RB,2020,25,CLE,NFL,RB,12,12,190,1067,56,556,2.9,511,2.7,21,9.0,18,16,150,6,17,1.1,133,8.3,2.7,4,4.0,0,0.0,0,101.4,PB
+ChubNi00,Nick Chubb,RB,2021,26,CLE,NFL,RB,14,14,228,1259,61,567,2.5,692,3.0,23,9.9,25,20,174,9,2,0.1,172,8.6,1.0,4,5.0,0,0.0,0,109.0,PB
+ChubNi00,Nick Chubb,RB,2022,27,CLE,NFL,RB,17,17,302,1525,69,830,2.7,695,2.3,28,10.8,37,27,239,12,-20,-0.7,259,9.6,0.0,3,9.0,4,10.8,0,98.8,"PB,AP-2"
+ChubNi00,Nick Chubb,RB,2023,28,CLE,NFL,RB,2,2,28,170,8,100,3.6,70,2.5,2,14.0,4,4,21,1,1,0.3,20,5.0,0.3,0,,0,0.0,0,88.5,
+ChubNi00,Nick Chubb,RB,2024,29,CLE,NFL,RB,8,8,102,332,17,170,1.7,162,1.6,4,25.5,11,5,31,3,0,0.0,31,6.2,-0.5,0,,0,0.0,2,43.2,AP CPoY-8
+ChubNi00,Nick Chubb,RB,2025,30,HOU,NFL,RB,8,8,91,355,13,184,2.0,171,1.9,3,30.3,15,10,54,1,-4,-0.4,58,5.8,0.3,1,10.0,2,13.3,0,72.6,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RhetEr00,Errict Rhett,RB,1994,24,TAM,NFL,RB,16,8,7,0,0,0,0,0,0,7,1,0,0,0,0,0,44,2.8,AP ORoY-2
+RhetEr00,Errict Rhett,RB,1995,25,TAM,NFL,RB,16,16,11,0,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+RhetEr00,Errict Rhett,RB,1996,26,TAM,NFL,RB,9,7,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+RhetEr00,Errict Rhett,RB,1997,27,TAM,NFL,RB,11,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.6,
+RhetEr00,Errict Rhett,RB,,,,,,,,,,,,,,,,,,,,,,,,
+RhetEr00,Errict Rhett,RB,1999,29,BAL,NFL,RB,16,10,5,2,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,

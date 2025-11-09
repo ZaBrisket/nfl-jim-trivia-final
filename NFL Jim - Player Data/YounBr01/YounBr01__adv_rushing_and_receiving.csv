@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+YounBr01,Bryce Young,QB,2023,22,CAR,NFL,QB,16,16,39,253,18,191,4.9,62,1.6,4,9.8,0,0,0,0,0,0,0,0,0,
+YounBr01,Bryce Young,QB,2024,23,CAR,NFL,QB,14,12,43,249,15,217,5.0,32,0.7,4,10.8,0,0,0,0,0,0,0,0,0,
+YounBr01,Bryce Young,QB,2025,24,CAR,NFL,QB,8,8,20,78,7,65,3.3,13,0.7,1,20.0,0,0,0,0,0,0,0,0,0,

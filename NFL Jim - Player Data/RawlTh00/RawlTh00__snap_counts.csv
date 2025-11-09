@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RawlTh00,Thomas Rawls,RB,2015,22,SEA,RB,34,13,7,289,34%,0,0%,0,0%
+RawlTh00,Thomas Rawls,RB,2016,23,SEA,RB,34,9,7,303,48%,0,0%,0,0%
+RawlTh00,Thomas Rawls,RB,2017,24,SEA,RB,34,12,3,218,27%,0,0%,1,0%
+RawlTh00,Thomas Rawls,RB,2018,25,CIN,RB,31,1,0,0,0%,0,0%,2,7%

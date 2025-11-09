@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+HassMa00,Matt Hasselbeck,QB,1999,24,GNB,NFL,QB,16,0,0,0,0,0,0,0,1,1,-16,0,0.0,1,0,1,0,,0,
+HassMa00,Matt Hasselbeck,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+HassMa00,Matt Hasselbeck,QB,2001,26,SEA,NFL,QB,13,12,0,0,0,0,0,0,6,0,-16,0,0.0,0,0,0,0,,0,
+HassMa00,Matt Hasselbeck,QB,2002,27,SEA,NFL,QB,16,10,0,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,,0,
+HassMa00,Matt Hasselbeck,QB,2003,28,SEA,NFL,QB,16,16,0,0,0,0,0,0,4,0,-7,0,0.0,0,0,0,0,,0,PB
+HassMa00,Matt Hasselbeck,QB,2004,29,SEA,NFL,QB,14,14,0,0,0,0,0,0,5,2,-8,0,0.0,0,0,0,0,,0,
+HassMa00,Matt Hasselbeck,QB,2005,30,SEA,NFL,QB,16,16,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,,0,PB
+HassMa00,Matt Hasselbeck,QB,2006,31,SEA,NFL,QB,12,12,0,0,0,0,0,0,3,2,-3,0,0.0,0,0,0,0,0,0,
+HassMa00,Matt Hasselbeck,QB,2007,32,SEA,NFL,QB,16,16,0,0,0,0,0,0,9,3,-8,0,0.0,0,0,0,0,0,0,PB
+HassMa00,Matt Hasselbeck,QB,2008,33,SEA,NFL,QB,7,7,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+HassMa00,Matt Hasselbeck,QB,2009,34,SEA,NFL,QB,14,14,0,0,0,0,0,0,11,5,-17,0,0.0,0,0,0,0,0,0,
+HassMa00,Matt Hasselbeck,QB,2010,35,SEA,NFL,QB,14,14,0,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,0,0,
+HassMa00,Matt Hasselbeck,QB,2011,36,TEN,NFL,QB,16,16,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,
+HassMa00,Matt Hasselbeck,QB,2012,37,TEN,NFL,QB,8,5,0,0,0,0,0,0,3,2,-4,0,0.0,0,0,0,0,0,0,
+HassMa00,Matt Hasselbeck,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+HassMa00,Matt Hasselbeck,QB,2014,39,IND,NFL,QB,4,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+HassMa00,Matt Hasselbeck,QB,2015,40,IND,NFL,QB,8,8,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,,,0,

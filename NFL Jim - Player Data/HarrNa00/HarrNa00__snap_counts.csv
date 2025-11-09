@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HarrNa00,Najee Harris,RB,2021*,23,PIT,RB,22,17,17,980,84%,0,0%,0,0%
+HarrNa00,Najee Harris,RB,2022,24,PIT,RB,22,17,17,763,66%,0,0%,1,0%
+HarrNa00,Najee Harris,RB,2023,25,PIT,RB,22,17,17,569,53%,0,0%,4,1%
+HarrNa00,Najee Harris,RB,2024,26,PIT,RB,22,17,17,569,50%,0,0%,2,0%
+HarrNa00,Najee Harris,RB,2025,27,LAC,RB,22,3,0,43,21%,0,0%,0,0%

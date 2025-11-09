@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DaveRo00,Ron Davenport,RB,1985,23,MIA,NFL,RB,16,1,98,370,11,33,57.1,33,3.8,23.1,6.1,16,13,74,5.7,2,6,62.5,17,0.8,4.6,81.3,4.6,111,4.0,444,13,2,4,
+DaveRo00,Ron Davenport,RB,1986,24,MIA,NFL,RB,16,2,75,314,0,14,50.7,35,4.2,19.6,4.7,26,20,177,8.9,1,7,61.5,27,1.3,11.1,76.9,6.8,95,5.2,491,1,4,5,
+DaveRo00,Ron Davenport,RB,1987,25,MIA,NFL,RB,10,1,32,114,1,8,50.0,27,3.6,11.4,3.2,33,27,249,9.2,1,10,66.7,29,2.7,24.9,81.8,7.5,59,6.2,363,2,0,3,
+DaveRo00,Ron Davenport,RB,1988,26,MIA,NFL,FB,16,5,55,273,0,15,54.5,64,5.0,17.1,3.4,39,30,282,9.4,0,16,64.1,27,1.9,17.6,76.9,7.2,85,6.5,555,0,1,4,
+DaveRo00,Ron Davenport,RB,1989,27,MIA,NFL,RB,9,3,14,56,1,4,42.9,9,4.0,6.2,1.6,6,3,19,6.3,0,1,33.3,9,0.3,2.1,50.0,3.2,17,4.4,75,1,0,1,

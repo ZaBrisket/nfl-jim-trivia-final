@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GoffJa00,Jared Goff,QB,2016,22,LAR,QB,16,7,7,392,94%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2017*,23,LAR,QB,16,15,15,932,96%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2018*,24,LAR,QB,16,16,16,1064,97%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2019,25,LAR,QB,16,16,16,1096,99%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2020,26,LAR,QB,16,15,15,1046,100%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2021,27,DET,QB,16,14,14,918,99%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2022*,28,DET,QB,16,17,17,1133,99%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2023,29,DET,QB,16,17,17,1175,100%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2024*,30,DET,QB,16,17,17,1113,97%,0,0%,0,0%
+GoffJa00,Jared Goff,QB,2025,31,DET,QB,16,8,8,495,99%,0,0%,0,0%

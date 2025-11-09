@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ODonNe00,Neil O'Donnell,QB,1991,25,PIT,NFL,QB,12,8,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+ODonNe00,Neil O'Donnell,QB,1992,26,PIT,NFL,QB,12,12,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,PB
+ODonNe00,Neil O'Donnell,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ODonNe00,Neil O'Donnell,QB,1994,28,PIT,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+ODonNe00,Neil O'Donnell,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ODonNe00,Neil O'Donnell,QB,1997,31,NYJ,NFL,QB,15,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

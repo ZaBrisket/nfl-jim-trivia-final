@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+IngrMa01,Mark Ingram,RB,2012,23,NOR,RB,28,16,5,266,24%,0,0%,38,8%
+IngrMa01,Mark Ingram,RB,2013,24,NOR,RB,22,11,3,169,22%,0,0%,7,2%
+IngrMa01,Mark Ingram,RB,2014*,25,NOR,RB,22,13,9,470,51%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2015,26,NOR,RB,22,12,10,534,63%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2016,27,NOR,RB,22,16,14,532,46%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2017*,28,NOR,RB,22,16,12,569,55%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2018,29,NOR,RB,22,12,6,350,45%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2019*,30,BAL,RB,21,15,15,503,49%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2020,31,BAL,RB,21,11,9,160,23%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2021,32,2TM,RB,,14,10,400,,0,,0,
+IngrMa01,Mark Ingram,RB,,,HOU,RB,2,7,7,164,38%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,,,,,,,,236,51%,0,0%,0,0%
+IngrMa01,Mark Ingram,RB,2022,33,NOR,RB,22,10,3,205,31%,0,0%,0,0%

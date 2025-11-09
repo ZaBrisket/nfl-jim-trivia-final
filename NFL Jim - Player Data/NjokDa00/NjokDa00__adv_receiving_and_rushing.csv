@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+NjokDa00,David Njoku,TE,2018,22,CLE,NFL,TE,16,14,88,56,639,27,333,5.9,306,5.5,8.7,6,9.3,6,6.8,3,86.3,0,0,0,0,,0,,0,
+NjokDa00,David Njoku,TE,2019,23,CLE,NFL,TE,4,1,10,5,41,3,25,5.0,16,3.2,6.4,0,,2,20.0,1,54.6,0,0,0,0,,0,,0,
+NjokDa00,David Njoku,TE,2020,24,CLE,NFL,TE,13,5,29,19,213,13,126,6.6,87,4.6,7.4,2,9.5,1,3.4,0,110.3,0,0,0,0,,0,,0,
+NjokDa00,David Njoku,TE,2021,25,CLE,NFL,TE,16,11,53,36,475,17,228,6.3,247,6.9,8.2,2,18.0,2,3.8,1,113.3,1,1,0,0,0.0,1,1.0,0,
+NjokDa00,David Njoku,TE,2022,26,CLE,NFL,TE,14,14,80,58,628,36,290,5.0,338,5.8,6.5,3,19.3,3,3.8,1,106.7,2,-8,0,-8,-4.0,0,0.0,0,
+NjokDa00,David Njoku,TE,2023,27,CLE,NFL,TE,16,16,123,81,882,35,283,3.5,599,7.4,4.5,10,8.1,11,8.9,4,89.5,0,0,0,0,,0,,0,PB
+NjokDa00,David Njoku,TE,2024,28,CLE,NFL,TE,11,11,97,64,505,23,254,4.0,251,3.9,5.2,4,16.0,7,7.2,3,83.1,0,0,0,0,,0,,0,
+NjokDa00,David Njoku,TE,2025,29,CLE,NFL,TE,7,7,41,27,260,9,131,4.9,129,4.8,6.1,3,9.0,1,2.4,2,79.3,0,0,0,0,,0,,0,

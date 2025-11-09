@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+RiddDe00,Desmond Ridder,QB,2022,23,ATL,NFL,QB,4,4,16,64,4,49,3.1,15,0.9,0,,0,0,0,0,0,,0,,,0,0,,0,,
+RiddDe00,Desmond Ridder,QB,2023,24,ATL,NFL,QB,15,13,53,193,18,167,3.2,26,0.5,2,26.5,1,1,-6,0,-6,-6.0,0,0.0,-6.0,0,0,0.0,0,79.2,
+RiddDe00,Desmond Ridder,QB,2024,25,LVR,NFL,QB,6,1,9,36,2,22,2.4,14,1.6,0,,0,0,0,0,0,,0,,,0,0,,0,,

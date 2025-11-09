@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GrbaEl00,Elvis Grbac,QB,1994,24,SFO,NFL,QB,11,0,123,114,124,117,137,102,118,92,127,
+GrbaEl00,Elvis Grbac,QB,1995,25,SFO,NFL,QB,16,5,132,138,125,129,138,106,107,120,126,
+GrbaEl00,Elvis Grbac,QB,1996,26,SFO,NFL,QB,15,4,89,103,81,89,117,102,69,123,92,
+GrbaEl00,Elvis Grbac,QB,1997,27,KAN,NFL,QB,10,10,90,92,99,100,101,95,118,108,102,
+GrbaEl00,Elvis Grbac,QB,1998,28,KAN,NFL,QB,8,6,88,93,73,76,81,86,56,110,71,
+GrbaEl00,Elvis Grbac,QB,1999,29,KAN,NFL,QB,16,16,100,104,102,105,106,104,104,112,104,
+GrbaEl00,Elvis Grbac,QB,2000,30,KAN,NFL,QB,15,15,116,119,119,121,106,114,112,112,117,PB
+GrbaEl00,Elvis Grbac,QB,2001,31,BAL,NFL,QB,14,14,95,97,90,92,92,91,89,107,89,

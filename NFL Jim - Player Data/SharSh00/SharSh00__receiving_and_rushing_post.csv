@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SharSh00,Shannon Sharpe,TE,1991,23,DEN,NFL,TE,2,2,10,6,60,10.0,0,3,60.0,15,3.0,30.0,60.0,6.0,0,0,0,0,0.0,0.0,6,10.0,60,0,0,
+SharSh00,Shannon Sharpe,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SharSh00,Shannon Sharpe,TE,1993,25,DEN,NFL,TE,1,1,15,13,156,12.0,1,7,80.0,23,13.0,156.0,86.7,10.4,0,0,0,0,0.0,0.0,13,12.0,156,1,0,
+SharSh00,Shannon Sharpe,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SharSh00,Shannon Sharpe,TE,1996,28,DEN,NFL,TE,1,1,4,2,31,15.5,1,2,50.0,18,2.0,31.0,50.0,7.8,0,0,0,0,0.0,0.0,2,15.5,31,1,0,
+SharSh00,Shannon Sharpe,TE,1997,29,DEN,NFL,TE,4,4,19,12,149,12.4,0,7,63.2,23,3.0,37.3,63.2,7.8,0,0,0,0,0.0,0.0,12,12.4,149,0,0,
+SharSh00,Shannon Sharpe,TE,1998,30,DEN,NFL,TE,3,3,16,9,78,8.7,0,3,50.0,14,3.0,26.0,56.3,4.9,0,0,0,0,0.0,0.0,9,8.7,78,0,0,
+SharSh00,Shannon Sharpe,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SharSh00,Shannon Sharpe,TE,2000,32,BAL,NFL,TE,4,4,20,6,230,38.3,2,5,25.0,96,1.5,57.5,30.0,11.5,0,0,0,0,0.0,0.0,6,38.3,230,2,0,
+SharSh00,Shannon Sharpe,TE,2001,33,BAL,NFL,TE,2,2,12,9,79,8.8,0,4,66.7,27,4.5,39.5,75.0,6.6,0,0,0,0,0.0,0.0,9,8.8,79,0,0,
+SharSh00,Shannon Sharpe,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SharSh00,Shannon Sharpe,TE,2003,35,DEN,NFL,TE,1,1,5,5,31,6.2,0,0,0.0,9,5.0,31.0,100.0,6.2,0,0,0,0,0.0,0.0,5,6.2,31,0,0,

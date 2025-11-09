@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HineNy00,Nyheim Hines,RB,2019,23,IND,NFL,RB,16,2,9,281,2,84,31.2,6,123,0,25,20.5,923,
+HineNy00,Nyheim Hines,RB,2020,24,IND,NFL,RB,16,2,30,300,0,26,10.0,3,70,0,27,23.3,1232,
+HineNy00,Nyheim Hines,RB,2021,25,IND,NFL,RB,17,4,23,170,0,16,7.4,4,70,0,20,17.5,826,
+HineNy00,Nyheim Hines,RB,2022,26,2TM,NFL,RB,16,5,27,264,0,28,9.8,19,554,2,101,29.2,1103,
+HineNy00,Nyheim Hines,RB,2022,26,IND,NFL,RB,7,4,11,111,0,24,10.1,0,0,0,0,,335,
+HineNy00,Nyheim Hines,RB,2022,26,BUF,NFL,RB,9,1,16,153,0,28,9.6,19,554,2,101,29.2,768,
+HineNy00,Nyheim Hines,RB,,,,,,,,,,,,,,,,,,,
+HineNy00,Nyheim Hines,RB,2025,29,LAC,NFL,RB,3,0,0,0,0,0,,7,195,0,40,27.9,193,

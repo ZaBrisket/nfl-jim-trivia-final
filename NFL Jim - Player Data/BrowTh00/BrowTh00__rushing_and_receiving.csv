@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrowTh00,Theotis Brown,RB,1979,22,STL,NFL,RB,16,1,73,318,7,31,63.0,30,4.4,19.9,4.6,37,25,191,7.6,0,7,35.1,19,1.6,11.9,67.6,5.2,98,5.2,509,7,3,3,
+BrowTh00,Theotis Brown,RB,1980,23,STL,NFL,RB,16,0,40,186,1,9,42.5,19,4.7,11.6,2.5,34,21,290,13.8,1,10,41.2,63,1.3,18.1,61.8,8.5,61,7.8,476,2,2,4,
+BrowTh00,Theotis Brown,RB,1981,24,2TM,NFL,RB,14,10,156,583,8,35,44.2,43,3.7,41.6,11.1,42,29,328,11.3,0,13,47.6,51,2.1,23.4,69.0,7.8,185,4.9,911,8,8,7,
+BrowTh00,Theotis Brown,RB,1981,24,STL,NFL,RB,4,3,15,52,2,8,66.7,11,3.5,13.0,3.8,6,4,60,15.0,0,1,66.7,28,1.0,15.0,66.7,10.0,19,5.9,112,2,2,1,
+BrowTh00,Theotis Brown,RB,1981,24,SEA,NFL,RB,10,7,141,531,6,27,41.8,43,3.8,53.1,14.1,36,25,268,10.7,0,12,44.4,51,2.5,26.8,69.4,7.4,166,4.8,799,6,6,6,
+BrowTh00,Theotis Brown,RB,1982,25,SEA,NFL,RB,9,0,53,141,2,11,34.0,17,2.7,15.7,5.9,14,12,95,7.9,0,4,50.0,18,1.3,10.6,85.7,6.8,65,3.6,236,2,3,3,
+BrowTh00,Theotis Brown,RB,1983,26,2TM,NFL,FB,15,9,130,481,8,33,41.5,49,3.7,32.1,8.7,67,47,418,8.9,2,16,43.3,53,3.1,27.9,70.1,6.2,177,5.1,899,10,4,7,
+BrowTh00,Theotis Brown,RB,1983,26,SEA,NFL,RB,3,0,6,14,0,0,0.0,6,2.3,4.7,2.0,0,0,0,,0,0,,,0.0,0.0,,,6,2.3,14,0,1,0,
+BrowTh00,Theotis Brown,RB,1983,26,KAN,NFL,FB,12,9,124,467,8,33,43.5,49,3.8,38.9,10.3,67,47,418,8.9,2,16,43.3,53,3.9,34.8,70.1,6.2,171,5.2,885,10,3,7,
+BrowTh00,Theotis Brown,RB,1984,27,KAN,NFL,FB,14,7,97,337,4,23,46.4,25,3.5,24.1,6.9,51,38,236,6.2,0,12,45.1,17,2.7,16.9,74.5,4.6,135,4.2,573,4,2,4,

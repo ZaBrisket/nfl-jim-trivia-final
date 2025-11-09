@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DwigTi00,Tim Dwight,WR,1998,23,ATL,NFL,WR,12,0,0,0,0,0,,0,3,0,0,0,0.0,0,0,0,,,0,
+DwigTi00,Tim Dwight,WR,1999,24,ATL,NFL,WR,12,8,0,0,0,0,0,0,2,0,0,0,0.0,,,,,,0,
+DwigTi00,Tim Dwight,WR,2000,25,ATL,NFL,WR,14,1,0,0,0,0,0,0,3,1,0,0,0.0,1,0,1,0,,0,
+DwigTi00,Tim Dwight,WR,2001,26,SDG,NFL,WR,10,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,,0,
+DwigTi00,Tim Dwight,WR,2002,27,SDG,NFL,WR,16,14,0,0,0,0,0,0,1,0,-16,0,0.0,0,0,0,0,,0,
+DwigTi00,Tim Dwight,WR,2003,28,SDG,NFL,WR,9,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,,0,
+DwigTi00,Tim Dwight,WR,2004,29,SDG,NFL,WR,12,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,,0,
+DwigTi00,Tim Dwight,WR,2005,30,NWE,NFL,WR,16,1,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,,0,
+DwigTi00,Tim Dwight,WR,2006,31,NYJ,NFL,WR,9,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+DwigTi00,Tim Dwight,WR,2007,32,OAK,NFL,WR,6,1,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,

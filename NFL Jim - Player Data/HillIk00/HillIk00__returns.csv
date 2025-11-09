@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HillIk00,Ike Hilliard,WR,2004,28,NYG,NFL,WR,16,15,4,26,0,15,6.5,0,0,0,0,,497,
+HillIk00,Ike Hilliard,WR,,,,,,,,,,,,,,,,,,,
+HillIk00,Ike Hilliard,WR,2006,30,TAM,NFL,WR,16,0,24,163,0,16,6.8,0,0,0,0,,502,
+HillIk00,Ike Hilliard,WR,2007,31,TAM,NFL,WR,15,10,15,92,0,20,6.1,1,3,0,3,3.0,823,
+HillIk00,Ike Hilliard,WR,2008,32,TAM,NFL,WR,16,2,3,19,0,11,6.3,0,0,0,0,,443,

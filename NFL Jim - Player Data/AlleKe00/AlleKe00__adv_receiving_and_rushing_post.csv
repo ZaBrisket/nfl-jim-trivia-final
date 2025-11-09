@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+AlleKe00,Keenan Allen,WR,2018,26,LAC,NFL,WR,2,1,12,6,112,4,91,15.2,21,3.5,14.8,0,1,8.3,1,75.7,0,0,0,0,0,0,
+AlleKe00,Keenan Allen,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AlleKe00,Keenan Allen,WR,2022,30,LAC,NFL,WR,1,1,13,6,61,4,27,4.5,34,5.7,4.8,0,0,0.0,0,60.1,0,0,0,0,0,0,

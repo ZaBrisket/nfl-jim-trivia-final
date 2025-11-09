@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+CookJa02,Jared Cook,TE,2018,31,OAK,NFL,TE,16,14,101,68,896,46,553,8.1,343,5.0,8.3,4,17.0,9,8.9,4,98.5,0,0,0,0,0,0,PB
+CookJa02,Jared Cook,TE,2019,32,NOR,NFL,TE,14,7,65,43,705,32,451,10.5,254,5.9,10.3,3,14.3,4,6.2,1,135.6,0,0,0,0,0,0,PB
+CookJa02,Jared Cook,TE,2020,33,NOR,NFL,TE,15,5,60,37,504,27,380,10.3,124,3.4,11.5,2,18.5,2,3.3,1,120.4,0,0,0,0,0,0,
+CookJa02,Jared Cook,TE,2021,34,LAC,NFL,TE,16,10,83,48,564,31,326,6.8,238,5.0,8.3,0,,6,7.2,4,74.6,0,0,0,0,0,0,

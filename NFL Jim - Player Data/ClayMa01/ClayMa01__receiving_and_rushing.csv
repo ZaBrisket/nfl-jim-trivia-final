@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClayMa01,Mark Clayton,WR,2005,23,BAL,NFL,WR,14,10,86,44,471,10.7,2,22,39.5,47,3.1,33.6,51.2,5.5,8,33,1,2,62.5,11,4.1,2.4,0.6,52,9.7,504,3,0,3,
+ClayMa01,Mark Clayton,WR,2006,24,BAL,NFL,WR,16,12,113,67,939,14.0,5,42,45.1,87,4.2,58.7,59.3,8.3,7,-30,0,0,0.0,3,-4.3,-1.9,0.4,74,12.3,909,5,0,8,
+ClayMa01,Mark Clayton,WR,2007,25,BAL,NFL,WR,16,12,89,48,531,11.1,0,28,43.8,52,3.0,33.2,53.9,6.0,0,0,0,0,,,,0.0,0.0,48,11.1,531,0,0,4,
+ClayMa01,Mark Clayton,WR,2008,26,BAL,NFL,WR,16,13,82,41,695,17.0,3,23,39.0,70,2.6,43.4,50.0,8.5,6,81,1,3,66.7,42,13.5,5.1,0.4,47,16.5,776,4,0,8,
+ClayMa01,Mark Clayton,WR,2009,27,BAL,NFL,WR,14,12,74,34,480,14.1,2,24,37.8,54,2.4,34.3,45.9,6.5,4,28,0,1,50.0,12,7.0,2.0,0.3,38,13.4,508,2,1,5,
+ClayMa01,Mark Clayton,WR,2010,28,STL,NFL,WR,5,5,42,23,306,13.3,2,15,47.6,39,4.6,61.2,54.8,7.3,1,6,0,0,100.0,6,6.0,1.2,0.2,24,13.0,312,2,0,3,
+ClayMa01,Mark Clayton,WR,2011,29,STL,NFL,WR,2,1,4,3,26,8.7,0,1,50.0,12,1.5,13.0,75.0,6.5,0,0,0,0,,,,0.0,0.0,3,8.7,26,0,0,0,

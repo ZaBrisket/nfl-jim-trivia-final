@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KearJe01,Jermaine Kearse,WR,2012,22,SEA,WR,11,7,1,77,17%,0,0%,92,47%
+KearJe01,Jermaine Kearse,WR,2013,23,SEA,WR,15,15,5,470,50%,0,0%,152,36%
+KearJe01,Jermaine Kearse,WR,2014,24,SEA,WR,15,15,14,791,79%,0,0%,109,27%
+KearJe01,Jermaine Kearse,WR,2015,25,SEA,WR,15,16,16,770,71%,0,0%,46,10%
+KearJe01,Jermaine Kearse,WR,2016,26,SEA,WR,15,16,15,829,78%,0,0%,19,4%
+KearJe01,Jermaine Kearse,WR,2017,27,NYJ,WR,10,16,14,879,85%,0,0%,4,1%
+KearJe01,Jermaine Kearse,WR,2018,28,NYJ,WR,10,14,9,626,71%,0,0%,2,1%

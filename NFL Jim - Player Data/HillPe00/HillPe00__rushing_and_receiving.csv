@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HillPe00,Peyton Hillis,RB,2008,22,DEN,NFL,RB,12,6,68,343,5,25,63.2,19,5.0,28.6,5.7,19,14,179,12.8,1,9,68.4,47,1.2,14.9,73.7,9.4,82,6.4,522,6,0,4,
+HillPe00,Peyton Hillis,RB,2009,23,DEN,NFL,RB,14,2,13,54,1,4,53.8,13,4.2,3.9,0.9,6,4,19,4.8,0,0,33.3,6,0.3,1.4,66.7,3.2,17,4.3,73,1,1,0,
+HillPe00,Peyton Hillis,RB,2010,24,CLE,NFL,RB,16,14,270,1177,11,58,51.5,48,4.4,73.6,16.9,77,61,477,7.8,2,25,42.9,47,3.8,29.8,79.2,6.2,331,5.0,1654,13,8,10,
+HillPe00,Peyton Hillis,RB,2011,25,CLE,NFL,RB,10,9,161,587,3,33,55.9,24,3.6,58.7,16.1,34,22,130,5.9,0,5,26.5,52,2.2,13.0,64.7,3.8,183,3.9,717,3,2,3,
+HillPe00,Peyton Hillis,RB,2012,26,KAN,NFL,RB,13,2,85,309,1,19,41.2,18,3.6,23.8,6.5,14,10,62,6.2,0,2,21.4,15,0.8,4.8,71.4,4.4,95,3.9,371,1,2,2,
+HillPe00,Peyton Hillis,RB,2013,27,NYG,NFL,RB,7,1,73,247,2,13,45.2,27,3.4,35.3,10.4,21,13,96,7.4,0,5,47.6,16,1.9,13.7,61.9,4.6,86,4.0,343,2,2,2,
+HillPe00,Peyton Hillis,RB,2014,28,NYG,NFL,RB,9,0,26,115,0,4,38.5,16,4.4,12.8,2.9,16,10,87,8.7,0,2,37.5,26,1.1,9.7,62.5,5.4,36,5.6,202,0,0,1,

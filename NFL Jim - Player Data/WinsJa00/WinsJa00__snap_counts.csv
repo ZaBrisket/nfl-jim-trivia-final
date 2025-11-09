@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WinsJa00,Jameis Winston,QB,2015*,21,TAM,QB,3,16,16,1090,100%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2016,22,TAM,QB,3,16,16,1119,99%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2017,23,TAM,QB,3,13,13,790,90%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2018,24,TAM,QB,3,11,9,688,88%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2019,25,TAM,QB,3,16,16,1128,99%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2020,26,NOR,QB,2,4,0,54,21%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2021,27,NOR,QB,2,7,7,371,84%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2022,28,NOR,QB,2,3,3,196,99%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2023,29,NOR,QB,2,7,0,76,17%,0,0%,0,0%
+WinsJa00,Jameis Winston,QB,2024,30,CLE,QB,5,12,7,504,60%,0,0%,0,0%

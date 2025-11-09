@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+GrieBr00,Brian Griese,QB,1998,23,DEN,NFL,QB,1,0,,1,3,33.3,2,0,0.0,1,33.3,0,,2,0.7,-14.33,2.0,2.0,2.8,,0,0,0.00,0.67,-14.33,0,0,0,
+GrieBr00,Brian Griese,QB,1999,24,DEN,NFL,QB,14,13,4-9-0,261,452,57.7,3032,14,3.1,14,3.1,139,42.2,88,6.7,5.93,11.6,216.6,75.6,,27,176,5.64,5.96,5.23,1,2,10,
+GrieBr00,Brian Griese,QB,2000,25,DEN,NFL,QB,10,10,7-3-0,216,336,64.3,2688,19,5.7,4,1.2,138,51.3,61,8.0,8.60,12.4,268.8,102.9,,17,139,4.82,7.22,7.79,0,1,12,PB
+GrieBr00,Brian Griese,QB,2001,26,DEN,NFL,QB,15,15,8-7-0,275,451,61.0,2827,23,5.1,19,4.2,150,44.4,65,6.3,5.39,10.3,188.5,78.5,,38,241,7.77,5.29,4.48,1,1,11,
+GrieBr00,Brian Griese,QB,2002,27,DEN,NFL,QB,13,13,8-5-0,291,436,66.7,3214,15,3.4,15,3.4,157,51.9,82,7.4,6.51,11.0,247.2,85.6,,34,237,7.23,6.33,5.54,1,1,11,
+GrieBr00,Brian Griese,QB,2003,28,MIA,NFL,QB,5,5,3-2-0,74,130,56.9,813,5,3.8,6,4.6,37,40.8,80,6.3,4.95,11.0,162.6,69.2,,12,83,8.45,5.14,3.94,0,1,3,
+GrieBr00,Brian Griese,QB,2004,29,TAM,NFL,QB,11,10,4-6-0,233,336,69.3,2632,20,6.0,12,3.6,126,52.2,68,7.8,7.42,11.3,239.3,97.5,,26,169,7.18,6.80,6.42,1,1,7,AP CPoY-7
+GrieBr00,Brian Griese,QB,2005,30,TAM,NFL,QB,6,6,5-1-0,112,174,64.4,1136,7,4.0,7,4.0,54,41.9,80,6.5,5.52,10.1,189.3,79.6,,12,76,6.45,5.70,4.76,0,0,3,
+GrieBr00,Brian Griese,QB,2006,31,CHI,NFL,QB,6,0,,18,32,56.3,220,1,3.1,2,6.3,11,34.3,75,6.9,4.69,12.2,36.7,62.0,14.0,3,22,8.57,5.66,3.66,1,1,1,
+GrieBr00,Brian Griese,QB,2007,32,CHI,NFL,QB,7,6,3-3-0,161,262,61.5,1803,10,3.8,12,4.6,84,44.0,81,6.9,5.58,11.2,257.6,75.6,45.2,15,114,5.42,6.10,4.87,2,2,4,
+GrieBr00,Brian Griese,QB,2008,33,TAM,NFL,QB,5,5,3-2-0,110,184,59.8,1073,5,2.7,7,3.8,59,43.0,38,5.8,4.66,9.8,214.6,69.4,47.7,9,69,4.66,5.20,4.09,2,2,0,

@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FranRu00,Russ Francis,TE,1975,22,NWE,NFL,TE,14,11,,35,636,18.2,4,,,48,2.5,45.4,,,0,0,0,,,,0.0,0.0,35,18.2,636,4,1,6,
+FranRu00,Russ Francis,TE,1976,23,NWE,NFL,TE,13,12,,26,367,14.1,3,,,48,2.0,28.2,,,2,12,0,,8,6.0,0.9,0.2,28,13.5,379,3,1,6,"PB,AP-2"
+FranRu00,Russ Francis,TE,1977,24,NWE,NFL,TE,10,10,,16,229,14.3,4,,,31,1.6,22.9,,,0,0,0,,,,0.0,0.0,16,14.3,229,4,0,4,PB
+FranRu00,Russ Francis,TE,1978,25,NWE,NFL,TE,15,15,78,39,543,13.9,4,25,42.3,53,2.6,36.2,50.0,7.0,0,0,0,0,,,0.0,0.0,39,13.9,543,4,1,6,"PB,AP-2"
+FranRu00,Russ Francis,TE,1979,26,NWE,NFL,TE,12,12,83,39,557,14.3,5,29,42.2,44,3.3,46.4,47.0,6.7,0,0,0,0,,,0.0,0.0,39,14.3,557,5,0,6,
+FranRu00,Russ Francis,TE,1980,27,NWE,NFL,TE,15,15,68,41,664,16.2,8,32,54.4,39,2.7,44.3,60.3,9.8,0,0,0,0,,,0.0,0.0,41,16.2,664,8,0,8,
+FranRu00,Russ Francis,TE,1981,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FranRu00,Russ Francis,TE,1982,29,SFO,NFL,TE,9,4,28,23,278,12.1,2,14,71.4,26,2.6,30.9,82.1,9.9,0,0,0,0,,,0.0,0.0,23,12.1,278,2,2,5,
+FranRu00,Russ Francis,TE,1983,30,SFO,NFL,TE,16,16,52,33,357,10.8,4,22,53.8,25,2.1,22.3,63.5,6.9,0,0,0,0,,,0.0,0.0,33,10.8,357,4,2,4,
+FranRu00,Russ Francis,TE,1984,31,SFO,NFL,TE,10,8,38,23,285,12.4,2,17,55.3,32,2.3,28.5,60.5,7.5,0,0,0,0,,,0.0,0.0,23,12.4,285,2,1,3,
+FranRu00,Russ Francis,TE,1985,32,SFO,NFL,TE,16,16,56,44,478,10.9,3,26,69.6,25,2.8,29.9,78.6,8.5,0,0,0,0,,,0.0,0.0,44,10.9,478,3,2,4,
+FranRu00,Russ Francis,TE,1986,33,SFO,NFL,TE,16,14,60,41,505,12.3,1,26,63.3,52,2.6,31.6,68.3,8.4,0,0,0,0,,,0.0,0.0,41,12.3,505,1,0,4,
+FranRu00,Russ Francis,TE,1987,34,2TM,NFL,TE,9,7,28,22,202,9.2,0,8,57.1,19,2.4,22.4,78.6,7.2,0,0,0,0,,,0.0,0.0,22,9.2,202,0,0,3,
+FranRu00,Russ Francis,TE,1987,34,SFO,NFL,TE,8,7,28,22,202,9.2,0,8,57.1,19,2.8,25.3,78.6,7.2,0,0,0,0,,,0.0,0.0,22,9.2,202,0,0,3,
+FranRu00,Russ Francis,TE,1987,34,NWE,NFL,TE,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,0.0,0.0,0,,0,0,0,0,
+FranRu00,Russ Francis,TE,1988,35,NWE,NFL,TE,12,8,18,11,161,14.6,0,4,61.1,51,0.9,13.4,61.1,8.9,0,0,0,0,,,0.0,0.0,11,14.6,161,0,0,1,

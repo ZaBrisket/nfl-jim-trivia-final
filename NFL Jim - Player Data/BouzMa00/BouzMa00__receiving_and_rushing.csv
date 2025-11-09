@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BouzMa00,Matt Bouza,WR,1981,22,SFO,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+BouzMa00,Matt Bouza,WR,1982,23,BAL,NFL,WR,9,9,46,22,287,13.0,2,18,43.5,34,2.4,31.9,47.8,6.2,0,0,0,0,,,,0.0,0.0,22,13.0,287,2,1,3,
+BouzMa00,Matt Bouza,WR,1983,24,BAL,NFL,WR,11,11,48,25,385,15.4,0,19,47.9,26,2.3,35.0,52.1,8.0,0,0,0,0,,,,0.0,0.0,25,15.4,385,0,1,3,
+BouzMa00,Matt Bouza,WR,1984,25,IND,NFL,WR,16,4,50,22,270,12.3,0,13,38.0,22,1.4,16.9,44.0,5.4,0,0,0,0,,,,0.0,0.0,22,12.3,270,0,1,2,
+BouzMa00,Matt Bouza,WR,1985,26,IND,NFL,WR,12,5,44,27,381,14.1,2,23,59.1,40,2.3,31.8,61.4,8.7,0,0,0,0,,,,0.0,0.0,27,14.1,381,2,0,4,
+BouzMa00,Matt Bouza,WR,1986,27,IND,NFL,WR,16,14,139,71,830,11.7,5,45,41.7,33,4.4,51.9,51.1,6.0,1,12,0,1,100.0,12,12.0,0.8,0.1,72,11.7,842,5,0,5,
+BouzMa00,Matt Bouza,WR,1987,28,IND,NFL,WR,12,12,66,42,569,13.5,4,25,57.6,44,3.5,47.4,63.6,8.6,0,0,0,0,,,,0.0,0.0,42,13.5,569,4,2,6,
+BouzMa00,Matt Bouza,WR,1988,29,IND,NFL,WR,15,5,54,25,342,13.7,4,17,42.6,28,1.7,22.8,46.3,6.3,0,0,0,0,,,,0.0,0.0,25,13.7,342,4,0,4,
+BouzMa00,Matt Bouza,WR,1989,30,IND,NFL,WR,2,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HassMa00,Matt Hasselbeck,QB,2001,26,SEA,NFL,QB,13,12,92,83,93,87,86,77,112,76,88,
+HassMa00,Matt Hasselbeck,QB,2002,27,SEA,NFL,QB,16,10,114,116,115,115,116,95,114,104,113,
+HassMa00,Matt Hasselbeck,QB,2003,28,SEA,NFL,QB,16,16,113,109,113,110,105,112,104,93,111,PB
+HassMa00,Matt Hasselbeck,QB,2004,29,SEA,NFL,QB,14,14,105,107,105,107,98,107,100,104,103,
+HassMa00,Matt Hasselbeck,QB,2005,30,SEA,NFL,QB,16,16,114,116,119,120,119,115,119,110,122,PB
+HassMa00,Matt Hasselbeck,QB,2006,31,SEA,NFL,QB,12,12,95,91,94,91,88,110,85,88,93,
+HassMa00,Matt Hasselbeck,QB,2007,32,SEA,NFL,QB,16,16,104,105,110,110,107,111,114,104,113,PB
+HassMa00,Matt Hasselbeck,QB,2008,33,SEA,NFL,QB,7,7,79,78,73,73,70,81,74,84,70,
+HassMa00,Matt Hasselbeck,QB,2009,34,SEA,NFL,QB,14,14,86,87,86,87,97,92,92,99,90,
+HassMa00,Matt Hasselbeck,QB,2010,35,SEA,NFL,QB,14,14,95,96,89,90,98,82,88,100,88,
+HassMa00,Matt Hasselbeck,QB,2011,36,TEN,NFL,QB,16,16,96,102,96,100,103,91,102,122,97,
+HassMa00,Matt Hasselbeck,QB,2012,37,TEN,NFL,QB,8,5,81,83,88,89,106,87,108,104,95,
+HassMa00,Matt Hasselbeck,QB,,,,,,,,,,,,,,,,,
+HassMa00,Matt Hasselbeck,QB,2015,40,IND,NFL,QB,8,8,85,88,91,92,92,89,108,101,92,

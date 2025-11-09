@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McFaDa00,Darren McFadden,RB,2008,21,OAK,NFL,RB,13,5,113,499,4,25,37.2,50,4.4,38.4,8.7,39,29,285,9.8,0,13,51.3,27,2.2,21.9,74.4,7.3,142,5.5,784,4,3,5,
+McFaDa00,Darren McFadden,RB,2009,22,OAK,NFL,RB,12,7,104,357,1,13,36.5,28,3.4,29.8,8.7,36,21,245,11.7,0,10,50.0,48,1.8,20.4,58.3,6.8,125,4.8,602,1,5,3,
+McFaDa00,Darren McFadden,RB,2010,23,OAK,NFL,RB,13,13,223,1157,7,46,41.7,57,5.2,89.0,17.2,61,47,507,10.8,3,22,47.5,67,3.6,39.0,77.0,8.3,270,6.2,1664,10,4,13,
+McFaDa00,Darren McFadden,RB,2011,24,OAK,NFL,RB,7,7,113,614,4,24,42.5,70,5.4,87.7,16.1,23,19,154,8.1,1,7,47.8,26,2.7,22.0,82.6,6.7,132,5.8,768,5,1,5,
+McFaDa00,Darren McFadden,RB,2012,25,OAK,NFL,RB,12,12,216,707,2,35,35.2,64,3.3,58.9,18.0,63,42,258,6.1,1,12,33.3,20,3.5,21.5,66.7,4.1,258,3.7,965,3,2,4,
+McFaDa00,Darren McFadden,RB,2013,26,OAK,NFL,RB,10,7,114,379,5,17,30.7,30,3.3,37.9,11.4,25,17,108,6.4,0,4,36.0,16,1.7,10.8,68.0,4.3,131,3.7,487,5,1,3,
+McFaDa00,Darren McFadden,RB,2014,27,OAK,NFL,RB,16,12,155,534,2,21,40.6,25,3.4,33.4,9.7,56,36,212,5.9,0,8,33.9,23,2.3,13.3,64.3,3.8,191,3.9,746,2,1,4,
+McFaDa00,Darren McFadden,RB,2015,28,DAL,NFL,RB,16,10,239,1089,3,53,50.2,50,4.6,68.1,14.9,53,40,328,8.2,0,12,41.5,21,2.5,20.5,75.5,6.2,279,5.1,1417,3,3,7,
+McFaDa00,Darren McFadden,RB,2016,29,DAL,NFL,RB,3,1,24,87,0,5,45.8,24,3.6,29.0,8.0,5,3,17,5.7,0,1,40.0,11,1.0,5.7,60.0,3.4,27,3.9,104,0,0,1,
+McFaDa00,Darren McFadden,RB,2017,30,DAL,NFL,RB,1,0,1,-2,0,0,0.0,-2,-2.0,-2.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,-2.0,-2,0,0,0,

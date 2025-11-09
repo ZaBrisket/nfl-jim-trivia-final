@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillDo00,Dokie Williams,WR,1983,23,RAI,NFL,WR,16,0,26,14,259,18.5,3,10,53.8,50,0.9,16.2,53.8,10.0,0,0,0,0,,,,0.0,0.0,14,18.5,259,3,2,2,
+WillDo00,Dokie Williams,WR,1984,24,RAI,NFL,WR,16,2,47,22,509,23.1,4,18,44.7,75,1.4,31.8,46.8,10.8,0,0,0,0,,,,0.0,0.0,22,23.1,509,4,0,4,
+WillDo00,Dokie Williams,WR,1985,25,RAI,NFL,WR,16,16,123,48,925,19.3,5,43,36.6,55,3.0,57.8,39.0,7.5,0,0,0,0,,,,0.0,0.0,48,19.3,925,5,0,9,
+WillDo00,Dokie Williams,WR,1986,26,RAI,NFL,WR,15,15,88,43,843,19.6,8,40,47.7,53,2.9,56.2,48.9,9.6,3,27,0,1,66.7,19,9.0,1.8,0.2,46,18.9,870,8,2,7,
+WillDo00,Dokie Williams,WR,1987,27,RAI,NFL,WR,11,5,39,21,330,15.7,5,17,51.3,33,1.9,30.0,53.8,8.5,0,0,0,0,,,,0.0,0.0,21,15.7,330,5,0,3,

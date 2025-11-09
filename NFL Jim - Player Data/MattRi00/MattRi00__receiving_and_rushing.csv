@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MattRi00,Rishard Matthews,WR,2012,23,MIA,NFL,WR,8,1,20,11,151,13.7,0,7,50.0,30,1.4,18.9,55.0,7.6,0,0,0,0,,,,0.0,0.0,11,13.7,151,0,0,1,
+MattRi00,Rishard Matthews,WR,2013,24,MIA,NFL,TE,16,5,67,41,448,10.9,2,26,53.7,29,2.6,28.0,61.2,6.7,0,0,0,0,,,,0.0,0.0,41,10.9,448,2,0,3,
+MattRi00,Rishard Matthews,WR,2014,25,MIA,NFL,WR,14,0,22,12,135,11.3,2,9,45.5,23,0.9,9.6,54.5,6.1,1,3,0,0,0.0,3,3.0,0.2,0.1,13,10.6,138,2,1,1,
+MattRi00,Rishard Matthews,WR,2015,26,MIA,NFL,WR,11,11,61,43,662,15.4,4,32,67.2,53,3.9,60.2,70.5,10.9,1,4,0,0,0.0,4,4.0,0.4,0.1,44,15.1,666,4,0,4,
+MattRi00,Rishard Matthews,WR,2016,27,TEN,NFL,WR,16,9,108,65,945,14.5,9,43,55.6,60,4.1,59.1,60.2,8.8,0,0,0,0,,,,0.0,0.0,65,14.5,945,9,1,8,
+MattRi00,Rishard Matthews,WR,2017,28,TEN,NFL,WR,14,11,87,53,795,15.0,4,36,54.0,75,3.8,56.8,60.9,9.1,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,54,14.7,792,4,0,7,
+MattRi00,Rishard Matthews,WR,2018,29,2TM,NFL,WR,8,0,9,5,24,4.8,0,1,22.2,7,0.6,3.0,55.6,2.7,0,0,0,0,,,,0.0,0.0,5,4.8,24,0,0,0,
+MattRi00,Rishard Matthews,WR,2018,29,TEN,NFL,WR,3,0,6,3,11,3.7,0,0,0.0,4,1.0,3.7,50.0,1.8,0,0,0,0,,,,0.0,0.0,3,3.7,11,0,0,0,
+MattRi00,Rishard Matthews,WR,2018,29,NYJ,NFL,WR,5,0,3,2,13,6.5,0,1,66.7,7,0.4,2.6,66.7,4.3,0,0,0,0,,,,0.0,0.0,2,6.5,13,0,0,0,

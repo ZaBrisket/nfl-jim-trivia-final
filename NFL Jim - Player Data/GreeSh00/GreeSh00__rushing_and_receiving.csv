@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GreeSh00,Shonn Greene,RB,2009,24,NYJ,NFL,RB,14,0,108,540,2,24,45.4,33,5.0,38.6,7.7,5,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,108,5.0,540,2,3,3,
+GreeSh00,Shonn Greene,RB,2010,25,NYJ,NFL,RB,15,2,185,766,2,41,53.0,23,4.1,51.1,12.3,24,16,120,7.5,0,9,58.3,15,1.1,8.0,66.7,5.0,201,4.4,886,2,3,5,
+GreeSh00,Shonn Greene,RB,2011,26,NYJ,NFL,RB,16,15,253,1054,6,46,47.4,31,4.2,65.9,15.8,41,30,211,7.0,0,7,53.7,36,1.9,13.2,73.2,5.1,283,4.5,1265,6,1,7,
+GreeSh00,Shonn Greene,RB,2012,27,NYJ,NFL,RB,16,14,276,1063,8,52,51.1,36,3.9,66.4,17.3,30,19,151,7.9,0,3,40.0,30,1.2,9.4,63.3,5.0,295,4.1,1214,8,4,6,
+GreeSh00,Shonn Greene,RB,2013,28,TEN,NFL,RB,11,0,77,295,4,20,58.4,29,3.8,26.8,7.0,8,6,39,6.5,0,1,12.5,28,0.5,3.5,75.0,4.9,83,4.0,334,4,0,2,
+GreeSh00,Shonn Greene,RB,2014,29,TEN,NFL,RB,13,5,94,392,2,18,45.7,52,4.2,30.2,7.2,3,1,13,13.0,0,1,33.3,13,0.1,1.0,33.3,4.3,95,4.3,405,2,1,2,

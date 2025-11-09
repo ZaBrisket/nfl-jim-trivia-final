@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MayeRu00,Rueben Mayes,RB,1986,23,NOR,NFL,RB,16,12,8,0,0,0,0,0,0,8,0,0,0,0,0,48,3.0,"PB,AP ORoY-1"
+MayeRu00,Rueben Mayes,RB,1987,24,NOR,NFL,RB,12,12,5,0,0,0,0,0,0,5,0,0,0,0,0,30,2.5,PB
+MayeRu00,Rueben Mayes,RB,1988,25,NOR,NFL,RB,16,9,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+MayeRu00,Rueben Mayes,RB,1989,,Did not play - Injured (Achilles/calf),,,,,,,,,,,,,,,,,,,,
+MayeRu00,Rueben Mayes,RB,1990,27,NOR,NFL,RB,15,8,7,0,0,0,0,0,0,7,0,0,0,0,0,42,2.8,
+MayeRu00,Rueben Mayes,RB,1991,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,

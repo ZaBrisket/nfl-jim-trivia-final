@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+OkoyCh00,Christian Okoye,RB,1987,26,KAN,NFL,FB,12,12,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.5,
+OkoyCh00,Christian Okoye,RB,1988,27,KAN,NFL,FB,9,9,3,0,0,0,0,0,0,3,0,0,0,0,0,18,2.0,
+OkoyCh00,Christian Okoye,RB,1989,28,KAN,NFL,FB,15,14,12,0,0,0,0,0,0,12,0,0,0,0,0,72,4.8,"PB,AP-1,AP OPoY-4"
+OkoyCh00,Christian Okoye,RB,1990,29,KAN,NFL,FB,14,13,7,0,0,0,0,0,0,7,0,0,0,0,0,42,3.0,
+OkoyCh00,Christian Okoye,RB,1991,30,KAN,NFL,FB,14,12,9,0,0,0,0,0,0,9,0,0,0,0,0,54,3.9,PB
+OkoyCh00,Christian Okoye,RB,1992,31,KAN,NFL,FB,15,5,6,0,0,0,0,0,0,6,0,0,0,0,0,36,2.4,

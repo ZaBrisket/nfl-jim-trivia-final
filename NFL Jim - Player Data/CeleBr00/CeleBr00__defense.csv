@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+CeleBr00,Brent Celek,TE,2007,22,PHI,NFL,TE,16,4,0,0,0,0,0,0,0,1,0,0,0.0,4,3,1,0,0,0,
+CeleBr00,Brent Celek,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+CeleBr00,Brent Celek,TE,2010,25,PHI,NFL,TE,16,15,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,,,0,
+CeleBr00,Brent Celek,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+CeleBr00,Brent Celek,TE,2012,27,PHI,NFL,TE,15,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+CeleBr00,Brent Celek,TE,2013,28,PHI,NFL,TE,16,15,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+CeleBr00,Brent Celek,TE,2014,29,PHI,NFL,TE,16,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+CeleBr00,Brent Celek,TE,2015,30,PHI,NFL,TE,16,13,0,0,0,0,0,0,1,2,0,0,0.0,1,1,0,0,0,0,
+CeleBr00,Brent Celek,TE,2016,31,PHI,NFL,TE,16,8,0,0,0,0,0,0,1,1,0,0,0.0,1,1,0,0,0,0,

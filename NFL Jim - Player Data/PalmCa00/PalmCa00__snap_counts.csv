@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PalmCa00,Carson Palmer,QB,2012,33,OAK,QB,3,15,15,953,94%,0,0%,0,0%
+PalmCa00,Carson Palmer,QB,2013,34,ARI,QB,3,16,16,1081,100%,0,0%,0,0%
+PalmCa00,Carson Palmer,QB,2014,35,ARI,QB,3,6,6,409,98%,0,0%,0,0%
+PalmCa00,Carson Palmer,QB,2015*,36,ARI,QB,3,16,16,1039,94%,0,0%,0,0%
+PalmCa00,Carson Palmer,QB,2016,37,ARI,QB,3,15,15,1045,97%,0,0%,0,0%
+PalmCa00,Carson Palmer,QB,2017,38,ARI,QB,3,7,7,459,95%,0,0%,0,0%

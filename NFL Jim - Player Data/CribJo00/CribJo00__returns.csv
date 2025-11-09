@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CribJo00,Joe Cribbs,RB,1980,22,BUF,NFL,RB,16,16,29,154,0,16,5.3,2,39,0,20,19.5,1786,"PB,AP ORoY-2"
+CribJo00,Joe Cribbs,RB,,,,,,,,,,,,,,,,,,,
+CribJo00,Joe Cribbs,RB,1987,29,SFO,NFL,RB,11,3,0,0,0,0,,13,327,1,92,25.2,697,
+CribJo00,Joe Cribbs,RB,1988,30,2TM,NFL,RB,13,0,0,0,0,0,,41,863,0,44,21.0,884,
+CribJo00,Joe Cribbs,RB,1988,30,MIA,NFL,RB,12,0,0,0,0,0,,41,863,0,44,21.0,884,

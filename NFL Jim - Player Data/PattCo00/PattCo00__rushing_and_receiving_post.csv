@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PattCo00,Cordarrelle Patterson,WR,2015,24,MIN,NFL,WR,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2018,27,NWE,NFL,WR,3,0,3,10,0,0,33.3,6,3.3,3.3,1.0,7,4,32,8.0,0,1,28.6,15,1.3,10.7,57.1,4.6,7,6.0,42,0,0,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2020,29,CHI,NFL,WR,1,0,1,2,0,0,0.0,2,2.0,2.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,2.0,2,0,0,
+PattCo00,Cordarrelle Patterson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PattCo00,Cordarrelle Patterson,WR,2024,33,PIT,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,

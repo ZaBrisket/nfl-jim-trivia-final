@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MurrAd00,Adrian Murrell,RB,1993,23,NYJ,NFL,RB,16,0,34,157,1,6,38.2,37,4.6,9.8,2.1,7,5,12,2.4,0,0,14.3,8,0.3,0.8,71.4,1.7,39,4.3,169,1,4,1,
+MurrAd00,Adrian Murrell,RB,1994,24,NYJ,NFL,RB,10,1,33,160,0,8,51.5,19,4.8,16.0,3.3,9,7,76,10.9,0,4,66.7,20,0.7,7.6,77.8,8.4,40,5.9,236,0,1,2,
+MurrAd00,Adrian Murrell,RB,1995,25,NYJ,NFL,RB,15,9,192,795,1,44,49.5,30,4.1,53.0,12.8,100,71,465,6.5,2,18,33.0,43,4.7,31.0,71.0,4.7,263,4.8,1260,3,2,7,
+MurrAd00,Adrian Murrell,RB,1996,26,NYJ,NFL,RB,16,16,301,1249,6,65,45.2,78,4.1,78.1,18.8,34,17,81,4.8,1,3,23.5,30,1.1,5.1,50.0,2.4,318,4.2,1330,7,6,8,
+MurrAd00,Adrian Murrell,RB,1997,27,NYJ,NFL,RB,16,15,300,1086,7,61,41.0,43,3.6,67.9,18.8,42,27,106,3.9,0,4,26.2,23,1.7,6.6,64.3,2.5,327,3.6,1192,7,4,8,
+MurrAd00,Adrian Murrell,RB,1998,28,ARI,NFL,RB,15,14,274,1042,8,43,39.1,32,3.8,69.5,18.3,27,18,169,9.4,2,7,44.4,30,1.2,11.3,66.7,6.3,292,4.1,1211,10,6,8,
+MurrAd00,Adrian Murrell,RB,1999,29,ARI,NFL,RB,16,12,193,553,0,27,32.1,22,2.9,34.6,12.1,71,49,335,6.8,0,13,40.8,23,3.1,20.9,69.0,4.7,242,3.7,888,0,4,6,
+MurrAd00,Adrian Murrell,RB,2000,30,WAS,NFL,RB,15,0,20,50,0,2,20.0,13,2.5,3.3,1.3,22,16,93,5.8,0,1,27.3,12,1.1,6.2,72.7,4.2,36,4.0,143,0,1,1,
+MurrAd00,Adrian Murrell,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MurrAd00,Adrian Murrell,RB,2003,33,DAL,NFL,RB,3,0,28,107,0,6,46.4,17,3.8,35.7,9.3,4,4,32,8.0,0,2,75.0,14,1.3,10.7,100.0,8.0,32,4.3,139,0,0,1,

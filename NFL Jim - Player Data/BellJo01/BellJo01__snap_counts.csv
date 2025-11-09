@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BellJo01,Joique Bell,RB,2012,26,DET,RB,35,16,0,382,32%,0,0%,146,29%
+BellJo01,Joique Bell,RB,2013,27,DET,RB,35,16,4,554,49%,0,0%,69,15%
+BellJo01,Joique Bell,RB,2014,28,DET,RB,35,15,6,615,60%,0,0%,2,1%
+BellJo01,Joique Bell,RB,2015,29,DET,RB,35,13,5,242,29%,0,0%,23,6%
+BellJo01,Joique Bell,RB,2016,30,2TM,RB,,7,0,7,,0,,44,
+BellJo01,Joique Bell,RB,,,CHI,RB,43,4,0,6,2%,0,0%,25,23%
+BellJo01,Joique Bell,RB,,,,,,,,1,1%,0,0%,19,25%

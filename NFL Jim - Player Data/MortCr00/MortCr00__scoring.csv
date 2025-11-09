@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MortCr00,Craig Morton,QB,1968,25,DAL,NFL,QB,13,1,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+MortCr00,Craig Morton,QB,1969,26,DAL,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+MortCr00,Craig Morton,QB,,,,,,,,,,,,,,,,,,,,,,,
+MortCr00,Craig Morton,QB,1971,28,DAL,NFL,QB,10,4,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.6,
+MortCr00,Craig Morton,QB,1972,29,DAL,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+MortCr00,Craig Morton,QB,,,,,,,,,,,,,,,,,,,,,,,
+MortCr00,Craig Morton,QB,1977,34,DEN,NFL,QB,14,14,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.7,AP MVP-2
+MortCr00,Craig Morton,QB,,,,,,,,,,,,,,,,,,,,,,,
+MortCr00,Craig Morton,QB,1979,36,DEN,NFL,QB,14,10,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+MortCr00,Craig Morton,QB,1980,37,DEN,NFL,QB,12,9,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

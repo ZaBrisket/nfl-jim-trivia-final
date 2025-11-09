@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+JennSt00,Stanford Jennings,RB,1984,22,15,RB,100,,34,,All 1984 Games
+JennSt00,Stanford Jennings,RB,1985,23,16,RB,42,,72,,All 1985 Games
+JennSt00,Stanford Jennings,RB,1986,24,16,RB,20,,105,,All 1986 Games
+JennSt00,Stanford Jennings,RB,1987,25,12,RB,77,,39,,All 1987 Games
+JennSt00,Stanford Jennings,RB,1988,26,16,RB,23,,102,,All 1988 Games
+JennSt00,Stanford Jennings,RB,1989,27,16,FB,58,,61,,All 1989 Games
+JennSt00,Stanford Jennings,RB,1990,28,16,RB,11,,110,,All 1990 Games
+JennSt00,Stanford Jennings,RB,1991,29,5,RB,-1,,158,,All 1991 Games
+JennSt00,Stanford Jennings,RB,1992,30,11,RB,14,,92,,All 1992 Games

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GreeRo01,Roy Green,WR,1979,22,STL,NFL,SS,16,0,8,42,0,14,5.3,41,1005,1,106,24.5,1062,
+GreeRo01,Roy Green,WR,1980,23,STL,NFL,FS,15,6,16,168,1,57,10.5,32,745,0,37,23.3,923,
+GreeRo01,Roy Green,WR,1981,24,STL,NFL,SS,16,2,0,0,0,0,,8,135,0,28,16.9,947,
+GreeRo01,Roy Green,WR,1982,25,STL,NFL,WR,9,9,3,20,0,11,6.7,0,0,0,0,,483,
+GreeRo01,Roy Green,WR,1983,26,STL,NFL,WR,16,15,0,0,0,0,,1,14,0,14,14.0,1290,"PB,AP-1"
+GreeRo01,Roy Green,WR,1984,27,STL,NFL,WR,16,16,0,0,0,0,,1,18,0,18,18.0,1563,"PB,AP-1"
+GreeRo01,Roy Green,WR,,,,,,,,,,,,,,,,,,,
+GreeRo01,Roy Green,WR,1990,33,PHO,NFL,WR,16,16,0,0,0,0,,1,15,0,15,15.0,812,
+GreeRo01,Roy Green,WR,1991,34,PHI,NFL,WR,13,3,0,0,0,0,,5,70,0,21,14.0,434,

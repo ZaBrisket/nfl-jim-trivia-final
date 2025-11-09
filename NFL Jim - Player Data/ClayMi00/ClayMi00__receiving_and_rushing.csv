@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClayMi00,Michael Clayton,WR,2004,22,TAM,NFL,WR,16,13,122,80,1193,14.9,7,56,61.5,75,5.0,74.6,65.6,9.8,5,30,0,3,80.0,15,6.0,1.9,0.3,85,14.4,1223,7,1,9,
+ClayMi00,Michael Clayton,WR,2005,23,TAM,NFL,WR,14,10,55,32,372,11.6,0,18,41.8,41,2.3,26.6,58.2,6.8,1,2,0,0,0.0,2,2.0,0.1,0.1,33,11.3,374,0,1,3,
+ClayMi00,Michael Clayton,WR,2006,24,TAM,NFL,WR,12,9,65,33,356,10.8,1,22,41.5,27,2.8,29.7,50.8,5.5,5,41,0,2,80.0,27,8.2,3.4,0.4,38,10.4,397,1,2,3,
+ClayMi00,Michael Clayton,WR,2007,25,TAM,NFL,WR,14,4,40,22,301,13.7,0,13,45.0,39,1.6,21.5,55.0,7.5,5,22,0,2,40.0,20,4.4,1.6,0.4,27,12.0,323,0,1,3,
+ClayMi00,Michael Clayton,WR,2008,26,TAM,NFL,WR,15,9,61,38,484,12.7,1,21,45.9,58,2.5,32.3,62.3,7.9,2,5,0,0,50.0,4,2.5,0.3,0.1,40,12.2,489,1,1,4,
+ClayMi00,Michael Clayton,WR,2009,27,TAM,NFL,WR,13,11,48,16,230,14.4,1,11,29.2,47,1.2,17.7,33.3,4.8,0,0,0,0,,,,0.0,0.0,16,14.4,230,1,0,2,
+ClayMi00,Michael Clayton,WR,2010,28,NYG,NFL,WR,6,0,4,2,19,9.5,0,1,25.0,14,0.3,3.2,50.0,4.8,0,0,0,0,,,,0.0,0.0,2,9.5,19,0,0,0,
+ClayMi00,Michael Clayton,WR,2011,29,NYG,NFL,WR,5,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BrooRo00,Robert Brooks,WR,1993,23,GNB,NFL,WR,2,0,9,4,40,10.0,1,3,33.3,17,2.0,20.0,44.4,4.4,0,0,0,0,,,,0.0,0.0,4,10.0,40,1,0,
+BrooRo00,Robert Brooks,WR,1994,24,GNB,NFL,WR,2,2,24,15,226,15.1,0,9,54.2,59,7.5,113.0,62.5,9.4,3,36,0,2,66.7,20,12.0,18.0,1.5,18,14.6,262,0,0,
+BrooRo00,Robert Brooks,WR,1995,25,GNB,NFL,WR,3,3,24,17,281,16.5,3,14,58.3,73,5.7,93.7,70.8,11.7,1,15,0,1,100.0,15,15.0,5.0,0.3,18,16.4,296,3,0,
+BrooRo00,Robert Brooks,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrooRo00,Robert Brooks,WR,1997,27,GNB,NFL,WR,3,3,23,7,73,10.4,0,4,26.1,21,2.3,24.3,30.4,3.2,1,5,0,0,100.0,5,5.0,1.7,0.3,8,9.8,78,0,0,
+BrooRo00,Robert Brooks,WR,1998,28,GNB,NFL,WR,1,1,4,2,31,15.5,0,2,50.0,24,2.0,31.0,50.0,7.8,0,0,0,0,,,,0.0,0.0,2,15.5,31,0,0,

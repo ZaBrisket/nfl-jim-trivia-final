@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+ErtzZa00,Zach Ertz,TE,2018,28,PHI,NFL,TE,16,16,156,116,1163,66,810,7.0,353,3.0,7.2,3,38.7,5,3.2,5,98.9,0,0,0,0,,0,,0,PB
+ErtzZa00,Zach Ertz,TE,2019,29,PHI,NFL,TE,15,15,135,88,916,50,661,7.5,255,2.9,8.6,5,17.6,5,3.7,1,96.4,0,0,0,0,,0,,0,PB
+ErtzZa00,Zach Ertz,TE,2020,30,PHI,NFL,TE,11,11,72,36,335,16,247,6.9,88,2.4,7.4,0,,5,6.9,3,50.4,0,0,0,0,,0,,0,
+ErtzZa00,Zach Ertz,TE,2021,31,2TM,NFL,TE,17,14,112,74,763,40,423,5.7,340,4.6,7.6,2,37.0,6,5.4,4,85.5,1,4,0,4,4.0,0,0.0,0,
+ErtzZa00,Zach Ertz,TE,2021,31,PHI,NFL,TE,6,3,31,18,189,10,103,5.7,86,4.8,8.0,1,18.0,3,9.7,1,83.9,0,0,0,0,,0,,0,
+ErtzZa00,Zach Ertz,TE,2021,31,ARI,NFL,TE,11,11,81,56,574,30,320,5.7,254,4.5,7.4,1,56.0,3,3.7,3,86.1,1,4,0,4,4.0,0,0.0,0,
+ErtzZa00,Zach Ertz,TE,2022,32,ARI,NFL,TE,10,10,69,47,406,24,276,5.9,130,2.8,7.9,2,23.5,3,4.3,1,96.6,0,0,0,0,,0,,0,
+ErtzZa00,Zach Ertz,TE,2023,33,ARI,NFL,TE,7,7,43,27,187,8,141,5.2,46,1.7,7.7,0,,2,4.7,2,60.9,0,0,0,0,,0,,0,
+ErtzZa00,Zach Ertz,TE,2024,34,WAS,NFL,TE,17,17,91,66,654,38,467,7.1,187,2.8,7.4,0,,4,4.4,2,109.0,0,0,0,0,,0,,0,AP CPoY-17
+ErtzZa00,Zach Ertz,TE,2025,35,WAS,NFL,TE,9,9,44,31,291,14,219,7.1,72,2.3,7.8,1,31.0,5,11.4,1,109.2,0,0,0,0,,0,,0,

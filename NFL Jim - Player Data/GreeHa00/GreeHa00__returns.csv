@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GreeHa00,Harold Green,RB,1991,23,CIN,NFL,FB,14,10,0,0,0,0,4,66,0,20,16.5,933,
+GreeHa00,Harold Green,RB,,,,,,,,,,,,,,,,,,
+GreeHa00,Harold Green,RB,1994,26,CIN,NFL,RB,14,11,0,0,0,0,5,113,0,31,22.6,603,
+GreeHa00,Harold Green,RB,,,,,,,,,,,,,,,,,,
+GreeHa00,Harold Green,RB,1997,29,ATL,NFL,RB,16,1,0,0,0,0,1,23,0,23,23.0,461,
+GreeHa00,Harold Green,RB,1998,30,ATL,NFL,RB,6,0,0,0,0,0,1,24,0,24,24.0,95,

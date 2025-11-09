@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FryaIr00,Irving Fryar,WR,1984,22,NWE,NFL,WR,14,3,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+FryaIr00,Irving Fryar,WR,1985,23,NWE,NFL,WR,16,14,1,7,2,0,0,0,0,10,,0,0,0,0,0,60,3.8,"PB,AP-2"
+FryaIr00,Irving Fryar,WR,1986,24,NWE,NFL,WR,14,13,0,6,1,0,0,0,0,7,,0,0,0,0,0,42,3.0,
+FryaIr00,Irving Fryar,WR,1987,25,NWE,NFL,WR,12,12,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,2.5,
+FryaIr00,Irving Fryar,WR,1988,26,NWE,NFL,WR,15,14,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,2.0,
+FryaIr00,Irving Fryar,WR,1989,27,NWE,NFL,WR,11,5,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.6,
+FryaIr00,Irving Fryar,WR,1990,28,NWE,NFL,WR,16,15,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+FryaIr00,Irving Fryar,WR,1991,29,NWE,NFL,WR,16,15,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+FryaIr00,Irving Fryar,WR,1992,30,NWE,NFL,WR,15,14,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,
+FryaIr00,Irving Fryar,WR,1993,31,MIA,NFL,WR,16,16,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,PB
+FryaIr00,Irving Fryar,WR,1994,32,MIA,NFL,WR,16,16,0,7,0,0,0,0,0,7,2,0,0,0,0,0,46,2.9,"PB,AP-2"
+FryaIr00,Irving Fryar,WR,1995,33,MIA,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+FryaIr00,Irving Fryar,WR,1996,34,PHI,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,PB
+FryaIr00,Irving Fryar,WR,1997,35,PHI,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,PB
+FryaIr00,Irving Fryar,WR,1998,36,PHI,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+FryaIr00,Irving Fryar,WR,1999,37,WAS,NFL,WR,16,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+FryaIr00,Irving Fryar,WR,2000,38,WAS,NFL,WR,14,6,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,

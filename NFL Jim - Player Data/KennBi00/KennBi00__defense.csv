@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+KennBi00,Bill Kenney,QB,1980,25,KAN,NFL,QB,3,3,0,0,0,0,0,1,0,-6,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1981,26,KAN,NFL,QB,13,13,0,0,0,0,0,4,0,-2,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1982,27,KAN,NFL,QB,7,6,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1983,28,KAN,NFL,QB,16,16,0,0,0,0,0,7,4,0,0,0.0,0,0,0,0,PB
+KennBi00,Bill Kenney,QB,1984,29,KAN,NFL,QB,9,8,0,0,0,0,0,8,3,-34,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1985,30,KAN,NFL,QB,16,10,0,0,0,0,0,6,5,-18,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1986,31,KAN,NFL,QB,15,8,0,0,0,0,0,5,1,-6,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1987,32,KAN,NFL,QB,11,8,0,0,0,0,0,8,2,-8,0,0.0,0,0,0,0,
+KennBi00,Bill Kenney,QB,1988,33,KAN,NFL,QB,16,5,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

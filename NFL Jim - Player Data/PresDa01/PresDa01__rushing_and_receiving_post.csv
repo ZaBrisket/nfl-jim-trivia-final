@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PresDa01,Dak Prescott,QB,2016,23,DAL,NFL,QB,1,1,2,13,0,2,100.0,9,6.5,13.0,2.0,0,0,0,0,0,0.0,0.0,2,6.5,13,0,0,
+PresDa01,Dak Prescott,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PresDa01,Dak Prescott,QB,2018,25,DAL,NFL,QB,2,2,8,32,2,5,75.0,16,4.0,16.0,4.0,0,0,0,0,0,0.0,0.0,8,4.0,32,2,0,
+PresDa01,Dak Prescott,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PresDa01,Dak Prescott,QB,2021,28,DAL,NFL,QB,1,1,4,27,1,2,50.0,17,6.8,27.0,4.0,0,0,0,0,0,0.0,0.0,4,6.8,27,1,1,
+PresDa01,Dak Prescott,QB,2022,29,DAL,NFL,QB,2,2,11,46,1,4,63.6,11,4.2,23.0,5.5,0,0,0,0,0,0.0,0.0,11,4.2,46,1,0,
+PresDa01,Dak Prescott,QB,2023,30,DAL,NFL,QB,1,1,6,45,0,4,83.3,18,7.5,45.0,6.0,0,0,0,0,0,0.0,0.0,6,7.5,45,0,0,

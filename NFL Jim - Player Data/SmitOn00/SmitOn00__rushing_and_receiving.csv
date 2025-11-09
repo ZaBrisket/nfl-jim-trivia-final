@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitOn00,Onterrio Smith,RB,2003,23,MIN,NFL,RB,15,3,107,579,5,29,53.3,47,5.4,38.6,7.1,20,15,129,8.6,0,8,55.0,20,1.0,8.6,75.0,6.5,122,5.8,708,5,1,6,
+SmitOn00,Onterrio Smith,RB,2004,24,MIN,NFL,RB,11,6,124,544,2,18,46.0,38,4.4,49.5,11.3,45,36,394,10.9,2,22,66.7,63,3.3,35.8,80.0,8.8,160,5.9,938,4,2,8,
+SmitOn00,Onterrio Smith,RB,2005,,Did not play - Violation of league substance abuse policy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

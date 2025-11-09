@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WychFr00,Frank Wycheck,TE,1993,22,WAS,NFL,TE,9,7,24,16,113,7.1,0,6,45.8,20,1.8,12.6,66.7,4.7,0,0,0,0,,,,0.0,0.0,16,7.1,113,0,1,1,
+WychFr00,Frank Wycheck,TE,1994,23,WAS,NFL,TE,9,1,10,7,55,7.9,1,2,40.0,20,0.8,6.1,70.0,5.5,0,0,0,0,,,,0.0,0.0,7,7.9,55,1,0,0,
+WychFr00,Frank Wycheck,TE,1995,24,HOU,NFL,TE,16,10,52,40,471,11.8,1,21,65.4,36,2.5,29.4,76.9,9.1,1,1,1,1,100.0,1,1.0,0.1,0.1,41,11.5,472,2,0,4,
+WychFr00,Frank Wycheck,TE,1996,25,HOU,NFL,TE,16,16,68,53,511,9.6,6,25,58.8,29,3.3,31.9,77.9,7.5,2,3,0,0,50.0,3,1.5,0.2,0.1,55,9.3,514,6,2,5,
+WychFr00,Frank Wycheck,TE,1997,26,TEN,NFL,TE,16,16,99,63,748,11.9,4,38,51.5,42,3.9,46.8,63.6,7.6,0,0,0,0,,,,0.0,0.0,63,11.9,748,4,0,8,
+WychFr00,Frank Wycheck,TE,1998,27,TEN,NFL,TE,16,16,91,70,768,11.0,2,37,60.4,38,4.4,48.0,76.9,8.4,0,0,0,0,,,,0.0,0.0,70,11.0,768,2,2,8,PB
+WychFr00,Frank Wycheck,TE,1999,28,TEN,NFL,TE,16,16,108,69,641,9.3,2,33,45.4,35,4.3,40.1,63.9,5.9,0,0,0,0,,,,0.0,0.0,69,9.3,641,2,0,7,PB
+WychFr00,Frank Wycheck,TE,2000,29,TEN,NFL,TE,16,16,109,70,636,9.1,4,37,47.7,26,4.4,39.8,64.2,5.8,0,0,0,0,,,,0.0,0.0,70,9.1,636,4,2,6,"PB,AP-2"
+WychFr00,Frank Wycheck,TE,2001,30,TEN,NFL,TE,16,16,84,60,672,11.2,4,36,56.0,30,3.8,42.0,71.4,8.0,1,1,0,0,0.0,1,1.0,0.1,0.1,61,11.0,673,4,0,6,
+WychFr00,Frank Wycheck,TE,2002,31,TEN,NFL,TE,15,15,66,40,346,8.7,2,22,48.5,19,2.7,23.1,60.6,5.2,0,0,0,0,,,,0.0,0.0,40,8.7,346,2,1,4,
+WychFr00,Frank Wycheck,TE,2003,32,TEN,NFL,TE,10,6,29,17,165,9.7,2,13,58.6,25,1.7,16.5,58.6,5.7,0,0,0,0,,,,0.0,0.0,17,9.7,165,2,0,2,

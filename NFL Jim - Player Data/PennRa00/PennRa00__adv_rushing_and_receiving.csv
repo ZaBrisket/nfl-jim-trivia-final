@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+PennRa00,Rashaad Penny,RB,2018,22,SEA,NFL,RB,14,0,85,419,18,271,3.2,148,1.7,7,12.1,12,9,75,3,2,0.2,73,8.1,0.5,1,9.0,2,16.7,1,55.9,
+PennRa00,Rashaad Penny,RB,2019,23,SEA,NFL,RB,10,0,65,370,16,186,2.9,184,2.8,5,13.0,11,8,83,3,-8,-1.0,91,11.4,2.3,0,,0,0.0,0,124.4,
+PennRa00,Rashaad Penny,RB,2020,24,SEA,NFL,RB,3,0,11,34,1,20,1.8,14,1.3,0,,0,0,0,0,0,,0,,,0,,0,,0,,
+PennRa00,Rashaad Penny,RB,2021,25,SEA,NFL,RB,10,6,119,749,28,376,3.2,373,3.1,10,11.9,8,6,48,3,-14,-2.3,62,10.3,-2.0,1,6.0,1,12.5,0,89.6,
+PennRa00,Rashaad Penny,RB,2022,26,SEA,NFL,RB,5,5,57,346,15,169,3.0,177,3.1,2,28.5,5,4,16,2,-12,-3.0,28,7.0,-2.4,0,,0,0.0,0,80.0,
+PennRa00,Rashaad Penny,RB,2023,27,PHI,NFL,RB,3,0,11,33,1,16,1.5,17,1.5,0,,1,1,5,0,-1,-1.0,6,6.0,-1.0,0,,0,0.0,0,87.5,

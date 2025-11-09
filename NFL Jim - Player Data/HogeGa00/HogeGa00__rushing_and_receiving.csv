@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HogeGa00,Gary Hogeboom,QB,1982,24,DAL,NFL,QB,4,0,3,0,0,0,0.0,,0.0,0.0,0.8,0,0,0,0,0,,0.0,0.0,,,3,0.0,0,0,2,
+HogeGa00,Gary Hogeboom,QB,1983,25,DAL,NFL,QB,6,0,6,-10,0,0,0.0,-1,-1.7,-1.7,1.0,0,0,0,0,0,,0.0,0.0,,,6,-1.7,-10,0,0,
+HogeGa00,Gary Hogeboom,QB,1984,26,DAL,NFL,QB,16,10,15,19,0,0,0.0,11,1.3,1.2,0.9,0,0,0,0,0,,0.0,0.0,,,15,1.3,19,0,8,
+HogeGa00,Gary Hogeboom,QB,1985,27,DAL,NFL,QB,16,2,8,48,1,3,62.5,15,6.0,3.0,0.5,0,0,0,0,0,,0.0,0.0,,,8,6.0,48,1,0,
+HogeGa00,Gary Hogeboom,QB,1986,28,IND,NFL,QB,5,5,10,20,1,2,30.0,6,2.0,4.0,2.0,0,0,0,0,0,,0.0,0.0,,,10,2.0,20,1,3,
+HogeGa00,Gary Hogeboom,QB,1987,29,IND,NFL,QB,6,6,3,3,0,0,0.0,2,1.0,0.5,0.5,0,0,0,0,0,,0.0,0.0,,,3,1.0,3,0,1,
+HogeGa00,Gary Hogeboom,QB,1988,30,IND,NFL,QB,9,1,11,-8,1,3,36.4,6,-0.7,-0.9,1.2,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,11,-0.7,-8,1,2,
+HogeGa00,Gary Hogeboom,QB,1989,31,PHO,NFL,QB,14,13,27,89,1,8,44.4,15,3.3,6.4,1.9,0,0,0,0,0,,0.0,0.0,,,27,3.3,89,1,5,

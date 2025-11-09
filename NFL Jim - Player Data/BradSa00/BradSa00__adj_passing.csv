@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BradSa00,Sam Bradford,QB,2010,23,STL,NFL,QB,16,16,81,84,87,88,98,86,106,106,92,AP ORoY-1
+BradSa00,Sam Bradford,QB,2011,24,STL,NFL,QB,10,10,79,73,86,82,75,71,119,76,82,
+BradSa00,Sam Bradford,QB,2012,25,STL,NFL,QB,16,16,92,94,96,97,96,94,106,104,97,
+BradSa00,Sam Bradford,QB,2013,26,STL,NFL,QB,7,7,83,89,100,102,96,111,119,108,105,
+BradSa00,Sam Bradford,QB,,,,,,,,,,,,,,,,,
+BradSa00,Sam Bradford,QB,2015,28,PHI,NFL,QB,14,14,95,98,93,95,108,89,96,108,95,
+BradSa00,Sam Bradford,QB,2016,29,MIN,NFL,QB,15,15,97,96,105,104,135,91,126,98,115,
+BradSa00,Sam Bradford,QB,,,,,,,,,,,,,,,,,
+BradSa00,Sam Bradford,QB,2018,31,ARI,NFL,QB,3,3,57,62,49,54,96,79,56,97,63,

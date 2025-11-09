@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MasoDe00,Derrick Mason,WR,1999,25,TEN,NFL,WR,4,0,11,78,0,19,7.1,13,437,1,80,33.6,533,
+MasoDe00,Derrick Mason,WR,2000,26,TEN,NFL,WR,1,1,2,5,0,8,2.5,4,55,0,17,13.8,148,
+MasoDe00,Derrick Mason,WR,,,,,,,,,,,,,,,,,,,
+MasoDe00,Derrick Mason,WR,2002,28,TEN,NFL,WR,2,2,2,20,0,11,10.0,0,0,0,0,,128,
+MasoDe00,Derrick Mason,WR,2003,29,TEN,NFL,WR,2,2,6,70,0,17,11.7,0,0,0,0,,188,

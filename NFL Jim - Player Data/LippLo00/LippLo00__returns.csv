@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LippLo00,Louis Lipps,WR,1984,22,PIT,NFL,WR,14,8,53,656,1,76,12.4,0,0,0,0,,1587,"PB,AP-2,AP ORoY-1"
+LippLo00,Louis Lipps,WR,1985,23,PIT,NFL,WR,16,16,36,437,2,71,12.1,13,237,0,26,18.2,1827,"PB,AP-2"
+LippLo00,Louis Lipps,WR,1986,24,PIT,NFL,WR,13,12,3,16,0,10,5.3,0,0,0,0,,603,
+LippLo00,Louis Lipps,WR,1987,25,PIT,NFL,WR,4,2,7,46,0,12,6.6,0,0,0,0,,210,
+LippLo00,Louis Lipps,WR,1988,26,PIT,NFL,WR,16,16,4,30,0,11,7.5,0,0,0,0,,1132,
+LippLo00,Louis Lipps,WR,1989,27,PIT,NFL,WR,16,16,4,27,0,9,6.8,0,0,0,0,,1151,
+LippLo00,Louis Lipps,WR,1990,28,PIT,NFL,WR,14,14,0,0,0,0,,1,9,0,9,9.0,686,
+LippLo00,Louis Lipps,WR,,,,,,,,,,,,,,,,,,,
+LippLo00,Louis Lipps,WR,1992,30,NOR,NFL,WR,2,0,5,22,0,16,4.4,0,0,0,0,,23,

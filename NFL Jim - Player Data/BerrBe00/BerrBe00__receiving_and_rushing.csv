@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BerrBe00,Bernard Berrian,WR,2004,24,CHI,NFL,WR,16,1,44,15,225,15.0,2,8,25.0,49,0.9,14.1,34.1,5.1,8,28,0,1,25.0,25,3.5,1.8,0.5,23,11.0,253,2,0,1,
+BerrBe00,Bernard Berrian,WR,2005,25,CHI,NFL,WR,11,2,25,13,246,18.9,0,8,44.0,54,1.2,22.4,52.0,9.8,2,31,0,1,50.0,37,15.5,2.8,0.2,15,18.5,277,0,1,2,
+BerrBe00,Bernard Berrian,WR,2006,26,CHI,NFL,WR,15,14,102,51,775,15.2,6,32,38.2,62,3.4,51.7,50.0,7.6,2,5,0,0,50.0,5,2.5,0.3,0.1,53,14.7,780,6,2,7,
+BerrBe00,Bernard Berrian,WR,2007,27,CHI,NFL,WR,16,15,128,71,951,13.4,5,48,48.4,59,4.4,59.4,55.5,7.4,0,0,0,0,,,,0.0,0.0,71,13.4,951,5,1,6,
+BerrBe00,Bernard Berrian,WR,2008,28,MIN,NFL,WR,16,13,95,48,964,20.1,7,35,45.3,99,3.0,60.3,50.5,10.1,4,26,0,2,50.0,14,6.5,1.6,0.3,52,19.0,990,7,1,10,
+BerrBe00,Bernard Berrian,WR,2009,29,MIN,NFL,WR,16,15,92,55,618,11.2,4,35,50.0,40,3.4,38.6,59.8,6.7,0,0,0,0,,,,0.0,0.0,55,11.2,618,4,0,6,
+BerrBe00,Bernard Berrian,WR,2010,30,MIN,NFL,WR,14,9,54,28,252,9.0,0,14,42.6,30,2.0,18.0,51.9,4.7,1,-8,0,0,0.0,-8,-8.0,-0.6,0.1,29,8.4,244,0,2,2,
+BerrBe00,Bernard Berrian,WR,2011,31,MIN,NFL,WR,5,1,23,7,91,13.0,0,3,17.4,30,1.4,18.2,30.4,4.0,0,0,0,0,,,,0.0,0.0,7,13.0,91,0,0,1,

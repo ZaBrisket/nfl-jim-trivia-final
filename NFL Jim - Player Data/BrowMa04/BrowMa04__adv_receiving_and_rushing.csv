@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+BrowMa04,Marquise Brown,WR,2019,22,BAL,NFL,WR,14,11,71,46,584,24,358,7.8,226,4.9,11.0,3,15.3,2,2.8,0,123.2,0,0,0,0,,0,,0,
+BrowMa04,Marquise Brown,WR,2020,23,BAL,NFL,WR,16,14,100,58,769,35,495,8.5,274,4.7,12.9,4,14.5,6,6.0,4,92.5,1,1,0,1,1.0,0,0.0,0,
+BrowMa04,Marquise Brown,WR,2021,24,BAL,NFL,WR,16,16,146,91,1008,41,620,6.8,388,4.3,11.1,4,22.8,7,4.8,3,87.9,1,5,1,2,2.0,3,3.0,0,
+BrowMa04,Marquise Brown,WR,2022,25,ARI,NFL,WR,12,10,107,67,709,33,473,7.1,236,3.5,11.3,1,67.0,4,3.7,7,64.0,1,1,0,0,0.0,1,1.0,0,
+BrowMa04,Marquise Brown,WR,2023,26,ARI,NFL,WR,14,14,101,51,574,32,410,8.0,164,3.2,11.9,2,25.5,4,4.0,2,72.8,2,23,1,20,10.0,3,1.5,0,
+BrowMa04,Marquise Brown,WR,2024,27,KAN,NFL,WR,2,1,15,9,91,5,45,5.0,46,5.1,8.2,0,,0,0.0,0,77.4,0,0,0,0,,0,,0,
+BrowMa04,Marquise Brown,WR,2025,28,KAN,NFL,WR,9,4,53,34,389,21,275,8.1,114,3.4,10.4,3,11.3,2,3.8,1,103.4,0,0,0,0,,0,,0,

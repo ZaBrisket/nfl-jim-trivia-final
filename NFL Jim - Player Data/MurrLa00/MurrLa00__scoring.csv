@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MurrLa00,Latavius Murray,RB,2014,24,OAK,NFL,RB,15,3,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+MurrLa00,Latavius Murray,RB,2015,25,OAK,NFL,RB,16,16,6,0,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,PB
+MurrLa00,Latavius Murray,RB,2016,26,OAK,NFL,RB,14,12,12,0,0,0,0,0,0,12,0,,0,0,0,0,0,72,5.1,
+MurrLa00,Latavius Murray,RB,2017,27,MIN,NFL,RB,16,11,8,0,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.0,
+MurrLa00,Latavius Murray,RB,2018,28,MIN,NFL,RB,16,6,6,0,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.4,
+MurrLa00,Latavius Murray,RB,2019,29,NOR,NFL,RB,16,8,5,1,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+MurrLa00,Latavius Murray,RB,2020,30,NOR,NFL,RB,15,7,4,1,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.0,
+MurrLa00,Latavius Murray,RB,2021,31,BAL,NFL,RB,14,6,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,36,2.6,
+MurrLa00,Latavius Murray,RB,2022,32,2TM,NFL,RB,13,7,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,38,2.9,
+MurrLa00,Latavius Murray,RB,2022,32,NOR,NFL,RB,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,6.0,
+MurrLa00,Latavius Murray,RB,2022,32,DEN,NFL,RB,12,7,5,0,0,0,0,0,0,5,1,0,0,0,0,0,0,32,2.7,
+MurrLa00,Latavius Murray,RB,2023,33,BUF,NFL,RB,16,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.5,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackLa00,Lamar Jackson,QB,2018,21,BAL,QB,8,16,7,585,49%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2019*+,22,BAL,QB,8,15,15,969,93%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2020,23,BAL,QB,8,15,15,917,94%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2021*,24,BAL,QB,8,12,12,810,91%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2022,25,BAL,QB,8,12,12,728,92%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2023*+,26,BAL,QB,8,16,16,1040,97%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2024*+,27,BAL,QB,8,17,17,1074,97%,0,0%,0,0%
+JackLa00,Lamar Jackson,QB,2025,28,BAL,QB,8,5,5,255,93%,0,0%,0,0%

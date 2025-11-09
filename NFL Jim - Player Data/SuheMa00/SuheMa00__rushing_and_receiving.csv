@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SuheMa00,Matt Suhey,RB,1980,22,CHI,NFL,RB,16,1,22,45,0,3,18.2,10,2.0,2.8,1.4,12,7,60,8.6,0,2,41.7,21,0.4,3.8,58.3,5.0,29,3.6,105,0,1,1,
+SuheMa00,Matt Suhey,RB,1981,23,CHI,NFL,FB,15,14,150,521,3,40,47.3,26,3.5,34.7,10.0,41,33,168,5.1,0,7,41.5,15,2.2,11.2,80.5,4.1,183,3.8,689,3,3,4,
+SuheMa00,Matt Suhey,RB,1982,24,CHI,NFL,FB,9,8,70,206,3,13,38.6,15,2.9,22.9,7.8,44,36,333,9.3,0,14,54.5,45,4.0,37.0,81.8,7.6,106,5.1,539,3,2,6,
+SuheMa00,Matt Suhey,RB,1983,25,CHI,NFL,FB,16,13,149,681,4,40,51.0,39,4.6,42.6,9.3,67,49,429,8.8,1,16,52.2,52,3.1,26.8,73.1,6.4,198,5.6,1110,5,5,7,
+SuheMa00,Matt Suhey,RB,1984,26,CHI,NFL,FB,16,16,124,424,4,28,44.4,21,3.4,26.5,7.8,56,42,312,7.4,2,16,50.0,23,2.6,19.5,75.0,5.6,166,4.4,736,6,6,6,
+SuheMa00,Matt Suhey,RB,1985,27,CHI,NFL,FB,16,16,115,471,1,36,56.5,17,4.1,29.4,7.2,42,33,295,8.9,1,16,57.1,35,2.1,18.4,78.6,7.0,148,5.2,766,2,2,7,
+SuheMa00,Matt Suhey,RB,1986,28,CHI,NFL,FB,16,14,84,270,2,23,53.6,17,3.2,16.9,5.3,35,24,235,9.8,0,8,54.3,58,1.5,14.7,68.6,6.7,108,4.7,505,2,1,4,
+SuheMa00,Matt Suhey,RB,1987,29,CHI,NFL,RB,12,2,7,24,0,2,42.9,6,3.4,2.0,0.6,10,7,54,7.7,0,2,60.0,12,0.6,4.5,70.0,5.4,14,5.6,78,0,0,1,
+SuheMa00,Matt Suhey,RB,1988,30,CHI,NFL,FB,16,16,87,253,2,19,47.1,19,2.9,15.8,5.4,26,20,154,7.7,0,8,46.2,29,1.3,9.6,76.9,5.9,107,3.8,407,2,1,3,
+SuheMa00,Matt Suhey,RB,1989,31,CHI,NFL,RB,16,0,20,51,1,4,50.0,8,2.6,3.2,1.3,12,9,73,8.1,1,4,66.7,22,0.6,4.6,75.0,6.1,29,4.3,124,2,1,1,

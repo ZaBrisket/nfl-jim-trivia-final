@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MannAr00,Archie Manning,QB,1971,22,NOR,NFL,QB,12,10,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.0,
+MannAr00,Archie Manning,QB,1972,23,NOR,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+MannAr00,Archie Manning,QB,1973,24,NOR,NFL,QB,13,13,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+MannAr00,Archie Manning,QB,1974,25,NOR,NFL,QB,11,11,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+MannAr00,Archie Manning,QB,1975,26,NOR,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+MannAr00,Archie Manning,QB,1976,,Did not play - Injured (shoulder),,,,,,,,,,,,,,,,,,,,
+MannAr00,Archie Manning,QB,1977,28,NOR,NFL,QB,10,9,5,0,0,0,0,0,0,5,0,0,0,0,0,30,3.0,
+MannAr00,Archie Manning,QB,1978,29,NOR,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,PB
+MannAr00,Archie Manning,QB,1979,30,NOR,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,PB

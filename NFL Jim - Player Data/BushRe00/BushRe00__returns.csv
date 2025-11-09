@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BushRe00,Reggie Bush,RB,2006,21,NOR,NFL,RB,16,8,28,216,1,65,7.7,0,0,0,0,,1523,AP ORoY-5
+BushRe00,Reggie Bush,RB,2007,22,NOR,NFL,RB,12,10,3,12,0,10,4.0,0,0,0,0,,994,
+BushRe00,Reggie Bush,RB,2008,23,NOR,NFL,RB,10,9,20,270,3,71,13.5,0,0,0,0,,1114,
+BushRe00,Reggie Bush,RB,2009,24,NOR,NFL,RB,14,8,27,130,0,23,4.8,0,0,0,0,,855,
+BushRe00,Reggie Bush,RB,2010,25,NOR,NFL,RB,8,6,14,92,0,43,6.6,1,32,0,32,32.0,482,
+BushRe00,Reggie Bush,RB,2011,26,MIA,NFL,RB,15,15,6,52,0,16,8.7,0,0,0,0,,1434,
+BushRe00,Reggie Bush,RB,,,,,,,,,,,,,,,,,,,
+BushRe00,Reggie Bush,RB,2015,30,SFO,NFL,RB,5,1,2,9,0,9,4.5,0,0,0,0,,56,
+BushRe00,Reggie Bush,RB,2016,31,BUF,NFL,RB,13,0,2,13,0,13,6.5,5,103,0,35,20.6,203,

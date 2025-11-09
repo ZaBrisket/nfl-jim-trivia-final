@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CrabMi00,Michael Crabtree,WR,2011,24,SFO,NFL,WR,2,2,15,5,28,5.6,1,1,26.7,9,2.5,14.0,33.3,1.9,0,0,0,0,0.0,0.0,5,5.6,28,1,0,
+CrabMi00,Michael Crabtree,WR,2012,25,SFO,NFL,WR,3,3,28,20,285,14.3,3,13,64.3,33,6.7,95.0,71.4,10.2,0,0,0,0,0.0,0.0,20,14.3,285,3,1,
+CrabMi00,Michael Crabtree,WR,2013,26,SFO,NFL,WR,3,2,28,15,203,13.5,0,10,39.3,31,5.0,67.7,53.6,7.3,0,0,0,0,0.0,0.0,15,13.5,203,0,1,
+CrabMi00,Michael Crabtree,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CrabMi00,Michael Crabtree,WR,2016,29,OAK,NFL,WR,1,1,7,2,33,16.5,0,2,28.6,19,2.0,33.0,28.6,4.7,0,0,0,0,0.0,0.0,2,16.5,33,0,0,
+CrabMi00,Michael Crabtree,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CrabMi00,Michael Crabtree,WR,2018,31,BAL,NFL,WR,1,1,4,2,38,19.0,2,2,50.0,31,2.0,38.0,50.0,9.5,0,0,0,0,0.0,0.0,2,19.0,38,2,0,

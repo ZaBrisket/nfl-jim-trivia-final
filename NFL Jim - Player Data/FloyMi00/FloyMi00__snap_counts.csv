@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FloyMi00,Michael Floyd,WR,2012,23,ARI,WR,15,16,3,555,53%,0,0%,27,6%
+FloyMi00,Michael Floyd,WR,2013,24,ARI,WR,15,16,16,930,86%,0,0%,4,1%
+FloyMi00,Michael Floyd,WR,2014,25,ARI,WR,15,16,14,942,89%,0,0%,2,0%
+FloyMi00,Michael Floyd,WR,2015,26,ARI,WR,15,15,6,653,63%,0,0%,3,1%
+FloyMi00,Michael Floyd,WR,2016,27,2TM,WR,,15,8,745,,0,,2,
+FloyMi00,Michael Floyd,WR,,,ARI,WR,15,13,7,679,71%,0,0%,2,1%
+FloyMi00,Michael Floyd,WR,,,,,,,,66,47%,0,0%,0,0%
+FloyMi00,Michael Floyd,WR,2017,28,MIN,WR,18,11,1,152,19%,0,0%,0,0%
+FloyMi00,Michael Floyd,WR,2018,29,WAS,WR,17,13,3,345,43%,0,0%,64,19%

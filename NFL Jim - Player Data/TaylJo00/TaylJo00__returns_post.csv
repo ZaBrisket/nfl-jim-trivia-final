@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+TaylJo00,John Taylor,WR,1987,25,SFO,NFL,WR,1,0,0,0,0,0,,0,29,0,29,,77,
+TaylJo00,John Taylor,WR,1988,26,SFO,NFL,WR,3,3,9,107,0,45,11.9,2,35,0,22,17.5,245,
+TaylJo00,John Taylor,WR,1989,27,SFO,NFL,WR,3,3,6,46,0,17,7.7,0,0,0,0,,190,
+TaylJo00,John Taylor,WR,1990,28,SFO,NFL,WR,2,2,3,36,0,31,12.0,0,0,0,0,,149,

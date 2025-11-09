@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+PittMi01,Michael Pittman Jr.,WR,2020,23,IND,NFL,WR,13,8,61,40,503,22,210,5.3,293,7.3,8.4,2,20.0,1,1.6,1,89.7,3,26,1,18,6.0,8,2.7,0,
+PittMi01,Michael Pittman Jr.,WR,2021,24,IND,NFL,WR,17,17,129,88,1082,54,734,8.3,348,4.0,9.8,2,44.0,6,4.7,3,99.7,5,44,1,39,7.8,5,1.0,0,
+PittMi01,Michael Pittman Jr.,WR,2022,25,IND,NFL,WR,16,16,141,99,925,51,568,5.7,357,3.6,6.9,4,24.8,6,4.3,3,88.5,3,30,2,24,8.0,6,2.0,0,
+PittMi01,Michael Pittman Jr.,WR,2023,26,IND,NFL,WR,16,15,156,109,1152,53,639,5.9,513,4.7,7.9,3,36.3,3,1.9,6,83.6,0,0,0,0,,0,,0,
+PittMi01,Michael Pittman Jr.,WR,2024,27,IND,NFL,WR,16,14,111,69,808,35,549,8.0,259,3.8,11.0,3,23.0,1,0.9,4,78.2,0,0,0,0,,0,,0,
+PittMi01,Michael Pittman Jr.,WR,2025,28,IND,NFL,WR,9,9,68,52,561,35,380,7.3,181,3.5,8.4,3,17.3,4,5.9,2,117.3,0,0,0,0,,0,,0,

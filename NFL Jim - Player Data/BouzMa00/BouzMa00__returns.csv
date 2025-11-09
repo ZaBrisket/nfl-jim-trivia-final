@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BouzMa00,Matt Bouza,WR,1982,23,BAL,NFL,WR,9,9,2,0,0,0,0.0,3,31,0,12,10.3,318,
+BouzMa00,Matt Bouza,WR,1983,24,BAL,NFL,WR,11,11,0,0,0,0,,1,-4,0,-4,-4.0,381,
+BouzMa00,Matt Bouza,WR,1984,25,IND,NFL,WR,16,4,3,17,0,11,5.7,0,0,0,0,,287,

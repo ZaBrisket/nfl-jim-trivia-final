@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WilsJe01,Jeff Wilson,RB,2018,23,SFO,NFL,RB,6,2,66,266,0,13,50.0,18,4.0,44.3,11.0,15,12,98,8.2,0,5,53.3,24,2.0,16.3,80.0,6.5,78,4.7,364,0,3,2,
+WilsJe01,Jeff Wilson,RB,2019,24,SFO,NFL,RB,10,0,27,105,4,9,48.1,25,3.9,10.5,2.7,5,3,34,11.3,1,1,40.0,25,0.3,3.4,60.0,6.8,30,4.6,139,5,0,1,
+WilsJe01,Jeff Wilson,RB,2020,25,SFO,NFL,RB,12,3,126,600,7,31,52.4,34,4.8,50.0,10.5,28,13,133,10.2,3,8,28.6,21,1.1,11.1,46.4,4.8,139,5.3,733,10,2,4,
+WilsJe01,Jeff Wilson,RB,2021,26,SFO,NFL,RB,9,4,79,294,2,19,50.6,17,3.7,32.7,8.8,8,7,31,4.4,0,1,37.5,11,0.8,3.4,87.5,3.9,86,3.8,325,2,1,2,
+WilsJe01,Jeff Wilson,RB,2022,27,2TM,NFL,RB,16,7,176,860,5,43,50.0,41,4.9,53.8,11.0,37,22,185,8.4,1,7,35.1,16,1.4,11.6,59.5,5.0,198,5.3,1045,6,3,7,
+WilsJe01,Jeff Wilson,RB,2022,27,SFO,NFL,RB,8,6,92,468,2,22,52.2,41,5.1,58.5,11.5,13,10,91,9.1,0,3,46.2,16,1.3,11.4,76.9,7.0,102,5.5,559,2,2,4,
+WilsJe01,Jeff Wilson,RB,2022,27,MIA,NFL,RB,8,1,84,392,3,21,47.6,28,4.7,49.0,10.5,24,12,94,7.8,1,4,29.2,14,1.5,11.8,50.0,3.9,96,5.1,486,4,1,3,
+WilsJe01,Jeff Wilson,RB,2023,28,MIA,NFL,RB,10,0,41,188,0,8,51.2,15,4.6,18.8,4.1,17,14,85,6.1,0,3,29.4,12,1.4,8.5,82.4,5.0,55,5.0,273,0,0,2,
+WilsJe01,Jeff Wilson,RB,2024,29,MIA,NFL,RB,9,0,16,57,0,3,43.8,14,3.6,6.3,1.8,3,3,19,6.3,0,0,100.0,7,0.3,2.1,100.0,6.3,19,4.0,76,0,0,1,
+WilsJe01,Jeff Wilson,RB,2025,30,MIA,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,,

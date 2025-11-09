@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+ClayMa00,Mark Clayton,WR,1983,22,MIA,NFL,WR,14,0,1,1,100.0,48,1,100.0,0,0.0,1,100.0,48,48.0,68.00,48.0,3.4,158.3,0,0,0.00,48.00,68.00,0,0,
+ClayMa00,Mark Clayton,WR,1984,23,MIA,NFL,WR,15,15,0,1,0.0,0,0,0.0,1,100.0,0,,,0.0,-45.00,,0.0,0.0,1,8,50.00,-4.00,-26.50,0,0,"PB,AP-2"
+ClayMa00,Mark Clayton,WR,1985,24,MIA,NFL,WR,16,16,0,0,,0,0,,0,,0,,,,,,0.0,,1,7,100.00,-7.00,-7.00,0,0,PB

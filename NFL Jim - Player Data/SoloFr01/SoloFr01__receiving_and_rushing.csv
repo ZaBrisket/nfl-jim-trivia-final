@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SoloFr01,Freddie Solomon,WR,1975,22,MIA,NFL,WR,14,5,,22,339,15.4,2,,,58,1.6,24.2,,,4,87,0,,,35,21.8,6.2,0.3,26,16.4,426,2,2,8,
+SoloFr01,Freddie Solomon,WR,1976,23,MIA,NFL,WR,10,8,,27,453,16.8,2,,,53,2.7,45.3,,,4,60,1,,,59,15.0,6.0,0.4,31,16.5,513,3,0,8,
+SoloFr01,Freddie Solomon,WR,1977,24,MIA,NFL,WR,13,6,,12,181,15.1,1,,,54,0.9,13.9,,,6,43,0,,,14,7.2,3.3,0.5,18,12.4,224,1,2,5,
+SoloFr01,Freddie Solomon,WR,1978,25,SFO,NFL,WR,16,15,87,31,458,14.8,2,17,28.7,58,1.9,28.6,35.6,5.3,14,70,1,6,42.9,17,5.0,4.4,0.9,45,11.7,528,3,5,4,
+SoloFr01,Freddie Solomon,WR,1979,26,SFO,NFL,WR,15,11,98,57,807,14.2,7,40,53.1,44,3.8,53.8,58.2,8.2,6,85,1,3,83.3,56,14.2,5.7,0.4,63,14.2,892,8,3,8,
+SoloFr01,Freddie Solomon,WR,1980,27,SFO,NFL,WR,16,13,84,48,658,13.7,8,29,48.8,93,3.0,41.1,57.1,7.8,8,56,0,2,87.5,11,7.0,3.5,0.5,56,12.8,714,8,5,8,
+SoloFr01,Freddie Solomon,WR,1981,28,SFO,NFL,WR,15,15,112,59,969,16.4,8,44,42.9,60,3.9,64.6,52.7,8.7,9,43,0,3,66.7,16,4.8,2.9,0.6,68,14.9,1012,8,3,9,
+SoloFr01,Freddie Solomon,WR,1982,29,SFO,NFL,WR,9,7,43,19,323,17.0,3,15,41.9,46,2.1,35.9,44.2,7.5,1,-4,0,0,0.0,-4,-4.0,-0.4,0.1,20,16.0,319,3,2,5,
+SoloFr01,Freddie Solomon,WR,1983,30,SFO,NFL,WR,13,11,49,31,662,21.4,4,27,59.2,77,2.4,50.9,63.3,13.5,1,3,0,0,0.0,3,3.0,0.2,0.1,32,20.8,665,4,1,7,
+SoloFr01,Freddie Solomon,WR,1984,31,SFO,NFL,WR,14,13,72,40,737,18.4,10,34,54.2,64,2.9,52.6,55.6,10.2,6,72,1,4,66.7,47,12.0,5.1,0.4,46,17.6,809,11,0,9,
+SoloFr01,Freddie Solomon,WR,1985,32,SFO,NFL,WR,16,12,48,25,259,10.4,1,11,43.8,39,1.6,16.2,52.1,5.4,2,4,0,1,50.0,6,2.0,0.3,0.1,27,9.7,263,1,1,2,

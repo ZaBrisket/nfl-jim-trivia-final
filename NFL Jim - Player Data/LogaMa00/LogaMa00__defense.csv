@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+LogaMa00,Marc Logan,RB,1988,23,CIN,NFL,RB,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,1989,24,MIA,NFL,RB,10,4,0,0,0,0,0,1,2,-1,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,1990,25,MIA,NFL,RB,16,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,1991,26,MIA,NFL,RB,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,,,,,,,,,,,,,,,,,,,,,,
+LogaMa00,Marc Logan,RB,1993,28,SFO,NFL,FB,14,12,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,,,,,,,,,,,,,,,,,,,,,,
+LogaMa00,Marc Logan,RB,1995,30,WAS,NFL,FB,16,8,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,1996,31,WAS,NFL,FB,14,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+LogaMa00,Marc Logan,RB,1997,32,WAS,NFL,RB,15,1,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

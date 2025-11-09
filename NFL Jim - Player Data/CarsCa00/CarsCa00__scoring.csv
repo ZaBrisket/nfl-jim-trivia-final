@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CarsCa00,Carlos Carson,WR,1981,23,KAN,NFL,WR,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6,1.2,
+CarsCa00,Carlos Carson,WR,1982,24,KAN,NFL,WR,9,7,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.3,
+CarsCa00,Carlos Carson,WR,1983,25,KAN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,PB
+CarsCa00,Carlos Carson,WR,1984,26,KAN,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+CarsCa00,Carlos Carson,WR,1985,27,KAN,NFL,WR,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.6,
+CarsCa00,Carlos Carson,WR,1986,28,KAN,NFL,WR,10,7,0,4,0,0,0,0,0,4,0,0,0,0,0,24,2.4,
+CarsCa00,Carlos Carson,WR,1987,29,KAN,NFL,WR,12,12,0,7,0,0,0,0,0,7,0,0,0,0,0,42,3.5,PB
+CarsCa00,Carlos Carson,WR,1988,30,KAN,NFL,WR,14,14,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+CarsCa00,Carlos Carson,WR,1989,31,2TM,NFL,WR,13,4,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+CarsCa00,Carlos Carson,WR,1989,31,KAN,NFL,WR,7,3,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.9,

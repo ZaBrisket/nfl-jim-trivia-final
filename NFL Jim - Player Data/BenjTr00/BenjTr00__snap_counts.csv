@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BenjTr00,Travis Benjamin,WR,2012,23,CLE,WR,80,14,3,299,33%,0,0%,16,4%
+BenjTr00,Travis Benjamin,WR,2013,24,CLE,WR,80,8,3,144,26%,0,0%,42,17%
+BenjTr00,Travis Benjamin,WR,2014,25,CLE,WR,11,16,0,383,36%,0,0%,56,12%
+BenjTr00,Travis Benjamin,WR,2015,26,CLE,WR,11,16,15,850,77%,0,0%,65,15%
+BenjTr00,Travis Benjamin,WR,2016,27,SDG,WR,12,14,8,548,59%,0,0%,18,4%
+BenjTr00,Travis Benjamin,WR,2017,28,LAC,WR,12,16,3,566,53%,0,0%,81,19%
+BenjTr00,Travis Benjamin,WR,2018,29,LAC,WR,12,12,3,278,36%,0,0%,23,7%
+BenjTr00,Travis Benjamin,WR,2019,30,LAC,WR,12,5,2,189,57%,0,0%,0,0%
+BenjTr00,Travis Benjamin,WR,2021,32,SFO,WR,17,10,0,40,6%,0,0%,11,4%

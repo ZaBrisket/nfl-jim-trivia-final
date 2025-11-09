@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CharDJ00,DJ Chark,WR,2019,23,JAX,NFL,WR,15,14,0,8,0,0,0,0,0,8,1,,0,0,0,0,0,50,3.3,PB
+CharDJ00,DJ Chark,WR,2020,24,JAX,NFL,WR,13,12,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.3,
+CharDJ00,DJ Chark,WR,2021,25,JAX,NFL,WR,4,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,3.0,
+CharDJ00,DJ Chark,WR,2022,26,DET,NFL,WR,11,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.6,
+CharDJ00,DJ Chark,WR,2023,27,CAR,NFL,WR,15,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.0,
+CharDJ00,DJ Chark,WR,2024,28,LAC,NFL,WR,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.9,

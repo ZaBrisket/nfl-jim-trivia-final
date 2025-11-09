@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PlumJa00,Jake Plummer,QB,1997,23,ARI,NFL,QB,10,9,113,94,101,90,85,111,74,53,95,AP ORoY-3
+PlumJa00,Jake Plummer,QB,1998,24,ARI,NFL,QB,16,16,101,100,96,96,110,91,94,94,97,
+PlumJa00,Jake Plummer,QB,1999,25,ARI,NFL,QB,12,11,80,83,68,71,83,83,59,103,69,
+PlumJa00,Jake Plummer,QB,2000,26,ARI,NFL,QB,14,14,90,96,83,87,95,86,83,116,84,
+PlumJa00,Jake Plummer,QB,2001,27,ARI,NFL,QB,16,16,104,107,105,107,96,94,109,109,101,
+PlumJa00,Jake Plummer,QB,2002,28,ARI,NFL,QB,16,16,75,77,77,79,80,92,90,101,80,
+PlumJa00,Jake Plummer,QB,2003,29,DEN,NFL,QB,11,11,108,113,112,116,110,111,114,113,114,AP CPoY-8
+PlumJa00,Jake Plummer,QB,2004,30,DEN,NFL,QB,16,16,118,125,111,117,96,113,88,126,105,
+PlumJa00,Jake Plummer,QB,2005,31,DEN,NFL,QB,16,16,108,112,114,116,103,98,127,113,112,PB
+PlumJa00,Jake Plummer,QB,2006,32,DEN,NFL,QB,16,11,89,94,86,89,83,94,84,107,84,

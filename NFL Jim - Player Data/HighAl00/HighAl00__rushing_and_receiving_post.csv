@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HighAl00,Alonzo Highsmith,RB,1987,22,HOU,NFL,RB,2,2,17,87,0,4,64.7,16,5.1,43.5,8.5,7,6,37,6.2,0,3,71.4,16,3.0,18.5,85.7,5.3,23,5.4,124,0,0,
+HighAl00,Alonzo Highsmith,RB,1988,23,HOU,NFL,FB,2,2,7,60,0,3,42.9,31,8.6,30.0,3.5,5,3,11,3.7,0,0,40.0,8,1.5,5.5,60.0,2.2,10,7.1,71,0,1,
+HighAl00,Alonzo Highsmith,RB,1989,24,HOU,NFL,FB,1,1,2,2,0,0,50.0,4,1.0,2.0,2.0,4,3,21,7.0,0,1,50.0,11,3.0,21.0,75.0,5.3,5,4.6,23,0,0,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HebeBo00,Bobby Hebert,QB,1985,25,NOR,NFL,QB,6,6,92,90,103,100,93,85,125,97,100,
+HebeBo00,Bobby Hebert,QB,1986,26,NOR,NFL,QB,5,3,84,93,49,56,88,82,16,111,55,
+HebeBo00,Bobby Hebert,QB,1987,27,NOR,NFL,QB,12,12,105,109,111,114,103,110,112,106,111,
+HebeBo00,Bobby Hebert,QB,1988,28,NOR,NFL,QB,16,16,91,99,99,104,111,100,111,115,106,
+HebeBo00,Bobby Hebert,QB,1989,29,NOR,NFL,QB,14,13,113,114,105,107,126,102,94,108,110,
+HebeBo00,Bobby Hebert,QB,1990,,Did not play - Contract dispute,,,,,,,,,,,,,,
+HebeBo00,Bobby Hebert,QB,1991,31,NOR,NFL,QB,9,9,97,99,99,100,111,97,106,107,104,
+HebeBo00,Bobby Hebert,QB,1992,32,NOR,NFL,QB,16,16,119,124,114,118,104,110,96,123,109,
+HebeBo00,Bobby Hebert,QB,1993,33,ATL,NFL,QB,14,12,103,104,104,104,110,124,91,103,109,PB
+HebeBo00,Bobby Hebert,QB,1994,34,ATL,NFL,QB,8,0,83,94,66,74,76,77,58,123,63,
+HebeBo00,Bobby Hebert,QB,,,,,,,,,,,,,,,,,
+HebeBo00,Bobby Hebert,QB,1996,36,ATL,NFL,QB,14,13,94,100,85,89,111,107,69,109,93,

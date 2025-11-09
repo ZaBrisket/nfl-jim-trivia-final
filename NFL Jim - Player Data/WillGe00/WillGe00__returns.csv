@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WillGe00,Gerald Willhite,RB,1982,23,DEN,NFL,RB,9,2,6,63,0,23,10.5,17,337,0,26,19.8,974,
+WillGe00,Gerald Willhite,RB,,,,,,,,,,,,,,,,,,,
+WillGe00,Gerald Willhite,RB,1984,25,DEN,NFL,RB,16,1,20,200,0,35,10.0,4,109,0,40,27.3,978,
+WillGe00,Gerald Willhite,RB,1985,26,DEN,NFL,RB,15,4,16,169,0,18,10.6,2,40,0,20,20.0,743,
+WillGe00,Gerald Willhite,RB,1986,27,DEN,NFL,FB,16,12,42,468,1,70,11.1,3,35,0,23,11.7,1397,
+WillGe00,Gerald Willhite,RB,1987,28,DEN,NFL,RB,3,1,4,22,0,9,5.5,0,0,0,0,,188,
+WillGe00,Gerald Willhite,RB,1988,29,DEN,NFL,RB,11,1,13,90,0,12,6.9,0,0,0,0,,367,

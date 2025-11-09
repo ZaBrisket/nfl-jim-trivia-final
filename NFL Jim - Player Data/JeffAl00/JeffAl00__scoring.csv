@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JeffAl00,Alshon Jeffery,WR,2012,22,CHI,NFL,WR,10,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.8,
+JeffAl00,Alshon Jeffery,WR,2013,23,CHI,NFL,WR,16,14,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,2.8,PB
+JeffAl00,Alshon Jeffery,WR,2014,24,CHI,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+JeffAl00,Alshon Jeffery,WR,2015,25,CHI,NFL,WR,9,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+JeffAl00,Alshon Jeffery,WR,2016,26,CHI,NFL,WR,12,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.0,
+JeffAl00,Alshon Jeffery,WR,2017,27,PHI,NFL,WR,16,16,0,9,0,0,0,0,0,9,3,0,0,0,0,0,60,3.8,
+JeffAl00,Alshon Jeffery,WR,2018,28,PHI,NFL,WR,13,13,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.8,
+JeffAl00,Alshon Jeffery,WR,2019,29,PHI,NFL,WR,10,10,1,4,0,0,0,0,0,5,0,0,0,0,0,0,30,3.0,
+JeffAl00,Alshon Jeffery,WR,2020,30,PHI,NFL,WR,7,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,

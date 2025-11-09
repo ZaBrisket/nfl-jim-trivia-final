@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+EsiaBo00,Boomer Esiason,QB,1984,23,CIN,NFL,QB,10,4,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,1.2,
+EsiaBo00,Boomer Esiason,QB,1985,24,CIN,NFL,QB,15,14,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+EsiaBo00,Boomer Esiason,QB,1986,25,CIN,NFL,QB,16,16,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,PB
+EsiaBo00,Boomer Esiason,QB,,,,,,,,,,,,,,,,,,,,,,,,
+EsiaBo00,Boomer Esiason,QB,1988,27,CIN,NFL,QB,16,16,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,"PB,AP-1,AP MVP-1,AP OPoY-2"
+EsiaBo00,Boomer Esiason,QB,,,,,,,,,,,,,,,,,,,,,,,,
+EsiaBo00,Boomer Esiason,QB,1993,32,NYJ,NFL,QB,16,16,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,PB
+EsiaBo00,Boomer Esiason,QB,,,,,,,,,,,,,,,,,,,,,,,,
+EsiaBo00,Boomer Esiason,QB,1996,35,ARI,NFL,QB,10,8,1,0,0,0,0,0,0,1,1,0,0,0,0,0,8,0.8,

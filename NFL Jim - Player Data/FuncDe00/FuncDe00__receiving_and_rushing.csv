@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FuncDe00,Devin Funchess,WR,2015,21,CAR,NFL,WR,16,5,63,31,473,15.3,5,24,47.6,52,1.9,29.6,49.2,7.5,0,0,0,0,0.0,0.0,31,15.3,473,5,1,5,
+FuncDe00,Devin Funchess,WR,2016,22,CAR,NFL,WR,15,7,58,23,371,16.1,4,20,37.9,48,1.5,24.7,39.7,6.4,0,0,0,0,0.0,0.0,23,16.1,371,4,0,3,
+FuncDe00,Devin Funchess,WR,2017,23,CAR,NFL,WR,16,16,111,63,840,13.3,8,40,48.6,44,3.9,52.5,56.8,7.6,0,0,0,0,0.0,0.0,63,13.3,840,8,0,8,
+FuncDe00,Devin Funchess,WR,2018,24,CAR,NFL,WR,14,12,79,44,549,12.5,4,35,50.6,27,3.1,39.2,55.7,6.9,0,0,0,0,0.0,0.0,44,12.5,549,4,0,5,
+FuncDe00,Devin Funchess,WR,2019,25,IND,NFL,WR,1,1,5,3,32,10.7,0,2,60.0,16,3.0,32.0,60.0,6.4,0,0,0,0,0.0,0.0,3,10.7,32,0,0,0,

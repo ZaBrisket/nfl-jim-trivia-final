@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+EkelAu00,Austin Ekeler,RB,2018,23,LAC,NFL,RB,2,0,11,29,0,13,1.2,16,1.5,0,,9,7,33,1,-17,-2.4,50,7.1,1.4,1,7.0,0,0.0,0,81.9,
+EkelAu00,Austin Ekeler,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EkelAu00,Austin Ekeler,RB,2022,27,LAC,NFL,RB,1,1,13,35,3,15,1.2,20,1.5,2,6.5,4,2,8,0,-8,-4.0,16,8.0,-2.5,0,,0,0.0,0,56.2,
+EkelAu00,Austin Ekeler,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EkelAu00,Austin Ekeler,RB,2024,29,WAS,NFL,RB,3,0,22,89,3,55,2.5,34,1.5,0,,15,12,84,3,-6,-0.5,90,7.5,1.7,1,12.0,0,0.0,0,90.0,

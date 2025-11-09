@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+DobbJo00,Joshua Dobbs,QB,2022,27,TEN,NFL,QB,2,2,75,79,74,78,74,84,86,88,74,
+DobbJo00,Joshua Dobbs,QB,2023,28,2TM,NFL,QB,13,12,75,80,79,81,92,87,98,101,83,
+DobbJo00,Joshua Dobbs,QB,2023,28,ARI,NFL,QB,8,8,75,81,82,85,92,86,110,106,86,
+DobbJo00,Joshua Dobbs,QB,2023,28,MIN,NFL,QB,5,4,76,77,73,74,93,90,77,92,78,

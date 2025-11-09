@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LondDr00,Drake London,WR,2022,21,ATL,NFL,WR,17,15,117,72,866,12.0,4,48,56.4,40,4.2,50.9,61.5,7.4,0,0,0,0,,,,0.0,0.0,72,12.0,866,4,3,9,
+LondDr00,Drake London,WR,2023,22,ATL,NFL,WR,16,16,110,69,905,13.1,2,45,52.7,45,4.3,56.6,62.7,8.2,0,0,0,0,,,,0.0,0.0,69,13.1,905,2,0,7,
+LondDr00,Drake London,WR,2024,23,ATL,NFL,WR,17,17,158,100,1271,12.7,9,67,56.3,39,5.9,74.8,63.3,8.0,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,101,12.6,1268,9,0,10,
+LondDr00,Drake London,WR,2025,24,ATL,NFL,WR,7,7,77,47,587,12.5,5,28,54.5,43,6.7,83.9,61.0,7.6,0,0,0,0,,,,0.0,0.0,47,12.5,587,5,1,,

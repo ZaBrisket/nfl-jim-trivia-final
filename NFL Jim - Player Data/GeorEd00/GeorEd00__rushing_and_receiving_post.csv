@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GeorEd00,Eddie George,RB,1999,26,TEN,NFL,RB,4,4,108,449,3,17,46.3,68,4.2,112.3,27.0,16,10,72,7.2,0,2,12.5,32,2.5,18.0,62.5,4.5,118,4.4,521,3,2,
+GeorEd00,Eddie George,RB,2000,27,TEN,NFL,RB,1,1,27,91,1,7,51.9,15,3.4,91.0,27.0,10,8,52,6.5,0,1,60.0,10,8.0,52.0,80.0,5.2,35,4.1,143,1,0,
+GeorEd00,Eddie George,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeorEd00,Eddie George,RB,2002,29,TEN,NFL,RB,2,2,30,100,1,6,40.0,17,3.3,50.0,15.0,4,1,9,9.0,0,0,25.0,9,0.5,4.5,25.0,2.3,31,3.5,109,1,2,
+GeorEd00,Eddie George,RB,2003,30,TEN,NFL,RB,2,2,41,136,0,4,34.1,13,3.3,68.0,20.5,4,4,16,4.0,0,1,75.0,6,2.0,8.0,100.0,4.0,45,3.4,152,0,0,

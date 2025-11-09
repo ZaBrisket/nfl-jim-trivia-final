@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+McGeTi00,Tim McGee,WR,1986,22,CIN,NFL,WR,16,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+McGeTi00,Tim McGee,WR,1987,23,CIN,NFL,WR,11,6,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+McGeTi00,Tim McGee,WR,1988,24,CIN,NFL,WR,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+McGeTi00,Tim McGee,WR,1989,25,CIN,NFL,WR,16,16,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+McGeTi00,Tim McGee,WR,1990,26,CIN,NFL,WR,16,15,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+McGeTi00,Tim McGee,WR,1991,27,CIN,NFL,WR,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+McGeTi00,Tim McGee,WR,1992,28,CIN,NFL,WR,16,16,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+McGeTi00,Tim McGee,WR,1993,29,WAS,NFL,WR,13,12,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.4,
+McGeTi00,Tim McGee,WR,1994,30,CIN,NFL,WR,14,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

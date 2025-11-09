@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BateRa00,Rashod Bateman,WR,2021,22,BAL,NFL,WR,12,4,68,46,515,11.2,1,29,58.8,36,3.8,42.9,67.6,7.6,0,0,0,0,,,,0.0,0.0,46,11.2,515,1,0,4,
+BateRa00,Rashod Bateman,WR,2022,23,BAL,NFL,WR,6,5,28,15,285,19.0,2,7,42.9,75,2.5,47.5,53.6,10.2,0,0,0,0,,,,0.0,0.0,15,19.0,285,2,1,3,
+BateRa00,Rashod Bateman,WR,2023,24,BAL,NFL,WR,16,12,56,32,367,11.5,1,20,50.0,29,2.0,22.9,57.1,6.6,1,18,0,1,100.0,18,18.0,1.1,0.1,33,11.7,385,1,0,4,
+BateRa00,Rashod Bateman,WR,2024,25,BAL,NFL,WR,17,14,72,45,756,16.8,9,35,52.8,59,2.6,44.5,62.5,10.5,0,0,0,0,,,,0.0,0.0,45,16.8,756,9,0,8,
+BateRa00,Rashod Bateman,WR,2025,26,BAL,NFL,WR,8,7,29,15,184,12.3,2,9,41.4,36,1.9,23.0,51.7,6.3,0,0,0,0,,,,0.0,0.0,15,12.3,184,2,0,,

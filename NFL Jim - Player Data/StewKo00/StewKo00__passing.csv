@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+StewKo00,Kordell Stewart,QB,1995,23,PIT,NFL,QB,10,2,,5,7,71.4,60,1,14.3,0,0.0,3,62.5,32,8.6,11.43,12.0,6.0,136.9,1,0,12.50,7.50,10.00,0,0,3,AP ORoY-4
+StewKo00,Kordell Stewart,QB,1996,24,PIT,NFL,QB,16,2,2-0-0,11,30,36.7,100,0,0.0,2,6.7,4,21.2,15,3.3,0.33,9.1,6.3,18.8,3,37,9.09,1.91,-0.82,0,2,5,
+StewKo00,Kordell Stewart,QB,1997,25,PIT,NFL,QB,16,16,11-5-0,236,440,53.6,3020,21,4.8,17,3.9,143,41.1,69,6.9,6.08,12.8,188.8,75.2,20,152,4.35,6.23,5.48,4,5,16,
+StewKo00,Kordell Stewart,QB,1998,26,PIT,NFL,QB,16,16,7-9-0,252,458,55.0,2560,11,2.4,18,3.9,125,39.7,55,5.6,4.30,10.2,160.0,62.9,33,211,6.72,4.78,3.58,0,1,6,
+StewKo00,Kordell Stewart,QB,1999,27,PIT,NFL,QB,16,12,5-6-0,160,275,58.2,1464,6,2.2,10,3.6,80,40.4,42,5.3,4.12,9.2,91.5,64.9,22,131,7.41,4.49,3.38,0,1,6,
+StewKo00,Kordell Stewart,QB,2000,28,PIT,NFL,QB,16,11,7-4-0,151,289,52.2,1860,11,3.8,8,2.8,91,38.6,45,6.4,5.95,12.3,116.3,73.6,30,150,9.40,5.36,4.92,1,1,10,AP CPoY-12
+StewKo00,Kordell Stewart,QB,2001,29,PIT,NFL,QB,16,16,13-3-0,266,442,60.2,3109,14,3.2,11,2.5,147,43.5,90,7.0,6.55,11.7,194.3,81.7,29,175,6.16,6.23,5.77,1,1,15,"PB,AP MVP-4,AP CPoY-2"
+StewKo00,Kordell Stewart,QB,2002,30,PIT,NFL,QB,7,5,3-2-0,109,166,65.7,1155,6,3.6,6,3.6,60,50.9,64,7.0,6.05,10.6,165.0,82.8,7,46,4.05,6.41,5.54,1,1,5,
+StewKo00,Kordell Stewart,QB,2003,31,CHI,NFL,QB,9,7,2-5-0,126,251,50.2,1418,7,2.8,12,4.8,69,33.3,61,5.6,4.06,11.3,157.6,56.8,25,146,9.06,4.61,3.16,2,2,3,
+StewKo00,Kordell Stewart,QB,2004,32,BAL,NFL,QB,2,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0,0,,,,0,0,0,
+StewKo00,Kordell Stewart,QB,2005,33,BAL,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0,0,,,,0,0,0,

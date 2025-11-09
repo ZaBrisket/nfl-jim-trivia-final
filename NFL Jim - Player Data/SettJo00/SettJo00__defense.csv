@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+SettJo00,John Settle,RB,1987,22,ATL,NFL,RB,9,1,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+SettJo00,John Settle,RB,1988,23,ATL,NFL,FB,16,13,0,0,0,0,1,3,1,0,0,0.0,0,0,0,0,PB
+SettJo00,John Settle,RB,1989,24,ATL,NFL,FB,15,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

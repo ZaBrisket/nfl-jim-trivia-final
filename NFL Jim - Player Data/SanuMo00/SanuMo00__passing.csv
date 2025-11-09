@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+SanuMo00,Mohamed Sanu,WR,2012,23,CIN,NFL,WR,9,3,1,1,100.0,73,1,100.0,0,0.0,1,100.0,73,73.0,93.00,73.0,8.1,158.3,100.0,0,0,0.00,73.00,93.00,0,0,
+SanuMo00,Mohamed Sanu,WR,2013,24,CIN,NFL,WR,16,14,1,1,100.0,25,0,0.0,0,0.0,1,100.0,25,25.0,25.00,25.0,1.6,118.7,88.6,0,0,0.00,25.00,25.00,0,0,
+SanuMo00,Mohamed Sanu,WR,2014,25,CIN,NFL,WR,16,13,3,3,100.0,79,1,33.3,0,0.0,3,75.0,50,26.3,33.00,26.3,4.9,158.3,88.2,1,6,25.00,18.25,23.25,0,0,
+SanuMo00,Mohamed Sanu,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SanuMo00,Mohamed Sanu,WR,2017,28,ATL,NFL,WR,15,15,1,1,100.0,51,1,100.0,0,0.0,1,100.0,51,51.0,71.00,51.0,3.4,158.3,96.5,0,0,0.00,51.00,71.00,0,0,
+SanuMo00,Mohamed Sanu,WR,2018,29,ATL,NFL,WR,16,16,1,2,50.0,5,1,50.0,0,0.0,1,50.0,5,2.5,12.50,5.0,0.3,95.8,32.3,0,0,0.00,2.50,12.50,0,0,

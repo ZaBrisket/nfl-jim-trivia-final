@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GillMi00,Mike Gillislee,RB,2013,23,MIA,RB,23,3,0,9,4%,0,0%,30,35%
+GillMi00,Mike Gillislee,RB,2015,25,BUF,RB,35,5,1,112,33%,0,0%,14,10%
+GillMi00,Mike Gillislee,RB,2016,26,BUF,RB,35,15,1,283,28%,0,0%,164,38%
+GillMi00,Mike Gillislee,RB,2017,27,NWE,RB,35,9,2,171,26%,0,0%,0,0%
+GillMi00,Mike Gillislee,RB,2018,28,NOR,RB,25,4,0,25,9%,0,0%,43,34%

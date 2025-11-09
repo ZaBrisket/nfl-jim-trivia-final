@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+CharDJ00,DJ Chark,WR,2018,22,JAX,NFL,WR,11,0,32,14,174,6,129,9.2,45,3.2,9.8,0,,2,6.3,1,48.2,0,0,0,0,,0,,0,
+CharDJ00,DJ Chark,WR,2019,23,JAX,NFL,WR,15,14,118,73,1008,42,679,9.3,329,4.5,11.5,5,14.6,4,3.4,2,104.8,2,20,1,16,8.0,4,2.0,0,PB
+CharDJ00,DJ Chark,WR,2020,24,JAX,NFL,WR,13,12,93,53,706,37,541,10.2,165,3.1,14.0,0,,2,2.2,5,76.7,0,0,0,0,,0,,0,
+CharDJ00,DJ Chark,WR,2021,25,JAX,NFL,WR,4,4,22,7,154,7,130,18.6,24,3.4,16.3,0,,1,4.5,1,69.1,0,0,0,0,,0,,0,
+CharDJ00,DJ Chark,WR,2022,26,DET,NFL,WR,11,10,52,30,502,24,368,12.3,134,4.5,15.2,0,,5,9.6,1,101.6,0,0,0,0,,0,,0,
+CharDJ00,DJ Chark,WR,2023,27,CAR,NFL,WR,15,11,66,35,525,22,441,12.6,84,2.4,15.4,1,35.0,4,6.1,0,104.7,0,0,0,0,,0,,0,
+CharDJ00,DJ Chark,WR,2024,28,LAC,NFL,WR,7,0,10,4,31,1,24,6.0,7,1.8,11.5,0,,0,0.0,0,81.7,0,0,0,0,,0,,0,

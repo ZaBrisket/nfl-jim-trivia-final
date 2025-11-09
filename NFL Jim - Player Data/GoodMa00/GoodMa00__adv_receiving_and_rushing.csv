@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+GoodMa00,Marquise Goodwin,WR,2018,28,SFO,NFL,WR,11,8,43,23,395,19,269,11.7,126,5.5,13.4,1,23.0,3,7.0,4,77.2,4,9,0,6,1.5,3,0.8,0,
+GoodMa00,Marquise Goodwin,WR,2019,29,SFO,NFL,WR,9,6,21,12,186,10,153,12.8,33,2.8,13.4,0,,2,9.5,0,102.5,1,15,1,15,15.0,0,0.0,0,
+GoodMa00,Marquise Goodwin,WR,2020,,Did not play - Opted out during COVID-19 pandemic,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GoodMa00,Marquise Goodwin,WR,2021,31,CHI,NFL,WR,14,2,40,20,313,12,230,11.5,83,4.2,11.9,0,,2,5.0,1,74.3,2,-1,0,-2,-1.0,1,0.5,0,
+GoodMa00,Marquise Goodwin,WR,2022,32,SEA,NFL,WR,13,2,42,27,387,18,273,10.1,114,4.2,10.5,2,13.5,2,4.8,1,115.9,2,5,0,5,2.5,0,0.0,0,
+GoodMa00,Marquise Goodwin,WR,2023,33,CLE,NFL,WR,12,0,13,4,67,1,46,11.5,21,5.3,30.1,0,,2,15.4,2,9.6,4,33,2,29,7.3,4,1.0,0,

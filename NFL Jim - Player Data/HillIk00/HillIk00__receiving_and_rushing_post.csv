@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HillIk00,Ike Hilliard,WR,2000,24,NYG,NFL,WR,3,3,28,16,220,13.8,2,12,50.0,46,5.3,73.3,57.1,7.9,1,-1,0,0,0.0,-1,-1.0,-0.3,0.3,17,12.9,219,2,0,
+HillIk00,Ike Hilliard,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HillIk00,Ike Hilliard,WR,2005,29,TAM,NFL,WR,1,0,4,4,38,9.5,0,3,75.0,19,4.0,38.0,100.0,9.5,0,0,0,0,,,,0.0,0.0,4,9.5,38,0,0,
+HillIk00,Ike Hilliard,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HillIk00,Ike Hilliard,WR,2007,31,TAM,NFL,WR,1,0,6,4,27,6.8,0,1,50.0,9,4.0,27.0,66.7,4.5,0,0,0,0,,,,0.0,0.0,4,6.8,27,0,0,

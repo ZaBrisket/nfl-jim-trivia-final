@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MillJu00,Junior Miller,TE,1980,23,ATL,NFL,TE,16,14,80,46,584,12.7,9,30,48.8,36,2.9,36.5,57.5,7.3,2,-2,0,0,0.0,,-1.0,-0.1,0.1,48,12.1,582,9,2,6,"PB,AP-2"
+MillJu00,Junior Miller,TE,1981,24,ATL,NFL,TE,16,16,71,32,398,12.4,3,20,36.6,37,2.0,24.9,45.1,5.6,0,0,0,0,,,,0.0,0.0,32,12.4,398,3,0,4,PB
+MillJu00,Junior Miller,TE,1982,25,ATL,NFL,TE,9,9,38,20,221,11.1,1,10,50.0,39,2.2,24.6,52.6,5.8,0,0,0,0,,,,0.0,0.0,20,11.1,221,1,1,3,
+MillJu00,Junior Miller,TE,1983,26,ATL,NFL,TE,15,6,22,16,125,7.8,0,5,50.0,19,1.1,8.3,72.7,5.7,1,2,0,0,0.0,2,2.0,0.1,0.1,17,7.5,127,0,1,1,
+MillJu00,Junior Miller,TE,1984,27,NOR,NFL,TE,15,0,19,8,81,10.1,1,3,31.6,22,0.5,5.4,42.1,4.3,0,0,0,0,,,,0.0,0.0,8,10.1,81,1,0,1,

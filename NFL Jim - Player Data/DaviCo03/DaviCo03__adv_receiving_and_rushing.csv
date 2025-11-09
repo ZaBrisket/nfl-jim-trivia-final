@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+DaviCo03,Corey Davis,WR,2018,23,TEN,NFL,WR,16,16,112,65,891,47,624,9.6,267,4.1,10.3,5,13.0,6,5.4,1,91.8,6,55,2,50,8.3,5,0.8,1,6.0,
+DaviCo03,Corey Davis,WR,2019,24,TEN,NFL,TE,15,11,69,43,601,33,360,8.4,241,5.6,11.5,8,5.4,4,5.8,0,100.0,0,0,0,0,,0,,0,,
+DaviCo03,Corey Davis,WR,2020,25,TEN,NFL,WR,14,12,92,65,984,49,693,10.7,291,4.5,11.7,3,21.7,3,3.3,0,123.6,0,0,0,0,,0,,0,,
+DaviCo03,Corey Davis,WR,2021,26,NYJ,NFL,WR,9,9,59,34,492,23,368,10.8,124,3.6,13.1,2,17.0,5,8.5,5,72.1,0,0,0,0,,0,,0,,
+DaviCo03,Corey Davis,WR,2022,27,NYJ,NFL,WR,13,10,64,32,536,28,427,13.3,109,3.4,13.4,1,32.0,2,3.1,2,76.0,0,0,0,0,,0,,0,,

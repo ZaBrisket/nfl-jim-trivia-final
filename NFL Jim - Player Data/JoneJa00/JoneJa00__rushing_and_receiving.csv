@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneJa00,James Jones,FB,1983,22,DET,NFL,FB,14,14,135,475,6,33,57.8,18,3.5,33.9,9.6,70,46,467,10.2,1,24,45.7,46,3.3,33.4,65.7,6.7,181,5.2,942,7,4,8,
+JoneJa00,James Jones,FB,1984,23,DET,NFL,FB,16,16,137,532,3,36,48.9,34,3.9,33.3,8.6,101,77,662,8.6,5,29,54.5,39,4.8,41.4,76.2,6.6,214,5.6,1194,8,6,9,
+JoneJa00,James Jones,FB,1985,24,DET,NFL,FB,14,13,244,886,6,52,49.6,29,3.6,63.3,17.4,54,45,334,7.4,3,15,50.0,36,3.2,23.9,83.3,6.2,289,4.2,1220,9,7,9,
+JoneJa00,James Jones,FB,1986,25,DET,NFL,FB,16,16,252,903,8,63,48.4,39,3.6,56.4,15.8,74,54,334,6.2,1,18,40.5,21,3.4,20.9,73.0,4.5,306,4.0,1237,9,6,9,
+JoneJa00,James Jones,FB,1987,26,DET,NFL,FB,11,11,96,342,0,18,47.9,19,3.6,31.1,8.7,49,34,262,7.7,0,8,46.9,35,3.1,23.8,69.4,5.3,130,4.6,604,0,2,5,
+JoneJa00,James Jones,FB,1988,27,DET,NFL,FB,14,14,96,314,0,11,40.6,13,3.3,22.4,6.9,41,29,259,8.9,0,11,39.0,40,2.1,18.5,70.7,6.3,125,4.6,573,0,2,4,
+JoneJa00,James Jones,FB,1989,28,SEA,NFL,FB,2,0,0,0,0,0,,,,0.0,0.0,1,1,8,8.0,0,1,100.0,8,0.5,4.0,100.0,8.0,1,8.0,8,0,0,0,
+JoneJa00,James Jones,FB,1990,29,SEA,NFL,FB,16,0,5,20,0,2,60.0,5,4.0,1.3,0.3,1,1,22,22.0,0,1,100.0,22,0.1,1.4,100.0,22.0,6,7.0,42,0,0,0,
+JoneJa00,James Jones,FB,1991,30,SEA,NFL,RB,16,6,45,154,3,13,53.3,22,3.4,9.6,2.8,13,10,103,10.3,0,5,53.8,29,0.6,6.4,76.9,7.9,55,4.7,257,3,2,2,
+JoneJa00,James Jones,FB,1992,31,SEA,NFL,FB,16,1,0,0,0,0,,,,0.0,0.0,38,21,190,9.0,0,7,36.8,30,1.3,11.9,55.3,5.0,21,9.0,190,0,0,1,

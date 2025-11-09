@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+AberWa00,Walter Abercrombie,RB,1982,23,PIT,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+AberWa00,Walter Abercrombie,RB,1983,24,PIT,NFL,RB,1,0,6,36,0,2,50.0,21,6.0,36.0,6.0,4,1,4,4.0,0,0,25.0,4,1.0,4.0,25.0,1.0,7,5.7,40,0,0,
+AberWa00,Walter Abercrombie,RB,1984,25,PIT,NFL,RB,2,2,32,143,0,7,56.3,20,4.5,71.5,16.0,4,4,31,7.8,0,2,100.0,13,2.0,15.5,100.0,7.8,36,4.8,174,0,0,
+AberWa00,Walter Abercrombie,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AberWa00,Walter Abercrombie,RB,1988,29,PHI,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,

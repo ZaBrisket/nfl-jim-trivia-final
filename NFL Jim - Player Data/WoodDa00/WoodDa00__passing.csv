@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+WoodDa00,David Woodley,QB,1980,22,MIA,NFL,QB,13,11,6-5-0,176,327,53.8,1850,14,4.3,17,5.2,94,38.4,61,5.7,4.17,10.5,142.3,63.1,17,127,4.94,5.01,3.60,1,2,5,AP ORoY-3
+WoodDa00,David Woodley,QB,1981,23,MIA,NFL,QB,15,15,11-3-1,191,366,52.2,2470,12,3.3,13,3.6,111,38.7,69,6.7,5.81,12.9,164.7,69.8,24,191,6.15,5.84,4.96,1,2,10,
+WoodDa00,David Woodley,QB,1982,24,MIA,NFL,QB,9,9,7-2-0,98,179,54.7,1080,5,2.8,8,4.5,51,37.6,46,6.0,4.58,11.0,120.0,63.5,10,82,5.29,5.28,3.90,0,0,10,
+WoodDa00,David Woodley,QB,1983,25,MIA,NFL,QB,5,5,3-2-0,43,89,48.3,528,3,3.4,4,4.5,21,32.3,64,5.9,4.58,12.3,105.6,59.6,10,80,10.10,4.53,3.31,0,0,3,
+WoodDa00,David Woodley,QB,1984,26,PIT,NFL,QB,7,7,3-4-0,85,156,54.5,1273,8,5.1,7,4.5,56,42.8,80,8.2,7.17,15.0,181.9,79.9,10,67,6.02,7.27,6.33,0,0,5,
+WoodDa00,David Woodley,QB,1985,27,PIT,NFL,QB,9,6,4-2-0,94,183,51.4,1357,6,3.3,14,7.7,60,40.8,69,7.4,4.63,14.4,150.8,54.8,13,84,6.63,6.49,3.89,1,1,4,

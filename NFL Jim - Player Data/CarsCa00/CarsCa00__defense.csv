@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+CarsCa00,Carlos Carson,WR,1980,22,KAN,NFL,WR,16,1,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+CarsCa00,Carlos Carson,WR,1981,23,KAN,NFL,WR,5,1,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+CarsCa00,Carlos Carson,WR,1982,24,KAN,NFL,WR,9,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+CarsCa00,Carlos Carson,WR,1983,25,KAN,NFL,WR,16,16,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,PB
+CarsCa00,Carlos Carson,WR,1984,26,KAN,NFL,WR,16,16,0,0,0,0,1,0,2,0,0,0.0,0,0,0,0,
+CarsCa00,Carlos Carson,WR,,,,,,,,,,,,,,,,,,,,,,
+CarsCa00,Carlos Carson,WR,1986,28,KAN,NFL,WR,10,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+CarsCa00,Carlos Carson,WR,1987,29,KAN,NFL,WR,12,12,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,PB

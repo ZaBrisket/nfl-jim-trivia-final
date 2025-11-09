@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BortBl00,Blake Bortles,QB,2014,22,JAX,QB,5,14,13,896,98%,0,0%,0,0%
+BortBl00,Blake Bortles,QB,2015,23,JAX,QB,5,16,16,1058,100%,0,0%,0,0%
+BortBl00,Blake Bortles,QB,2016,24,JAX,QB,5,16,16,1112,100%,0,0%,0,0%
+BortBl00,Blake Bortles,QB,2017,25,JAX,QB,5,16,16,1103,98%,0,0%,0,0%
+BortBl00,Blake Bortles,QB,2018,26,JAX,QB,5,13,12,777,91%,0,0%,0,0%
+BortBl00,Blake Bortles,QB,2019,27,LAR,QB,5,3,0,11,5%,0,0%,0,0%

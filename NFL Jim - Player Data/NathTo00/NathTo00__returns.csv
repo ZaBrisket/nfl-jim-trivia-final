@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+NathTo00,Tony Nathan,RB,1979,23,MIA,NFL,RB,16,0,28,306,1,86,10.9,45,1016,0,43,22.6,1603,AP-1
+NathTo00,Tony Nathan,RB,1980,24,MIA,NFL,RB,16,6,23,178,0,30,7.7,5,102,0,31,20.4,1195,
+NathTo00,Tony Nathan,RB,,,,,,,,,,,,,,,,,,,
+NathTo00,Tony Nathan,RB,1983,27,MIA,NFL,RB,16,12,0,0,0,0,,3,15,0,12,5.0,1161,

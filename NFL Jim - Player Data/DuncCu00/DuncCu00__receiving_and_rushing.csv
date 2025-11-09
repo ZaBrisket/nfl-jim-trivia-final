@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DuncCu00,Curtis Duncan,WR,1987,22,HOU,NFL,WR,10,0,33,13,237,18.2,5,11,36.4,48,1.3,23.7,39.4,7.2,0,0,0,0,,,0.0,0.0,13,18.2,237,5,0,2,
+DuncCu00,Curtis Duncan,WR,1988,23,HOU,NFL,WR,16,0,55,22,302,13.7,1,12,30.9,36,1.4,18.9,40.0,5.5,0,0,0,0,,,0.0,0.0,22,13.7,302,1,0,4,
+DuncCu00,Curtis Duncan,WR,1989,24,HOU,NFL,WR,16,1,70,43,613,14.3,5,27,54.3,55,2.7,38.3,61.4,8.8,1,0,0,0,0.0,0.0,0.0,0.1,44,13.9,613,5,1,5,
+DuncCu00,Curtis Duncan,WR,1990,25,HOU,NFL,WR,16,16,95,66,785,11.9,1,42,67.4,37,4.1,49.1,69.5,8.3,0,0,0,0,,,0.0,0.0,66,11.9,785,1,1,7,
+DuncCu00,Curtis Duncan,WR,1991,26,HOU,NFL,WR,16,16,84,55,588,10.7,4,34,57.1,42,3.4,36.8,65.5,7.0,0,0,0,0,,,0.0,0.0,55,10.7,588,4,1,5,
+DuncCu00,Curtis Duncan,WR,1992,27,HOU,NFL,WR,16,16,112,82,954,11.6,1,51,67.0,72,5.1,59.6,73.2,8.5,0,0,0,0,,,0.0,0.0,82,11.6,954,1,0,10,PB
+DuncCu00,Curtis Duncan,WR,1993,28,HOU,NFL,WR,12,12,80,41,456,11.1,3,24,46.3,47,3.4,38.0,51.3,5.7,0,0,0,0,,,0.0,0.0,41,11.1,456,3,0,4,

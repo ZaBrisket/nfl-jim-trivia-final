@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BernGi00,Giovani Bernard,RB,2013,22,CIN,NFL,RB,16,0,170,695,5,33,47.1,35,4.1,43.4,10.6,71,56,514,9.2,3,22,45.1,41,3.5,32.1,78.9,7.2,226,5.3,1209,8,1,9,AP ORoY-3
+BernGi00,Giovani Bernard,RB,2014,23,CIN,NFL,RB,13,9,168,680,5,32,36.9,89,4.0,52.3,12.9,59,43,349,8.1,2,14,37.3,46,3.3,26.8,72.9,5.9,211,4.9,1029,7,0,7,
+BernGi00,Giovani Bernard,RB,2015,24,CIN,NFL,RB,16,1,154,730,2,36,47.4,28,4.7,45.6,9.6,66,49,472,9.6,0,19,45.5,45,3.1,29.5,74.2,7.2,203,5.9,1202,2,2,10,
+BernGi00,Giovani Bernard,RB,2016,25,CIN,NFL,RB,10,2,91,337,2,16,48.4,17,3.7,33.7,9.1,51,39,336,8.6,1,16,49.0,32,3.9,33.6,76.5,6.6,130,5.2,673,3,1,4,
+BernGi00,Giovani Bernard,RB,2017,26,CIN,NFL,RB,16,2,105,458,2,21,41.9,25,4.4,28.6,6.6,60,43,389,9.0,2,17,35.0,61,2.7,24.3,71.7,6.5,148,5.7,847,4,0,7,
+BernGi00,Giovani Bernard,RB,2018,27,CIN,NFL,RB,12,4,56,211,3,14,37.5,23,3.8,17.6,4.7,48,35,218,6.2,0,8,41.7,26,2.9,18.2,72.9,4.5,91,4.7,429,3,0,3,
+BernGi00,Giovani Bernard,RB,2019,28,CIN,NFL,RB,16,2,53,170,0,10,32.1,25,3.2,10.6,3.3,43,30,234,7.8,0,7,30.2,35,1.9,14.6,69.8,5.4,83,4.9,404,0,2,2,
+BernGi00,Giovani Bernard,RB,2020,29,CIN,NFL,RB,16,10,124,416,3,23,46.0,15,3.4,26.0,7.8,59,47,355,7.6,3,15,42.4,42,2.9,22.2,79.7,6.0,171,4.5,771,6,1,5,
+BernGi00,Giovani Bernard,RB,2021,30,TAM,NFL,RB,12,0,8,58,0,3,62.5,24,7.3,4.8,0.7,29,23,123,5.3,3,8,44.8,32,1.9,10.3,79.3,4.2,31,5.8,181,3,1,1,
+BernGi00,Giovani Bernard,RB,2022,31,TAM,NFL,RB,8,0,8,28,0,0,50.0,8,3.5,3.5,1.0,2,2,-1,-0.5,0,0,0.0,6,0.3,-0.1,100.0,-0.5,10,2.7,27,0,1,0,

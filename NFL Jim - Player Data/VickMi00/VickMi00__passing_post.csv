@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+VickMi00,Michael Vick,QB,2002,22,ATL,NFL,QB,2,2,1-1-0,35,63,55.6,391,1,1.6,2,3.2,21,40.9,28,6.2,5.10,11.2,195.5,66.3,3,27,4.55,5.52,4.45,0,0,
+VickMi00,Michael Vick,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2004,24,ATL,NFL,QB,2,2,1-1-0,23,40,57.5,218,2,5.0,1,2.5,8,31.1,31,5.5,5.33,9.5,109.0,79.0,5,47,11.11,3.80,3.69,0,0,
+VickMi00,Michael Vick,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VickMi00,Michael Vick,QB,2009,29,PHI,NFL,QB,1,0,,1,2,50.0,76,1,50.0,0,0.0,1,50.0,76,38.0,48.00,76.0,76.0,135.4,0,0,0.00,38.00,48.00,0,0,
+VickMi00,Michael Vick,QB,2010,30,PHI,NFL,QB,1,1,0-1-0,20,36,55.6,292,1,2.8,1,2.8,12,41.0,44,8.1,7.42,14.6,292.0,79.9,3,21,7.69,6.95,6.31,0,0,

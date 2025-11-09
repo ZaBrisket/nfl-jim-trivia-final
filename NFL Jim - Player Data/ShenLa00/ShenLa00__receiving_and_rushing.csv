@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ShenLa00,Laviska Shenault Jr.,WR,2020,22,JAX,NFL,WR,14,12,79,58,600,10.3,5,33,53.2,36,4.1,42.9,73.4,7.6,18,91,0,6,55.6,17,5.1,6.5,1.3,76,9.1,691,5,0,5,
+ShenLa00,Laviska Shenault Jr.,WR,2021,23,JAX,NFL,WR,16,10,100,63,619,9.8,0,30,47.0,58,3.9,38.7,63.0,6.2,11,41,0,2,45.5,11,3.7,2.6,0.7,74,8.9,660,0,1,4,
+ShenLa00,Laviska Shenault Jr.,WR,2022,24,CAR,NFL,WR,13,4,32,27,272,10.1,1,10,50.0,67,2.1,20.9,84.4,8.5,9,65,1,1,33.3,41,7.2,5.0,0.7,36,9.4,337,2,0,3,
+ShenLa00,Laviska Shenault Jr.,WR,2023,25,CAR,NFL,WR,8,0,10,10,60,6.0,0,2,30.0,14,1.3,7.5,100.0,6.0,12,55,0,3,50.0,11,4.6,6.9,1.5,22,5.2,115,0,1,1,
+ShenLa00,Laviska Shenault Jr.,WR,2024,26,2TM,NFL,WR,12,2,5,5,36,7.2,0,2,60.0,18,0.4,3.0,100.0,7.2,1,1,0,0,0.0,1,1.0,0.1,0.1,6,6.2,37,0,2,1,
+ShenLa00,Laviska Shenault Jr.,WR,2024,26,SEA,NFL,WR,11,1,5,5,36,7.2,0,2,60.0,18,0.5,3.3,100.0,7.2,1,1,0,0,0.0,1,1.0,0.1,0.1,6,6.2,37,0,2,1,
+ShenLa00,Laviska Shenault Jr.,WR,2024,26,LAC,NFL,WR,1,1,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

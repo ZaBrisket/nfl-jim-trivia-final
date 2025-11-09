@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+DownJo00,Josh Downs,WR,2023,22,IND,NFL,WR,17,9,98,68,771,30,400,5.9,371,5.5,7.2,2,34.0,5,5.1,1,95.2,0,0,0,0,,0,,0,
+DownJo00,Josh Downs,WR,2024,23,IND,NFL,WR,14,8,107,72,803,40,407,5.7,396,5.5,6.9,3,24.0,5,4.7,3,93.3,1,12,0,12,12.0,0,0.0,0,
+DownJo00,Josh Downs,WR,2025,24,IND,NFL,WR,8,5,46,35,313,23,232,6.6,81,2.3,6.8,0,,0,0.0,1,106.5,0,0,0,0,,0,,0,

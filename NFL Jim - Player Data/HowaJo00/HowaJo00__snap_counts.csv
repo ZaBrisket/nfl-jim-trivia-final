@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HowaJo00,Jordan Howard,RB,2016*,22,CHI,RB,24,15,13,654,69%,0,0%,4,1%
+HowaJo00,Jordan Howard,RB,2017,23,CHI,RB,24,16,16,576,58%,0,0%,0,0%
+HowaJo00,Jordan Howard,RB,2018,24,CHI,RB,24,16,15,624,58%,0,0%,0,0%
+HowaJo00,Jordan Howard,RB,2019,25,PHI,RB,24,10,4,280,39%,0,0%,5,2%
+HowaJo00,Jordan Howard,RB,2020,26,2TM,RB,,7,4,68,,0,,0,
+HowaJo00,Jordan Howard,RB,,,MIA,RB,34,5,3,50,15%,0,0%,0,0%
+HowaJo00,Jordan Howard,RB,,,,,,,,18,13%,0,0%,0,0%
+HowaJo00,Jordan Howard,RB,2021,27,PHI,RB,24,7,0,153,33%,0,0%,16,8%
+HowaJo00,Jordan Howard,RB,2022,28,NOR,RB,28,2,0,4,4%,0,0%,0,0%

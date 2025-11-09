@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WestMi00,Michael Westbrook,WR,1995,23,WAS,NFL,WR,11,9,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+WestMi00,Michael Westbrook,WR,1996,24,WAS,NFL,WR,11,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+WestMi00,Michael Westbrook,WR,1997,25,WAS,NFL,WR,13,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+WestMi00,Michael Westbrook,WR,1998,26,WAS,NFL,WR,11,10,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,3.3,
+WestMi00,Michael Westbrook,WR,1999,27,WAS,NFL,WR,16,16,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,AP CPoY-7
+WestMi00,Michael Westbrook,WR,,,,,,,,,,,,,,,,,,,,,,,,
+WestMi00,Michael Westbrook,WR,2001,29,WAS,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WestMi00,Michael Westbrook,WR,2002,30,CIN,NFL,WR,9,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.3,

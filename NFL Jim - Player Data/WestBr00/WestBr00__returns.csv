@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WestBr00,Brian Westbrook,RB,2003,24,PHI,NFL,RB,15,8,20,306,2,84,15.3,23,487,0,47,21.2,1738,
+WestBr00,Brian Westbrook,RB,2004,25,PHI,NFL,RB,13,12,2,14,0,14,7.0,0,0,0,0,,1529,PB
+WestBr00,Brian Westbrook,RB,2005,26,PHI,NFL,RB,12,12,8,60,0,23,7.5,0,0,0,0,,1293,
+WestBr00,Brian Westbrook,RB,2006,27,PHI,NFL,RB,15,14,5,39,0,13,7.8,0,0,0,0,,1955,
+WestBr00,Brian Westbrook,RB,2007,28,PHI,NFL,RB,15,15,4,79,0,5,19.8,0,0,0,0,,2183,"PB,AP-1"

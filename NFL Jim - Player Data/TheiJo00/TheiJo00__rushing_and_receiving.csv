@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TheiJo00,Joe Theismann,QB,1974,25,WAS,NFL,QB,9,0,3,12,1,,,12,4.0,1.3,0.3,,0,0,0,,,0.0,0.0,,,3,4.0,12,1,0,
+TheiJo00,Joe Theismann,QB,1975,26,WAS,NFL,QB,14,0,3,34,0,,,21,11.3,2.4,0.2,,0,0,0,,,0.0,0.0,,,3,11.3,34,0,0,
+TheiJo00,Joe Theismann,QB,1976,27,WAS,NFL,QB,14,5,17,97,1,,,22,5.7,6.9,1.2,,0,0,0,,,0.0,0.0,,,17,5.7,97,1,2,
+TheiJo00,Joe Theismann,QB,1977,28,WAS,NFL,QB,14,6,29,149,1,,,14,5.1,10.6,2.1,,0,0,0,,,0.0,0.0,,,29,5.1,149,1,0,
+TheiJo00,Joe Theismann,QB,1978,29,WAS,NFL,QB,16,14,37,177,1,12,48.6,20,4.8,11.1,2.3,0,0,0,0,0,,0.0,0.0,,,37,4.8,177,1,8,
+TheiJo00,Joe Theismann,QB,1979,30,WAS,NFL,QB,16,16,46,181,4,20,54.3,22,3.9,11.3,2.9,0,0,0,0,0,,0.0,0.0,,,46,3.9,181,4,3,
+TheiJo00,Joe Theismann,QB,1980,31,WAS,NFL,QB,16,15,29,175,3,16,65.5,37,6.0,10.9,1.8,0,0,0,0,0,,0.0,0.0,,,29,6.0,175,3,6,
+TheiJo00,Joe Theismann,QB,1981,32,WAS,NFL,QB,16,16,36,177,2,17,52.8,24,4.9,11.1,2.3,0,0,0,0,0,,0.0,0.0,,,36,4.9,177,2,7,
+TheiJo00,Joe Theismann,QB,1982,33,WAS,NFL,QB,9,9,31,150,0,5,41.9,16,4.8,16.7,3.4,0,0,0,0,0,,0.0,0.0,,,31,4.8,150,0,4,"PB,AP MVP-4"
+TheiJo00,Joe Theismann,QB,1983,34,WAS,NFL,QB,16,16,37,234,1,15,48.6,22,6.3,14.6,2.3,0,0,0,0,0,,0.0,0.0,,,37,6.3,234,1,1,"PB,AP-1,AP MVP-1,AP OPoY-1"
+TheiJo00,Joe Theismann,QB,1984,35,WAS,NFL,QB,16,16,62,314,1,18,43.5,27,5.1,19.6,3.9,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,62,5.1,314,1,7,
+TheiJo00,Joe Theismann,QB,1985,36,WAS,NFL,QB,11,11,25,115,2,7,40.0,25,4.6,10.5,2.3,0,0,0,0,0,,0.0,0.0,,,25,4.6,115,2,4,

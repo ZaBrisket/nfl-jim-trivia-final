@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FielJu00,Justin Fields,QB,2021,22,CHI,NFL,QB,12,10,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.0,
+FielJu00,Justin Fields,QB,2022,23,CHI,NFL,QB,15,15,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,48,3.2,AP MVP-9
+FielJu00,Justin Fields,QB,2023,24,CHI,NFL,QB,13,13,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.8,
+FielJu00,Justin Fields,QB,2024,25,PIT,NFL,QB,10,6,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,30,3.0,
+FielJu00,Justin Fields,QB,2025,26,NYJ,NFL,QB,7,7,3,0,0,0,0,0,0,3,2,0,0,0,0,0,0,22,3.1,

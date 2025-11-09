@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HillJe01,Jeremy Hill,RB,2014,22,CIN,RB,32,16,8,501,47%,0,0%,4,1%
+HillJe01,Jeremy Hill,RB,2015,23,CIN,RB,32,16,15,457,43%,0,0%,0,0%
+HillJe01,Jeremy Hill,RB,2016,24,CIN,RB,32,15,13,443,44%,0,0%,0,0%
+HillJe01,Jeremy Hill,RB,2017,25,CIN,RB,32,7,7,77,18%,0,0%,7,4%
+HillJe01,Jeremy Hill,RB,2018,26,NWE,RB,33,1,0,12,16%,0,0%,6,19%

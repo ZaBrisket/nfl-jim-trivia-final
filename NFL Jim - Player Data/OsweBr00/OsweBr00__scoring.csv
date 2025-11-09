@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+OsweBr00,Brock Osweiler,QB,2015,25,DEN,NFL,QB,8,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+OsweBr00,Brock Osweiler,QB,2016,26,HOU,NFL,QB,15,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+OsweBr00,Brock Osweiler,QB,2017,27,DEN,NFL,QB,6,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,

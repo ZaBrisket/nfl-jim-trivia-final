@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CoheTa00,Tarik Cohen,RB,2017,22,CHI,NFL,RB,16,4,29,272,1,61,9.4,26,583,0,46,22.4,1578,
+CoheTa00,Tarik Cohen,RB,2018,23,CHI,NFL,RB,16,7,33,411,0,44,12.5,2,22,0,22,11.0,1599,"PB,AP-1"
+CoheTa00,Tarik Cohen,RB,2019,24,CHI,NFL,RB,16,11,33,302,0,71,9.2,2,23,0,16,11.5,994,
+CoheTa00,Tarik Cohen,RB,2020,25,CHI,NFL,RB,3,0,1,0,0,0,0.0,0,0,0,0,,115,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LogaMa00,Marc Logan,RB,1987,22,CIN,NFL,RB,3,3,0,0,0,0,3,31,0,16,10.3,248,
+LogaMa00,Marc Logan,RB,1988,23,CIN,NFL,RB,9,0,0,0,0,0,4,80,0,24,20.0,110,
+LogaMa00,Marc Logan,RB,1989,24,MIA,NFL,RB,10,4,0,0,0,0,24,613,1,97,25.5,847,
+LogaMa00,Marc Logan,RB,1990,25,MIA,NFL,RB,16,0,0,0,0,0,20,367,0,35,18.4,738,
+LogaMa00,Marc Logan,RB,1991,26,MIA,NFL,RB,16,0,0,0,0,0,12,191,0,31,15.9,196,
+LogaMa00,Marc Logan,RB,1992,27,SFO,NFL,RB,16,1,0,0,0,0,22,478,0,82,21.7,539,
+LogaMa00,Marc Logan,RB,,,,,,,,,,,,,,,,,,
+LogaMa00,Marc Logan,RB,1997,32,WAS,NFL,RB,15,1,0,0,0,0,4,70,0,24,17.5,81,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RudoMa00,Mason Rudolph,QB,2019,24,PIT,QB,2,10,8,523,81%,0,0%,0,0%
+RudoMa00,Mason Rudolph,QB,2020,25,PIT,QB,2,5,1,79,23%,0,0%,0,0%
+RudoMa00,Mason Rudolph,QB,2021,26,PIT,QB,2,2,1,97,61%,0,0%,0,0%
+RudoMa00,Mason Rudolph,QB,2023,28,PIT,QB,2,4,3,199,79%,0,0%,0,0%
+RudoMa00,Mason Rudolph,QB,2024,29,TEN,QB,11,8,5,473,86%,0,0%,0,0%
+RudoMa00,Mason Rudolph,QB,2025,30,PIT,QB,2,2,0,6,5%,0,0%,0,0%

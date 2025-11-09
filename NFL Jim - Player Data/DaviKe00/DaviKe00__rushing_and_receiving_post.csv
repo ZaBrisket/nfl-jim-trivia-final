@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DaviKe00,Kenneth Davis,RB,1989,27,BUF,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+DaviKe00,Kenneth Davis,RB,1990,28,BUF,NFL,RB,3,0,12,25,3,3,58.3,6,2.1,8.3,4.0,3,3,26,8.7,0,2,66.7,19,1.0,8.7,100.0,8.7,15,3.4,51,3,0,
+DaviKe00,Kenneth Davis,RB,1991,29,BUF,NFL,RB,3,1,29,99,1,6,48.3,13,3.4,33.0,9.7,8,6,51,8.5,0,3,62.5,12,2.0,17.0,75.0,6.4,35,4.3,150,1,0,
+DaviKe00,Kenneth Davis,RB,1992,30,BUF,NFL,RB,4,0,57,319,2,17,56.1,41,5.6,79.8,14.3,11,9,93,10.3,0,4,45.5,30,2.3,23.3,81.8,8.5,66,6.2,412,2,0,
+DaviKe00,Kenneth Davis,RB,1993,31,BUF,NFL,RB,3,0,30,106,1,10,50.0,15,3.5,35.3,10.0,7,4,11,2.8,0,1,14.3,16,1.3,3.7,57.1,1.6,34,3.4,117,1,1,

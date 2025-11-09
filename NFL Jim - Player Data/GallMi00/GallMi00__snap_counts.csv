@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GallMi00,Michael Gallup,WR,2018,22,DAL,WR,13,16,8,739,69%,0,0%,0,0%
+GallMi00,Michael Gallup,WR,2019,23,DAL,WR,13,14,12,846,85%,0,0%,0,0%
+GallMi00,Michael Gallup,WR,2020,24,DAL,WR,13,16,15,1004,88%,0,0%,0,0%
+GallMi00,Michael Gallup,WR,2021,25,DAL,WR,13,9,8,498,75%,0,0%,1,0%
+GallMi00,Michael Gallup,WR,2022,26,DAL,WR,13,14,11,738,76%,0,0%,0,0%
+GallMi00,Michael Gallup,WR,2023,27,DAL,WR,13,17,13,612,52%,0,0%,0,0%

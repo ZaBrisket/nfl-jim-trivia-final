@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+MullNi00,Nick Mullens,QB,2018,23,SFO,NFL,QB,8,8,176,274,1815,6.6,1057,6.0,3.9,1220,6.9,0,13,4,12,4.7,34,13.2,,,2.3,79,32,41,90,30.8,1,1.0,,,,,,,,,
+MullNi00,Nick Mullens,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MullNi00,Nick Mullens,QB,2020,25,SFO,NFL,QB,10,8,211,326,2053,6.3,1198,5.7,3.7,1239,5.9,7,6,0,17,5.3,48,15.0,241,75.3,2.4,116,33,56,108,31.1,2,5.0,13,74,12,74,0,0,86,863,
+MullNi00,Nick Mullens,QB,2021,26,CLE,NFL,QB,1,1,20,30,204,6.8,76,3.8,2.5,71,3.6,0,0,1,2,6.9,2,6.9,22,75.9,2.3,6,5,4,9,30.0,0,,1,6,1,6,0,0,7,31,
+MullNi00,Nick Mullens,QB,2022,27,MIN,NFL,QB,4,0,21,25,170,6.8,107,5.1,4.3,117,5.6,0,0,0,0,0.0,2,8.0,23,92.0,2.4,3,0,4,4,14.8,2,3.0,1,2,0,0,1,2,10,87,
+MullNi00,Nick Mullens,QB,2023,28,MIN,NFL,QB,5,3,100,148,1380,9.3,829,8.3,5.6,477,4.8,4,2,1,1,0.7,29,20.0,106,73.1,2.5,44,12,25,49,29.7,5,4.0,12,93,12,93,0,0,54,534,
+MullNi00,Nick Mullens,QB,2024,29,MIN,NFL,QB,4,0,2,2,24,12.0,24,12.0,12.0,14,7.0,0,0,0,0,0.0,0,0.0,2,100.0,2.2,0,0,1,1,50.0,0,,0,0,0,0,0,0,0,0,

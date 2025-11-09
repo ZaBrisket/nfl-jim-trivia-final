@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HartJi00,Jim Hart,QB,1967,23,STL,NFL,QB,14,14,110,115,97,100,88,99,80,118,91,AP ORoY-4
+HartJi00,Jim Hart,QB,1968,24,STL,NFL,QB,13,12,92,101,93,98,69,97,96,118,88,
+HartJi00,Jim Hart,QB,1969,25,STL,NFL,QB,9,5,92,98,84,87,93,88,82,114,83,
+HartJi00,Jim Hart,QB,1970,26,STL,NFL,QB,14,14,102,106,102,104,83,93,104,108,96,
+HartJi00,Jim Hart,QB,1971,27,STL,NFL,QB,11,9,99,104,96,99,82,90,97,114,89,
+HartJi00,Jim Hart,QB,1972,28,STL,NFL,QB,6,3,109,114,112,115,96,99,112,113,107,
+HartJi00,Jim Hart,QB,1973,29,STL,NFL,QB,12,12,107,110,116,117,111,105,122,108,117,
+HartJi00,Jim Hart,QB,1974,30,STL,NFL,QB,14,14,94,105,113,118,97,109,131,125,115,"PB,AP-2"
+HartJi00,Jim Hart,QB,1975,31,STL,NFL,QB,14,14,110,124,107,116,101,112,96,138,106,PB
+HartJi00,Jim Hart,QB,1976,32,STL,NFL,QB,14,14,116,125,120,126,112,105,119,125,118,PB
+HartJi00,Jim Hart,QB,1977,33,STL,NFL,QB,14,14,109,121,103,112,100,97,96,129,100,PB
+HartJi00,Jim Hart,QB,1978,34,STL,NFL,QB,15,15,96,108,105,112,91,92,116,123,101,
+HartJi00,Jim Hart,QB,1979,35,STL,NFL,QB,14,13,78,85,78,82,89,78,94,108,78,
+HartJi00,Jim Hart,QB,1980,36,STL,NFL,QB,15,15,99,96,97,95,95,94,97,92,94,
+HartJi00,Jim Hart,QB,1981,37,STL,NFL,QB,10,9,100,104,92,95,100,104,81,105,93,
+HartJi00,Jim Hart,QB,,,,,,,,,,,,,,,,,
+HartJi00,Jim Hart,QB,1983,39,STL,NFL,QB,5,3,88,77,67,63,94,102,41,74,72,

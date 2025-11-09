@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ChamCh00,Chris Chambers,WR,2001,23,MIA,NFL,WR,16,7,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,AP ORoY-3
+ChamCh00,Chris Chambers,WR,2002,24,MIA,NFL,WR,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+ChamCh00,Chris Chambers,WR,2003,25,MIA,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+ChamCh00,Chris Chambers,WR,2004,26,MIA,NFL,WR,15,15,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,2.9,
+ChamCh00,Chris Chambers,WR,2005,27,MIA,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,PB
+ChamCh00,Chris Chambers,WR,2006,28,MIA,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+ChamCh00,Chris Chambers,WR,2007,29,2TM,NFL,WR,16,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+ChamCh00,Chris Chambers,WR,2007,29,SDG,NFL,WR,10,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.4,
+ChamCh00,Chris Chambers,WR,2008,30,SDG,NFL,WR,14,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.1,
+ChamCh00,Chris Chambers,WR,2009,31,2TM,NFL,WR,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+ChamCh00,Chris Chambers,WR,2009,31,SDG,NFL,WR,7,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,
+ChamCh00,Chris Chambers,WR,2009,31,KAN,NFL,WR,9,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+ChamCh00,Chris Chambers,WR,2010,32,KAN,NFL,WR,13,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

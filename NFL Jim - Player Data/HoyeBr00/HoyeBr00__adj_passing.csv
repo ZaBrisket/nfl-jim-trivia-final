@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HoyeBr00,Brian Hoyer,QB,2012,27,ARI,NFL,QB,2,1,82,81,77,77,85,73,83,95,76,
+HoyeBr00,Brian Hoyer,QB,2013,28,CLE,NFL,QB,3,3,83,85,89,90,91,109,91,104,94,
+HoyeBr00,Brian Hoyer,QB,2014,29,CLE,NFL,QB,14,13,109,111,98,100,72,80,93,109,84,
+HoyeBr00,Brian Hoyer,QB,2015,30,HOU,NFL,QB,11,9,97,95,103,102,91,108,109,98,103,
+HoyeBr00,Brian Hoyer,QB,2016,31,CHI,NFL,QB,6,5,102,115,112,121,117,84,142,134,113,
+HoyeBr00,Brian Hoyer,QB,2017,32,2TM,NFL,QB,11,6,75,75,79,78,79,71,104,91,77,
+HoyeBr00,Brian Hoyer,QB,2017,32,SFO,NFL,QB,6,6,77,77,81,80,81,73,107,93,79,
+HoyeBr00,Brian Hoyer,QB,,,,,,,,,,,,,,,,,
+HoyeBr00,Brian Hoyer,QB,2019,34,IND,NFL,QB,4,1,70,68,60,60,57,115,32,95,65,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GageRu00,Russell Gage,WR,2018,22,ATL,WR,83,15,0,60,6%,0,0%,280,68%
+GageRu00,Russell Gage,WR,2019,23,ATL,WR,83,16,4,516,44%,2,0%,167,38%
+GageRu00,Russell Gage,WR,2020,24,ATL,WR,83,16,8,762,68%,0,0%,2,0%
+GageRu00,Russell Gage,WR,2021,25,ATL,WR,14,14,9,612,73%,0,0%,1,0%
+GageRu00,Russell Gage,WR,2022,26,TAM,WR,17,13,4,529,58%,0,0%,2,1%
+GageRu00,Russell Gage,WR,2025,29,SFO,WR,,1,0,28,37%,0,0%,0,0%

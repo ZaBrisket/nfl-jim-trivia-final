@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+MuncCh00,Chuck Muncie,RB,1976,23,NOR,NFL,FB,12,11,0,0,0,0,,6,1,0,0,0.0,,,,0,
+MuncCh00,Chuck Muncie,RB,1977,24,NOR,NFL,RB,14,11,0,0,0,0,,3,0,0,0,0.0,,,,0,
+MuncCh00,Chuck Muncie,RB,1978,25,NOR,NFL,RB,13,11,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,
+MuncCh00,Chuck Muncie,RB,1979,26,NOR,NFL,RB,16,15,0,0,0,0,0,8,2,0,0,0.0,0,0,0,0,PB
+MuncCh00,Chuck Muncie,RB,1980,27,2TM,NFL,RB,15,8,0,0,0,0,0,11,0,0,0,0.0,0,0,0,0,
+MuncCh00,Chuck Muncie,RB,1980,27,NOR,NFL,RB,4,3,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+MuncCh00,Chuck Muncie,RB,1980,27,SDG,NFL,FB,11,5,0,0,0,0,0,10,0,0,0,0.0,0,0,0,0,
+MuncCh00,Chuck Muncie,RB,1981,28,SDG,NFL,RB,15,14,0,0,0,0,0,9,4,0,0,0.0,0,0,0,0,"PB,AP MVP-6,AP OPoY-6"
+MuncCh00,Chuck Muncie,RB,1982,29,SDG,NFL,RB,9,9,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,PB
+MuncCh00,Chuck Muncie,RB,1983,30,SDG,NFL,RB,15,12,0,0,0,0,0,8,1,0,0,0.0,0,0,0,0,
+MuncCh00,Chuck Muncie,RB,1984,31,SDG,NFL,RB,1,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

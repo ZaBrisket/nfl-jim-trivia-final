@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HampLo00,Lorenzo Hampton,RB,1985,23,MIA,NFL,RB,16,1,0,0,0,0,45,1020,0,46,22.7,1445,
+HampLo00,Lorenzo Hampton,RB,1986,24,MIA,NFL,RB,16,16,0,0,0,0,9,182,0,25,20.2,1458,
+HampLo00,Lorenzo Hampton,RB,1987,25,MIA,NFL,RB,12,7,0,0,0,0,16,304,0,32,19.0,816,
+HampLo00,Lorenzo Hampton,RB,1988,26,MIA,NFL,RB,16,10,0,0,0,0,9,216,0,37,24.0,834,
+HampLo00,Lorenzo Hampton,RB,1989,27,MIA,NFL,RB,10,0,0,0,0,0,17,303,0,34,17.8,375,

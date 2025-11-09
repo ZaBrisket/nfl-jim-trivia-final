@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McLaTe00,Terry McLaurin,WR,2019,24,WAS,NFL,WR,14,14,93,58,919,15.8,7,43,57.0,75,4.1,65.6,62.4,9.9,0,0,0,0,,,,0.0,0.0,58,15.8,919,7,0,7,
+McLaTe00,Terry McLaurin,WR,2020,25,WAS,NFL,WR,15,15,134,87,1118,12.9,4,51,50.0,68,5.8,74.5,64.9,8.3,2,30,0,2,100.0,27,15.0,2.0,0.1,89,12.9,1148,4,1,8,
+McLaTe00,Terry McLaurin,WR,2021,26,WAS,NFL,WR,17,17,130,77,1053,13.7,5,47,50.8,46,4.5,61.9,59.2,8.1,1,12,0,1,100.0,12,12.0,0.7,0.1,78,13.7,1065,5,0,9,
+McLaTe00,Terry McLaurin,WR,2022,27,WAS,NFL,WR,17,17,120,77,1191,15.5,5,56,55.0,52,4.5,70.1,64.2,9.9,7,29,0,2,71.4,12,4.1,1.7,0.4,84,14.5,1220,5,1,9,PB
+McLaTe00,Terry McLaurin,WR,2023,28,WAS,NFL,WR,17,17,132,79,1002,12.7,4,47,49.2,48,4.6,58.9,59.8,7.6,0,0,0,0,,,,0.0,0.0,79,12.7,1002,4,0,8,
+McLaTe00,Terry McLaurin,WR,2024,29,WAS,NFL,WR,17,17,117,82,1096,13.4,13,56,58.1,86,4.8,64.5,70.1,9.4,2,2,0,0,0.0,2,1.0,0.1,0.1,84,13.1,1098,13,1,12,"PB,AP-2"
+McLaTe00,Terry McLaurin,WR,2025,30,WAS,NFL,WR,4,4,21,13,203,15.6,1,11,61.9,56,3.3,50.8,61.9,9.7,0,0,0,0,,,,0.0,0.0,13,15.6,203,1,0,,

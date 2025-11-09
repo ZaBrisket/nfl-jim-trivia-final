@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MinsGa00,Gardner Minshew II,QB,2019,23,JAX,NFL,QB,14,12,0,0,0,0,0,0,12,1,0,0,0.0,0,0,0,0,0,0,
+MinsGa00,Gardner Minshew II,QB,2020,24,JAX,NFL,QB,9,8,0,0,0,0,0,0,5,1,1,0,0.0,0,0,0,0,0,0,
+MinsGa00,Gardner Minshew II,QB,2021,25,PHI,NFL,QB,4,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+MinsGa00,Gardner Minshew II,QB,2022,26,PHI,NFL,QB,5,2,0,0,0,0,0,0,4,3,20,0,0.0,1,1,0,0,0,0,
+MinsGa00,Gardner Minshew II,QB,2023,27,IND,NFL,QB,17,13,0,0,0,0,0,0,8,2,5,0,0.0,0,0,0,0,0,0,PB
+MinsGa00,Gardner Minshew II,QB,2024,28,LVR,NFL,QB,10,9,0,0,0,0,0,0,6,1,-13,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BennDr00,Drew Bennett,WR,2001,23,TEN,NFL,WR,14,1,0,0,0,0,1,11,0,11,11.0,340,
+BennDr00,Drew Bennett,WR,,,,,,,,,,,,,,,,,,
+BennDr00,Drew Bennett,WR,2004,26,TEN,NFL,WR,16,16,0,0,0,0,1,-8,0,-8,-8.0,1251,

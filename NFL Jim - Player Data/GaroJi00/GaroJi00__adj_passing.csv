@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GaroJi00,Jimmy Garoppolo,QB,2016,25,NWE,NFL,QB,6,2,119,123,132,135,122,124,142,113,135,
+GaroJi00,Jimmy Garoppolo,QB,2017,26,SFO,NFL,QB,6,5,133,134,117,120,115,95,92,115,109,
+GaroJi00,Jimmy Garoppolo,QB,2018,27,SFO,NFL,QB,3,3,117,96,109,95,85,112,83,54,100,
+GaroJi00,Jimmy Garoppolo,QB,2019,28,SFO,NFL,QB,16,16,121,117,114,112,118,110,92,96,113,AP CPoY-2
+GaroJi00,Jimmy Garoppolo,QB,2020,29,SFO,NFL,QB,6,6,113,108,102,100,111,104,75,92,101,
+GaroJi00,Jimmy Garoppolo,QB,2021,30,SFO,NFL,QB,15,15,131,127,117,115,114,100,91,100,110,
+GaroJi00,Jimmy Garoppolo,QB,2022,31,SFO,NFL,QB,11,10,120,122,124,124,112,111,122,107,121,
+GaroJi00,Jimmy Garoppolo,QB,2023,32,LVR,NFL,QB,7,6,102,99,80,81,103,100,32,94,80,

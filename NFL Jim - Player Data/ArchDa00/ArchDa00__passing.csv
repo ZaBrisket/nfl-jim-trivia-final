@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+ArchDa00,David Archer,QB,1984,22,ATL,NFL,QB,2,0,,11,18,61.1,181,1,5.6,1,5.6,11,48.0,34,10.1,8.67,16.5,90.5,90.3,7,45,28.00,5.44,4.44,0,0,1,
+ArchDa00,David Archer,QB,1985,23,ATL,NFL,QB,16,11,4-7-0,161,312,51.6,1992,7,2.2,17,5.4,88,37.5,62,6.4,4.38,12.4,124.5,56.5,43,312,12.11,4.73,2.97,0,0,6,
+ArchDa00,David Archer,QB,1986,24,ATL,NFL,QB,11,11,5-5-1,150,294,51.0,2007,10,3.4,9,3.1,93,36.9,65,6.8,6.13,13.4,182.5,71.6,34,249,10.37,5.36,4.73,3,2,7,
+ArchDa00,David Archer,QB,1987,25,ATL,NFL,QB,9,1,0-1-0,9,23,39.1,95,0,0.0,2,8.7,5,23.1,33,4.1,0.22,10.6,10.6,15.7,3,24,11.54,2.73,-0.73,0,0,0,
+ArchDa00,David Archer,QB,1988,26,WAS,NFL,QB,1,0,,0,2,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,0,
+ArchDa00,David Archer,QB,1989,27,SDG,NFL,QB,16,0,,5,12,41.7,62,0,0.0,1,8.3,4,35.7,17,5.2,1.42,12.4,3.9,23.6,2,12,14.29,3.57,0.36,0,0,0,

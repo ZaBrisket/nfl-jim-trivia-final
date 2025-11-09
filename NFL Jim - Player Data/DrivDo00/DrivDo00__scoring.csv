@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DrivDo00,Donald Driver,WR,1999,24,GNB,NFL,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+DrivDo00,Donald Driver,WR,2000,25,GNB,NFL,WR,16,2,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.5,
+DrivDo00,Donald Driver,WR,2001,26,GNB,NFL,WR,13,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+DrivDo00,Donald Driver,WR,2002,27,GNB,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB
+DrivDo00,Donald Driver,WR,2003,28,GNB,NFL,WR,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DrivDo00,Donald Driver,WR,2004,29,GNB,NFL,WR,16,11,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,
+DrivDo00,Donald Driver,WR,2005,30,GNB,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+DrivDo00,Donald Driver,WR,2006,31,GNB,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,PB
+DrivDo00,Donald Driver,WR,2007,32,GNB,NFL,WR,15,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,PB
+DrivDo00,Donald Driver,WR,2008,33,GNB,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+DrivDo00,Donald Driver,WR,2009,34,GNB,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+DrivDo00,Donald Driver,WR,2010,35,GNB,NFL,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,PB
+DrivDo00,Donald Driver,WR,2011,36,GNB,NFL,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+DrivDo00,Donald Driver,WR,2012,37,GNB,NFL,WR,13,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,

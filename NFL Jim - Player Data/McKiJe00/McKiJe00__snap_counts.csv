@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McKiJe00,Jerick McKinnon,RB,2014,22,MIN,RB,31,11,6,331,46%,0,0%,18,6%
+McKiJe00,Jerick McKinnon,RB,2015,23,MIN,RB,31,16,0,160,16%,0,0%,205,47%
+McKiJe00,Jerick McKinnon,RB,2016,24,MIN,RB,21,15,7,511,52%,0,0%,4,1%
+McKiJe00,Jerick McKinnon,RB,2017,25,MIN,RB,21,16,1,527,47%,0,0%,70,16%
+McKiJe00,Jerick McKinnon,RB,2020,28,SFO,RB,28,16,4,372,34%,0,0%,68,15%
+McKiJe00,Jerick McKinnon,RB,2021,29,KAN,RB,1,13,0,172,19%,0,0%,122,37%
+McKiJe00,Jerick McKinnon,RB,2022,30,KAN,RB,1,17,0,535,47%,0,0%,128,28%
+McKiJe00,Jerick McKinnon,RB,2023,31,KAN,RB,1,12,0,264,32%,0,0%,152,51%

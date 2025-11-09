@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JeffJu00,Justin Jefferson,WR,2020,21,MIN,NFL,WR,16,14,125,88,1400,15.9,7,58,61.6,71,5.5,87.5,70.4,11.2,1,2,0,0,0.0,2,2.0,0.1,0.1,89,15.8,1402,7,1,13,"PB,AP-2,AP ORoY-2"
+JeffJu00,Justin Jefferson,WR,2021,22,MIN,NFL,WR,17,17,167,108,1616,15.0,10,75,55.7,56,6.4,95.1,64.7,9.7,6,14,0,1,33.3,11,2.3,0.8,0.4,114,14.3,1630,10,1,13,"PB,AP-2"
+JeffJu00,Justin Jefferson,WR,2022,23,MIN,NFL,WR,17,17,184,128,1809,14.1,8,80,57.6,64,7.5,106.4,69.6,9.8,4,24,1,2,75.0,10,6.0,1.4,0.2,132,13.9,1833,9,0,15,"PB,AP-1,AP MVP-5,AP OPoY-1"
+JeffJu00,Justin Jefferson,WR,2023,24,MIN,NFL,WR,10,9,100,68,1074,15.8,5,51,61.0,52,6.8,107.4,68.0,10.7,1,-12,0,0,0.0,-12,-12.0,-1.2,0.1,69,15.4,1062,5,1,8,
+JeffJu00,Justin Jefferson,WR,2024,25,MIN,NFL,WR,17,17,154,103,1533,14.9,10,62,57.1,97,6.1,90.2,66.9,10.0,1,3,0,0,0.0,3,3.0,0.2,0.1,104,14.8,1536,10,1,14,"PB,AP-1,AP OPoY-7"
+JeffJu00,Justin Jefferson,WR,2025,26,MIN,NFL,WR,8,8,72,47,649,13.8,2,26,51.4,50,5.9,81.1,65.3,9.0,1,4,0,0,100.0,4,4.0,0.5,0.1,48,13.6,653,2,0,,

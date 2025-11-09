@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+StxxAm00,Amon-Ra St. Brown,WR,2021,22,DET,NFL,WR,17,9,119,90,912,10.1,5,48,59.7,37,5.3,53.6,75.6,7.7,7,61,1,2,42.9,26,8.7,3.6,0.4,97,10.0,973,6,0,8,
+StxxAm00,Amon-Ra St. Brown,WR,2022,23,DET,NFL,WR,16,16,146,106,1161,11.0,6,68,62.3,49,6.6,72.6,72.6,8.0,9,95,0,3,55.6,58,10.6,5.9,0.6,115,10.9,1256,6,0,13,PB
+StxxAm00,Amon-Ra St. Brown,WR,2023,24,DET,NFL,WR,16,16,164,119,1515,12.7,10,75,61.6,70,7.4,94.7,72.6,9.2,4,24,0,2,75.0,11,6.0,1.5,0.3,123,12.5,1539,10,1,15,"PB,AP-1"
+StxxAm00,Amon-Ra St. Brown,WR,2024,25,DET,NFL,WR,17,17,141,115,1263,11.0,12,73,70.2,66,6.8,74.3,81.6,9.0,2,6,0,1,50.0,10,3.0,0.4,0.1,117,10.8,1269,12,1,14,"PB,AP-1,AP OPoY-11"
+StxxAm00,Amon-Ra St. Brown,WR,2025,26,DET,NFL,WR,8,8,74,59,635,10.8,7,33,66.2,34,7.4,79.4,79.7,8.6,3,9,0,1,33.3,6,3.0,1.1,0.4,62,10.4,644,7,1,,

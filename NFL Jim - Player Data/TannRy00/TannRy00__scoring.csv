@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TannRy00,Ryan Tannehill,QB,2012,24,MIA,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+TannRy00,Ryan Tannehill,QB,2013,25,MIA,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+TannRy00,Ryan Tannehill,QB,2014,26,MIA,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+TannRy00,Ryan Tannehill,QB,2015,27,MIA,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,
+TannRy00,Ryan Tannehill,QB,2016,28,MIA,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.5,
+TannRy00,Ryan Tannehill,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+TannRy00,Ryan Tannehill,QB,2018,30,MIA,NFL,QB,11,11,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.5,
+TannRy00,Ryan Tannehill,QB,2019,31,TEN,NFL,QB,12,10,4,0,0,0,0,0,0,4,1,,0,0,0,0,0,26,2.2,"PB,AP CPoY-1"
+TannRy00,Ryan Tannehill,QB,2020,32,TEN,NFL,QB,16,16,7,0,0,0,0,0,0,7,2,,0,0,0,0,0,46,2.9,
+TannRy00,Ryan Tannehill,QB,2021,33,TEN,NFL,QB,17,17,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.5,
+TannRy00,Ryan Tannehill,QB,2022,34,TEN,NFL,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.0,
+TannRy00,Ryan Tannehill,QB,2023,35,TEN,NFL,QB,10,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.6,

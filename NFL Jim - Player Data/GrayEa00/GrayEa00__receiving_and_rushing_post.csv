@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GrayEa00,Earnest Gray,WR,1981,24,NYG,NFL,WR,2,2,8,4,130,32.5,1,3,50.0,72,2.0,65.0,50.0,16.3,0,0,0,0,0.0,0.0,4,32.5,130,1,0,
+GrayEa00,Earnest Gray,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GrayEa00,Earnest Gray,WR,1984,27,NYG,NFL,WR,2,1,10,2,20,10.0,0,1,20.0,11,1.0,10.0,20.0,2.0,0,0,0,0,0.0,0.0,2,10.0,20,0,0,

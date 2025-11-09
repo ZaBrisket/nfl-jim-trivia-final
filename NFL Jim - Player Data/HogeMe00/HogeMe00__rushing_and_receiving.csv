@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HogeMe00,Merril Hoge,RB,1987,22,PIT,NFL,RB,13,0,3,8,0,0,33.3,5,2.7,0.6,0.2,14,7,97,13.9,1,6,42.9,27,0.5,7.5,50.0,6.9,10,10.5,105,1,0,1,
+HogeMe00,Merril Hoge,RB,1988,23,PIT,NFL,FB,16,8,170,705,3,43,54.1,20,4.1,44.1,10.6,69,50,487,9.7,3,26,46.4,40,3.1,30.4,72.5,7.1,220,5.4,1192,6,8,9,
+HogeMe00,Merril Hoge,RB,1989,24,PIT,NFL,FB,16,16,186,621,8,43,48.4,31,3.3,38.8,11.6,52,34,271,8.0,0,10,30.8,22,2.1,16.9,65.4,5.2,220,4.1,892,8,2,7,
+HogeMe00,Merril Hoge,RB,1990,25,PIT,NFL,FB,16,15,203,772,7,42,47.3,41,3.8,48.3,12.7,62,40,342,8.6,3,22,53.2,27,2.5,21.4,64.5,5.5,243,4.6,1114,10,6,9,
+HogeMe00,Merril Hoge,RB,1991,26,PIT,NFL,FB,16,16,165,610,2,31,45.5,24,3.7,38.1,10.3,71,49,379,7.7,1,18,50.7,25,3.1,23.7,69.0,5.3,214,4.6,989,3,3,8,
+HogeMe00,Merril Hoge,RB,1992,27,PIT,NFL,FB,16,11,41,150,0,13,41.5,15,3.7,9.4,2.6,43,28,231,8.3,1,9,41.9,20,1.8,14.4,65.1,5.4,69,5.5,381,1,3,4,
+HogeMe00,Merril Hoge,RB,1993,28,PIT,NFL,FB,16,13,51,249,1,14,47.1,30,4.9,15.6,3.2,56,33,247,7.5,4,13,41.1,18,2.1,15.4,58.9,4.4,84,5.9,496,5,0,4,
+HogeMe00,Merril Hoge,RB,1994,29,CHI,NFL,FB,5,5,6,24,0,1,66.7,8,4.0,4.8,1.2,23,13,79,6.1,0,6,43.5,11,2.6,15.8,56.5,3.4,19,5.4,103,0,0,1,

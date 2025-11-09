@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RuckRe00,Reggie Rucker,WR,1971,24,3TM,NFL,WR,11,0,0,0,0,0,2,45,0,21,22.5,111,
+RuckRe00,Reggie Rucker,WR,1971,24,NWE,NFL,WR,5,0,0,0,0,0,2,45,0,21,22.5,69,
+RuckRe00,Reggie Rucker,WR,1972,25,NWE,NFL,WR,14,14,0,0,0,0,8,227,0,43,28.4,913,
+RuckRe00,Reggie Rucker,WR,1973,26,NWE,NFL,WR,14,14,0,0,0,0,5,103,0,42,20.6,845,
+RuckRe00,Reggie Rucker,WR,,,,,,,,,,,,,,,,,,
+RuckRe00,Reggie Rucker,WR,1978,31,CLE,NFL,WR,15,15,0,0,0,0,1,1,0,1,1.0,908,

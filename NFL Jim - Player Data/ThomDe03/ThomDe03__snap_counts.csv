@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThomDe03,Demaryius Thomas,WR,2012*,25,DEN,WR,88,16,16,1018,89%,0,0%,10,2%
+ThomDe03,Demaryius Thomas,WR,2013*,26,DEN,WR,88,16,16,1106,92%,0,0%,6,1%
+ThomDe03,Demaryius Thomas,WR,2014*,27,DEN,WR,88,16,16,1023,91%,0,0%,5,1%
+ThomDe03,Demaryius Thomas,WR,2015*,28,DEN,WR,88,16,16,930,85%,0,0%,2,0%
+ThomDe03,Demaryius Thomas,WR,2016*,29,DEN,WR,88,16,16,885,82%,0,0%,2,0%
+ThomDe03,Demaryius Thomas,WR,2017,30,DEN,WR,88,16,16,889,79%,0,0%,1,0%
+ThomDe03,Demaryius Thomas,WR,2018,31,2TM,WR,,15,15,764,,0,,0,
+ThomDe03,Demaryius Thomas,WR,,,DEN,WR,88,8,8,405,75%,0,0%,0,0%
+ThomDe03,Demaryius Thomas,WR,,,,,,,,359,79%,0,0%,0,0%
+ThomDe03,Demaryius Thomas,WR,2019,32,NYJ,WR,18,11,10,459,65%,0,0%,3,1%

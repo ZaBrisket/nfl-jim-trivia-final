@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BollKy00,Kyle Boller,QB,2003,22,BAL,NFL,QB,11,9,78,80,77,79,75,88,85,96,77,
+BollKy00,Kyle Boller,QB,2004,23,BAL,NFL,QB,16,16,77,78,85,85,87,85,114,97,88,
+BollKy00,Kyle Boller,QB,2005,24,BAL,NFL,QB,9,9,87,87,85,85,95,96,84,96,88,
+BollKy00,Kyle Boller,QB,2006,25,BAL,NFL,QB,5,0,139,137,136,135,99,158,92,108,130,
+BollKy00,Kyle Boller,QB,2007,26,BAL,NFL,QB,12,8,89,86,87,85,101,92,91,88,90,
+BollKy00,Kyle Boller,QB,,,,,,,,,,,,,,,,,
+BollKy00,Kyle Boller,QB,2009,28,STL,NFL,QB,7,4,65,62,69,67,82,70,93,79,73,

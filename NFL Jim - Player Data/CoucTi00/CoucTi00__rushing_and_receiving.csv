@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CoucTi00,Tim Couch,QB,1999,22,CLE,NFL,QB,15,14,40,267,1,19,55.0,40,6.7,17.8,2.7,0,0,0,,0,0,,,0.0,0.0,,,40,6.7,267,1,14,
+CoucTi00,Tim Couch,QB,2000,23,CLE,NFL,QB,7,7,12,45,0,3,25.0,31,3.8,6.4,1.7,0,0,0,,0,0,,,0.0,0.0,,,12,3.8,45,0,2,
+CoucTi00,Tim Couch,QB,2001,24,CLE,NFL,QB,16,16,38,128,0,7,28.9,15,3.4,8.0,2.4,1,1,-10,-10.0,0,0,0.0,-10,0.1,-0.6,100.0,-10.0,39,3.0,118,0,9,
+CoucTi00,Tim Couch,QB,2002,25,CLE,NFL,QB,14,14,23,77,0,9,47.8,14,3.3,5.5,1.6,0,0,0,,0,0,,,0.0,0.0,,,23,3.3,77,0,6,
+CoucTi00,Tim Couch,QB,2003,26,CLE,NFL,QB,10,8,11,39,1,4,36.4,17,3.5,3.9,1.1,1,1,-3,-3.0,0,0,0.0,-3,0.1,-0.3,100.0,-3.0,12,3.0,36,1,6,

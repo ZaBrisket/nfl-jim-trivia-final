@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LucaRa00,Ray Lucas,QB,1997,25,NYJ,NFL,QB,5,0,6,55,0,5,83.3,17,9.2,11.0,1.2,0,0,0,0,0,0.0,0.0,6,9.2,55,0,0,
+LucaRa00,Ray Lucas,QB,1998,26,NYJ,NFL,QB,15,0,5,23,0,2,40.0,16,4.6,1.5,0.3,0,0,0,0,0,0.0,0.0,5,4.6,23,0,0,
+LucaRa00,Ray Lucas,QB,1999,27,NYJ,NFL,QB,9,9,41,144,1,9,29.3,21,3.5,16.0,4.6,0,0,0,0,0,0.0,0.0,41,3.5,144,1,8,
+LucaRa00,Ray Lucas,QB,2000,28,NYJ,NFL,QB,7,0,6,42,0,2,66.7,17,7.0,6.0,0.9,0,0,0,0,0,0.0,0.0,6,7.0,42,0,2,
+LucaRa00,Ray Lucas,QB,2001,29,MIA,NFL,QB,10,0,8,6,1,4,50.0,3,0.8,0.6,0.8,0,0,0,0,0,0.0,0.0,8,0.8,6,1,0,
+LucaRa00,Ray Lucas,QB,2002,30,MIA,NFL,QB,7,6,36,126,2,15,52.8,17,3.5,18.0,5.1,0,0,0,0,0,0.0,0.0,36,3.5,126,2,8,

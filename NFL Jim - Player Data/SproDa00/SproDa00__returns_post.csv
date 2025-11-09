@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SproDa00,Darren Sproles,RB,2007,24,SDG,NFL,RB,3,0,5,28,0,13,5.6,10,223,0,30,22.3,347,
+SproDa00,Darren Sproles,RB,2008,25,SDG,NFL,RB,2,1,5,76,0,28,15.2,9,270,0,63,30.0,602,
+SproDa00,Darren Sproles,RB,2009,26,SDG,NFL,RB,1,0,2,3,0,3,1.5,2,44,0,27,22.0,110,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2011,28,NOR,NFL,RB,2,2,5,33,0,13,6.6,4,92,0,28,23.0,331,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2013,30,NOR,NFL,RB,2,0,3,31,0,14,10.3,6,141,0,39,23.5,266,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2018,35,PHI,NFL,RB,2,1,1,-1,0,0,-1.0,0,0,0,0,,59,

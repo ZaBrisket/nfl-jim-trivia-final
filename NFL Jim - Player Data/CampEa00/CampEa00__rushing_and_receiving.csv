@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CampEa00,Earl Campbell,RB,1978,23,HOU,NFL,RB,15,14,302,1450,13,71,46.7,81,4.8,96.7,20.1,16,12,48,4.0,0,2,18.8,20,0.8,3.2,75.0,3.0,314,4.8,1498,13,9,13,"PB,AP-1,AP MVP-2,AP OPoY-1,AP ORoY-1"
+CampEa00,Earl Campbell,RB,1979,24,HOU,NFL,RB,16,16,368,1697,19,107,56.8,61,4.6,106.1,23.0,25,16,94,5.9,0,3,32.0,46,1.0,5.9,64.0,3.8,384,4.7,1791,19,8,15,"PB,AP-1,AP MVP-1,AP OPoY-1"
+CampEa00,Earl Campbell,RB,1980,25,HOU,NFL,RB,15,15,373,1934,13,113,57.6,55,5.2,128.9,24.9,20,11,47,4.3,0,3,30.0,10,0.7,3.1,55.0,2.4,384,5.2,1981,13,4,13,"PB,AP-1,AP MVP-2,AP OPoY-1"
+CampEa00,Earl Campbell,RB,1981,26,HOU,NFL,RB,16,16,361,1376,10,88,48.8,43,3.8,86.0,22.6,42,36,156,4.3,0,5,35.7,17,2.3,9.8,85.7,3.7,397,3.9,1532,10,10,10,PB
+CampEa00,Earl Campbell,RB,1982,27,HOU,NFL,RB,9,9,157,538,2,39,45.2,22,3.4,59.8,17.4,28,18,130,7.2,0,4,35.7,46,2.0,14.4,64.3,4.6,175,3.8,668,2,2,8,
+CampEa00,Earl Campbell,RB,1983,28,HOU,NFL,RB,14,14,322,1301,12,81,55.0,42,4.0,92.9,23.0,29,19,216,11.4,0,8,48.3,66,1.4,15.4,65.5,7.4,341,4.4,1517,12,4,10,PB
+CampEa00,Earl Campbell,RB,1984,29,2TM,NFL,RB,14,6,146,468,4,32,47.9,22,3.2,33.4,10.4,6,3,27,9.0,0,1,50.0,15,0.2,1.9,50.0,4.5,149,3.3,495,4,2,3,
+CampEa00,Earl Campbell,RB,1984,29,HOU,NFL,RB,6,6,96,278,4,16,45.8,22,2.9,46.3,16.0,3,3,27,9.0,0,1,100.0,15,0.5,4.5,100.0,9.0,99,3.1,305,4,2,2,
+CampEa00,Earl Campbell,RB,1984,29,NOR,NFL,RB,8,0,50,190,0,16,52.0,19,3.8,23.8,6.3,3,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,50,3.8,190,0,0,1,
+CampEa00,Earl Campbell,RB,1985,30,NOR,NFL,RB,16,12,158,643,1,33,55.7,45,4.1,40.2,9.9,10,6,88,14.7,0,4,60.0,39,0.4,5.5,60.0,8.8,164,4.5,731,1,4,5,

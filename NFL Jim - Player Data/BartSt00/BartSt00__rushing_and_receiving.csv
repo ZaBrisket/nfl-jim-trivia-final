@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BartSt00,Steve Bartkowski,QB,1975,23,ATL,NFL,QB,11,11,14,15,2,,,5,1.1,1.4,1.3,,0,0,0,,0.0,0.0,14,1.1,15,2,6,AP ORoY-2
+BartSt00,Steve Bartkowski,QB,1976,24,ATL,NFL,QB,5,5,8,-10,1,,,2,-1.3,-2.0,1.6,,0,0,0,,0.0,0.0,8,-1.3,-10,1,2,
+BartSt00,Steve Bartkowski,QB,1977,25,ATL,NFL,QB,8,7,18,13,0,,,8,0.7,1.6,2.3,,0,0,0,,0.0,0.0,18,0.7,13,0,5,
+BartSt00,Steve Bartkowski,QB,1978,26,ATL,NFL,QB,14,13,33,60,2,6,24.2,8,1.8,4.3,2.4,0,0,0,0,0,0.0,0.0,33,1.8,60,2,7,
+BartSt00,Steve Bartkowski,QB,1979,27,ATL,NFL,QB,14,14,14,36,2,5,42.9,18,2.6,2.6,1.0,0,0,0,0,0,0.0,0.0,14,2.6,36,2,4,
+BartSt00,Steve Bartkowski,QB,1980,28,ATL,NFL,QB,16,16,25,35,2,9,36.0,11,1.4,2.2,1.6,0,0,0,0,0,0.0,0.0,25,1.4,35,2,6,"PB,AP MVP-3"
+BartSt00,Steve Bartkowski,QB,1981,29,ATL,NFL,QB,16,16,11,2,0,0,18.2,5,0.2,0.1,0.7,0,0,0,0,0,0.0,0.0,11,0.2,2,0,4,PB
+BartSt00,Steve Bartkowski,QB,1982,30,ATL,NFL,QB,9,9,13,4,1,2,15.4,10,0.3,0.4,1.4,0,0,0,0,0,0.0,0.0,13,0.3,4,1,7,
+BartSt00,Steve Bartkowski,QB,1983,31,ATL,NFL,QB,14,14,16,38,1,1,18.8,10,2.4,2.7,1.1,0,0,0,0,0,0.0,0.0,16,2.4,38,1,7,
+BartSt00,Steve Bartkowski,QB,1984,32,ATL,NFL,QB,11,11,15,34,0,3,26.7,8,2.3,3.1,1.4,0,0,0,0,0,0.0,0.0,15,2.3,34,0,7,
+BartSt00,Steve Bartkowski,QB,1985,33,ATL,NFL,QB,5,5,5,9,0,0,20.0,5,1.8,1.8,1.0,0,0,0,0,0,0.0,0.0,5,1.8,9,0,3,
+BartSt00,Steve Bartkowski,QB,1986,34,RAM,NFL,QB,6,6,6,3,0,0,0.0,7,0.5,0.5,1.0,0,0,0,0,0,0.0,0.0,6,0.5,3,0,4,

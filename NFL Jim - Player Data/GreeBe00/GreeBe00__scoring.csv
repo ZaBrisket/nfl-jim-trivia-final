@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GreeBe00,BenJarvus Green-Ellis,RB,2008,23,NWE,NFL,RB,9,3,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,3.3,
+GreeBe00,BenJarvus Green-Ellis,RB,,,,,,,,,,,,,,,,,,,,,,,,
+GreeBe00,BenJarvus Green-Ellis,RB,2010,25,NWE,NFL,RB,16,11,13,0,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,
+GreeBe00,BenJarvus Green-Ellis,RB,2011,26,NWE,NFL,RB,16,6,11,0,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+GreeBe00,BenJarvus Green-Ellis,RB,2012,27,CIN,NFL,RB,15,15,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+GreeBe00,BenJarvus Green-Ellis,RB,2013,28,CIN,NFL,RB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,

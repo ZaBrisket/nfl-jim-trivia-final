@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ClarJe00,Jessie Clark,RB,1983,23,GNB,NFL,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+ClarJe00,Jessie Clark,RB,1984,24,GNB,NFL,FB,11,10,4,2,0,0,0,0,0,6,0,0,0,0,0,36,3.3,
+ClarJe00,Jessie Clark,RB,1985,25,GNB,NFL,FB,16,14,5,2,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+ClarJe00,Jessie Clark,RB,,,,,,,,,,,,,,,,,,,,,,,
+ClarJe00,Jessie Clark,RB,1987,27,GNB,NFL,FB,12,10,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

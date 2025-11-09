@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KolbKe00,Kevin Kolb,QB,2007,23,PHI,NFL,QB,1,0,3,-2,0,0,0.0,,-0.7,-2.0,3.0,0,0,0,0,0,0.0,0.0,3,-0.7,-2,0,1,
+KolbKe00,Kevin Kolb,QB,2008,24,PHI,NFL,QB,6,0,13,2,0,0,0.0,8,0.2,0.3,2.2,0,0,0,0,0,0.0,0.0,13,0.2,2,0,0,
+KolbKe00,Kevin Kolb,QB,2009,25,PHI,NFL,QB,5,2,5,-1,1,1,20.0,5,-0.2,-0.2,1.0,0,0,0,0,0,0.0,0.0,5,-0.2,-1,1,2,
+KolbKe00,Kevin Kolb,QB,2010,26,PHI,NFL,QB,7,5,15,65,0,6,40.0,19,4.3,9.3,2.1,0,0,0,0,0,0.0,0.0,15,4.3,65,0,6,
+KolbKe00,Kevin Kolb,QB,2011,27,ARI,NFL,QB,9,9,17,65,0,6,35.3,17,3.8,7.2,1.9,0,0,0,0,0,0.0,0.0,17,3.8,65,0,8,
+KolbKe00,Kevin Kolb,QB,2012,28,ARI,NFL,QB,6,5,16,100,1,7,56.3,22,6.3,16.7,2.7,0,0,0,0,0,0.0,0.0,16,6.3,100,1,2,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SmitJi01,Jim Smith,WR,1977,22,PIT,NFL,WR,1,0,4,31,0,17,7.8,4,80,0,34,20.0,111,
+SmitJi01,Jim Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitJi01,Jim Smith,WR,1979,24,PIT,NFL,WR,3,0,2,14,0,7,7.0,0,0,0,0,,55,

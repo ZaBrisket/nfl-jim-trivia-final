@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JackTa00,Tarvaris Jackson,QB,2006,23,MIN,NFL,QB,4,2,15,77,1,4,53.3,13,5.1,19.3,3.8,0,0,0,0,0,0.0,0.0,15,5.1,77,1,4,
+JackTa00,Tarvaris Jackson,QB,2007,24,MIN,NFL,QB,12,12,54,260,3,19,46.3,32,4.8,21.7,4.5,0,0,0,0,0,0.0,0.0,54,4.8,260,3,5,
+JackTa00,Tarvaris Jackson,QB,2008,25,MIN,NFL,QB,9,5,26,145,0,11,50.0,29,5.6,16.1,2.9,0,0,0,0,0,0.0,0.0,26,5.6,145,0,5,
+JackTa00,Tarvaris Jackson,QB,2009,26,MIN,NFL,QB,8,0,17,-10,0,0,0.0,6,-0.6,-1.3,2.1,0,0,0,0,0,0.0,0.0,17,-0.6,-10,0,0,
+JackTa00,Tarvaris Jackson,QB,2010,27,MIN,NFL,QB,3,1,7,63,0,3,42.9,33,9.0,21.0,2.3,0,0,0,0,0,0.0,0.0,7,9.0,63,0,1,
+JackTa00,Tarvaris Jackson,QB,2011,28,SEA,NFL,QB,15,14,40,108,1,7,30.0,13,2.7,7.2,2.7,0,0,0,0,0,0.0,0.0,40,2.7,108,1,9,
+JackTa00,Tarvaris Jackson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JackTa00,Tarvaris Jackson,QB,2013,30,SEA,NFL,QB,3,0,4,1,1,1,25.0,5,0.3,0.3,1.3,0,0,0,0,0,0.0,0.0,4,0.3,1,1,0,
+JackTa00,Tarvaris Jackson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JackTa00,Tarvaris Jackson,QB,2015,32,SEA,NFL,QB,4,0,8,-8,0,0,0.0,-1,-1.0,-2.0,2.0,0,0,0,0,0,0.0,0.0,8,-1.0,-8,0,0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,all_purpose_yds,awards
+JackDe00,DeSean Jackson,WR,2008,22,PHI,NFL,WR,3,3,7,122,0,62,17.4,0,0,0,0,336,
+JackDe00,DeSean Jackson,WR,2009,23,PHI,NFL,WR,1,1,2,9,0,8,4.5,0,0,0,0,23,
+JackDe00,DeSean Jackson,WR,2010,24,PHI,NFL,WR,1,1,1,14,0,14,14.0,0,0,0,0,61,
+JackDe00,DeSean Jackson,WR,,,,,,,,,,,,,,,,,,
+JackDe00,DeSean Jackson,WR,2013,27,PHI,NFL,WR,1,1,1,29,0,29,29.0,0,0,0,0,82,

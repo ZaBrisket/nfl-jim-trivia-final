@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LogaDa00,Dave Logan,WR,1976,22,CLE,NFL,WR,14,0,,5,104,20.8,0,,,52,0.4,7.4,,,0,0,0,,0.0,0.0,5,20.8,104,0,0,1,
+LogaDa00,Dave Logan,WR,1977,23,CLE,NFL,WR,14,5,,19,284,14.9,1,,,42,1.4,20.3,,,0,0,0,,0.0,0.0,19,14.9,284,1,0,4,
+LogaDa00,Dave Logan,WR,1978,24,CLE,NFL,WR,16,16,80,37,585,15.8,4,30,41.3,44,2.3,36.6,46.3,7.3,0,0,0,0,0.0,0.0,37,15.8,585,4,0,6,
+LogaDa00,Dave Logan,WR,1979,25,CLE,NFL,WR,16,16,110,59,982,16.6,7,49,51.8,46,3.7,61.4,53.6,8.9,0,0,0,0,0.0,0.0,59,16.6,982,7,1,10,
+LogaDa00,Dave Logan,WR,1980,26,CLE,NFL,WR,16,16,93,51,822,16.1,4,42,52.7,65,3.2,51.4,54.8,8.8,0,0,0,0,0.0,0.0,51,16.1,822,4,0,8,
+LogaDa00,Dave Logan,WR,1981,27,CLE,NFL,WR,14,14,64,31,497,16.0,4,26,48.4,40,2.2,35.5,48.4,7.8,0,0,0,0,0.0,0.0,31,16.0,497,4,0,3,
+LogaDa00,Dave Logan,WR,1982,28,CLE,NFL,WR,9,9,55,23,346,15.0,2,16,38.2,56,2.6,38.4,41.8,6.3,0,0,0,0,0.0,0.0,23,15.0,346,2,0,4,
+LogaDa00,Dave Logan,WR,1983,29,CLE,NFL,WR,16,13,71,37,627,16.9,2,34,50.7,34,2.3,39.2,52.1,8.8,0,0,0,0,0.0,0.0,37,16.9,627,2,1,6,
+LogaDa00,Dave Logan,WR,1984,30,DEN,NFL,WR,4,0,9,1,3,3.0,0,0,0.0,3,0.3,0.8,11.1,0.3,0,0,0,0,0.0,0.0,1,3.0,3,0,0,0,

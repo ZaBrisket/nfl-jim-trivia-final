@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+McMaJi00,Jim McMahon,QB,1982,23,CHI,NFL,QB,8,7,101,91,107,100,104,101,113,78,107,
+McMaJi00,Jim McMahon,QB,1983,24,CHI,NFL,QB,14,13,106,96,102,96,108,98,98,74,103,
+McMaJi00,Jim McMahon,QB,1984,25,CHI,NFL,QB,9,9,119,125,131,134,111,115,136,110,127,
+McMaJi00,Jim McMahon,QB,1985,26,CHI,NFL,QB,13,11,113,116,113,115,105,108,108,103,111,PB
+McMaJi00,Jim McMahon,QB,1986,27,CHI,NFL,QB,6,6,92,105,85,93,86,90,82,123,83,
+McMaJi00,Jim McMahon,QB,1987,28,CHI,NFL,QB,7,6,118,112,116,113,115,117,102,87,117,
+McMaJi00,Jim McMahon,QB,1988,29,CHI,NFL,QB,9,9,100,104,99,101,114,89,104,105,102,
+McMaJi00,Jim McMahon,QB,1989,30,SDG,NFL,QB,12,11,93,93,97,97,100,89,108,93,98,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1991,32,PHI,NFL,QB,12,11,106,108,104,106,111,100,101,106,105,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1993,34,MIN,NFL,QB,12,12,84,89,92,95,107,87,115,102,99,

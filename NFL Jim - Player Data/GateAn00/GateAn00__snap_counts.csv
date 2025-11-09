@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GateAn00,Antonio Gates,TE,2012,32,SDG,TE,85,15,15,860,91%,0,0%,0,0%
+GateAn00,Antonio Gates,TE,2013,33,SDG,TE,85,16,15,968,87%,0,0%,0,0%
+GateAn00,Antonio Gates,TE,2014,34,SDG,TE,85,16,14,769,72%,0,0%,0,0%
+GateAn00,Antonio Gates,TE,2015,35,SDG,TE,85,11,4,497,62%,0,0%,0,0%
+GateAn00,Antonio Gates,TE,2016,36,SDG,TE,85,14,9,585,63%,0,0%,1,0%
+GateAn00,Antonio Gates,TE,2017,37,LAC,TE,85,16,4,500,47%,0,0%,0,0%
+GateAn00,Antonio Gates,TE,2018,38,LAC,TE,85,16,1,364,37%,0,0%,0,0%

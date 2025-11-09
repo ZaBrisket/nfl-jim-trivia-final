@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+BenjKe00,Kelvin Benjamin,WR,2018,27,2TM,NFL,WR,15,10,67,25,380,16,316,12.6,64,2.6,15.6,0,2,3.0,7,22.2,0,0,0,0,0,0,
+BenjKe00,Kelvin Benjamin,WR,2018,27,BUF,NFL,WR,12,10,62,23,354,15,291,12.7,63,2.7,16.0,0,2,3.2,7,22.6,0,0,0,0,0,0,
+BenjKe00,Kelvin Benjamin,WR,2018,27,KAN,NFL,WR,3,0,5,2,26,1,25,12.5,1,0.5,11.0,0,0,0.0,0,57.1,0,0,0,0,0,0,

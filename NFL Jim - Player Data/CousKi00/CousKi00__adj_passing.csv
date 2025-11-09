@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+CousKi00,Kirk Cousins,QB,2013,25,WAS,NFL,QB,5,3,61,76,61,69,64,79,67,126,63,
+CousKi00,Kirk Cousins,QB,2014,26,WAS,NFL,QB,6,5,128,130,106,109,98,105,68,120,97,
+CousKi00,Kirk Cousins,QB,2015,27,WAS,NFL,QB,16,16,111,114,112,114,128,111,107,112,118,
+CousKi00,Kirk Cousins,QB,2016,28,WAS,NFL,QB,16,16,122,126,115,119,117,97,107,120,112,PB
+CousKi00,Kirk Cousins,QB,2017,29,WAS,NFL,QB,16,16,108,103,107,103,103,107,99,94,105,
+CousKi00,Kirk Cousins,QB,2018,30,MIN,NFL,QB,16,16,98,99,104,105,125,105,112,103,113,
+CousKi00,Kirk Cousins,QB,2019,31,MIN,NFL,QB,15,15,116,115,120,119,118,112,116,104,120,PB
+CousKi00,Kirk Cousins,QB,2020,32,MIN,NFL,QB,16,16,122,118,119,116,113,122,95,94,118,
+CousKi00,Kirk Cousins,QB,2021,33,MIN,NFL,QB,16,16,108,111,115,116,106,113,120,110,116,PB
+CousKi00,Kirk Cousins,QB,2022,34,MIN,NFL,QB,17,17,100,99,102,101,106,102,103,98,104,PB
+CousKi00,Kirk Cousins,QB,2023,35,MIN,NFL,QB,8,8,110,113,118,119,125,122,116,112,126,
+CousKi00,Kirk Cousins,QB,2024,36,ATL,NFL,QB,14,14,114,114,100,102,108,96,75,108,97,AP CPoY-13

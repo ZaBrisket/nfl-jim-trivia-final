@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PalmCa00,Carson Palmer,QB,2004,25,CIN,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+PalmCa00,Carson Palmer,QB,2005,26,CIN,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP MVP-5,AP OPoY-4"
+PalmCa00,Carson Palmer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+PalmCa00,Carson Palmer,QB,2009,30,CIN,NFL,QB,16,16,3,0,0,0,0,0,0,3,1,0,0,0,0,0,20,1.3,
+PalmCa00,Carson Palmer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+PalmCa00,Carson Palmer,QB,2011,32,OAK,NFL,QB,10,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,
+PalmCa00,Carson Palmer,QB,2012,33,OAK,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+PalmCa00,Carson Palmer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+PalmCa00,Carson Palmer,QB,2015,36,ARI,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP-2,AP MVP-2,AP OPoY-4,AP CPoY-2"

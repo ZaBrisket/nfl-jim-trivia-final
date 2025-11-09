@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PeopDo00,Donovan Peoples-Jones,WR,2020,21,CLE,NFL,WR,12,2,20,14,304,21.7,2,10,60.0,75,1.2,25.3,70.0,15.2,0,0,0,0,,,,0.0,0.0,14,21.7,304,2,0,3,
+PeopDo00,Donovan Peoples-Jones,WR,2021,22,CLE,NFL,WR,14,9,58,34,597,17.6,3,26,51.7,60,2.4,42.6,58.6,10.3,0,0,0,0,,,,0.0,0.0,34,17.6,597,3,2,5,
+PeopDo00,Donovan Peoples-Jones,WR,2022,23,CLE,NFL,WR,17,14,96,61,839,13.8,3,33,50.0,42,3.6,49.4,63.5,8.7,1,2,0,0,0.0,2,2.0,0.1,0.1,62,13.6,841,3,1,9,
+PeopDo00,Donovan Peoples-Jones,WR,2023,24,2TM,NFL,WR,15,6,25,13,155,11.9,0,7,40.0,29,0.9,10.3,52.0,6.2,0,0,0,0,,,,0.0,0.0,13,11.9,155,0,1,2,
+PeopDo00,Donovan Peoples-Jones,WR,2023,24,CLE,NFL,WR,7,5,18,8,97,12.1,0,4,38.9,29,1.1,13.9,44.4,5.4,0,0,0,0,,,,0.0,0.0,8,12.1,97,0,1,1,
+PeopDo00,Donovan Peoples-Jones,WR,2023,24,DET,NFL,WR,8,1,7,5,58,11.6,0,3,42.9,20,0.6,7.3,71.4,8.3,0,0,0,0,,,,0.0,0.0,5,11.6,58,0,0,1,

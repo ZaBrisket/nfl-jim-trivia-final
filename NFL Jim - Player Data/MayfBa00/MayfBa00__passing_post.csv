@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+MayfBa00,Baker Mayfield,QB,2020,25,CLE,NFL,QB,2,2,1-1-0,44,71,62.0,467,4,5.6,1,1.4,23,44.4,40,6.6,7.07,10.6,233.5,94.0,1,8,1.39,6.38,6.86,0,0,
+MayfBa00,Baker Mayfield,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MayfBa00,Baker Mayfield,QB,2023,28,TAM,NFL,QB,2,2,1-1-0,48,77,62.3,686,6,7.8,2,2.6,31,49.4,56,8.9,9.30,14.3,343.0,106.3,8,60,9.41,7.36,7.72,0,0,
+MayfBa00,Baker Mayfield,QB,2024,29,TAM,NFL,QB,1,1,0-1-0,15,18,83.3,185,2,11.1,0,0.0,12,63.2,26,10.3,12.50,12.3,185.0,146.5,1,2,5.26,9.63,11.74,0,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ThomLe01,Leonard Thompson,WR,1977,25,DET,NFL,WR,14,3,1,0,0,0,0,0,1,2,0,0,0,0,0,12,0.9,
+ThomLe01,Leonard Thompson,WR,1978,26,DET,NFL,WR,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+ThomLe01,Leonard Thompson,WR,1979,27,DET,NFL,WR,15,1,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+ThomLe01,Leonard Thompson,WR,1980,28,DET,NFL,WR,16,12,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+ThomLe01,Leonard Thompson,WR,1981,29,DET,NFL,WR,16,16,1,3,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+ThomLe01,Leonard Thompson,WR,1982,30,DET,NFL,WR,9,6,0,4,0,0,0,0,0,4,0,0,0,0,0,24,2.7,
+ThomLe01,Leonard Thompson,WR,1983,31,DET,NFL,WR,13,12,1,3,0,0,0,0,0,4,0,0,0,0,0,24,1.8,
+ThomLe01,Leonard Thompson,WR,1984,32,DET,NFL,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+ThomLe01,Leonard Thompson,WR,1985,33,DET,NFL,WR,16,13,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+ThomLe01,Leonard Thompson,WR,1986,34,DET,NFL,WR,16,1,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,

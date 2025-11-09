@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LewiJe00,Jermaine Lewis,WR,1996,22,BAL,NFL,WR,16,1,36,339,0,46,9.4,41,883,0,44,21.5,1297,
+LewiJe00,Jermaine Lewis,WR,1997,23,BAL,NFL,WR,14,7,28,437,2,89,15.6,41,905,0,51,22.1,2025,
+LewiJe00,Jermaine Lewis,WR,1998,24,BAL,NFL,WR,13,13,32,405,2,87,12.7,6,145,0,37,24.2,1354,"PB,AP-1"
+LewiJe00,Jermaine Lewis,WR,1999,25,BAL,NFL,WR,15,6,57,452,0,33,7.9,8,158,0,25,19.8,902,
+LewiJe00,Jermaine Lewis,WR,2000,26,BAL,NFL,WR,15,1,36,578,2,89,16.1,1,23,0,23,23.0,800,
+LewiJe00,Jermaine Lewis,WR,2001,27,BAL,NFL,WR,15,2,42,519,0,62,12.4,42,1039,0,76,24.7,1623,"PB,AP-2"
+LewiJe00,Jermaine Lewis,WR,2002,28,HOU,NFL,WR,12,2,36,280,0,48,7.8,46,961,0,45,20.9,1290,
+LewiJe00,Jermaine Lewis,WR,2003,29,JAX,NFL,WR,2,0,5,45,0,14,9.0,6,111,0,26,18.5,262,
+LewiJe00,Jermaine Lewis,WR,2004,30,JAX,NFL,WR,9,0,23,227,0,50,9.9,21,386,0,26,18.4,617,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MoorMa01,Matt Moore,QB,2012,28,MIA,QB,8,2,0,55,46%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2013,29,MIA,QB,8,1,0,6,11%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2014,30,MIA,QB,8,2,0,30,21%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2015,31,MIA,QB,8,1,0,7,11%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2016,32,MIA,QB,8,4,3,190,81%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2017,33,MIA,QB,8,4,2,203,77%,0,0%,0,0%
+MoorMa01,Matt Moore,QB,2019,35,KAN,QB,8,6,2,170,45%,0,0%,0,0%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BrooAa00,Aaron Brooks,QB,2000,24,NOR,NFL,QB,8,5,120,117,117,116,101,109,104,98,111,
+BrooAa00,Aaron Brooks,QB,2001,25,NOR,NFL,QB,16,16,102,98,99,96,89,110,88,91,96,
+BrooAa00,Aaron Brooks,QB,2002,26,NOR,NFL,QB,16,16,101,101,107,107,80,117,106,101,102,
+BrooAa00,Aaron Brooks,QB,2003,27,NOR,NFL,QB,16,16,101,102,111,111,99,106,128,102,111,
+BrooAa00,Aaron Brooks,QB,2004,28,NOR,NFL,QB,16,16,104,103,103,103,92,97,104,97,99,
+BrooAa00,Aaron Brooks,QB,2005,29,NOR,NFL,QB,13,13,96,96,91,91,87,88,86,97,86,
+BrooAa00,Aaron Brooks,QB,2006,30,OAK,NFL,QB,8,8,79,70,74,69,90,72,83,65,74,

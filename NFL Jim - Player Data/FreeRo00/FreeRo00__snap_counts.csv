@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FreeRo00,Royce Freeman,RB,2018,22,DEN,RB,28,14,8,308,33%,0,0%,0,0%
+FreeRo00,Royce Freeman,RB,2019,23,DEN,RB,28,16,0,506,50%,0,0%,0,0%
+FreeRo00,Royce Freeman,RB,2020,24,DEN,RB,28,16,0,193,18%,0,0%,159,34%
+FreeRo00,Royce Freeman,RB,2021,25,2TM,RB,,15,0,218,,0,,75,
+FreeRo00,Royce Freeman,RB,,,CAR,RB,32,8,0,103,18%,0,0%,33,15%
+FreeRo00,Royce Freeman,RB,,,,,,,,115,26%,0,0%,42,23%
+FreeRo00,Royce Freeman,RB,2022,26,HOU,RB,26,4,1,106,40%,0,0%,17,16%
+FreeRo00,Royce Freeman,RB,2023,27,LAR,RB,24,14,0,207,22%,0,0%,164,42%

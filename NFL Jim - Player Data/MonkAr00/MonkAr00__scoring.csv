@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MonkAr00,Art Monk,WR,1980,23,WAS,NFL,WR,16,11,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+MonkAr00,Art Monk,WR,1981,24,WAS,NFL,WR,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+MonkAr00,Art Monk,WR,1982,25,WAS,NFL,WR,9,9,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.7,
+MonkAr00,Art Monk,WR,1983,26,WAS,NFL,WR,12,11,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,2.5,
+MonkAr00,Art Monk,WR,1984,27,WAS,NFL,WR,16,16,0,7,0,0,0,0,0,7,,0,0,0,0,0,42,2.6,"PB,AP-1"
+MonkAr00,Art Monk,WR,1985,28,WAS,NFL,WR,15,14,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,"PB,AP-2"
+MonkAr00,Art Monk,WR,1986,29,WAS,NFL,WR,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,PB
+MonkAr00,Art Monk,WR,1987,30,WAS,NFL,WR,9,9,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,4.0,
+MonkAr00,Art Monk,WR,1988,31,WAS,NFL,WR,16,13,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,
+MonkAr00,Art Monk,WR,1989,32,WAS,NFL,WR,16,12,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+MonkAr00,Art Monk,WR,1990,33,WAS,NFL,WR,16,16,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,
+MonkAr00,Art Monk,WR,1991,34,WAS,NFL,WR,16,16,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+MonkAr00,Art Monk,WR,1992,35,WAS,NFL,WR,16,14,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+MonkAr00,Art Monk,WR,1993,36,WAS,NFL,WR,16,5,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+MonkAr00,Art Monk,WR,1994,37,NYJ,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,

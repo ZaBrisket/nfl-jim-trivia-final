@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+StroCJ00,C.J. Stroud,QB,2023,22,HOU,NFL,QB,15,15,39,167,3,17,59.0,16,4.3,11.1,2.6,1,1,0,0.0,0,0,0.0,0.1,0.0,100.0,0.0,40,4.2,167,3,8,"PB,AP MVP-8,AP ORoY-1"
+StroCJ00,C.J. Stroud,QB,2024,23,HOU,NFL,QB,17,17,52,233,0,14,38.5,25,4.5,13.7,3.1,1,0,0,,0,0,0.0,0.0,0.0,0.0,0.0,52,4.5,233,0,6,
+StroCJ00,C.J. Stroud,QB,2025,24,HOU,NFL,QB,8,8,29,189,0,14,65.5,30,6.5,23.6,3.6,0,0,0,,0,0,,0.0,0.0,,,29,6.5,189,0,0,

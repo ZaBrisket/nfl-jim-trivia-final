@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WashNa00,Nate Washington,WR,2006,23,PIT,NFL,WR,16,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WashNa00,Nate Washington,WR,2007,24,PIT,NFL,WR,16,4,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+WashNa00,Nate Washington,WR,2008,25,PIT,NFL,WR,16,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+WashNa00,Nate Washington,WR,2009,26,TEN,NFL,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+WashNa00,Nate Washington,WR,2010,27,TEN,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+WashNa00,Nate Washington,WR,2011,28,TEN,NFL,WR,16,15,1,7,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+WashNa00,Nate Washington,WR,2012,29,TEN,NFL,WR,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WashNa00,Nate Washington,WR,2013,30,TEN,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+WashNa00,Nate Washington,WR,2014,31,TEN,NFL,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+WashNa00,Nate Washington,WR,2015,32,HOU,NFL,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,

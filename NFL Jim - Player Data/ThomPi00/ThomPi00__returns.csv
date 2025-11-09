@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ThomPi00,Pierre Thomas,RB,2007,23,NOR,NFL,RB,12,1,0,0,0,0,36,865,0,64,24.0,1273,
+ThomPi00,Pierre Thomas,RB,2008,24,NOR,NFL,RB,15,5,0,0,0,0,31,793,0,88,25.6,1702,
+ThomPi00,Pierre Thomas,RB,2009,25,NOR,NFL,RB,14,6,0,0,0,0,1,19,0,19,19.0,1114,
+ThomPi00,Pierre Thomas,RB,2010,26,NOR,NFL,RB,6,3,0,0,0,0,7,154,0,32,22.0,624,
+ThomPi00,Pierre Thomas,RB,2011,27,NOR,NFL,RB,16,7,0,0,0,0,1,15,0,15,15.0,1002,
+ThomPi00,Pierre Thomas,RB,2012,28,NOR,NFL,RB,15,4,0,0,0,0,5,91,0,38,18.2,918,
+ThomPi00,Pierre Thomas,RB,2013,29,NOR,NFL,RB,16,9,0,0,0,0,1,12,0,12,12.0,1074,
+ThomPi00,Pierre Thomas,RB,,,,,,,,,,,,,,,,,,
+ThomPi00,Pierre Thomas,RB,2015,31,2TM,NFL,RB,5,0,0,0,0,0,1,15,0,15,15.0,163,
+ThomPi00,Pierre Thomas,RB,2015,31,SFO,NFL,RB,1,0,0,0,0,0,1,15,0,15,15.0,27,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LeexAm00,Amp Lee,RB,1992,21,SFO,NFL,RB,16,3,2,2,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,AP ORoY-6
+LeexAm00,Amp Lee,RB,1993,22,SFO,NFL,RB,15,3,1,2,0,0,0,0,0,3,,0,0,0,0,0,18,1.2,
+LeexAm00,Amp Lee,RB,1994,23,MIN,NFL,RB,13,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+LeexAm00,Amp Lee,RB,1995,24,MIN,NFL,RB,16,3,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+LeexAm00,Amp Lee,RB,1996,25,MIN,NFL,RB,16,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+LeexAm00,Amp Lee,RB,1997,26,STL,NFL,RB,16,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+LeexAm00,Amp Lee,RB,1998,27,STL,NFL,RB,14,2,2,2,0,0,0,0,0,4,1,0,0,0,0,0,26,1.9,
+LeexAm00,Amp Lee,RB,1999,28,STL,NFL,RB,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,

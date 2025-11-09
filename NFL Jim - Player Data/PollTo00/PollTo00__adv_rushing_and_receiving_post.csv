@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+PollTo00,Tony Pollard,RB,2021,24,DAL,NFL,RB,1,0,4,14,0,6,1.5,8,2.0,0,,2,2,12,1,-2,-1.0,14,7.0,-1.0,0,0,0.0,0,91.7,
+PollTo00,Tony Pollard,RB,2022,25,DAL,NFL,RB,2,0,21,99,3,49,2.3,50,2.4,3,7.0,6,5,23,1,-1,-0.2,24,4.8,-0.3,0,1,16.7,0,82.6,
+PollTo00,Tony Pollard,RB,2023,26,DAL,NFL,RB,1,1,15,56,4,32,2.1,24,1.6,1,15.0,9,7,29,1,-4,-0.6,33,4.7,1.6,0,0,0.0,0,80.1,

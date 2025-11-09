@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JeffVa00,Van Jefferson,WR,2020,24,LAR,WR,12,16,0,256,23%,0,0%,108,25%
+JeffVa00,Van Jefferson,WR,2021,25,LAR,WR,12,17,17,875,80%,0,0%,5,1%
+JeffVa00,Van Jefferson,WR,2022,26,LAR,WR,12,11,9,498,78%,0,0%,1,0%
+JeffVa00,Van Jefferson,WR,2023,27,2TM,WR,,17,9,621,,0,,0,
+JeffVa00,Van Jefferson,WR,,,LAR,WR,12,5,4,265,75%,0,0%,0,0%
+JeffVa00,Van Jefferson,WR,,,,,,,,356,45%,0,0%,0,0%
+JeffVa00,Van Jefferson,WR,2024,28,PIT,WR,11,17,12,721,64%,0,0%,2,0%
+JeffVa00,Van Jefferson,WR,2025,29,TEN,WR,11,9,2,264,49%,0,0%,49,20%

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+EckwJe00,Jerry Eckwood,RB,1979,25,TAM,NFL,RB,2,1,10,24,0,1,40.0,8,2.4,12.0,5.0,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,10,2.4,24,0,0,
+EckwJe00,Jerry Eckwood,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EckwJe00,Jerry Eckwood,RB,1981,27,TAM,NFL,RB,1,0,4,2,0,0,0.0,6,0.5,2.0,4.0,,0,0,0,0,,0.0,0.0,,,4,0.5,2,0,0,

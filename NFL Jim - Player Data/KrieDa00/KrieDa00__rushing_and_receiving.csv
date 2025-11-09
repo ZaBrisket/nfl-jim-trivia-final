@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+KrieDa00,Dave Krieg,QB,1981,23,SEA,NFL,QB,7,3,11,56,1,3,27.3,29,5.1,8.0,1.6,0,0,0,,0,0,,,0.0,0.0,,,11,5.1,56,1,4,
+KrieDa00,Dave Krieg,QB,1982,24,SEA,NFL,QB,3,2,6,-3,0,1,16.7,4,-0.5,-1.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,6,-0.5,-3,0,5,
+KrieDa00,Dave Krieg,QB,1983,25,SEA,NFL,QB,9,8,16,55,2,4,50.0,10,3.4,6.1,1.8,1,1,11,11.0,0,1,100.0,11,0.1,1.2,100.0,11.0,17,3.9,66,2,10,
+KrieDa00,Dave Krieg,QB,1984,26,SEA,NFL,QB,16,16,46,186,3,11,32.6,37,4.0,11.6,2.9,0,0,0,,0,0,,,0.0,0.0,,,46,4.0,186,3,11,PB
+KrieDa00,Dave Krieg,QB,1985,27,SEA,NFL,QB,16,16,35,121,1,9,45.7,17,3.5,7.6,2.2,0,0,0,,0,0,,,0.0,0.0,,,35,3.5,121,1,11,
+KrieDa00,Dave Krieg,QB,1986,28,SEA,NFL,QB,15,14,35,122,1,7,34.3,19,3.5,8.1,2.3,0,0,0,,0,0,,,0.0,0.0,,,35,3.5,122,1,10,
+KrieDa00,Dave Krieg,QB,1987,29,SEA,NFL,QB,12,12,36,155,2,7,38.9,17,4.3,12.9,3.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,36,4.3,155,2,11,
+KrieDa00,Dave Krieg,QB,1988,30,SEA,NFL,QB,9,9,24,64,0,2,33.3,17,2.7,7.1,2.7,0,0,0,,0,0,,,0.0,0.0,,,24,2.7,64,0,6,PB
+KrieDa00,Dave Krieg,QB,1989,31,SEA,NFL,QB,15,14,40,160,0,13,40.0,18,4.0,10.7,2.7,0,0,0,,0,0,,,0.0,0.0,,,40,4.0,160,0,18,PB
+KrieDa00,Dave Krieg,QB,1990,32,SEA,NFL,QB,16,16,32,115,0,7,34.4,25,3.6,7.2,2.0,1,1,-6,-6.0,0,0,0.0,-6,0.1,-0.4,100.0,-6.0,33,3.3,109,0,16,
+KrieDa00,Dave Krieg,QB,1991,33,SEA,NFL,QB,10,9,13,59,0,3,30.8,24,4.5,5.9,1.3,0,0,0,,0,0,,,0.0,0.0,,,13,4.5,59,0,6,
+KrieDa00,Dave Krieg,QB,1992,34,KAN,NFL,QB,16,16,37,74,2,8,32.4,17,2.0,4.6,2.3,0,0,0,,0,0,,,0.0,0.0,,,37,2.0,74,2,10,
+KrieDa00,Dave Krieg,QB,1993,35,KAN,NFL,QB,12,5,21,24,0,4,19.0,20,1.1,2.0,1.8,0,0,0,,0,0,,,0.0,0.0,,,21,1.1,24,0,6,
+KrieDa00,Dave Krieg,QB,1994,36,DET,NFL,QB,14,7,23,35,0,2,13.0,15,1.5,2.5,1.6,0,0,0,,0,0,,,0.0,0.0,,,23,1.5,35,0,4,
+KrieDa00,Dave Krieg,QB,1995,37,ARI,NFL,QB,16,16,19,29,0,2,15.8,17,1.5,1.8,1.2,0,0,0,,0,0,,,0.0,0.0,,,19,1.5,29,0,16,
+KrieDa00,Dave Krieg,QB,1996,38,CHI,NFL,QB,13,12,16,12,1,9,62.5,2,0.8,0.9,1.2,1,1,5,5.0,0,0,0.0,5,0.1,0.4,100.0,5.0,17,1.0,17,1,6,
+KrieDa00,Dave Krieg,QB,1997,39,TEN,NFL,QB,8,0,4,-2,0,0,0.0,,-0.5,-0.3,0.5,0,0,0,,0,0,,,0.0,0.0,,,4,-0.5,-2,0,0,
+KrieDa00,Dave Krieg,QB,1998,40,TEN,NFL,QB,5,0,3,-1,0,0,0.0,,-0.3,-0.2,0.6,0,0,0,,0,0,,,0.0,0.0,,,3,-0.3,-1,0,3,

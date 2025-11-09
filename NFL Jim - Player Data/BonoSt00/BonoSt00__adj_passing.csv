@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BonoSt00,Steve Bono,QB,1987,25,PIT,NFL,QB,3,3,78,84,101,103,70,128,117,99,103,
+BonoSt00,Steve Bono,QB,,,,,,,,,,,,,,,,,
+BonoSt00,Steve Bono,QB,1991,29,SFO,NFL,QB,9,6,98,104,113,115,109,109,129,117,117,
+BonoSt00,Steve Bono,QB,1992,30,SFO,NFL,QB,16,0,128,133,119,123,121,99,99,123,115,
+BonoSt00,Steve Bono,QB,1993,31,SFO,NFL,QB,8,0,101,105,101,104,118,51,126,104,100,
+BonoSt00,Steve Bono,QB,1994,32,KAN,NFL,QB,7,2,101,117,98,109,95,95,95,142,95,
+BonoSt00,Steve Bono,QB,1995,33,KAN,NFL,QB,16,16,82,90,98,102,95,102,121,115,102,PB
+BonoSt00,Steve Bono,QB,1996,34,KAN,NFL,QB,14,13,79,86,85,89,86,85,103,112,86,
+BonoSt00,Steve Bono,QB,,,,,,,,,,,,,,,,,
+BonoSt00,Steve Bono,QB,1998,36,STL,NFL,QB,6,2,85,90,91,94,76,96,104,117,90,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PondCh00,Christian Ponder,QB,2011,23,MIN,NFL,QB,11,10,85,81,81,79,78,102,73,75,81,
+PondCh00,Christian Ponder,QB,2012,24,MIN,NFL,QB,16,16,78,83,87,89,105,94,104,102,95,
+PondCh00,Christian Ponder,QB,2013,25,MIN,NFL,QB,9,9,94,89,86,84,108,83,80,70,88,

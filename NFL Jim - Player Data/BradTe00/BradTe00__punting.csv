@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_ret_yds_opp,punt_net_yds,punt_net_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct,punt_blocked,awards
+BradTe00,Terry Bradshaw,QB,1970,22,PIT,NFL,QB,13,8,3,52,17.3,,,,39,,,,,1,
+BradTe00,Terry Bradshaw,QB,,,,,,,,,,,,,,,,,,,,
+BradTe00,Terry Bradshaw,QB,1980,32,PIT,NFL,QB,15,15,5,173,34.6,0,173,34.6,44,0,0.0,0,0.0,0,

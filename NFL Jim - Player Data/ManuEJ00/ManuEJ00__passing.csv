@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+ManuEJ00,EJ Manuel,QB,2013,23,BUF,NFL,QB,10,10,4-6-0,180,306,58.8,1972,11,3.6,9,2.9,89,40.7,45,6.4,5.84,11.0,197.2,77.7,38.2,28,159,8.38,5.43,4.87,1,2,5,
+ManuEJ00,EJ Manuel,QB,2014,24,BUF,NFL,QB,5,4,2-2-0,76,131,58.0,838,5,3.8,3,2.3,41,42.3,80,6.4,6.13,11.0,167.6,80.3,26.0,6,44,4.38,5.80,5.54,0,1,2,
+ManuEJ00,EJ Manuel,QB,2015,25,BUF,NFL,QB,7,2,0-2-0,52,84,61.9,561,3,3.6,3,3.6,26,46.7,58,6.7,5.79,10.8,80.1,78.5,35.7,6,45,6.67,5.73,4.90,0,0,2,
+ManuEJ00,EJ Manuel,QB,2016,26,BUF,NFL,QB,6,1,0-1-0,11,26,42.3,131,0,0.0,0,0.0,6,37.9,35,5.0,5.04,11.9,21.8,58.3,24.3,3,20,10.34,3.83,3.83,0,0,1,
+ManuEJ00,EJ Manuel,QB,2017,27,OAK,NFL,QB,2,1,0-1-0,24,43,55.8,265,1,2.3,1,2.3,13,38.3,41,6.2,5.58,11.0,132.5,72.3,57.0,4,29,8.51,5.02,4.49,0,0,1,

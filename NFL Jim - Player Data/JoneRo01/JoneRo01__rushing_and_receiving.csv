@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneRo01,Ronald Jones II,RB,2018,21,TAM,NFL,RB,9,0,23,44,1,2,39.1,9,1.9,4.9,2.6,9,7,33,4.7,0,2,22.2,15,0.8,3.7,77.8,3.7,30,2.6,77,1,0,0,
+JoneRo01,Ronald Jones II,RB,2019,22,TAM,NFL,RB,16,9,172,724,6,34,43.0,49,4.2,45.3,10.8,40,31,309,10.0,0,12,52.5,41,1.9,19.3,77.5,7.7,203,5.1,1033,6,3,7,
+JoneRo01,Ronald Jones II,RB,2020,23,TAM,NFL,RB,14,13,192,978,7,48,54.2,98,5.1,69.9,13.7,42,28,165,5.9,1,2,31.0,37,2.0,11.8,66.7,3.9,220,5.2,1143,8,2,8,
+JoneRo01,Ronald Jones II,RB,2021,24,TAM,NFL,RB,16,3,101,428,4,25,62.4,30,4.2,26.8,6.3,13,10,64,6.4,0,2,61.5,15,0.6,4.0,76.9,4.9,111,4.4,492,4,2,3,
+JoneRo01,Ronald Jones II,RB,2022,25,KAN,NFL,RB,6,0,17,70,1,4,52.9,13,4.1,11.7,2.8,1,1,22,22.0,0,1,100.0,22,0.2,3.7,100.0,22.0,18,5.1,92,1,0,1,

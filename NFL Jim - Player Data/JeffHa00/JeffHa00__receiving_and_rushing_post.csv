@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JeffHa00,Haywood Jeffires,WR,1987,23,HOU,NFL,WR,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,
+JeffHa00,Haywood Jeffires,WR,1988,24,HOU,NFL,WR,2,0,14,8,130,16.3,0,6,50.0,35,4.0,65.0,57.1,9.3,0,0,0,0,0.0,0.0,8,16.3,130,0,1,
+JeffHa00,Haywood Jeffires,WR,1989,25,HOU,NFL,WR,1,0,9,3,16,5.3,0,1,22.2,7,3.0,16.0,33.3,1.8,0,0,0,0,0.0,0.0,3,5.3,16,0,0,
+JeffHa00,Haywood Jeffires,WR,1990,26,HOU,NFL,WR,1,1,5,2,33,16.5,0,2,40.0,23,2.0,33.0,40.0,6.6,0,0,0,0,0.0,0.0,2,16.5,33,0,0,
+JeffHa00,Haywood Jeffires,WR,1991,27,HOU,NFL,WR,2,2,19,11,148,13.5,1,6,57.9,49,5.5,74.0,57.9,7.8,0,0,0,0,0.0,0.0,11,13.5,148,1,0,
+JeffHa00,Haywood Jeffires,WR,1992,28,HOU,NFL,WR,1,1,12,8,98,12.3,2,5,58.3,32,8.0,98.0,66.7,8.2,0,0,0,0,0.0,0.0,8,12.3,98,2,0,
+JeffHa00,Haywood Jeffires,WR,1993,29,HOU,NFL,WR,1,1,13,9,88,9.8,0,5,61.5,23,9.0,88.0,69.2,6.8,0,0,0,0,0.0,0.0,9,9.8,88,0,1,

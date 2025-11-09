@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WashNa00,Nate Washington,WR,2005,22,PIT,NFL,WR,1,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+WashNa00,Nate Washington,WR,2006,23,PIT,NFL,WR,16,2,69,35,624,17.8,4,28,46.4,49,2.2,39.0,50.7,9.0,3,8,0,1,33.3,8,2.7,0.5,0.2,38,16.6,632,4,0,5,
+WashNa00,Nate Washington,WR,2007,24,PIT,NFL,WR,16,4,55,29,450,15.5,5,21,50.9,40,1.8,28.1,52.7,8.2,1,0,0,0,0.0,,0.0,0.0,0.1,30,15.0,450,5,0,5,
+WashNa00,Nate Washington,WR,2008,25,PIT,NFL,WR,16,1,78,40,631,15.8,3,24,47.4,65,2.5,39.4,51.3,8.1,5,18,0,2,60.0,8,3.6,1.1,0.3,45,14.4,649,3,0,6,
+WashNa00,Nate Washington,WR,2009,26,TEN,NFL,WR,16,15,95,47,569,12.1,6,34,43.2,35,2.9,35.6,49.5,6.0,2,15,0,1,50.0,14,7.5,0.9,0.1,49,11.9,584,6,1,6,
+WashNa00,Nate Washington,WR,2010,27,TEN,NFL,WR,16,16,94,42,687,16.4,6,34,42.6,71,2.6,42.9,44.7,7.3,1,-8,0,0,0.0,-8,-8.0,-0.5,0.1,43,15.8,679,6,0,7,
+WashNa00,Nate Washington,WR,2011,28,TEN,NFL,WR,16,15,121,74,1023,13.8,7,47,49.6,57,4.6,63.9,61.2,8.5,2,5,1,2,50.0,3,2.5,0.3,0.1,76,13.5,1028,8,0,8,
+WashNa00,Nate Washington,WR,2012,29,TEN,NFL,WR,16,14,89,46,746,16.2,4,30,42.7,71,2.9,46.6,51.7,8.4,0,0,0,0,,,,0.0,0.0,46,16.2,746,4,1,5,
+WashNa00,Nate Washington,WR,2013,30,TEN,NFL,WR,16,15,105,58,919,15.8,3,43,48.6,77,3.6,57.4,55.2,8.8,0,0,0,0,,,,0.0,0.0,58,15.8,919,3,0,8,
+WashNa00,Nate Washington,WR,2014,31,TEN,NFL,WR,16,11,72,40,647,16.2,2,26,52.8,80,2.5,40.4,55.6,9.0,0,0,0,0,,,,0.0,0.0,40,16.2,647,2,0,4,
+WashNa00,Nate Washington,WR,2015,32,HOU,NFL,WR,14,14,94,47,658,14.0,4,33,43.6,49,3.4,47.0,50.0,7.0,0,0,0,0,,,,0.0,0.0,47,14.0,658,4,0,5,

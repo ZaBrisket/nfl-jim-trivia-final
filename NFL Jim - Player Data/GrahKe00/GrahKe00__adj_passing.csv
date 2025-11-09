@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GrahKe00,Kent Graham,QB,1992,24,NYG,NFL,QB,6,3,62,69,63,67,54,69,91,102,57,
+GrahKe00,Kent Graham,QB,,,,,,,,,,,,,,,,,
+GrahKe00,Kent Graham,QB,1994,26,NYG,NFL,QB,13,1,75,81,84,88,60,123,90,117,84,
+GrahKe00,Kent Graham,QB,,,,,,,,,,,,,,,,,
+GrahKe00,Kent Graham,QB,1996,28,ARI,NFL,QB,10,8,81,83,94,94,84,106,109,101,96,
+GrahKe00,Kent Graham,QB,1997,29,ARI,NFL,QB,8,6,79,82,88,89,82,75,117,106,86,
+GrahKe00,Kent Graham,QB,1998,30,NYG,NFL,QB,11,6,85,90,93,96,78,94,111,110,92,
+GrahKe00,Kent Graham,QB,1999,31,NYG,NFL,QB,9,9,92,88,93,90,106,93,100,90,96,
+GrahKe00,Kent Graham,QB,2000,32,PIT,NFL,QB,12,5,85,85,96,96,46,62,142,93,80,

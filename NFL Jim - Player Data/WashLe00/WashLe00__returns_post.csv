@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WashLe00,Leon Washington,RB,2006,24,NYJ,NFL,RB,1,1,1,7,0,7,7.0,0,0,0,0,,82,
+WashLe00,Leon Washington,RB,,,,,,,,,,,,,,,,,,,
+WashLe00,Leon Washington,RB,2010,28,SEA,NFL,RB,2,1,1,12,0,12,12.0,9,222,0,62,24.7,253,
+WashLe00,Leon Washington,RB,,,,,,,,,,,,,,,,,,,
+WashLe00,Leon Washington,RB,2012,30,SEA,NFL,RB,2,0,4,43,0,15,10.8,3,83,0,37,27.7,126,

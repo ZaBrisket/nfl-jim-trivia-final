@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FloyMa00,Malcom Floyd,WR,2004,23,SDG,NFL,WR,4,2,9,3,49,16.3,1,2,33.3,27,0.8,12.3,33.3,5.4,0,0,0,0,0.0,0.0,3,16.3,49,1,0,1,
+FloyMa00,Malcom Floyd,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FloyMa00,Malcom Floyd,WR,2006,25,SDG,NFL,WR,12,0,32,15,210,14.0,3,9,37.5,46,1.3,17.5,46.9,6.6,0,0,0,0,0.0,0.0,15,14.0,210,3,0,3,
+FloyMa00,Malcom Floyd,WR,2007,26,SDG,NFL,WR,6,1,13,7,97,13.9,0,4,46.2,25,1.2,16.2,53.8,7.5,0,0,0,0,0.0,0.0,7,13.9,97,0,0,1,
+FloyMa00,Malcom Floyd,WR,2008,27,SDG,NFL,WR,13,2,37,27,465,17.2,4,21,67.6,49,2.1,35.8,73.0,12.6,0,0,0,0,0.0,0.0,27,17.2,465,4,0,5,
+FloyMa00,Malcom Floyd,WR,2009,28,SDG,NFL,WR,16,9,76,45,776,17.2,1,36,57.9,53,2.8,48.5,59.2,10.2,0,0,0,0,0.0,0.0,45,17.2,776,1,0,10,
+FloyMa00,Malcom Floyd,WR,2010,29,SDG,NFL,WR,11,9,77,37,717,19.4,6,33,45.5,55,3.4,65.2,48.1,9.3,0,0,0,0,0.0,0.0,37,19.4,717,6,1,7,
+FloyMa00,Malcom Floyd,WR,2011,30,SDG,NFL,WR,12,9,70,43,856,19.9,5,41,61.4,52,3.6,71.3,61.4,12.2,0,0,0,0,0.0,0.0,43,19.9,856,5,0,9,
+FloyMa00,Malcom Floyd,WR,2012,31,SDG,NFL,WR,14,14,85,56,814,14.5,5,47,61.2,39,4.0,58.1,65.9,9.6,0,0,0,0,0.0,0.0,56,14.5,814,5,0,7,
+FloyMa00,Malcom Floyd,WR,2013,32,SDG,NFL,WR,2,2,11,6,149,24.8,0,5,54.5,47,3.0,74.5,54.5,13.5,0,0,0,0,0.0,0.0,6,24.8,149,0,0,1,
+FloyMa00,Malcom Floyd,WR,2014,33,SDG,NFL,WR,16,16,92,52,856,16.5,6,39,50.0,59,3.3,53.5,56.5,9.3,0,0,0,0,0.0,0.0,52,16.5,856,6,0,7,
+FloyMa00,Malcom Floyd,WR,2015,34,SDG,NFL,WR,15,13,68,30,561,18.7,3,19,38.2,70,2.0,37.4,44.1,8.3,0,0,0,0,0.0,0.0,30,18.7,561,3,1,4,

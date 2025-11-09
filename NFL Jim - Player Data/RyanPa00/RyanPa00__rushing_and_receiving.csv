@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RyanPa00,Pat Ryan,QB,1981,26,NYJ,NFL,QB,15,0,3,-5,0,0,0.0,-1,-1.7,-0.3,0.2,0,0,0,0,0,0.0,0.0,3,-1.7,-5,0,0,
+RyanPa00,Pat Ryan,QB,1982,27,NYJ,NFL,QB,9,0,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,
+RyanPa00,Pat Ryan,QB,1983,28,NYJ,NFL,QB,16,0,4,23,0,1,25.0,25,5.8,1.4,0.3,0,0,0,0,0,0.0,0.0,4,5.8,23,0,2,
+RyanPa00,Pat Ryan,QB,1984,29,NYJ,NFL,QB,16,11,23,92,0,6,47.8,16,4.0,5.8,1.4,0,0,0,0,0,0.0,0.0,23,4.0,92,0,4,
+RyanPa00,Pat Ryan,QB,1985,30,NYJ,NFL,QB,16,0,3,-5,0,0,0.0,-1,-1.7,-0.3,0.2,0,0,0,0,0,0.0,0.0,3,-1.7,-5,0,0,
+RyanPa00,Pat Ryan,QB,1986,31,NYJ,NFL,QB,16,2,8,28,0,3,37.5,18,3.5,1.8,0.5,0,0,0,0,0,0.0,0.0,8,3.5,28,0,0,
+RyanPa00,Pat Ryan,QB,1987,32,NYJ,NFL,QB,13,1,4,5,1,1,25.0,8,1.3,0.4,0.3,0,0,0,0,0,0.0,0.0,4,1.3,5,1,0,
+RyanPa00,Pat Ryan,QB,1988,33,NYJ,NFL,QB,16,4,5,22,0,2,60.0,15,4.4,1.4,0.3,0,0,0,0,0,0.0,0.0,5,4.4,22,0,1,
+RyanPa00,Pat Ryan,QB,1989,34,NYJ,NFL,QB,7,1,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,
+RyanPa00,Pat Ryan,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RyanPa00,Pat Ryan,QB,1991,36,PHI,NFL,QB,4,0,1,-2,0,0,0.0,-2,-2.0,-0.5,0.3,0,0,0,0,0,0.0,0.0,1,-2.0,-2,0,2,

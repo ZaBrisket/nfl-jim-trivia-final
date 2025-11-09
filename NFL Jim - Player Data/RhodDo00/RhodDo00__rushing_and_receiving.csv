@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RhodDo00,Dominic Rhodes,RB,2001,22,IND,NFL,RB,15,10,233,1104,9,58,48.1,77,4.7,73.6,15.5,55,34,224,6.6,0,13,32.7,19,2.3,14.9,61.8,4.1,267,5.0,1328,9,6,12,AP ORoY-5
+RhodDo00,Dominic Rhodes,RB,2002,,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RhodDo00,Dominic Rhodes,RB,2003,24,IND,NFL,RB,11,0,37,157,0,6,40.5,25,4.2,14.3,3.4,7,6,62,10.3,1,3,57.1,27,0.5,5.6,85.7,8.9,43,5.1,219,1,0,2,
+RhodDo00,Dominic Rhodes,RB,2004,25,IND,NFL,RB,16,0,53,254,1,16,45.3,55,4.8,15.9,3.3,4,2,24,12.0,0,1,50.0,20,0.1,1.5,50.0,6.0,55,5.1,278,1,2,4,
+RhodDo00,Dominic Rhodes,RB,2005,26,IND,NFL,RB,13,1,40,118,4,11,40.0,24,3.0,9.1,3.1,15,12,88,7.3,0,2,53.3,15,0.9,6.8,80.0,5.9,52,4.0,206,4,2,2,
+RhodDo00,Dominic Rhodes,RB,2006,27,IND,NFL,RB,16,16,187,641,5,40,45.5,17,3.4,40.1,11.7,47,36,251,7.0,0,9,53.2,27,2.3,15.7,76.6,5.3,223,4.0,892,5,3,9,
+RhodDo00,Dominic Rhodes,RB,2007,28,OAK,NFL,RB,10,2,75,302,1,18,50.7,25,4.0,30.2,7.5,18,11,70,6.4,0,1,27.8,17,1.1,7.0,61.1,3.9,86,4.3,372,1,2,2,
+RhodDo00,Dominic Rhodes,RB,2008,29,IND,NFL,RB,15,4,152,538,6,27,47.4,38,3.5,35.9,10.1,59,45,302,6.7,3,15,42.4,29,3.0,20.1,76.3,5.1,197,4.3,840,9,0,8,
+RhodDo00,Dominic Rhodes,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RhodDo00,Dominic Rhodes,RB,2010,31,IND,NFL,RB,3,0,37,172,0,8,43.2,15,4.6,57.3,12.3,4,1,4,4.0,0,0,0.0,4,0.3,1.3,25.0,1.0,38,4.6,176,0,1,1,

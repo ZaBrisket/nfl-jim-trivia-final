@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BigsTa00,Tank Bigsby,RB,2023,22,JAX,NFL,RB,17,0,0,0,0,0,4,99,0,31,24.8,228,
+BigsTa00,Tank Bigsby,RB,2024,23,JAX,NFL,RB,16,1,0,0,0,0,6,195,0,41,32.5,1015,
+BigsTa00,Tank Bigsby,RB,2025,24,2TM,NFL,RB,8,0,0,0,0,0,10,207,0,31,20.7,333,
+BigsTa00,Tank Bigsby,RB,2025,24,JAX,NFL,RB,1,0,0,0,0,0,1,20,0,20,20.0,32,
+BigsTa00,Tank Bigsby,RB,2025,24,PHI,NFL,RB,7,0,0,0,0,0,9,187,0,31,20.8,301,

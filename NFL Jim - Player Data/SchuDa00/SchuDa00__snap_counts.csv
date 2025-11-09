@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SchuDa00,Dalton Schultz,TE,2018,22,DAL,TE,86,11,7,300,40%,0,0%,66,24%
+SchuDa00,Dalton Schultz,TE,2019,23,DAL,TE,86,16,0,117,10%,0,0%,95,22%
+SchuDa00,Dalton Schultz,TE,2020,24,DAL,TE,86,16,14,973,85%,0,0%,9,2%
+SchuDa00,Dalton Schultz,TE,2021,25,DAL,TE,86,17,15,993,81%,0,0%,86,18%
+SchuDa00,Dalton Schultz,TE,2022,26,DAL,TE,86,15,15,817,79%,0,0%,1,0%
+SchuDa00,Dalton Schultz,TE,2023,27,HOU,TE,86,15,8,739,73%,0,0%,1,0%
+SchuDa00,Dalton Schultz,TE,2024,28,HOU,TE,86,17,13,865,78%,0,0%,12,3%
+SchuDa00,Dalton Schultz,TE,2025,29,HOU,TE,86,8,4,378,69%,0,0%,2,1%

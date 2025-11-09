@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ThomDe03,Demaryius Thomas,WR,2018,31,2TM,NFL,WR,15,15,89,59,677,36,400,6.8,277,4.7,10.2,2,29.5,6,6.7,2,98.4,0,0,0,0,0,0,
+ThomDe03,Demaryius Thomas,WR,2018,31,DEN,NFL,WR,8,8,56,36,402,21,270,7.5,132,3.7,10.4,1,36.0,6,10.7,2,88.5,0,0,0,0,0,0,
+ThomDe03,Demaryius Thomas,WR,2018,31,HOU,NFL,WR,7,7,33,23,275,15,130,5.7,145,6.3,9.8,1,23.0,0,0.0,0,115.1,0,0,0,0,0,0,
+ThomDe03,Demaryius Thomas,WR,2019,32,NYJ,NFL,WR,11,10,58,36,433,22,263,7.3,170,4.7,9.6,1,36.0,5,8.6,3,69.1,0,0,0,0,0,0,

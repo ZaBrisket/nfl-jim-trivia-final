@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JackVi00,Vincent Jackson,WR,2006,23,SDG,NFL,WR,16,7,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,
+JackVi00,Vincent Jackson,WR,2007,24,SDG,NFL,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+JackVi00,Vincent Jackson,WR,2008,25,SDG,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+JackVi00,Vincent Jackson,WR,2009,26,SDG,NFL,WR,15,15,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.6,PB
+JackVi00,Vincent Jackson,WR,2010,27,SDG,NFL,WR,5,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,3.6,
+JackVi00,Vincent Jackson,WR,2011,28,SDG,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB
+JackVi00,Vincent Jackson,WR,2012,29,TAM,NFL,WR,16,16,0,8,0,0,0,0,0,8,1,0,0,0,0,0,50,3.1,PB
+JackVi00,Vincent Jackson,WR,2013,30,TAM,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+JackVi00,Vincent Jackson,WR,2014,31,TAM,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+JackVi00,Vincent Jackson,WR,2015,32,TAM,NFL,WR,10,9,0,3,0,0,0,0,0,3,1,0,0,0,0,0,20,2.0,

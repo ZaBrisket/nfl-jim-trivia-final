@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+PeteAd01,Adrian Peterson,RB,2018,33,WAS,NFL,RB,16,16,251,1042,47,572,2.3,470,1.9,20,12.6,26,20,208,9,7,0.4,201,10.1,0.3,7,2.9,3,11.5,0,112.3,AP CPoY-3
+PeteAd01,Adrian Peterson,RB,2019,34,WAS,NFL,RB,15,15,211,898,41,374,1.8,524,2.5,7,30.1,23,17,142,7,-19,-1.1,161,9.5,-1.9,6,2.8,1,4.3,0,89.4,
+PeteAd01,Adrian Peterson,RB,2020,35,DET,NFL,RB,16,10,156,604,34,346,2.2,258,1.7,11,14.2,18,12,101,4,-2,-0.2,103,8.6,-0.3,1,12.0,3,16.7,0,81.0,
+PeteAd01,Adrian Peterson,RB,2021,36,2TM,NFL,RB,4,3,38,98,6,39,1.0,59,1.6,1,38.0,4,4,8,0,-6,-1.5,14,3.5,-1.5,0,,0,0.0,0,79.2,
+PeteAd01,Adrian Peterson,RB,2021,36,TEN,NFL,RB,3,2,27,82,4,34,1.3,48,1.8,0,,4,4,8,0,-6,-1.5,14,3.5,-1.5,0,,0,0.0,0,79.2,
+PeteAd01,Adrian Peterson,RB,2021,36,SEA,NFL,RB,1,1,11,16,2,5,0.5,11,1.0,1,11.0,0,0,0,0,0,,0,,,0,,0,,0,,

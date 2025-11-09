@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ManuLi00,Lionel Manuel,WR,1984,22,NYG,NFL,WR,2,1,11,5,84,16.8,0,4,36.4,25,2.5,42.0,45.5,7.6,0,0,0,0,,,,0.0,0.0,5,16.8,84,0,1,
+ManuLi00,Lionel Manuel,WR,1985,23,NYG,NFL,WR,2,2,11,3,56,18.7,0,3,27.3,21,1.5,28.0,27.3,5.1,0,0,0,0,,,,0.0,0.0,3,18.7,56,0,0,
+ManuLi00,Lionel Manuel,WR,1986,24,NYG,NFL,WR,3,1,5,5,79,15.8,1,5,100.0,25,1.7,26.3,100.0,15.8,1,-5,0,0,0.0,-5,-5.0,-1.7,0.3,6,12.3,74,1,0,
+ManuLi00,Lionel Manuel,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ManuLi00,Lionel Manuel,WR,1989,27,NYG,NFL,WR,1,1,4,1,24,24.0,0,1,25.0,24,1.0,24.0,25.0,6.0,0,0,0,0,,,,0.0,0.0,1,24.0,24,0,0,

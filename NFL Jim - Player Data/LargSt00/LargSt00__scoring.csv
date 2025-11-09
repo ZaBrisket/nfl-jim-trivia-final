@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LargSt00,Steve Largent,WR,1976,22,SEA,NFL,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.7,
+LargSt00,Steve Largent,WR,1977,23,SEA,NFL,WR,14,14,0,10,0,0,0,0,0,10,0,0,0,0,0,60,4.3,
+LargSt00,Steve Largent,WR,1978,24,SEA,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,"PB,AP-2"
+LargSt00,Steve Largent,WR,1979,25,SEA,NFL,WR,15,15,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.6,"PB,AP-2,AP MVP-6,AP OPoY-7"
+LargSt00,Steve Largent,WR,1980,26,SEA,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+LargSt00,Steve Largent,WR,1981,27,SEA,NFL,WR,16,16,1,9,0,0,0,0,0,10,0,0,0,0,0,60,3.8,PB
+LargSt00,Steve Largent,WR,1982,28,SEA,NFL,WR,8,8,0,3,0,0,0,0,0,3,0,0,0,0,0,18,2.3,
+LargSt00,Steve Largent,WR,1983,29,SEA,NFL,WR,15,14,0,11,0,0,0,0,0,11,0,0,0,0,0,66,4.4,
+LargSt00,Steve Largent,WR,1984,30,SEA,NFL,WR,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,72,4.5,"PB,AP-2"
+LargSt00,Steve Largent,WR,1985,31,SEA,NFL,WR,16,16,0,6,0,0,0,0,0,6,1,1,0,0,0,37,2.3,"PB,AP-1"
+LargSt00,Steve Largent,WR,1986,32,SEA,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,54,3.4,PB
+LargSt00,Steve Largent,WR,1987,33,SEA,NFL,WR,13,13,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.7,"PB,AP-2"
+LargSt00,Steve Largent,WR,1988,34,SEA,NFL,WR,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+LargSt00,Steve Largent,WR,1989,35,SEA,NFL,WR,10,9,0,3,0,0,0,0,0,3,1,1,0,0,0,19,1.9,

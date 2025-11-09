@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MartEr00,Eric Martin,WR,1985,24,NOR,NFL,WR,16,12,90,35,522,14.9,4,25,34.4,50,2.2,32.6,38.9,5.8,2,-1,0,1,50.0,11,-0.5,-0.1,0.1,37,14.1,521,4,1,4,
+MartEr00,Eric Martin,WR,1986,25,NOR,NFL,WR,16,11,80,37,675,18.2,5,24,40.0,84,2.3,42.2,46.3,8.4,0,0,0,0,,,,0.0,0.0,37,18.2,675,5,5,7,
+MartEr00,Eric Martin,WR,1987,26,NOR,NFL,WR,15,11,71,44,778,17.7,7,41,62.0,67,2.9,51.9,62.0,11.0,0,0,0,0,,,,0.0,0.0,44,17.7,778,7,3,10,
+MartEr00,Eric Martin,WR,1988,27,NOR,NFL,WR,16,16,134,85,1083,12.7,7,65,56.0,40,5.3,67.7,63.4,8.1,2,12,0,1,50.0,9,6.0,0.8,0.1,87,12.6,1095,7,2,10,PB
+MartEr00,Eric Martin,WR,1989,28,NOR,NFL,WR,16,15,115,68,1090,16.0,8,46,53.0,53,4.3,68.1,59.1,9.5,0,0,0,0,,,,0.0,0.0,68,16.0,1090,8,1,11,
+MartEr00,Eric Martin,WR,1990,29,NOR,NFL,WR,16,16,121,63,912,14.5,5,49,47.9,58,3.9,57.0,52.1,7.5,0,0,0,0,,,,0.0,0.0,63,14.5,912,5,3,9,
+MartEr00,Eric Martin,WR,1991,30,NOR,NFL,WR,16,13,116,66,803,12.2,4,46,50.0,30,4.1,50.2,56.9,6.9,0,0,0,0,,,,0.0,0.0,66,12.2,803,4,2,8,
+MartEr00,Eric Martin,WR,1992,31,NOR,NFL,WR,16,11,101,68,1041,15.3,5,50,60.4,52,4.3,65.1,67.3,10.3,0,0,0,0,,,,0.0,0.0,68,15.3,1041,5,1,11,
+MartEr00,Eric Martin,WR,1993,32,NOR,NFL,WR,16,13,110,66,950,14.4,3,50,57.3,54,4.1,59.4,60.0,8.6,0,0,0,0,,,,0.0,0.0,66,14.4,950,3,0,9,
+MartEr00,Eric Martin,WR,1994,33,KAN,NFL,WR,10,1,32,21,307,14.6,1,18,62.5,61,2.1,30.7,65.6,9.6,0,0,0,0,,,,0.0,0.0,21,14.6,307,1,0,2,

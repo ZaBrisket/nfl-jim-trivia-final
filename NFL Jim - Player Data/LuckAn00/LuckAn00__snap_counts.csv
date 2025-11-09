@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+LuckAn00,Andrew Luck,QB,2012*,23,IND,QB,12,16,16,1169,100%,0,0%,0,0%
+LuckAn00,Andrew Luck,QB,2013*,24,IND,QB,12,16,16,1048,98%,0,0%,0,0%
+LuckAn00,Andrew Luck,QB,2014*,25,IND,QB,12,16,16,1073,93%,0,0%,0,0%
+LuckAn00,Andrew Luck,QB,2015,26,IND,QB,12,7,7,504,100%,0,0%,0,0%
+LuckAn00,Andrew Luck,QB,2016,27,IND,QB,12,15,15,1013,98%,0,0%,0,0%
+LuckAn00,Andrew Luck,QB,2018*,29,IND,QB,12,16,16,1119,99%,0,0%,0,0%

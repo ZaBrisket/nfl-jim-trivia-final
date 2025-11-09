@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+GreeHa00,Harold Green,RB,1990,22,CIN,NFL,FB,12,9,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1991,23,CIN,NFL,FB,14,10,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1992,24,CIN,NFL,RB,16,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,PB
+GreeHa00,Harold Green,RB,1993,25,CIN,NFL,RB,15,15,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1994,26,CIN,NFL,RB,14,11,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1995,27,CIN,NFL,RB,15,15,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1996,28,STL,NFL,RB,16,5,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1997,29,ATL,NFL,RB,16,1,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,
+GreeHa00,Harold Green,RB,1998,30,ATL,NFL,RB,6,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

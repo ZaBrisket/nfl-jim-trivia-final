@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MontWi00,Wilbert Montgomery,RB,1977,23,PHI,NFL,RB,14,1,0,0,0,0,23,619,1,99,26.9,820,
+MontWi00,Wilbert Montgomery,RB,1978,24,PHI,NFL,RB,14,14,0,0,0,0,6,154,0,34,25.7,1569,"PB,AP-2"
+MontWi00,Wilbert Montgomery,RB,1979,25,PHI,NFL,RB,16,16,0,0,0,0,1,6,0,6,6.0,2012,"PB,AP-2,AP MVP-8"
+MontWi00,Wilbert Montgomery,RB,1980,26,PHI,NFL,RB,12,12,0,0,0,0,1,23,0,23,23.0,1208,
+MontWi00,Wilbert Montgomery,RB,,,,,,,,,,,,,,,,,,
+MontWi00,Wilbert Montgomery,RB,1982,28,PHI,NFL,RB,8,8,0,0,0,0,1,12,0,12,12.0,785,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+MayfBa00,Baker Mayfield,QB,2020,25,CLE,NFL,QB,2,2,44,71,419,5.9,206,4.7,2.9,261,5.9,3,3,0,6,8.8,9,13.2,52,76.5,2.3,40,4,2,7,9.5,2,4.0,0,0,0,0,0,0,15,71,
+MayfBa00,Baker Mayfield,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MayfBa00,Baker Mayfield,QB,2023,28,TAM,NFL,QB,2,2,48,77,649,8.4,341,7.1,4.4,345,7.2,2,3,0,12,16.2,8,10.8,65,87.8,2.3,25,5,4,17,19.3,3,5.7,9,39,6,18,2,21,10,121,
+MayfBa00,Baker Mayfield,QB,2024,29,TAM,NFL,QB,1,1,15,18,138,7.7,104,6.9,5.8,81,5.4,0,1,0,1,5.9,1,5.9,16,94.1,2.3,2,0,0,1,4.3,4,5.3,1,26,1,26,0,0,6,52,

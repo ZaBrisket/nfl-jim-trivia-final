@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+LandJa00,Jarvis Landry,WR,2018,26,CLE,NFL,WR,16,14,149,81,976,44,702,8.7,274,3.4,11.0,3,27.0,11,7.4,2,78.0,3,60,2,37,12.3,23,7.7,0,,PB
+LandJa00,Jarvis Landry,WR,2019,27,CLE,NFL,WR,16,16,138,83,1174,55,738,8.9,436,5.3,9.7,5,16.6,5,3.6,8,78.0,1,10,1,9,9.0,1,1.0,0,,PB
+LandJa00,Jarvis Landry,WR,2020,28,CLE,NFL,WR,15,14,101,72,840,46,499,6.9,341,4.7,8.2,4,18.0,6,5.9,1,101.9,4,10,2,6,1.5,4,1.0,0,,
+LandJa00,Jarvis Landry,WR,2021,29,CLE,NFL,WR,12,12,87,52,570,30,297,5.7,273,5.3,7.9,3,17.3,2,2.3,5,62.9,6,40,4,29,4.8,11,1.8,1,6.0,
+LandJa00,Jarvis Landry,WR,2022,30,NOR,NFL,WR,9,3,39,25,272,12,211,8.4,61,2.4,9.6,1,25.0,2,5.1,2,71.7,0,0,0,0,,0,,0,,

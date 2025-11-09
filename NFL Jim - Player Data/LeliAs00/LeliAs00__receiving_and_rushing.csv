@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LeliAs00,Ashley Lelie,WR,2002,22,DEN,NFL,WR,16,1,53,35,525,15.0,2,24,60.4,48,2.2,32.8,66.0,9.9,4,40,0,1,100.0,24,10.0,2.5,0.3,39,14.5,565,2,0,5,
+LeliAs00,Ashley Lelie,WR,2003,23,DEN,NFL,WR,16,10,81,37,628,17.0,2,25,43.2,60,2.3,39.3,45.7,7.8,8,43,0,2,50.0,13,5.4,2.7,0.5,45,14.9,671,2,0,7,
+LeliAs00,Ashley Lelie,WR,2004,24,DEN,NFL,WR,16,16,101,54,1084,20.1,7,40,49.5,58,3.4,67.8,53.5,10.7,3,5,0,0,33.3,8,1.7,0.3,0.2,57,19.1,1089,7,0,10,
+LeliAs00,Ashley Lelie,WR,2005,25,DEN,NFL,WR,16,13,90,42,770,18.3,1,29,43.3,56,2.6,48.1,46.7,8.6,5,84,0,5,100.0,39,16.8,5.3,0.3,47,18.2,854,1,0,10,
+LeliAs00,Ashley Lelie,WR,2006,26,ATL,NFL,WR,15,10,68,28,430,15.4,1,22,38.2,51,1.9,28.7,41.2,6.3,0,0,0,0,,,,0.0,0.0,28,15.4,430,1,0,4,
+LeliAs00,Ashley Lelie,WR,2007,27,SFO,NFL,WR,15,3,27,10,115,11.5,0,3,33.3,47,0.7,7.7,37.0,4.3,0,0,0,0,,,,0.0,0.0,10,11.5,115,0,1,1,
+LeliAs00,Ashley Lelie,WR,2008,28,OAK,NFL,WR,13,6,45,11,197,17.9,2,9,22.2,51,0.8,15.2,24.4,4.4,0,0,0,0,,,,0.0,0.0,11,17.9,197,2,0,2,

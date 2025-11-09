@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MorrSa00,Sammy Morris,RB,2000,23,BUF,NFL,RB,12,8,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,3.0,
+MorrSa00,Sammy Morris,RB,,,,,,,,,,,,,,,,,,,,,,,,
+MorrSa00,Sammy Morris,RB,2003,26,BUF,NFL,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,
+MorrSa00,Sammy Morris,RB,2004,27,MIA,NFL,RB,13,8,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.8,
+MorrSa00,Sammy Morris,RB,2005,28,MIA,NFL,RB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+MorrSa00,Sammy Morris,RB,2006,29,MIA,NFL,RB,12,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+MorrSa00,Sammy Morris,RB,2007,30,NWE,NFL,RB,6,2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,3.0,
+MorrSa00,Sammy Morris,RB,2008,31,NWE,NFL,RB,13,7,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,3.2,
+MorrSa00,Sammy Morris,RB,2009,32,NWE,NFL,RB,12,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CarpRo01,Rob Carpenter,RB,1979,24,HOU,NFL,RB,3,1,34,126,0,7,35.3,11,3.7,42.0,11.3,14,12,72,6.0,0,4,35.7,14,4.0,24.0,85.7,5.1,46,4.3,198,0,0,
+CarpRo01,Rob Carpenter,RB,1980,25,HOU,NFL,RB,1,0,5,9,0,0,20.0,4,1.8,9.0,5.0,4,3,26,8.7,0,1,25.0,14,3.0,26.0,75.0,6.5,8,4.4,35,0,0,
+CarpRo01,Rob Carpenter,RB,1981,26,NYG,NFL,FB,2,2,50,222,0,12,54.0,21,4.4,111.0,25.0,8,7,50,7.1,0,3,50.0,15,3.5,25.0,87.5,6.3,57,4.8,272,0,2,
+CarpRo01,Rob Carpenter,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CarpRo01,Rob Carpenter,RB,1984,29,NYG,NFL,FB,2,2,16,24,1,2,25.0,8,1.5,12.0,8.0,14,12,45,3.8,0,1,57.1,8,6.0,22.5,85.7,3.2,28,2.5,69,1,0,
+CarpRo01,Rob Carpenter,RB,1985,30,NYG,NFL,FB,2,2,4,25,0,1,75.0,12,6.3,12.5,2.0,7,6,60,10.0,0,2,57.1,16,3.0,30.0,85.7,8.6,10,8.5,85,0,1,

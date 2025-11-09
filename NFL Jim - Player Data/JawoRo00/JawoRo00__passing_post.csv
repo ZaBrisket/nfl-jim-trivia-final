@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+JawoRo00,Ron Jaworski,QB,1975,24,RAM,NFL,QB,2,1,1-0-0,23,45,51.1,350,1,2.2,2,4.4,,,66,7.8,6.22,15.2,175.0,66.0,5,51,10.00,5.98,4.58,0,0,
+JawoRo00,Ron Jaworski,QB,1976,25,RAM,NFL,QB,1,0,,0,0,,0,0,,,,,,,,,,0.0,,,,,,,0,0,
+JawoRo00,Ron Jaworski,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JawoRo00,Ron Jaworski,QB,1978,27,PHI,NFL,QB,1,1,0-1-0,19,35,54.3,190,1,2.9,0,0.0,10,34.2,27,5.4,6.00,10.0,190.0,79.5,3,26,7.89,4.32,4.84,0,0,
+JawoRo00,Ron Jaworski,QB,1979,28,PHI,NFL,QB,2,2,1-1-0,27,62,43.5,403,5,8.1,1,1.6,17,32.8,63,6.5,7.39,14.9,201.5,85.6,5,48,7.46,5.30,6.12,0,1,
+JawoRo00,Ron Jaworski,QB,1980,29,PHI,NFL,QB,3,3,2-1-0,44,105,41.9,572,2,1.9,7,6.7,31,35.8,43,5.4,2.83,13.0,190.7,38.3,4,25,3.67,5.02,2.50,0,0,
+JawoRo00,Ron Jaworski,QB,1981,30,PHI,NFL,QB,1,1,0-1-0,13,24,54.2,154,1,4.2,0,0.0,8,44.4,28,6.4,7.25,11.8,154.0,87.8,3,21,11.11,4.93,5.67,0,0,

@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KrieDa00,Dave Krieg,QB,1981,23,SEA,NFL,QB,7,3,111,104,113,108,105,125,99,88,115,
+KrieDa00,Dave Krieg,QB,1982,24,SEA,NFL,QB,3,2,87,63,98,82,122,81,123,46,106,
+KrieDa00,Dave Krieg,QB,1983,25,SEA,NFL,QB,9,8,133,114,128,115,112,134,96,68,124,
+KrieDa00,Dave Krieg,QB,1984,26,SEA,NFL,QB,16,16,111,111,108,108,105,127,90,103,110,PB
+KrieDa00,Dave Krieg,QB,1985,27,SEA,NFL,QB,16,16,94,91,101,98,93,111,104,95,102,
+KrieDa00,Dave Krieg,QB,1986,28,SEA,NFL,QB,15,14,118,112,121,118,118,116,115,96,122,
+KrieDa00,Dave Krieg,QB,1987,29,SEA,NFL,QB,12,12,106,99,107,102,119,139,84,93,117,
+KrieDa00,Dave Krieg,QB,1988,30,SEA,NFL,QB,9,9,113,118,120,124,112,141,105,114,125,PB
+KrieDa00,Dave Krieg,QB,1989,31,SEA,NFL,QB,15,14,92,92,94,94,107,102,97,101,99,PB
+KrieDa00,Dave Krieg,QB,1990,32,SEA,NFL,QB,16,16,103,96,94,91,110,93,88,93,96,
+KrieDa00,Dave Krieg,QB,1991,33,SEA,NFL,QB,10,9,108,99,101,97,131,100,91,83,108,
+KrieDa00,Dave Krieg,QB,1992,34,KAN,NFL,QB,16,16,114,104,113,106,94,100,109,79,105,
+KrieDa00,Dave Krieg,QB,1993,35,KAN,NFL,QB,12,5,96,88,108,101,93,99,127,77,106,
+KrieDa00,Dave Krieg,QB,1994,36,DET,NFL,QB,14,7,120,117,132,129,111,135,127,100,132,
+KrieDa00,Dave Krieg,QB,1995,37,ARI,NFL,QB,16,16,102,91,93,87,101,89,86,79,92,
+KrieDa00,Dave Krieg,QB,1996,38,CHI,NFL,QB,13,12,84,94,89,95,110,97,99,119,98,

@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RivePh00,Philip Rivers,QB,2004,23,SDG,NFL,QB,2,0,0,0,0,0,0,0,1,1,0,0,0.0,,,,,,0,
+RivePh00,Philip Rivers,QB,2005,24,SDG,NFL,QB,2,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+RivePh00,Philip Rivers,QB,2006,25,SDG,NFL,QB,16,16,0,0,0,0,0,0,8,4,-25,0,0.0,0,0,0,0,0,0,PB
+RivePh00,Philip Rivers,QB,2007,26,SDG,NFL,QB,16,16,0,0,0,0,0,0,11,3,-4,0,0.0,,,,,,0,
+RivePh00,Philip Rivers,QB,2008,27,SDG,NFL,QB,16,16,0,0,0,0,0,0,8,2,-5,0,0.0,0,0,0,0,0,0,"AP MVP-6,AP OPoY-4,AP CPoY-8"
+RivePh00,Philip Rivers,QB,2009,28,SDG,NFL,QB,16,16,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,,,0,"PB,AP MVP-3,AP OPoY-4"
+RivePh00,Philip Rivers,QB,2010,29,SDG,NFL,QB,16,16,0,0,0,0,0,0,7,2,-18,0,0.0,0,0,0,0,0,0,"PB,AP OPoY-4"
+RivePh00,Philip Rivers,QB,2011,30,SDG,NFL,QB,16,16,0,0,0,0,0,0,9,3,-1,0,0.0,0,0,0,0,0,0,PB
+RivePh00,Philip Rivers,QB,2012,31,SDG,NFL,QB,16,16,0,0,0,0,0,0,15,2,-8,0,0.0,0,0,0,0,0,0,
+RivePh00,Philip Rivers,QB,2013,32,SDG,NFL,QB,16,16,0,0,0,0,0,0,3,1,-6,0,0.0,0,0,0,0,0,0,"PB,AP CPoY-1"
+RivePh00,Philip Rivers,QB,2014,33,SDG,NFL,QB,16,16,0,0,0,0,0,0,8,5,-18,0,0.0,0,0,0,0,0,0,
+RivePh00,Philip Rivers,QB,2015,34,SDG,NFL,QB,16,16,0,0,0,0,0,0,4,3,-5,0,0.0,0,0,0,0,0,0,
+RivePh00,Philip Rivers,QB,2016,35,SDG,NFL,QB,16,16,0,0,0,0,0,0,9,3,-10,0,0.0,0,0,0,,,0,PB
+RivePh00,Philip Rivers,QB,2017,36,LAC,NFL,QB,16,16,0,0,0,0,0,0,8,5,-4,0,0.0,0,0,0,0,0,0,PB
+RivePh00,Philip Rivers,QB,2018,37,LAC,NFL,QB,16,16,0,0,0,0,0,0,2,1,-4,0,0.0,0,0,0,0,0,0,PB
+RivePh00,Philip Rivers,QB,2019,38,LAC,NFL,QB,16,16,0,0,0,0,0,0,8,0,-25,0,0.0,0,0,0,0,0,0,
+RivePh00,Philip Rivers,QB,2020,39,IND,NFL,QB,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,

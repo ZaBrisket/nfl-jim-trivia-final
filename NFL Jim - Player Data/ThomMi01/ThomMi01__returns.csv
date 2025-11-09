@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ThomMi01,Mike Thomas,WR,2009,22,JAX,NFL,WR,14,4,14,118,0,44,8.4,26,644,0,43,24.8,1301,
+ThomMi01,Mike Thomas,WR,2010,23,JAX,NFL,WR,16,11,34,358,1,78,10.5,0,0,0,0,,1292,
+ThomMi01,Mike Thomas,WR,2011,24,JAX,NFL,WR,15,13,19,88,0,28,4.6,0,0,0,0,,514,
+ThomMi01,Mike Thomas,WR,2012,25,2TM,NFL,WR,16,4,9,56,0,18,6.2,3,46,0,20,15.3,267,
+ThomMi01,Mike Thomas,WR,2012,25,JAX,NFL,WR,7,3,8,56,0,18,7.0,2,34,0,20,17.0,169,
+ThomMi01,Mike Thomas,WR,2012,25,DET,NFL,WR,9,1,1,0,0,0,0.0,1,12,0,12,12.0,98,

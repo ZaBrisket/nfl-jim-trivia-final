@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McGeTi00,Tim McGee,WR,1986,22,CIN,NFL,WR,16,0,32,16,276,17.3,1,13,50.0,51,1.0,17.3,50.0,8.6,4,10,0,0,0.0,8,2.5,0.6,0.3,20,14.3,286,1,0,3,
+McGeTi00,Tim McGee,WR,1987,23,CIN,NFL,WR,11,6,55,23,408,17.7,1,16,40.0,49,2.1,37.1,41.8,7.4,1,-10,0,0,0.0,-10,-10.0,-0.9,0.1,24,16.6,398,1,0,3,
+McGeTi00,Tim McGee,WR,1988,24,CIN,NFL,WR,16,16,74,36,686,19.1,6,31,45.9,78,2.3,42.9,48.6,9.3,0,0,0,0,,,,0.0,0.0,36,19.1,686,6,0,9,
+McGeTi00,Tim McGee,WR,1989,25,CIN,NFL,WR,16,16,127,65,1211,18.6,8,48,49.6,74,4.1,75.7,51.2,9.5,2,36,0,2,100.0,25,18.0,2.3,0.1,67,18.6,1247,8,0,13,
+McGeTi00,Tim McGee,WR,1990,26,CIN,NFL,WR,16,15,84,43,737,17.1,1,28,48.8,52,2.7,46.1,51.2,8.8,0,0,0,0,,,,0.0,0.0,43,17.1,737,1,1,8,
+McGeTi00,Tim McGee,WR,1991,27,CIN,NFL,WR,16,16,97,51,802,15.7,4,34,45.4,52,3.2,50.1,52.6,8.3,0,0,0,0,,,,0.0,0.0,51,15.7,802,4,1,6,
+McGeTi00,Tim McGee,WR,1992,28,CIN,NFL,WR,16,16,90,35,408,11.7,3,19,35.6,36,2.2,25.5,38.9,4.5,0,0,0,0,,,,0.0,0.0,35,11.7,408,3,0,5,
+McGeTi00,Tim McGee,WR,1993,29,WAS,NFL,WR,13,12,71,39,500,12.8,3,24,47.9,54,3.0,38.5,54.9,7.0,0,0,0,0,,,,0.0,0.0,39,12.8,500,3,0,4,
+McGeTi00,Tim McGee,WR,1994,30,CIN,NFL,WR,14,1,31,13,175,13.5,1,10,38.7,25,0.9,12.5,41.9,5.6,1,-18,0,0,0.0,-18,-18.0,-1.3,0.1,14,11.2,157,1,0,1,

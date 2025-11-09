@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HydeCa00,Carlos Hyde,RB,2014,24,SFO,NFL,RB,14,0,4,0,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.7,
+HydeCa00,Carlos Hyde,RB,2015,25,SFO,NFL,RB,7,7,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,2.6,
+HydeCa00,Carlos Hyde,RB,2016,26,SFO,NFL,RB,13,13,6,3,0,0,0,0,0,9,1,,0,0,0,0,0,56,4.3,
+HydeCa00,Carlos Hyde,RB,2017,27,SFO,NFL,RB,16,16,8,0,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.0,
+HydeCa00,Carlos Hyde,RB,2018,28,2TM,NFL,RB,14,7,5,0,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.1,
+HydeCa00,Carlos Hyde,RB,2018,28,CLE,NFL,RB,6,5,5,0,0,0,0,0,0,5,0,,0,0,0,0,0,30,5.0,
+HydeCa00,Carlos Hyde,RB,2019,29,HOU,NFL,RB,16,14,6,0,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+HydeCa00,Carlos Hyde,RB,2020,30,SEA,NFL,RB,10,1,4,0,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.4,
+HydeCa00,Carlos Hyde,RB,2021,31,JAX,NFL,RB,12,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.5,

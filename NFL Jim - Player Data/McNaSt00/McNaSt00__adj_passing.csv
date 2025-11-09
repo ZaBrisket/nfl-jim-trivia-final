@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+McNaSt00,Steve McNair,QB,1995,22,HOU,NFL,QB,4,2,109,99,119,111,77,98,132,94,105,
+McNaSt00,Steve McNair,QB,1996,23,HOU,NFL,QB,9,4,141,142,128,130,116,104,106,104,119,
+McNaSt00,Steve McNair,QB,1997,24,TEN,NFL,QB,16,16,94,95,95,96,82,93,101,100,91,
+McNaSt00,Steve McNair,QB,1998,25,TEN,NFL,QB,16,16,96,100,102,104,108,90,116,105,103,
+McNaSt00,Steve McNair,QB,1999,26,TEN,NFL,QB,11,11,97,103,101,105,97,96,112,114,101,
+McNaSt00,Steve McNair,QB,2000,27,TEN,NFL,QB,16,15,108,111,106,108,118,99,101,108,107,PB
+McNaSt00,Steve McNair,QB,2001,28,TEN,NFL,QB,15,15,120,114,120,116,108,113,107,93,116,
+McNaSt00,Steve McNair,QB,2002,29,TEN,NFL,QB,16,16,104,111,106,110,107,108,103,116,107,"AP MVP-3,AP OPoY-5"
+McNaSt00,Steve McNair,QB,2003,30,TEN,NFL,QB,14,14,123,126,129,131,110,123,124,113,126,"PB,AP-2,AP MVP-1,AP OPoY-5"
+McNaSt00,Steve McNair,QB,2004,31,TEN,NFL,QB,8,8,90,92,86,88,102,96,82,106,91,
+McNaSt00,Steve McNair,QB,2005,32,TEN,NFL,QB,14,14,96,101,100,103,105,92,114,117,102,PB
+McNaSt00,Steve McNair,QB,2006,33,BAL,NFL,QB,16,16,94,103,98,103,110,93,109,122,102,
+McNaSt00,Steve McNair,QB,2007,34,BAL,NFL,QB,6,6,70,76,79,82,115,65,117,107,89,

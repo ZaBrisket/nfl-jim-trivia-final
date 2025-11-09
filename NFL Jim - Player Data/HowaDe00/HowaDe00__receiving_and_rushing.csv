@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HowaDe00,Desmond Howard,WR,1992,22,WAS,NFL,WR,16,1,4,3,20,6.7,0,1,50.0,8,0.2,1.3,75.0,5.0,3,14,0,0,33.3,7,4.7,0.9,0.2,6,5.7,34,0,1,AP ORoY-6
+HowaDe00,Desmond Howard,WR,1993,23,WAS,NFL,WR,16,5,52,23,286,12.4,0,17,36.5,27,1.4,17.9,44.2,5.5,2,17,0,2,100.0,9,8.5,1.1,0.1,25,12.1,303,0,0,
+HowaDe00,Desmond Howard,WR,1994,24,WAS,NFL,WR,16,15,104,40,727,18.2,5,33,37.5,81,2.5,45.4,38.5,7.0,1,4,0,0,100.0,4,4.0,0.3,0.1,41,17.8,731,5,0,
+HowaDe00,Desmond Howard,WR,1995,25,JAX,NFL,WR,13,6,56,26,276,10.6,1,15,41.1,24,2.0,21.2,46.4,4.9,1,8,0,0,100.0,8,8.0,0.6,0.1,27,10.5,284,1,0,
+HowaDe00,Desmond Howard,WR,1996,26,GNB,NFL,WR,16,0,23,13,95,7.3,0,4,26.1,12,0.8,5.9,56.5,4.1,0,0,0,0,,,,0.0,0.0,13,7.3,95,0,2,
+HowaDe00,Desmond Howard,WR,1997,27,OAK,NFL,WR,15,0,5,4,30,7.5,0,0,0.0,9,0.3,2.0,80.0,6.0,0,0,0,0,,,,0.0,0.0,4,7.5,30,0,2,
+HowaDe00,Desmond Howard,WR,1998,28,OAK,NFL,WR,15,1,2,2,16,8.0,0,2,100.0,10,0.1,1.1,100.0,8.0,0,0,0,0,,,,0.0,0.0,2,8.0,16,0,4,
+HowaDe00,Desmond Howard,WR,1999,29,2TM,NFL,WR,13,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+HowaDe00,Desmond Howard,WR,1999,29,GNB,NFL,WR,8,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+HowaDe00,Desmond Howard,WR,2000,30,DET,NFL,WR,15,0,3,2,14,7.0,0,0,0.0,10,0.1,0.9,66.7,4.7,0,0,0,0,,,,0.0,0.0,2,7.0,14,0,2,PB
+HowaDe00,Desmond Howard,WR,2001,31,DET,NFL,WR,14,1,14,10,133,13.3,1,5,64.3,36,0.7,9.5,71.4,9.5,5,25,0,1,60.0,7,5.0,1.8,0.4,15,10.5,158,1,1,

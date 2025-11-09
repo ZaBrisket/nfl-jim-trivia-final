@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HendDa00,Darrell Henderson,RB,2019,22,LAR,RB,27,13,0,93,10%,0,0%,36,9%
+HendDa00,Darrell Henderson,RB,2020,23,LAR,RB,27,15,11,347,33%,0,0%,0,0%
+HendDa00,Darrell Henderson,RB,2021,24,LAR,RB,27,12,10,507,65%,0,0%,0,0%
+HendDa00,Darrell Henderson,RB,2022,25,LAR,RB,27,10,7,331,53%,0,0%,0,0%
+HendDa00,Darrell Henderson,RB,2023,26,LAR,RB,27,4,4,126,49%,0,0%,0,0%

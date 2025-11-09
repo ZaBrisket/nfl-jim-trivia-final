@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JodaJi00,Jim Jodat,RB,1977,23,RAM,NFL,RB,14,0,5,15,1,,,5,3.0,1.1,0.4,,1,2,2.0,1,,,2,0.1,0.1,,,6,2.8,17,2,0,0,
+JodaJi00,Jim Jodat,RB,1978,24,RAM,NFL,RB,16,0,26,100,0,7,42.3,18,3.8,6.3,1.6,8,3,21,7.0,0,2,25.0,10,0.2,1.3,37.5,2.6,29,4.2,121,0,5,1,
+JodaJi00,Jim Jodat,RB,1979,25,RAM,NFL,RB,7,0,6,6,0,0,0.0,4,1.0,0.9,0.9,0,0,0,,0,0,,,0.0,0.0,,,6,1.0,6,0,1,0,
+JodaJi00,Jim Jodat,RB,1980,26,SEA,NFL,FB,16,13,155,632,5,50,55.5,26,4.1,39.5,9.7,41,26,190,7.3,1,8,36.6,14,1.6,11.9,63.4,4.6,181,4.5,822,6,3,6,
+JodaJi00,Jim Jodat,RB,1981,27,SEA,NFL,FB,12,6,31,106,1,10,48.4,15,3.4,8.8,2.6,11,4,52,13.0,0,2,18.2,26,0.3,4.3,36.4,4.7,35,4.5,158,1,4,1,
+JodaJi00,Jim Jodat,RB,1982,28,SDG,NFL,RB,7,0,3,7,0,0,0.0,3,2.3,1.0,0.4,1,1,0,0.0,0,0,0.0,,0.1,0.0,100.0,0.0,4,1.8,7,0,0,0,
+JodaJi00,Jim Jodat,RB,1983,29,SDG,NFL,RB,15,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

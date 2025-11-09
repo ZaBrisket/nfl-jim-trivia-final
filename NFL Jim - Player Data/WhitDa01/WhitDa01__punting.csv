@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_ret_yds_opp,punt_net_yds,punt_net_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct,punt_blocked,awards
+WhitDa01,Danny White,QB,1976,24,DAL,NFL,P,14,0,70,2690,38.4,252,2198,30.5,54,12,17.1,13,18.6,2,
+WhitDa01,Danny White,QB,1977,25,DAL,NFL,P,14,0,80,3171,39.6,280,2691,33.2,57,10,12.5,25,31.3,1,
+WhitDa01,Danny White,QB,1978,26,DAL,NFL,P,16,1,76,3076,40.5,311,2545,33.1,56,11,14.5,16,21.1,1,
+WhitDa01,Danny White,QB,1979,27,DAL,NFL,P,16,0,76,3168,41.7,252,2736,36.0,73,9,11.8,21,27.6,0,
+WhitDa01,Danny White,QB,1980,28,DAL,NFL,QB,16,16,71,2903,40.9,215,2468,34.8,58,11,15.5,17,23.9,0,
+WhitDa01,Danny White,QB,1981,29,DAL,NFL,QB,16,15,79,3222,40.8,231,2851,36.1,60,7,8.9,19,24.1,0,
+WhitDa01,Danny White,QB,1982,30,DAL,NFL,QB,9,9,37,1542,41.7,118,1384,37.4,56,2,5.4,6,16.2,0,"PB,AP-2,AP MVP-5,AP OPoY-4"
+WhitDa01,Danny White,QB,1983,31,DAL,NFL,QB,16,16,38,1543,40.6,233,1250,32.1,50,3,7.9,6,15.8,1,
+WhitDa01,Danny White,QB,1984,32,DAL,NFL,QB,14,6,82,3151,38.4,156,2835,34.6,54,8,9.8,21,25.6,0,
+WhitDa01,Danny White,QB,1985,33,DAL,NFL,QB,14,14,1,43,43.0,0,23,23.0,43,1,100.0,0,0.0,0,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GarcJe00,Jeff Garcia,QB,1999,29,SFO,NFL,QB,13,10,45,231,2,18,48.9,25,5.1,17.8,3.5,0,0,0,,0,0,,,0.0,0.0,,,45,5.1,231,2,5,
+GarcJe00,Jeff Garcia,QB,2000,30,SFO,NFL,QB,16,16,72,414,4,24,47.2,33,5.8,25.9,4.5,0,0,0,,0,0,,,0.0,0.0,,,72,5.8,414,4,7,PB
+GarcJe00,Jeff Garcia,QB,2001,31,SFO,NFL,QB,16,16,72,254,5,21,41.7,25,3.5,15.9,4.5,0,0,0,,0,0,,,0.0,0.0,,,72,3.5,254,5,9,PB
+GarcJe00,Jeff Garcia,QB,2002,32,SFO,NFL,QB,16,16,73,353,3,30,50.7,21,4.8,22.1,4.6,0,0,0,,0,0,,,0.0,0.0,,,73,4.8,353,3,2,PB
+GarcJe00,Jeff Garcia,QB,2003,33,SFO,NFL,QB,13,13,56,319,7,25,58.9,21,5.7,24.5,4.3,1,1,6,6.0,0,0,100.0,6,0.1,0.5,100.0,6.0,57,5.7,325,7,9,
+GarcJe00,Jeff Garcia,QB,2004,34,CLE,NFL,QB,11,10,35,169,2,16,57.1,21,4.8,15.4,3.2,0,0,0,,0,0,,,0.0,0.0,,,35,4.8,169,2,9,
+GarcJe00,Jeff Garcia,QB,2005,35,DET,NFL,QB,6,5,17,51,1,5,35.3,14,3.0,8.5,2.8,0,0,0,,0,0,,,0.0,0.0,,,17,3.0,51,1,1,
+GarcJe00,Jeff Garcia,QB,2006,36,PHI,NFL,QB,8,6,25,87,0,7,44.0,12,3.5,10.9,3.1,0,0,0,,0,0,,,0.0,0.0,,,25,3.5,87,0,6,AP CPoY-5
+GarcJe00,Jeff Garcia,QB,2007,37,TAM,NFL,QB,13,13,35,116,1,11,40.0,21,3.3,8.9,2.7,0,0,0,,0,0,,,0.0,0.0,,,35,3.3,116,1,4,PB
+GarcJe00,Jeff Garcia,QB,2008,38,TAM,NFL,QB,12,11,35,148,1,14,54.3,20,4.2,12.3,2.9,0,0,0,,0,0,,,0.0,0.0,,,35,4.2,148,1,7,
+GarcJe00,Jeff Garcia,QB,2009,39,PHI,NFL,QB,1,0,3,-2,0,0,0.0,,-0.7,-2.0,3.0,0,0,0,,0,0,,,0.0,0.0,,,3,-0.7,-2,0,1,

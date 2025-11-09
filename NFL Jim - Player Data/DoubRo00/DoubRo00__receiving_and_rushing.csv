@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DoubRo00,Romeo Doubs,WR,2022,22,GNB,NFL,WR,13,7,67,42,425,10.1,3,20,46.3,26,3.2,32.7,62.7,6.3,1,11,0,1,100.0,11,11.0,0.8,0.1,43,10.1,436,3,2,4,
+DoubRo00,Romeo Doubs,WR,2023,23,GNB,NFL,WR,17,16,96,59,674,11.4,8,41,51.0,36,3.5,39.6,61.5,7.0,0,0,0,0,,,,0.0,0.0,59,11.4,674,8,1,7,
+DoubRo00,Romeo Doubs,WR,2024,24,GNB,NFL,WR,13,12,72,46,601,13.1,4,33,59.7,39,3.5,46.2,63.9,8.3,0,0,0,0,,,,0.0,0.0,46,13.1,601,4,0,6,
+DoubRo00,Romeo Doubs,WR,2025,25,GNB,NFL,WR,8,8,52,34,441,13.0,4,26,59.6,48,4.3,55.1,65.4,8.5,0,0,0,0,,,,0.0,0.0,34,13.0,441,4,0,,

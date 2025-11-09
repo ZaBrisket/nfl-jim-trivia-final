@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GordMe00,Melvin Gordon,RB,2015,22,SDG,RB,28,14,12,394,39%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2016*,23,SDG,RB,28,13,11,658,75%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2017,24,LAC,RB,28,16,16,749,71%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2018*,25,LAC,RB,28,12,12,524,69%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2019,26,LAC,RB,25,12,11,427,54%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2020,27,DEN,RB,25,15,10,627,62%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2021,28,DEN,RB,25,16,16,514,51%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2022,29,DEN,RB,25,10,6,284,42%,0,0%,0,0%
+GordMe00,Melvin Gordon,RB,2023,30,BAL,RB,33,4,0,56,23%,0,0%,0,0%

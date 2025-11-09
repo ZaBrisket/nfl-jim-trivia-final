@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GreeEr00,Eric Green,TE,1990,23,PIT,NFL,TE,13,6,51,34,387,11.4,7,21,56.9,46,2.6,29.8,66.7,7.6,0,0,0,0,0.0,0.0,34,11.4,387,7,1,4,AP ORoY-5
+GreeEr00,Eric Green,TE,1991,24,PIT,NFL,TE,11,11,59,41,582,14.2,6,29,62.7,49,3.7,52.9,69.5,9.9,0,0,0,0,0.0,0.0,41,14.2,582,6,2,5,
+GreeEr00,Eric Green,TE,1992,25,PIT,NFL,TE,7,5,24,14,152,10.9,2,10,50.0,24,2.0,21.7,58.3,6.3,0,0,0,0,0.0,0.0,14,10.9,152,2,0,2,
+GreeEr00,Eric Green,TE,1993,26,PIT,NFL,TE,16,16,114,63,942,15.0,5,46,52.6,71,3.9,58.9,55.3,8.3,0,0,0,0,0.0,0.0,63,15.0,942,5,3,8,PB
+GreeEr00,Eric Green,TE,1994,27,PIT,NFL,TE,15,14,80,46,618,13.4,4,31,47.5,46,3.1,41.2,57.5,7.7,0,0,0,0,0.0,0.0,46,13.4,618,4,2,5,PB
+GreeEr00,Eric Green,TE,1995,28,MIA,NFL,TE,14,14,67,43,499,11.6,3,26,56.7,31,3.1,35.6,64.2,7.4,0,0,0,0,0.0,0.0,43,11.6,499,3,0,5,
+GreeEr00,Eric Green,TE,1996,29,BAL,NFL,TE,6,3,24,15,150,10.0,1,9,45.8,23,2.5,25.0,62.5,6.3,0,0,0,0,0.0,0.0,15,10.0,150,1,0,1,
+GreeEr00,Eric Green,TE,1997,30,BAL,NFL,TE,16,15,101,65,601,9.2,5,30,51.5,37,4.1,37.6,64.4,6.0,0,0,0,0,0.0,0.0,65,9.2,601,5,1,4,
+GreeEr00,Eric Green,TE,1998,31,BAL,NFL,TE,12,12,58,34,422,12.4,1,21,53.4,56,2.8,35.2,58.6,7.3,0,0,0,0,0.0,0.0,34,12.4,422,1,4,3,
+GreeEr00,Eric Green,TE,1999,32,NYJ,NFL,TE,10,7,10,7,37,5.3,2,3,50.0,10,0.7,3.7,70.0,3.7,0,0,0,0,0.0,0.0,7,5.3,37,2,0,0,

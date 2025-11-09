@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MorrWa00,Wayne Morris,RB,1976,22,STL,NFL,RB,14,1,0,0,0,0,9,181,0,34,20.1,548,
+MorrWa00,Wayne Morris,RB,1977,23,STL,NFL,FB,12,7,0,0,0,0,2,39,0,22,19.5,922,
+MorrWa00,Wayne Morris,RB,1978,24,STL,NFL,RB,13,13,0,0,0,0,3,66,0,27,22.0,995,
+MorrWa00,Wayne Morris,RB,,,,,,,,,,,,,,,,,,
+MorrWa00,Wayne Morris,RB,1982,28,STL,NFL,FB,9,7,0,0,0,0,1,14,0,14,14.0,296,

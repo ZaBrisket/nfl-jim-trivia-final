@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HockTJ00,T.J. Hockenson,TE,2019,22,DET,TE,88,12,7,525,63%,0,0%,2,1%
+HockTJ00,T.J. Hockenson,TE,2020*,23,DET,TE,88,16,16,766,73%,0,0%,1,0%
+HockTJ00,T.J. Hockenson,TE,2021,24,DET,TE,88,12,12,658,84%,0,0%,0,0%
+HockTJ00,T.J. Hockenson,TE,2022*,25,2TM,TE,,17,14,987,,0,,0,
+HockTJ00,T.J. Hockenson,TE,*,,DET,TE,88,7,7,398,85%,0,0%,0,0%
+HockTJ00,T.J. Hockenson,TE,,,,,,,,589,84%,0,0%,0,0%
+HockTJ00,T.J. Hockenson,TE,2023,26,MIN,TE,87,15,11,790,79%,0,0%,0,0%
+HockTJ00,T.J. Hockenson,TE,2024,27,MIN,TE,87,10,9,423,61%,0,0%,3,1%
+HockTJ00,T.J. Hockenson,TE,2025,28,MIN,TE,87,8,8,391,81%,0,0%,0,0%

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GibsAn00,Antonio Gibson,RB,2020,22,WAS,NFL,RB,14,10,11,0,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.7,
+GibsAn00,Antonio Gibson,RB,2021,23,WAS,NFL,RB,16,14,7,3,0,0,0,0,0,10,1,0,0,0,0,0,0,62,3.9,
+GibsAn00,Antonio Gibson,RB,2022,24,WAS,NFL,RB,15,6,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.0,
+GibsAn00,Antonio Gibson,RB,2023,25,WAS,NFL,RB,16,2,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.1,
+GibsAn00,Antonio Gibson,RB,2024,26,NWE,NFL,RB,17,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+GibsAn00,Antonio Gibson,RB,2025,27,NWE,NFL,RB,5,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,12,2.4,

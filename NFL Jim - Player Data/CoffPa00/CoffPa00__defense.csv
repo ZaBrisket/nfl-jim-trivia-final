@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+CoffPa00,Paul Coffman,TE,1979,23,GNB,NFL,TE,16,16,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,
+CoffPa00,Paul Coffman,TE,,,,,,,,,,,,,,,,,,,,,,
+CoffPa00,Paul Coffman,TE,1981,25,GNB,NFL,TE,16,16,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+CoffPa00,Paul Coffman,TE,,,,,,,,,,,,,,,,,,,,,,
+CoffPa00,Paul Coffman,TE,1983,27,GNB,NFL,TE,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,PB
+CoffPa00,Paul Coffman,TE,1984,28,GNB,NFL,TE,14,13,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,PB
+CoffPa00,Paul Coffman,TE,1985,29,GNB,NFL,TE,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+CoffPa00,Paul Coffman,TE,1986,30,KAN,NFL,TE,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+CoffPa00,Paul Coffman,TE,1987,31,KAN,NFL,TE,12,1,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,

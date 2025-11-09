@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThigYa00,Yancey Thigpen,WR,1991,22,SDG,NFL,WR,4,1,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+ThigYa00,Yancey Thigpen,WR,1992,23,PIT,NFL,WR,12,0,4,1,2,2.0,0,0,0.0,2,0.1,0.2,25.0,0.5,0,0,0,0,,,,0.0,0.0,1,2.0,2,0,0,0,
+ThigYa00,Yancey Thigpen,WR,1993,24,PIT,NFL,WR,12,0,11,9,154,17.1,3,7,81.8,39,0.8,12.8,81.8,14.0,0,0,0,0,,,,0.0,0.0,9,17.1,154,3,0,1,
+ThigYa00,Yancey Thigpen,WR,1994,25,PIT,NFL,WR,15,6,69,36,546,15.2,4,28,47.8,60,2.4,36.4,52.2,7.9,0,0,0,0,,,,0.0,0.0,36,15.2,546,4,0,5,
+ThigYa00,Yancey Thigpen,WR,1995,26,PIT,NFL,WR,16,16,153,85,1307,15.4,5,64,51.6,43,5.3,81.7,55.6,8.5,1,1,0,0,0.0,1,1.0,0.1,0.1,86,15.2,1308,5,1,12,PB
+ThigYa00,Yancey Thigpen,WR,1996,27,PIT,NFL,WR,6,2,25,12,244,20.3,2,9,44.0,39,2.0,40.7,48.0,9.8,0,0,0,0,,,,0.0,0.0,12,20.3,244,2,0,3,
+ThigYa00,Yancey Thigpen,WR,1997,28,PIT,NFL,WR,16,15,153,79,1398,17.7,7,62,46.4,69,4.9,87.4,51.6,9.1,1,3,0,0,0.0,3,3.0,0.2,0.1,80,17.5,1401,7,1,17,"PB,AP-2"
+ThigYa00,Yancey Thigpen,WR,1998,29,TEN,NFL,WR,9,8,83,38,493,13.0,3,20,43.4,55,4.2,54.8,45.8,5.9,0,0,0,0,,,,0.0,0.0,38,13.0,493,3,0,5,
+ThigYa00,Yancey Thigpen,WR,1999,30,TEN,NFL,WR,10,10,69,38,648,17.1,4,30,50.7,35,3.8,64.8,55.1,9.4,0,0,0,0,,,,0.0,0.0,38,17.1,648,4,1,7,
+ThigYa00,Yancey Thigpen,WR,2000,31,TEN,NFL,WR,12,0,27,15,289,19.3,2,10,44.4,56,1.3,24.1,55.6,10.7,0,0,0,0,,,,0.0,0.0,15,19.3,289,2,0,3,

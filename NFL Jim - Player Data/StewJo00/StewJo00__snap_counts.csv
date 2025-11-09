@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StewJo00,Jonathan Stewart,RB,2012,25,CAR,RB,28,9,6,312,53%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2013,26,CAR,RB,28,6,1,108,27%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2014,27,CAR,RB,28,13,8,546,61%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2015*,28,CAR,RB,28,13,13,607,67%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2016,29,CAR,RB,28,13,13,565,62%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2017,30,CAR,RB,28,15,10,403,40%,0,0%,0,0%
+StewJo00,Jonathan Stewart,RB,2018,31,NYG,RB,28,3,0,17,9%,0,0%,0,0%

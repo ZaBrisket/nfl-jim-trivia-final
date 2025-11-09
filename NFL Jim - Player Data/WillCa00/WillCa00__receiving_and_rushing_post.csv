@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WillCa00,Calvin Williams,WR,1990,23,PHI,NFL,WR,1,0,3,1,9,9.0,0,0,33.3,9,1.0,9.0,33.3,3.0,0,0,0,0,0.0,0.0,1,9.0,9,0,0,
+WillCa00,Calvin Williams,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WillCa00,Calvin Williams,WR,1992,25,PHI,NFL,WR,2,2,16,8,84,10.5,1,3,37.5,18,4.0,42.0,50.0,5.3,0,0,0,0,0.0,0.0,8,10.5,84,1,0,
+WillCa00,Calvin Williams,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WillCa00,Calvin Williams,WR,1995,28,PHI,NFL,WR,2,2,11,6,67,11.2,0,4,45.5,15,3.0,33.5,54.5,6.1,0,0,0,0,0.0,0.0,6,11.2,67,0,0,
+WillCa00,Calvin Williams,WR,1996,29,PHI,NFL,WR,1,0,3,2,40,20.0,0,2,66.7,30,2.0,40.0,66.7,13.3,0,0,0,0,0.0,0.0,2,20.0,40,0,0,

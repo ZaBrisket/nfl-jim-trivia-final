@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+EdwaTr01,Trent Edwards,QB,2007,24,BUF,NFL,QB,10,9,83,88,85,89,84,84,101,112,84,
+EdwaTr01,Trent Edwards,QB,2008,25,BUF,NFL,QB,14,14,105,105,102,103,115,87,105,101,103,
+EdwaTr01,Trent Edwards,QB,2009,26,BUF,NFL,QB,8,7,89,79,86,80,97,90,87,61,88,
+EdwaTr01,Trent Edwards,QB,2010,27,2TM,NFL,QB,5,3,30,25,32,30,43,38,45,30,37,
+EdwaTr01,Trent Edwards,QB,2010,27,BUF,NFL,QB,2,2,58,47,63,56,84,73,88,57,71,

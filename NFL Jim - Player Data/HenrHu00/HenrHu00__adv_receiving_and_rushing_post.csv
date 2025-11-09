@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+HenrHu00,Hunter Henry,TE,2018,24,LAC,NFL,TE,1,1,1,0,0,0,0,,0,,20.0,0,0,0.0,0,39.6,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HenrHu00,Hunter Henry,TE,2021,27,NWE,NFL,TE,1,1,4,1,30,1,23,23.0,7,7.0,14.3,0,1,25.0,1,18.7,0,0,0,0,0,0,

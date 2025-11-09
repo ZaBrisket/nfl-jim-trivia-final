@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HillTo00,Tony Hill,WR,1977,21,DAL,NFL,WR,14,0,10,124,0,29,12.4,3,64,0,29,21.3,209,
+HillTo00,Tony Hill,WR,1978,22,DAL,NFL,WR,16,13,11,101,0,20,9.2,0,0,0,0,,941,PB
+HillTo00,Tony Hill,WR,1979,23,DAL,NFL,WR,16,15,6,43,0,12,7.2,1,32,0,32,32.0,1155,PB

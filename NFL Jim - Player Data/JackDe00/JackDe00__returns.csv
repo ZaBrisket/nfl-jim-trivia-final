@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JackDe00,DeSean Jackson,WR,2008,22,PHI,NFL,WR,16,15,50,440,1,68,8.8,1,12,0,12,12.0,1460,
+JackDe00,DeSean Jackson,WR,2009,23,PHI,NFL,WR,15,15,29,441,2,85,15.2,1,0,0,0,0.0,1734,"PB,AP-2"
+JackDe00,DeSean Jackson,WR,2010,24,PHI,NFL,WR,14,14,20,231,1,65,11.6,0,0,0,0,,1391,"PB,AP OPoY-5"
+JackDe00,DeSean Jackson,WR,2011,25,PHI,NFL,WR,15,15,17,114,0,51,6.7,1,7,0,7,7.0,1123,
+JackDe00,DeSean Jackson,WR,2012,26,PHI,NFL,WR,11,11,1,-3,0,-3,-3.0,0,0,0,0,,690,
+JackDe00,DeSean Jackson,WR,2013,27,PHI,NFL,WR,16,16,14,71,0,32,5.1,1,10,0,10,10.0,1415,PB
+JackDe00,DeSean Jackson,WR,2014,28,WAS,NFL,WR,15,13,1,0,0,0,0.0,0,0,0,0,,1176,
+JackDe00,DeSean Jackson,WR,2015,29,WAS,NFL,WR,9,9,2,-5,0,2,-2.5,1,8,0,8,8.0,531,
+JackDe00,DeSean Jackson,WR,,,,,,,,,,,,,,,,,,,
+JackDe00,DeSean Jackson,WR,2018,32,TAM,NFL,WR,12,10,5,24,0,11,4.8,0,0,0,0,,827,
+JackDe00,DeSean Jackson,WR,,,,,,,,,,,,,,,,,,,
+JackDe00,DeSean Jackson,WR,2020,34,PHI,NFL,WR,5,5,1,2,0,2,2.0,0,0,0,0,,250,

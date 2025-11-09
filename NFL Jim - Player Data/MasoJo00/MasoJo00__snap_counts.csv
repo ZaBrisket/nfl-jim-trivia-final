@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MasoJo00,Jordan Mason,RB,2022,23,SFO,RB,24,16,0,82,8%,0,0%,246,60%
+MasoJo00,Jordan Mason,RB,2023,24,SFO,RB,24,17,0,99,9%,0,0%,248,57%
+MasoJo00,Jordan Mason,RB,2024,25,SFO,RB,24,12,6,378,50%,0,0%,27,9%
+MasoJo00,Jordan Mason,RB,2025,26,MIN,RB,27,8,4,291,60%,0,0%,0,0%

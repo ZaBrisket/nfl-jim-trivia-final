@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MariMa01,Marcus Mariota,QB,2015,22,TEN,QB,8,12,12,733,92%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2016,23,TEN,QB,8,15,15,964,96%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2017,24,TEN,QB,8,15,15,943,98%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2018,25,TEN,QB,8,14,13,775,88%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2019,26,TEN,QB,8,7,6,354,80%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2020,27,LVR,QB,8,1,0,65,86%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2021,28,LVR,QB,8,10,0,24,4%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2022,29,ATL,QB,1,13,13,776,100%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2023,30,PHI,QB,8,3,0,44,23%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2024,31,WAS,QB,18,3,0,100,52%,0,0%,0,0%
+MariMa01,Marcus Mariota,QB,2025,32,WAS,QB,8,5,3,197,66%,0,0%,0,0%

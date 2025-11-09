@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+CoopAm00,Amari Cooper,WR,2018,24,DAL,NFL,WR,2,2,18,13,171,5,91,7.0,80,6.2,8.2,0,1,5.6,0,120.4,0,0,0,0,0,0,
+CoopAm00,Amari Cooper,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CoopAm00,Amari Cooper,WR,2021,27,DAL,NFL,WR,1,1,10,6,64,3,61,10.2,3,0.5,8.9,0,1,10.0,0,112.1,0,0,0,0,0,0,
+CoopAm00,Amari Cooper,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CoopAm00,Amari Cooper,WR,2023,29,CLE,NFL,WR,1,1,5,4,59,4,52,13.0,7,1.8,13.2,0,0,0.0,0,115.8,0,0,0,0,0,0,
+CoopAm00,Amari Cooper,WR,2024,30,BUF,NFL,WR,3,1,8,6,41,1,18,3.0,23,3.8,4.1,0,0,0.0,0,85.9,0,0,0,0,0,0,

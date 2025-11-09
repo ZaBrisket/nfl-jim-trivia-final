@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RenfHu00,Hunter Renfrow,WR,2019,24,OAK,NFL,WR,13,4,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+RenfHu00,Hunter Renfrow,WR,2020,25,LVR,NFL,WR,16,6,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,
+RenfHu00,Hunter Renfrow,WR,2021,26,LVR,NFL,WR,17,9,0,0,0,0,1,0,5,3,39,0,0.0,2,2,0,0,0,0,PB
+RenfHu00,Hunter Renfrow,WR,2022,27,LVR,NFL,WR,10,1,0,0,0,0,0,0,3,1,0,0,0.0,3,3,0,0,0,0,
+RenfHu00,Hunter Renfrow,WR,2023,28,LVR,NFL,WR,17,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

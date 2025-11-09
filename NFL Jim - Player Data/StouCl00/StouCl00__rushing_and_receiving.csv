@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+StouCl00,Cliff Stoudt,QB,1980,25,PIT,NFL,QB,6,1,9,35,0,1,22.2,13,3.9,5.8,1.5,0,0,0,0,0,0.0,0.0,9,3.9,35,0,1,
+StouCl00,Cliff Stoudt,QB,1981,26,PIT,NFL,QB,2,0,3,11,0,1,66.7,10,3.7,5.5,1.5,0,0,0,0,0,0.0,0.0,3,3.7,11,0,0,
+StouCl00,Cliff Stoudt,QB,1982,27,PIT,NFL,QB,6,0,11,28,0,3,27.3,8,2.5,4.7,1.8,0,0,0,0,0,0.0,0.0,11,2.5,28,0,1,
+StouCl00,Cliff Stoudt,QB,1983,28,PIT,NFL,QB,16,15,77,479,4,36,62.3,23,6.2,29.9,4.8,0,0,0,0,0,0.0,0.0,77,6.2,479,4,10,
+StouCl00,Cliff Stoudt,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StouCl00,Cliff Stoudt,QB,1986,31,STL,NFL,QB,5,2,7,53,0,5,71.4,17,7.6,10.6,1.4,0,0,0,0,0,0.0,0.0,7,7.6,53,0,1,
+StouCl00,Cliff Stoudt,QB,1987,32,STL,NFL,QB,12,0,1,-2,0,0,0.0,-2,-2.0,-0.2,0.1,0,0,0,0,0,0.0,0.0,1,-2.0,-2,0,0,
+StouCl00,Cliff Stoudt,QB,1988,33,PHO,NFL,QB,16,2,14,57,0,3,42.9,14,4.1,3.6,0.9,0,0,0,0,0,0.0,0.0,14,4.1,57,0,4,

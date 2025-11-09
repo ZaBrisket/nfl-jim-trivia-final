@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GoffJa00,Jared Goff,QB,2016,22,LAR,NFL,QB,7,7,58,45,62,52,68,77,81,57,64,
+GoffJa00,Jared Goff,QB,2017,23,LAR,NFL,QB,15,15,116,118,120,121,95,116,115,110,114,PB
+GoffJa00,Jared Goff,QB,2018,24,LAR,NFL,QB,16,16,123,123,120,120,105,113,104,108,115,PB
+GoffJa00,Jared Goff,QB,2019,25,LAR,NFL,QB,16,16,103,110,97,102,93,89,95,123,92,
+GoffJa00,Jared Goff,QB,2020,26,LAR,NFL,QB,15,15,99,105,97,101,111,90,98,118,98,
+GoffJa00,Jared Goff,QB,2021,27,DET,NFL,QB,14,14,88,87,94,93,110,93,112,97,100,
+GoffJa00,Jared Goff,QB,2022,28,DET,NFL,QB,17,17,112,118,118,122,102,107,124,119,115,"PB,AP CPoY-6"
+GoffJa00,Jared Goff,QB,2023,29,DET,NFL,QB,17,17,112,116,114,116,114,111,107,116,115,
+GoffJa00,Jared Goff,QB,2024,30,DET,NFL,QB,17,17,131,130,129,129,129,130,101,111,131,"PB,AP MVP-5,AP OPoY-9"
+GoffJa00,Jared Goff,QB,2025,31,DET,NFL,QB,8,8,115,114,121,120,129,123,114,99,127,

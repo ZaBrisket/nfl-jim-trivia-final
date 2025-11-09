@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DaviGa01,Gabriel Davis,WR,2020,21,BUF,NFL,WR,16,11,62,35,599,17.1,7,27,53.2,56,2.2,37.4,56.5,9.7,1,0,0,0,0.0,,0.0,0.0,0.1,36,16.6,599,7,1,6,
+DaviGa01,Gabriel Davis,WR,2021,22,BUF,NFL,WR,16,4,63,35,549,15.7,6,29,47.6,49,2.2,34.3,55.6,8.7,0,0,0,0,,,,0.0,0.0,35,15.7,549,6,0,5,
+DaviGa01,Gabriel Davis,WR,2022,23,BUF,NFL,WR,15,15,93,48,836,17.4,7,35,51.6,98,3.2,55.7,51.6,9.0,0,0,0,0,,,,0.0,0.0,48,17.4,836,7,1,9,
+DaviGa01,Gabriel Davis,WR,2023,24,BUF,NFL,WR,17,17,81,45,746,16.6,7,34,53.1,57,2.6,43.9,55.6,9.2,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,46,16.2,744,7,1,7,
+DaviGa01,Gabriel Davis,WR,2024,25,JAX,NFL,WR,10,9,42,20,239,12.0,2,13,40.5,22,2.0,23.9,47.6,5.7,0,0,0,0,,,,0.0,0.0,20,12.0,239,2,1,2,

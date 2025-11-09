@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DorsTo00,Tony Dorsett,RB,1977,23,DAL,NFL,RB,14,4,208,1007,12,,,84,4.8,71.9,14.9,,29,273,9.4,1,,,23,2.1,19.5,,,237,5.4,1280,13,7,16,AP ORoY-1
+DorsTo00,Tony Dorsett,RB,1978,24,DAL,NFL,RB,16,15,290,1325,7,55,46.9,63,4.6,82.8,18.1,49,37,378,10.2,2,16,49.0,91,2.3,23.6,75.5,7.7,327,5.2,1703,9,12,17,PB
+DorsTo00,Tony Dorsett,RB,1979,25,DAL,NFL,RB,14,14,250,1107,6,52,44.4,41,4.4,79.1,17.9,61,45,375,8.3,1,21,50.8,32,3.2,26.8,73.8,6.1,295,5.0,1482,7,9,12,
+DorsTo00,Tony Dorsett,RB,1980,26,DAL,NFL,RB,15,15,278,1185,11,63,49.3,56,4.3,79.0,18.5,44,34,263,7.7,0,14,52.3,27,2.3,17.5,77.3,6.0,312,4.6,1448,11,8,13,
+DorsTo00,Tony Dorsett,RB,1981,27,DAL,NFL,RB,16,16,342,1646,4,71,48.2,75,4.8,102.9,21.4,43,32,325,10.2,2,9,44.2,73,2.0,20.3,74.4,7.6,374,5.3,1971,6,10,14,"PB,AP-1,AP MVP-3,AP OPoY-2"
+DorsTo00,Tony Dorsett,RB,1982,28,DAL,NFL,RB,9,9,177,745,5,41,49.7,99,4.2,82.8,19.7,32,24,179,7.5,0,8,46.9,18,2.7,19.9,75.0,5.6,201,4.6,924,5,6,13,"PB,AP-2"
+DorsTo00,Tony Dorsett,RB,1983,29,DAL,NFL,RB,16,16,289,1321,8,57,43.9,77,4.6,82.6,18.1,49,40,287,7.2,1,15,44.9,24,2.5,17.9,81.6,5.9,329,4.9,1608,9,5,13,"PB,AP-2"
+DorsTo00,Tony Dorsett,RB,1984,30,DAL,NFL,RB,16,16,302,1189,6,51,45.4,31,3.9,74.3,18.9,73,51,459,9.0,1,17,39.7,68,3.2,28.7,69.9,6.3,353,4.7,1648,7,12,9,
+DorsTo00,Tony Dorsett,RB,1985,31,DAL,NFL,RB,16,16,305,1307,7,59,45.9,60,4.3,81.7,19.1,80,46,449,9.8,3,20,36.3,56,2.9,28.1,57.5,5.6,351,5.0,1756,10,7,12,
+DorsTo00,Tony Dorsett,RB,1986,32,DAL,NFL,RB,13,12,184,748,5,31,45.1,33,4.1,57.5,14.2,33,25,267,10.7,1,8,51.5,36,1.9,20.5,75.8,8.1,209,4.9,1015,6,5,7,
+DorsTo00,Tony Dorsett,RB,1987,33,DAL,NFL,RB,12,6,130,456,1,20,42.3,24,3.5,38.0,10.8,30,19,177,9.3,1,5,36.7,33,1.6,14.8,63.3,5.9,149,4.2,633,2,3,5,
+DorsTo00,Tony Dorsett,RB,1988,34,DEN,NFL,RB,16,13,181,703,5,36,51.4,26,3.9,43.9,11.3,29,16,122,7.6,0,5,41.4,16,1.0,7.6,55.2,4.2,197,4.2,825,5,6,6,

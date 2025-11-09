@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+NortDe00,Dennis Northcutt,WR,2000,23,CLE,NFL,WR,15,8,81,39,422,10.8,0,24,37.0,37,2.6,28.1,48.1,5.2,9,33,0,1,55.6,13,3.7,2.2,0.6,48,9.5,455,0,1,3,
+NortDe00,Dennis Northcutt,WR,2001,24,CLE,NFL,WR,11,7,35,18,211,11.7,0,7,37.1,26,1.6,19.2,51.4,6.0,3,26,0,1,100.0,12,8.7,2.4,0.3,21,11.3,237,0,3,2,
+NortDe00,Dennis Northcutt,WR,2002,25,CLE,NFL,WR,13,0,49,38,601,15.8,5,31,73.5,43,2.9,46.2,77.6,12.3,8,104,1,4,62.5,36,13.0,8.0,0.6,46,15.3,705,6,2,8,
+NortDe00,Dennis Northcutt,WR,2003,26,CLE,NFL,WR,15,6,92,62,729,11.8,2,43,55.4,44,4.1,48.6,67.4,7.9,12,83,0,4,75.0,23,6.9,5.5,0.8,74,11.0,812,2,2,7,
+NortDe00,Dennis Northcutt,WR,2004,27,CLE,NFL,WR,16,11,94,55,806,14.7,2,25,40.4,58,3.4,50.4,58.5,8.6,8,19,0,1,50.0,8,2.4,1.2,0.5,63,13.1,825,2,2,7,
+NortDe00,Dennis Northcutt,WR,2005,28,CLE,NFL,WR,16,7,78,42,441,10.5,2,19,44.9,58,2.6,27.6,53.8,5.7,2,33,0,1,50.0,31,16.5,2.1,0.1,44,10.8,474,2,0,4,
+NortDe00,Dennis Northcutt,WR,2006,29,CLE,NFL,WR,13,6,45,22,228,10.4,0,10,35.6,43,1.7,17.5,48.9,5.1,3,32,0,1,33.3,16,10.7,2.5,0.2,25,10.4,260,0,1,2,
+NortDe00,Dennis Northcutt,WR,2007,30,JAX,NFL,WR,15,11,73,44,601,13.7,4,30,52.1,55,2.9,40.1,60.3,8.2,6,27,0,0,66.7,8,4.5,1.8,0.4,50,12.6,628,4,1,8,
+NortDe00,Dennis Northcutt,WR,2008,31,JAX,NFL,WR,14,3,68,44,545,12.4,2,24,55.9,41,3.1,38.9,64.7,8.0,1,9,0,0,100.0,9,9.0,0.6,0.1,45,12.3,554,2,1,5,
+NortDe00,Dennis Northcutt,WR,2009,32,DET,NFL,WR,16,2,63,35,357,10.2,1,18,41.3,47,2.2,22.3,55.6,5.7,0,0,0,0,,,,0.0,0.0,35,10.2,357,1,2,3,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RobiKo00,Koren Robinson,WR,2001,21,SEA,NFL,WR,16,13,79,39,536,13.7,1,26,41.8,42,2.4,33.5,49.4,6.8,4,13,0,0,25.0,6,3.3,0.8,0.3,43,12.8,549,1,2,5,
+RobiKo00,Koren Robinson,WR,2002,22,SEA,NFL,WR,16,16,141,78,1240,15.9,5,58,48.9,83,4.9,77.5,55.3,8.8,8,56,0,3,75.0,20,7.0,3.5,0.5,86,15.1,1296,5,2,11,
+RobiKo00,Koren Robinson,WR,2003,23,SEA,NFL,WR,15,15,119,65,896,13.8,4,39,52.1,38,4.3,59.7,54.6,7.5,4,15,0,2,50.0,16,3.8,1.0,0.3,69,13.2,911,4,1,9,
+RobiKo00,Koren Robinson,WR,2004,24,SEA,NFL,WR,10,8,67,31,495,16.0,2,22,41.8,33,3.1,49.5,46.3,7.4,1,3,0,0,0.0,3,3.0,0.3,0.1,32,15.6,498,2,0,4,
+RobiKo00,Koren Robinson,WR,2005,25,MIN,NFL,WR,14,5,37,22,347,15.8,1,10,45.9,80,1.6,24.8,59.5,9.4,4,27,1,1,75.0,13,6.8,1.9,0.3,26,14.4,374,2,2,4,"PB,AP CPoY-5"
+RobiKo00,Koren Robinson,WR,2006,26,GNB,NFL,WR,4,0,16,7,89,12.7,0,6,43.8,24,1.8,22.3,43.8,5.6,0,0,0,0,,,,0.0,0.0,7,12.7,89,0,0,1,
+RobiKo00,Koren Robinson,WR,2007,27,GNB,NFL,WR,9,1,34,21,241,11.5,1,11,41.2,43,2.3,26.8,61.8,7.1,1,5,0,0,100.0,5,5.0,0.6,0.1,22,11.2,246,1,0,2,
+RobiKo00,Koren Robinson,WR,2008,28,SEA,NFL,WR,12,12,58,31,400,12.9,2,21,41.4,90,2.6,33.3,53.4,6.9,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,32,12.4,396,2,0,3,

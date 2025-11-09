@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JackLa00,Lamar Jackson,QB,2018,21,BAL,NFL,QB,1,1,9,54,0,4,44.4,17,6.0,54.0,9.0,0,0,0,,0,0,,,0.0,0.0,,,9,6.0,54,0,3,
+JackLa00,Lamar Jackson,QB,2019,22,BAL,NFL,QB,1,1,20,143,0,9,65.0,30,7.2,143.0,20.0,0,0,0,,0,0,,,0.0,0.0,,,20,7.2,143,0,1,
+JackLa00,Lamar Jackson,QB,2020,23,BAL,NFL,QB,2,2,25,170,1,7,36.0,48,6.8,85.0,12.5,0,0,0,,0,0,,,0.0,0.0,,,25,6.8,170,1,1,
+JackLa00,Lamar Jackson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JackLa00,Lamar Jackson,QB,2023,26,BAL,NFL,QB,2,2,19,154,2,9,68.4,23,8.1,77.0,9.5,1,1,13,13.0,0,1,100.0,13,0.5,6.5,100.0,13.0,20,8.4,167,2,1,
+JackLa00,Lamar Jackson,QB,2024,27,BAL,NFL,QB,2,2,21,120,0,8,61.9,20,5.7,60.0,10.5,0,0,0,,0,0,,,0.0,0.0,,,21,5.7,120,0,1,

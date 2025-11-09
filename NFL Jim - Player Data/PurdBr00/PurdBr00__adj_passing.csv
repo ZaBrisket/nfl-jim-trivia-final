@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PurdBr00,Brock Purdy,QB,2022,23,SFO,NFL,QB,9,5,124,121,127,123,111,140,99,103,128,AP ORoY-3
+PurdBr00,Brock Purdy,QB,2023,24,SFO,NFL,QB,16,16,157,152,149,146,124,137,96,107,142,"PB,AP MVP-4,AP OPoY-6,AP CPoY-6"
+PurdBr00,Brock Purdy,QB,2024,25,SFO,NFL,QB,15,15,129,128,118,119,104,101,93,104,108,
+PurdBr00,Brock Purdy,QB,2025,26,SFO,NFL,QB,2,2,116,125,95,102,101,108,46,126,92,

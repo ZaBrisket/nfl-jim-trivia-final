@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SuttCo00,Courtland Sutton,WR,2018,23,DEN,NFL,WR,16,9,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+SuttCo00,Courtland Sutton,WR,2019,24,DEN,NFL,WR,16,14,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,PB
+SuttCo00,Courtland Sutton,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+SuttCo00,Courtland Sutton,WR,2021,26,DEN,NFL,WR,17,16,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,14,0.8,
+SuttCo00,Courtland Sutton,WR,2022,27,DEN,NFL,WR,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,0.8,
+SuttCo00,Courtland Sutton,WR,2023,28,DEN,NFL,WR,16,14,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,60,3.8,
+SuttCo00,Courtland Sutton,WR,2024,29,DEN,NFL,WR,17,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,
+SuttCo00,Courtland Sutton,WR,2025,30,DEN,NFL,WR,10,10,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,26,2.6,

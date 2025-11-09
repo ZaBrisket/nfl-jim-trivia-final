@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+WestNi00,Nick Westbrook-Ikhine,WR,2020,23,TEN,NFL,WR,14,1,8,3,33,3,28,9.3,5,1.7,10.3,0,,0,0.0,1,10.9,0,0,0,0,0,0,
+WestNi00,Nick Westbrook-Ikhine,WR,2021,24,TEN,NFL,WR,16,7,57,38,476,23,332,8.7,144,3.8,10.5,1,38.0,2,3.5,0,115.8,0,0,0,0,0,0,
+WestNi00,Nick Westbrook-Ikhine,WR,2022,25,TEN,NFL,WR,17,13,50,25,397,18,285,11.4,112,4.5,12.8,1,25.0,2,4.0,2,80.2,0,0,0,0,0,0,
+WestNi00,Nick Westbrook-Ikhine,WR,2023,26,TEN,NFL,WR,14,9,45,28,370,18,263,9.4,107,3.8,12.3,1,28.0,4,8.9,0,110.4,0,0,0,0,0,0,
+WestNi00,Nick Westbrook-Ikhine,WR,2024,27,TEN,NFL,WR,17,9,60,32,497,25,373,11.7,124,3.9,11.5,2,16.0,4,6.7,3,99.8,0,0,0,0,0,0,
+WestNi00,Nick Westbrook-Ikhine,WR,2025,28,MIA,NFL,WR,9,2,18,10,82,7,54,5.4,28,2.8,5.4,1,10.0,2,11.1,1,44.2,0,0,0,0,0,0,

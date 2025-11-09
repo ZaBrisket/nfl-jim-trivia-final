@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AlleJo02,Josh Allen,QB,2018,22,BUF,QB,17,12,11,719,93%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2019,23,BUF,QB,17,16,16,988,92%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2020*,24,BUF,QB,17,16,16,1035,95%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2021,25,BUF,QB,17,17,17,1161,97%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2022*,26,BUF,QB,17,16,16,1061,98%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2023,27,BUF,QB,17,17,17,1126,97%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2024*,28,BUF,QB,17,17,17,968,89%,0,0%,0,0%
+AlleJo02,Josh Allen,QB,2025,29,BUF,QB,17,8,8,512,96%,0,0%,0,0%

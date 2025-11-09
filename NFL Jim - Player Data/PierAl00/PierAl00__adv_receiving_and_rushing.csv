@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+PierAl00,Alec Pierce,WR,2022,22,IND,NFL,WR,16,12,78,41,593,28,480,11.7,113,2.8,11.7,0,,3,3.8,2,75.4,0,0,0,0,0,0,
+PierAl00,Alec Pierce,WR,2023,23,IND,NFL,WR,17,16,65,32,514,24,417,13.0,97,3.0,14.9,1,32.0,3,4.6,1,79.9,0,0,0,0,0,0,
+PierAl00,Alec Pierce,WR,2024,24,IND,NFL,WR,16,13,69,37,824,32,706,19.1,118,3.2,21.5,0,,3,4.3,4,106.2,0,0,0,0,0,0,
+PierAl00,Alec Pierce,WR,2025,25,IND,NFL,WR,7,6,45,24,501,20,441,18.4,60,2.5,20.5,1,24.0,0,0.0,1,83.7,0,0,0,0,0,0,

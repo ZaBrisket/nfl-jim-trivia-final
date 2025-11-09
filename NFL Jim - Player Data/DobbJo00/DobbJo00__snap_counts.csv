@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DobbJo00,Joshua Dobbs,QB,2018,23,PIT,QB,5,5,0,30,9%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,2020,25,PIT,QB,5,1,0,9,13%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,2022,27,TEN,QB,11,2,2,139,99%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,2023,28,2TM,QB,,13,12,854,,0,,0,
+DobbJo00,Joshua Dobbs,QB,,,ARI,QB,9,8,8,535,100%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,,,,,,,,319,91%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,2024,29,SFO,QB,5,2,1,81,58%,0,0%,0,0%
+DobbJo00,Joshua Dobbs,QB,2025,30,NWE,QB,11,2,0,16,14%,0,0%,0,0%

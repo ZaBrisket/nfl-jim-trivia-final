@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+RoseSa00,Sage Rosenfels,QB,2002,24,MIA,NFL,QB,4,0,,0,3,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,,0,0,0.00,0.00,0.00,0,0,0,
+RoseSa00,Sage Rosenfels,QB,2003,25,MIA,NFL,QB,2,0,,4,6,66.7,50,1,16.7,0,0.0,2,33.3,21,8.3,11.67,12.5,25.0,131.9,,0,0,0.00,8.33,11.67,0,0,0,
+RoseSa00,Sage Rosenfels,QB,2004,26,MIA,NFL,QB,3,1,0-1-0,16,39,41.0,264,1,2.6,3,7.7,9,28.6,76,6.8,3.82,16.5,88.0,41.0,,3,16,7.14,5.90,3.17,0,0,1,
+RoseSa00,Sage Rosenfels,QB,2005,27,MIA,NFL,QB,4,1,0-1-0,34,61,55.7,462,4,6.6,3,4.9,17,45.9,77,7.6,6.67,13.6,115.5,81.5,,0,0,0.00,7.57,6.67,2,2,1,
+RoseSa00,Sage Rosenfels,QB,2006,28,HOU,NFL,QB,4,0,,27,39,69.2,265,3,7.7,1,2.6,15,57.5,28,6.8,7.18,9.8,66.3,103.0,66.6,1,5,2.50,6.50,6.88,0,0,1,
+RoseSa00,Sage Rosenfels,QB,2007,29,HOU,NFL,QB,9,5,4-1-0,154,240,64.2,1684,15,6.3,12,5.0,93,54.5,53,7.0,6.02,10.9,187.1,84.8,75.6,6,48,2.44,6.65,5.67,0,0,6,
+RoseSa00,Sage Rosenfels,QB,2008,30,HOU,NFL,QB,6,5,2-3-0,116,174,66.7,1431,6,3.4,10,5.7,64,54.1,61,8.2,6.33,12.3,238.5,79.5,51.3,9,58,4.92,7.50,5.70,0,0,5,
+RoseSa00,Sage Rosenfels,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RoseSa00,Sage Rosenfels,QB,2010,32,NYG,NFL,QB,12,0,,0,0,,0,0,,0,,0,,,,,,0.0,,9.8,0,0,,,,0,0,0,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BurrPl00,Plaxico Burress,WR,2001,24,PIT,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+BurrPl00,Plaxico Burress,WR,2002,25,PIT,NFL,WR,16,15,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,2.8,
+BurrPl00,Plaxico Burress,WR,2003,26,PIT,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+BurrPl00,Plaxico Burress,WR,2004,27,PIT,NFL,WR,11,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.7,
+BurrPl00,Plaxico Burress,WR,2005,28,NYG,NFL,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+BurrPl00,Plaxico Burress,WR,2006,29,NYG,NFL,WR,15,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,4.0,
+BurrPl00,Plaxico Burress,WR,2007,30,NYG,NFL,WR,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,
+BurrPl00,Plaxico Burress,WR,2008,31,NYG,NFL,WR,10,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.4,
+BurrPl00,Plaxico Burress,WR,2009,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,,,,,,,,
+BurrPl00,Plaxico Burress,WR,2010,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,,,,,,,,
+BurrPl00,Plaxico Burress,WR,2011,34,NYJ,NFL,WR,16,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+BurrPl00,Plaxico Burress,WR,2012,35,PIT,NFL,WR,4,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,

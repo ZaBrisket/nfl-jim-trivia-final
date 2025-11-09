@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WalkWe00,Wesley Walker,WR,1981,26,NYJ,NFL,WR,1,1,12,3,24,8.0,0,1,25.0,11,3.0,24.0,25.0,2.0,0,0,0,0,0.0,0.0,3,8.0,24,0,0,
+WalkWe00,Wesley Walker,WR,1982,27,NYJ,NFL,WR,3,3,23,16,314,19.6,2,11,56.5,49,5.3,104.7,69.6,13.7,0,0,0,0,0.0,0.0,16,19.6,314,2,0,
+WalkWe00,Wesley Walker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WalkWe00,Wesley Walker,WR,1985,30,NYJ,NFL,WR,1,1,6,4,54,13.5,0,2,66.7,24,4.0,54.0,66.7,9.0,0,0,0,0,0.0,0.0,4,13.5,54,0,0,
+WalkWe00,Wesley Walker,WR,1986,31,NYJ,NFL,WR,2,0,9,4,94,23.5,1,3,44.4,42,2.0,47.0,44.4,10.4,0,0,0,0,0.0,0.0,4,23.5,94,1,0,

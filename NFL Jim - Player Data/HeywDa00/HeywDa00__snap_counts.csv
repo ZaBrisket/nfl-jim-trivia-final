@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HeywDa00,Darrius Heyward-Bey,WR,2012,25,OAK,WR,85,15,14,806,79%,0,0%,0,0%
+HeywDa00,Darrius Heyward-Bey,WR,2013,26,IND,WR,81,16,11,603,56%,0,0%,29,6%
+HeywDa00,Darrius Heyward-Bey,WR,2014,27,PIT,WR,85,16,1,123,11%,0,0%,174,38%
+HeywDa00,Darrius Heyward-Bey,WR,2015,28,PIT,WR,88,16,4,401,37%,0,0%,174,39%
+HeywDa00,Darrius Heyward-Bey,WR,2016,29,PIT,WR,88,10,0,233,35%,0,0%,114,39%
+HeywDa00,Darrius Heyward-Bey,WR,2017,30,PIT,WR,88,16,0,89,8%,0,0%,232,53%
+HeywDa00,Darrius Heyward-Bey,WR,2018,31,PIT,WR,88,14,2,76,8%,0,0%,200,49%

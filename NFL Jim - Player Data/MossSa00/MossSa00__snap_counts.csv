@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MossSa00,Santana Moss,WR,2012,33,WAS,WR,89,16,1,454,44%,0,0%,4,1%
+MossSa00,Santana Moss,WR,2013,34,WAS,WR,89,16,1,551,48%,0,0%,33,7%
+MossSa00,Santana Moss,WR,2014,35,WAS,WR,89,10,0,130,20%,0,0%,17,6%

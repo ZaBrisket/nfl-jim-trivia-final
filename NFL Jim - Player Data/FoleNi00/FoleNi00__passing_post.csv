@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+FoleNi00,Nick Foles,QB,2013,24,PHI,NFL,QB,1,1,0-1-0,23,33,69.7,195,2,6.1,0,0.0,10,42.9,40,5.9,7.12,8.5,195.0,105.0,2,19,5.71,5.03,6.17,0,0,
+FoleNi00,Nick Foles,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FoleNi00,Nick Foles,QB,2017,28,PHI,NFL,QB,3,3,3-0-0,77,106,72.6,971,6,5.7,1,0.9,49,62.0,55,9.2,9.87,12.6,323.7,115.7,2,14,1.85,8.86,9.56,1,1,SB MVP
+FoleNi00,Nick Foles,QB,2018,29,PHI,NFL,QB,2,2,1-1-0,43,71,60.6,467,3,4.2,4,5.6,28,47.2,37,6.6,4.89,10.9,233.5,70.6,1,8,1.39,6.38,4.71,1,1,

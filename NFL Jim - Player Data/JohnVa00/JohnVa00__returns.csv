@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JohnVa00,Vance Johnson,WR,1985,22,DEN,NFL,WR,16,7,30,260,0,38,8.7,30,740,0,39,24.7,1757,
+JohnVa00,Vance Johnson,WR,1986,23,DEN,NFL,WR,12,9,3,36,0,19,12.0,2,21,0,21,10.5,435,
+JohnVa00,Vance Johnson,WR,1987,24,DEN,NFL,WR,11,9,1,9,0,9,9.0,7,140,0,34,20.0,825,
+JohnVa00,Vance Johnson,WR,,,,,,,,,,,,,,,,,,,
+JohnVa00,Vance Johnson,WR,1989,26,DEN,NFL,WR,16,16,12,118,0,34,9.8,0,0,0,0,,1213,
+JohnVa00,Vance Johnson,WR,1990,27,DEN,NFL,WR,16,13,11,92,0,29,8.4,6,126,0,39,21.0,965,
+JohnVa00,Vance Johnson,WR,1991,28,DEN,NFL,WR,10,0,24,174,0,20,7.3,0,0,0,0,,382,

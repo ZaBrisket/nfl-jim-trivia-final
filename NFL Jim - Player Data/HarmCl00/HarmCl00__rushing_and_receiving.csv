@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HarmCl00,Clarence Harmon,RB,1977,22,WAS,NFL,FB,12,9,94,310,0,,,21,3.3,25.8,7.8,,14,119,8.5,1,,,22,1.2,9.9,,,108,4.0,429,1,1,4,
+HarmCl00,Clarence Harmon,RB,1978,23,WAS,NFL,RB,16,3,34,141,0,5,26.5,47,4.1,8.8,2.1,18,11,112,10.2,1,7,44.4,22,0.7,7.0,61.1,6.2,45,5.6,253,1,0,2,
+HarmCl00,Clarence Harmon,RB,1979,24,WAS,NFL,RB,16,1,65,267,0,16,46.2,18,4.1,16.7,4.1,47,32,434,13.6,5,18,55.3,40,2.0,27.1,68.1,9.2,97,7.2,701,5,3,7,
+HarmCl00,Clarence Harmon,RB,1980,25,WAS,NFL,FB,16,14,128,484,4,28,41.4,23,3.8,30.3,8.0,73,54,534,9.9,4,24,54.8,45,3.4,33.4,74.0,7.3,182,5.6,1018,8,4,7,
+HarmCl00,Clarence Harmon,RB,1981,26,WAS,NFL,RB,5,0,1,4,0,0,0.0,4,4.0,0.8,0.2,17,11,98,8.9,0,8,58.8,23,2.2,19.6,64.7,5.8,12,8.5,102,0,0,1,
+HarmCl00,Clarence Harmon,RB,1982,27,WAS,NFL,RB,9,0,38,168,1,11,55.3,20,4.4,18.7,4.2,15,11,86,7.8,0,4,40.0,28,1.2,9.6,73.3,5.7,49,5.2,254,1,0,4,

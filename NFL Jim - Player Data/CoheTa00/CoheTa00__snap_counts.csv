@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CoheTa00,Tarik Cohen,RB,2017,22,CHI,RB,29,16,4,360,36%,0,0%,123,29%
+CoheTa00,Tarik Cohen,RB,2018*+,23,CHI,RB,29,16,7,495,46%,0,0%,90,21%
+CoheTa00,Tarik Cohen,RB,2019,24,CHI,RB,29,16,11,533,50%,0,0%,83,20%
+CoheTa00,Tarik Cohen,RB,2020,25,CHI,RB,29,3,0,77,36%,0,0%,13,14%

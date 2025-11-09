@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ReedJa00,Jake Reed,WR,1994,27,MIN,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+ReedJa00,Jake Reed,WR,1995,28,MIN,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+ReedJa00,Jake Reed,WR,1996,29,MIN,NFL,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+ReedJa00,Jake Reed,WR,1997,30,MIN,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+ReedJa00,Jake Reed,WR,1998,31,MIN,NFL,WR,11,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.2,
+ReedJa00,Jake Reed,WR,1999,32,MIN,NFL,WR,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+ReedJa00,Jake Reed,WR,,,,,,,,,,,,,,,,,,,,,,,,
+ReedJa00,Jake Reed,WR,2001,34,MIN,NFL,WR,16,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.5,
+ReedJa00,Jake Reed,WR,2002,35,NOR,NFL,WR,14,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,

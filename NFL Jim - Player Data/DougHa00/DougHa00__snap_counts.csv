@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+DougHa00,Harry Douglas,WR,2012,28,ATL,WR,83,15,1,586,60%,0,0%,7,2%
+DougHa00,Harry Douglas,WR,2013,29,ATL,WR,83,16,11,926,86%,0,0%,22,5%
+DougHa00,Harry Douglas,WR,2014,30,ATL,WR,83,12,6,557,68%,0,0%,1,0%
+DougHa00,Harry Douglas,WR,2015,31,TEN,WR,83,14,12,716,78%,0,0%,24,6%
+DougHa00,Harry Douglas,WR,2016,32,TEN,WR,83,11,2,237,33%,0,0%,0,0%
+DougHa00,Harry Douglas,WR,2017,33,TEN,WR,83,2,0,23,21%,0,0%,0,0%

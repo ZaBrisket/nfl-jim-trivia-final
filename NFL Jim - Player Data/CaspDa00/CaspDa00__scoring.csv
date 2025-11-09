@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CaspDa00,Dave Casper,TE,1974,22,OAK,NFL,TE,14,0,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+CaspDa00,Dave Casper,TE,1975,23,OAK,NFL,TE,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+CaspDa00,Dave Casper,TE,1976,24,OAK,NFL,TE,13,13,0,10,0,0,0,0,0,10,0,0,0,0,0,60,4.6,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1977,25,OAK,NFL,TE,14,14,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.6,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1978,26,OAK,NFL,TE,16,16,0,9,0,0,1,0,0,10,0,0,0,0,0,60,3.8,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1979,27,OAK,NFL,TE,15,12,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.2,"PB,AP-1"
+CaspDa00,Dave Casper,TE,1980,28,2TM,NFL,TE,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,PB
+CaspDa00,Dave Casper,TE,1980,28,OAK,NFL,TE,6,6,0,1,0,0,0,0,0,1,0,0,0,0,0,6,1.0,
+CaspDa00,Dave Casper,TE,1980,28,HOU,NFL,TE,10,9,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.8,
+CaspDa00,Dave Casper,TE,1981,29,HOU,NFL,TE,16,11,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,
+CaspDa00,Dave Casper,TE,1982,30,HOU,NFL,TE,9,9,0,6,0,0,0,0,0,6,0,0,0,0,0,36,4.0,
+CaspDa00,Dave Casper,TE,,,,,,,,,,,,,,,,,,,,,,,
+CaspDa00,Dave Casper,TE,1984,32,RAI,NFL,TE,7,0,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.7,

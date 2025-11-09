@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PachIs00,Isiah Pacheco,RB,2022,23,KAN,NFL,RB,17,11,170,830,5,37,57.1,31,4.9,48.8,10.0,14,13,130,10.0,0,7,64.3,32,0.8,7.6,92.9,9.3,183,5.2,960,5,4,7,AP ORoY-10
+PachIs00,Isiah Pacheco,RB,2023,24,KAN,NFL,RB,14,13,205,935,7,53,50.7,48,4.6,66.8,14.6,49,44,244,5.5,2,12,44.9,33,3.1,17.4,89.8,5.0,249,4.7,1179,9,1,8,
+PachIs00,Isiah Pacheco,RB,2024,25,KAN,NFL,RB,7,6,83,310,1,14,53.0,34,3.7,44.3,11.9,16,12,79,6.6,0,4,37.5,23,1.7,11.3,75.0,4.9,95,4.1,389,1,0,3,
+PachIs00,Isiah Pacheco,RB,2025,26,KAN,NFL,RB,8,8,78,329,1,21,59.0,16,4.2,41.1,9.8,17,11,43,3.9,1,3,35.3,10,1.4,5.4,64.7,2.5,89,4.2,372,2,0,,

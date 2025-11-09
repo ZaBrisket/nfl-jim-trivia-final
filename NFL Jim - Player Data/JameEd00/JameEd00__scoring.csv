@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JameEd00,Edgerrin James,RB,1999,21,IND,NFL,RB,16,16,13,4,0,0,0,0,0,17,0,0,0,0,0,0,102,6.4,"PB,AP-1,AP MVP-4,AP OPoY-3,AP ORoY-1"
+JameEd00,Edgerrin James,RB,2000,22,IND,NFL,RB,16,16,13,5,0,0,0,0,0,18,1,0,0,0,0,0,110,6.9,"PB,AP-2,AP OPoY-2"
+JameEd00,Edgerrin James,RB,2001,23,IND,NFL,RB,6,6,3,0,0,0,0,0,0,3,1,0,0,0,0,0,20,3.3,
+JameEd00,Edgerrin James,RB,2002,24,IND,NFL,RB,14,14,2,1,0,0,0,0,0,3,1,0,0,0,0,0,20,1.4,AP CPoY-5
+JameEd00,Edgerrin James,RB,2003,25,IND,NFL,RB,13,13,11,0,0,0,0,0,0,11,0,0,0,0,0,0,66,5.1,
+JameEd00,Edgerrin James,RB,2004,26,IND,NFL,RB,16,16,9,0,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,"PB,AP-2"
+JameEd00,Edgerrin James,RB,2005,27,IND,NFL,RB,15,15,13,1,0,0,0,0,0,14,0,0,0,0,0,0,84,5.6,PB
+JameEd00,Edgerrin James,RB,2006,28,ARI,NFL,RB,16,16,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+JameEd00,Edgerrin James,RB,2007,29,ARI,NFL,RB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+JameEd00,Edgerrin James,RB,2008,30,ARI,NFL,RB,13,7,3,0,0,0,0,0,0,3,1,0,0,0,0,0,20,1.5,

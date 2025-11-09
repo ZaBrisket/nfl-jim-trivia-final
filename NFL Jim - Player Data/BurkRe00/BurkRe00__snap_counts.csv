@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BurkRe00,Rex Burkhead,RB,2013,23,CIN,RB,33,1,0,0,0%,0,0%,17,55%
+BurkRe00,Rex Burkhead,RB,2014,24,CIN,RB,33,9,0,34,6%,0,0%,133,50%
+BurkRe00,Rex Burkhead,RB,2015,25,CIN,RB,33,16,0,73,7%,0,0%,299,68%
+BurkRe00,Rex Burkhead,RB,2016,26,CIN,RB,33,16,1,238,22%,0,0%,209,47%
+BurkRe00,Rex Burkhead,RB,2017,27,NWE,RB,34,10,3,195,28%,0,0%,102,37%
+BurkRe00,Rex Burkhead,RB,2018,28,NWE,RB,34,8,4,151,28%,0,0%,91,42%
+BurkRe00,Rex Burkhead,RB,2019,29,NWE,RB,34,13,1,264,29%,0,0%,218,60%
+BurkRe00,Rex Burkhead,RB,2020,30,NWE,RB,34,10,0,269,41%,0,0%,112,45%
+BurkRe00,Rex Burkhead,RB,2021,31,HOU,RB,28,16,5,378,38%,0,0%,80,19%
+BurkRe00,Rex Burkhead,RB,2022,32,HOU,RB,28,16,0,260,26%,0,0%,17,4%

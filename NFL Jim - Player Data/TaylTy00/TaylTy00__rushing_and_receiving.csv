@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TaylTy00,Tyrod Taylor,QB,2011,22,BAL,NFL,QB,3,0,1,2,0,0,0.0,2,2.0,0.7,0.3,0,0,0,,0,0,,,0.0,0.0,,,1,2.0,2,0,0,
+TaylTy00,Tyrod Taylor,QB,2012,23,BAL,NFL,QB,7,0,14,73,1,5,57.1,28,5.2,10.4,2.0,0,0,0,,0,0,,,0.0,0.0,,,14,5.2,73,1,0,
+TaylTy00,Tyrod Taylor,QB,2013,24,BAL,NFL,QB,3,0,8,64,0,5,62.5,25,8.0,21.3,2.7,1,1,6,6.0,0,0,0.0,6,0.3,2.0,100.0,6.0,9,7.8,70,0,0,
+TaylTy00,Tyrod Taylor,QB,2014,25,BAL,NFL,QB,1,0,4,-3,0,0,0.0,,-0.8,-3.0,4.0,0,0,0,,0,0,,,0.0,0.0,,,4,-0.8,-3,0,0,
+TaylTy00,Tyrod Taylor,QB,2015,26,BUF,NFL,QB,14,14,104,568,4,28,46.2,31,5.5,40.6,7.4,1,1,4,4.0,0,0,100.0,4,0.1,0.3,100.0,4.0,105,5.4,572,4,9,PB
+TaylTy00,Tyrod Taylor,QB,2016,27,BUF,NFL,QB,15,15,95,580,6,34,49.5,49,6.1,38.7,6.3,0,0,0,,0,0,,,0.0,0.0,,,95,6.1,580,6,4,
+TaylTy00,Tyrod Taylor,QB,2017,28,BUF,NFL,QB,15,14,84,427,4,28,42.9,32,5.1,28.5,5.6,0,0,0,,0,0,,,0.0,0.0,,,84,5.1,427,4,4,
+TaylTy00,Tyrod Taylor,QB,2018,29,CLE,NFL,QB,4,3,16,125,1,6,56.3,24,7.8,31.3,4.0,0,0,0,,0,0,,,0.0,0.0,,,16,7.8,125,1,3,
+TaylTy00,Tyrod Taylor,QB,2019,30,LAC,NFL,QB,8,0,10,7,0,1,10.0,9,0.7,0.9,1.3,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,10,0.7,7,0,0,
+TaylTy00,Tyrod Taylor,QB,2020,31,LAC,NFL,QB,2,1,6,7,0,1,16.7,4,1.2,3.5,3.0,0,0,0,,0,0,,,0.0,0.0,,,6,1.2,7,0,0,
+TaylTy00,Tyrod Taylor,QB,2021,32,HOU,NFL,QB,6,6,19,151,3,6,52.6,30,7.9,25.2,3.2,0,0,0,,0,0,,,0.0,0.0,,,19,7.9,151,3,3,
+TaylTy00,Tyrod Taylor,QB,2022,33,NYG,NFL,QB,3,0,5,70,0,5,100.0,32,14.0,23.3,1.7,0,0,0,,0,0,,,0.0,0.0,,,5,14.0,70,0,2,
+TaylTy00,Tyrod Taylor,QB,2023,34,NYG,NFL,QB,11,5,38,197,0,10,47.4,31,5.2,17.9,3.5,0,0,0,,0,0,,,0.0,0.0,,,38,5.2,197,0,4,
+TaylTy00,Tyrod Taylor,QB,2024,35,NYJ,NFL,QB,2,0,3,13,0,0,66.7,7,4.3,6.5,1.5,0,0,0,,0,0,,,0.0,0.0,,,3,4.3,13,0,1,
+TaylTy00,Tyrod Taylor,QB,2025,36,NYJ,NFL,QB,3,1,14,80,0,4,50.0,15,5.7,26.7,4.7,0,0,0,,0,0,,,0.0,0.0,,,14,5.7,80,0,1,

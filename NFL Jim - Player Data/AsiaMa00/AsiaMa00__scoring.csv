@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AsiaMa00,Matt Asiata,FB,2013,26,MIN,NFL,RB,11,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.6,
+AsiaMa00,Matt Asiata,FB,2014,27,MIN,NFL,RB,15,9,9,1,0,0,0,0,0,10,2,0,0,0,0,0,64,4.3,
+AsiaMa00,Matt Asiata,FB,,,,,,,,,,,,,,,,,,,,,,,,
+AsiaMa00,Matt Asiata,FB,2016,29,MIN,NFL,RB,16,6,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,

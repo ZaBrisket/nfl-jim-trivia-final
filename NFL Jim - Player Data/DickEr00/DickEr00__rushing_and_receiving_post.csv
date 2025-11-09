@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DickEr00,Eric Dickerson,RB,1983,23,RAM,NFL,RB,2,2,33,115,0,5,33.3,20,3.5,57.5,16.5,11,8,20,2.5,0,0,18.2,8,4.0,10.0,72.7,1.8,41,3.3,135,0,0,
+DickEr00,Eric Dickerson,RB,1984,24,RAM,NFL,RB,1,1,23,107,1,5,43.5,24,4.7,107.0,23.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,23,4.7,107,1,1,
+DickEr00,Eric Dickerson,RB,1985,25,RAM,NFL,RB,2,2,51,294,2,13,62.7,55,5.8,147.0,25.5,5,4,6,1.5,0,1,40.0,7,2.0,3.0,80.0,1.2,55,5.5,300,2,2,
+DickEr00,Eric Dickerson,RB,1986,26,RAM,NFL,RB,1,1,26,158,0,7,46.2,65,6.1,158.0,26.0,,0,0,,0,0,,,0.0,0.0,,,26,6.1,158,0,3,
+DickEr00,Eric Dickerson,RB,1987,27,IND,NFL,RB,1,1,15,50,0,3,46.7,14,3.3,50.0,15.0,9,7,65,9.3,1,4,44.4,19,7.0,65.0,77.8,7.2,22,5.2,115,1,1,

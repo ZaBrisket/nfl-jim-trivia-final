@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AustMi00,Miles Austin,WR,2012,28,DAL,WR,19,16,15,860,78%,0,0%,0,0%
+AustMi00,Miles Austin,WR,2013,29,DAL,WR,19,11,8,525,74%,0,0%,3,1%
+AustMi00,Miles Austin,WR,2014,30,CLE,WR,19,12,11,536,64%,0,0%,2,1%
+AustMi00,Miles Austin,WR,2015,31,PHI,WR,19,11,1,405,50%,0,0%,1,0%

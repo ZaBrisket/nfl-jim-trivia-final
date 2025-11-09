@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FaulKe00,Kevin Faulk,RB,2001,25,NWE,NFL,RB,3,0,3,14,0,1,33.3,8,4.7,4.7,1.0,6,4,21,5.3,0,0,0.0,8,1.3,7.0,66.7,3.5,7,5.0,35,0,0,
+FaulKe00,Kevin Faulk,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FaulKe00,Kevin Faulk,RB,2003,27,NWE,NFL,RB,3,0,14,72,0,3,35.7,23,5.1,24.0,4.7,9,8,58,7.3,0,2,44.4,19,2.7,19.3,88.9,6.4,22,5.9,130,0,0,
+FaulKe00,Kevin Faulk,RB,2004,28,NWE,NFL,RB,3,0,22,114,0,6,50.0,17,5.2,38.0,7.3,3,3,38,12.7,0,3,100.0,14,1.0,12.7,100.0,12.7,25,6.1,152,0,0,
+FaulKe00,Kevin Faulk,RB,2005,29,NWE,NFL,RB,2,1,13,74,0,3,53.8,19,5.7,37.0,6.5,6,6,65,10.8,0,3,66.7,21,3.0,32.5,100.0,10.8,19,7.3,139,0,1,
+FaulKe00,Kevin Faulk,RB,2006,30,NWE,NFL,RB,3,1,16,75,0,4,50.0,9,4.7,25.0,5.3,11,4,23,5.8,1,1,27.3,7,1.3,7.7,36.4,2.1,20,4.9,98,1,0,
+FaulKe00,Kevin Faulk,RB,2007,31,NWE,NFL,RB,3,2,6,24,0,2,66.7,8,4.0,8.0,2.0,22,20,170,8.5,0,11,81.8,14,6.7,56.7,90.9,7.7,26,7.5,194,0,0,
+FaulKe00,Kevin Faulk,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FaulKe00,Kevin Faulk,RB,2009,33,NWE,NFL,RB,1,0,14,52,0,2,50.0,9,3.7,52.0,14.0,8,6,37,6.2,0,1,50.0,18,6.0,37.0,75.0,4.6,20,4.5,89,0,0,
+FaulKe00,Kevin Faulk,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FaulKe00,Kevin Faulk,RB,2011,35,NWE,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,

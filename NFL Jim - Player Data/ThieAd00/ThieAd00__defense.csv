@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+ThieAd00,Adam Thielen,WR,2014,24,MIN,NFL,WR,16,2,0,0,0,0,0,0,0,0,0,0,0.0,11,8,3,0,0,0,
+ThieAd00,Adam Thielen,WR,2015,25,MIN,NFL,WR,16,2,0,0,0,0,0,0,0,0,0,0,0.0,7,7,0,0,0,0,
+ThieAd00,Adam Thielen,WR,2016,26,MIN,NFL,WR,16,10,0,0,0,0,0,0,2,2,0,0,0.0,4,3,1,0,0,0,
+ThieAd00,Adam Thielen,WR,2017,27,MIN,NFL,WR,16,16,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+ThieAd00,Adam Thielen,WR,2018,28,MIN,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,PB
+ThieAd00,Adam Thielen,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+ThieAd00,Adam Thielen,WR,2021,31,MIN,NFL,WR,13,13,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+ThieAd00,Adam Thielen,WR,2022,32,MIN,NFL,WR,17,17,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+ThieAd00,Adam Thielen,WR,2023,33,CAR,NFL,WR,17,17,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,

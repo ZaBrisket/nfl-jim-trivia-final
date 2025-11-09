@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TheiJo00,Joe Theismann,QB,1974,25,WAS,NFL,QB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+TheiJo00,Joe Theismann,QB,,,,,,,,,,,,,,,,,,,,,,,
+TheiJo00,Joe Theismann,QB,1976,27,WAS,NFL,QB,14,5,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+TheiJo00,Joe Theismann,QB,1977,28,WAS,NFL,QB,14,6,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+TheiJo00,Joe Theismann,QB,1978,29,WAS,NFL,QB,16,14,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+TheiJo00,Joe Theismann,QB,1979,30,WAS,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+TheiJo00,Joe Theismann,QB,1980,31,WAS,NFL,QB,16,15,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+TheiJo00,Joe Theismann,QB,1981,32,WAS,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+TheiJo00,Joe Theismann,QB,,,,,,,,,,,,,,,,,,,,,,,
+TheiJo00,Joe Theismann,QB,1983,34,WAS,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,"PB,AP-1,AP MVP-1,AP OPoY-1"
+TheiJo00,Joe Theismann,QB,1984,35,WAS,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+TheiJo00,Joe Theismann,QB,1985,36,WAS,NFL,QB,11,11,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.1,

@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AbduAm00,Ameer Abdullah,RB,2015,22,DET,RB,21,16,9,355,33%,0,0%,72,16%
+AbduAm00,Ameer Abdullah,RB,2016,23,DET,RB,21,2,2,57,40%,0,0%,1,2%
+AbduAm00,Ameer Abdullah,RB,2017,24,DET,RB,21,14,11,378,42%,0,0%,11,3%
+AbduAm00,Ameer Abdullah,RB,2018,25,2TM,RB,,10,0,17,,0,,99,
+AbduAm00,Ameer Abdullah,RB,,,DET,RB,21,3,0,11,6%,0,0%,13,17%
+AbduAm00,Ameer Abdullah,RB,,,,,,,,6,1%,0,0%,86,48%
+AbduAm00,Ameer Abdullah,RB,2019,26,MIN,RB,31,16,0,135,13%,0,0%,252,60%
+AbduAm00,Ameer Abdullah,RB,2020,27,MIN,RB,31,16,0,71,7%,0,0%,255,57%
+AbduAm00,Ameer Abdullah,RB,2021,28,2TM,RB,,17,1,314,,0,,107,
+AbduAm00,Ameer Abdullah,RB,,,MIN,RB,31,6,0,49,11%,0,0%,44,25%
+AbduAm00,Ameer Abdullah,RB,,,,,,,,265,37%,0,0%,63,22%
+AbduAm00,Ameer Abdullah,RB,2022,29,LVR,RB,22,17,0,175,16%,0,0%,225,50%
+AbduAm00,Ameer Abdullah,RB,2023,30,LVR,RB,22,17,0,216,21%,0,0%,256,59%
+AbduAm00,Ameer Abdullah,RB,2024,31,LVR,RB,8,16,3,410,38%,0,0%,192,43%
+AbduAm00,Ameer Abdullah,RB,2025,32,IND,RB,26,5,0,28,9%,0,0%,53,42%

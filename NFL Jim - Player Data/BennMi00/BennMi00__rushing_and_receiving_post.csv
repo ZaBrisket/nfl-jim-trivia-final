@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BennMi00,Michael Bennett,RB,2004,26,MIN,NFL,RB,2,2,17,68,0,5,41.2,18,4.0,34.0,8.5,6,4,11,2.8,0,0,16.7,9,2.0,5.5,66.7,1.8,21,3.8,79,0,0,
+BennMi00,Michael Bennett,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BennMi00,Michael Bennett,RB,2006,28,KAN,NFL,RB,1,0,1,1,0,0,0.0,1,1.0,1.0,1.0,1,1,12,12.0,0,1,100.0,12,1.0,12.0,100.0,12.0,2,6.5,13,0,0,
+BennMi00,Michael Bennett,RB,2007,29,TAM,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+BennMi00,Michael Bennett,RB,2008,30,SDG,NFL,RB,2,0,4,24,0,1,50.0,14,6.0,12.0,2.0,3,2,13,6.5,0,1,33.3,7,1.0,6.5,66.7,4.3,6,6.2,37,0,0,

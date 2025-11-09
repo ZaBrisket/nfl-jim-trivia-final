@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+StabKe00,Ken Stabler,QB,1972,27,OAK,NFL,QB,14,1,107,100,114,109,124,111,113,91,119,
+StabKe00,Ken Stabler,QB,1973,28,OAK,NFL,QB,14,11,121,108,122,114,133,111,114,83,126,PB
+StabKe00,Ken Stabler,QB,1974,29,OAK,NFL,QB,14,13,124,128,129,132,117,137,113,116,131,"PB,AP-1,AP MVP-1,AP OPoY-1"
+StabKe00,Ken Stabler,QB,1975,30,OAK,NFL,QB,14,13,119,120,101,103,117,112,69,113,102,
+StabKe00,Ken Stabler,QB,1976,31,OAK,NFL,QB,12,12,145,143,137,138,142,148,94,114,140,"PB,AP-2,AP MVP-3,AP OPoY-2"
+StabKe00,Ken Stabler,QB,1977,32,OAK,NFL,QB,13,13,113,120,107,112,115,128,84,120,112,PB
+StabKe00,Ken Stabler,QB,1978,33,OAK,NFL,QB,16,16,112,107,93,92,118,99,74,98,96,
+StabKe00,Ken Stabler,QB,1979,34,OAK,NFL,QB,16,16,109,110,111,112,122,113,105,107,117,AP MVP-8
+StabKe00,Ken Stabler,QB,1980,35,HOU,NFL,QB,16,16,101,103,86,88,131,82,78,109,94,
+StabKe00,Ken Stabler,QB,1981,36,HOU,NFL,QB,13,12,99,91,89,85,107,109,74,86,94,
+StabKe00,Ken Stabler,QB,1982,37,NOR,NFL,QB,8,8,101,103,92,94,119,88,87,106,97,
+StabKe00,Ken Stabler,QB,1983,38,NOR,NFL,QB,14,14,86,93,79,83,100,86,80,116,83,
+StabKe00,Ken Stabler,QB,1984,39,NOR,NFL,QB,3,0,53,62,51,57,70,85,62,109,59,

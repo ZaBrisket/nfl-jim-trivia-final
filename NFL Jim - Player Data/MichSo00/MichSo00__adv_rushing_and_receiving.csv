@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MichSo00,Sony Michel,RB,2018,23,NWE,NFL,RB,13,8,209,931,54,497,2.4,434,2.1,11,19.0,11,7,50,3,0,0.0,50,7.1,1.0,0,,2,18.2,0,74.1,
+MichSo00,Sony Michel,RB,2019,24,NWE,NFL,RB,16,14,247,912,55,521,2.1,391,1.6,16,15.4,20,12,94,7,-2,-0.2,96,8.0,0.5,1,12.0,3,15.0,0,71.7,
+MichSo00,Sony Michel,RB,2020,25,NWE,NFL,RB,9,6,79,449,19,164,2.1,285,3.6,9,8.8,9,7,114,5,4,0.6,110,15.7,-0.2,1,7.0,0,0.0,0,155.8,
+MichSo00,Sony Michel,RB,2021,26,LAR,NFL,RB,17,7,208,845,49,445,2.1,400,1.9,16,13.0,33,21,128,6,-5,-0.2,133,6.3,-0.4,3,7.0,3,9.1,1,68.7,
+MichSo00,Sony Michel,RB,2022,27,LAC,NFL,RB,10,0,36,106,8,42,1.2,64,1.8,3,12.0,13,9,53,1,7,0.8,46,5.1,1.7,0,,2,15.4,1,44.7,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+SmitOn00,Onterrio Smith,RB,2003,23,MIN,NFL,RB,15,3,0,0,0,0,0,0,1,0,0,0,0.0,2,1,1,0,0,
+SmitOn00,Onterrio Smith,RB,2004,24,MIN,NFL,RB,11,6,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,
+SmitOn00,Onterrio Smith,RB,2005,,Did not play - Violation of league substance abuse policy,,,,,,,,,,,,,,,,,,,,,

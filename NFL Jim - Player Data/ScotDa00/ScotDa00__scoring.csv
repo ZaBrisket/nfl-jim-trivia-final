@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ScotDa00,Darnay Scott,WR,1994,22,CIN,NFL,WR,16,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+ScotDa00,Darnay Scott,WR,1995,23,CIN,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+ScotDa00,Darnay Scott,WR,1996,24,CIN,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+ScotDa00,Darnay Scott,WR,1997,25,CIN,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+ScotDa00,Darnay Scott,WR,1998,26,CIN,NFL,WR,13,13,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,3.2,
+ScotDa00,Darnay Scott,WR,1999,27,CIN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+ScotDa00,Darnay Scott,WR,,,,,,,,,,,,,,,,,,,,,,,,
+ScotDa00,Darnay Scott,WR,2001,29,CIN,NFL,WR,16,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+ScotDa00,Darnay Scott,WR,2002,30,DAL,NFL,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

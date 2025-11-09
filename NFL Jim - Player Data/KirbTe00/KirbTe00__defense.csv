@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+KirbTe00,Terry Kirby,RB,1993,23,MIA,NFL,RB,16,8,0,0,0,0,,1,5,4,0,0,0.0,0,0,0,,0,
+KirbTe00,Terry Kirby,RB,1994,24,MIA,NFL,RB,4,4,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,,0,
+KirbTe00,Terry Kirby,RB,1995,25,MIA,NFL,RB,16,4,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,,0,
+KirbTe00,Terry Kirby,RB,1996,26,SFO,NFL,RB,14,10,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,0,
+KirbTe00,Terry Kirby,RB,1997,27,SFO,NFL,RB,16,3,0,0,0,0,,0,3,2,0,0,0.0,0,0,0,,0,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,1999,29,CLE,NFL,RB,16,10,0,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,0,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,2001,31,OAK,NFL,RB,11,0,0,0,0,0,0,0,1,0,0,0,0.0,10,9,1,0,0,
+KirbTe00,Terry Kirby,RB,2002,32,OAK,NFL,RB,6,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,

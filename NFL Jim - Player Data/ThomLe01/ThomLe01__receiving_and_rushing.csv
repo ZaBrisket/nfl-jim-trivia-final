@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomLe01,Leonard Thompson,WR,1975,23,DET,NFL,WR,14,1,,0,0,,0,,,,0.0,0.0,,,1,-12,0,,,-12,-12.0,-0.9,0.1,1,-12.0,-12,0,2,0,
+ThomLe01,Leonard Thompson,WR,1976,24,DET,NFL,RB,14,1,,3,52,17.3,0,,,21,0.2,3.7,,,1,0,0,,,,0.0,0.0,0.1,4,13.0,52,0,0,1,
+ThomLe01,Leonard Thompson,WR,1977,25,DET,NFL,WR,14,3,,7,42,6.0,0,,,18,0.5,3.0,,,31,91,1,,,16,2.9,6.5,2.2,38,3.5,133,1,0,1,
+ThomLe01,Leonard Thompson,WR,1978,26,DET,NFL,WR,16,1,18,10,167,16.7,4,8,50.0,45,0.6,10.4,55.6,9.3,1,7,0,0,100.0,7,7.0,0.4,0.1,11,15.8,174,4,2,2,
+ThomLe01,Leonard Thompson,WR,1979,27,DET,NFL,WR,15,1,43,24,451,18.8,2,17,53.5,82,1.6,30.1,55.8,10.5,5,24,0,3,60.0,16,4.8,1.6,0.3,29,16.4,475,2,3,4,
+ThomLe01,Leonard Thompson,WR,1980,28,DET,NFL,WR,16,12,33,19,511,26.9,3,16,51.5,79,1.2,31.9,57.6,15.5,6,61,0,2,83.3,30,10.2,3.8,0.4,25,22.9,572,3,1,5,
+ThomLe01,Leonard Thompson,WR,1981,29,DET,NFL,WR,16,16,61,30,550,18.3,3,19,42.6,94,1.9,34.4,49.2,9.0,10,75,1,5,70.0,21,7.5,4.7,0.6,40,15.6,625,4,1,6,
+ThomLe01,Leonard Thompson,WR,1982,30,DET,NFL,WR,9,6,44,17,328,19.3,4,13,34.1,70,1.9,36.4,38.6,7.5,2,16,0,1,50.0,13,8.0,1.8,0.2,19,18.1,344,4,0,6,
+ThomLe01,Leonard Thompson,WR,1983,31,DET,NFL,WR,13,12,90,41,752,18.3,3,31,44.4,80,3.2,57.8,45.6,8.4,4,72,1,2,75.0,40,18.0,5.5,0.3,45,18.3,824,4,2,8,
+ThomLe01,Leonard Thompson,WR,1984,32,DET,NFL,WR,16,15,107,50,773,15.5,6,34,41.1,66,3.1,48.3,46.7,7.2,3,-7,0,1,33.3,4,-2.3,-0.4,0.2,53,14.5,766,6,1,6,
+ThomLe01,Leonard Thompson,WR,1985,33,DET,NFL,WR,16,13,104,51,736,14.4,5,31,42.3,48,3.2,46.0,49.0,7.1,0,0,0,0,,,,0.0,0.0,51,14.4,736,5,0,7,
+ThomLe01,Leonard Thompson,WR,1986,34,DET,NFL,WR,16,1,52,25,320,12.8,5,21,44.2,36,1.6,20.0,48.1,6.2,0,0,0,0,,,,0.0,0.0,25,12.8,320,5,0,3,

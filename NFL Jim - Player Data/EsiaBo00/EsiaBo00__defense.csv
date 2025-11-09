@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+EsiaBo00,Boomer Esiason,QB,1984,23,CIN,NFL,QB,10,4,0,0,0,0,0,4,2,-2,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1985,24,CIN,NFL,QB,15,14,0,0,0,0,0,9,4,-5,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1986,25,CIN,NFL,QB,16,16,0,0,0,0,0,12,5,-10,0,0.0,0,0,0,0,PB
+EsiaBo00,Boomer Esiason,QB,1987,26,CIN,NFL,QB,12,12,0,0,0,0,0,10,4,-8,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1988,27,CIN,NFL,QB,16,16,0,0,0,0,0,5,4,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-2"
+EsiaBo00,Boomer Esiason,QB,1989,28,CIN,NFL,QB,16,15,0,0,0,0,0,8,2,-4,0,0.0,0,0,0,0,PB
+EsiaBo00,Boomer Esiason,QB,1990,29,CIN,NFL,QB,16,16,0,0,0,0,0,11,2,-23,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1991,30,CIN,NFL,QB,14,14,0,0,0,0,0,10,3,-5,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1992,31,CIN,NFL,QB,12,11,0,0,0,0,0,12,6,-9,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1993,32,NYJ,NFL,QB,16,16,0,0,0,0,0,13,5,-10,0,0.0,0,0,0,0,PB
+EsiaBo00,Boomer Esiason,QB,1994,33,NYJ,NFL,QB,15,14,0,0,0,0,0,11,3,-11,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1995,34,NYJ,NFL,QB,12,12,0,0,0,0,0,12,4,-27,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1996,35,ARI,NFL,QB,10,8,0,0,0,0,0,5,1,-8,0,0.0,0,0,0,0,
+EsiaBo00,Boomer Esiason,QB,1997,36,CIN,NFL,QB,7,5,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

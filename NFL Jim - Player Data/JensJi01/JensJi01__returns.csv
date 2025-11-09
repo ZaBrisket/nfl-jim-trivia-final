@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JensJi01,Jim Jensen,RB,1976,23,DAL,NFL,RB,14,0,0,0,0,0,13,313,0,35,24.1,313,
+JensJi01,Jim Jensen,RB,,,,,,,,,,,,,,,,,,
+JensJi01,Jim Jensen,RB,1980,27,DEN,NFL,FB,14,13,0,0,0,0,1,5,0,5,5.0,858,
+JensJi01,Jim Jensen,RB,1981,28,GNB,NFL,FB,15,0,0,0,0,0,1,15,0,15,15.0,143,

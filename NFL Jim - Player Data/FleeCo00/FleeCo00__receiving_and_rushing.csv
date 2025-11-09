@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FleeCo00,Coby Fleener,TE,2012,24,IND,NFL,TE,12,10,48,26,281,10.8,2,14,47.9,26,2.2,23.4,54.2,5.9,0,0,0,0,,,,0.0,0.0,26,10.8,281,2,0,2,
+FleeCo00,Coby Fleener,TE,2013,25,IND,NFL,TE,16,12,87,52,608,11.7,4,32,46.0,44,3.3,38.0,59.8,7.0,0,0,0,0,,,,0.0,0.0,52,11.7,608,4,1,6,
+FleeCo00,Coby Fleener,TE,2014,26,IND,NFL,TE,16,12,92,51,774,15.2,8,40,50.0,73,3.2,48.4,55.4,8.4,0,0,0,0,,,,0.0,0.0,51,15.2,774,8,0,7,
+FleeCo00,Coby Fleener,TE,2015,27,IND,NFL,TE,16,11,84,54,491,9.1,3,23,46.4,57,3.4,30.7,64.3,5.8,0,0,0,0,,,,0.0,0.0,54,9.1,491,3,0,4,
+FleeCo00,Coby Fleener,TE,2016,28,NOR,NFL,TE,16,8,81,50,631,12.6,3,28,56.8,50,3.1,39.4,61.7,7.8,1,2,1,1,100.0,2,2.0,0.1,0.1,51,12.4,633,4,2,6,
+FleeCo00,Coby Fleener,TE,2017,29,NOR,NFL,TE,11,1,30,22,295,13.4,2,13,66.7,33,2.0,26.8,73.3,9.8,0,0,0,0,,,,0.0,0.0,22,13.4,295,2,0,3,

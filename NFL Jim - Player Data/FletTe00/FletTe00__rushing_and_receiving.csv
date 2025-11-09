@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FletTe00,Terrell Fletcher,RB,1995,22,SDG,NFL,RB,16,0,26,140,1,6,50.0,46,5.4,8.8,1.6,5,3,26,8.7,0,0,0.0,15,0.2,1.6,60.0,5.2,29,5.7,166,1,2,1,
+FletTe00,Terrell Fletcher,RB,1996,23,SDG,NFL,RB,16,0,77,282,0,13,39.0,19,3.7,17.6,4.8,86,61,476,7.8,2,21,41.9,41,3.8,29.8,70.9,5.5,138,5.5,758,2,1,6,
+FletTe00,Terrell Fletcher,RB,1997,24,SDG,NFL,RB,13,1,51,161,0,6,33.3,13,3.2,12.4,3.9,48,39,292,7.5,0,17,47.9,25,3.0,22.5,81.3,6.1,90,5.0,453,0,4,3,
+FletTe00,Terrell Fletcher,RB,1998,25,SDG,NFL,RB,12,5,153,543,5,34,45.1,21,3.5,45.3,12.8,43,30,188,6.3,0,9,39.5,22,2.5,15.7,69.8,4.4,183,4.0,731,5,1,4,
+FletTe00,Terrell Fletcher,RB,1999,26,SDG,NFL,RB,15,2,48,126,0,5,33.3,16,2.6,8.4,3.2,65,45,360,8.0,0,18,38.5,25,3.0,24.0,69.2,5.5,93,5.2,486,0,1,3,
+FletTe00,Terrell Fletcher,RB,2000,27,SDG,NFL,RB,16,6,116,384,3,18,36.2,21,3.3,24.0,7.3,72,48,355,7.4,1,17,38.9,26,3.0,22.2,66.7,4.9,164,4.5,739,4,2,5,
+FletTe00,Terrell Fletcher,RB,2001,28,SDG,NFL,RB,13,0,29,107,0,7,44.8,16,3.7,8.2,2.2,29,23,184,8.0,0,10,44.8,27,1.8,14.2,79.3,6.3,52,5.6,291,0,1,2,
+FletTe00,Terrell Fletcher,RB,2002,29,SDG,NFL,RB,10,0,26,128,1,8,50.0,15,4.9,12.8,2.6,17,10,62,6.2,0,2,35.3,13,1.0,6.2,58.8,3.6,36,5.3,190,1,0,1,

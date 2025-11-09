@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+DaviMi01,Mike Davis,RB,2018,25,SEA,NFL,RB,15,2,112,514,25,328,2.9,186,1.7,7,16.0,42,34,214,10,-21,-0.6,235,6.9,0.1,5,6.8,4,9.5,0,95.8,
+DaviMi01,Mike Davis,RB,2019,26,2TM,NFL,RB,12,1,13,27,0,15,1.2,12,0.9,0,,8,7,22,1,-5,-0.7,27,3.9,0.8,0,,0,0.0,0,79.2,
+DaviMi01,Mike Davis,RB,2019,26,CHI,NFL,RB,7,1,11,25,0,16,1.5,9,0.8,0,,8,7,22,1,-5,-0.7,27,3.9,0.8,0,,0,0.0,0,79.2,
+DaviMi01,Mike Davis,RB,2019,26,CAR,NFL,RB,5,0,2,2,0,-1,-0.5,3,1.5,0,,0,0,0,0,0,,0,,,0,,0,,0,,
+DaviMi01,Mike Davis,RB,2020,27,CAR,NFL,RB,15,12,165,642,38,244,1.5,398,2.4,21,7.9,70,59,373,17,-45,-0.8,418,7.1,-0.5,11,5.4,2,2.9,1,92.4,
+DaviMi01,Mike Davis,RB,2021,28,ATL,NFL,RB,17,8,138,503,21,272,2.0,231,1.7,9,15.3,58,44,259,12,-47,-1.1,306,7.0,-0.9,10,4.4,2,3.4,0,89.7,
+DaviMi01,Mike Davis,RB,2022,29,BAL,NFL,RB,8,0,8,18,1,13,1.6,5,0.6,1,8.0,2,2,4,0,-7,-3.5,11,5.5,-3.5,0,,0,0.0,0,79.2,

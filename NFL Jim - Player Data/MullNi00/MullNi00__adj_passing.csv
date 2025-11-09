@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MullNi00,Nick Mullens,QB,2018,23,SFO,NFL,QB,8,8,122,121,108,108,103,103,78,106,101,
+MullNi00,Nick Mullens,QB,,,,,,,,,,,,,,,,,
+MullNi00,Nick Mullens,QB,2020,25,SFO,NFL,QB,10,8,106,107,93,94,101,91,72,106,90,
+MullNi00,Nick Mullens,QB,,,,,,,,,,,,,,,,,
+MullNi00,Nick Mullens,QB,2023,28,MIN,NFL,QB,5,3,139,128,108,104,116,108,30,95,99,

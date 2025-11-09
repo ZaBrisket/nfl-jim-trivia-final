@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GaffJa00,Jabar Gaffney,WR,2002,22,HOU,NFL,WR,16,14,81,41,483,11.8,1,27,42.0,27,2.6,30.2,50.6,6.0,0,0,0,0,,,,0.0,0.0,41,11.8,483,1,1,3,
+GaffJa00,Jabar Gaffney,WR,2003,23,HOU,NFL,WR,16,11,57,34,402,11.8,2,20,47.4,33,2.1,25.1,59.6,7.1,1,13,0,1,100.0,13,13.0,0.8,0.1,35,11.9,415,2,0,4,
+GaffJa00,Jabar Gaffney,WR,2004,24,HOU,NFL,WR,16,12,68,41,632,15.4,2,34,57.4,69,2.6,39.5,60.3,9.3,4,30,0,1,100.0,10,7.5,1.9,0.3,45,14.7,662,2,1,6,
+GaffJa00,Jabar Gaffney,WR,2005,25,HOU,NFL,WR,16,13,90,55,492,8.9,2,31,50.0,29,3.4,30.8,61.1,5.5,4,13,0,1,50.0,10,3.3,0.8,0.3,59,8.6,505,2,0,5,
+GaffJa00,Jabar Gaffney,WR,2006,26,NWE,NFL,WR,11,6,20,11,142,12.9,1,9,45.0,33,1.0,12.9,55.0,7.1,0,0,0,0,,,,0.0,0.0,11,12.9,142,1,0,2,
+GaffJa00,Jabar Gaffney,WR,2007,27,NWE,NFL,WR,16,7,50,36,449,12.5,5,21,66.0,56,2.3,28.1,72.0,9.0,0,0,0,0,,,,0.0,0.0,36,12.5,449,5,0,6,
+GaffJa00,Jabar Gaffney,WR,2008,28,NWE,NFL,WR,16,7,65,38,468,12.3,2,26,52.3,37,2.4,29.3,58.5,7.2,0,0,0,0,,,,0.0,0.0,38,12.3,468,2,0,5,
+GaffJa00,Jabar Gaffney,WR,2009,29,DEN,NFL,WR,16,7,87,54,732,13.6,2,33,43.7,49,3.4,45.8,62.1,8.4,0,0,0,0,,,,0.0,0.0,54,13.6,732,2,0,6,
+GaffJa00,Jabar Gaffney,WR,2010,30,DEN,NFL,WR,16,11,112,65,875,13.5,2,41,50.0,50,4.1,54.7,58.0,7.8,0,0,0,0,,,,0.0,0.0,65,13.5,875,2,1,7,
+GaffJa00,Jabar Gaffney,WR,2011,31,WAS,NFL,WR,16,15,114,68,947,13.9,5,50,51.8,45,4.3,59.2,59.6,8.3,0,0,0,0,,,,0.0,0.0,68,13.9,947,5,1,7,
+GaffJa00,Jabar Gaffney,WR,2012,32,MIA,NFL,WR,3,0,10,4,68,17.0,0,3,40.0,30,1.3,22.7,40.0,6.8,0,0,0,0,,,,0.0,0.0,4,17.0,68,0,0,1,

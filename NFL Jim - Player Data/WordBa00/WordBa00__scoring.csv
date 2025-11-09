@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WordBa00,Barry Word,RB,1987,24,NOR,NFL,RB,12,1,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+WordBa00,Barry Word,RB,,,,,,,,,,,,,,,,,,,,,,,
+WordBa00,Barry Word,RB,1990,27,KAN,NFL,RB,16,3,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+WordBa00,Barry Word,RB,1991,28,KAN,NFL,RB,16,3,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+WordBa00,Barry Word,RB,1992,29,KAN,NFL,RB,12,11,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.0,
+WordBa00,Barry Word,RB,1993,30,MIN,NFL,RB,13,8,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,

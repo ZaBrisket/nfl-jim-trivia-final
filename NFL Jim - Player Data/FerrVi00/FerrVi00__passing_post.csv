@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+FerrVi00,Vince Ferragamo,QB,1978,24,RAM,NFL,QB,1,0,,7,16,43.8,130,0,0.0,2,12.5,5,29.4,65,8.1,2.50,18.6,130.0,32.8,1,9,5.88,7.12,1.82,0,0,
+FerrVi00,Vince Ferragamo,QB,1979,25,RAM,NFL,QB,3,3,2-1-0,36,69,52.2,585,3,4.3,3,4.3,23,34.7,50,8.5,7.39,16.3,195.0,77.3,6,60,8.00,7.00,6.00,1,1,
+FerrVi00,Vince Ferragamo,QB,1980,26,RAM,NFL,QB,1,1,0-1-0,14,30,46.7,175,1,3.3,3,10.0,7,38.7,32,5.8,2.00,12.5,175.0,36.8,1,7,3.23,5.42,1.71,0,0,
+FerrVi00,Vince Ferragamo,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FerrVi00,Vince Ferragamo,QB,1983,29,RAM,NFL,QB,2,2,1-1-0,35,73,47.9,337,4,5.5,3,4.1,20,37.2,32,4.6,3.86,9.6,168.5,62.4,5,36,6.41,3.86,3.15,0,0,

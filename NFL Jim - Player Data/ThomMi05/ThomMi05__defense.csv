@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+ThomMi05,Michael Thomas,WR,2016,23,NOR,NFL,WR,15,12,0,0,0,0,0,0,2,2,10,0,0.0,0,0,0,0,0,0,
+ThomMi05,Michael Thomas,WR,2017,24,NOR,NFL,WR,16,14,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,PB
+ThomMi05,Michael Thomas,WR,2018,25,NOR,NFL,WR,16,16,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-1"
+ThomMi05,Michael Thomas,WR,2019,26,NOR,NFL,WR,16,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP OPoY-1"

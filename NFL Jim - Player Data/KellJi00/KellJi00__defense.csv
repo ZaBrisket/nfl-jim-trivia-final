@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+KellJi00,Jim Kelly,QB,1986,26,BUF,NFL,QB,16,16,0,0,0,0,0,7,2,0,0,0.0,0,0,0,0,
+KellJi00,Jim Kelly,QB,1987,27,BUF,NFL,QB,12,12,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,PB
+KellJi00,Jim Kelly,QB,1988,28,BUF,NFL,QB,16,16,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,PB
+KellJi00,Jim Kelly,QB,1989,29,BUF,NFL,QB,13,13,0,0,0,0,0,6,3,-6,0,0.0,0,0,0,0,
+KellJi00,Jim Kelly,QB,1990,30,BUF,NFL,QB,14,14,0,0,0,0,0,4,2,-8,0,0.0,0,0,0,0,"PB,AP MVP-5,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1991,31,BUF,NFL,QB,15,15,0,0,0,0,0,6,2,-4,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-2"
+KellJi00,Jim Kelly,QB,1992,32,BUF,NFL,QB,16,16,0,0,0,0,0,8,0,-18,0,0.0,0,0,0,0,"PB,AP-2,AP OPoY-6"
+KellJi00,Jim Kelly,QB,1993,33,BUF,NFL,QB,16,16,0,0,0,0,0,7,3,-17,0,0.0,0,0,0,0,
+KellJi00,Jim Kelly,QB,1994,34,BUF,NFL,QB,14,14,0,0,0,0,0,11,2,-19,0,0.0,0,0,0,0,
+KellJi00,Jim Kelly,QB,1995,35,BUF,NFL,QB,15,15,0,0,0,0,0,7,2,0,0,0.0,0,0,0,0,
+KellJi00,Jim Kelly,QB,1996,36,BUF,NFL,QB,13,13,0,0,0,0,0,9,0,0,0,0.0,0,0,0,0,

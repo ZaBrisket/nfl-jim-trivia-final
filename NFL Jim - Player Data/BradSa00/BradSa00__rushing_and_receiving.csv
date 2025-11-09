@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BradSa00,Sam Bradford,QB,2010,23,STL,NFL,QB,16,16,27,63,1,6,29.6,17,2.3,3.9,1.7,0,0,0,,0,0,,,0.0,0.0,,,27,2.3,63,1,7,AP ORoY-1
+BradSa00,Sam Bradford,QB,2011,24,STL,NFL,QB,10,10,18,26,0,3,33.3,17,1.4,2.6,1.8,0,0,0,,0,0,,,0.0,0.0,,,18,1.4,26,0,10,
+BradSa00,Sam Bradford,QB,2012,25,STL,NFL,QB,16,16,36,124,1,8,33.3,21,3.4,7.8,2.3,0,0,0,,0,0,,,0.0,0.0,,,36,3.4,124,1,7,
+BradSa00,Sam Bradford,QB,2013,26,STL,NFL,QB,7,7,15,31,0,2,20.0,23,2.1,4.4,2.1,0,0,0,,0,0,,,0.0,0.0,,,15,2.1,31,0,3,
+BradSa00,Sam Bradford,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradSa00,Sam Bradford,QB,2015,28,PHI,NFL,QB,14,14,26,39,0,2,23.1,14,1.5,2.8,1.9,0,0,0,,0,0,,,0.0,0.0,,,26,1.5,39,0,10,
+BradSa00,Sam Bradford,QB,2016,29,MIN,NFL,QB,15,15,20,53,0,3,25.0,24,2.7,3.5,1.3,1,1,5,5.0,0,0,100.0,5,0.1,0.3,100.0,5.0,21,2.8,58,0,10,
+BradSa00,Sam Bradford,QB,2017,30,MIN,NFL,QB,2,2,2,-3,0,0,0.0,-1,-1.5,-1.5,1.0,0,0,0,,0,0,,,0.0,0.0,,,2,-1.5,-3,0,0,
+BradSa00,Sam Bradford,QB,2018,31,ARI,NFL,QB,3,3,2,7,0,1,50.0,8,3.5,2.3,0.7,0,0,0,,0,0,,,0.0,0.0,,,2,3.5,7,0,3,

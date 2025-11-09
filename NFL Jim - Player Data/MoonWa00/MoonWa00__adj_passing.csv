@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MoonWa00,Warren Moon,QB,1984,28,HOU,NFL,QB,16,16,106,101,106,103,105,83,114,93,102,
+MoonWa00,Warren Moon,QB,1985,29,HOU,NFL,QB,14,14,103,94,96,91,91,98,87,83,92,
+MoonWa00,Warren Moon,QB,1986,30,HOU,NFL,QB,15,15,103,102,90,90,90,83,82,100,84,
+MoonWa00,Warren Moon,QB,1987,31,HOU,NFL,QB,12,12,114,115,107,108,84,117,87,106,100,
+MoonWa00,Warren Moon,QB,1988,32,HOU,NFL,QB,11,11,119,125,123,128,98,118,116,120,117,"PB,AP MVP-5"
+MoonWa00,Warren Moon,QB,1989,33,HOU,NFL,QB,16,16,117,114,117,116,117,111,110,100,118,PB
+MoonWa00,Warren Moon,QB,1990,34,HOU,NFL,QB,15,15,123,122,128,127,121,119,120,108,129,"PB,AP-2,AP MVP-3,AP OPoY-1"
+MoonWa00,Warren Moon,QB,1991,35,HOU,NFL,QB,16,16,105,114,105,110,117,96,106,124,107,PB
+MoonWa00,Warren Moon,QB,1992,36,HOU,NFL,QB,11,10,109,114,111,114,123,118,101,116,118,PB
+MoonWa00,Warren Moon,QB,1993,37,HOU,NFL,QB,15,14,99,101,96,97,101,104,90,104,98,"PB,AP MVP-6"
+MoonWa00,Warren Moon,QB,1994,38,MIN,NFL,QB,15,15,107,109,102,104,111,90,99,111,102,PB
+MoonWa00,Warren Moon,QB,1995,39,MIN,NFL,QB,16,16,106,105,115,113,114,120,115,102,119,PB
+MoonWa00,Warren Moon,QB,1996,40,MIN,NFL,QB,8,8,95,94,90,90,88,86,92,97,87,
+MoonWa00,Warren Moon,QB,1997,41,SEA,NFL,QB,15,14,104,108,106,108,109,108,103,110,108,PB
+MoonWa00,Warren Moon,QB,1998,42,SEA,NFL,QB,10,10,92,91,96,95,98,102,102,96,99,

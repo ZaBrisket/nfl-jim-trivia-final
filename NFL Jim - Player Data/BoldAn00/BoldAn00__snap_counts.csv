@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BoldAn00,Anquan Boldin,WR,2012,32,BAL,WR,81,15,15,877,87%,0,0%,1,0%
+BoldAn00,Anquan Boldin,WR,2013,33,SFO,WR,81,16,16,804,81%,0,0%,4,1%
+BoldAn00,Anquan Boldin,WR,2014,34,SFO,WR,81,16,16,953,90%,0,0%,4,1%
+BoldAn00,Anquan Boldin,WR,2015,35,SFO,WR,81,14,13,757,86%,0,0%,0,0%
+BoldAn00,Anquan Boldin,WR,2016,36,DET,WR,80,16,16,830,80%,0,0%,0,0%

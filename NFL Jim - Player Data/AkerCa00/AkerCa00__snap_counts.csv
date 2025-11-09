@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AkerCa00,Cam Akers,RB,2020,21,LAR,RB,23,13,5,297,32%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,2021,22,LAR,RB,23,1,0,13,20%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,2022,23,LAR,RB,23,15,9,428,48%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,2023,24,2TM,RB,,7,1,139,,0,,0,
+AkerCa00,Cam Akers,RB,,,LAR,RB,3,1,1,28,35%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,,,,,,,,111,28%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,2024,25,2TM,,,17,2,282,,0,,42,
+AkerCa00,Cam Akers,RB,,,HOU,RB,22,5,2,96,28%,0,0%,0,0%
+AkerCa00,Cam Akers,RB,,,MIN,RB,,12,0,186,23%,0,0%,42,13%
+AkerCa00,Cam Akers,RB,2025,26,MIN,RB,31,3,0,8,4%,0,0%,7,8%

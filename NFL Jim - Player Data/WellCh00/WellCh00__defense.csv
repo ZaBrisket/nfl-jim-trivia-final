@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WellCh00,Beanie Wells,RB,2009,21,ARI,NFL,RB,16,0,0,0,0,0,0,0,4,1,-4,0,0.0,0,0,0,0,
+WellCh00,Beanie Wells,RB,2010,22,ARI,NFL,RB,13,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+WellCh00,Beanie Wells,RB,2011,23,ARI,NFL,RB,14,14,0,0,0,0,0,0,4,1,0,0,0.0,3,3,0,0,
+WellCh00,Beanie Wells,RB,2012,24,ARI,NFL,RB,8,7,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

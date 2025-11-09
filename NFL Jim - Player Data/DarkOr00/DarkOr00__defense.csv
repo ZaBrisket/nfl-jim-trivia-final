@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+DarkOr00,Orleans Darkwa,RB,2014,22,2TM,NFL,RB,11,0,0,0,0,0,0,1,0,0,0,0,0.0,7,4,3,0,0,0,
+DarkOr00,Orleans Darkwa,RB,2014,22,NYG,NFL,RB,7,0,0,0,0,0,0,1,0,0,0,0,0.0,7,4,3,0,0,0,
+DarkOr00,Orleans Darkwa,RB,2015,23,NYG,NFL,RB,16,0,0,0,0,0,0,0,0,1,0,0,0.0,9,5,4,0,2,0,
+DarkOr00,Orleans Darkwa,RB,2016,24,NYG,NFL,RB,10,2,0,0,0,0,0,0,0,1,0,0,0.0,3,2,1,0,0,0,
+DarkOr00,Orleans Darkwa,RB,2017,25,NYG,NFL,RB,15,11,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,

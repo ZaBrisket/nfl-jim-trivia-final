@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+ShipMa00,Marcel Shipp,RB,2001,23,ARI,NFL,RB,11,0,0,0,0,0,0,0,0,0,0,0,0.0,9,7,2,0,,0,
+ShipMa00,Marcel Shipp,RB,2002,24,ARI,NFL,RB,15,6,0,0,0,0,0,0,4,1,0,0,0.0,5,3,2,0,,0,
+ShipMa00,Marcel Shipp,RB,2003,25,ARI,NFL,RB,16,11,0,0,0,0,0,0,3,1,0,0,0.0,5,5,0,0,,0,
+ShipMa00,Marcel Shipp,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+ShipMa00,Marcel Shipp,RB,2005,27,ARI,NFL,RB,15,11,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,,0,
+ShipMa00,Marcel Shipp,RB,2006,28,ARI,NFL,RB,15,0,0,0,0,0,0,0,0,1,0,0,0.0,8,8,0,0,0,0,
+ShipMa00,Marcel Shipp,RB,2007,29,ARI,NFL,RB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,8,8,0,0,0,0,

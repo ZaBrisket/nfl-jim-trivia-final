@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RypiMa00,Mark Rypien,QB,1988,26,WAS,NFL,QB,9,6,9,31,1,1,33.3,19,3.4,3.4,1.0,0,0,0,0,0,,0.0,0.0,,,9,3.4,31,1,6,
+RypiMa00,Mark Rypien,QB,1989,27,WAS,NFL,QB,14,14,26,56,1,5,34.6,15,2.2,4.0,1.9,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,26,2.2,56,1,14,PB
+RypiMa00,Mark Rypien,QB,1990,28,WAS,NFL,QB,10,10,15,4,0,3,26.7,8,0.3,0.4,1.5,0,0,0,0,0,,0.0,0.0,,,15,0.3,4,0,2,
+RypiMa00,Mark Rypien,QB,1991,29,WAS,NFL,QB,16,16,15,6,1,2,13.3,11,0.4,0.4,0.9,0,0,0,0,0,,0.0,0.0,,,15,0.4,6,1,9,"PB,AP-2,AP MVP-4,AP OPoY-4"
+RypiMa00,Mark Rypien,QB,1992,30,WAS,NFL,QB,16,16,36,50,2,11,38.9,11,1.4,3.1,2.3,0,0,0,0,0,,0.0,0.0,,,36,1.4,50,2,4,
+RypiMa00,Mark Rypien,QB,1993,31,WAS,NFL,QB,12,10,9,4,3,4,44.4,5,0.4,0.3,0.8,0,0,0,0,0,,0.0,0.0,,,9,0.4,4,3,7,
+RypiMa00,Mark Rypien,QB,1994,32,CLE,NFL,QB,6,3,7,4,0,3,42.9,2,0.6,0.7,1.2,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7,0.6,4,0,2,
+RypiMa00,Mark Rypien,QB,1995,33,STL,NFL,QB,11,3,9,10,0,3,44.4,5,1.1,0.9,0.8,0,0,0,0,0,,0.0,0.0,,,9,1.1,10,0,1,
+RypiMa00,Mark Rypien,QB,1996,34,PHI,NFL,QB,1,0,0,0,0,0,,,,0.0,0.0,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,,0,0,0,
+RypiMa00,Mark Rypien,QB,1997,35,STL,NFL,QB,5,0,1,1,0,0,0.0,1,1.0,0.2,0.2,0,0,0,0,0,,0.0,0.0,,,1,1.0,1,0,0,
+RypiMa00,Mark Rypien,QB,1998,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RypiMa00,Mark Rypien,QB,1999,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RypiMa00,Mark Rypien,QB,2000,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

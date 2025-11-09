@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClarJe00,Jessie Clark,RB,1983,23,GNB,NFL,RB,16,0,71,328,0,16,52.1,42,4.6,20.5,4.4,30,18,279,15.5,1,8,36.7,75,1.1,17.4,60.0,9.3,89,6.8,607,1,2,5,
+ClarJe00,Jessie Clark,RB,1984,24,GNB,NFL,FB,11,10,87,375,4,18,50.6,43,4.3,34.1,7.9,42,29,234,8.1,2,14,50.0,20,2.6,21.3,69.0,5.6,116,5.3,609,6,2,5,
+ClarJe00,Jessie Clark,RB,1985,25,GNB,NFL,FB,16,14,147,633,5,29,46.9,80,4.3,39.6,9.2,46,24,252,10.5,2,9,37.0,55,1.5,15.8,52.2,5.5,171,5.2,885,7,4,6,
+ClarJe00,Jessie Clark,RB,1986,26,GNB,NFL,RB,5,1,18,41,0,2,33.3,9,2.3,8.2,3.6,12,6,41,6.8,0,3,41.7,12,1.2,8.2,50.0,3.4,24,3.4,82,0,1,1,
+ClarJe00,Jessie Clark,RB,1987,27,GNB,NFL,FB,12,10,56,211,0,10,44.6,57,3.8,17.6,4.7,29,22,119,5.4,1,7,37.9,19,1.8,9.9,75.9,4.1,78,4.2,330,1,0,2,
+ClarJe00,Jessie Clark,RB,1988,28,2TM,NFL,RB,9,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1988,28,DET,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1988,28,PHO,NFL,RB,4,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1989,29,2TM,NFL,RB,14,0,20,99,0,8,60.0,14,5.0,7.1,1.4,4,2,14,7.0,0,1,25.0,12,0.1,1.0,50.0,3.5,22,5.1,113,0,2,0,
+ClarJe00,Jessie Clark,RB,1989,29,PHO,NFL,RB,11,0,10,42,0,3,70.0,9,4.2,3.8,0.9,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,10,4.2,42,0,1,0,
+ClarJe00,Jessie Clark,RB,1989,29,MIN,NFL,RB,3,0,10,57,0,5,50.0,14,5.7,19.0,3.3,3,2,14,7.0,0,1,33.3,12,0.7,4.7,66.7,4.7,12,5.9,71,0,1,0,
+ClarJe00,Jessie Clark,RB,1990,30,MIN,NFL,RB,5,3,16,49,0,2,50.0,11,3.1,9.8,3.2,1,1,4,4.0,0,0,100.0,4,0.2,0.8,100.0,4.0,17,3.1,53,0,0,0,

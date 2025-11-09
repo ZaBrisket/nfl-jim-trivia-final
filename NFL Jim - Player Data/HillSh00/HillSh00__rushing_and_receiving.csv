@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HillSh00,Shaun Hill,QB,2005,25,MIN,NFL,QB,1,0,2,-2,0,0,0.0,-1,-1.0,-2.0,2.0,0,0,0,,0,0,,0.0,0.0,,,2,-1.0,-2,0,0,
+HillSh00,Shaun Hill,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HillSh00,Shaun Hill,QB,2007,27,SFO,NFL,QB,3,2,12,14,1,2,16.7,12,1.2,4.7,4.0,0,0,0,,0,0,,0.0,0.0,,,12,1.2,14,1,3,
+HillSh00,Shaun Hill,QB,2008,28,SFO,NFL,QB,9,8,24,115,2,11,50.0,24,4.8,12.8,2.7,0,0,0,,0,0,,0.0,0.0,,,24,4.8,115,2,8,
+HillSh00,Shaun Hill,QB,2009,29,SFO,NFL,QB,6,6,8,70,0,4,50.0,22,8.8,11.7,1.3,0,0,0,,0,0,,0.0,0.0,,,8,8.8,70,0,3,
+HillSh00,Shaun Hill,QB,2010,30,DET,NFL,QB,11,10,22,123,0,10,50.0,40,5.6,11.2,2.0,0,0,0,,0,0,,0.0,0.0,,,22,5.6,123,0,3,
+HillSh00,Shaun Hill,QB,2011,31,DET,NFL,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,,0,0,,0.0,0.0,,,1,-1.0,-1,0,0,
+HillSh00,Shaun Hill,QB,2012,32,DET,NFL,QB,1,0,1,-1,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,,0,0,,0.0,0.0,,,1,-1.0,-1,0,0,
+HillSh00,Shaun Hill,QB,2013,33,DET,NFL,QB,1,0,2,-2,0,0,0.0,-1,-1.0,-2.0,2.0,0,0,0,,0,0,,0.0,0.0,,,2,-1.0,-2,0,0,
+HillSh00,Shaun Hill,QB,2014,34,STL,NFL,QB,9,8,10,10,1,1,20.0,9,1.0,1.1,1.1,1,1,0,0.0,0,0,0.0,0.1,0.0,100.0,0.0,11,0.9,10,1,7,
+HillSh00,Shaun Hill,QB,2015,35,MIN,NFL,QB,3,0,4,-5,0,0,0.0,-1,-1.3,-1.7,1.3,0,0,0,,0,0,,0.0,0.0,,,4,-1.3,-5,0,0,
+HillSh00,Shaun Hill,QB,2016,36,MIN,NFL,QB,3,1,5,5,0,0,0.0,9,1.0,1.7,1.7,0,0,0,,0,0,,0.0,0.0,,,5,1.0,5,0,0,

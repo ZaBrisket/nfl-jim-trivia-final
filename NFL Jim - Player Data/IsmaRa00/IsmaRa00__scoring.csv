@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+IsmaRa00,Rocket Ismail,WR,1993,24,RAI,NFL,WR,13,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+IsmaRa00,Rocket Ismail,WR,1994,25,RAI,NFL,WR,16,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+IsmaRa00,Rocket Ismail,WR,1995,26,OAK,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+IsmaRa00,Rocket Ismail,WR,1996,27,CAR,NFL,WR,13,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+IsmaRa00,Rocket Ismail,WR,1997,28,CAR,NFL,WR,13,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+IsmaRa00,Rocket Ismail,WR,1998,29,CAR,NFL,WR,16,15,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+IsmaRa00,Rocket Ismail,WR,1999,30,DAL,NFL,WR,16,14,1,6,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+IsmaRa00,Rocket Ismail,WR,2000,31,DAL,NFL,WR,9,9,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.9,
+IsmaRa00,Rocket Ismail,WR,2001,32,DAL,NFL,WR,14,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,

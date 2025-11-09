@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HumpAd00,Adam Humphries,WR,2015,22,TAM,NFL,WR,13,0,40,27,260,9.6,1,18,50.0,27,2.1,20.0,67.5,6.5,0,0,0,0,,,,0.0,0.0,27,9.6,260,1,0,2,
+HumpAd00,Adam Humphries,WR,2016,23,TAM,NFL,WR,15,4,83,55,622,11.3,2,27,50.6,42,3.7,41.5,66.3,7.5,5,18,0,0,60.0,8,3.6,1.2,0.3,60,10.7,640,2,3,5,
+HumpAd00,Adam Humphries,WR,2017,24,TAM,NFL,WR,16,3,83,61,631,10.3,1,36,57.8,43,3.8,39.4,73.5,7.6,1,6,0,1,100.0,6,6.0,0.4,0.1,62,10.3,637,1,1,5,
+HumpAd00,Adam Humphries,WR,2018,25,TAM,NFL,WR,16,10,105,76,816,10.7,5,48,57.1,51,4.8,51.0,72.4,7.8,2,11,0,0,100.0,7,5.5,0.7,0.1,78,10.6,827,5,2,6,
+HumpAd00,Adam Humphries,WR,2019,26,TEN,NFL,WR,12,3,47,37,374,10.1,2,20,59.6,30,3.1,31.2,78.7,8.0,1,1,0,0,0.0,1,1.0,0.1,0.1,38,9.9,375,2,1,3,
+HumpAd00,Adam Humphries,WR,2020,27,TEN,NFL,WR,7,1,35,23,228,9.9,2,11,54.3,23,3.3,32.6,65.7,6.5,0,0,0,0,,,,0.0,0.0,23,9.9,228,2,0,2,
+HumpAd00,Adam Humphries,WR,2021,28,WAS,NFL,WR,17,11,62,41,383,9.3,0,23,43.5,27,2.4,22.5,66.1,6.2,0,0,0,0,,,,0.0,0.0,41,9.3,383,0,0,3,

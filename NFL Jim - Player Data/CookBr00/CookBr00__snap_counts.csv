@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CookBr00,Brandin Cooks,WR,2014,21,NOR,WR,10,10,7,533,72%,0,0%,37,14%
+CookBr00,Brandin Cooks,WR,2015,22,NOR,WR,10,16,12,958,83%,0,0%,4,1%
+CookBr00,Brandin Cooks,WR,2016,23,NOR,WR,10,16,12,883,77%,0,0%,4,1%
+CookBr00,Brandin Cooks,WR,2017,24,NWE,WR,14,16,15,1056,93%,0,0%,2,0%
+CookBr00,Brandin Cooks,WR,2018,25,LAR,WR,12,16,16,989,90%,0,0%,3,1%
+CookBr00,Brandin Cooks,WR,2019,26,LAR,WR,12,14,14,701,72%,0,0%,1,0%
+CookBr00,Brandin Cooks,WR,2020,27,HOU,WR,13,15,15,801,88%,0,0%,0,0%
+CookBr00,Brandin Cooks,WR,2021,28,HOU,WR,13,16,16,831,83%,0,0%,0,0%
+CookBr00,Brandin Cooks,WR,2022,29,HOU,WR,13,13,13,658,81%,0,0%,0,0%
+CookBr00,Brandin Cooks,WR,2023,30,DAL,WR,3,16,15,809,74%,0,0%,1,0%
+CookBr00,Brandin Cooks,WR,2024,31,DAL,WR,3,10,9,471,70%,0,0%,0,0%
+CookBr00,Brandin Cooks,WR,2025,32,NOR,WR,10,9,2,388,67%,0,0%,0,0%

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WheaMa00,Markus Wheaton,WR,2013,22,PIT,NFL,WR,12,1,0,0,0,0,2,37,0,25,18.5,101,
+WheaMa00,Markus Wheaton,WR,2014,23,PIT,NFL,WR,16,11,0,0,0,0,20,494,0,41,24.7,1157,
+WheaMa00,Markus Wheaton,WR,2015,24,PIT,NFL,WR,16,8,0,0,0,0,5,105,0,28,21.0,854,

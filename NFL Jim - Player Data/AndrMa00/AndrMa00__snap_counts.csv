@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AndrMa00,Mark Andrews,TE,2018,23,BAL,TE,89,16,3,414,35%,0,0%,81,18%
+AndrMa00,Mark Andrews,TE,2019*,24,BAL,TE,89,15,4,456,44%,0,0%,78,19%
+AndrMa00,Mark Andrews,TE,2020,25,BAL,TE,89,14,2,597,65%,0,0%,6,2%
+AndrMa00,Mark Andrews,TE,2021*+,26,BAL,TE,89,17,9,936,75%,0,0%,0,0%
+AndrMa00,Mark Andrews,TE,2022*,27,BAL,TE,89,15,15,787,83%,0,0%,2,1%
+AndrMa00,Mark Andrews,TE,2023,28,BAL,TE,89,10,9,467,70%,0,0%,4,1%
+AndrMa00,Mark Andrews,TE,2024,29,BAL,TE,89,17,13,682,61%,0,0%,6,1%
+AndrMa00,Mark Andrews,TE,2025,30,BAL,TE,89,8,6,311,68%,0,0%,0,0%

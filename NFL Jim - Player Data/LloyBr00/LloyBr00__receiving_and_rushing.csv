@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+LloyBr00,Brandon Lloyd,WR,2003,22,SFO,NFL,WR,16,1,30,14,212,15.1,2,9,33.3,44,0.9,13.3,46.7,7.1,0,0,0,0,,,,0.0,0.0,14,15.1,212,2,0,2,
+LloyBr00,Brandon Lloyd,WR,2004,23,SFO,NFL,WR,13,13,89,43,565,13.1,6,26,42.7,52,3.3,43.5,48.3,6.3,0,0,0,0,,,,0.0,0.0,43,13.1,565,6,0,4,
+LloyBr00,Brandon Lloyd,WR,2005,24,SFO,NFL,WR,16,15,109,48,733,15.3,5,34,39.4,89,3.0,45.8,44.0,6.7,0,0,0,0,,,,0.0,0.0,48,15.3,733,5,1,6,
+LloyBr00,Brandon Lloyd,WR,2006,25,WAS,NFL,WR,15,12,57,23,365,15.9,0,16,36.8,52,1.5,24.3,40.4,6.4,0,0,0,0,,,,0.0,0.0,23,15.9,365,0,1,3,
+LloyBr00,Brandon Lloyd,WR,2007,26,WAS,NFL,WR,8,1,11,2,14,7.0,0,0,0.0,9,0.3,1.8,18.2,1.3,0,0,0,0,,,,0.0,0.0,2,7.0,14,0,0,0,
+LloyBr00,Brandon Lloyd,WR,2008,27,CHI,NFL,WR,11,5,50,26,364,14.0,2,17,50.0,32,2.4,33.1,52.0,7.3,0,0,0,0,,,,0.0,0.0,26,14.0,364,2,0,3,
+LloyBr00,Brandon Lloyd,WR,2009,28,DEN,NFL,WR,2,1,18,8,117,14.6,0,4,38.9,44,4.0,58.5,44.4,6.5,0,0,0,0,,,,0.0,0.0,8,14.6,117,0,0,1,
+LloyBr00,Brandon Lloyd,WR,2010,29,DEN,NFL,WR,16,11,153,77,1448,18.8,11,72,49.7,71,4.8,90.5,50.3,9.5,1,-18,0,0,0.0,-18,-18.0,-1.1,0.1,78,18.3,1430,11,0,12,"PB,AP-2"
+LloyBr00,Brandon Lloyd,WR,2011,30,2TM,NFL,WR,15,14,148,70,966,13.8,5,48,41.9,44,4.7,64.4,47.3,6.5,0,0,0,0,,,,0.0,0.0,70,13.8,966,5,1,5,
+LloyBr00,Brandon Lloyd,WR,2011,30,DEN,NFL,WR,4,4,31,19,283,14.9,0,15,48.4,44,4.8,70.8,61.3,9.1,0,0,0,0,,,,0.0,0.0,19,14.9,283,0,1,2,
+LloyBr00,Brandon Lloyd,WR,2011,30,STL,NFL,WR,11,10,117,51,683,13.4,5,33,40.2,37,4.6,62.1,43.6,5.8,0,0,0,0,,,,0.0,0.0,51,13.4,683,5,0,3,
+LloyBr00,Brandon Lloyd,WR,2012,31,NWE,NFL,WR,16,15,131,74,911,12.3,4,50,51.1,53,4.6,56.9,56.5,7.0,0,0,0,0,,,,0.0,0.0,74,12.3,911,4,0,10,
+LloyBr00,Brandon Lloyd,WR,2013,,Did not play - Out of NFL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LloyBr00,Brandon Lloyd,WR,2014,33,SFO,NFL,WR,14,3,35,14,294,21.0,1,11,37.1,80,1.0,21.0,40.0,8.4,0,0,0,0,,,,0.0,0.0,14,21.0,294,1,0,2,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+AustTa00,Tavon Austin,WR,2013,23,STL,NFL,WR,13,3,33,280,1,98,8.5,18,398,0,32,22.1,1247,
+AustTa00,Tavon Austin,WR,2014,24,STL,NFL,WR,15,8,35,391,1,78,11.2,2,19,0,11,9.5,876,
+AustTa00,Tavon Austin,WR,2015,25,STL,NFL,WR,16,15,34,264,1,75,7.8,3,16,0,7,5.3,1187,
+AustTa00,Tavon Austin,WR,2016,26,LAR,NFL,WR,15,15,44,336,0,47,7.6,1,5,0,5,5.0,1009,
+AustTa00,Tavon Austin,WR,2017,27,LAR,NFL,WR,16,9,12,53,0,12,4.4,1,13,0,13,13.0,383,
+AustTa00,Tavon Austin,WR,2018,28,DAL,NFL,WR,7,0,10,58,0,22,5.8,0,0,0,0,,253,
+AustTa00,Tavon Austin,WR,2019,29,DAL,NFL,WR,14,0,17,84,0,15,4.9,0,0,0,0,,308,
+AustTa00,Tavon Austin,WR,2020,30,GNB,NFL,WR,4,0,3,14,0,7,4.7,0,0,0,0,,34,
+AustTa00,Tavon Austin,WR,2021,31,JAX,NFL,WR,13,3,2,3,0,3,1.5,0,0,0,0,,237,

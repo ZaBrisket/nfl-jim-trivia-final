@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MuncCh00,Chuck Muncie,RB,1976,23,NOR,NFL,FB,12,11,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+MuncCh00,Chuck Muncie,RB,1977,24,NOR,NFL,RB,14,11,6,1,0,0,0,0,0,7,0,0,0,0,0,42,3.0,
+MuncCh00,Chuck Muncie,RB,1978,25,NOR,NFL,RB,13,11,7,0,0,0,0,0,0,7,0,0,0,0,0,42,3.2,
+MuncCh00,Chuck Muncie,RB,1979,26,NOR,NFL,RB,16,15,11,0,0,0,0,0,0,11,0,0,0,0,0,66,4.1,PB
+MuncCh00,Chuck Muncie,RB,1980,27,2TM,NFL,RB,15,8,6,0,0,0,0,0,0,6,0,0,0,0,0,36,2.4,
+MuncCh00,Chuck Muncie,RB,1980,27,NOR,NFL,RB,4,3,2,0,0,0,0,0,0,2,0,0,0,0,0,12,3.0,
+MuncCh00,Chuck Muncie,RB,1980,27,SDG,NFL,FB,11,5,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.2,
+MuncCh00,Chuck Muncie,RB,1981,28,SDG,NFL,RB,15,14,19,0,0,0,0,0,0,19,0,0,0,0,0,114,7.6,"PB,AP MVP-6,AP OPoY-6"
+MuncCh00,Chuck Muncie,RB,1982,29,SDG,NFL,RB,9,9,8,1,0,0,0,0,0,9,0,0,0,0,0,54,6.0,PB
+MuncCh00,Chuck Muncie,RB,1983,30,SDG,NFL,RB,15,12,12,1,0,0,0,0,0,13,0,0,0,0,0,78,5.2,

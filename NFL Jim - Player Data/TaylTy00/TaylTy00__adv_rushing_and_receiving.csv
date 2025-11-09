@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+TaylTy00,Tyrod Taylor,QB,2018,29,CLE,NFL,QB,4,3,16,125,6,94,5.9,31,1.9,0,,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2019,30,LAC,NFL,QB,8,0,10,7,1,3,0.3,4,0.4,0,,1,0,0,0,0,0,-4.0,0,0,0.0,0,39.6,
+TaylTy00,Tyrod Taylor,QB,2020,31,LAC,NFL,QB,2,1,6,7,1,6,1.0,1,0.2,0,,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2021,32,HOU,NFL,QB,6,6,19,151,6,86,4.5,65,3.4,4,4.8,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2022,33,NYG,NFL,QB,3,0,5,70,5,64,12.8,6,1.2,0,,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2023,34,NYG,NFL,QB,11,5,38,197,10,153,4.0,44,1.2,1,38.0,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2024,35,NYJ,NFL,QB,2,0,3,13,0,8,2.7,5,1.7,1,3.0,0,0,0,0,0,0,,0,0,,0,,
+TaylTy00,Tyrod Taylor,QB,2025,36,NYJ,NFL,QB,3,1,14,80,4,64,4.6,16,1.1,0,,0,0,0,0,0,0,,0,0,,0,,

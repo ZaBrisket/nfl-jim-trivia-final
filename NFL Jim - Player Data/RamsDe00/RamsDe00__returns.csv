@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RamsDe00,Derrick Ramsey,TE,1978,22,OAK,NFL,TE,16,0,0,0,0,0,7,125,0,29,17.9,125,
+RamsDe00,Derrick Ramsey,TE,,,,,,,,,,,,,,,,,,
+RamsDe00,Derrick Ramsey,TE,1980,24,OAK,NFL,TE,16,0,0,0,0,0,1,10,0,10,10.0,127,

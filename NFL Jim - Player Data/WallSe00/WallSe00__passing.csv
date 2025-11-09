@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+WallSe00,Seneca Wallace,QB,2005,25,SEA,NFL,QB,7,0,,13,25,52.0,173,1,4.0,1,4.0,10,39.3,42,6.9,5.92,13.3,24.7,70.9,,3,20,10.71,5.46,4.57,0,0,1,
+WallSe00,Seneca Wallace,QB,2006,26,SEA,NFL,QB,8,4,2-2-0,82,141,58.2,927,8,5.7,7,5.0,42,40.6,49,6.6,5.48,11.3,115.9,76.2,51.0,14,83,9.03,5.45,4.45,1,1,3,
+WallSe00,Seneca Wallace,QB,2007,27,SEA,NFL,QB,10,0,,19,28,67.9,215,2,7.1,1,3.6,7,45.2,45,7.7,7.50,11.3,21.5,99.6,19.5,3,13,9.68,6.52,6.35,0,0,1,
+WallSe00,Seneca Wallace,QB,2008,28,SEA,NFL,QB,10,8,3-5-0,141,242,58.3,1532,11,4.5,3,1.2,71,41.8,90,6.3,6.68,10.9,153.2,87.0,61.3,14,76,5.47,5.69,6.02,1,1,5,
+WallSe00,Seneca Wallace,QB,2009,29,SEA,NFL,QB,13,2,0-2-0,78,120,65.0,700,3,2.5,2,1.7,36,45.7,39,5.8,5.58,9.0,53.8,81.9,44.7,9,59,6.98,4.97,4.74,0,0,2,
+WallSe00,Seneca Wallace,QB,2010,30,CLE,NFL,QB,8,4,1-3-0,64,101,63.4,694,4,4.0,2,2.0,35,42.1,65,6.9,6.77,10.8,86.8,88.5,48.9,6,33,5.61,6.18,6.08,0,0,2,
+WallSe00,Seneca Wallace,QB,2011,31,CLE,NFL,QB,6,3,0-3-0,55,107,51.4,567,2,1.9,2,1.9,29,35.4,76,5.3,4.83,10.3,94.5,65.4,59.8,6,30,5.31,4.75,4.31,0,0,2,
+WallSe00,Seneca Wallace,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WallSe00,Seneca Wallace,QB,2013,33,GNB,NFL,QB,2,1,0-1-0,16,24,66.7,139,0,0.0,1,4.2,7,42.9,17,5.8,3.92,8.7,69.5,64.4,9.2,4,25,14.29,4.07,2.46,0,0,0,

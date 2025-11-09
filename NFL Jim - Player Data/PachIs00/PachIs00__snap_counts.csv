@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PachIs00,Isiah Pacheco,RB,2022,23,KAN,RB,10,17,11,351,31%,0,0%,124,27%
+PachIs00,Isiah Pacheco,RB,2023,24,KAN,RB,10,14,13,568,60%,0,0%,0,0%
+PachIs00,Isiah Pacheco,RB,2024,25,KAN,RB,10,7,6,218,46%,0,0%,0,0%
+PachIs00,Isiah Pacheco,RB,2025,26,KAN,RB,10,8,8,307,56%,0,0%,0,0%

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CartQu00,Quincy Carter,QB,2001,24,DAL,NFL,QB,8,8,45,150,1,13,35.6,17,3.3,18.8,5.6,0,0,0,0,0,0.0,0.0,45,3.3,150,1,5,
+CartQu00,Quincy Carter,QB,2002,25,DAL,NFL,QB,7,7,27,91,0,6,33.3,16,3.4,13.0,3.9,0,0,0,0,0,0.0,0.0,27,3.4,91,0,5,
+CartQu00,Quincy Carter,QB,2003,26,DAL,NFL,QB,16,16,68,257,2,25,42.6,19,3.8,16.1,4.3,0,0,0,0,0,0.0,0.0,68,3.8,257,2,10,AP CPoY-2
+CartQu00,Quincy Carter,QB,2004,27,NYJ,NFL,QB,7,3,12,20,0,2,25.0,9,1.7,2.9,1.7,0,0,0,0,0,0.0,0.0,12,1.7,20,0,2,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DierSc00,Scott Dierking,RB,1977,22,NYJ,NFL,RB,14,5,79,315,0,,,21,4.0,22.5,5.6,,4,29,7.3,1,,,15,0.3,2.1,,,83,4.1,344,1,1,3,
+DierSc00,Scott Dierking,RB,1978,23,NYJ,NFL,RB,15,13,170,681,4,36,50.6,26,4.0,45.4,11.3,30,19,152,8.0,0,8,43.3,17,1.3,10.1,63.3,5.1,189,4.4,833,4,2,9,
+DierSc00,Scott Dierking,RB,1979,24,NYJ,NFL,RB,16,14,186,767,3,38,54.8,40,4.1,47.9,11.6,17,10,121,12.1,0,5,41.2,27,0.6,7.6,58.8,7.1,196,4.5,888,3,1,6,
+DierSc00,Scott Dierking,RB,1980,25,NYJ,NFL,RB,16,13,156,567,6,43,59.0,15,3.6,35.4,9.8,28,19,138,7.3,1,4,53.6,22,1.2,8.6,67.9,4.9,175,4.0,705,7,3,5,
+DierSc00,Scott Dierking,RB,1981,26,NYJ,NFL,RB,16,4,74,328,1,23,48.6,15,4.4,20.5,4.6,42,26,228,8.8,1,15,52.4,23,1.6,14.3,61.9,5.4,100,5.6,556,2,2,4,
+DierSc00,Scott Dierking,RB,1982,27,NYJ,NFL,RB,9,0,38,130,1,12,44.7,11,3.4,14.4,4.2,14,12,80,6.7,1,7,64.3,13,1.3,8.9,85.7,5.7,50,4.2,210,2,2,3,
+DierSc00,Scott Dierking,RB,1983,28,NYJ,NFL,RB,16,1,28,113,3,13,53.6,31,4.0,7.1,1.8,46,33,275,8.3,0,16,60.9,19,2.1,17.2,71.7,6.0,61,6.4,388,3,0,2,
+DierSc00,Scott Dierking,RB,1984,29,TAM,NFL,RB,8,2,3,14,0,0,33.3,9,4.7,1.8,0.4,4,1,5,5.0,1,1,25.0,5,0.1,0.6,25.0,1.3,4,4.8,19,1,0,0,

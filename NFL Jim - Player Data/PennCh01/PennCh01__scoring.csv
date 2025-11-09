@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PennCh01,Chad Pennington,QB,2002,26,NYJ,NFL,QB,15,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+PennCh01,Chad Pennington,QB,2003,27,NYJ,NFL,QB,10,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.2,
+PennCh01,Chad Pennington,QB,2004,28,NYJ,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2007,31,NYJ,NFL,QB,9,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,
+PennCh01,Chad Pennington,QB,2008,32,MIA,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"AP MVP-2,AP CPoY-1"

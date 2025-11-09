@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TrudJa00,Jack Trudeau,QB,1986,24,IND,NFL,QB,12,11,62,71,69,74,76,75,96,108,72,
+TrudJa00,Jack Trudeau,QB,1987,25,IND,NFL,QB,10,8,99,105,104,107,103,84,119,112,101,
+TrudJa00,Jack Trudeau,QB,,,,,,,,,,,,,,,,,
+TrudJa00,Jack Trudeau,QB,1989,27,IND,NFL,QB,13,12,87,95,93,97,90,101,102,112,95,
+TrudJa00,Jack Trudeau,QB,1990,28,IND,NFL,QB,6,4,110,103,104,100,107,102,92,88,103,
+TrudJa00,Jack Trudeau,QB,,,,,,,,,,,,,,,,,
+TrudJa00,Jack Trudeau,QB,1992,30,IND,NFL,QB,11,5,104,106,93,96,101,83,86,108,90,
+TrudJa00,Jack Trudeau,QB,1993,31,IND,NFL,QB,5,5,87,102,78,89,84,67,86,136,74,
+TrudJa00,Jack Trudeau,QB,1994,32,NYJ,NFL,QB,5,2,73,71,66,66,90,66,80,81,70,

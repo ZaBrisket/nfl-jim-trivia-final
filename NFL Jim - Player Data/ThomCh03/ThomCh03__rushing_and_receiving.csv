@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomCh03,Chris Thompson,RB,2013,23,WAS,NFL,RB,4,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+ThomCh03,Chris Thompson,RB,2014,24,WAS,NFL,RB,2,0,3,12,0,0,66.7,7,4.0,6.0,1.5,7,6,27,4.5,1,2,28.6,9,3.0,13.5,85.7,3.9,9,4.3,39,1,0,0,
+ThomCh03,Chris Thompson,RB,2015,25,WAS,NFL,RB,13,0,35,216,0,8,42.9,42,6.2,16.6,2.7,48,35,240,6.9,2,14,45.8,23,2.7,18.5,72.9,5.0,70,6.5,456,2,2,3,
+ThomCh03,Chris Thompson,RB,2016,26,WAS,NFL,RB,16,0,68,356,3,16,52.9,25,5.2,22.3,4.3,62,49,349,7.1,2,19,46.8,38,3.1,21.8,79.0,5.6,117,6.0,705,5,2,5,
+ThomCh03,Chris Thompson,RB,2017,27,WAS,NFL,RB,10,1,64,294,2,11,40.6,61,4.6,29.4,6.4,54,39,510,13.1,4,22,55.6,74,3.9,51.0,72.2,9.4,103,7.8,804,6,3,6,
+ThomCh03,Chris Thompson,RB,2018,28,WAS,NFL,RB,10,0,43,178,0,9,30.2,16,4.1,17.8,4.3,55,41,268,6.5,1,12,40.0,23,4.1,26.8,74.5,4.9,84,5.3,446,1,1,3,
+ThomCh03,Chris Thompson,RB,2019,29,WAS,NFL,RB,11,0,37,138,0,7,37.8,16,3.7,12.5,3.4,58,42,378,9.0,0,16,37.9,39,3.8,34.4,72.4,6.5,79,6.5,516,0,1,4,
+ThomCh03,Chris Thompson,RB,2020,30,JAX,NFL,RB,8,0,7,20,0,1,42.9,5,2.9,2.5,0.9,23,20,146,7.3,1,5,47.8,15,2.5,18.3,87.0,6.3,27,6.1,166,1,0,1,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitMa00,Maurice Smith,RB,2000,24,ATL,NFL,RB,10,0,19,69,0,5,47.4,16,3.6,6.9,1.9,1,1,5,5.0,0,0,0.0,5,0.1,0.5,100.0,5.0,20,3.7,74,0,0,0,
+SmitMa00,Maurice Smith,RB,2001,25,ATL,NFL,RB,16,12,237,760,5,38,36.3,58,3.2,47.5,14.8,27,19,230,12.1,1,7,48.1,79,1.2,14.4,70.4,8.5,256,3.9,990,6,1,6,
+SmitMa00,Maurice Smith,RB,2002,26,ATL,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

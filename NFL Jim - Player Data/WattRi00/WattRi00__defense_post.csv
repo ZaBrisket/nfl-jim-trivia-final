@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,safety_md,awards
+WattRi00,Ricky Watters,RB,1992,23,SFO,NFL,RB,2,2,0,0,0,0,0,0,1,0,0,0,0.0,0,0,
+WattRi00,Ricky Watters,RB,1993,24,SFO,NFL,RB,2,2,0,0,0,0,0,0,0,1,11,0,0.0,0,0,
+WattRi00,Ricky Watters,RB,1994,25,SFO,NFL,RB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,

@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MarsBr00,Brandon Marshall,WR,2006,22,DEN,NFL,WR,15,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+MarsBr00,Brandon Marshall,WR,2007,23,DEN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+MarsBr00,Brandon Marshall,WR,2008,24,DEN,NFL,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,PB
+MarsBr00,Brandon Marshall,WR,2009,25,DEN,NFL,WR,15,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,4.0,PB
+MarsBr00,Brandon Marshall,WR,2010,26,MIA,NFL,WR,14,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+MarsBr00,Brandon Marshall,WR,2011,27,MIA,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,PB
+MarsBr00,Brandon Marshall,WR,2012,28,CHI,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,"PB,AP-1"
+MarsBr00,Brandon Marshall,WR,2013,29,CHI,NFL,WR,16,16,0,12,0,0,0,0,0,12,2,0,0,0,0,0,76,4.8,PB
+MarsBr00,Brandon Marshall,WR,2014,30,CHI,NFL,WR,13,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.7,
+MarsBr00,Brandon Marshall,WR,2015,31,NYJ,NFL,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,84,5.3,"PB,AP-2"
+MarsBr00,Brandon Marshall,WR,2016,32,NYJ,NFL,WR,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+MarsBr00,Brandon Marshall,WR,,,,,,,,,,,,,,,,,,,,,,,,
+MarsBr00,Brandon Marshall,WR,2018,34,SEA,NFL,WR,7,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,

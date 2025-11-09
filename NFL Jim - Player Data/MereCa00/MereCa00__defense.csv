@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MereCa00,Cameron Meredith,WR,2016,24,CHI,NFL,WR,14,10,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,
+MereCa00,Cameron Meredith,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+MereCa00,Cameron Meredith,WR,2018,26,NOR,NFL,WR,6,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

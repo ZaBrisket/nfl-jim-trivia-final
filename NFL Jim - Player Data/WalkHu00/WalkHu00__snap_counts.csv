@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WalkHu00,Delanie Walker,TE,2012,28,SFO,TE,46,16,4,571,57%,0,0%,128,29%
+WalkHu00,Delanie Walker,TE,2013,29,TEN,TE,82,15,11,763,74%,0,0%,19,4%
+WalkHu00,Delanie Walker,TE,2014,30,TEN,TE,82,15,14,772,83%,0,0%,5,1%
+WalkHu00,Delanie Walker,TE,2015*,31,TEN,TE,82,15,10,686,72%,0,0%,0,0%
+WalkHu00,Delanie Walker,TE,2016*,32,TEN,TE,82,15,9,709,71%,0,0%,3,1%
+WalkHu00,Delanie Walker,TE,2017*,33,TEN,TE,82,16,11,742,73%,0,0%,4,1%
+WalkHu00,Delanie Walker,TE,2018,34,TEN,TE,82,1,1,39,57%,0,0%,0,0%
+WalkHu00,Delanie Walker,TE,2019,35,TEN,TE,82,7,4,193,44%,0,0%,0,0%

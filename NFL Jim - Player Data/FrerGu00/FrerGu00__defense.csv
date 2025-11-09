@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+FrerGu00,Gus Frerotte,QB,1994,23,WAS,NFL,QB,4,4,0,0,0,0,,0,4,2,-4,0,0.0,0,0,0,,,0,
+FrerGu00,Gus Frerotte,QB,1995,24,WAS,NFL,QB,16,11,0,0,0,0,,0,7,4,-16,0,0.0,0,0,0,,,0,
+FrerGu00,Gus Frerotte,QB,1996,25,WAS,NFL,QB,16,16,0,0,0,0,,0,12,1,-12,0,0.0,0,0,0,,,0,PB
+FrerGu00,Gus Frerotte,QB,1997,26,WAS,NFL,QB,13,13,0,0,0,0,,0,8,2,-16,0,0.0,0,0,0,,,0,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,1999,28,DET,NFL,QB,9,6,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,,0,
+FrerGu00,Gus Frerotte,QB,2000,29,DEN,NFL,QB,10,6,0,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,,0,AP CPoY-12
+FrerGu00,Gus Frerotte,QB,2001,30,DEN,NFL,QB,4,1,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,,0,
+FrerGu00,Gus Frerotte,QB,2002,31,CIN,NFL,QB,4,3,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+FrerGu00,Gus Frerotte,QB,2003,32,MIN,NFL,QB,16,2,0,0,0,0,0,0,2,2,-2,0,0.0,,,,,,0,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2005,34,MIA,NFL,QB,16,15,0,0,0,0,0,0,13,4,-36,0,0.0,,,,,,0,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2007,36,STL,NFL,QB,8,3,0,0,0,0,0,0,3,2,-4,0,0.0,0,0,0,0,0,0,
+FrerGu00,Gus Frerotte,QB,2008,37,MIN,NFL,QB,11,11,0,0,0,0,0,0,4,1,-1,0,0.0,0,0,0,0,0,0,

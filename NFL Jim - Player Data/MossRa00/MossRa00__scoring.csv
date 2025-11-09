@@ -1,0 +1,18 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MossRa00,Randy Moss,WR,1998,21,MIN,NFL,WR,16,11,0,17,0,0,0,0,0,17,2,0,0,0,0,0,106,6.6,"PB,AP-1,AP MVP-3,AP OPoY-3,AP ORoY-1"
+MossRa00,Randy Moss,WR,1999,22,MIN,NFL,WR,16,16,0,11,1,0,0,0,0,12,0,0,0,0,0,0,72,4.5,PB
+MossRa00,Randy Moss,WR,2000,23,MIN,NFL,WR,16,16,0,15,0,0,0,0,0,15,1,0,0,0,0,0,92,5.8,"PB,AP-1,AP OPoY-5"
+MossRa00,Randy Moss,WR,2001,24,MIN,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+MossRa00,Randy Moss,WR,2002,25,MIN,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,PB
+MossRa00,Randy Moss,WR,2003,26,MIN,NFL,WR,16,16,0,17,0,0,0,0,0,17,0,0,0,0,0,0,102,6.4,"PB,AP-1"
+MossRa00,Randy Moss,WR,2004,27,MIN,NFL,WR,13,13,0,13,0,0,0,0,0,13,0,0,0,0,0,0,78,6.0,
+MossRa00,Randy Moss,WR,2005,28,OAK,NFL,WR,16,15,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+MossRa00,Randy Moss,WR,2006,29,OAK,NFL,WR,13,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+MossRa00,Randy Moss,WR,2007,30,NWE,NFL,WR,16,16,0,23,0,0,0,0,0,23,0,0,0,0,0,0,138,8.6,"PB,AP-1,AP OPoY-2,AP CPoY-2"
+MossRa00,Randy Moss,WR,2008,31,NWE,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+MossRa00,Randy Moss,WR,2009,32,NWE,NFL,WR,16,16,0,13,0,0,0,0,0,13,1,0,0,0,0,0,80,5.0,
+MossRa00,Randy Moss,WR,2010,33,3TM,NFL,WR,16,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+MossRa00,Randy Moss,WR,2010,33,NWE,NFL,WR,4,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,4.5,
+MossRa00,Randy Moss,WR,2010,33,MIN,NFL,WR,4,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,3.0,
+MossRa00,Randy Moss,WR,2011,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,
+MossRa00,Randy Moss,WR,2012,35,SFO,NFL,WR,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,

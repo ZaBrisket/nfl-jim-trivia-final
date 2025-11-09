@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+DickCu00,Curtis Dickey,RB,1980,24,BAL,NFL,RB,15,5,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+DickCu00,Curtis Dickey,RB,1981,25,BAL,NFL,RB,15,15,0,0,0,0,0,8,0,0,0,0.0,0,0,0,0,
+DickCu00,Curtis Dickey,RB,1982,26,BAL,NFL,RB,8,6,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+DickCu00,Curtis Dickey,RB,1983,27,BAL,NFL,RB,16,16,0,0,0,0,0,9,1,0,0,0.0,0,0,0,0,
+DickCu00,Curtis Dickey,RB,1984,28,IND,NFL,RB,10,9,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,
+DickCu00,Curtis Dickey,RB,,,,,,,,,,,,,,,,,,,,,,
+DickCu00,Curtis Dickey,RB,1986,30,CLE,NFL,RB,14,10,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,

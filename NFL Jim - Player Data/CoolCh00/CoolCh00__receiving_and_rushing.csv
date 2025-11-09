@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CoolCh00,Chris Cooley,TE,2004,22,WAS,NFL,TE,16,9,63,37,314,8.5,6,24,47.6,31,2.3,19.6,58.7,5.0,0,0,0,0,,,,0.0,0.0,37,8.5,314,6,0,2,
+CoolCh00,Chris Cooley,TE,2005,23,WAS,NFL,TE,16,16,103,71,774,10.9,7,44,58.3,32,4.4,48.4,68.9,7.5,0,0,0,0,,,,0.0,0.0,71,10.9,774,7,3,7,
+CoolCh00,Chris Cooley,TE,2006,24,WAS,NFL,TE,16,16,95,57,734,12.9,6,33,49.5,66,3.6,45.9,60.0,7.7,0,0,0,0,,,,0.0,0.0,57,12.9,734,6,0,7,
+CoolCh00,Chris Cooley,TE,2007,25,WAS,NFL,TE,16,16,110,66,786,11.9,8,46,50.0,39,4.1,49.1,60.0,7.1,0,0,0,0,,,,0.0,0.0,66,11.9,786,8,1,7,PB
+CoolCh00,Chris Cooley,TE,2008,26,WAS,NFL,TE,16,16,111,83,849,10.2,1,43,62.2,28,5.2,53.1,74.8,7.6,0,0,0,0,,,,0.0,0.0,83,10.2,849,1,3,7,PB
+CoolCh00,Chris Cooley,TE,2009,27,WAS,NFL,TE,7,7,45,29,332,11.4,2,17,51.1,25,4.1,47.4,64.4,7.4,0,0,0,0,,,,0.0,0.0,29,11.4,332,2,1,3,
+CoolCh00,Chris Cooley,TE,2010,28,WAS,NFL,TE,16,16,126,77,849,11.0,3,40,49.2,35,4.8,53.1,61.1,6.7,0,0,0,0,,,,0.0,0.0,77,11.0,849,3,3,5,
+CoolCh00,Chris Cooley,TE,2011,29,WAS,NFL,TE,5,5,13,8,65,8.1,0,3,53.8,17,1.6,13.0,61.5,5.0,2,3,0,1,50.0,3,1.5,0.6,0.4,10,6.8,68,0,0,0,
+CoolCh00,Chris Cooley,TE,2012,30,WAS,NFL,TE,9,2,3,1,8,8.0,0,1,33.3,8,0.1,0.9,33.3,2.7,0,0,0,0,,,,0.0,0.0,1,8.0,8,0,0,0,

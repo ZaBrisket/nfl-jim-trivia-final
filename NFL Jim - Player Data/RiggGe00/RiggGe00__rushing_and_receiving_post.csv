@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RiggGe00,Gerald Riggs,RB,1982,22,ATL,NFL,RB,1,0,9,38,0,2,44.4,16,4.2,38.0,9.0,2,2,16,8.0,0,0,0.0,16,2.0,16.0,100.0,8.0,11,4.9,54,0,0,
+RiggGe00,Gerald Riggs,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RiggGe00,Gerald Riggs,RB,1990,30,WAS,NFL,RB,2,0,24,63,0,5,41.7,20,2.6,31.5,12.0,1,1,8,8.0,0,0,0.0,8,0.5,4.0,100.0,8.0,25,2.8,71,0,1,
+RiggGe00,Gerald Riggs,RB,1991,31,WAS,NFL,RB,3,0,11,19,6,7,72.7,4,1.7,6.3,3.7,,0,0,,0,0,,,0.0,0.0,,,11,1.7,19,6,0,

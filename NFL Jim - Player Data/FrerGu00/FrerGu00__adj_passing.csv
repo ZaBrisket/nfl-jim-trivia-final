@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FrerGu00,Gus Frerotte,QB,1994,23,WAS,NFL,QB,4,4,84,95,81,88,62,115,71,122,77,
+FrerGu00,Gus Frerotte,QB,1995,24,WAS,NFL,QB,16,11,105,104,101,100,74,92,98,104,89,
+FrerGu00,Gus Frerotte,QB,1996,25,WAS,NFL,QB,16,16,116,122,111,115,100,83,113,114,102,PB
+FrerGu00,Gus Frerotte,QB,1997,26,WAS,NFL,QB,13,13,99,103,101,104,77,102,103,110,96,
+FrerGu00,Gus Frerotte,QB,1998,27,WAS,NFL,QB,3,2,73,56,66,57,58,78,68,35,61,
+FrerGu00,Gus Frerotte,QB,1999,28,DET,NFL,QB,9,6,109,103,108,104,113,91,112,89,107,
+FrerGu00,Gus Frerotte,QB,2000,29,DEN,NFL,QB,10,6,117,120,111,114,105,100,98,113,106,AP CPoY-12
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2002,31,CIN,NFL,QB,4,3,65,56,48,45,73,60,54,72,50,
+FrerGu00,Gus Frerotte,QB,2003,32,MIN,NFL,QB,16,2,170,165,166,162,97,183,101,95,148,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2005,34,MIA,NFL,QB,16,15,86,91,92,95,74,95,109,111,88,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2007,36,STL,NFL,QB,8,3,83,87,64,69,84,102,35,100,67,
+FrerGu00,Gus Frerotte,QB,2008,37,MIN,NFL,QB,11,11,104,98,92,89,94,99,71,80,89,

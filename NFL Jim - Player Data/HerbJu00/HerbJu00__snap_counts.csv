@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HerbJu00,Justin Herbert,QB,2020,22,LAC,QB,10,15,15,1097,100%,0,0%,0,0%
+HerbJu00,Justin Herbert,QB,2021*,23,LAC,QB,10,17,17,1191,100%,0,0%,0,0%
+HerbJu00,Justin Herbert,QB,2022,24,LAC,QB,10,17,17,1162,98%,0,0%,0,0%
+HerbJu00,Justin Herbert,QB,2023,25,LAC,QB,10,13,13,838,96%,0,0%,0,0%
+HerbJu00,Justin Herbert,QB,2024,26,LAC,QB,10,17,17,1045,98%,0,0%,0,0%
+HerbJu00,Justin Herbert,QB,2025,27,LAC,QB,10,9,9,611,99%,0,0%,0,0%

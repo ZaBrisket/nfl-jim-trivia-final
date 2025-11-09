@@ -1,0 +1,21 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoinCh00,Charlie Joiner,WR,1969,22,HOU,AFL,WR,7,0,,7,77,11.0,0,,,16,1.0,11.0,,,0,0,0,,,,,0.0,0.0,7,11.0,77,0,0,1,
+JoinCh00,Charlie Joiner,WR,1970,23,HOU,NFL,WR,9,8,,28,416,14.9,3,,,87,3.1,46.2,,,0,0,0,,,,,0.0,0.0,28,14.9,416,3,0,4,
+JoinCh00,Charlie Joiner,WR,1971,24,HOU,NFL,WR,14,13,,31,681,22.0,7,,,70,2.2,48.6,,,0,0,0,,,,,0.0,0.0,31,22.0,681,7,1,7,
+JoinCh00,Charlie Joiner,WR,1972,25,2TM,NFL,WR,12,10,,24,439,18.3,2,,,82,2.0,36.6,,,3,14,0,,,9,4.7,1.2,0.3,27,16.8,453,2,2,5,
+JoinCh00,Charlie Joiner,WR,1972,25,HOU,NFL,WR,6,6,,16,306,19.1,2,,,82,2.7,51.0,,,2,12,0,,,9,6.0,2.0,0.3,18,17.7,318,2,1,3,
+JoinCh00,Charlie Joiner,WR,1972,25,CIN,NFL,WR,6,4,,8,133,16.6,0,,,25,1.3,22.2,,,1,2,0,,,2,2.0,0.3,0.2,9,15.0,135,0,1,2,
+JoinCh00,Charlie Joiner,WR,1973,26,CIN,NFL,WR,5,4,,13,214,16.5,0,,,26,2.6,42.8,,,0,0,0,,,,,0.0,0.0,13,16.5,214,0,1,3,
+JoinCh00,Charlie Joiner,WR,1974,27,CIN,NFL,WR,14,10,,24,390,16.3,1,,,65,1.7,27.9,,,4,20,0,,,8,5.0,1.4,0.3,28,14.6,410,1,3,5,
+JoinCh00,Charlie Joiner,WR,1975,28,CIN,NFL,WR,14,11,,37,726,19.6,5,,,51,2.6,51.9,,,0,0,0,,,,,0.0,0.0,37,19.6,726,5,1,9,
+JoinCh00,Charlie Joiner,WR,1976,29,SDG,NFL,WR,14,14,,50,1056,21.1,7,,,81,3.6,75.4,,,0,0,0,,,,,0.0,0.0,50,21.1,1056,7,0,12,PB
+JoinCh00,Charlie Joiner,WR,1977,30,SDG,NFL,WR,14,14,,35,542,15.5,6,,,32,2.5,38.7,,,0,0,0,,,,,0.0,0.0,35,15.5,542,6,1,6,
+JoinCh00,Charlie Joiner,WR,1978,31,SDG,NFL,WR,16,15,84,33,607,18.4,1,27,38.1,46,2.1,37.9,39.3,7.2,0,0,0,0,,,,0.0,0.0,33,18.4,607,1,2,7,
+JoinCh00,Charlie Joiner,WR,1979,32,SDG,NFL,WR,16,16,119,72,1008,14.0,4,53,55.5,39,4.5,63.0,60.5,8.5,1,-12,0,0,0.0,-12,-12.0,-0.8,0.1,73,13.6,996,4,1,11,PB
+JoinCh00,Charlie Joiner,WR,1980,33,SDG,NFL,WR,16,16,135,71,1132,15.9,4,59,49.6,51,4.4,70.8,52.6,8.4,0,0,0,0,,,,0.0,0.0,71,15.9,1132,4,3,12,"PB,AP-1"
+JoinCh00,Charlie Joiner,WR,1981,34,SDG,NFL,WR,16,16,139,70,1188,17.0,7,55,45.3,57,4.4,74.3,50.4,8.5,0,0,0,0,,,,0.0,0.0,70,17.0,1188,7,2,13,
+JoinCh00,Charlie Joiner,WR,1982,35,SDG,NFL,WR,9,9,63,36,545,15.1,0,34,57.1,43,4.0,60.6,57.1,8.7,0,0,0,0,,,,0.0,0.0,36,15.1,545,0,1,11,
+JoinCh00,Charlie Joiner,WR,1983,36,SDG,NFL,WR,16,16,107,65,960,14.8,3,50,58.9,33,4.1,60.0,60.7,9.0,0,0,0,0,,,,0.0,0.0,65,14.8,960,3,2,8,
+JoinCh00,Charlie Joiner,WR,1984,37,SDG,NFL,WR,16,16,117,61,793,13.0,6,43,48.7,41,3.8,49.6,52.1,6.8,0,0,0,0,,,,0.0,0.0,61,13.0,793,6,0,7,
+JoinCh00,Charlie Joiner,WR,1985,38,SDG,NFL,WR,16,14,102,59,932,15.8,7,49,56.9,39,3.7,58.3,57.8,9.1,0,0,0,0,,,,0.0,0.0,59,15.8,932,7,1,9,
+JoinCh00,Charlie Joiner,WR,1986,39,SDG,NFL,WR,15,9,63,34,440,12.9,2,23,49.2,33,2.3,29.3,54.0,7.0,0,0,0,0,,,,0.0,0.0,34,12.9,440,2,0,4,

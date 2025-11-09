@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+AndeAl00,Alfred Anderson,RB,1984,23,MIN,NFL,FB,16,14,0,0,0,0,30,639,0,41,21.3,1514,
+AndeAl00,Alfred Anderson,RB,,,,,,,,,,,,,,,,,,
+AndeAl00,Alfred Anderson,RB,1986,25,MIN,NFL,FB,16,8,0,0,0,0,3,38,0,17,12.7,564,
+AndeAl00,Alfred Anderson,RB,,,,,,,,,,,,,,,,,,
+AndeAl00,Alfred Anderson,RB,1989,28,MIN,NFL,FB,11,8,0,0,0,0,5,75,0,36,15.0,457,
+AndeAl00,Alfred Anderson,RB,1990,29,MIN,NFL,FB,11,6,0,0,0,0,3,44,0,24,14.7,331,
+AndeAl00,Alfred Anderson,RB,1991,30,MIN,NFL,FB,16,5,0,0,0,0,1,7,0,7,7.0,127,

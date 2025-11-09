@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+TurnFl00,Floyd Turner,WR,1989,23,NOR,NFL,WR,13,1,42,22,279,12.7,1,16,42.9,54,1.7,21.5,52.4,6.6,2,8,0,0,50.0,6,4.0,0.6,0.2,24,12.0,287,1,1,3,
+TurnFl00,Floyd Turner,WR,1990,24,NOR,NFL,WR,16,0,46,21,396,18.9,4,16,39.1,68,1.3,24.8,45.7,8.6,0,0,0,0,,,,0.0,0.0,21,18.9,396,4,0,4,
+TurnFl00,Floyd Turner,WR,1991,25,NOR,NFL,WR,16,4,100,64,927,14.5,8,39,54.0,65,4.0,57.9,64.0,9.3,0,0,0,0,,,,0.0,0.0,64,14.5,927,8,1,9,
+TurnFl00,Floyd Turner,WR,1992,26,NOR,NFL,WR,2,2,13,5,43,8.6,0,3,30.8,18,2.5,21.5,38.5,3.3,0,0,0,0,,,,0.0,0.0,5,8.6,43,0,2,0,
+TurnFl00,Floyd Turner,WR,1993,27,NOR,NFL,WR,10,2,30,12,163,13.6,1,9,40.0,52,1.2,16.3,40.0,5.4,0,0,0,0,,,,0.0,0.0,12,13.6,163,1,0,2,
+TurnFl00,Floyd Turner,WR,1994,28,IND,NFL,WR,16,16,87,52,593,11.4,6,37,50.6,28,3.3,37.1,59.8,6.8,3,-3,0,0,66.7,5,-1.0,-0.2,0.2,55,10.7,590,6,1,7,
+TurnFl00,Floyd Turner,WR,1995,29,IND,NFL,WR,14,12,63,35,431,12.3,4,24,50.8,47,2.5,30.8,55.6,6.8,0,0,0,0,,,,0.0,0.0,35,12.3,431,4,0,5,
+TurnFl00,Floyd Turner,WR,1996,30,BAL,NFL,WR,11,6,66,38,461,12.1,2,26,50.0,27,3.5,41.9,57.6,7.0,2,12,0,1,100.0,6,6.0,1.1,0.2,40,11.8,473,2,0,5,
+TurnFl00,Floyd Turner,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TurnFl00,Floyd Turner,WR,1998,32,BAL,NFL,WR,16,3,58,32,512,16.0,5,26,51.7,66,2.0,32.0,55.2,8.8,0,0,0,0,,,,0.0,0.0,32,16.0,512,5,0,4,

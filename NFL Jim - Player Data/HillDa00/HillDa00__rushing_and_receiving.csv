@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HillDa00,Dalton Hilliard,RB,1986,22,NOR,NFL,RB,16,5,121,425,5,27,44.6,36,3.5,26.6,7.6,25,17,107,6.3,0,5,40.0,17,1.1,6.7,68.0,4.3,138,3.9,532,5,3,4,
+HillDa00,Dalton Hilliard,RB,1987,23,NOR,NFL,RB,12,1,123,508,7,27,39.8,30,4.1,42.3,10.3,31,23,264,11.5,1,12,48.4,38,1.9,22.0,74.2,8.5,146,5.3,772,8,4,8,
+HillDa00,Dalton Hilliard,RB,1988,24,NOR,NFL,RB,16,8,204,823,5,52,48.5,36,4.0,51.4,12.8,47,34,335,9.9,1,16,55.3,26,2.1,20.9,72.3,7.1,238,4.9,1158,6,3,9,
+HillDa00,Dalton Hilliard,RB,1989,25,NOR,NFL,RB,16,16,344,1262,13,67,46.8,40,3.7,78.9,21.5,63,52,514,9.9,5,20,60.3,54,3.3,32.1,82.5,8.2,396,4.5,1776,18,7,15,"PB,AP-2"
+HillDa00,Dalton Hilliard,RB,1990,26,NOR,NFL,RB,6,6,90,284,0,17,34.4,17,3.2,47.3,15.0,18,14,125,8.9,1,6,55.6,20,2.3,20.8,77.8,6.9,104,3.9,409,1,2,3,
+HillDa00,Dalton Hilliard,RB,1991,27,NOR,NFL,RB,10,3,79,252,4,12,32.9,65,3.2,25.2,7.9,27,21,127,6.0,1,5,37.0,14,2.1,12.7,77.8,4.7,100,3.8,379,5,3,3,
+HillDa00,Dalton Hilliard,RB,1992,28,NOR,NFL,RB,16,4,115,445,3,26,42.6,22,3.9,27.8,7.2,59,48,465,9.7,4,21,57.6,41,3.0,29.1,81.4,7.9,163,5.6,910,7,6,8,
+HillDa00,Dalton Hilliard,RB,1993,29,NOR,NFL,RB,16,0,50,165,2,14,46.0,16,3.3,10.3,3.1,66,40,296,7.4,1,11,34.8,34,2.5,18.5,60.6,4.5,90,5.1,461,3,2,4,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HenrDe00,Derrick Henry,RB,2016,22,TEN,RB,22,15,2,270,27%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2017,23,TEN,RB,22,16,2,408,40%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2018,24,TEN,RB,22,16,12,401,41%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2019*,25,TEN,RB,22,15,15,589,64%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2020*+,26,TEN,RB,22,16,16,705,66%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2021,27,TEN,RB,22,8,8,411,71%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2022*,28,TEN,RB,22,16,16,648,67%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2023*,29,TEN,RB,22,17,17,558,53%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2024*,30,BAL,RB,22,17,17,635,57%,0,0%,0,0%
+HenrDe00,Derrick Henry,RB,2025,31,BAL,RB,22,8,8,251,55%,0,0%,0,0%

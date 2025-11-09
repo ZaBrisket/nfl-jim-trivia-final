@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+BoydTy00,Tyler Boyd,WR,2018,24,CIN,NFL,WR,14,14,0,1,34,34.0,0,,0.0,0,,0,0,0,0,0.0,1,100.0,,,3.1,1,0,1,1,100.0,0,,,,,,,,,
+BoydTy00,Tyler Boyd,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BoydTy00,Tyler Boyd,WR,2020,26,CIN,NFL,WR,15,8,1,2,2,1.0,-6,-6.0,-3.0,22,22.0,0,0,0,0,0.0,1,50.0,1,50.0,2.7,1,0,0,0,0.0,0,1,0,1,0,0,0,1,0,
+BoydTy00,Tyler Boyd,WR,2021,27,CIN,NFL,WR,16,10,1,1,-4,-4.0,-4,-4.0,-4.0,50,50.0,0,0,0,0,0.0,0,0.0,1,100.0,3.1,0,1,0,1,100.0,0,0,0,0,0,0,0,0,0,
+BoydTy00,Tyler Boyd,WR,2022,28,CIN,NFL,WR,16,14,1,1,21,21.0,21,21.0,21.0,2,2.0,0,0,0,0,0.0,0,0.0,1,100.0,3.3,0,0,0,1,50.0,0,2,23,1,23,0,0,0,0,
+BoydTy00,Tyler Boyd,WR,2023,29,CIN,NFL,WR,17,13,0,1,-8,-8.0,0,,0.0,0,,0,0,0,0,0.0,1,100.0,0,0.0,2.1,1,0,1,1,100.0,0,1,0,1,0,0,0,0,0,
+BoydTy00,Tyler Boyd,WR,2024,30,TEN,NFL,WR,16,8,0,1,24,24.0,0,,0.0,0,,0,0,0,0,0.0,1,100.0,0,0.0,1.6,0,0,0,0,0.0,0,0,0,0,0,0,0,1,0,

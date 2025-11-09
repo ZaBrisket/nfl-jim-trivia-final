@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+TolbMi00,Mike Tolbert,RB,2012,27,CAR,RB,35,16,5,446,43%,0,0%,76,17%
+TolbMi00,Mike Tolbert,RB,2013*+,28,CAR,RB,35,16,13,598,58%,0,0%,84,20%
+TolbMi00,Mike Tolbert,RB,2014,29,CAR,RB,35,8,6,220,40%,0,0%,39,18%
+TolbMi00,Mike Tolbert,RB,2015*+,30,CAR,RB,35,16,3,422,38%,0,0%,108,23%
+TolbMi00,Mike Tolbert,RB,2016*,31,CAR,RB,35,16,2,324,29%,0,0%,164,34%
+TolbMi00,Mike Tolbert,RB,2017,32,BUF,RB,35,12,0,203,26%,0,0%,87,27%

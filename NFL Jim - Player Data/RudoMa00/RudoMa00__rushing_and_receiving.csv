@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+RudoMa00,Mason Rudolph,QB,2019,24,PIT,NFL,QB,10,8,21,42,0,6,33.3,13,2.0,4.2,2.1,0,0,0,0,0,0.0,0.0,21,2.0,42,0,4,
+RudoMa00,Mason Rudolph,QB,2020,25,PIT,NFL,QB,5,1,7,-6,0,0,0.0,1,-0.9,-1.2,1.4,0,0,0,0,0,0.0,0.0,7,-0.9,-6,0,0,
+RudoMa00,Mason Rudolph,QB,2021,26,PIT,NFL,QB,2,1,5,53,0,3,60.0,26,10.6,26.5,2.5,0,0,0,0,0,0.0,0.0,5,10.6,53,0,1,
+RudoMa00,Mason Rudolph,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RudoMa00,Mason Rudolph,QB,2023,28,PIT,NFL,QB,4,3,10,8,0,4,40.0,7,0.8,2.0,2.5,0,0,0,0,0,0.0,0.0,10,0.8,8,0,3,
+RudoMa00,Mason Rudolph,QB,2024,29,TEN,NFL,QB,8,5,25,106,1,13,60.0,14,4.2,13.3,3.1,0,0,0,0,0,0.0,0.0,25,4.2,106,1,5,
+RudoMa00,Mason Rudolph,QB,2025,30,PIT,NFL,QB,2,0,3,0,0,0,0.0,,0.0,0.0,1.5,0,0,0,0,0,0.0,0.0,3,0.0,0,0,0,

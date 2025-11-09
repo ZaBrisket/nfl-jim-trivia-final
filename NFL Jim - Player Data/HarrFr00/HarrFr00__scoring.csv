@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HarrFr00,Franco Harris,RB,1972,22,PIT,NFL,RB,14,10,10,1,0,0,0,0,0,11,0,0,0,0,0,66,4.7,"PB,AP-2,AP MVP-8,AP OPoY-5,AP ORoY-1"
+HarrFr00,Franco Harris,RB,1973,23,PIT,NFL,FB,12,8,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.5,PB
+HarrFr00,Franco Harris,RB,1974,24,PIT,NFL,FB,12,11,5,1,0,0,0,0,0,6,0,0,0,0,0,36,3.0,PB
+HarrFr00,Franco Harris,RB,1975,25,PIT,NFL,FB,14,14,10,1,0,0,0,0,0,11,0,0,0,0,0,66,4.7,"PB,AP-2"
+HarrFr00,Franco Harris,RB,1976,26,PIT,NFL,FB,14,14,14,0,0,0,0,0,0,14,0,0,0,0,0,84,6.0,PB
+HarrFr00,Franco Harris,RB,1977,27,PIT,NFL,FB,14,14,11,0,0,0,0,0,0,11,0,0,0,0,0,66,4.7,"PB,AP-1"
+HarrFr00,Franco Harris,RB,1978,28,PIT,NFL,FB,16,16,8,0,0,0,0,0,0,8,0,0,0,0,0,48,3.0,PB
+HarrFr00,Franco Harris,RB,1979,29,PIT,NFL,FB,15,15,11,1,0,0,0,0,0,12,0,0,0,0,0,72,4.8,PB
+HarrFr00,Franco Harris,RB,1980,30,PIT,NFL,FB,13,13,4,2,0,0,0,0,0,6,0,0,0,0,0,36,2.8,PB
+HarrFr00,Franco Harris,RB,1981,31,PIT,NFL,FB,16,16,8,1,0,0,0,0,0,9,0,0,0,0,0,54,3.4,
+HarrFr00,Franco Harris,RB,1982,32,PIT,NFL,FB,9,9,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.3,
+HarrFr00,Franco Harris,RB,1983,33,PIT,NFL,FB,16,16,5,2,0,0,0,0,0,7,0,0,0,0,0,42,2.6,

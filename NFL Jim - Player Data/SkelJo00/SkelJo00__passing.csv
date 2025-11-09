@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+SkelJo00,John Skelton,QB,2010,22,ARI,NFL,QB,5,4,2-2-0,60,126,47.6,662,2,1.6,2,1.6,31,32.6,74,5.3,4.86,11.0,132.4,62.3,23.6,9,65,6.67,4.42,4.05,1,1,2,
+SkelJo00,John Skelton,QB,2011,23,ARI,NFL,QB,8,7,5-2-0,151,275,54.9,1913,11,4.0,14,5.1,81,41.9,60,7.0,5.47,12.7,239.1,68.9,37.3,23,162,7.72,5.88,4.50,4,5,4,
+SkelJo00,John Skelton,QB,2012,24,ARI,NFL,QB,7,6,1-5-0,109,201,54.2,1132,2,1.0,9,4.5,55,37.0,40,5.6,3.82,10.4,161.7,55.4,18.3,15,98,6.94,4.79,3.10,1,1,-2,

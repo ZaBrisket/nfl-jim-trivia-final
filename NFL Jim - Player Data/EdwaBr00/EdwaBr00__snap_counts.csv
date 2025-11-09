@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+EdwaBr00,Braylon Edwards,WR,2012,29,2TM,WR,,13,4,292,,0,,0,
+EdwaBr00,Braylon Edwards,WR,,,SEA,WR,17,10,1,149,24%,0,0%,0,0%
+EdwaBr00,Braylon Edwards,WR,,,,,,,,143,70%,0,0%,0,0%

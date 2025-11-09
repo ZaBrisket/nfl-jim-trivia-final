@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+TannRy00,Ryan Tannehill,QB,2012,24,MIA,QB,17,16,16,981,95%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2013,25,MIA,QB,17,16,16,1021,99%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2014,26,MIA,QB,17,16,16,1065,97%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2015,27,MIA,QB,17,16,16,1025,99%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2016,28,MIA,QB,17,13,13,758,98%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2018,30,MIA,QB,17,11,11,580,98%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2019*,31,TEN,QB,17,12,10,637,87%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2020,32,TEN,QB,17,16,16,1052,98%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2021,33,TEN,QB,17,17,17,1168,99%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2022,34,TEN,QB,17,12,12,686,95%,0,0%,0,0%
+TannRy00,Ryan Tannehill,QB,2023,35,TEN,QB,17,10,8,500,81%,0,0%,2,1%

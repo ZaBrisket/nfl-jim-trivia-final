@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+JoneCh01,Chris Jones,WR,1995,24,12,WR,6,,135,,All 1995 Games
+JoneCh01,Chris Jones,WR,1996,25,16,WR,116,1,29,73,All 1996 Games
+JoneCh01,Chris Jones,WR,1997,26,4,WR,7,,126,,All 1997 Games

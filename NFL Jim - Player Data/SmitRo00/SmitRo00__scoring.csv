@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitRo00,Robert Smith,RB,1993,21,MIN,NFL,RB,10,2,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,1.2,
+SmitRo00,Robert Smith,RB,1994,22,MIN,NFL,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+SmitRo00,Robert Smith,RB,1995,23,MIN,NFL,RB,9,7,5,0,0,0,0,0,0,5,1,0,0,0,0,0,32,3.6,
+SmitRo00,Robert Smith,RB,1996,24,MIN,NFL,RB,8,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,2.3,
+SmitRo00,Robert Smith,RB,1997,25,MIN,NFL,RB,14,14,6,1,0,0,0,0,0,7,0,0,0,0,0,0,42,3.0,
+SmitRo00,Robert Smith,RB,1998,26,MIN,NFL,RB,14,14,6,2,0,0,0,0,0,8,0,0,0,0,0,0,48,3.4,PB
+SmitRo00,Robert Smith,RB,1999,27,MIN,NFL,RB,13,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+SmitRo00,Robert Smith,RB,2000,28,MIN,NFL,RB,16,16,7,3,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP-2,AP OPoY-5"

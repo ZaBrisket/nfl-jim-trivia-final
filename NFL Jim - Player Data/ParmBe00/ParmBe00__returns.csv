@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ParmBe00,Bernie Parmalee,RB,1992,25,MIA,NFL,RB,10,0,0,0,0,0,14,289,0,32,20.6,327,
+ParmBe00,Bernie Parmalee,RB,,,,,,,,,,,,,,,,,,
+ParmBe00,Bernie Parmalee,RB,1994,27,MIA,NFL,RB,15,10,0,0,0,0,2,0,0,0,0.0,1137,

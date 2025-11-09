@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AustMi00,Miles Austin,WR,2006,22,DAL,NFL,WR,9,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,3,0,
+AustMi00,Miles Austin,WR,2007,23,DAL,NFL,WR,16,0,10,5,76,15.2,0,3,40.0,35,0.3,4.8,50.0,7.6,0,0,0,0,,,,0.0,0.0,5,15.2,76,0,0,1,
+AustMi00,Miles Austin,WR,2008,24,DAL,NFL,WR,12,0,23,13,278,21.4,3,11,56.5,63,1.1,23.2,56.5,12.1,0,0,0,0,,,,0.0,0.0,13,21.4,278,3,1,2,
+AustMi00,Miles Austin,WR,2009,25,DAL,NFL,WR,16,9,124,81,1320,16.3,11,58,55.6,60,5.1,82.5,65.3,10.6,2,-2,0,1,50.0,11,-1.0,-0.1,0.1,83,15.9,1318,11,1,11,PB
+AustMi00,Miles Austin,WR,2010,26,DAL,NFL,WR,16,16,119,69,1041,15.1,7,46,52.9,69,4.3,65.1,58.0,8.7,7,93,1,3,57.1,60,13.3,5.8,0.4,76,14.9,1134,8,1,10,PB
+AustMi00,Miles Austin,WR,2011,27,DAL,NFL,WR,10,10,73,43,579,13.5,7,31,54.8,53,4.3,57.9,58.9,7.9,2,3,0,0,50.0,5,1.5,0.3,0.2,45,12.9,582,7,1,5,
+AustMi00,Miles Austin,WR,2012,28,DAL,NFL,WR,16,15,119,66,943,14.3,6,49,50.4,49,4.1,58.9,55.5,7.9,0,0,0,0,,,,0.0,0.0,66,14.3,943,6,1,7,
+AustMi00,Miles Austin,WR,2013,29,DAL,NFL,WR,11,8,49,24,244,10.2,0,15,44.9,20,2.2,22.2,49.0,5.0,0,0,0,0,,,,0.0,0.0,24,10.2,244,0,0,2,
+AustMi00,Miles Austin,WR,2014,30,CLE,NFL,WR,12,11,73,47,568,12.1,2,34,54.8,31,3.9,47.3,64.4,7.8,0,0,0,0,,,,0.0,0.0,47,12.1,568,2,0,3,
+AustMi00,Miles Austin,WR,2015,31,PHI,NFL,WR,11,1,31,13,224,17.2,1,9,41.9,39,1.2,20.4,41.9,7.2,0,0,0,0,,,,0.0,0.0,13,17.2,224,1,0,1,

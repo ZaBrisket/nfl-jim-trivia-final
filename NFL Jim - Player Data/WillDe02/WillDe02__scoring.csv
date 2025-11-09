@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WillDe02,DeAngelo Williams,RB,2006,23,CAR,NFL,RB,13,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+WillDe02,DeAngelo Williams,RB,2007,24,CAR,NFL,RB,16,0,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+WillDe02,DeAngelo Williams,RB,2008,25,CAR,NFL,RB,16,16,18,2,0,0,0,0,0,20,1,0,0,0,0,0,122,7.6,"AP-2,AP OPoY-5"
+WillDe02,DeAngelo Williams,RB,2009,26,CAR,NFL,RB,13,13,7,0,0,0,0,0,0,7,1,0,0,0,0,0,44,3.4,PB
+WillDe02,DeAngelo Williams,RB,2010,27,CAR,NFL,RB,6,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+WillDe02,DeAngelo Williams,RB,2011,28,CAR,NFL,RB,16,14,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+WillDe02,DeAngelo Williams,RB,2012,29,CAR,NFL,RB,16,10,5,2,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+WillDe02,DeAngelo Williams,RB,2013,30,CAR,NFL,RB,15,15,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+WillDe02,DeAngelo Williams,RB,,,,,,,,,,,,,,,,,,,,,,,,
+WillDe02,DeAngelo Williams,RB,2015,32,PIT,NFL,RB,16,10,11,0,0,0,0,0,0,11,1,0,0,0,0,0,68,4.3,
+WillDe02,DeAngelo Williams,RB,2016,33,PIT,NFL,RB,9,4,4,2,0,0,0,0,0,6,0,0,0,0,0,0,36,4.0,

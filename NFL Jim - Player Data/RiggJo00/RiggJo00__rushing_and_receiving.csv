@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RiggJo00,John Riggins,RB,1971,22,NYJ,NFL,FB,14,14,180,769,1,,,25,4.3,54.9,12.9,,36,231,6.4,2,,,32,2.6,16.5,,,216,4.6,1000,3,6,11,AP ORoY-3
+RiggJo00,John Riggins,RB,1972,23,NYJ,NFL,FB,12,11,207,944,7,,,40,4.6,78.7,17.3,,21,230,11.0,1,,,67,1.8,19.2,,,228,5.1,1174,8,2,13,
+RiggJo00,John Riggins,RB,1973,24,NYJ,NFL,FB,11,9,134,482,4,,,15,3.6,43.8,12.2,,23,158,6.9,0,,,19,2.1,14.4,,,157,4.1,640,4,6,5,
+RiggJo00,John Riggins,RB,1974,25,NYJ,NFL,FB,10,10,169,680,5,,,34,4.0,68.0,16.9,,19,180,9.5,2,,,32,1.9,18.0,,,188,4.6,860,7,3,9,
+RiggJo00,John Riggins,RB,1975,26,NYJ,NFL,FB,14,14,238,1005,8,,,42,4.2,71.8,17.0,,30,363,12.1,1,,,34,2.1,25.9,,,268,5.1,1368,9,5,14,PB
+RiggJo00,John Riggins,RB,1976,27,WAS,NFL,FB,14,14,162,572,3,,,15,3.5,40.9,11.6,,21,172,8.2,1,,,18,1.5,12.3,,,183,4.1,744,4,6,7,
+RiggJo00,John Riggins,RB,1977,28,WAS,NFL,FB,5,5,68,203,0,,,12,3.0,40.6,13.6,,7,95,13.6,2,,,53,1.4,19.0,,,75,4.0,298,2,0,3,
+RiggJo00,John Riggins,RB,1978,29,WAS,NFL,FB,15,15,248,1014,5,49,46.8,31,4.1,67.6,16.5,46,31,299,9.6,0,15,50.0,33,2.1,19.9,67.4,6.5,279,4.7,1313,5,7,9,
+RiggJo00,John Riggins,RB,1979,30,WAS,NFL,FB,16,15,260,1153,9,55,50.4,66,4.4,72.1,16.3,36,28,163,5.8,3,12,50.0,23,1.8,10.2,77.8,4.5,288,4.6,1316,12,5,12,
+RiggJo00,John Riggins,RB,1980,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RiggJo00,John Riggins,RB,1981,32,WAS,NFL,RB,15,4,195,714,13,58,53.3,24,3.7,47.6,13.0,10,6,59,9.8,0,5,50.0,22,0.4,3.9,60.0,5.9,201,3.8,773,13,1,5,
+RiggJo00,John Riggins,RB,1982,33,WAS,NFL,RB,8,8,177,553,3,40,46.9,19,3.1,69.1,22.1,11,10,50,5.0,0,4,63.6,11,1.3,6.3,90.9,4.5,187,3.2,603,3,2,8,
+RiggJo00,John Riggins,RB,1983,34,WAS,NFL,RB,15,15,375,1347,24,98,53.9,44,3.6,89.8,25.0,8,5,29,5.8,0,1,50.0,14,0.3,1.9,62.5,3.6,380,3.6,1376,24,5,11,"AP-1,AP MVP-4,AP OPoY-4"
+RiggJo00,John Riggins,RB,1984,35,WAS,NFL,RB,14,14,327,1239,14,90,55.0,24,3.8,88.5,23.4,9,7,43,6.1,0,2,44.4,11,0.5,3.1,77.8,4.8,334,3.8,1282,14,7,9,
+RiggJo00,John Riggins,RB,1985,36,WAS,NFL,RB,12,11,176,677,8,49,52.8,51,3.8,56.4,14.7,6,6,18,3.0,0,0,50.0,8,0.5,1.5,100.0,3.0,182,3.8,695,8,3,4,

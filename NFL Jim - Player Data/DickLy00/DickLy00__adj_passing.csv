@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+DickLy00,Lynn Dickey,QB,1971,22,HOU,NFL,QB,7,2,79,89,27,37,46,57,6,114,44,
+DickLy00,Lynn Dickey,QB,,,,,,,,,,,,,,,,,
+DickLy00,Lynn Dickey,QB,1973,24,HOU,NFL,QB,12,4,115,104,95,90,122,107,68,92,99,
+DickLy00,Lynn Dickey,QB,1974,25,HOU,NFL,QB,14,4,94,96,83,85,111,79,82,101,85,
+DickLy00,Lynn Dickey,QB,,,,,,,,,,,,,,,,,
+DickLy00,Lynn Dickey,QB,1976,27,GNB,NFL,QB,10,10,91,86,89,86,87,88,95,91,87,
+DickLy00,Lynn Dickey,QB,1977,28,GNB,NFL,QB,9,9,91,91,85,85,97,82,89,99,86,
+DickLy00,Lynn Dickey,QB,,,,,,,,,,,,,,,,,
+DickLy00,Lynn Dickey,QB,1979,30,GNB,NFL,QB,5,3,94,84,106,98,86,100,118,75,102,
+DickLy00,Lynn Dickey,QB,1980,31,GNB,NFL,QB,16,16,109,107,98,97,111,86,90,99,96,
+DickLy00,Lynn Dickey,QB,1981,32,GNB,NFL,QB,13,13,107,97,107,101,106,107,102,81,108,
+DickLy00,Lynn Dickey,QB,1982,33,GNB,NFL,QB,9,9,123,112,106,100,103,115,73,84,101,
+DickLy00,Lynn Dickey,QB,1983,34,GNB,NFL,QB,16,16,141,139,122,122,110,126,77,103,115,"AP MVP-5,AP OPoY-6"
+DickLy00,Lynn Dickey,QB,1984,35,GNB,NFL,QB,15,15,118,118,113,113,110,122,93,105,113,
+DickLy00,Lynn Dickey,QB,1985,36,GNB,NFL,QB,12,10,100,98,93,93,97,108,82,96,95,

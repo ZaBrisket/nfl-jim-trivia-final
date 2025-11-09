@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnQu02,Quentin Johnston,WR,2023,22,LAC,NFL,WR,17,10,67,38,431,11.3,2,20,47.8,57,2.2,25.4,56.7,6.4,3,9,0,0,33.3,6,3.0,0.5,0.2,41,10.7,440,2,0,4,
+JohnQu02,Quentin Johnston,WR,2024,23,LAC,NFL,WR,15,11,91,55,711,12.9,8,32,50.5,66,3.7,47.4,60.4,7.8,3,6,0,0,33.3,4,2.0,0.4,0.2,58,12.4,717,8,0,7,
+JohnQu02,Quentin Johnston,WR,2025,24,LAC,NFL,WR,8,6,52,32,460,14.4,6,16,46.2,60,4.0,57.5,61.5,8.8,2,7,0,0,50.0,9,3.5,0.9,0.3,34,13.7,467,6,1,,

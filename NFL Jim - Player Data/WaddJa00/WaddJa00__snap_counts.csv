@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WaddJa00,Jaylen Waddle,WR,2021,23,MIA,WR,17,16,16,903,83%,0,0%,55,13%
+WaddJa00,Jaylen Waddle,WR,2022,24,MIA,WR,17,17,17,785,74%,0,0%,3,1%
+WaddJa00,Jaylen Waddle,WR,2023,25,MIA,WR,17,14,14,611,68%,0,0%,5,1%
+WaddJa00,Jaylen Waddle,WR,2024,26,MIA,WR,17,15,15,793,78%,0,0%,1,0%
+WaddJa00,Jaylen Waddle,WR,2025,27,MIA,WR,17,9,9,429,81%,0,0%,2,1%

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+BurrKe00,Ken Burrough,WR,1970,22,NOR,NFL,WR,12,0,0,0,0,0,,3,0,0,0,0.0,,,,0,
+BurrKe00,Ken Burrough,WR,,,,,,,,,,,,,,,,,,,,,,
+BurrKe00,Ken Burrough,WR,1973,25,HOU,NFL,WR,14,12,0,0,0,0,,2,0,0,0,0.0,,,,0,
+BurrKe00,Ken Burrough,WR,1974,26,HOU,NFL,WR,11,11,0,0,0,0,,1,0,0,0,0.0,,,,0,
+BurrKe00,Ken Burrough,WR,1975,27,HOU,NFL,WR,14,14,0,0,0,0,,1,0,0,0,0.0,,,,0,PB
+BurrKe00,Ken Burrough,WR,,,,,,,,,,,,,,,,,,,,,,
+BurrKe00,Ken Burrough,WR,1977,29,HOU,NFL,WR,14,14,0,0,0,0,,4,0,0,0,0.0,,,,0,"PB,AP-2"
+BurrKe00,Ken Burrough,WR,,,,,,,,,,,,,,,,,,,,,,
+BurrKe00,Ken Burrough,WR,1979,31,HOU,NFL,WR,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+BurrKe00,Ken Burrough,WR,,,,,,,,,,,,,,,,,,,,,,
+BurrKe00,Ken Burrough,WR,1981,33,HOU,NFL,WR,16,16,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,

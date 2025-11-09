@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+TollBi00,Billy Joe Tolliver,QB,1989,23,SDG,NFL,QB,5,5,2-3-0,89,185,48.1,1097,5,2.7,8,4.3,48,34.5,49,5.9,4.52,12.3,219.4,57.9,9,75,4.64,5.27,3.93,2,2,1,
+TollBi00,Billy Joe Tolliver,QB,1990,24,SDG,NFL,QB,15,14,6-8-0,216,410,52.7,2574,16,3.9,16,3.9,128,43.1,45,6.3,5.30,11.9,171.6,68.9,19,150,4.43,5.65,4.72,0,0,9,
+TollBi00,Billy Joe Tolliver,QB,1991,25,ATL,NFL,QB,7,2,1-1-0,40,82,48.8,531,4,4.9,2,2.4,21,36.0,75,6.5,6.35,13.3,75.9,75.8,7,29,7.87,5.64,5.53,1,1,2,
+TollBi00,Billy Joe Tolliver,QB,1992,26,ATL,NFL,QB,9,5,2-3-0,73,131,55.7,787,5,3.8,5,3.8,42,38.8,30,6.0,5.05,10.8,87.4,70.4,16,98,10.88,4.69,3.84,1,1,3,
+TollBi00,Billy Joe Tolliver,QB,1993,27,ATL,NFL,QB,7,2,2-0-0,39,76,51.3,464,3,3.9,5,6.6,24,44.3,42,6.1,3.93,11.9,66.3,56.0,3,15,3.80,5.68,3.59,1,1,2,
+TollBi00,Billy Joe Tolliver,QB,1994,28,HOU,NFL,QB,10,7,0-7-0,121,240,50.4,1287,6,2.5,7,2.9,67,35.6,44,5.4,4.55,10.6,128.7,62.6,27,166,10.11,4.20,3.47,0,0,1,
+TollBi00,Billy Joe Tolliver,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TollBi00,Billy Joe Tolliver,QB,1997,31,2TM,NFL,QB,9,1,0-1-0,64,116,55.2,677,5,4.3,1,0.9,36,39.2,47,5.8,6.31,10.6,75.2,83.2,14,104,10.77,4.41,4.83,0,0,2,
+TollBi00,Billy Joe Tolliver,QB,1997,31,ATL,NFL,QB,6,1,0-1-0,63,115,54.8,685,5,4.3,1,0.9,36,39.5,47,6.0,6.43,10.9,114.2,83.4,14,104,10.85,4.50,4.93,0,0,2,
+TollBi00,Billy Joe Tolliver,QB,1997,31,KAN,NFL,QB,3,0,,1,1,100.0,-8,0,0.0,0,0.0,0,,-8,-8.0,-8.00,-8.0,-2.7,79.2,0,0,0.00,-8.00,-8.00,0,0,0,
+TollBi00,Billy Joe Tolliver,QB,1998,32,NOR,NFL,QB,7,4,1-3-0,110,199,55.3,1427,8,4.0,4,2.0,64,42.9,82,7.2,7.07,13.0,203.9,83.1,11,88,5.24,6.38,6.28,0,0,4,
+TollBi00,Billy Joe Tolliver,QB,1999,33,NOR,NFL,QB,10,7,1-6-0,139,268,51.9,1916,7,2.6,16,6.0,83,35.9,57,7.1,4.99,13.8,191.6,58.9,19,152,6.62,6.15,4.13,0,0,4,

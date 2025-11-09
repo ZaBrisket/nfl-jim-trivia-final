@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+StabKe00,Ken Stabler,QB,1970,25,OAK,NFL,QB,3,0,0,0,0,0,,1,0,0,0,0.0,,,,0,
+StabKe00,Ken Stabler,QB,1971,26,OAK,NFL,QB,14,1,0,0,0,0,,1,1,-10,0,0.0,,,,0,
+StabKe00,Ken Stabler,QB,1972,27,OAK,NFL,QB,14,1,0,0,0,0,,2,2,0,0,0.0,,,,0,
+StabKe00,Ken Stabler,QB,1973,28,OAK,NFL,QB,14,11,0,0,0,0,,5,1,-1,0,0.0,,,,0,PB
+StabKe00,Ken Stabler,QB,1974,29,OAK,NFL,QB,14,13,0,0,0,0,,3,1,-11,0,0.0,,,,0,"PB,AP-1,AP MVP-1,AP OPoY-1"
+StabKe00,Ken Stabler,QB,1975,30,OAK,NFL,QB,14,13,0,0,0,0,,4,2,-2,0,0.0,,,,0,
+StabKe00,Ken Stabler,QB,1976,31,OAK,NFL,QB,12,12,0,0,0,0,,5,1,-5,0,0.0,,,,0,"PB,AP-2,AP MVP-3,AP OPoY-2"
+StabKe00,Ken Stabler,QB,1977,32,OAK,NFL,QB,13,13,0,0,0,0,,3,0,-3,0,0.0,,,,0,PB
+StabKe00,Ken Stabler,QB,1978,33,OAK,NFL,QB,16,16,0,0,0,0,0,9,1,-4,0,0.0,0,0,0,0,
+StabKe00,Ken Stabler,QB,1979,34,OAK,NFL,QB,16,16,0,0,0,0,0,10,5,-30,0,0.0,0,0,0,0,AP MVP-8
+StabKe00,Ken Stabler,QB,1980,35,HOU,NFL,QB,16,16,0,0,0,0,0,7,2,-16,0,0.0,0,0,0,0,
+StabKe00,Ken Stabler,QB,1981,36,HOU,NFL,QB,13,12,0,0,0,0,0,7,2,-13,0,0.0,0,0,0,0,
+StabKe00,Ken Stabler,QB,1982,37,NOR,NFL,QB,8,8,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,
+StabKe00,Ken Stabler,QB,1983,38,NOR,NFL,QB,14,14,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,
+StabKe00,Ken Stabler,QB,1984,39,NOR,NFL,QB,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

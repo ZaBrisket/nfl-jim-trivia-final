@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CrowIs00,Isaiah Crowell,RB,2014,21,CLE,NFL,RB,16,4,148,607,8,35,42.6,35,4.1,37.9,9.3,14,9,87,9.7,0,4,50.0,19,0.6,5.4,64.3,6.2,157,4.4,694,8,3,3,
+CrowIs00,Isaiah Crowell,RB,2015,22,CLE,NFL,RB,16,9,185,706,4,35,41.1,54,3.8,44.1,11.6,22,19,182,9.6,1,6,54.5,53,1.2,11.4,86.4,8.3,204,4.4,888,5,0,4,
+CrowIs00,Isaiah Crowell,RB,2016,23,CLE,NFL,RB,16,16,198,952,7,45,40.4,85,4.8,59.5,12.4,53,40,319,8.0,0,14,49.1,44,2.5,19.9,75.5,6.0,238,5.3,1271,7,2,7,
+CrowIs00,Isaiah Crowell,RB,2017,24,CLE,NFL,RB,16,16,206,853,2,39,40.3,59,4.1,53.3,12.9,42,28,182,6.5,0,9,28.6,38,1.8,11.4,66.7,4.3,234,4.4,1035,2,1,5,
+CrowIs00,Isaiah Crowell,RB,2018,25,NYJ,NFL,RB,13,6,143,685,6,26,35.0,77,4.8,52.7,11.0,28,21,152,7.2,0,7,46.4,21,1.6,11.7,75.0,5.4,164,5.1,837,6,0,5,

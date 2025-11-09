@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HeapTo00,Todd Heap,TE,2001,21,BAL,NFL,TE,12,6,23,16,206,12.9,1,11,60.9,24,1.3,17.2,69.6,9.0,0,0,0,0,,,,0.0,0.0,16,12.9,206,1,1,2,
+HeapTo00,Todd Heap,TE,2002,22,BAL,NFL,TE,16,16,122,68,836,12.3,6,45,46.7,43,4.3,52.3,55.7,6.9,4,38,0,2,75.0,15,9.5,2.4,0.3,72,12.1,874,6,0,7,PB
+HeapTo00,Todd Heap,TE,2003,23,BAL,NFL,TE,16,16,112,57,693,12.2,3,32,42.0,33,3.6,43.3,50.9,6.2,3,21,0,0,100.0,9,7.0,1.3,0.2,60,11.9,714,3,1,8,"PB,AP-2"
+HeapTo00,Todd Heap,TE,2004,24,BAL,NFL,TE,6,5,44,27,303,11.2,3,17,50.0,37,4.5,50.5,61.4,6.9,0,0,0,0,,,,0.0,0.0,27,11.2,303,3,0,2,
+HeapTo00,Todd Heap,TE,2005,25,BAL,NFL,TE,16,16,114,75,855,11.4,7,45,49.1,48,4.7,53.4,65.8,7.5,0,0,0,0,,,,0.0,0.0,75,11.4,855,7,2,6,
+HeapTo00,Todd Heap,TE,2006,26,BAL,NFL,TE,16,16,116,73,765,10.5,6,40,51.7,30,4.6,47.8,62.9,6.6,0,0,0,0,,,,0.0,0.0,73,10.5,765,6,0,7,
+HeapTo00,Todd Heap,TE,2007,27,BAL,NFL,TE,6,6,34,23,239,10.4,1,14,61.8,37,3.8,39.8,67.6,7.0,0,0,0,0,,,,0.0,0.0,23,10.4,239,1,0,2,
+HeapTo00,Todd Heap,TE,2008,28,BAL,NFL,TE,16,16,64,35,403,11.5,3,23,45.3,30,2.2,25.2,54.7,6.3,0,0,0,0,,,,0.0,0.0,35,11.5,403,3,1,4,
+HeapTo00,Todd Heap,TE,2009,29,BAL,NFL,TE,16,16,75,53,593,11.2,6,33,57.3,31,3.3,37.1,70.7,7.9,1,2,0,0,0.0,2,2.0,0.1,0.1,54,11.0,595,6,1,6,
+HeapTo00,Todd Heap,TE,2010,30,BAL,NFL,TE,13,13,64,40,599,15.0,5,30,54.7,65,3.1,46.1,62.5,9.4,0,0,0,0,,,,0.0,0.0,40,15.0,599,5,1,6,
+HeapTo00,Todd Heap,TE,2011,31,ARI,NFL,TE,10,4,36,24,283,11.8,1,9,52.8,28,2.4,28.3,66.7,7.9,0,0,0,0,,,,0.0,0.0,24,11.8,283,1,0,2,
+HeapTo00,Todd Heap,TE,2012,32,ARI,NFL,TE,2,1,13,8,94,11.8,0,5,53.8,28,4.0,47.0,61.5,7.2,0,0,0,0,,,,0.0,0.0,8,11.8,94,0,0,1,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FinlJe00,Jermichael Finley,TE,2008,21,GNB,NFL,TE,14,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+FinlJe00,Jermichael Finley,TE,2009,22,GNB,NFL,TE,13,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.3,
+FinlJe00,Jermichael Finley,TE,2010,23,GNB,NFL,TE,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.2,
+FinlJe00,Jermichael Finley,TE,2011,24,GNB,NFL,TE,16,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+FinlJe00,Jermichael Finley,TE,2012,25,GNB,NFL,TE,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+FinlJe00,Jermichael Finley,TE,2013,26,GNB,NFL,TE,6,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,3.0,

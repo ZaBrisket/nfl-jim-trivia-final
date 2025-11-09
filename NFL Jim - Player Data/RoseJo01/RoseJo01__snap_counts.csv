@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RoseJo01,Josh Rosen,QB,2018,21,ARI,QB,3,14,13,781,93%,0,0%,0,0%
+RoseJo01,Josh Rosen,QB,2019,22,MIA,QB,3,6,3,197,53%,0,0%,0,0%
+RoseJo01,Josh Rosen,QB,2021,24,ATL,QB,16,4,0,26,10%,0,0%,0,0%

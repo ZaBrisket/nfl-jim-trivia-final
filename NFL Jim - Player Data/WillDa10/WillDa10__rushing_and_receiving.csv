@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillDa10,Darrel Williams,RB,2018,23,KAN,NFL,RB,6,0,13,44,0,3,53.8,8,3.4,7.3,2.2,3,3,27,9.0,1,1,66.7,11,0.5,4.5,100.0,9.0,16,4.4,71,1,0,1,
+WillDa10,Darrel Williams,RB,2019,24,KAN,NFL,RB,12,0,41,141,3,12,48.8,41,3.4,11.8,3.4,19,15,167,11.1,1,7,52.6,52,1.3,13.9,78.9,8.8,56,5.5,308,4,1,3,
+WillDa10,Darrel Williams,RB,2020,25,KAN,NFL,RB,16,0,39,169,1,14,56.4,13,4.3,10.6,2.4,26,18,116,6.4,0,6,42.3,15,1.1,7.3,69.2,4.5,57,5.0,285,1,0,2,
+WillDa10,Darrel Williams,RB,2021,26,KAN,NFL,RB,17,7,144,558,6,40,56.9,21,3.9,32.8,8.5,57,47,452,9.6,2,19,64.9,38,2.8,26.6,82.5,7.9,191,5.3,1010,8,0,8,
+WillDa10,Darrel Williams,RB,2022,27,ARI,NFL,RB,6,0,21,102,1,8,57.1,30,4.9,17.0,3.5,8,4,9,2.3,0,0,12.5,6,0.7,1.5,50.0,1.1,25,4.4,111,1,0,1,

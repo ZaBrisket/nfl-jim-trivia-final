@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+McCoLe01,LeSean McCoy,RB,2018,30,BUF,NFL,RB,14,13,161,514,22,287,1.8,227,1.4,2,80.5,46,34,238,10,-50,-1.5,288,8.5,-1.1,4,8.5,2,4.3,1,76.2,
+McCoLe01,LeSean McCoy,RB,2019,31,KAN,NFL,RB,13,9,101,465,24,265,2.6,200,2.0,5,20.2,34,28,181,6,-55,-2.0,236,8.4,-0.7,1,28.0,1,2.9,0,98.7,
+McCoLe01,LeSean McCoy,RB,2020,32,TAM,NFL,RB,10,0,10,31,2,23,2.3,8,0.8,0,,19,15,101,3,-1,-0.1,102,6.8,1.0,0,,2,10.5,0,88.8,

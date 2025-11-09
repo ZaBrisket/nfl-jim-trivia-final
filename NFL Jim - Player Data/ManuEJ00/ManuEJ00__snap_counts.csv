@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ManuEJ00,EJ Manuel,QB,2013,23,BUF,QB,3,10,10,694,96%,0,0%,0,0%
+ManuEJ00,EJ Manuel,QB,2014,24,BUF,QB,3,5,4,259,81%,0,0%,0,0%
+ManuEJ00,EJ Manuel,QB,2015,25,BUF,QB,3,7,2,155,38%,0,0%,0,0%
+ManuEJ00,EJ Manuel,QB,2016,26,BUF,QB,3,6,1,78,19%,0,0%,0,0%
+ManuEJ00,EJ Manuel,QB,2017,27,OAK,QB,3,2,1,76,69%,0,0%,0,0%

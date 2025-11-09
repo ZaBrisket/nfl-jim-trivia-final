@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PeriSa00,Samaje Perine,RB,2017,22,WAS,RB,32,16,8,359,36%,0,0%,80,17%
+PeriSa00,Samaje Perine,RB,2018,23,WAS,RB,32,5,0,30,10%,0,0%,39,34%
+PeriSa00,Samaje Perine,RB,2019,24,2TM,RB,,7,0,11,,0,,110,
+PeriSa00,Samaje Perine,RB,,,CIN,RB,34,6,0,5,1%,0,0%,104,63%
+PeriSa00,Samaje Perine,RB,,,,,,,,6,9%,0,0%,6,21%
+PeriSa00,Samaje Perine,RB,2020,25,CIN,RB,34,16,1,207,19%,0,0%,288,62%
+PeriSa00,Samaje Perine,RB,2021,26,CIN,RB,34,16,0,276,27%,0,0%,272,61%
+PeriSa00,Samaje Perine,RB,2022,27,CIN,RB,34,16,2,448,41%,0,0%,186,43%
+PeriSa00,Samaje Perine,RB,2023,28,DEN,RB,25,17,1,360,34%,0,0%,94,20%
+PeriSa00,Samaje Perine,RB,2024,29,KAN,RB,34,17,0,296,26%,0,0%,110,26%
+PeriSa00,Samaje Perine,RB,2025,30,CIN,RB,34,9,0,176,32%,0,0%,114,44%

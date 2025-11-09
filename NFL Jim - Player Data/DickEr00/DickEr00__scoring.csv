@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DickEr00,Eric Dickerson,RB,1983,23,RAM,NFL,RB,16,16,18,2,0,0,0,0,0,20,0,0,0,0,0,120,7.5,"PB,AP-1,AP MVP-2,AP OPoY-2,AP ORoY-1"
+DickEr00,Eric Dickerson,RB,1984,24,RAM,NFL,RB,16,16,14,0,0,0,0,0,0,14,0,0,0,0,0,84,5.3,"PB,AP-1,AP MVP-2,AP OPoY-2"
+DickEr00,Eric Dickerson,RB,1985,25,RAM,NFL,RB,14,14,12,0,0,0,0,0,0,12,0,0,0,0,0,72,5.1,
+DickEr00,Eric Dickerson,RB,1986,26,RAM,NFL,RB,16,16,11,0,0,0,0,0,0,11,0,0,0,0,0,66,4.1,"PB,AP-1,AP MVP-2,AP OPoY-1"
+DickEr00,Eric Dickerson,RB,1987,27,2TM,NFL,RB,12,10,6,0,0,0,0,0,0,6,0,0,0,0,0,36,3.0,"PB,AP-1"
+DickEr00,Eric Dickerson,RB,1987,27,RAM,NFL,RB,3,2,1,0,0,0,0,0,0,1,0,0,0,0,0,6,2.0,
+DickEr00,Eric Dickerson,RB,1987,27,IND,NFL,RB,9,8,5,0,0,0,0,0,0,5,0,0,0,0,0,30,3.3,
+DickEr00,Eric Dickerson,RB,1988,28,IND,NFL,RB,16,16,14,1,0,0,0,0,0,15,0,0,0,0,0,90,5.6,"PB,AP-1"
+DickEr00,Eric Dickerson,RB,1989,29,IND,NFL,RB,15,14,7,1,0,0,0,0,0,8,0,0,0,0,0,48,3.2,PB
+DickEr00,Eric Dickerson,RB,1990,30,IND,NFL,RB,11,8,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.2,
+DickEr00,Eric Dickerson,RB,1991,31,IND,NFL,RB,10,9,2,1,0,0,0,0,0,3,0,0,0,0,0,18,1.8,
+DickEr00,Eric Dickerson,RB,1992,32,RAI,NFL,RB,16,15,2,1,0,0,0,0,0,3,0,0,0,0,0,18,1.1,

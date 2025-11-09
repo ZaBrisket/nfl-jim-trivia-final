@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AndeRo04,Robbie Chosen,WR,2016,23,NYJ,WR,11,16,8,717,69%,0,0%,1,0%
+AndeRo04,Robbie Chosen,WR,2017,24,NYJ,WR,11,16,15,810,78%,0,0%,0,0%
+AndeRo04,Robbie Chosen,WR,2018,25,NYJ,WR,11,14,9,682,77%,0,0%,1,0%
+AndeRo04,Robbie Chosen,WR,2019,26,NYJ,WR,11,16,15,926,91%,0,0%,0,0%
+AndeRo04,Robbie Chosen,WR,2020,27,CAR,WR,11,16,16,805,78%,0,0%,5,1%
+AndeRo04,Robbie Chosen,WR,2021,28,CAR,WR,11,17,16,978,85%,0,0%,3,1%
+AndeRo04,Robbie Chosen,WR,2022,29,2TM,WR,,16,7,493,,0,,2,
+AndeRo04,Robbie Chosen,WR,,,CAR,WR,11,6,5,284,84%,0,0%,2,1%
+AndeRo04,Robbie Chosen,WR,,,,,,,,209,30%,0,0%,0,0%
+AndeRo04,Robbie Chosen,WR,2023,30,MIA,WR,3,9,0,135,23%,0,0%,0,0%
+AndeRo04,Robbie Chosen,WR,2024,31,MIA,WR,84,2,0,29,20%,0,0%,0,0%
+AndeRo04,Robbie Chosen,WR,2025,32,WAS,WR,12,1,0,33,49%,0,0%,0,0%

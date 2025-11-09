@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PollTo00,Tony Pollard,RB,2019,22,DAL,RB,20,15,0,199,19%,0,0%,115,28%
+PollTo00,Tony Pollard,RB,2020,23,DAL,RB,20,16,2,363,32%,0,0%,126,27%
+PollTo00,Tony Pollard,RB,2021,24,DAL,RB,20,15,0,374,35%,0,0%,100,23%
+PollTo00,Tony Pollard,RB,2022*,25,DAL,RB,20,16,4,569,53%,0,0%,6,1%
+PollTo00,Tony Pollard,RB,2023,26,DAL,RB,20,17,17,836,71%,0,0%,1,0%
+PollTo00,Tony Pollard,RB,2024,27,TEN,RB,20,16,16,701,68%,0,0%,0,0%
+PollTo00,Tony Pollard,RB,2025,28,TEN,RB,20,9,9,384,71%,0,0%,0,0%

@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FoutDa00,Dan Fouts,QB,1973,22,SDG,NFL,QB,10,6,85,90,81,84,77,90,85,107,78,
+FoutDa00,Dan Fouts,QB,1974,23,SDG,NFL,QB,11,11,113,120,105,109,87,93,98,120,96,
+FoutDa00,Dan Fouts,QB,1975,24,SDG,NFL,QB,10,9,109,101,99,96,105,72,99,83,94,
+FoutDa00,Dan Fouts,QB,1976,25,SDG,NFL,QB,14,13,107,108,109,110,117,98,111,94,111,
+FoutDa00,Dan Fouts,QB,1977,26,SDG,NFL,QB,4,4,123,121,113,113,132,97,98,101,114,
+FoutDa00,Dan Fouts,QB,1978,27,SDG,NFL,QB,15,14,126,131,122,127,119,127,99,115,123,
+FoutDa00,Dan Fouts,QB,1979,28,SDG,NFL,QB,16,16,118,125,115,119,127,104,104,116,118,"PB,AP-1,AP MVP-2,AP OPoY-2"
+FoutDa00,Dan Fouts,QB,1980,29,SDG,NFL,QB,16,16,123,128,120,124,114,111,105,112,118,"PB,AP-2,AP MVP-5,AP OPoY-3"
+FoutDa00,Dan Fouts,QB,1981,30,SDG,NFL,QB,16,16,118,131,126,134,111,115,122,125,125,"PB,AP MVP-6,AP OPoY-5"
+FoutDa00,Dan Fouts,QB,1982,31,SDG,NFL,QB,9,9,133,143,130,136,118,111,113,122,124,"PB,AP-1,AP MVP-2,AP OPoY-1"
+FoutDa00,Dan Fouts,QB,1983,32,SDG,NFL,QB,10,10,132,142,124,131,121,118,98,125,121,PB
+FoutDa00,Dan Fouts,QB,1984,33,SDG,NFL,QB,13,13,106,113,107,111,121,95,111,117,110,
+FoutDa00,Dan Fouts,QB,1985,34,SDG,NFL,QB,14,12,130,138,121,127,112,125,92,125,118,"PB,AP-2"
+FoutDa00,Dan Fouts,QB,1986,35,SDG,NFL,QB,12,12,101,110,93,98,113,95,85,119,96,
+FoutDa00,Dan Fouts,QB,1987,36,SDG,NFL,QB,11,10,99,103,95,97,105,85,98,107,95,

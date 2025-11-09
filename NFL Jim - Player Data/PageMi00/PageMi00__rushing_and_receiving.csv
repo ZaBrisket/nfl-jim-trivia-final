@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PageMi00,Mike Pagel,QB,1982,22,BAL,NFL,QB,9,9,19,82,1,8,52.6,32,4.3,9.1,2.1,0,0,0,,0,0,,,0.0,0.0,,,19,4.3,82,1,9,
+PageMi00,Mike Pagel,QB,1983,23,BAL,NFL,QB,15,15,54,441,0,20,53.7,33,8.2,29.4,3.6,0,0,0,,0,0,,,0.0,0.0,,,54,8.2,441,0,4,
+PageMi00,Mike Pagel,QB,1984,24,IND,NFL,QB,11,9,26,149,1,10,38.5,23,5.7,13.5,2.4,0,0,0,,0,0,,,0.0,0.0,,,26,5.7,149,1,4,
+PageMi00,Mike Pagel,QB,1985,25,IND,NFL,QB,16,14,25,160,2,10,64.0,29,6.4,10.0,1.6,1,1,6,6.0,0,0,0.0,6,0.1,0.4,100.0,6.0,26,6.4,166,2,6,
+PageMi00,Mike Pagel,QB,1986,26,CLE,NFL,QB,1,0,2,0,0,0,0.0,,0.0,0.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,2,0.0,0,0,2,
+PageMi00,Mike Pagel,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PageMi00,Mike Pagel,QB,1988,28,CLE,NFL,QB,5,4,4,1,0,1,25.0,5,0.3,0.2,0.8,0,0,0,,0,0,,,0.0,0.0,,,4,0.3,1,0,0,
+PageMi00,Mike Pagel,QB,1989,29,CLE,NFL,QB,16,0,2,-1,0,0,0.0,4,-0.5,-0.1,0.1,0,0,0,,0,0,,,0.0,0.0,,,2,-0.5,-1,0,0,
+PageMi00,Mike Pagel,QB,1990,30,CLE,NFL,QB,16,3,3,-1,0,0,0.0,,-0.3,-0.1,0.2,0,0,0,,0,0,,,0.0,0.0,,,3,-0.3,-1,0,3,
+PageMi00,Mike Pagel,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PageMi00,Mike Pagel,QB,1992,32,RAM,NFL,QB,16,0,1,0,0,0,0.0,,0.0,0.0,0.1,0,0,0,,0,0,,,0.0,0.0,,,1,0.0,0,0,1,

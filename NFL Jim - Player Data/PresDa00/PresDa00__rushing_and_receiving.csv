@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PresDa00,Dave Preston,RB,1978,23,DEN,NFL,RB,16,0,66,296,1,16,54.5,16,4.5,18.5,4.1,32,24,199,8.3,1,12,50.0,21,1.5,12.4,75.0,6.2,90,5.5,495,2,4,4,
+PresDa00,Dave Preston,RB,1979,24,DEN,NFL,RB,10,3,43,169,1,10,48.8,18,3.9,16.9,4.3,27,19,137,7.2,1,7,44.4,19,1.9,13.7,70.4,5.1,62,4.9,306,2,1,2,
+PresDa00,Dave Preston,RB,1980,25,DEN,NFL,RB,12,10,111,385,4,23,50.5,19,3.5,32.1,9.3,55,35,309,8.8,0,15,45.5,36,2.9,25.8,63.6,5.6,146,4.8,694,4,3,6,
+PresDa00,Dave Preston,RB,1981,26,DEN,NFL,RB,16,14,183,640,3,25,44.3,23,3.5,40.0,11.4,67,52,507,9.8,0,19,58.2,37,3.3,31.7,77.6,7.6,235,4.9,1147,3,4,9,
+PresDa00,Dave Preston,RB,1982,27,DEN,NFL,RB,8,5,19,81,0,1,57.9,13,4.3,10.1,2.4,19,14,134,9.6,0,8,57.9,20,1.8,16.8,73.7,7.1,33,6.5,215,0,3,3,
+PresDa00,Dave Preston,RB,1983,28,DEN,NFL,RB,14,3,57,222,1,10,42.1,28,3.9,15.9,4.1,23,17,137,8.1,1,8,47.8,25,1.2,9.8,73.9,6.0,74,4.9,359,2,0,3,

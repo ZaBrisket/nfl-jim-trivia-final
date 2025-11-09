@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ForsJu00,Justin Forsett,RB,2010,25,SEA,NFL,RB,2,1,8,29,0,1,62.5,8,3.6,14.5,4.0,8,5,37,7.4,0,1,37.5,16,2.5,18.5,62.5,4.6,13,5.1,66,0,0,
+ForsJu00,Justin Forsett,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ForsJu00,Justin Forsett,RB,2014,29,BAL,NFL,RB,2,2,40,169,0,13,55.0,19,4.2,84.5,20.0,4,3,24,8.0,1,1,25.0,16,1.5,12.0,75.0,6.0,43,4.5,193,1,1,

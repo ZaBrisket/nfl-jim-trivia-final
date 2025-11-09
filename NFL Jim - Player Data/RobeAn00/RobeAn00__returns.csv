@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RobeAn00,Andre Roberts,WR,2010,22,ARI,NFL,WR,15,2,35,263,0,25,7.5,14,326,0,47,23.3,896,
+RobeAn00,Andre Roberts,WR,2011,23,ARI,NFL,WR,16,16,2,-3,0,0,-1.5,2,33,0,21,16.5,643,
+RobeAn00,Andre Roberts,WR,2012,24,ARI,NFL,WR,15,15,3,15,0,10,5.0,0,0,0,0,,803,
+RobeAn00,Andre Roberts,WR,,,,,,,,,,,,,,,,,,,
+RobeAn00,Andre Roberts,WR,2014,26,WAS,NFL,WR,16,4,28,208,0,37,7.4,30,710,0,45,23.7,1392,
+RobeAn00,Andre Roberts,WR,2015,27,WAS,NFL,WR,9,0,0,0,0,0,,7,231,1,99,33.0,366,
+RobeAn00,Andre Roberts,WR,2016,28,DET,NFL,WR,16,1,20,246,2,85,12.3,33,747,0,42,22.6,1181,
+RobeAn00,Andre Roberts,WR,2017,29,ATL,NFL,WR,16,0,27,201,0,27,7.4,38,860,0,61,22.6,1073,
+RobeAn00,Andre Roberts,WR,2018,30,NYJ,NFL,WR,16,1,23,324,1,78,14.1,40,1174,1,99,29.4,1597,"PB,AP-1"
+RobeAn00,Andre Roberts,WR,2019,31,BUF,NFL,WR,13,0,28,223,0,22,8.0,25,664,0,66,26.6,914,PB
+RobeAn00,Andre Roberts,WR,2020,32,BUF,NFL,WR,15,0,29,286,0,38,9.9,32,961,0,60,30.0,1278,"PB,AP-2"
+RobeAn00,Andre Roberts,WR,2021,33,2TM,NFL,WR,16,0,20,99,0,15,5.0,37,1010,1,101,27.3,1163,AP-2
+RobeAn00,Andre Roberts,WR,2021,33,HOU,NFL,WR,6,0,8,33,0,11,4.1,18,386,0,38,21.4,454,
+RobeAn00,Andre Roberts,WR,2021,33,LAC,NFL,WR,10,0,12,66,0,15,5.5,19,624,1,101,32.8,709,
+RobeAn00,Andre Roberts,WR,2022,34,CAR,NFL,WR,3,0,4,18,0,10,4.5,2,35,0,18,17.5,53,

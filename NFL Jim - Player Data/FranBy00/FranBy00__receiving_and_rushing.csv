@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FranBy00,Byron Franklin,WR,1981,23,BUF,NFL,WR,13,0,10,2,29,14.5,0,1,20.0,16,0.2,2.2,20.0,2.9,1,-11,0,0,0.0,-11,-11.0,-0.8,0.1,3,6.0,18,0,2,0,
+FranBy00,Byron Franklin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FranBy00,Byron Franklin,WR,1983,25,BUF,NFL,WR,15,5,62,30,452,15.1,4,21,41.9,43,2.0,30.1,48.4,7.3,1,3,0,0,0.0,3,3.0,0.2,0.1,31,14.7,455,4,0,4,
+FranBy00,Byron Franklin,WR,1984,26,BUF,NFL,WR,16,16,133,69,862,12.5,4,37,41.4,64,4.3,53.9,51.9,6.5,1,-7,0,0,0.0,-7,-7.0,-0.4,0.1,70,12.2,855,4,4,6,
+FranBy00,Byron Franklin,WR,1985,27,SEA,NFL,WR,13,0,22,10,119,11.9,0,5,31.8,28,0.8,9.2,45.5,5.4,1,5,0,1,100.0,5,5.0,0.4,0.1,11,11.3,124,0,0,1,
+FranBy00,Byron Franklin,WR,1986,28,SEA,NFL,WR,14,1,59,33,547,16.6,2,20,42.4,49,2.4,39.1,55.9,9.3,1,2,0,0,0.0,2,2.0,0.1,0.1,34,16.1,549,2,0,6,
+FranBy00,Byron Franklin,WR,1987,29,SEA,NFL,WR,6,0,3,1,7,7.0,0,1,33.3,7,0.2,1.2,33.3,2.3,0,0,0,0,,,,0.0,0.0,1,7.0,7,0,0,0,

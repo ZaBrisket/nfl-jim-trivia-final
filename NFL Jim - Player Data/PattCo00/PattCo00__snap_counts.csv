@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PattCo00,Cordarrelle Patterson,WR,2013*+,22,MIN,WR,84,16,6,436,42%,0,0%,100,20%
+PattCo00,Cordarrelle Patterson,WR,2014,23,MIN,WR,84,16,7,566,55%,0,0%,75,17%
+PattCo00,Cordarrelle Patterson,WR,2015,24,MIN,WR,84,16,1,57,6%,0,0%,70,16%
+PattCo00,Cordarrelle Patterson,WR,2016*+,25,MIN,WR,84,16,8,531,50%,0,0%,124,29%
+PattCo00,Cordarrelle Patterson,WR,2017,26,OAK,WR,84,16,2,430,43%,0,0%,157,37%
+PattCo00,Cordarrelle Patterson,WR,2018,27,NWE,WR,84,15,5,230,22%,0,0%,74,17%
+PattCo00,Cordarrelle Patterson,WR,2019*+,28,CHI,WR,84,16,4,202,19%,0,0%,203,49%
+PattCo00,Cordarrelle Patterson,WR,2020*+,29,CHI,WR,84,16,3,201,19%,0,0%,146,32%
+PattCo00,Cordarrelle Patterson,WR,2021,30,ATL,RB,84,16,13,473,47%,2,0%,75,19%
+PattCo00,Cordarrelle Patterson,WR,2022,31,ATL,RB,84,13,11,382,47%,0,0%,60,18%
+PattCo00,Cordarrelle Patterson,WR,2023,32,ATL,RB,84,14,0,177,19%,0,0%,76,20%
+PattCo00,Cordarrelle Patterson,WR,2024,33,PIT,RB,84,13,1,110,13%,0,0%,64,18%

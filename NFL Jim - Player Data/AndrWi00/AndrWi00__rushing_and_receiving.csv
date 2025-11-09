@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AndrWi00,William Andrews,RB,1979,24,ATL,NFL,FB,15,15,239,1023,3,56,52.7,23,4.3,68.2,15.9,63,39,309,7.9,2,16,46.0,34,2.6,20.6,61.9,4.9,278,4.8,1332,5,5,9,
+AndrWi00,William Andrews,RB,1980,25,ATL,NFL,FB,16,16,265,1308,4,73,54.0,33,4.9,81.8,16.6,74,51,456,8.9,1,21,47.3,26,3.2,28.5,68.9,6.2,316,5.6,1764,5,6,16,PB
+AndrWi00,William Andrews,RB,1981,26,ATL,NFL,FB,16,16,289,1301,10,77,59.9,29,4.5,81.3,18.1,104,81,735,9.1,2,34,51.9,70,5.1,45.9,77.9,7.1,370,5.5,2036,12,12,16,"PB,AP-2,AP OPoY-8"
+AndrWi00,William Andrews,RB,1982,27,ATL,NFL,FB,9,9,139,573,5,35,51.1,19,4.1,63.7,15.4,57,42,503,12.0,2,19,57.9,86,4.7,55.9,73.7,8.8,181,5.9,1076,7,1,14,"PB,AP-2"
+AndrWi00,William Andrews,RB,1983,28,ATL,NFL,RB,16,16,331,1567,7,77,52.6,27,4.7,97.9,20.7,72,59,609,10.3,4,35,55.6,40,3.7,38.1,81.9,8.5,390,5.6,2176,11,6,18,PB
+AndrWi00,William Andrews,RB,1984,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AndrWi00,William Andrews,RB,1986,31,ATL,NFL,RB,15,0,52,214,1,13,50.0,13,4.1,14.3,3.5,7,5,35,7.0,0,1,57.1,14,0.3,2.3,71.4,5.0,57,4.4,249,1,0,1,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+RashAh00,Ahmad Rashad,WR,1972,23,STL,NFL,WR,14,13,0,0,0,0,,5,2,0,0,0.0,,,,0,
+RashAh00,Ahmad Rashad,WR,,,,,,,,,,,,,,,,,,,,,,
+RashAh00,Ahmad Rashad,WR,1974,25,BUF,NFL,WR,14,14,0,0,0,0,,0,2,0,2,0.0,,,,0,
+RashAh00,Ahmad Rashad,WR,1975,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,
+RashAh00,Ahmad Rashad,WR,1976,27,MIN,NFL,WR,13,11,0,0,0,0,,1,0,0,0,0.0,,,,0,
+RashAh00,Ahmad Rashad,WR,1977,28,MIN,NFL,WR,14,14,0,0,0,0,,2,0,0,0,0.0,,,,0,
+RashAh00,Ahmad Rashad,WR,1978,29,MIN,NFL,WR,16,16,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,PB
+RashAh00,Ahmad Rashad,WR,1979,30,MIN,NFL,WR,16,16,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,PB
+RashAh00,Ahmad Rashad,WR,1980,31,MIN,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,PB
+RashAh00,Ahmad Rashad,WR,1981,32,MIN,NFL,WR,16,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,PB

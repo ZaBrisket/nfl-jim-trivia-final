@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DaviMi01,Mike Davis,RB,2015,22,SFO,NFL,RB,6,0,35,58,0,5,31.4,13,1.7,9.7,5.8,13,7,38,5.4,0,2,30.8,11,1.2,6.3,53.8,2.9,42,2.3,96,0,0,1,
+DaviMi01,Mike Davis,RB,2016,23,SFO,NFL,RB,8,1,19,50,1,4,47.4,8,2.6,6.3,2.4,5,3,25,8.3,0,0,60.0,10,0.4,3.1,60.0,5.0,22,3.4,75,1,1,0,
+DaviMi01,Mike Davis,RB,2017,24,SEA,NFL,RB,6,6,68,240,0,11,27.9,33,3.5,40.0,11.3,18,15,131,8.7,0,6,50.0,23,2.5,21.8,83.3,7.3,83,4.5,371,0,0,3,
+DaviMi01,Mike Davis,RB,2018,25,SEA,NFL,RB,15,2,112,514,4,25,51.8,37,4.6,34.3,7.5,42,34,214,6.3,1,10,47.6,18,2.3,14.3,81.0,5.1,146,5.0,728,5,0,5,
+DaviMi01,Mike Davis,RB,2019,26,2TM,NFL,RB,12,1,13,27,0,0,15.4,8,2.1,2.3,1.1,8,7,22,3.1,0,1,25.0,7,0.6,1.8,87.5,2.8,20,2.5,49,0,0,0,
+DaviMi01,Mike Davis,RB,2019,26,CHI,NFL,RB,7,1,11,25,0,0,18.2,8,2.3,3.6,1.6,8,7,22,3.1,0,1,25.0,7,1.0,3.1,87.5,2.8,18,2.6,47,0,0,0,
+DaviMi01,Mike Davis,RB,2019,26,CAR,NFL,RB,5,0,2,2,0,0,0.0,2,1.0,0.4,0.4,0,0,0,,0,0,,,0.0,0.0,,,2,1.0,2,0,0,0,
+DaviMi01,Mike Davis,RB,2020,27,CAR,NFL,RB,15,12,165,642,6,38,47.3,25,3.9,42.8,11.0,70,59,373,6.3,2,17,47.1,23,3.9,24.9,84.3,5.3,224,4.5,1015,8,1,7,
+DaviMi01,Mike Davis,RB,2021,28,ATL,NFL,RB,17,8,138,503,3,21,42.0,18,3.6,29.6,8.1,58,44,259,5.9,1,12,39.7,20,2.6,15.2,75.9,4.5,182,4.2,762,4,4,5,
+DaviMi01,Mike Davis,RB,2022,29,BAL,NFL,RB,8,0,8,18,0,1,37.5,10,2.3,2.3,1.0,2,2,4,2.0,0,0,0.0,7,0.3,0.5,100.0,2.0,10,2.2,22,0,1,0,

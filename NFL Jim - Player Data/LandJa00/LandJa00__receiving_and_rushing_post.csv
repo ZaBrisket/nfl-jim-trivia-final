@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LandJa00,Jarvis Landry,WR,2016,24,MIA,NFL,WR,1,1,14,11,102,9.3,0,8,64.3,17,11.0,102.0,78.6,7.3,0,0,0,0,0.0,0.0,11,9.3,102,0,0,
+LandJa00,Jarvis Landry,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LandJa00,Jarvis Landry,WR,2020,28,CLE,NFL,WR,2,1,18,12,112,9.3,2,6,38.9,40,6.0,56.0,66.7,6.2,0,0,0,0,0.0,0.0,12,9.3,112,2,0,

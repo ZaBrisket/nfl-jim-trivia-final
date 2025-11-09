@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillRo04,Roy Williams,WR,2004,23,DET,NFL,WR,14,12,118,54,817,15.1,8,34,38.1,46,3.9,58.4,45.8,6.9,1,1,0,0,0.0,1,1.0,0.1,0.1,55,14.9,818,8,1,7,
+WillRo04,Roy Williams,WR,2005,24,DET,NFL,WR,13,12,94,45,687,15.3,8,31,44.7,51,3.5,52.8,47.9,7.3,0,0,0,0,,,,0.0,0.0,45,15.3,687,8,0,6,
+WillRo04,Roy Williams,WR,2006,25,DET,NFL,WR,16,16,151,82,1310,16.0,7,66,51.7,60,5.1,81.9,54.3,8.7,2,2,0,0,0.0,2,1.0,0.1,0.1,84,15.6,1312,7,2,11,PB
+WillRo04,Roy Williams,WR,2007,26,DET,NFL,WR,12,12,105,64,838,13.1,5,34,51.4,91,5.3,69.8,61.0,8.0,2,1,0,1,50.0,9,0.5,0.1,0.2,66,12.7,839,5,2,7,
+WillRo04,Roy Williams,WR,2008,27,2TM,NFL,WR,15,11,39,36,430,11.9,2,14,43.6,38,2.4,28.7,92.3,11.0,1,13,0,0,0.0,13,13.0,0.9,0.1,37,12.0,443,2,0,4,
+WillRo04,Roy Williams,WR,2008,27,DET,NFL,WR,5,4,39,17,232,13.6,1,14,43.6,25,3.4,46.4,43.6,5.9,0,0,0,0,,,,0.0,0.0,17,13.6,232,1,0,2,
+WillRo04,Roy Williams,WR,2008,27,DAL,NFL,WR,10,7,0,19,198,10.4,1,0,,38,1.9,19.8,,,1,13,0,0,0.0,13,13.0,1.3,0.1,20,10.6,211,1,0,2,
+WillRo04,Roy Williams,WR,2009,28,DAL,NFL,WR,15,13,86,38,596,15.7,7,29,43.0,66,2.5,39.7,44.2,6.9,0,0,0,0,,,,0.0,0.0,38,15.7,596,7,1,5,
+WillRo04,Roy Williams,WR,2010,29,DAL,NFL,WR,15,9,64,37,530,14.3,5,24,50.0,63,2.5,35.3,57.8,8.3,0,0,0,0,,,,0.0,0.0,37,14.3,530,5,3,5,
+WillRo04,Roy Williams,WR,2011,30,CHI,NFL,WR,15,9,63,37,507,13.7,2,29,57.1,25,2.5,33.8,58.7,8.0,0,0,0,0,,,,0.0,0.0,37,13.7,507,2,0,4,

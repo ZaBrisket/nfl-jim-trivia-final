@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WilsWa00,Wade Wilson,QB,1984,25,MIN,NFL,QB,8,5,61,63,64,65,87,81,82,93,73,
+WilsWa00,Wade Wilson,QB,1985,26,MIN,NFL,QB,4,1,93,100,93,97,98,110,88,111,96,
+WilsWa00,Wade Wilson,QB,1986,27,MIN,NFL,QB,9,3,126,121,121,119,103,108,107,97,113,
+WilsWa00,Wade Wilson,QB,1987,28,MIN,NFL,QB,12,7,121,114,111,107,94,112,86,90,103,
+WilsWa00,Wade Wilson,QB,1988,29,MIN,NFL,QB,14,10,127,119,125,120,121,104,116,88,121,PB
+WilsWa00,Wade Wilson,QB,1989,30,MIN,NFL,QB,14,12,100,101,99,99,94,81,106,101,94,
+WilsWa00,Wade Wilson,QB,1990,31,MIN,NFL,QB,6,4,120,112,107,103,99,125,73,85,104,
+WilsWa00,Wade Wilson,QB,1991,32,MIN,NFL,QB,5,5,97,102,65,73,107,83,31,107,68,
+WilsWa00,Wade Wilson,QB,1992,33,ATL,NFL,QB,9,3,130,131,139,139,134,151,116,115,146,
+WilsWa00,Wade Wilson,QB,1993,34,NOR,NFL,QB,14,14,91,89,89,88,97,91,93,88,91,
+WilsWa00,Wade Wilson,QB,,,,,,,,,,,,,,,,,
+WilsWa00,Wade Wilson,QB,1995,36,DAL,NFL,QB,7,0,103,100,81,81,129,72,65,97,88,
+WilsWa00,Wade Wilson,QB,,,,,,,,,,,,,,,,,
+WilsWa00,Wade Wilson,QB,1998,39,OAK,NFL,QB,5,3,94,86,99,93,110,140,82,88,110,

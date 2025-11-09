@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StreRo00,Rod Streater,WR,2012,24,OAK,WR,80,16,2,581,54%,0,0%,8,2%
+StreRo00,Rod Streater,WR,2013,25,OAK,WR,80,16,14,748,72%,0,0%,6,1%
+StreRo00,Rod Streater,WR,2014,26,OAK,WR,80,3,3,86,50%,0,0%,0,0%
+StreRo00,Rod Streater,WR,2015,27,OAK,WR,80,1,0,10,16%,0,0%,0,0%
+StreRo00,Rod Streater,WR,2016,28,SFO,WR,81,16,2,252,24%,0,0%,190,39%
+StreRo00,Rod Streater,WR,2018,30,CLE,WR,13,3,0,23,10%,0,0%,41,39%

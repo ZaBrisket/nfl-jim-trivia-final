@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FinlJe00,Jermichael Finley,TE,2008,21,GNB,NFL,TE,14,1,12,6,74,12.3,1,3,41.7,35,0.4,5.3,50.0,6.2,0,0,0,0,0.0,0.0,6,12.3,74,1,0,1,
+FinlJe00,Jermichael Finley,TE,2009,22,GNB,NFL,TE,13,10,72,55,676,12.3,5,30,63.9,62,4.2,52.0,76.4,9.4,0,0,0,0,0.0,0.0,55,12.3,676,5,1,7,
+FinlJe00,Jermichael Finley,TE,2010,23,GNB,NFL,TE,5,5,26,21,301,14.3,1,12,69.2,34,4.2,60.2,80.8,11.6,0,0,0,0,0.0,0.0,21,14.3,301,1,0,3,
+FinlJe00,Jermichael Finley,TE,2011,24,GNB,NFL,TE,16,13,92,55,767,13.9,8,45,53.3,41,3.4,47.9,59.8,8.3,0,0,0,0,0.0,0.0,55,13.9,767,8,0,9,
+FinlJe00,Jermichael Finley,TE,2012,25,GNB,NFL,TE,16,14,87,61,667,10.9,2,31,52.9,40,3.8,41.7,70.1,7.7,0,0,0,0,0.0,0.0,61,10.9,667,2,1,6,
+FinlJe00,Jermichael Finley,TE,2013,26,GNB,NFL,TE,6,5,34,25,300,12.0,3,13,52.9,52,4.2,50.0,73.5,8.8,0,0,0,0,0.0,0.0,25,12.0,300,3,0,3,

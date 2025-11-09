@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnDa08,David Johnson,RB,2015,24,ARI,NFL,RB,16,5,125,581,8,36,55.2,47,4.6,36.3,7.8,57,36,457,12.7,4,21,47.4,55,2.3,28.6,63.2,8.0,161,6.4,1038,12,4,9,AP ORoY-4
+JohnDa08,David Johnson,RB,2016,25,ARI,NFL,RB,16,16,293,1239,16,73,48.8,58,4.2,77.4,18.3,120,80,879,11.0,4,42,48.3,58,5.0,54.9,66.7,7.3,373,5.7,2118,20,5,15,"PB,AP-1,AP OPoY-3"
+JohnDa08,David Johnson,RB,2017,26,ARI,NFL,RB,1,1,11,23,0,0,18.2,6,2.1,23.0,11.0,9,6,67,11.2,0,3,55.6,24,6.0,67.0,66.7,7.4,17,5.3,90,0,2,1,
+JohnDa08,David Johnson,RB,2018,27,ARI,NFL,RB,16,16,258,940,7,51,38.0,53,3.6,58.8,16.1,76,50,446,8.9,3,22,34.2,40,3.1,27.9,65.8,5.9,308,4.5,1386,10,3,6,
+JohnDa08,David Johnson,RB,2019,28,ARI,NFL,RB,13,9,94,345,2,20,43.6,18,3.7,26.5,7.2,47,36,370,10.3,4,17,51.1,31,2.8,28.5,76.6,7.9,130,5.5,715,6,1,5,
+JohnDa08,David Johnson,RB,2020,29,HOU,NFL,RB,12,12,147,691,6,38,44.9,48,4.7,57.6,12.3,46,33,314,9.5,2,16,54.3,32,2.8,26.2,71.7,6.8,180,5.6,1005,8,2,7,
+JohnDa08,David Johnson,RB,2021,30,HOU,NFL,RB,13,4,67,228,0,7,34.3,15,3.4,17.5,5.2,42,32,225,7.0,1,11,42.9,16,2.5,17.3,76.2,5.4,99,4.6,453,1,1,3,
+JohnDa08,David Johnson,RB,2022,31,NOR,NFL,RB,5,0,12,24,0,0,33.3,5,2.0,4.8,2.4,4,4,47,11.8,0,3,100.0,21,0.8,9.4,100.0,11.8,16,4.4,71,0,1,0,

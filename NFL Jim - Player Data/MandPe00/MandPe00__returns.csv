@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MandPe00,Pete Mandley,WR,1984,23,DET,NFL,WR,15,0,2,0,0,0,0.0,22,390,0,32,17.7,428,
+MandPe00,Pete Mandley,WR,1985,24,DET,NFL,WR,16,0,38,403,1,63,10.6,6,152,0,35,25.3,871,
+MandPe00,Pete Mandley,WR,1986,25,DET,NFL,WR,16,0,43,420,1,81,9.8,2,37,0,37,18.5,563,
+MandPe00,Pete Mandley,WR,1987,26,DET,NFL,WR,12,12,23,250,0,54,10.9,0,0,0,0,,973,
+MandPe00,Pete Mandley,WR,1988,27,DET,NFL,WR,15,14,37,287,0,25,7.8,0,0,0,0,,946,
+MandPe00,Pete Mandley,WR,1989,28,KAN,NFL,WR,13,12,19,151,0,19,7.9,1,0,0,0,0.0,628,
+MandPe00,Pete Mandley,WR,1990,29,KAN,NFL,WR,5,2,0,0,0,0,,4,51,0,23,12.8,148,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SherHe00,Heath Sherman,RB,1989,22,PHI,NFL,RB,15,1,40,177,2,11,50.0,37,4.4,11.8,2.7,12,8,85,10.6,0,4,41.7,17,0.5,5.7,66.7,7.1,48,5.5,262,2,4,2,
+SherHe00,Heath Sherman,RB,1990,23,PHI,NFL,FB,14,6,164,685,1,30,47.0,36,4.2,48.9,11.7,27,23,167,7.3,3,7,55.6,26,1.6,11.9,85.2,6.2,187,4.6,852,4,4,7,
+SherHe00,Heath Sherman,RB,1991,24,PHI,NFL,RB,16,5,106,279,0,14,34.9,12,2.6,17.4,6.6,18,14,59,4.2,0,2,33.3,11,0.9,3.7,77.8,3.3,120,2.8,338,0,3,2,
+SherHe00,Heath Sherman,RB,1992,25,PHI,NFL,FB,16,7,112,583,5,32,52.7,34,5.2,36.4,7.0,23,18,219,12.2,1,6,65.2,75,1.1,13.7,78.3,9.5,130,6.2,802,6,3,7,
+SherHe00,Heath Sherman,RB,1993,26,PHI,NFL,FB,15,7,115,406,2,29,45.2,19,3.5,27.1,7.7,14,12,78,6.5,0,5,42.9,21,0.8,5.2,85.7,5.6,127,3.8,484,2,3,3,

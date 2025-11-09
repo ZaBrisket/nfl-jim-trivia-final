@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+KirbTe00,Terry Kirby,RB,1996,26,SFO,NFL,RB,2,2,5,33,0,15,6.6,0,0,0,0,,149,
+KirbTe00,Terry Kirby,RB,,,,,,,,,,,,,,,,,,,
+KirbTe00,Terry Kirby,RB,2001,31,OAK,NFL,RB,2,0,0,0,0,0,,7,157,0,26,22.4,160,

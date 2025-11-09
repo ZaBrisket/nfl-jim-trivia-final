@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MillCh00,Chris Miller,QB,1988,23,ATL,NFL,QB,13,13,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+MillCh00,Chris Miller,QB,1989,24,ATL,NFL,QB,15,15,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0.2,
+MillCh00,Chris Miller,QB,1990,25,ATL,NFL,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

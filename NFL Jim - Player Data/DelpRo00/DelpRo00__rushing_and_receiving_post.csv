@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DelpRo00,Robert Delpino,RB,1988,23,RAM,NFL,RB,1,0,3,4,0,0,0.0,4,1.3,4.0,3.0,2,2,33,16.5,0,2,100.0,21,2.0,33.0,100.0,16.5,5,7.4,37,0,0,
+DelpRo00,Robert Delpino,RB,1989,24,RAM,NFL,RB,3,0,1,3,0,0,0.0,3,3.0,1.0,0.3,6,3,31,10.3,0,2,50.0,16,1.0,10.3,50.0,5.2,4,8.5,34,0,0,
+DelpRo00,Robert Delpino,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DelpRo00,Robert Delpino,RB,1993,28,DEN,NFL,RB,1,1,9,32,0,3,55.6,16,3.6,32.0,9.0,,0,0,,0,0,,,0.0,0.0,,,9,3.6,32,0,0,

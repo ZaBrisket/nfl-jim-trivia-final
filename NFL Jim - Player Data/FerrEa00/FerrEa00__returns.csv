@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+FerrEa00,Earl Ferrell,RB,1982,24,STL,NFL,RB,9,0,1,6,0,6,6.0,4,88,0,27,22.0,94,
+FerrEa00,Earl Ferrell,RB,1983,25,STL,NFL,RB,16,0,1,17,0,17,17.0,13,257,0,28,19.8,327,
+FerrEa00,Earl Ferrell,RB,1984,26,STL,NFL,FB,16,9,0,0,0,0,,1,0,0,0,0.0,421,
+FerrEa00,Earl Ferrell,RB,,,,,,,,,,,,,,,,,,,
+FerrEa00,Earl Ferrell,RB,1986,28,STL,NFL,FB,16,15,0,0,0,0,,3,41,0,27,13.7,1023,
+FerrEa00,Earl Ferrell,RB,1987,29,STL,NFL,FB,11,11,0,0,0,0,,1,10,0,10,10.0,784,
+FerrEa00,Earl Ferrell,RB,1988,30,PHO,NFL,FB,16,16,0,0,0,0,,2,25,0,14,12.5,1270,

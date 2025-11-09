@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MossRa00,Randy Moss,WR,1998,21,MIN,NFL,WR,2,2,20,10,148,14.8,2,10,50.0,45,5.0,74.0,50.0,7.4,0,0,0,0,,,,0.0,0.0,10,14.8,148,2,0,
+MossRa00,Randy Moss,WR,1999,22,MIN,NFL,WR,2,2,20,14,315,22.5,3,12,65.0,58,7.0,157.5,70.0,15.8,0,0,0,0,,,,0.0,0.0,14,22.5,315,3,0,
+MossRa00,Randy Moss,WR,2000,23,MIN,NFL,WR,2,2,14,4,139,34.8,2,3,28.6,68,2.0,69.5,28.6,9.9,0,0,0,0,,,,0.0,0.0,4,34.8,139,2,0,
+MossRa00,Randy Moss,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MossRa00,Randy Moss,WR,2004,27,MIN,NFL,WR,2,2,20,7,121,17.3,2,5,35.0,34,3.5,60.5,35.0,6.1,0,0,0,0,,,,0.0,0.0,7,17.3,121,2,0,
+MossRa00,Randy Moss,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MossRa00,Randy Moss,WR,2007,30,NWE,NFL,WR,3,3,18,7,94,13.4,1,7,38.9,18,2.3,31.3,38.9,5.2,1,14,0,1,100.0,14,14.0,4.7,0.3,8,13.5,108,1,0,
+MossRa00,Randy Moss,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MossRa00,Randy Moss,WR,2009,32,NWE,NFL,WR,1,1,7,5,48,9.6,0,3,71.4,19,5.0,48.0,71.4,6.9,0,0,0,0,,,,0.0,0.0,5,9.6,48,0,0,
+MossRa00,Randy Moss,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MossRa00,Randy Moss,WR,2012,35,SFO,NFL,WR,3,3,13,7,112,16.0,0,6,53.8,32,2.3,37.3,53.8,8.6,0,0,0,0,,,,0.0,0.0,7,16.0,112,0,0,

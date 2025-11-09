@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+BookDe00,Devontae Booker,RB,2018,26,DEN,NFL,RB,16,0,34,183,11,93,2.7,90,2.6,2,17.0,51,38,275,9,33,0.9,242,6.4,1.5,6,6.3,2,3.9,0,86.6,
+BookDe00,Devontae Booker,RB,2019,27,DEN,NFL,RB,16,0,2,9,0,0,0.0,9,4.5,1,2.0,9,6,57,1,13,2.2,44,7.3,4.0,0,,1,11.1,0,84.0,
+BookDe00,Devontae Booker,RB,2020,28,LVR,NFL,RB,16,1,93,423,21,236,2.5,187,2.0,5,18.6,21,17,84,2,3,0.2,81,4.8,0.3,2,8.5,0,0.0,1,63.5,
+BookDe00,Devontae Booker,RB,2021,29,NYG,NFL,RB,16,4,145,593,31,364,2.5,229,1.6,2,72.5,45,40,268,11,-21,-0.5,289,7.2,-0.1,0,,2,4.4,0,98.9,

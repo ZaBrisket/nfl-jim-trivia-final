@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RobiKo00,Koren Robinson,WR,2005,25,MIN,NFL,WR,14,5,2,0,0,0,0.0,47,1221,1,86,26.0,1595,"PB,AP CPoY-5"
+RobiKo00,Koren Robinson,WR,2006,26,GNB,NFL,WR,4,0,0,0,0,0,,12,253,0,31,21.1,342,
+RobiKo00,Koren Robinson,WR,2007,27,GNB,NFL,WR,9,1,0,0,0,0,,25,596,0,67,23.8,842,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MoreKn00,Knowshon Moreno,RB,2012,25,DEN,RB,27,8,6,338,57%,0,0%,0,0%
+MoreKn00,Knowshon Moreno,RB,2013,26,DEN,RB,27,16,15,704,58%,0,0%,3,1%
+MoreKn00,Knowshon Moreno,RB,2014,27,MIA,RB,28,3,0,68,32%,0,0%,0,0%

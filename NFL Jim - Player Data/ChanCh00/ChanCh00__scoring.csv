@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ChanCh00,Chris Chandler,QB,1988,23,IND,NFL,QB,15,13,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.2,
+ChanCh00,Chris Chandler,QB,1989,24,IND,NFL,QB,3,3,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,2.0,
+ChanCh00,Chris Chandler,QB,1990,25,TAM,NFL,QB,7,3,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.9,
+ChanCh00,Chris Chandler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ChanCh00,Chris Chandler,QB,1992,27,PHO,NFL,QB,15,13,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+ChanCh00,Chris Chandler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ChanCh00,Chris Chandler,QB,1994,29,RAM,NFL,QB,12,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+ChanCh00,Chris Chandler,QB,1995,30,HOU,NFL,QB,13,13,2,0,0,0,0,0,0,2,1,0,0,0,0,0,14,1.1,
+ChanCh00,Chris Chandler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ChanCh00,Chris Chandler,QB,1998,33,ATL,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,PB
+ChanCh00,Chris Chandler,QB,1999,34,ATL,NFL,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+ChanCh00,Chris Chandler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ChanCh00,Chris Chandler,QB,2003,38,CHI,NFL,QB,8,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.3,

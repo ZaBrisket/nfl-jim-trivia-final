@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+KirbTe00,Terry Kirby,RB,1993,23,MIA,NFL,RB,16,8,119,390,3,25,37.8,20,3.3,24.4,7.4,96,75,874,11.7,3,37,59.4,47,4.7,54.6,78.1,9.1,194,6.5,1264,6,5,11,
+KirbTe00,Terry Kirby,RB,1994,24,MIA,NFL,RB,4,4,60,233,2,16,41.7,30,3.9,58.3,15.0,20,14,154,11.0,0,6,45.0,26,3.5,38.5,70.0,7.7,74,5.2,387,2,2,3,
+KirbTe00,Terry Kirby,RB,1995,25,MIA,NFL,RB,16,4,108,414,4,25,41.7,38,3.8,25.9,6.8,83,66,618,9.4,3,30,54.2,46,4.1,38.6,79.5,7.4,174,5.9,1032,7,2,9,
+KirbTe00,Terry Kirby,RB,1996,26,SFO,NFL,RB,14,10,134,559,3,23,41.8,31,4.2,39.9,9.6,69,52,439,8.4,1,17,44.9,52,3.7,31.4,75.4,6.4,186,5.4,998,4,1,9,
+KirbTe00,Terry Kirby,RB,1997,27,SFO,NFL,RB,16,3,125,418,6,24,38.4,38,3.3,26.1,7.8,34,23,279,12.1,1,10,38.2,82,1.4,17.4,67.6,8.2,148,4.7,697,7,3,7,
+KirbTe00,Terry Kirby,RB,1998,28,SFO,NFL,RB,9,0,48,258,3,13,50.0,31,5.4,28.7,5.3,19,16,134,8.4,0,7,47.4,25,1.8,14.9,84.2,7.1,64,6.1,392,3,0,3,
+KirbTe00,Terry Kirby,RB,1999,29,CLE,NFL,RB,16,10,130,452,6,26,42.3,28,3.5,28.3,8.1,77,58,528,9.1,3,19,39.0,78,3.6,33.0,75.3,6.9,188,5.2,980,9,4,7,
+KirbTe00,Terry Kirby,RB,2000,30,OAK,NFL,RB,2,0,11,51,0,2,27.3,28,4.6,25.5,5.5,4,3,19,6.3,0,1,50.0,9,1.5,9.5,75.0,4.8,14,5.0,70,0,0,1,
+KirbTe00,Terry Kirby,RB,2001,31,OAK,NFL,RB,11,0,10,49,0,4,40.0,20,4.9,4.5,0.9,9,9,62,6.9,0,1,66.7,9,0.8,5.6,100.0,6.9,19,5.8,111,0,1,2,
+KirbTe00,Terry Kirby,RB,2002,32,OAK,NFL,RB,6,0,16,51,0,5,50.0,13,3.2,8.5,2.7,22,17,115,6.8,1,3,40.9,24,2.8,19.2,77.3,5.2,33,5.0,166,1,2,3,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CruzVi00,Victor Cruz,WR,2011,25,NYG,NFL,WR,16,7,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,AP-2
+CruzVi00,Victor Cruz,WR,2012,26,NYG,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,PB
+CruzVi00,Victor Cruz,WR,2013,27,NYG,NFL,WR,14,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,
+CruzVi00,Victor Cruz,WR,2014,28,NYG,NFL,WR,6,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+CruzVi00,Victor Cruz,WR,,,,,,,,,,,,,,,,,,,,,,,,
+CruzVi00,Victor Cruz,WR,2016,30,NYG,NFL,WR,15,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MeyeJa01,Jakobi Meyers,WR,2019,23,NWE,NFL,WR,15,1,41,26,359,13.8,0,17,53.7,35,1.7,23.9,63.4,8.8,0,0,0,0,,,,0.0,0.0,26,13.8,359,0,0,3,
+MeyeJa01,Jakobi Meyers,WR,2020,24,NWE,NFL,WR,14,9,81,59,729,12.4,0,37,59.3,35,4.2,52.1,72.8,9.0,2,9,0,0,50.0,7,4.5,0.6,0.1,61,12.1,738,0,1,7,
+MeyeJa01,Jakobi Meyers,WR,2021,25,NWE,NFL,WR,17,16,126,83,866,10.4,2,42,52.4,39,4.9,50.9,65.9,6.9,1,9,0,0,100.0,9,9.0,0.5,0.1,84,10.4,875,2,1,9,
+MeyeJa01,Jakobi Meyers,WR,2022,26,NWE,NFL,WR,14,13,96,67,804,12.0,6,38,56.3,48,4.8,57.4,69.8,8.4,2,-11,0,2,100.0,7,-5.5,-0.8,0.1,69,11.5,793,6,2,6,
+MeyeJa01,Jakobi Meyers,WR,2023,27,LVR,NFL,WR,16,16,106,71,807,11.4,8,46,54.7,33,4.4,50.4,67.0,7.6,4,24,2,3,75.0,17,6.0,1.5,0.3,75,11.1,831,10,0,7,
+MeyeJa01,Jakobi Meyers,WR,2024,28,LVR,NFL,WR,15,15,129,87,1027,11.8,4,52,55.8,43,5.8,68.5,67.4,8.0,2,23,0,1,50.0,20,11.5,1.5,0.1,89,11.8,1050,4,0,8,
+MeyeJa01,Jakobi Meyers,WR,2025,29,LVR,NFL,WR,7,6,49,33,352,10.7,0,15,59.2,45,4.7,50.3,67.3,7.2,0,0,0,0,,,,0.0,0.0,33,10.7,352,0,0,,

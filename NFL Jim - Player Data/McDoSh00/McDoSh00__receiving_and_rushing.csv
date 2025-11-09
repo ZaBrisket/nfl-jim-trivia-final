@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McDoSh00,Shaun McDonald,WR,2003,22,STL,NFL,WR,8,1,21,10,62,6.2,0,4,33.3,13,1.3,7.8,47.6,3.0,2,7,0,1,100.0,5,3.5,0.9,0.3,12,5.8,69,0,1,1,
+McDoSh00,Shaun McDonald,WR,2004,23,STL,NFL,WR,16,0,68,37,494,13.4,3,23,48.5,52,2.3,30.9,54.4,7.3,4,0,0,0,25.0,,0.0,0.0,0.3,41,12.0,494,3,4,3,
+McDoSh00,Shaun McDonald,WR,2005,24,STL,NFL,WR,16,2,74,46,523,11.4,0,28,50.0,31,2.9,32.7,62.2,7.1,1,7,0,1,100.0,7,7.0,0.4,0.1,47,11.3,530,0,1,4,
+McDoSh00,Shaun McDonald,WR,2006,25,STL,NFL,WR,16,0,19,13,136,10.5,1,6,47.4,28,0.8,8.5,68.4,7.2,0,0,0,0,,,,0.0,0.0,13,10.5,136,1,2,1,
+McDoSh00,Shaun McDonald,WR,2007,26,DET,NFL,WR,16,7,127,79,943,11.9,6,47,53.5,49,4.9,58.9,62.2,7.4,4,2,0,1,50.0,9,0.5,0.1,0.3,83,11.4,945,6,3,8,
+McDoSh00,Shaun McDonald,WR,2008,27,DET,NFL,WR,12,7,67,35,332,9.5,1,18,44.8,26,2.9,27.7,52.2,5.0,0,0,0,0,,,,0.0,0.0,35,9.5,332,1,2,3,
+McDoSh00,Shaun McDonald,WR,2009,28,PIT,NFL,WR,4,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

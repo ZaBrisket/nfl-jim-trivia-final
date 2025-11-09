@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+JohnSt00,Stevie Johnson,WR,2008,22,BUF,NFL,WR,11,1,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,
+JohnSt00,Stevie Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnSt00,Stevie Johnson,WR,2010,24,BUF,NFL,WR,16,13,0,0,0,0,0,0,1,0,0,0,0.0,2,1,1,0,0,0,
+JohnSt00,Stevie Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnSt00,Stevie Johnson,WR,2012,26,BUF,NFL,WR,16,16,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+JohnSt00,Stevie Johnson,WR,2013,27,BUF,NFL,WR,12,12,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+JohnSt00,Stevie Johnson,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnSt00,Stevie Johnson,WR,2015,29,SDG,NFL,WR,10,8,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,

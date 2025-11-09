@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KmetCo00,Cole Kmet,TE,2020,21,CHI,TE,85,16,9,603,56%,0,0%,109,24%
+KmetCo00,Cole Kmet,TE,2021,22,CHI,TE,85,17,17,935,83%,0,0%,121,29%
+KmetCo00,Cole Kmet,TE,2022,23,CHI,TE,85,17,17,971,94%,0,0%,57,13%
+KmetCo00,Cole Kmet,TE,2023,24,CHI,TE,85,17,17,878,77%,0,0%,58,13%
+KmetCo00,Cole Kmet,TE,2024,25,CHI,TE,85,17,16,994,88%,0,0%,52,12%
+KmetCo00,Cole Kmet,TE,2025,26,CHI,TE,85,7,7,326,69%,0,0%,36,18%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WatsDe00,Deshaun Watson,QB,2017,22,HOU,NFL,QB,7,6,124,115,119,114,94,154,74,84,118,AP ORoY-3
+WatsDe00,Deshaun Watson,QB,2018,23,HOU,NFL,QB,16,16,121,107,119,110,118,107,109,67,117,PB
+WatsDe00,Deshaun Watson,QB,2019,24,HOU,NFL,QB,15,15,110,105,107,104,111,106,97,87,108,PB
+WatsDe00,Deshaun Watson,QB,2020,25,HOU,NFL,QB,16,16,134,126,133,126,125,115,119,84,128,PB
+WatsDe00,Deshaun Watson,QB,,,,,,,,,,,,,,,,,
+WatsDe00,Deshaun Watson,QB,2022,27,CLE,NFL,QB,6,6,86,79,85,82,71,98,86,71,82,
+WatsDe00,Deshaun Watson,QB,2023,28,CLE,NFL,QB,6,6,89,88,92,91,86,100,99,84,92,
+WatsDe00,Deshaun Watson,QB,2024,29,CLE,NFL,QB,7,7,64,58,74,69,94,76,117,54,83,

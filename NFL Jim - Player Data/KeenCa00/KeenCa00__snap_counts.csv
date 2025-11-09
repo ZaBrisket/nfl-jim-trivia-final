@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KeenCa00,Case Keenum,QB,2013,25,HOU,QB,7,8,8,461,87%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2014,26,HOU,QB,7,2,2,165,100%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2015,27,STL,QB,17,6,5,299,84%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2016,28,LAR,QB,17,10,9,596,92%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2017,29,MIN,QB,7,15,14,1016,97%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2018,30,DEN,QB,4,16,16,1073,100%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2019,31,WAS,QB,8,10,8,448,76%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2020,32,CLE,QB,5,2,0,15,11%,0,0%,1,2%
+KeenCa00,Case Keenum,QB,2021,33,CLE,QB,5,7,2,174,39%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2022,34,BUF,QB,18,2,0,24,19%,0,0%,0,0%
+KeenCa00,Case Keenum,QB,2023,35,HOU,QB,18,2,2,113,74%,0,0%,0,0%

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GaryOl00,Olandis Gary,RB,1999,24,DEN,NFL,RB,12,12,276,1159,7,61,42.4,71,4.2,96.6,23.0,29,21,159,7.6,0,5,55.2,21,1.8,13.3,72.4,5.5,297,4.4,1318,7,2,9,
+GaryOl00,Olandis Gary,RB,2000,25,DEN,NFL,RB,1,0,13,80,0,5,53.8,25,6.2,80.0,13.0,4,3,10,3.3,0,0,75.0,7,3.0,10.0,75.0,2.5,16,5.6,90,0,0,1,
+GaryOl00,Olandis Gary,RB,2001,26,DEN,NFL,RB,9,1,57,228,1,13,43.9,29,4.0,25.3,6.3,5,4,29,7.3,0,1,60.0,11,0.4,3.2,80.0,5.8,61,4.2,257,1,0,2,
+GaryOl00,Olandis Gary,RB,2002,27,DEN,NFL,RB,13,2,37,147,1,7,32.4,26,4.0,11.3,2.8,20,18,148,8.2,0,5,60.0,19,1.4,11.4,90.0,7.4,55,5.4,295,1,0,2,
+GaryOl00,Olandis Gary,RB,2003,28,DET,NFL,RB,13,1,113,384,2,18,36.3,27,3.4,29.5,8.7,22,13,69,5.3,0,4,27.3,13,1.0,5.3,59.1,3.1,126,3.6,453,2,1,3,

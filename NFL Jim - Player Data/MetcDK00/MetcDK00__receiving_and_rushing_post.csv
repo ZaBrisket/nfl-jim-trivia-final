@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MetcDK00,D.K. Metcalf,WR,2019,22,SEA,NFL,WR,2,2,14,11,219,19.9,1,7,78.6,53,5.5,109.5,78.6,15.6,0,0,0,0,0.0,0.0,11,19.9,219,1,0,
+MetcDK00,D.K. Metcalf,WR,2020,23,SEA,NFL,WR,1,1,11,5,96,19.2,2,2,45.5,51,5.0,96.0,45.5,8.7,0,0,0,0,0.0,0.0,5,19.2,96,2,0,
+MetcDK00,D.K. Metcalf,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MetcDK00,D.K. Metcalf,WR,2022,25,SEA,NFL,WR,1,1,13,10,136,13.6,2,7,69.2,50,10.0,136.0,76.9,10.5,0,0,0,0,0.0,0.0,10,13.6,136,2,0,

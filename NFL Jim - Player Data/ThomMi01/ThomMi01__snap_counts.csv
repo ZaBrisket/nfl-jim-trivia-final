@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThomMi01,Mike Thomas,WR,2012,25,2TM,WR,,16,4,456,,0,,33,
+ThomMi01,Mike Thomas,WR,,,JAX,WR,80,7,3,233,53%,0,0%,24,11%
+ThomMi01,Mike Thomas,WR,,,,,,,,223,33%,0,0%,9,3%

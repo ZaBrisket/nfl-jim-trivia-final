@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WentCa00,Carson Wentz,QB,2016,24,PHI,NFL,QB,16,16,79,84,82,85,99,79,101,108,86,
+WentCa00,Carson Wentz,QB,2017,25,PHI,NFL,QB,13,13,106,107,117,117,89,134,113,102,116,"PB,AP-2,AP MVP-3"
+WentCa00,Carson Wentz,QB,2018,26,PHI,NFL,QB,11,11,109,107,112,110,123,108,110,96,116,
+WentCa00,Carson Wentz,QB,2019,27,PHI,NFL,QB,16,16,88,92,98,100,97,98,120,105,101,AP CPoY-5
+WentCa00,Carson Wentz,QB,2020,28,PHI,NFL,QB,12,12,76,69,74,71,69,91,77,68,75,
+WentCa00,Carson Wentz,QB,2021,29,IND,NFL,QB,17,17,95,96,104,104,89,107,118,102,104,
+WentCa00,Carson Wentz,QB,2022,30,WAS,NFL,QB,8,7,83,80,81,80,90,96,79,85,84,
+WentCa00,Carson Wentz,QB,,,,,,,,,,,,,,,,,
+WentCa00,Carson Wentz,QB,2025,33,MIN,NFL,QB,5,5,101,94,94,89,99,90,87,80,92,

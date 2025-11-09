@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WoodIc00,Ickey Woods,RB,1988,22,CIN,NFL,FB,16,10,0,0,0,0,0,8,1,0,0,0.0,0,0,0,0,"AP-2,AP ORoY-3"
+WoodIc00,Ickey Woods,RB,1989,23,CIN,NFL,RB,2,2,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WoodIc00,Ickey Woods,RB,1990,24,CIN,NFL,FB,10,6,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WoodIc00,Ickey Woods,RB,1991,25,CIN,NFL,RB,9,2,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,

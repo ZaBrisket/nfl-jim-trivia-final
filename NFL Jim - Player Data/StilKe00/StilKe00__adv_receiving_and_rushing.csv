@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+StilKe00,Kenny Stills,WR,2018,26,MIA,NFL,WR,15,15,64,37,553,27,422,11.4,131,3.5,16.3,1,37.0,3,4.7,3,98.0,0,0,0,0,,0,,0,
+StilKe00,Kenny Stills,WR,2019,27,HOU,NFL,WR,13,5,55,40,561,27,417,10.4,144,3.6,10.5,0,,2,3.6,1,121.9,0,0,0,0,,0,,0,
+StilKe00,Kenny Stills,WR,2020,28,HOU,NFL,WR,10,0,19,11,144,8,127,11.5,17,1.5,12.5,0,,3,15.8,1,77.5,0,0,0,0,,0,,0,
+StilKe00,Kenny Stills,WR,2021,29,NOR,NFL,WR,13,4,23,6,68,4,58,9.7,10,1.7,18.4,0,,1,4.3,1,36.0,1,1,0,1,1.0,0,0.0,0,

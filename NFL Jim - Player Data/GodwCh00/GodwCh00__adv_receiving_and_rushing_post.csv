@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+GodwCh00,Chris Godwin,WR,2020,24,TAM,NFL,WR,4,4,32,16,232,10,128,8.0,104,6.5,10.6,1,16.0,3,9.4,0,84.4,1,6,1,6,6.0,0,0.0,0,
+GodwCh00,Chris Godwin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GodwCh00,Chris Godwin,WR,2022,26,TAM,NFL,WR,1,1,13,10,85,5,32,3.2,53,5.3,3.3,0,,0,0.0,0,93.4,0,0,0,0,,0,,0,
+GodwCh00,Chris Godwin,WR,2023,27,TAM,NFL,WR,2,2,13,8,85,4,55,6.9,30,3.8,10.0,0,,0,0.0,0,106.2,0,0,0,0,,0,,0,

@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+JohnBr00,Brad Johnson,QB,1996,28,MIN,NFL,QB,12,8,114,117,113,115,120,120,99,113,117,
+JohnBr00,Brad Johnson,QB,1997,29,MIN,NFL,QB,13,13,100,104,104,106,115,104,108,109,109,
+JohnBr00,Brad Johnson,QB,1998,30,MIN,NFL,QB,4,2,111,118,105,110,131,130,76,120,114,
+JohnBr00,Brad Johnson,QB,1999,31,WAS,NFL,QB,16,16,115,118,115,117,113,106,111,110,114,"PB,AP CPoY-2"
+JohnBr00,Brad Johnson,QB,2000,32,WAS,NFL,QB,12,11,102,105,94,97,117,89,87,111,97,
+JohnBr00,Brad Johnson,QB,2001,33,TAM,NFL,QB,16,16,88,88,94,94,106,79,120,97,98,
+JohnBr00,Brad Johnson,QB,2002,34,TAM,NFL,QB,13,13,101,107,117,120,111,114,132,114,121,PB
+JohnBr00,Brad Johnson,QB,2003,35,TAM,NFL,QB,16,16,98,106,97,102,109,106,91,120,101,
+JohnBr00,Brad Johnson,QB,2004,36,TAM,NFL,QB,4,4,95,94,95,94,112,86,104,96,99,
+JohnBr00,Brad Johnson,QB,2005,37,MIN,NFL,QB,15,9,92,92,104,103,109,100,130,96,110,
+JohnBr00,Brad Johnson,QB,2006,38,MIN,NFL,QB,15,14,89,91,86,87,104,78,95,101,88,
+JohnBr00,Brad Johnson,QB,,,,,,,,,,,,,,,,,
+JohnBr00,Brad Johnson,QB,2008,40,DAL,NFL,QB,16,3,73,70,60,60,72,83,51,77,61,

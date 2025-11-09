@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JohnBi01,Billy Johnson,WR,1974,22,HOU,NFL,WR,14,5,30,409,0,49,13.6,29,785,0,67,27.1,1664,
+JohnBi01,Billy Johnson,WR,1975,23,HOU,NFL,WR,14,14,40,612,3,83,15.3,33,798,1,81,24.2,1820,PB
+JohnBi01,Billy Johnson,WR,1976,24,HOU,NFL,WR,14,13,38,403,0,46,10.6,26,579,0,53,22.3,1483,
+JohnBi01,Billy Johnson,WR,1977,25,HOU,NFL,WR,14,0,35,539,2,87,15.4,25,630,1,76,25.2,1683,"PB,AP-1"
+JohnBi01,Billy Johnson,WR,1978,26,HOU,NFL,WR,5,0,8,60,0,20,7.5,4,73,0,22,18.3,143,
+JohnBi01,Billy Johnson,WR,1979,27,HOU,NFL,WR,2,2,4,17,0,16,4.3,4,37,0,12,9.3,162,
+JohnBi01,Billy Johnson,WR,,,,,,,,,,,,,,,,,,,
+JohnBi01,Billy Johnson,WR,1982,30,ATL,NFL,WR,9,0,24,273,0,71,11.4,0,0,0,0,,284,
+JohnBi01,Billy Johnson,WR,1983,31,ATL,NFL,WR,16,1,46,489,1,71,10.6,0,0,0,0,,1281,"PB,AP-2"
+JohnBi01,Billy Johnson,WR,1984,32,ATL,NFL,WR,6,0,15,152,0,37,10.1,2,39,0,21,19.5,570,
+JohnBi01,Billy Johnson,WR,1985,33,ATL,NFL,WR,16,8,10,82,0,18,8.2,0,0,0,0,,904,
+JohnBi01,Billy Johnson,WR,1986,34,ATL,NFL,WR,4,0,8,87,0,30,10.9,0,0,0,0,,169,
+JohnBi01,Billy Johnson,WR,1987,35,ATL,NFL,WR,12,1,21,168,0,45,8.0,0,0,0,0,,252,
+JohnBi01,Billy Johnson,WR,1988,36,WAS,NFL,WR,1,0,3,26,0,15,8.7,0,0,0,0,,26,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HarrMa00,Marvin Harrison,WR,1996,24,IND,NFL,WR,1,1,10,3,71,23.7,0,3,30.0,48,3.0,71.0,30.0,7.1,0,0,0,0,0.0,0.0,3,23.7,71,0,0,
+HarrMa00,Marvin Harrison,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HarrMa00,Marvin Harrison,WR,1999,27,IND,NFL,WR,1,1,18,5,65,13.0,0,5,27.8,25,5.0,65.0,27.8,3.6,0,0,0,0,0.0,0.0,5,13.0,65,0,0,
+HarrMa00,Marvin Harrison,WR,2000,28,IND,NFL,WR,1,1,11,5,63,12.6,0,2,36.4,30,5.0,63.0,45.5,5.7,0,0,0,0,0.0,0.0,5,12.6,63,0,0,
+HarrMa00,Marvin Harrison,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HarrMa00,Marvin Harrison,WR,2002,30,IND,NFL,WR,1,1,8,4,47,11.8,0,3,50.0,17,4.0,47.0,50.0,5.9,0,0,0,0,0.0,0.0,4,11.8,47,0,0,
+HarrMa00,Marvin Harrison,WR,2003,31,IND,NFL,WR,3,3,27,16,250,15.6,2,11,51.9,46,5.3,83.3,59.3,9.3,0,0,0,0,0.0,0.0,16,15.6,250,2,1,
+HarrMa00,Marvin Harrison,WR,2004,32,IND,NFL,WR,2,2,11,9,95,10.6,0,5,81.8,24,4.5,47.5,81.8,8.6,0,0,0,0,0.0,0.0,9,10.6,95,0,0,
+HarrMa00,Marvin Harrison,WR,2005,33,IND,NFL,WR,1,1,7,3,52,17.3,0,2,42.9,24,3.0,52.0,42.9,7.4,0,0,0,0,0.0,0.0,3,17.3,52,0,0,
+HarrMa00,Marvin Harrison,WR,2006,34,IND,NFL,WR,4,4,33,15,193,12.9,0,9,39.4,42,3.8,48.3,45.5,5.8,0,0,0,0,0.0,0.0,15,12.9,193,0,1,
+HarrMa00,Marvin Harrison,WR,2007,35,IND,NFL,WR,1,1,3,2,27,13.5,0,1,66.7,17,2.0,27.0,66.7,9.0,0,0,0,0,0.0,0.0,2,13.5,27,0,1,
+HarrMa00,Marvin Harrison,WR,2008,36,IND,NFL,WR,1,1,5,3,20,6.7,0,0,0.0,9,3.0,20.0,60.0,4.0,0,0,0,0,0.0,0.0,3,6.7,20,0,0,

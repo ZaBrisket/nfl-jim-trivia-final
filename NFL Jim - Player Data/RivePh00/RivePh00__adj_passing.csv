@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+RivePh00,Philip Rivers,QB,2006,25,SDG,NFL,QB,16,16,111,112,116,116,105,109,119,106,115,PB
+RivePh00,Philip Rivers,QB,2007,26,SDG,NFL,QB,16,16,99,102,100,102,98,106,96,110,101,
+RivePh00,Philip Rivers,QB,2008,27,SDG,NFL,QB,16,16,127,126,129,128,114,134,110,107,127,"AP MVP-6,AP OPoY-4,AP CPoY-8"
+RivePh00,Philip Rivers,QB,2009,28,SDG,NFL,QB,16,16,133,132,131,131,115,120,115,109,126,"PB,AP MVP-3,AP OPoY-4"
+RivePh00,Philip Rivers,QB,2010,29,SDG,NFL,QB,16,16,128,125,124,122,117,115,108,97,120,"PB,AP OPoY-4"
+RivePh00,Philip Rivers,QB,2011,30,SDG,NFL,QB,16,16,117,119,109,110,108,104,90,111,105,PB
+RivePh00,Philip Rivers,QB,2012,31,SDG,NFL,QB,16,16,94,90,97,94,112,107,99,83,104,
+RivePh00,Philip Rivers,QB,2013,32,SDG,NFL,QB,16,16,126,127,123,124,130,117,111,109,124,"PB,AP CPoY-1"
+RivePh00,Philip Rivers,QB,2014,33,SDG,NFL,QB,16,16,108,109,103,105,117,111,90,103,107,
+RivePh00,Philip Rivers,QB,2015,34,SDG,NFL,QB,16,16,101,102,103,104,113,99,108,103,106,
+RivePh00,Philip Rivers,QB,2016,35,SDG,NFL,QB,16,16,110,111,102,103,91,116,77,102,99,PB
+RivePh00,Philip Rivers,QB,2017,36,LAC,NFL,QB,16,16,114,121,114,119,97,105,110,124,108,PB
+RivePh00,Philip Rivers,QB,2018,37,LAC,NFL,QB,16,16,125,124,122,122,118,120,100,105,120,PB
+RivePh00,Philip Rivers,QB,2019,38,LAC,NFL,QB,16,16,110,112,98,100,106,92,81,107,95,
+RivePh00,Philip Rivers,QB,2020,39,IND,NFL,QB,16,16,110,117,108,113,115,98,105,123,107,

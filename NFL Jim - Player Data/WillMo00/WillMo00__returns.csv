@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WillMo00,Moe Williams,RB,1997,23,MIN,NFL,RB,14,0,0,0,0,0,16,388,0,74,24.3,461,
+WillMo00,Moe Williams,RB,1998,24,MIN,NFL,RB,12,1,0,0,0,0,2,19,0,12,9.5,83,
+WillMo00,Moe Williams,RB,1999,25,MIN,NFL,RB,14,0,0,0,0,0,10,240,1,85,24.0,321,
+WillMo00,Moe Williams,RB,2000,26,MIN,NFL,RB,16,0,0,0,0,0,10,214,0,34,21.4,312,
+WillMo00,Moe Williams,RB,,,,,,,,,,,,,,,,,,
+WillMo00,Moe Williams,RB,2002,28,MIN,NFL,RB,16,0,0,0,0,0,24,516,0,51,21.5,1181,
+WillMo00,Moe Williams,RB,,,,,,,,,,,,,,,,,,
+WillMo00,Moe Williams,RB,2005,31,MIN,NFL,RB,6,1,0,0,0,0,1,16,0,16,16.0,88,

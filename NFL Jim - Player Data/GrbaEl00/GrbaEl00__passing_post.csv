@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+GrbaEl00,Elvis Grbac,QB,1994,24,SFO,NFL,QB,2,0,,2,5,40.0,47,0,0.0,0,0.0,1,20.0,44,9.4,9.40,23.5,23.5,74.6,0,0,0.00,9.40,9.40,0,0,
+GrbaEl00,Elvis Grbac,QB,1995,25,SFO,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+GrbaEl00,Elvis Grbac,QB,1996,26,SFO,NFL,QB,2,0,,19,36,52.8,125,1,2.8,3,8.3,7,36.1,16,3.5,0.28,6.6,62.5,35.1,0,0,0.00,3.47,0.28,0,0,
+GrbaEl00,Elvis Grbac,QB,1997,27,KAN,NFL,QB,1,1,0-1-0,24,37,64.9,260,1,2.7,0,0.0,10,31.7,50,7.0,7.57,10.8,260.0,94.4,4,34,9.76,5.51,6.00,0,0,
+GrbaEl00,Elvis Grbac,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GrbaEl00,Elvis Grbac,QB,2001,31,BAL,NFL,QB,2,2,1-1-0,30,55,54.5,286,1,1.8,3,5.5,13,40.7,45,5.2,3.11,9.5,143.0,52.5,4,37,6.78,4.22,2.27,0,0,

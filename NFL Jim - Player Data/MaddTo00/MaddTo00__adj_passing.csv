@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MaddTo00,Tommy Maddox,QB,1992,21,DEN,NFL,QB,13,4,89,91,70,74,90,105,42,97,73,
+MaddTo00,Tommy Maddox,QB,,,,,,,,,,,,,,,,,
+MaddTo00,Tommy Maddox,QB,2002,31,PIT,NFL,QB,15,11,118,118,110,110,110,120,82,100,109,AP CPoY-1
+MaddTo00,Tommy Maddox,QB,2003,32,PIT,NFL,QB,16,16,96,95,95,94,93,92,98,94,93,
+MaddTo00,Tommy Maddox,QB,2004,33,PIT,NFL,QB,4,3,76,74,77,76,69,71,97,82,72,
+MaddTo00,Tommy Maddox,QB,2005,34,PIT,NFL,QB,4,2,80,77,69,69,61,85,57,78,63,

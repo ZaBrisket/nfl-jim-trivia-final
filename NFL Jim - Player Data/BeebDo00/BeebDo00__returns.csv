@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BeebDo00,Don Beebe,WR,1989,25,BUF,NFL,WR,14,0,0,0,0,0,16,353,0,85,22.1,670,
+BeebDo00,Don Beebe,WR,1990,26,BUF,NFL,WR,12,4,0,0,0,0,6,119,0,27,19.8,363,
+BeebDo00,Don Beebe,WR,1991,27,BUF,NFL,WR,11,7,0,0,0,0,7,121,0,24,17.3,535,
+BeebDo00,Don Beebe,WR,,,,,,,,,,,,,,,,,,
+BeebDo00,Don Beebe,WR,1993,29,BUF,NFL,WR,14,14,0,0,0,0,10,160,0,22,16.0,664,
+BeebDo00,Don Beebe,WR,1994,30,BUF,NFL,WR,13,11,0,0,0,0,12,230,0,35,19.2,768,
+BeebDo00,Don Beebe,WR,1995,31,CAR,NFL,WR,14,1,0,0,0,0,9,215,0,38,23.9,367,
+BeebDo00,Don Beebe,WR,1996,32,GNB,NFL,WR,16,6,0,0,0,0,15,403,1,90,26.9,1102,
+BeebDo00,Don Beebe,WR,1997,33,GNB,NFL,WR,10,0,0,0,0,0,6,134,0,39,22.3,162,

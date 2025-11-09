@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RobiBr01,Brian Robinson Jr.,RB,2022,23,WAS,NFL,RB,12,9,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.5,
+RobiBr01,Brian Robinson Jr.,RB,2023,24,WAS,NFL,RB,15,15,5,4,0,0,0,0,0,9,1,0,0,0,0,0,0,56,3.7,
+RobiBr01,Brian Robinson Jr.,RB,2024,25,WAS,NFL,RB,14,13,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,48,3.4,
+RobiBr01,Brian Robinson Jr.,RB,2025,26,SFO,NFL,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.7,

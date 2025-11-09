@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KellRo00,Robert Kelley,RB,2016,24,WAS,RB,32,15,9,342,34%,0,0%,36,9%
+KellRo00,Robert Kelley,RB,2017,25,WAS,RB,20,7,7,136,31%,0,0%,13,6%
+KellRo00,Robert Kelley,RB,2018,26,WAS,RB,20,2,0,9,6%,0,0%,18,40%

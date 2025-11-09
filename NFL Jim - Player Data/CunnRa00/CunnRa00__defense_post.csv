@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,safety_md,awards
+CunnRa00,Randall Cunningham,QB,1992,29,PHI,NFL,QB,2,2,0,0,0,0,0,0,2,1,0,0,0.0,0,0,
+CunnRa00,Randall Cunningham,QB,,,,,,,,,,,,,,,,,,,,,
+CunnRa00,Randall Cunningham,QB,1997,34,MIN,NFL,QB,2,2,0,0,0,0,0,0,4,1,-5,0,0.0,0,0,
+CunnRa00,Randall Cunningham,QB,1998,35,MIN,NFL,QB,2,2,0,0,0,0,0,0,3,0,-4,0,0.0,0,0,

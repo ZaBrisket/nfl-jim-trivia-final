@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AddiJo00,Jordan Addison,WR,2023,21,MIN,WR,3,17,14,921,82%,0,0%,0,0%
+AddiJo00,Jordan Addison,WR,2024,22,MIN,WR,3,15,15,818,82%,0,0%,1,0%
+AddiJo00,Jordan Addison,WR,2025,23,MIN,WR,3,5,4,285,89%,0,0%,0,0%

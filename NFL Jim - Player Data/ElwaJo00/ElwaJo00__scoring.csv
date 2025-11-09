@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ElwaJo00,John Elway,QB,1983,23,DEN,NFL,QB,11,10,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+ElwaJo00,John Elway,QB,1984,24,DEN,NFL,QB,15,14,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+ElwaJo00,John Elway,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ElwaJo00,John Elway,QB,1986,26,DEN,NFL,QB,16,16,1,1,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,"PB,AP MVP-5,AP OPoY-5"
+ElwaJo00,John Elway,QB,1987,27,DEN,NFL,QB,12,12,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,2.0,"PB,AP-2,AP MVP-1,AP OPoY-3"
+ElwaJo00,John Elway,QB,1988,28,DEN,NFL,QB,15,15,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+ElwaJo00,John Elway,QB,1989,29,DEN,NFL,QB,15,15,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.2,PB
+ElwaJo00,John Elway,QB,1990,30,DEN,NFL,QB,16,16,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+ElwaJo00,John Elway,QB,1991,31,DEN,NFL,QB,16,16,6,0,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,PB
+ElwaJo00,John Elway,QB,1992,32,DEN,NFL,QB,12,12,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,1.0,
+ElwaJo00,John Elway,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ElwaJo00,John Elway,QB,1994,34,DEN,NFL,QB,14,14,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,PB
+ElwaJo00,John Elway,QB,1995,35,DEN,NFL,QB,16,16,1,0,0,0,0,0,0,1,1,0,0,0,0,0,8,0.5,
+ElwaJo00,John Elway,QB,1996,36,DEN,NFL,QB,15,15,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,"PB,AP-2,AP MVP-2,AP OPoY-3"
+ElwaJo00,John Elway,QB,1997,37,DEN,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,PB
+ElwaJo00,John Elway,QB,1998,38,DEN,NFL,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,PB

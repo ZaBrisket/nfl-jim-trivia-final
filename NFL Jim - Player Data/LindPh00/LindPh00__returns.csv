@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LindPh00,Phillip Lindsay,RB,2018,24,DEN,NFL,RB,15,8,3,23,0,15,7.7,7,163,0,32,23.3,1471,PB
+LindPh00,Phillip Lindsay,RB,,,,,,,,,,,,,,,,,,,
+LindPh00,Phillip Lindsay,RB,2021,27,2TM,NFL,RB,14,1,0,0,0,0,,4,72,0,20,18.0,366,
+LindPh00,Phillip Lindsay,RB,2021,27,MIA,NFL,RB,4,0,0,0,0,0,,4,72,0,20,18.0,199,

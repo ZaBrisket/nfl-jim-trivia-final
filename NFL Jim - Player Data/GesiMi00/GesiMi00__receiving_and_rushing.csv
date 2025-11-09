@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GesiMi00,Mike Gesicki,TE,2018,23,MIA,NFL,TE,16,7,32,22,202,9.2,0,9,46.9,27,1.4,12.6,68.8,6.3,0,0,0,0,0.0,0.0,22,9.2,202,0,1,2,
+GesiMi00,Mike Gesicki,TE,2019,24,MIA,NFL,TE,16,5,89,51,570,11.2,5,25,44.9,34,3.2,35.6,57.3,6.4,0,0,0,0,0.0,0.0,51,11.2,570,5,1,4,
+GesiMi00,Mike Gesicki,TE,2020,25,MIA,NFL,TE,15,9,85,53,703,13.3,6,36,57.6,70,3.5,46.9,62.4,8.3,0,0,0,0,0.0,0.0,53,13.3,703,6,0,6,
+GesiMi00,Mike Gesicki,TE,2021,26,MIA,NFL,TE,17,9,112,73,780,10.7,2,39,53.6,40,4.3,45.9,65.2,7.0,0,0,0,0,0.0,0.0,73,10.7,780,2,0,6,
+GesiMi00,Mike Gesicki,TE,2022,27,MIA,NFL,TE,17,1,52,32,362,11.3,5,19,48.1,32,1.9,21.3,61.5,7.0,0,0,0,0,0.0,0.0,32,11.3,362,5,0,3,
+GesiMi00,Mike Gesicki,TE,2023,28,NWE,NFL,TE,17,10,45,29,244,8.4,2,11,44.4,18,1.7,14.4,64.4,5.4,0,0,0,0,0.0,0.0,29,8.4,244,2,0,2,
+GesiMi00,Mike Gesicki,TE,2024,29,CIN,NFL,TE,17,3,83,65,665,10.2,2,38,62.7,47,3.8,39.1,78.3,8.0,0,0,0,0,0.0,0.0,65,10.2,665,2,1,6,
+GesiMi00,Mike Gesicki,TE,2025,30,CIN,NFL,TE,6,1,16,8,61,7.6,0,3,37.5,15,1.3,10.2,50.0,3.8,0,0,0,0,0.0,0.0,8,7.6,61,0,0,,

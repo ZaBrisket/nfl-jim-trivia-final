@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+KennBi00,Bill Kenney,QB,1980,25,KAN,NFL,QB,3,3,2-1-0,37,69,53.6,542,5,7.2,2,2.9,23,41.9,75,7.9,8.00,14.6,180.7,91.6,5,43,6.76,6.74,6.88,0,1,2,
+KennBi00,Bill Kenney,QB,1981,26,KAN,NFL,QB,13,13,8-5-0,147,274,53.6,1983,9,3.3,16,5.8,93,43.2,64,7.2,5.27,13.5,152.5,63.6,20,160,6.80,6.20,4.36,1,0,7,
+KennBi00,Bill Kenney,QB,1982,27,KAN,NFL,QB,7,6,3-3-0,95,169,56.2,1192,7,4.1,6,3.6,51,38.5,51,7.1,6.28,12.5,170.3,77.3,23,166,11.98,5.34,4.67,0,0,8,
+KennBi00,Bill Kenney,QB,1983,28,KAN,NFL,QB,16,16,6-10-0,346,603,57.4,4348,24,4.0,18,3.0,191,43.5,53,7.2,6.66,12.6,271.8,80.8,41,284,6.37,6.31,5.80,0,1,13,PB
+KennBi00,Bill Kenney,QB,1984,29,KAN,NFL,QB,9,8,4-4-0,151,282,53.5,2098,15,5.3,10,3.5,92,43.3,65,7.4,6.91,13.9,233.1,80.7,18,163,6.00,6.45,5.95,1,1,6,
+KennBi00,Bill Kenney,QB,1985,30,KAN,NFL,QB,16,10,3-7-0,181,338,53.6,2536,17,5.0,9,2.7,111,42.3,84,7.5,7.31,14.0,158.5,83.6,28,223,7.65,6.32,6.14,0,0,8,
+KennBi00,Bill Kenney,QB,1986,31,KAN,NFL,QB,15,8,5-3-0,161,308,52.3,1922,13,4.2,11,3.6,99,41.4,53,6.2,5.48,11.9,128.1,70.8,25,180,7.51,5.23,4.53,1,2,6,
+KennBi00,Bill Kenney,QB,1987,32,KAN,NFL,QB,11,8,3-5-0,154,273,56.4,2107,15,5.5,9,3.3,95,47.8,81,7.7,7.33,13.7,191.5,85.8,22,161,7.46,6.60,6.24,0,1,7,
+KennBi00,Bill Kenney,QB,1988,33,KAN,NFL,QB,16,5,0-5-0,58,114,50.9,549,0,0.0,5,4.4,29,36.2,25,4.8,2.84,9.5,34.3,46.3,13,107,10.24,3.48,1.71,0,0,1,

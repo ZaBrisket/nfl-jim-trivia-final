@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+HoopAu00,Austin Hooper,TE,2018,24,ATL,NFL,TE,16,7,88,71,660,30,423,6.0,237,3.3,6.9,4,17.8,4,4.5,1,108.3,0,0,0,0,0,0,PB
+HoopAu00,Austin Hooper,TE,2019,25,ATL,NFL,TE,13,10,97,75,787,41,452,6.0,335,4.5,6.5,5,15.0,1,1.0,2,112.3,0,0,0,0,0,0,PB
+HoopAu00,Austin Hooper,TE,2020,26,CLE,NFL,TE,13,13,70,46,435,27,261,5.7,174,3.8,6.4,1,46.0,2,2.9,1,95.8,0,0,0,0,0,0,
+HoopAu00,Austin Hooper,TE,2021,27,CLE,NFL,TE,16,16,61,38,345,18,160,4.2,185,4.9,5.4,1,38.0,6,9.8,1,87.1,0,0,0,0,0,0,
+HoopAu00,Austin Hooper,TE,2022,28,TEN,NFL,TE,17,2,60,41,444,28,310,7.6,134,3.3,7.8,1,41.0,1,1.7,0,101.0,0,0,0,0,0,0,
+HoopAu00,Austin Hooper,TE,2023,29,LVR,NFL,TE,17,9,31,25,234,12,92,3.7,142,5.7,4.2,2,12.5,1,3.2,0,98.1,0,0,0,0,0,0,
+HoopAu00,Austin Hooper,TE,2024,30,NWE,NFL,TE,17,8,59,45,476,25,251,5.6,225,5.0,5.8,3,15.0,1,1.7,2,102.1,0,0,0,0,0,0,
+HoopAu00,Austin Hooper,TE,2025,31,NWE,NFL,TE,9,5,14,13,174,9,98,7.5,76,5.8,8.2,0,,0,0.0,0,142.3,0,0,0,0,0,0,

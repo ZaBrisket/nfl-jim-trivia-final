@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SamuCu00,Curtis Samuel,WR,2017,21,CAR,NFL,WR,9,4,26,15,115,7.7,0,6,38.5,23,1.7,12.8,57.7,4.4,4,64,0,3,100.0,31,16.0,7.1,0.4,19,9.4,179,0,0,1,
+SamuCu00,Curtis Samuel,WR,2018,22,CAR,NFL,WR,13,8,65,39,494,12.7,5,24,49.2,53,3.0,38.0,60.0,7.6,8,84,2,3,62.5,33,10.5,6.5,0.6,47,12.3,578,7,1,5,
+SamuCu00,Curtis Samuel,WR,2019,23,CAR,NFL,WR,16,15,105,54,627,11.6,6,36,43.8,44,3.4,39.2,51.4,6.0,19,130,1,7,73.7,16,6.8,8.1,1.2,73,10.4,757,7,0,5,
+SamuCu00,Curtis Samuel,WR,2020,24,CAR,NFL,WR,15,5,97,77,851,11.1,3,39,53.6,44,5.1,56.7,79.4,8.8,41,200,2,10,48.8,45,4.9,13.3,2.7,118,8.9,1051,5,1,8,
+SamuCu00,Curtis Samuel,WR,2021,25,WAS,NFL,WR,5,1,9,6,27,4.5,0,4,44.4,10,1.2,5.4,66.7,3.0,4,11,0,0,50.0,8,2.8,2.2,0.8,10,3.8,38,0,0,0,
+SamuCu00,Curtis Samuel,WR,2022,26,WAS,NFL,WR,17,12,92,64,656,10.3,4,36,46.7,49,3.8,38.6,69.6,7.1,38,187,1,11,44.7,21,4.9,11.0,2.2,102,8.3,843,5,1,6,
+SamuCu00,Curtis Samuel,WR,2023,27,WAS,NFL,WR,16,13,91,62,613,9.9,4,26,50.5,37,3.9,38.3,68.1,6.7,7,39,1,4,71.4,15,5.6,2.4,0.4,69,9.4,652,5,0,5,
+SamuCu00,Curtis Samuel,WR,2024,28,BUF,NFL,WR,14,2,46,31,253,8.2,1,9,37.0,38,2.2,18.1,67.4,5.5,5,14,0,0,40.0,7,2.8,1.0,0.4,36,7.4,267,1,0,3,
+SamuCu00,Curtis Samuel,WR,2025,29,BUF,NFL,WR,4,0,5,4,41,10.3,1,3,60.0,20,1.0,10.3,80.0,8.2,0,0,0,0,,,,0.0,0.0,4,10.3,41,1,0,,

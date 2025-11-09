@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ErtzZa00,Zach Ertz,TE,2013,23,PHI,NFL,TE,16,3,0,0,0,0,1,0,0,0,0.0,469,
+ErtzZa00,Zach Ertz,TE,,,,,,,,,,,,,,,,,,
+ErtzZa00,Zach Ertz,TE,2015,25,PHI,NFL,TE,15,7,0,0,0,0,1,9,0,9,9.0,862,
+ErtzZa00,Zach Ertz,TE,2016,26,PHI,NFL,TE,14,12,0,0,0,0,1,8,0,8,8.0,824,

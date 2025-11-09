@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BryaMa00,Martavis Bryant,WR,2014,23,PIT,WR,10,10,3,295,43%,0,0%,3,1%
+BryaMa00,Martavis Bryant,WR,2015,24,PIT,WR,10,11,5,511,67%,0,0%,2,1%
+BryaMa00,Martavis Bryant,WR,2017,26,PIT,WR,10,15,8,681,65%,0,0%,22,5%
+BryaMa00,Martavis Bryant,WR,2018,27,OAK,WR,12,8,2,220,43%,0,0%,0,0%

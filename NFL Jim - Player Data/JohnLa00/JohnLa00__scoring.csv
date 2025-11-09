@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JohnLa00,Larry Johnson,RB,2003,24,KAN,NFL,RB,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.0,
+JohnLa00,Larry Johnson,RB,2004,25,KAN,NFL,RB,10,3,9,2,0,0,0,0,0,11,0,0,0,0,0,0,66,6.6,
+JohnLa00,Larry Johnson,RB,2005,26,KAN,NFL,RB,16,9,20,1,0,0,0,0,0,21,0,0,0,0,0,0,126,7.9,"PB,AP-2"
+JohnLa00,Larry Johnson,RB,2006,27,KAN,NFL,RB,16,16,17,2,0,0,0,0,0,19,0,0,0,0,0,0,114,7.1,"PB,AP-1"
+JohnLa00,Larry Johnson,RB,2007,28,KAN,NFL,RB,8,8,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,3.0,
+JohnLa00,Larry Johnson,RB,2008,29,KAN,NFL,RB,12,12,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,

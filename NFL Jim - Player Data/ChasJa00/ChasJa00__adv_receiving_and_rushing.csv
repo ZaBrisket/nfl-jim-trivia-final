@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+ChasJa00,Ja'Marr Chase,WR,2021,21,CIN,NFL,WR,17,17,128,81,1455,56,804,9.9,651,8.0,12.6,8,10.1,11,8.6,6,116.5,7,21,2,15,2.1,6,0.9,3,2.3,"PB,AP-2,AP ORoY-1"
+ChasJa00,Ja'Marr Chase,WR,2022,22,CIN,NFL,WR,12,12,134,87,1046,58,608,7.0,438,5.0,9.0,10,8.7,11,8.2,4,98.7,5,8,0,6,1.2,2,0.4,0,,PB
+ChasJa00,Ja'Marr Chase,WR,2023,23,CIN,NFL,WR,16,16,145,100,1216,63,675,6.8,541,5.4,8.4,6,16.7,5,3.4,2,104.8,3,-6,0,-8,-2.7,2,0.7,0,,PB
+ChasJa00,Ja'Marr Chase,WR,2024,24,CIN,NFL,WR,17,16,175,127,1708,75,921,7.3,787,6.2,8.7,11,11.5,9,5.1,7,118.9,3,32,2,30,10.0,2,0.7,0,,"PB,AP-1,AP MVP-8,AP OPoY-3"
+ChasJa00,Ja'Marr Chase,WR,2025,25,CIN,NFL,WR,9,9,107,76,831,41,427,5.6,404,5.3,8.3,3,25.3,3,2.8,2,101.4,2,6,0,4,2.0,2,1.0,0,,

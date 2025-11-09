@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ChasJa00,Ja'Marr Chase,WR,2021*,21,CIN,WR,1,17,17,939,85%,0,0%,0,0%
+ChasJa00,Ja'Marr Chase,WR,2022*,22,CIN,WR,1,12,12,793,94%,0,0%,0,0%
+ChasJa00,Ja'Marr Chase,WR,2023*,23,CIN,WR,1,16,16,890,87%,0,0%,0,0%
+ChasJa00,Ja'Marr Chase,WR,2024*+,24,CIN,WR,1,17,16,1054,93%,0,0%,0,0%
+ChasJa00,Ja'Marr Chase,WR,2025,25,CIN,WR,1,9,9,527,95%,0,0%,1,0%

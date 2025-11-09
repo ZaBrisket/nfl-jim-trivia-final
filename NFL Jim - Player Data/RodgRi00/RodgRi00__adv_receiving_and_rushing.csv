@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+RodgRi00,Richard Rodgers,TE,2018,26,PHI,NFL,TE,7,0,1,1,7,1,-2,-2.0,9,9.0,-2.0,0,,0,0.0,0,95.8,0,0,0,0,0,0,
+RodgRi00,Richard Rodgers,TE,2019,27,PHI,NFL,TE,1,0,0,0,0,0,0,,0,,,0,,0,,,,0,0,0,0,0,0,
+RodgRi00,Richard Rodgers,TE,2020,28,PHI,NFL,TE,14,4,31,24,345,16,250,10.4,95,4.0,9.8,1,24.0,0,0.0,0,134.5,0,0,0,0,0,0,
+RodgRi00,Richard Rodgers,TE,2021,29,PHI,NFL,TE,3,0,2,2,11,0,1,0.5,10,5.0,0.5,0,,0,0.0,0,89.6,0,0,0,0,0,0,
+RodgRi00,Richard Rodgers,TE,2022,30,LAC,NFL,TE,10,1,4,1,4,0,1,1.0,3,3.0,-1.0,1,1.0,0,0.0,0,39.6,0,0,0,0,0,0,

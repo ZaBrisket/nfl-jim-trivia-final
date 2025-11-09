@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PickKe00,Kenny Pickett,QB,2022,24,PIT,QB,8,13,12,804,88%,0,0%,0,0%
+PickKe00,Kenny Pickett,QB,2023,25,PIT,QB,8,12,12,670,89%,0,0%,0,0%
+PickKe00,Kenny Pickett,QB,2024,26,PHI,QB,7,5,1,134,39%,0,0%,0,0%
+PickKe00,Kenny Pickett,QB,2025,27,LVR,QB,15,2,0,7,7%,0,0%,0,0%

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+JoneDa05,Daniel Jones,QB,2019,22,NYG,NFL,QB,13,12,87,84,90,88,89,106,94,91,94,
+JoneDa05,Daniel Jones,QB,2020,23,NYG,NFL,QB,14,14,87,82,86,83,91,79,101,77,85,
+JoneDa05,Daniel Jones,QB,2021,24,NYG,NFL,QB,11,11,91,93,92,93,97,83,106,103,91,
+JoneDa05,Daniel Jones,QB,2022,25,NYG,NFL,QB,16,16,93,90,101,98,112,86,127,85,104,AP CPoY-11
+JoneDa05,Daniel Jones,QB,2023,26,NYG,NFL,QB,6,6,71,57,59,53,115,63,67,36,68,
+JoneDa05,Daniel Jones,QB,2024,27,NYG,NFL,QB,10,10,79,82,81,83,94,77,104,94,83,
+JoneDa05,Daniel Jones,QB,2025,28,IND,NFL,QB,9,9,119,123,114,117,115,101,102,114,111,

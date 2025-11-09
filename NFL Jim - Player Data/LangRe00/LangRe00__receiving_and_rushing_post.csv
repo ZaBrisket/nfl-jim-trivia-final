@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LangRe00,Reggie Langhorne,WR,1985,22,CLE,NFL,WR,1,0,,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,
+LangRe00,Reggie Langhorne,WR,1986,23,CLE,NFL,WR,2,2,9,6,100,16.7,0,5,66.7,35,3.0,50.0,66.7,11.1,0,0,0,0,,,,0.0,0.0,6,16.7,100,0,0,
+LangRe00,Reggie Langhorne,WR,1987,24,CLE,NFL,WR,2,2,4,3,87,29.0,2,3,75.0,39,1.5,43.5,75.0,21.8,0,0,0,0,,,,0.0,0.0,3,29.0,87,2,0,
+LangRe00,Reggie Langhorne,WR,1988,25,CLE,NFL,WR,1,1,7,6,57,9.5,0,3,57.1,17,6.0,57.0,85.7,8.1,0,0,0,0,,,,0.0,0.0,6,9.5,57,0,0,
+LangRe00,Reggie Langhorne,WR,1989,26,CLE,NFL,WR,2,2,21,11,126,11.5,0,7,38.1,27,5.5,63.0,52.4,6.0,2,-1,0,0,0.0,-1,-0.5,-0.5,1.0,13,9.6,125,0,0,

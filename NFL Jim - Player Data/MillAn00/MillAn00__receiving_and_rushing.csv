@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MillAn00,Anthony Miller,WR,1988,23,SDG,NFL,WR,16,15,81,36,526,14.6,3,26,42.0,49,2.3,32.9,44.4,6.5,7,45,0,2,57.1,20,6.4,2.8,0.4,43,13.3,571,3,1,5,
+MillAn00,Anthony Miller,WR,1989,24,SDG,NFL,WR,16,16,151,75,1252,16.7,10,56,43.0,69,4.7,78.3,49.7,8.3,4,21,0,2,50.0,24,5.3,1.3,0.3,79,16.1,1273,10,1,11,PB
+MillAn00,Anthony Miller,WR,1990,25,SDG,NFL,WR,16,16,141,63,933,14.8,7,51,44.0,31,3.9,58.3,44.7,6.6,3,13,0,0,66.7,10,4.3,0.8,0.2,66,14.3,946,7,2,11,PB
+MillAn00,Anthony Miller,WR,1991,26,SDG,NFL,WR,13,12,99,44,649,14.8,3,28,39.4,58,3.4,49.9,44.4,6.6,0,0,0,0,,,,0.0,0.0,44,14.8,649,3,1,6,
+MillAn00,Anthony Miller,WR,1992,27,SDG,NFL,WR,16,16,138,72,1060,14.7,7,47,50.0,67,4.5,66.3,52.2,7.7,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,73,14.5,1059,7,0,11,PB
+MillAn00,Anthony Miller,WR,1993,28,SDG,NFL,WR,16,16,162,84,1162,13.8,7,64,49.4,66,5.3,72.6,51.9,7.2,1,0,0,0,0.0,,0.0,0.0,0.1,85,13.7,1162,7,0,13,PB
+MillAn00,Anthony Miller,WR,1994,29,DEN,NFL,WR,16,15,116,60,1107,18.5,5,46,49.1,76,3.8,69.2,51.7,9.5,1,3,0,0,0.0,3,3.0,0.2,0.1,61,18.2,1110,5,0,10,
+MillAn00,Anthony Miller,WR,1995,30,DEN,NFL,WR,14,14,109,59,1079,18.3,14,44,50.5,62,4.2,77.1,54.1,9.9,1,5,0,0,100.0,5,5.0,0.4,0.1,60,18.1,1084,14,1,11,PB
+MillAn00,Anthony Miller,WR,1996,31,DEN,NFL,WR,16,16,111,56,735,13.1,3,30,40.5,46,3.5,45.9,50.5,6.6,3,39,1,1,100.0,26,13.0,2.4,0.2,59,13.1,774,4,0,8,
+MillAn00,Anthony Miller,WR,1997,32,DAL,NFL,WR,16,16,98,46,645,14.0,4,31,40.8,54,2.9,40.3,46.9,6.6,1,6,0,0,100.0,6,6.0,0.4,0.1,47,13.9,651,4,1,5,

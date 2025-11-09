@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SimmCh00,Chris Simms,QB,2004,24,TAM,NFL,QB,5,2,7,14,0,1,14.3,12,2.0,2.8,1.4,0,0,0,,0,0,,,0.0,0.0,,,7,2.0,14,0,3,
+SimmCh00,Chris Simms,QB,2005,25,TAM,NFL,QB,11,10,19,31,0,2,21.1,10,1.6,2.8,1.7,1,1,-3,-3.0,0,0,0.0,-3,0.1,-0.3,100.0,-3.0,20,1.4,28,0,6,
+SimmCh00,Chris Simms,QB,2006,26,TAM,NFL,QB,3,3,4,7,1,1,25.0,3,1.8,2.3,1.3,0,0,0,,0,0,,,0.0,0.0,,,4,1.8,7,1,0,
+SimmCh00,Chris Simms,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SimmCh00,Chris Simms,QB,2009,29,DEN,NFL,QB,3,1,3,-4,0,0,0.0,-1,-1.3,-1.3,1.0,0,0,0,,0,0,,,0.0,0.0,,,3,-1.3,-4,0,1,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BrowJo02,John Brown,WR,2014,24,ARI,WR,12,16,5,657,62%,0,0%,0,0%
+BrowJo02,John Brown,WR,2015,25,ARI,WR,12,15,11,826,81%,0,0%,0,0%
+BrowJo02,John Brown,WR,2016,26,ARI,WR,12,15,6,595,56%,0,0%,33,7%
+BrowJo02,John Brown,WR,2017,27,ARI,WR,12,10,5,491,71%,0,0%,0,0%
+BrowJo02,John Brown,WR,2018,28,BAL,WR,13,16,15,757,64%,0,0%,0,0%
+BrowJo02,John Brown,WR,2019,29,BUF,WR,15,15,15,913,91%,0,0%,0,0%
+BrowJo02,John Brown,WR,2020,30,BUF,WR,15,9,8,453,77%,0,0%,0,0%
+BrowJo02,John Brown,WR,2021,31,DEN,WR,17,2,0,12,9%,0,0%,0,0%
+BrowJo02,John Brown,WR,,,,,,,,19,,0,,0,
+BrowJo02,John Brown,WR,,,,,,,,7,6%,0,0%,0,0%
+BrowJo02,John Brown,WR,2022,32,BUF,WR,15,3,0,22,11%,0,0%,0,0%

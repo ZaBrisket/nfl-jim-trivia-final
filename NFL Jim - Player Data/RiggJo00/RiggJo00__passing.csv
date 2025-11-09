@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+RiggJo00,John Riggins,RB,1983,34,WAS,NFL,RB,15,15,0,1,0.0,0,0,0.0,0,0.0,0,0.0,0.00,0.0,39.6,0,0,0.00,0.00,0.00,0,0,"AP-1,AP MVP-4,AP OPoY-4"
+RiggJo00,John Riggins,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RiggJo00,John Riggins,RB,1985,36,WAS,NFL,RB,12,11,0,1,0.0,0,0,0.0,0,0.0,0,0.0,0.00,0.0,39.6,0,0,0.00,0.00,0.00,0,0,

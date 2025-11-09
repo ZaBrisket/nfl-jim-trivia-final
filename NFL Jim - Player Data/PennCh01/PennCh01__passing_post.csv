@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+PennCh01,Chad Pennington,QB,2002,26,NYJ,NFL,QB,2,2,1-1-0,40,72,55.6,405,4,5.6,2,2.8,26,42.3,56,5.6,5.49,10.1,202.5,78.8,6,22,7.69,4.91,4.78,0,0,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2004,28,NYJ,NFL,QB,2,2,1-1-0,44,66,66.7,461,2,3.0,1,1.5,26,45.1,47,7.0,6.91,10.5,230.5,90.5,5,26,7.04,6.13,6.06,0,1,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2006,30,NYJ,NFL,QB,1,1,0-1-0,23,40,57.5,300,1,2.5,1,2.5,12,39.5,77,7.5,6.88,13.0,300.0,79.2,3,22,6.98,6.47,5.88,0,0,
+PennCh01,Chad Pennington,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PennCh01,Chad Pennington,QB,2008,32,MIA,NFL,QB,1,1,0-1-0,25,38,65.8,252,1,2.6,4,10.5,11,46.3,45,6.6,2.42,10.1,252.0,53.7,3,28,7.32,5.46,1.56,0,0,

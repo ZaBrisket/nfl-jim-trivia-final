@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MannMa01,Mario Manningham,WR,2008,22,NYG,NFL,WR,7,0,6,4,26,6.5,0,2,50.0,11,0.6,3.7,66.7,4.3,1,-12,0,0,0.0,-12,-12.0,-1.7,0.1,5,2.8,14,0,0,0,
+MannMa01,Mario Manningham,WR,2009,23,NYG,NFL,WR,14,10,99,57,822,14.4,5,40,50.5,49,4.1,58.7,57.6,8.3,0,0,0,0,,,,0.0,0.0,57,14.4,822,5,1,7,
+MannMa01,Mario Manningham,WR,2010,24,NYG,NFL,WR,16,8,93,60,944,15.7,9,28,50.5,92,3.8,59.0,64.5,10.2,1,2,0,0,0.0,2,2.0,0.1,0.1,61,15.5,946,9,1,8,
+MannMa01,Mario Manningham,WR,2011,25,NYG,NFL,WR,12,10,77,39,523,13.4,4,25,44.2,47,3.3,43.6,50.6,6.8,0,0,0,0,,,,0.0,0.0,39,13.4,523,4,0,4,
+MannMa01,Mario Manningham,WR,2012,26,SFO,NFL,WR,12,10,57,42,449,10.7,1,22,56.1,40,3.5,37.4,73.7,7.9,3,64,0,2,100.0,29,21.3,5.3,0.3,45,11.4,513,1,2,4,
+MannMa01,Mario Manningham,WR,2013,27,SFO,NFL,WR,6,3,23,9,85,9.4,0,5,30.4,14,1.5,14.2,39.1,3.7,0,0,0,0,,,,0.0,0.0,9,9.4,85,0,0,1,

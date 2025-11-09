@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+StalJo00,John Stallworth,WR,1975,23,PIT,NFL,WR,11,9,0,0,0,0,,0,1,0,0,0.0,,,,0,
+StalJo00,John Stallworth,WR,,,,,,,,,,,,,,,,,,,,,,
+StalJo00,John Stallworth,WR,1977,25,PIT,NFL,WR,14,14,0,0,0,0,,1,0,0,0,0.0,,,,0,
+StalJo00,John Stallworth,WR,1978,26,PIT,NFL,WR,16,16,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+StalJo00,John Stallworth,WR,1979,27,PIT,NFL,WR,16,16,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,"PB,AP-1"
+StalJo00,John Stallworth,WR,,,,,,,,,,,,,,,,,,,,,,
+StalJo00,John Stallworth,WR,1981,29,PIT,NFL,WR,16,16,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,
+StalJo00,John Stallworth,WR,1982,30,PIT,NFL,WR,9,9,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,PB
+StalJo00,John Stallworth,WR,,,,,,,,,,,,,,,,,,,,,,
+StalJo00,John Stallworth,WR,1984,32,PIT,NFL,WR,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,PB
+StalJo00,John Stallworth,WR,,,,,,,,,,,,,,,,,,,,,,
+StalJo00,John Stallworth,WR,1987,35,PIT,NFL,WR,12,11,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

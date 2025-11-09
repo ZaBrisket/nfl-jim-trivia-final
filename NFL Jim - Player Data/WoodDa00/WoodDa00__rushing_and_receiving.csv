@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WoodDa00,David Woodley,QB,1980,22,MIA,NFL,QB,13,11,55,214,3,23,58.2,17,3.9,16.5,4.2,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,55,3.9,214,3,3,AP ORoY-3
+WoodDa00,David Woodley,QB,1981,23,MIA,NFL,QB,15,15,63,272,4,20,46.0,26,4.3,18.1,4.2,0,0,0,,0,0,,,0.0,0.0,,,63,4.3,272,4,9,
+WoodDa00,David Woodley,QB,1982,24,MIA,NFL,QB,9,9,36,207,2,14,58.3,29,5.8,23.0,4.0,1,1,15,15.0,1,1,100.0,15,0.1,1.7,100.0,15.0,37,6.0,222,3,2,
+WoodDa00,David Woodley,QB,1983,25,MIA,NFL,QB,5,5,19,78,0,9,68.4,15,4.1,15.6,3.8,1,1,6,6.0,0,0,0.0,6,0.2,1.2,100.0,6.0,20,4.2,84,0,4,
+WoodDa00,David Woodley,QB,1984,26,PIT,NFL,QB,7,7,11,14,0,2,18.2,7,1.3,2.0,1.6,0,0,0,,0,0,,,0.0,0.0,,,11,1.3,14,0,5,
+WoodDa00,David Woodley,QB,1985,27,PIT,NFL,QB,9,6,17,71,2,10,58.8,13,4.2,7.9,1.9,0,0,0,,0,0,,,0.0,0.0,,,17,4.2,71,2,8,

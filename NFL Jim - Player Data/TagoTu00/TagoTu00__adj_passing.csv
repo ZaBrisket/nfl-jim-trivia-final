@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TagoTu00,Tua Tagovailoa,QB,2020,22,MIA,NFL,QB,10,9,81,83,89,89,98,92,111,98,94,
+TagoTu00,Tua Tagovailoa,QB,2021,23,MIA,NFL,QB,13,12,94,97,93,95,112,96,94,109,98,
+TagoTu00,Tua Tagovailoa,QB,2022,24,MIA,NFL,QB,13,13,143,141,138,135,101,123,107,110,125,AP MVP-9
+TagoTu00,Tua Tagovailoa,QB,2023,25,MIA,NFL,QB,17,17,127,129,122,124,124,114,96,114,121,"PB,AP CPoY-5"
+TagoTu00,Tua Tagovailoa,QB,2024,26,MIA,NFL,QB,11,11,102,106,106,109,132,105,110,114,116,
+TagoTu00,Tua Tagovailoa,QB,2025,27,MIA,NFL,QB,9,9,90,94,85,87,109,108,69,104,94,

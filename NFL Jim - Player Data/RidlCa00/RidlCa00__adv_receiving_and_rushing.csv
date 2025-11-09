@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+RidlCa00,Calvin Ridley,WR,2018,24,ATL,NFL,WR,16,5,92,64,821,39,457,7.1,364,5.7,10.2,0,,10,10.9,2,124.4,6,27,1,18,3.0,9,1.5,1,6.0,
+RidlCa00,Calvin Ridley,WR,2019,25,ATL,NFL,WR,13,10,93,63,866,47,728,11.6,138,2.2,13.4,2,31.5,3,3.2,2,113.5,2,34,2,30,15.0,4,2.0,0,,
+RidlCa00,Calvin Ridley,WR,2020,26,ATL,NFL,WR,15,15,143,90,1374,65,1099,12.2,275,3.1,14.3,3,30.0,6,4.2,5,101.0,5,1,1,0,0.0,1,0.2,0,,AP-2
+RidlCa00,Calvin Ridley,WR,2021,27,ATL,NFL,WR,5,5,52,31,281,16,190,6.1,91,2.9,10.0,1,31.0,3,5.8,1,79.1,0,0,0,0,,0,,0,,
+RidlCa00,Calvin Ridley,WR,2022,,Did not play - Violation of league gambling policy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RidlCa00,Calvin Ridley,WR,2023,29,JAX,NFL,WR,17,17,136,76,1016,49,822,10.8,194,2.6,13.2,1,76.0,6,4.4,3,90.2,9,23,3,23,2.6,0,0.0,0,,AP CPoY-7
+RidlCa00,Calvin Ridley,WR,2024,30,TEN,NFL,WR,17,14,120,64,1017,40,786,12.3,231,3.6,15.3,4,16.0,6,5.0,4,79.1,8,55,3,42,5.3,13,1.6,1,8.0,
+RidlCa00,Calvin Ridley,WR,2025,31,TEN,NFL,WR,6,5,35,16,290,12,211,13.2,79,4.9,12.9,0,,4,11.4,1,62.8,0,0,0,0,,0,,0,,

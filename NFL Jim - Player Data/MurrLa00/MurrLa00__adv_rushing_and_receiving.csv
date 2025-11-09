@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MurrLa00,Latavius Murray,RB,2018,28,MIN,NFL,RB,16,6,140,578,23,289,2.1,289,2.1,8,17.5,26,22,141,7,26,1.2,115,5.2,1.1,3,7.3,2,7.7,1,73.2,
+MurrLa00,Latavius Murray,RB,2019,29,NOR,NFL,RB,16,8,146,637,38,390,2.7,247,1.7,11,13.3,43,34,235,9,-49,-1.4,284,8.4,-1.2,5,6.8,3,7.0,1,87.5,
+MurrLa00,Latavius Murray,RB,2020,30,NOR,NFL,RB,15,7,146,656,36,363,2.5,293,2.0,4,36.5,26,23,176,8,-22,-1.0,198,8.6,-1.0,2,11.5,2,7.7,0,107.7,
+MurrLa00,Latavius Murray,RB,2021,31,BAL,NFL,RB,14,6,119,501,36,291,2.4,210,1.8,10,11.9,13,10,75,2,4,0.4,71,7.1,0.1,0,,1,7.7,0,90.2,
+MurrLa00,Latavius Murray,RB,2022,32,2TM,NFL,RB,13,7,171,760,44,478,2.8,282,1.6,5,34.2,35,27,132,4,-56,-2.1,188,7.0,-1.8,0,,0,0.0,0,82.1,
+MurrLa00,Latavius Murray,RB,2022,32,NOR,NFL,RB,1,0,11,57,4,42,3.8,15,1.4,0,,1,1,8,0,-2,-2.0,10,10.0,-2.0,0,,0,0.0,0,100.0,
+MurrLa00,Latavius Murray,RB,2022,32,DEN,NFL,RB,12,7,160,703,40,436,2.7,267,1.7,5,32.0,34,26,124,4,-54,-2.1,178,6.8,-1.8,0,,0,0.0,0,81.0,
+MurrLa00,Latavius Murray,RB,2023,33,BUF,NFL,RB,16,4,79,300,27,174,2.2,126,1.6,3,26.3,22,17,119,7,27,1.6,92,5.4,1.5,2,8.5,3,13.6,0,89.0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MontWi00,Wilbert Montgomery,RB,1977,23,PHI,NFL,RB,14,1,45,183,2,,,27,4.1,13.1,3.2,,3,18,6.0,0,,,8,0.2,1.3,,,48,4.2,201,2,4,3,
+MontWi00,Wilbert Montgomery,RB,1978,24,PHI,NFL,RB,14,14,259,1220,9,57,52.1,47,4.7,87.1,18.5,53,34,195,5.7,1,6,30.2,23,2.4,13.9,64.2,3.7,293,4.8,1415,10,6,11,"PB,AP-2"
+MontWi00,Wilbert Montgomery,RB,1979,25,PHI,NFL,RB,16,16,338,1512,9,64,48.2,62,4.5,94.5,21.1,63,41,494,12.0,5,24,49.2,53,2.6,30.9,65.1,7.8,379,5.3,2006,14,14,18,"PB,AP-2,AP MVP-8"
+MontWi00,Wilbert Montgomery,RB,1980,26,PHI,NFL,RB,12,12,193,778,8,33,47.2,72,4.0,64.8,16.1,68,50,407,8.1,2,23,47.1,31,4.2,33.9,73.5,6.0,243,4.9,1185,10,3,10,
+MontWi00,Wilbert Montgomery,RB,1981,27,PHI,NFL,RB,15,15,286,1402,8,75,60.1,41,4.9,93.5,19.1,78,49,521,10.6,2,26,48.7,35,3.3,34.7,62.8,6.7,335,5.7,1923,10,6,16,
+MontWi00,Wilbert Montgomery,RB,1982,28,PHI,NFL,RB,8,8,114,515,7,27,50.0,90,4.5,64.4,14.3,37,20,258,12.9,2,13,43.2,42,2.5,32.3,54.1,7.0,134,5.8,773,9,3,12,
+MontWi00,Wilbert Montgomery,RB,1983,29,PHI,NFL,RB,5,1,29,139,0,7,65.5,32,4.8,27.8,5.8,16,9,53,5.9,0,3,25.0,13,1.8,10.6,56.3,3.3,38,5.1,192,0,1,1,
+MontWi00,Wilbert Montgomery,RB,1984,30,PHI,NFL,RB,16,15,201,789,2,40,54.7,27,3.9,49.3,12.6,101,60,501,8.4,0,25,40.6,28,3.8,31.3,59.4,5.0,261,4.9,1290,2,5,8,
+MontWi00,Wilbert Montgomery,RB,1985,31,DET,NFL,RB,7,6,75,251,0,10,45.3,22,3.3,35.9,10.7,19,7,55,7.9,0,2,21.1,28,1.0,7.9,36.8,2.9,82,3.7,306,0,0,2,

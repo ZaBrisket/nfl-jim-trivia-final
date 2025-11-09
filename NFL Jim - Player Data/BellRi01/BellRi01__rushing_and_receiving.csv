@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BellRi01,Ricky Bell,RB,1977,22,TAM,NFL,RB,11,10,148,436,1,,,20,2.9,39.6,13.5,,11,88,8.0,0,,,23,1.0,8.0,,,159,3.3,524,1,4,2,
+BellRi01,Ricky Bell,RB,1978,23,TAM,NFL,RB,12,9,185,679,6,29,36.2,56,3.7,56.6,15.4,28,15,122,8.1,0,9,39.3,22,1.3,10.2,53.6,4.4,200,4.0,801,6,1,6,
+BellRi01,Ricky Bell,RB,1979,24,TAM,NFL,FB,16,16,283,1263,7,58,44.5,49,4.5,78.9,17.7,46,25,248,9.9,2,12,32.6,26,1.6,15.5,54.3,5.4,308,4.9,1511,9,6,10,
+BellRi01,Ricky Bell,RB,1980,25,TAM,NFL,FB,14,12,174,599,2,31,47.1,40,3.4,42.8,12.4,58,38,292,7.7,1,13,44.8,22,2.7,20.9,65.5,5.0,212,4.2,891,3,3,6,
+BellRi01,Ricky Bell,RB,1981,26,TAM,NFL,RB,7,3,30,80,0,3,36.7,8,2.7,11.4,4.3,11,8,92,11.5,0,4,72.7,22,1.1,13.1,72.7,8.4,38,4.5,172,0,1,1,
+BellRi01,Ricky Bell,RB,1982,27,SDG,NFL,RB,4,0,2,6,0,0,0.0,4,3.0,1.5,0.5,0,0,0,,0,0,,,0.0,0.0,,,2,3.0,6,0,0,0,

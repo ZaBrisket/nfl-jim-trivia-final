@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+TaylBi00,Billy Taylor,RB,1978,22,NYG,NFL,RB,13,1,73,250,0,10,42.5,19,3.4,19.2,5.6,14,9,70,7.8,0,1,28.6,18,0.7,5.4,64.3,5.0,82,3.9,320,0,3,2,
+TaylBi00,Billy Taylor,RB,1979,23,NYG,NFL,FB,16,9,198,700,7,38,46.5,31,3.5,43.8,12.4,45,28,253,9.0,4,14,44.4,43,1.8,15.8,62.2,5.6,226,4.2,953,11,4,6,
+TaylBi00,Billy Taylor,RB,1980,24,NYG,NFL,RB,11,10,147,580,4,31,51.7,35,3.9,52.7,13.4,50,33,253,7.7,0,12,42.0,42,3.0,23.0,66.0,5.1,180,4.6,833,4,4,6,
+TaylBi00,Billy Taylor,RB,1981,25,2TM,NFL,RB,8,3,38,111,2,6,50.0,14,2.9,13.9,4.8,13,8,71,8.9,0,4,38.5,39,1.0,8.9,61.5,5.5,46,4.0,182,2,2,1,
+TaylBi00,Billy Taylor,RB,1981,25,NYG,NFL,RB,5,3,36,110,2,6,52.8,14,3.1,22.0,7.2,13,8,71,8.9,0,4,38.5,39,1.6,14.2,61.5,5.5,44,4.1,181,2,2,1,
+TaylBi00,Billy Taylor,RB,1981,25,NYJ,NFL,RB,3,0,2,1,0,0,0.0,2,0.5,0.3,0.7,0,0,0,,0,0,,,0.0,0.0,,,2,0.5,1,0,0,0,
+TaylBi00,Billy Taylor,RB,1982,26,RAI,NFL,RB,1,0,4,3,0,0,0.0,2,0.8,3.0,4.0,0,0,0,,0,0,,,0.0,0.0,,,4,0.8,3,0,0,0,

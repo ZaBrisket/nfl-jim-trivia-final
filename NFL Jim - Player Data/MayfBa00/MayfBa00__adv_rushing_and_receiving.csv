@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MayfBa00,Baker Mayfield,QB,2018,23,CLE,NFL,QB,14,13,39,131,8,83,2.1,48,1.2,1,39.0,1,0,0,0,0,,0,,12.0,0,0,0.0,1,0.0,AP ORoY-2
+MayfBa00,Baker Mayfield,QB,2019,24,CLE,NFL,QB,16,16,28,141,15,110,3.9,31,1.1,2,14.0,0,0,0,0,0,,0,,,0,0,,0,,
+MayfBa00,Baker Mayfield,QB,2020,25,CLE,NFL,QB,16,16,54,165,18,144,2.7,21,0.4,0,,1,1,6,1,5,5.0,1,1.0,5.0,0,0,0.0,0,91.7,
+MayfBa00,Baker Mayfield,QB,2021,26,CLE,NFL,QB,14,14,37,134,12,116,3.1,18,0.5,1,37.0,0,0,11,0,11,,0,,,0,0,,0,,
+MayfBa00,Baker Mayfield,QB,2022,27,2TM,NFL,QB,12,10,31,89,7,70,2.3,19,0.6,1,31.0,0,0,0,0,0,,0,,,0,0,,0,,
+MayfBa00,Baker Mayfield,QB,2022,27,CAR,NFL,QB,7,6,16,52,5,44,2.8,8,0.5,0,,0,0,0,0,0,,0,,,0,0,,0,,
+MayfBa00,Baker Mayfield,QB,2022,27,LAR,NFL,QB,5,4,15,37,2,26,1.7,11,0.7,1,15.0,0,0,0,0,0,,0,,,0,0,,0,,
+MayfBa00,Baker Mayfield,QB,2023,28,TAM,NFL,QB,17,17,62,163,16,96,1.5,67,1.1,4,15.5,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP CPoY-3"
+MayfBa00,Baker Mayfield,QB,2024,29,TAM,NFL,QB,17,17,60,378,24,294,4.9,84,1.4,5,12.0,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP MVP-11,AP OPoY-11"
+MayfBa00,Baker Mayfield,QB,2025,30,TAM,NFL,QB,8,8,22,158,11,108,4.9,50,2.3,7,3.1,0,0,0,0,0,,0,,,0,0,,0,,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MillEr00,Ernie Mills,WR,1991,23,PIT,NFL,WR,16,2,14,3,79,26.3,1,3,21.4,35,0.2,4.9,21.4,5.6,0,0,0,0,,,,0.0,0.0,3,26.3,79,1,0,2,
+MillEr00,Ernie Mills,WR,1992,24,PIT,NFL,WR,16,5,50,30,383,12.8,3,22,56.0,22,1.9,23.9,60.0,7.7,1,20,0,1,100.0,20,20.0,1.3,0.1,31,13.0,403,3,2,4,
+MillEr00,Ernie Mills,WR,1993,25,PIT,NFL,WR,14,5,56,29,386,13.3,1,22,46.4,30,2.1,27.6,51.8,6.9,3,12,0,1,33.3,19,4.0,0.9,0.2,32,12.4,398,1,0,3,
+MillEr00,Ernie Mills,WR,1994,26,PIT,NFL,WR,15,6,46,19,384,20.2,1,16,41.3,43,1.3,25.6,41.3,8.3,3,18,0,1,33.3,17,6.0,1.2,0.2,22,18.3,402,1,1,4,
+MillEr00,Ernie Mills,WR,1995,27,PIT,NFL,WR,16,6,69,39,679,17.4,8,29,55.1,62,2.4,42.4,56.5,9.8,5,39,0,2,80.0,20,7.8,2.4,0.3,44,16.3,718,8,2,6,
+MillEr00,Ernie Mills,WR,1996,28,PIT,NFL,WR,9,3,21,7,92,13.1,1,4,23.8,22,0.8,10.2,33.3,4.4,2,24,0,1,100.0,15,12.0,2.7,0.2,9,12.9,116,1,0,1,
+MillEr00,Ernie Mills,WR,1997,29,CAR,NFL,WR,10,5,35,11,127,11.5,1,9,28.6,37,1.1,12.7,31.4,3.6,0,0,0,0,,,,0.0,0.0,11,11.5,127,1,0,1,
+MillEr00,Ernie Mills,WR,1998,30,DAL,NFL,WR,11,1,41,28,479,17.1,4,21,53.7,43,2.5,43.5,68.3,11.7,3,9,0,0,66.7,5,3.0,0.8,0.3,31,15.7,488,4,0,5,
+MillEr00,Ernie Mills,WR,1999,31,DAL,NFL,WR,11,7,54,30,325,10.8,0,15,40.7,36,2.7,29.5,55.6,6.0,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,31,10.5,324,0,0,3,

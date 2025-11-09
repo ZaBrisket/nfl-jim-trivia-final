@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PhilLa00,Lawrence Phillips,RB,1996,21,STL,NFL,RB,15,11,193,632,4,31,35.2,38,3.3,42.1,12.9,12,8,28,3.5,1,2,33.3,11,0.5,1.9,66.7,2.3,201,3.3,660,5,2,5,
+PhilLa00,Lawrence Phillips,RB,1997,22,2TM,NFL,RB,12,9,201,677,8,39,41.3,28,3.4,56.4,16.8,19,11,39,3.5,0,2,21.1,17,0.9,3.3,57.9,2.1,212,3.4,716,8,3,4,
+PhilLa00,Lawrence Phillips,RB,1997,22,STL,NFL,RB,10,9,183,633,8,38,41.0,28,3.5,63.3,18.3,16,10,33,3.3,0,2,18.8,17,1.0,3.3,62.5,2.1,193,3.5,666,8,3,4,
+PhilLa00,Lawrence Phillips,RB,1997,22,MIA,NFL,RB,2,0,18,44,0,1,44.4,8,2.4,22.0,9.0,3,1,6,6.0,0,0,33.3,6,0.5,3.0,33.3,2.0,19,2.6,50,0,0,0,
+PhilLa00,Lawrence Phillips,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PhilLa00,Lawrence Phillips,RB,1999,24,SFO,NFL,RB,8,0,30,144,2,8,46.7,68,4.8,18.0,3.8,20,15,152,10.1,0,5,45.0,47,1.9,19.0,75.0,7.6,45,6.6,296,2,2,2,

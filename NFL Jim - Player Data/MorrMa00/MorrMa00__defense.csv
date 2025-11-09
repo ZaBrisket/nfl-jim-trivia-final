@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MorrMa00,Maurice Morris,RB,2002,23,SEA,NFL,RB,11,0,0,0,0,0,0,0,1,0,0,0,0.0,3,3,0,0,,0,
+MorrMa00,Maurice Morris,RB,2003,24,SEA,NFL,RB,16,1,0,0,0,0,0,0,2,1,0,0,0.0,4,3,1,0,,0,
+MorrMa00,Maurice Morris,RB,2004,25,SEA,NFL,RB,15,0,0,0,0,0,0,0,0,0,0,0,0.0,6,5,1,0,,0,
+MorrMa00,Maurice Morris,RB,2005,26,SEA,NFL,RB,16,2,0,0,0,0,0,0,0,1,-1,0,0.0,8,6,2,0,,0,
+MorrMa00,Maurice Morris,RB,2006,27,SEA,NFL,RB,16,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+MorrMa00,Maurice Morris,RB,2007,28,SEA,NFL,RB,14,6,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+MorrMa00,Maurice Morris,RB,2008,29,SEA,NFL,RB,13,6,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+MorrMa00,Maurice Morris,RB,2009,30,DET,NFL,RB,14,3,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+MorrMa00,Maurice Morris,RB,2010,31,DET,NFL,RB,14,7,0,0,0,0,0,0,1,1,0,0,0.0,2,1,1,0,0,0,
+MorrMa00,Maurice Morris,RB,2011,32,DET,NFL,RB,16,5,0,0,0,0,0,0,1,0,0,0,0.0,1,0,1,0,0,0,

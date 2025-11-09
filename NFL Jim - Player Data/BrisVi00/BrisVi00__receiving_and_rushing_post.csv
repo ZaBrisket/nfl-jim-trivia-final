@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BrisVi00,Vincent Brisby,WR,1994,23,NWE,NFL,WR,1,1,12,6,83,13.8,0,5,50.0,18,6.0,83.0,50.0,6.9,0,0,0,0,0.0,0.0,6,13.8,83,0,0,
+BrisVi00,Vincent Brisby,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrisVi00,Vincent Brisby,WR,1996,25,NWE,NFL,WR,3,0,4,2,12,6.0,0,0,25.0,7,0.7,4.0,50.0,3.0,0,0,0,0,0.0,0.0,2,6.0,12,0,0,
+BrisVi00,Vincent Brisby,WR,1997,26,NWE,NFL,WR,2,0,3,3,37,12.3,0,2,100.0,20,1.5,18.5,100.0,12.3,0,0,0,0,0.0,0.0,3,12.3,37,0,0,

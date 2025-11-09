@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnKe06,Kerryon Johnson,RB,2018,21,DET,NFL,RB,10,7,118,641,3,32,52.5,71,5.4,64.1,11.8,39,32,213,6.7,1,11,53.8,24,3.2,21.3,82.1,5.5,150,5.7,854,4,1,5,
+JohnKe06,Kerryon Johnson,RB,2019,22,DET,NFL,RB,8,7,113,403,3,22,48.7,20,3.6,50.4,14.1,15,10,127,12.7,1,7,53.3,36,1.3,15.9,66.7,8.5,123,4.3,530,4,1,3,
+JohnKe06,Kerryon Johnson,RB,2020,23,DET,NFL,RB,16,2,52,181,2,9,55.8,14,3.5,11.3,3.3,26,19,187,9.8,1,11,46.2,20,1.2,11.7,73.1,7.2,71,5.2,368,3,1,3,
+JohnKe06,Kerryon Johnson,RB,2021,24,SFO,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

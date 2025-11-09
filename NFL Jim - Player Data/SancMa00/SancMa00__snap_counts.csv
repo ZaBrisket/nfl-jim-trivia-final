@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SancMa00,Mark Sanchez,QB,2012,26,NYJ,QB,6,15,15,938,93%,0,0%,0,0%
+SancMa00,Mark Sanchez,QB,2014,28,PHI,QB,3,9,8,626,96%,0,0%,0,0%
+SancMa00,Mark Sanchez,QB,2015,29,PHI,QB,3,4,2,169,58%,0,0%,0,0%
+SancMa00,Mark Sanchez,QB,2016,30,DAL,QB,3,2,0,39,30%,0,0%,0,0%
+SancMa00,Mark Sanchez,QB,2018,32,WAS,QB,6,2,1,65,61%,0,0%,0,0%

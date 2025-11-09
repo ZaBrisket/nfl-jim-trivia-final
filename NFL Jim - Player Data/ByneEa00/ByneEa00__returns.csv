@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ByneEa00,Earnest Byner,RB,1984,22,CLE,NFL,RB,16,3,0,0,0,0,22,415,0,28,18.9,1014,
+ByneEa00,Earnest Byner,RB,,,,,,,,,,,,,,,,,,
+ByneEa00,Earnest Byner,RB,1987,25,CLE,NFL,RB,12,12,0,0,0,0,1,2,0,2,2.0,986,
+ByneEa00,Earnest Byner,RB,,,,,,,,,,,,,,,,,,
+ByneEa00,Earnest Byner,RB,1995,33,CLE,NFL,RB,16,2,0,0,0,0,5,98,0,27,19.6,1024,
+ByneEa00,Earnest Byner,RB,1996,34,BAL,NFL,RB,16,8,0,0,0,0,4,61,0,19,15.3,965,
+ByneEa00,Earnest Byner,RB,1997,35,BAL,NFL,RB,16,5,0,0,0,0,1,0,0,0,0.0,441,

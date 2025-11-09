@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+WareSp00,Spencer Ware,RB,2015,24,KAN,NFL,RB,11,2,0,0,0,0,1,14,0,14,14.0,422,
+WareSp00,Spencer Ware,RB,,,,,,,,,,,,,,,,,,
+WareSp00,Spencer Ware,RB,2018,27,KAN,NFL,RB,13,2,0,0,0,0,1,10,0,10,10.0,480,

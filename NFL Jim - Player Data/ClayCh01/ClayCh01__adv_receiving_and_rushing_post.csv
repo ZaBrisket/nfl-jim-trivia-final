@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ClayCh01,Chase Claypool,WR,2020,22,PIT,NFL,WR,1,1,7,5,59,3,46,9.2,13,2.6,10.1,0,0,0.0,0,136.3,0,0,0,0,0,0,
+ClayCh01,Chase Claypool,WR,2021,23,PIT,NFL,WR,1,1,7,3,25,1,15,5.0,10,3.3,12.9,0,0,0.0,0,52.7,0,0,0,0,0,0,
+ClayCh01,Chase Claypool,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ClayCh01,Chase Claypool,WR,2023,25,MIA,NFL,WR,1,0,,0,0,0,,,,,,,,,,,0,0,0,,,,

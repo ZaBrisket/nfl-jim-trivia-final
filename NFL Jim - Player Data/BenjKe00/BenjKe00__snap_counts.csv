@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BenjKe00,Kelvin Benjamin,WR,2014,23,CAR,WR,13,16,15,926,84%,0,0%,1,0%
+BenjKe00,Kelvin Benjamin,WR,2016,25,CAR,WR,13,16,13,802,72%,0,0%,2,0%
+BenjKe00,Kelvin Benjamin,WR,2017,26,2TM,WR,,14,14,598,,0,,5,
+BenjKe00,Kelvin Benjamin,WR,,,CAR,WR,13,8,8,378,70%,0,0%,2,1%
+BenjKe00,Kelvin Benjamin,WR,,,,,,,,220,58%,0,0%,3,2%
+BenjKe00,Kelvin Benjamin,WR,2018,27,2TM,WR,,15,10,537,,0,,1,
+BenjKe00,Kelvin Benjamin,WR,,,BUF,WR,13,12,10,511,65%,0,0%,1,0%
+BenjKe00,Kelvin Benjamin,WR,,,,,,,,26,15%,0,0%,0,0%

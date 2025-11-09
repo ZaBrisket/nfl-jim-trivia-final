@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HolmDa00,Darick Holmes,RB,1995,24,BUF,NFL,RB,16,2,172,698,4,41,48.3,38,4.1,43.6,10.8,34,24,214,8.9,0,5,35.3,47,1.5,13.4,70.6,6.3,196,4.7,912,4,4,7,
+HolmDa00,Darick Holmes,RB,1996,25,BUF,NFL,RB,16,1,189,571,4,36,42.9,37,3.0,35.7,11.8,21,16,102,6.4,1,4,38.1,20,1.0,6.4,76.2,4.9,205,3.3,673,5,2,4,
+HolmDa00,Darick Holmes,RB,1997,26,BUF,NFL,RB,13,0,22,106,2,11,63.6,19,4.8,8.2,1.7,20,13,106,8.2,0,2,60.0,22,1.0,8.2,65.0,5.3,35,6.1,212,2,1,1,
+HolmDa00,Darick Holmes,RB,1998,27,2TM,NFL,RB,14,4,95,394,1,21,52.6,13,4.1,28.1,6.8,24,20,188,9.4,0,9,62.5,24,1.4,13.4,83.3,7.8,115,5.1,582,1,1,5,
+HolmDa00,Darick Holmes,RB,1998,27,BUF,NFL,RB,3,0,2,8,0,0,0.0,5,4.0,2.7,0.7,3,1,9,9.0,0,0,0.0,9,0.3,3.0,33.3,3.0,3,5.7,17,0,0,0,
+HolmDa00,Darick Holmes,RB,1998,27,GNB,NFL,RB,11,4,93,386,1,21,53.8,13,4.2,35.1,8.5,21,19,179,9.4,0,9,71.4,24,1.7,16.3,90.5,8.5,112,5.0,565,1,1,5,
+HolmDa00,Darick Holmes,RB,1999,28,IND,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PettBr00,Brandon Pettigrew,TE,2009,24,DET,NFL,TE,11,11,54,30,346,11.5,2,20,48.1,30,2.7,31.5,55.6,6.4,0,0,0,0,0.0,0.0,30,11.5,346,2,1,2,
+PettBr00,Brandon Pettigrew,TE,2010,25,DET,NFL,TE,16,16,111,71,722,10.2,4,33,49.5,35,4.4,45.1,64.0,6.5,0,0,0,0,0.0,0.0,71,10.2,722,4,0,6,
+PettBr00,Brandon Pettigrew,TE,2011,26,DET,NFL,TE,16,16,126,83,777,9.4,5,38,54.8,27,5.2,48.6,65.9,6.2,0,0,0,0,0.0,0.0,83,9.4,777,5,0,7,
+PettBr00,Brandon Pettigrew,TE,2012,27,DET,NFL,TE,14,11,102,59,567,9.6,3,33,47.1,24,4.2,40.5,57.8,5.6,0,0,0,0,0.0,0.0,59,9.6,567,3,4,4,
+PettBr00,Brandon Pettigrew,TE,2013,28,DET,NFL,TE,14,14,63,41,416,10.1,2,19,52.4,31,2.9,29.7,65.1,6.6,0,0,0,0,0.0,0.0,41,10.1,416,2,1,3,
+PettBr00,Brandon Pettigrew,TE,2014,29,DET,NFL,TE,14,9,15,10,70,7.0,0,4,33.3,13,0.7,5.0,66.7,4.7,0,0,0,0,0.0,0.0,10,7.0,70,0,0,1,
+PettBr00,Brandon Pettigrew,TE,2015,30,DET,NFL,TE,8,8,15,7,67,9.6,1,4,40.0,21,0.9,8.4,46.7,4.5,0,0,0,0,0.0,0.0,7,9.6,67,1,0,1,

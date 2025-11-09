@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MuncCh00,Chuck Muncie,RB,1976,23,NOR,NFL,FB,12,11,0,0,0,0,3,69,0,28,23.0,1000,
+MuncCh00,Chuck Muncie,RB,1977,24,NOR,NFL,RB,14,11,0,0,0,0,1,19,0,19,19.0,1078,
+MuncCh00,Chuck Muncie,RB,,,,,,,,,,,,,,,,,,
+MuncCh00,Chuck Muncie,RB,1980,27,2TM,NFL,RB,15,8,0,0,0,0,16,344,0,44,21.5,1430,
+MuncCh00,Chuck Muncie,RB,1980,27,SDG,NFL,FB,11,5,0,0,0,0,16,344,0,44,21.5,1237,

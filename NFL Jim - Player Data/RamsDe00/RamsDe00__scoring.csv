@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RamsDe00,Derrick Ramsey,TE,1979,23,OAK,NFL,TE,16,3,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+RamsDe00,Derrick Ramsey,TE,,,,,,,,,,,,,,,,,,,,,,,
+RamsDe00,Derrick Ramsey,TE,1981,25,OAK,NFL,TE,16,12,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+RamsDe00,Derrick Ramsey,TE,,,,,,,,,,,,,,,,,,,,,,,
+RamsDe00,Derrick Ramsey,TE,1983,27,2TM,NFL,TE,16,7,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+RamsDe00,Derrick Ramsey,TE,1983,27,NWE,NFL,TE,14,7,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.6,
+RamsDe00,Derrick Ramsey,TE,1984,28,NWE,NFL,TE,16,13,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+RamsDe00,Derrick Ramsey,TE,1985,29,NWE,NFL,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

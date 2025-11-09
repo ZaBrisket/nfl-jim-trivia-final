@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HockTJ00,T.J. Hockenson,TE,2019,22,DET,NFL,TE,12,7,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,1.0,
+HockTJ00,T.J. Hockenson,TE,2020,23,DET,NFL,TE,16,16,0,6,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.4,PB
+HockTJ00,T.J. Hockenson,TE,2021,24,DET,NFL,TE,12,12,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,26,2.2,
+HockTJ00,T.J. Hockenson,TE,2022,25,2TM,NFL,TE,17,14,0,6,0,0,0,0,0,6,2,0,0,0,0,0,0,40,2.4,PB
+HockTJ00,T.J. Hockenson,TE,2022,25,DET,NFL,TE,7,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,20,2.9,
+HockTJ00,T.J. Hockenson,TE,2022,25,MIN,NFL,TE,10,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,20,2.0,
+HockTJ00,T.J. Hockenson,TE,2023,26,MIN,NFL,TE,15,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.0,
+HockTJ00,T.J. Hockenson,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+HockTJ00,T.J. Hockenson,TE,2025,28,MIN,NFL,TE,8,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.5,

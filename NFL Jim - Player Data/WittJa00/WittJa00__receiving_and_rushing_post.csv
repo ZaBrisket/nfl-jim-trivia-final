@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WittJa00,Jason Witten,TE,2003,21,DAL,NFL,TE,1,1,8,4,30,7.5,0,2,50.0,12,4.0,30.0,50.0,3.8,0,0,0,0,0.0,0.0,4,7.5,30,0,0,
+WittJa00,Jason Witten,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WittJa00,Jason Witten,TE,2006,24,DAL,NFL,TE,1,1,3,3,57,19.0,0,1,66.7,32,3.0,57.0,100.0,19.0,0,0,0,0,0.0,0.0,3,19.0,57,0,1,
+WittJa00,Jason Witten,TE,2007,25,DAL,NFL,TE,1,1,8,7,81,11.6,0,4,62.5,20,7.0,81.0,87.5,10.1,0,0,0,0,0.0,0.0,7,11.6,81,0,0,
+WittJa00,Jason Witten,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WittJa00,Jason Witten,TE,2009,27,DAL,NFL,TE,2,2,18,14,125,8.9,0,6,61.1,22,7.0,62.5,77.8,6.9,0,0,0,0,0.0,0.0,14,8.9,125,0,0,
+WittJa00,Jason Witten,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WittJa00,Jason Witten,TE,2014,32,DAL,NFL,TE,2,2,14,11,134,12.2,0,8,71.4,21,5.5,67.0,78.6,9.6,0,0,0,0,0.0,0.0,11,12.2,134,0,0,
+WittJa00,Jason Witten,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WittJa00,Jason Witten,TE,2016,34,DAL,NFL,TE,1,1,9,6,59,9.8,1,5,66.7,15,6.0,59.0,66.7,6.6,0,0,0,0,0.0,0.0,6,9.8,59,1,0,

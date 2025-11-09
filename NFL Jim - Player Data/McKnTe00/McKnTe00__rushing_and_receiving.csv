@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+McKnTe00,Ted McKnight,RB,1977,23,KAN,NFL,RB,13,0,11,74,0,,,19,6.7,5.7,0.8,,1,11,11.0,0,,,11,0.1,0.8,,,12,7.1,85,0,1,1,
+McKnTe00,Ted McKnight,RB,1978,24,KAN,NFL,RH,16,14,104,627,6,31,55.8,41,6.0,39.2,6.5,21,14,83,5.9,1,4,47.6,19,0.9,5.2,66.7,4.0,118,6.0,710,7,2,5,
+McKnTe00,Ted McKnight,RB,1979,25,KAN,NFL,FB,15,14,153,755,8,31,48.4,84,4.9,50.3,10.2,57,38,226,5.9,0,7,33.3,24,2.5,15.1,66.7,4.0,191,5.1,981,8,5,7,
+McKnTe00,Ted McKnight,RB,1980,26,KAN,NFL,FB,16,16,206,693,3,41,41.3,25,3.4,43.3,12.9,52,38,320,8.4,0,10,53.8,26,2.4,20.0,73.1,6.2,244,4.2,1013,3,5,7,
+McKnTe00,Ted McKnight,RB,1981,27,KAN,NFL,RB,5,5,54,195,5,15,50.0,26,3.6,39.0,10.8,10,8,77,9.6,0,3,70.0,23,1.6,15.4,80.0,7.7,62,4.4,272,5,2,2,
+McKnTe00,Ted McKnight,RB,1982,28,BUF,NFL,RB,3,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,

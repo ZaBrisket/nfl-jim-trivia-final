@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BrunMa00,Mark Brunell,QB,1994,24,GNB,NFL,QB,2,0,0,0,0,0,,0,1,0,-2,0,0.0,0,0,0,,,0,
+BrunMa00,Mark Brunell,QB,1995,25,JAX,NFL,QB,13,10,0,0,0,0,,0,5,3,0,0,0.0,0,0,0,,,0,
+BrunMa00,Mark Brunell,QB,1996,26,JAX,NFL,QB,16,16,0,0,0,0,,0,14,5,-14,0,0.0,0,0,0,,,0,PB
+BrunMa00,Mark Brunell,QB,1997,27,JAX,NFL,QB,14,14,0,0,0,0,,0,4,0,-5,0,0.0,0,0,0,,,0,PB
+BrunMa00,Mark Brunell,QB,1998,28,JAX,NFL,QB,13,13,0,0,0,0,,0,3,2,-1,0,0.0,0,0,0,,,0,
+BrunMa00,Mark Brunell,QB,1999,29,JAX,NFL,QB,15,15,0,0,0,0,0,0,6,3,-2,0,0.0,0,0,0,0,,0,PB
+BrunMa00,Mark Brunell,QB,2000,30,JAX,NFL,QB,16,16,0,0,0,0,0,0,7,3,-2,0,0.0,0,0,0,0,,0,
+BrunMa00,Mark Brunell,QB,2001,31,JAX,NFL,QB,15,15,0,0,0,0,0,0,8,2,-8,0,0.0,0,0,0,0,,0,
+BrunMa00,Mark Brunell,QB,2002,32,JAX,NFL,QB,15,15,0,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,,0,
+BrunMa00,Mark Brunell,QB,2003,33,JAX,NFL,QB,3,3,0,0,0,0,0,0,1,0,-5,0,0.0,,,,,,0,
+BrunMa00,Mark Brunell,QB,2004,34,WAS,NFL,QB,9,9,0,0,0,0,0,0,6,2,-6,0,0.0,,,,,,0,
+BrunMa00,Mark Brunell,QB,2005,35,WAS,NFL,QB,16,15,0,0,0,0,0,0,11,1,-17,0,0.0,0,0,0,0,,0,AP CPoY-3
+BrunMa00,Mark Brunell,QB,2006,36,WAS,NFL,QB,10,9,0,0,0,0,0,0,5,1,-8,0,0.0,0,0,0,0,0,0,

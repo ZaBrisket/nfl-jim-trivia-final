@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CobbRa00,Randall Cobb,WR,2012,22,GNB,WR,18,15,8,635,61%,0,0%,138,32%
+CobbRa00,Randall Cobb,WR,2013,23,GNB,WR,18,6,4,332,78%,0,0%,17,10%
+CobbRa00,Randall Cobb,WR,2014*,24,GNB,WR,18,16,16,922,88%,0,0%,34,8%
+CobbRa00,Randall Cobb,WR,2015,25,GNB,WR,18,16,15,1049,92%,0,0%,13,3%
+CobbRa00,Randall Cobb,WR,2016,26,GNB,WR,18,13,10,679,76%,0,0%,14,4%
+CobbRa00,Randall Cobb,WR,2017,27,GNB,WR,18,15,14,743,76%,0,0%,0,0%
+CobbRa00,Randall Cobb,WR,2018,28,GNB,WR,18,9,6,466,78%,0,0%,19,7%
+CobbRa00,Randall Cobb,WR,2019,29,DAL,WR,18,15,6,720,69%,0,0%,31,8%
+CobbRa00,Randall Cobb,WR,2020,30,HOU,WR,18,10,2,369,61%,0,0%,0,0%
+CobbRa00,Randall Cobb,WR,2021,31,GNB,WR,18,12,3,371,47%,0,0%,1,0%
+CobbRa00,Randall Cobb,WR,2022,32,GNB,WR,18,13,3,371,44%,0,0%,7,2%
+CobbRa00,Randall Cobb,WR,2023,33,NYJ,WR,18,11,1,210,31%,0,0%,7,2%

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HebeBo00,Bobby Hebert,QB,1985,25,NOR,NFL,QB,6,6,12,26,0,4,41.7,8,2.2,4.3,2.0,1,1,7,7.0,1,1,100.0,7,0.2,1.2,100.0,7.0,13,2.5,33,1,1,
+HebeBo00,Bobby Hebert,QB,1986,26,NOR,NFL,QB,5,3,5,14,0,0,20.0,7,2.8,2.8,1.0,1,1,1,1.0,0,0,0.0,1,0.2,0.2,100.0,1.0,6,2.5,15,0,3,
+HebeBo00,Bobby Hebert,QB,1987,27,NOR,NFL,QB,12,12,13,95,0,5,69.2,19,7.3,7.9,1.1,0,0,0,,0,0,,,0.0,0.0,,,13,7.3,95,0,4,
+HebeBo00,Bobby Hebert,QB,1988,28,NOR,NFL,QB,16,16,37,79,0,7,32.4,16,2.1,4.9,2.3,2,2,0,0.0,0,0,0.0,,0.1,0.0,100.0,0.0,39,2.0,79,0,9,
+HebeBo00,Bobby Hebert,QB,1989,29,NOR,NFL,QB,14,13,25,87,0,7,36.0,11,3.5,6.2,1.8,0,0,0,,0,0,,,0.0,0.0,,,25,3.5,87,0,2,
+HebeBo00,Bobby Hebert,QB,1990,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HebeBo00,Bobby Hebert,QB,1991,31,NOR,NFL,QB,9,9,18,56,0,3,44.4,16,3.1,6.2,2.0,0,0,0,,0,0,,,0.0,0.0,,,18,3.1,56,0,5,
+HebeBo00,Bobby Hebert,QB,1992,32,NOR,NFL,QB,16,16,32,95,0,6,34.4,18,3.0,5.9,2.0,0,0,0,,0,0,,,0.0,0.0,,,32,3.0,95,0,3,
+HebeBo00,Bobby Hebert,QB,1993,33,ATL,NFL,QB,14,12,24,49,0,5,29.2,14,2.0,3.5,1.7,0,0,0,,0,0,,,0.0,0.0,,,24,2.0,49,0,11,PB
+HebeBo00,Bobby Hebert,QB,1994,34,ATL,NFL,QB,8,0,9,43,0,2,33.3,20,4.8,5.4,1.1,0,0,0,,0,0,,,0.0,0.0,,,9,4.8,43,0,2,
+HebeBo00,Bobby Hebert,QB,1995,35,ATL,NFL,QB,4,0,5,-1,0,1,20.0,2,-0.2,-0.3,1.3,0,0,0,,0,0,,,0.0,0.0,,,5,-0.2,-1,0,0,
+HebeBo00,Bobby Hebert,QB,1996,36,ATL,NFL,QB,14,13,15,59,1,5,40.0,25,3.9,4.2,1.1,0,0,0,,0,0,,,0.0,0.0,,,15,3.9,59,1,10,

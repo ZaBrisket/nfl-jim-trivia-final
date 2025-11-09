@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MoncDo00,Donte Moncrief,WR,2014,21,IND,WR,10,16,2,411,36%,0,0%,193,40%
+MoncDo00,Donte Moncrief,WR,2015,22,IND,WR,10,16,10,830,76%,0,0%,36,8%
+MoncDo00,Donte Moncrief,WR,2016,23,IND,WR,10,9,7,467,79%,0,0%,3,1%
+MoncDo00,Donte Moncrief,WR,2017,24,IND,WR,10,12,8,613,79%,0,0%,5,1%
+MoncDo00,Donte Moncrief,WR,2018,25,JAX,WR,10,16,14,815,78%,0,0%,4,1%
+MoncDo00,Donte Moncrief,WR,2019,26,2TM,WR,,8,2,135,,0,,2,
+MoncDo00,Donte Moncrief,WR,,,PIT,WR,11,5,2,110,35%,0,0%,2,2%
+MoncDo00,Donte Moncrief,WR,,,,,,,,25,11%,0,0%,0,0%
+MoncDo00,Donte Moncrief,WR,2020,27,NWE,WR,14,6,0,25,7%,0,0%,75,49%

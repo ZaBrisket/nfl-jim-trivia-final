@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AiyuBr00,Brandon Aiyuk,WR,2020,22,SFO,NFL,WR,12,11,2,5,0,0,0,0,0,7,0,,0,0,0,0,0,42,3.5,
+AiyuBr00,Brandon Aiyuk,WR,2021,23,SFO,NFL,WR,17,16,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,32,1.9,
+AiyuBr00,Brandon Aiyuk,WR,2022,24,SFO,NFL,WR,17,17,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,
+AiyuBr00,Brandon Aiyuk,WR,2023,25,SFO,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.6,AP-2

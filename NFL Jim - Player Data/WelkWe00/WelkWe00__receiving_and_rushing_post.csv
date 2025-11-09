@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WelkWe00,Wes Welker,WR,2007,26,NWE,NFL,WR,3,3,33,27,213,7.9,2,11,60.6,19,9.0,71.0,81.8,6.5,1,13,0,1,100.0,13,13.0,4.3,0.3,28,8.1,226,2,0,
+WelkWe00,Wes Welker,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WelkWe00,Wes Welker,WR,2010,29,NWE,NFL,WR,1,0,9,7,57,8.1,0,5,66.7,13,7.0,57.0,77.8,6.3,0,0,0,0,,,,0.0,0.0,7,8.1,57,0,0,
+WelkWe00,Wes Welker,WR,2011,30,NWE,NFL,WR,3,3,23,19,168,8.8,1,9,69.6,19,6.3,56.0,82.6,7.3,2,21,0,2,100.0,11,10.5,7.0,0.7,21,9.0,189,1,1,
+WelkWe00,Wes Welker,WR,2012,31,NWE,NFL,WR,2,2,25,16,248,15.5,1,9,60.0,47,8.0,124.0,64.0,9.9,0,0,0,0,,,,0.0,0.0,16,15.5,248,1,0,
+WelkWe00,Wes Welker,WR,2013,32,DEN,NFL,WR,3,3,24,18,160,8.9,1,7,66.7,22,6.0,53.3,75.0,6.7,0,0,0,0,,,,0.0,0.0,18,8.9,160,1,0,
+WelkWe00,Wes Welker,WR,2014,33,DEN,NFL,WR,1,0,2,1,20,20.0,0,1,50.0,20,1.0,20.0,50.0,10.0,0,0,0,0,,,,0.0,0.0,1,20.0,20,0,0,

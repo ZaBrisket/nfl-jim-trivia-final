@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+ThomLo00,Logan Thomas,TE,2018,27,BUF,NFL,TE,12,3,1,1,8,8.0,8,8.0,8.0,7,7.0,0,0,0,0,0.0,0,0.0,,,0.0,0,0,0,0,0.0,0,,,,,,,,,
+ThomLo00,Logan Thomas,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ThomLo00,Logan Thomas,TE,2020,29,WAS,NFL,TE,16,15,1,1,28,28.0,28,28.0,28.0,0,0.0,0,0,0,0,0.0,0,0.0,1,100.0,4.5,0,0,0,0,0.0,0,0,0,0,0,0,0,1,28,

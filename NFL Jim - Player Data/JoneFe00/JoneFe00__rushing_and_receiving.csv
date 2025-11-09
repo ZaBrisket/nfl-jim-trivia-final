@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneFe00,Felix Jones,RB,2008,21,DAL,NFL,RB,6,0,30,266,3,14,70.0,60,8.9,44.3,5.0,2,2,10,5.0,0,0,50.0,7,0.3,1.7,100.0,5.0,32,8.6,276,3,0,3,
+JoneFe00,Felix Jones,RB,2009,22,DAL,NFL,RB,14,1,116,685,3,24,45.7,56,5.9,48.9,8.3,22,19,119,6.3,0,5,50.0,30,1.4,8.5,86.4,5.4,135,6.0,804,3,3,5,
+JoneFe00,Felix Jones,RB,2010,23,DAL,NFL,RB,16,7,185,800,1,41,49.2,34,4.3,50.0,11.6,52,48,450,9.4,1,11,50.0,71,3.0,28.1,92.3,8.7,233,5.4,1250,2,2,9,
+JoneFe00,Felix Jones,RB,2011,24,DAL,NFL,RB,12,8,127,575,1,28,51.2,40,4.5,47.9,10.6,45,33,221,6.7,0,13,51.1,27,2.8,18.4,73.3,4.9,160,5.0,796,1,5,6,
+JoneFe00,Felix Jones,RB,2012,25,DAL,NFL,RB,16,7,111,402,3,24,47.7,22,3.6,25.1,6.9,36,25,262,10.5,2,10,50.0,39,1.6,16.4,69.4,7.3,136,4.9,664,5,2,5,
+JoneFe00,Felix Jones,RB,2013,26,PIT,NFL,RB,16,2,48,184,0,9,37.5,14,3.8,11.5,3.0,13,9,63,7.0,0,2,53.8,15,0.6,3.9,69.2,4.8,57,4.3,247,0,1,2,

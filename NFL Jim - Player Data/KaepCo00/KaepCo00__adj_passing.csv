@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+KaepCo00,Colin Kaepernick,QB,2012,25,SFO,NFL,QB,13,7,124,119,124,121,106,103,122,96,116,
+KaepCo00,Colin Kaepernick,QB,2013,26,SFO,NFL,QB,16,16,113,105,114,109,88,107,112,83,106,
+KaepCo00,Colin Kaepernick,QB,2014,27,SFO,NFL,QB,16,16,97,87,99,93,93,94,108,74,97,
+KaepCo00,Colin Kaepernick,QB,2015,28,SFO,NFL,QB,9,8,86,76,87,81,84,76,106,66,84,
+KaepCo00,Colin Kaepernick,QB,2016,29,SFO,NFL,QB,12,11,91,83,103,97,86,106,121,69,103,

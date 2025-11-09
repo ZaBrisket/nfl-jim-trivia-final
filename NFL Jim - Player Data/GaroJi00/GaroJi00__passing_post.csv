@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+GaroJi00,Jimmy Garoppolo,QB,2014,23,NWE,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+GaroJi00,Jimmy Garoppolo,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaroJi00,Jimmy Garoppolo,QB,2019,28,SFO,NFL,QB,3,3,2-1-0,37,58,63.8,427,2,3.4,3,5.2,25,46.8,30,7.4,5.72,11.5,142.3,75.9,4,26,6.45,6.47,4.94,0,0,
+GaroJi00,Jimmy Garoppolo,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaroJi00,Jimmy Garoppolo,QB,2021,30,SFO,NFL,QB,3,3,2-1-0,43,74,58.1,535,2,2.7,3,4.1,30,41.0,44,7.2,5.95,12.4,178.3,72.7,4,25,5.13,6.54,5.32,0,1,

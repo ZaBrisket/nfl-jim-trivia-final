@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CravAa00,Aaron Craver,RB,1991,23,MIA,NFL,RB,14,0,0,0,0,0,32,615,0,49,19.2,740,
+CravAa00,Aaron Craver,RB,1992,24,MIA,NFL,RB,6,0,0,0,0,0,8,174,0,44,21.8,183,
+CravAa00,Aaron Craver,RB,,,,,,,,,,,,,,,,,,
+CravAa00,Aaron Craver,RB,1995,27,DEN,NFL,FB,16,10,0,0,0,0,7,50,0,13,7.1,752,
+CravAa00,Aaron Craver,RB,,,,,,,,,,,,,,,,,,
+CravAa00,Aaron Craver,RB,1997,29,SDG,NFL,FB,15,5,0,0,0,0,3,68,0,27,22.7,165,
+CravAa00,Aaron Craver,RB,1998,30,NOR,NFL,FB,16,10,0,0,0,0,7,212,1,100,30.3,606,
+CravAa00,Aaron Craver,RB,1999,31,NOR,NFL,FB,13,10,0,0,0,0,1,3,0,3,3.0,197,

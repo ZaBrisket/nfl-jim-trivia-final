@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HambTr00,Troy Hambrick,RB,2000,24,DAL,NFL,RB,3,0,6,28,0,2,50.0,13,4.7,9.3,2.0,0,0,0,,0,0,,,0.0,0.0,,,6,4.7,28,0,0,0,
+HambTr00,Troy Hambrick,RB,2001,25,DAL,NFL,FB,16,11,113,579,2,28,46.0,80,5.1,36.2,7.1,12,4,62,15.5,0,3,25.0,27,0.3,3.9,33.3,5.2,117,5.5,641,2,1,4,
+HambTr00,Troy Hambrick,RB,2002,26,DAL,NFL,RB,16,0,79,317,1,17,43.0,18,4.0,19.8,4.9,24,21,99,4.7,0,1,25.0,14,1.3,6.2,87.5,4.1,100,4.2,416,1,2,2,
+HambTr00,Troy Hambrick,RB,2003,27,DAL,NFL,RB,16,16,275,972,5,58,42.9,42,3.5,60.8,17.2,24,17,99,5.8,0,2,37.5,13,1.1,6.2,70.8,4.1,292,3.7,1071,5,4,4,
+HambTr00,Troy Hambrick,RB,2004,28,ARI,NFL,RB,10,0,63,283,1,12,34.9,62,4.5,28.3,6.3,5,4,16,4.0,1,1,20.0,9,0.4,1.6,80.0,3.2,67,4.5,299,2,0,2,

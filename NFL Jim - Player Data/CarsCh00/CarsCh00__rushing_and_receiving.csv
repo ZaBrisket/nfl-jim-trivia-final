@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CarsCh00,Chris Carson,RB,2017,23,SEA,NFL,RB,4,3,49,208,0,13,40.8,30,4.2,52.0,12.3,8,7,59,8.4,1,3,75.0,10,1.8,14.8,87.5,7.4,56,4.8,267,1,0,2,
+CarsCh00,Chris Carson,RB,2018,24,SEA,NFL,RB,14,14,247,1151,9,61,50.6,61,4.7,82.2,17.6,24,20,163,8.2,0,7,50.0,27,1.4,11.6,83.3,6.8,267,4.9,1314,9,3,9,
+CarsCh00,Chris Carson,RB,2019,25,SEA,NFL,RB,15,15,278,1230,7,75,53.6,59,4.4,82.0,18.5,47,37,266,7.2,2,10,55.3,21,2.5,17.7,78.7,5.7,315,4.7,1496,9,7,10,
+CarsCh00,Chris Carson,RB,2020,26,SEA,NFL,RB,12,12,141,681,5,43,61.7,29,4.8,56.8,11.8,46,37,287,7.8,4,14,58.7,29,3.1,23.9,80.4,6.2,178,5.4,968,9,1,8,
+CarsCh00,Chris Carson,RB,2021,27,SEA,NFL,RB,4,4,54,232,3,11,55.6,33,4.3,58.0,13.5,6,6,29,4.8,0,1,66.7,16,1.5,7.3,100.0,4.8,60,4.4,261,3,1,2,

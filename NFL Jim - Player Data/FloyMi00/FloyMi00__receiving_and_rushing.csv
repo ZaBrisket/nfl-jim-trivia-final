@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FloyMi00,Michael Floyd,WR,2012,23,ARI,NFL,WR,16,3,86,45,562,12.5,2,26,46.5,53,2.8,35.1,52.3,6.5,0,0,0,0,,,,0.0,0.0,45,12.5,562,2,1,3,
+FloyMi00,Michael Floyd,WR,2013,24,ARI,NFL,WR,16,16,113,65,1041,16.0,5,48,53.1,91,4.1,65.1,57.5,9.2,0,0,0,0,,,,0.0,0.0,65,16.0,1041,5,0,8,
+FloyMi00,Michael Floyd,WR,2014,25,ARI,NFL,WR,16,14,99,47,841,17.9,6,34,39.4,63,2.9,52.6,47.5,8.5,1,2,0,0,0.0,2,2.0,0.1,0.1,48,17.6,843,6,3,6,
+FloyMi00,Michael Floyd,WR,2015,26,ARI,NFL,WR,15,6,89,52,849,16.3,6,40,52.8,60,3.5,56.6,58.4,9.5,0,0,0,0,,,,0.0,0.0,52,16.3,849,6,0,8,
+FloyMi00,Michael Floyd,WR,2016,27,2TM,NFL,WR,15,8,76,37,488,13.2,5,31,46.1,39,2.5,32.5,48.7,6.4,0,0,0,0,,,,0.0,0.0,37,13.2,488,5,0,4,
+FloyMi00,Michael Floyd,WR,2016,27,ARI,NFL,WR,13,7,70,33,446,13.5,4,28,44.3,39,2.5,34.3,47.1,6.4,0,0,0,0,,,,0.0,0.0,33,13.5,446,4,0,4,
+FloyMi00,Michael Floyd,WR,2016,27,NWE,NFL,WR,2,1,6,4,42,10.5,1,3,66.7,14,2.0,21.0,66.7,7.0,0,0,0,0,,,,0.0,0.0,4,10.5,42,1,0,0,
+FloyMi00,Michael Floyd,WR,2017,28,MIN,NFL,WR,11,1,17,10,78,7.8,0,3,47.1,19,0.9,7.1,58.8,4.6,0,0,0,0,,,,0.0,0.0,10,7.8,78,0,0,1,
+FloyMi00,Michael Floyd,WR,2018,29,WAS,NFL,WR,13,3,24,10,100,10.0,1,5,37.5,20,0.8,7.7,41.7,4.2,0,0,0,0,,,,0.0,0.0,10,10.0,100,1,0,1,

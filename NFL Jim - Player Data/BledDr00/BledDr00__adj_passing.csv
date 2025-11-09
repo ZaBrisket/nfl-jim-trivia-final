@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BledDr00,Drew Bledsoe,QB,1993,21,NWE,NFL,QB,13,12,81,91,85,92,76,97,98,121,84,
+BledDr00,Drew Bledsoe,QB,1994,22,NWE,NFL,QB,16,16,97,105,92,98,99,98,88,121,94,PB
+BledDr00,Drew Bledsoe,QB,1995,23,NWE,NFL,QB,15,15,70,80,80,86,76,76,111,118,79,
+BledDr00,Drew Bledsoe,QB,1996,24,NWE,NFL,QB,16,16,96,103,104,108,110,105,112,113,109,PB
+BledDr00,Drew Bledsoe,QB,1997,25,NWE,NFL,QB,16,16,107,108,110,111,113,114,105,109,113,PB
+BledDr00,Drew Bledsoe,QB,1998,26,NWE,NFL,QB,14,14,114,112,111,109,92,101,104,101,104,
+BledDr00,Drew Bledsoe,QB,1999,27,NWE,NFL,QB,16,16,110,104,103,99,97,95,92,87,97,
+BledDr00,Drew Bledsoe,QB,2000,28,NWE,NFL,QB,16,16,90,89,96,95,103,92,114,94,99,
+BledDr00,Drew Bledsoe,QB,2001,29,NWE,NFL,QB,2,2,87,90,89,91,106,88,103,98,95,
+BledDr00,Drew Bledsoe,QB,2002,30,BUF,NFL,QB,16,16,110,103,112,107,108,100,113,89,110,"PB,AP CPoY-3"
+BledDr00,Drew Bledsoe,QB,2003,31,BUF,NFL,QB,16,16,87,79,90,84,96,78,110,80,90,
+BledDr00,Drew Bledsoe,QB,2004,32,BUF,NFL,QB,16,16,95,94,95,94,92,104,93,93,95,
+BledDr00,Drew Bledsoe,QB,2005,33,DAL,NFL,QB,16,16,107,101,105,101,101,106,95,86,103,
+BledDr00,Drew Bledsoe,QB,2006,34,DAL,NFL,QB,6,6,101,95,92,89,76,101,74,86,84,

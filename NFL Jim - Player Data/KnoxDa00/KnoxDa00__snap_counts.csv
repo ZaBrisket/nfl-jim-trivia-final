@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+KnoxDa00,Dawson Knox,TE,2019,23,BUF,TE,88,15,11,646,64%,0,0%,76,20%
+KnoxDa00,Dawson Knox,TE,2020,24,BUF,TE,88,12,7,487,58%,0,0%,36,10%
+KnoxDa00,Dawson Knox,TE,2021,25,BUF,TE,88,15,14,917,87%,0,0%,18,5%
+KnoxDa00,Dawson Knox,TE,2022*,26,BUF,TE,88,15,15,825,80%,0,0%,5,1%
+KnoxDa00,Dawson Knox,TE,2023,27,BUF,TE,88,12,11,487,60%,0,0%,0,0%
+KnoxDa00,Dawson Knox,TE,2024,28,BUF,TE,88,16,13,618,61%,0,0%,4,1%
+KnoxDa00,Dawson Knox,TE,2025,29,BUF,TE,88,8,6,288,54%,0,0%,1,1%

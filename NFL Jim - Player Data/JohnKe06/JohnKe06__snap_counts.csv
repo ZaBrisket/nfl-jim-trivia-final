@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JohnKe06,Kerryon Johnson,RB,2018,21,DET,RB,33,10,7,346,52%,0,0%,1,0%
+JohnKe06,Kerryon Johnson,RB,2019,22,DET,RB,33,8,7,274,53%,0,0%,0,0%
+JohnKe06,Kerryon Johnson,RB,2020,23,DET,RB,33,16,2,295,28%,0,0%,29,6%
+JohnKe06,Kerryon Johnson,RB,2021,24,SFO,RB,48,1,0,0,0%,0,0%,9,33%

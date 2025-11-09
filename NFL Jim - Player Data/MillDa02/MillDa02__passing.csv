@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+MillDa02,Davis Mills,QB,2021,23,HOU,NFL,QB,13,11,2-9-0,263,394,66.8,2664,16,4.1,10,2.5,118,44.0,67,6.8,6.43,10.1,204.9,88.8,41.2,31,206,7.29,5.78,5.48,0,0,7,
+MillDa02,Davis Mills,QB,2022,24,HOU,NFL,QB,15,15,3-10-1,292,479,61.0,3118,17,3.5,15,3.1,135,40.0,58,6.5,5.81,10.7,207.9,78.8,35.0,31,244,6.08,5.64,4.98,2,3,7,
+MillDa02,Davis Mills,QB,2023,25,HOU,NFL,QB,6,0,,18,39,46.2,173,2,5.1,0,0.0,12,36.6,19,4.4,5.46,9.6,28.8,76.1,49.5,2,13,4.88,3.90,4.88,0,0,1,
+MillDa02,Davis Mills,QB,2024,26,HOU,NFL,QB,4,0,,20,36,55.6,212,0,0.0,0,0.0,9,36.8,25,5.9,5.89,10.6,53.0,72.9,64.8,2,18,5.26,5.11,5.11,0,0,1,
+MillDa02,Davis Mills,QB,2025,27,HOU,NFL,QB,2,0,,19,34,55.9,160,0,0.0,0,0.0,9,30.6,26,4.7,4.71,8.4,80.0,68.3,54.4,2,16,5.56,4.00,4.00,0,0,,

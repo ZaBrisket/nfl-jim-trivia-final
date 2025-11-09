@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JoneMa02,Marvin Jones,WR,2012,22,CIN,NFL,WR,11,5,32,18,201,11.2,1,11,53.1,23,1.6,18.3,56.3,6.3,3,47,0,2,66.7,37,15.7,4.3,0.3,21,11.8,248,1,0,2,
+JoneMa02,Marvin Jones,WR,2013,23,CIN,NFL,WR,16,3,80,51,712,14.0,10,36,57.5,45,3.2,44.5,63.8,8.9,8,65,0,4,62.5,34,8.1,4.1,0.5,59,13.2,777,10,0,7,
+JoneMa02,Marvin Jones,WR,2014,,Did not play - Injured (ankle),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneMa02,Marvin Jones,WR,2015,25,CIN,NFL,WR,16,13,103,65,816,12.6,4,34,52.4,47,4.1,51.0,63.1,7.9,5,33,0,3,40.0,30,6.6,2.1,0.3,70,12.1,849,4,0,9,
+JoneMa02,Marvin Jones,WR,2016,26,DET,NFL,WR,15,15,103,55,930,16.9,4,41,47.6,73,3.7,62.0,53.4,9.0,1,3,0,0,0.0,3,3.0,0.2,0.1,56,16.7,933,4,0,8,
+JoneMa02,Marvin Jones,WR,2017,27,DET,NFL,WR,16,16,107,61,1101,18.0,9,44,53.3,58,3.8,68.8,57.0,10.3,0,0,0,0,,,,0.0,0.0,61,18.0,1101,9,0,10,
+JoneMa02,Marvin Jones,WR,2018,28,DET,NFL,WR,9,9,62,35,508,14.5,5,27,51.6,39,3.9,56.4,56.5,8.2,0,0,0,0,,,,0.0,0.0,35,14.5,508,5,0,4,
+JoneMa02,Marvin Jones,WR,2019,29,DET,NFL,WR,13,11,91,62,779,12.6,9,41,59.3,47,4.8,59.9,68.1,8.6,2,0,0,0,0.0,,0.0,0.0,0.2,64,12.2,779,9,0,6,
+JoneMa02,Marvin Jones,WR,2020,30,DET,NFL,WR,16,16,115,76,978,12.9,9,52,60.0,43,4.8,61.1,66.1,8.5,0,0,0,0,,,,0.0,0.0,76,12.9,978,9,0,8,
+JoneMa02,Marvin Jones,WR,2021,31,JAX,NFL,WR,17,16,120,73,832,11.4,4,42,53.3,33,4.3,48.9,60.8,6.9,0,0,0,0,,,,0.0,0.0,73,11.4,832,4,0,5,
+JoneMa02,Marvin Jones,WR,2022,32,JAX,NFL,WR,16,10,81,46,529,11.5,3,29,51.9,37,2.9,33.1,56.8,6.5,0,0,0,0,,,,0.0,0.0,46,11.5,529,3,0,5,
+JoneMa02,Marvin Jones,WR,2023,33,DET,NFL,WR,6,4,10,5,35,7.0,0,2,30.0,16,0.8,5.8,50.0,3.5,0,0,0,0,,,,0.0,0.0,5,7.0,35,0,1,0,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+GalbTo00,Tony Galbreath,RB,1976,22,NOR,NFL,RB,14,13,0,0,0,0,,7,1,0,0,0.0,,,,0,
+GalbTo00,Tony Galbreath,RB,1977,23,NOR,NFL,FB,14,14,0,0,0,0,,3,0,0,0,0.0,,,,0,
+GalbTo00,Tony Galbreath,RB,1978,24,NOR,NFL,FB,16,16,0,0,0,0,0,6,2,1,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1979,25,NOR,NFL,FB,15,15,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1980,26,NOR,NFL,RB,16,4,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1981,27,MIN,NFL,RB,14,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1982,28,MIN,NFL,RB,8,3,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1983,29,MIN,NFL,FB,13,7,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,,,,,,,,,,,,,,,,,,,,,,
+GalbTo00,Tony Galbreath,RB,1985,31,NYG,NFL,RB,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1986,32,NYG,NFL,RB,16,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,
+GalbTo00,Tony Galbreath,RB,1987,33,NYG,NFL,RB,12,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

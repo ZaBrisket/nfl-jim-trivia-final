@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CentLa00,Larry Centers,FB,1998,30,ARI,NFL,FB,2,2,15,9,61,6.8,1,3,46.7,12,4.5,30.5,60.0,4.1,3,5,0,0,0.0,6,1.7,2.5,1.5,12,5.5,66,1,0,
+CentLa00,Larry Centers,FB,1999,31,WAS,NFL,FB,2,1,11,10,69,6.9,0,3,63.6,17,5.0,34.5,90.9,6.3,2,10,0,0,50.0,7,5.0,5.0,1.0,12,6.6,79,0,0,
+CentLa00,Larry Centers,FB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CentLa00,Larry Centers,FB,2003,35,NWE,NFL,FB,3,2,5,2,32,16.0,0,1,20.0,28,0.7,10.7,40.0,6.4,2,0,0,0,0.0,,0.0,0.0,0.7,4,8.0,32,0,0,

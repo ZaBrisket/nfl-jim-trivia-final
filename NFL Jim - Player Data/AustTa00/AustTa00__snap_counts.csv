@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AustTa00,Tavon Austin,WR,2013,23,STL,WR,11,13,3,423,51%,0,0%,98,27%
+AustTa00,Tavon Austin,WR,2014,24,STL,WR,11,15,8,535,58%,0,0%,83,20%
+AustTa00,Tavon Austin,WR,2015,25,STL,WR,11,16,15,741,77%,0,0%,88,19%
+AustTa00,Tavon Austin,WR,2016,26,LAR,WR,11,15,15,731,77%,0,0%,91,22%
+AustTa00,Tavon Austin,WR,2017,27,LAR,WR,11,16,9,228,22%,0,0%,33,7%
+AustTa00,Tavon Austin,WR,2018,28,DAL,WR,10,7,0,115,25%,0,0%,21,11%
+AustTa00,Tavon Austin,WR,2019,29,DAL,WR,10,14,0,304,31%,0,0%,40,10%
+AustTa00,Tavon Austin,WR,2020,30,GNB,WR,16,4,0,30,12%,0,0%,14,14%
+AustTa00,Tavon Austin,WR,2021,31,JAX,WR,7,13,3,288,35%,0,0%,2,1%

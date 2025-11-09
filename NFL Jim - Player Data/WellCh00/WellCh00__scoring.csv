@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WellCh00,Beanie Wells,RB,2009,21,ARI,NFL,RB,16,0,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+WellCh00,Beanie Wells,RB,2010,22,ARI,NFL,RB,13,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+WellCh00,Beanie Wells,RB,2011,23,ARI,NFL,RB,14,14,10,0,0,0,0,0,0,10,0,0,0,0,0,0,60,4.3,
+WellCh00,Beanie Wells,RB,2012,24,ARI,NFL,RB,8,7,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,3.8,

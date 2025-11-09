@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+FoutDa00,Dan Fouts,QB,1979,28,SDG,NFL,QB,1,1,0-1-0,25,47,53.2,333,0,0.0,5,10.6,17,42.9,34,7.1,2.30,13.3,333.0,36.3,2,16,4.08,6.47,1.88,0,0,
+FoutDa00,Dan Fouts,QB,1980,29,SDG,NFL,QB,2,2,1-1-0,44,82,53.7,650,4,4.9,3,3.7,30,44.2,55,7.9,7.26,14.8,325.0,80.8,4,26,4.65,7.26,6.62,1,1,
+FoutDa00,Dan Fouts,QB,1981,30,SDG,NFL,QB,2,2,1-1-0,48,81,59.3,618,4,4.9,3,3.7,28,49.4,47,7.6,6.95,12.9,309.0,84.3,4,30,4.71,6.92,6.27,1,1,
+FoutDa00,Dan Fouts,QB,1982,31,SDG,NFL,QB,2,2,1-1-0,42,76,55.3,524,4,5.3,5,6.6,28,46.8,33,6.9,4.99,12.5,262.0,67.0,3,23,3.80,6.34,4.51,1,1,

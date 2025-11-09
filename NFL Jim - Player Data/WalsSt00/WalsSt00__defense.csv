@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WalsSt00,Steve Walsh,QB,1989,23,DAL,NFL,QB,8,5,0,0,0,0,0,3,2,-14,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,1990,24,2TM,NFL,QB,13,11,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,1990,24,DAL,NFL,QB,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,1990,24,NOR,NFL,QB,12,11,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,1991,25,NOR,NFL,QB,8,7,0,0,0,0,0,3,1,-20,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,,,,,,,,,,,,,,,,,,,,,,
+WalsSt00,Steve Walsh,QB,1994,28,CHI,NFL,QB,12,11,0,0,0,0,0,7,3,-8,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,,,,,,,,,,,,,,,,,,,,,,
+WalsSt00,Steve Walsh,QB,1996,30,STL,NFL,QB,3,3,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+WalsSt00,Steve Walsh,QB,1997,31,TAM,NFL,QB,12,0,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,

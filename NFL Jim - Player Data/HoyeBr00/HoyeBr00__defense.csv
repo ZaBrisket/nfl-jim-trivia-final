@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+HoyeBr00,Brian Hoyer,QB,2012,27,ARI,NFL,QB,2,1,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,,,0,
+HoyeBr00,Brian Hoyer,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+HoyeBr00,Brian Hoyer,QB,2014,29,CLE,NFL,QB,14,13,0,0,0,0,0,0,4,2,-10,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,2015,30,HOU,NFL,QB,11,9,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,2016,31,CHI,NFL,QB,6,5,0,0,0,0,0,0,3,2,-5,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,2017,32,2TM,NFL,QB,11,6,0,0,0,0,0,0,3,1,-9,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,2017,32,SFO,NFL,QB,6,6,0,0,0,0,0,0,3,1,-9,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+HoyeBr00,Brian Hoyer,QB,2019,34,IND,NFL,QB,4,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+HoyeBr00,Brian Hoyer,QB,2020,35,NWE,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

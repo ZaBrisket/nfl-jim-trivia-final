@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+MariMa01,Marcus Mariota,QB,2015,22,TEN,NFL,QB,12,12,3-9-0,230,370,62.2,2818,19,5.1,10,2.7,142,44.9,61,7.6,7.43,12.3,234.8,91.5,48.4,38,258,9.31,6.27,6.10,2,2,9,
+MariMa01,Marcus Mariota,QB,2016,23,TEN,NFL,QB,15,15,8-7-0,276,451,61.2,3426,26,5.8,9,2.0,157,45.1,60,7.6,7.85,12.4,228.4,95.6,59.1,23,156,4.85,6.90,7.14,2,2,13,
+MariMa01,Marcus Mariota,QB,2017,24,TEN,NFL,QB,15,15,9-6-0,281,453,62.0,3232,13,2.9,15,3.3,149,45.0,75,7.1,6.22,11.5,215.5,79.3,59.0,27,173,5.63,6.37,5.51,3,4,12,
+MariMa01,Marcus Mariota,QB,2018,25,TEN,NFL,QB,14,13,7-6-0,228,331,68.9,2528,11,3.3,8,2.4,121,46.4,61,7.6,7.21,11.1,180.6,92.3,53.2,42,243,11.26,6.13,5.75,2,3,9,
+MariMa01,Marcus Mariota,QB,2019,26,TEN,NFL,QB,7,6,2-4-0,95,160,59.4,1203,7,4.4,2,1.3,50,34.6,75,7.5,7.83,12.7,171.9,92.3,35.5,25,162,13.51,5.63,5.90,0,0,5,
+MariMa01,Marcus Mariota,QB,2020,27,LVR,NFL,QB,1,0,,17,28,60.7,226,1,3.6,1,3.6,11,46.4,35,8.1,7.18,13.3,226.0,83.3,97.4,0,0,0.00,8.07,7.18,0,0,1,
+MariMa01,Marcus Mariota,QB,2021,28,LVR,NFL,QB,10,0,,1,2,50.0,4,0,0.0,0,0.0,0,50.0,4,2.0,2.00,4.0,0.4,56.2,46.2,0,0,0.00,2.00,2.00,0,0,0,
+MariMa01,Marcus Mariota,QB,2022,29,ATL,NFL,QB,13,13,5-8-0,184,300,61.3,2219,15,5.0,9,3.0,111,45.1,75,7.4,7.05,12.1,170.7,88.2,57.7,28,195,8.54,6.17,5.85,2,3,11,
+MariMa01,Marcus Mariota,QB,2023,30,PHI,NFL,QB,3,0,,15,23,65.2,164,1,4.3,1,4.3,10,53.8,22,7.1,6.04,10.9,54.7,82.5,60.7,3,11,11.54,5.88,4.92,0,0,1,
+MariMa01,Marcus Mariota,QB,2024,31,WAS,NFL,QB,3,0,,34,44,77.3,364,4,9.1,0,0.0,22,55.3,29,8.3,10.09,10.7,121.3,131.2,86.3,3,29,6.38,7.13,8.83,1,1,2,
+MariMa01,Marcus Mariota,QB,2025,32,WAS,NFL,QB,5,3,1-2-0,56,88,63.6,639,4,4.5,4,4.5,26,42.1,56,7.3,6.13,11.4,127.8,81.6,59.2,7,39,7.37,6.32,5.26,0,0,,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_target_yds,pass_tgt_yds_per_att,pass_air_yds,pass_air_yds_per_cmp,pass_air_yds_per_att,pass_yac,pass_yac_per_cmp,pass_batted_passes,pass_throwaways,pass_spikes,pass_drops,pass_drop_pct,pass_poor_throws,pass_poor_throw_pct,pass_on_target,pass_on_target_pct,pocket_time,pass_blitzed,pass_hurried,pass_hits,pass_pressured,pass_pressured_pct,rush_scrambles,rush_scrambles_yds_per_att,pass_rpo,pass_rpo_yds,pass_rpo_pass_att,pass_rpo_pass_yds,pass_rpo_rush_att,pass_rpo_rush_yds,pass_play_action,pass_play_action_pass_yds,awards
+RoseJo01,Josh Rosen,QB,2018,21,ARI,NFL,QB,14,13,217,393,3262,8.3,1301,6.0,3.3,977,4.5,0,22,1,21,5.7,76,20.5,,,2.3,106,39,38,122,27.0,14,10.4,,,,,,,,,
+RoseJo01,Josh Rosen,QB,2019,22,MIA,NFL,QB,6,3,58,109,901,8.3,250,4.3,2.3,317,5.5,7,1,0,8,7.4,24,22.2,73,67.6,2.4,28,16,15,47,36.7,3,4.3,11,26,10,26,0,0,15,40,
+RoseJo01,Josh Rosen,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RoseJo01,Josh Rosen,QB,2021,24,ATL,NFL,QB,4,0,2,11,121,11.0,8,4.0,0.7,11,5.5,0,1,0,2,20.0,4,40.0,3,30.0,2.7,3,3,0,3,27.3,0,,0,0,0,0,0,0,2,14,

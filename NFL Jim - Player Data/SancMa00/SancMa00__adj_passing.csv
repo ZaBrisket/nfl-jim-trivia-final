@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+SancMa00,Mark Sanchez,QB,2009,23,NYJ,NFL,QB,15,15,95,93,81,80,76,90,63,95,75,
+SancMa00,Mark Sanchez,QB,2010,24,NYJ,NFL,QB,16,16,90,94,94,96,81,90,105,109,90,
+SancMa00,Mark Sanchez,QB,2011,25,NYJ,NFL,QB,16,16,86,86,89,89,86,106,92,96,92,
+SancMa00,Mark Sanchez,QB,2012,26,NYJ,NFL,QB,15,15,84,86,80,81,77,84,80,95,77,
+SancMa00,Mark Sanchez,QB,,,,,,,,,,,,,,,,,
+SancMa00,Mark Sanchez,QB,2014,28,PHI,NFL,QB,9,8,115,111,103,101,107,100,83,96,100,
+SancMa00,Mark Sanchez,QB,2015,29,PHI,NFL,QB,4,2,89,83,80,76,108,99,64,77,87,

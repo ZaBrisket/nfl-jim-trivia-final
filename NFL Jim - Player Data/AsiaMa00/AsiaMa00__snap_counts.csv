@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AsiaMa00,Matt Asiata,FB,2012,25,MIN,RB,48,16,0,22,2%,1,0%,176,39%
+AsiaMa00,Matt Asiata,FB,2013,26,MIN,RB,44,11,1,118,16%,0,0%,141,40%
+AsiaMa00,Matt Asiata,FB,2014,27,MIN,RB,44,15,9,525,55%,0,0%,84,20%
+AsiaMa00,Matt Asiata,FB,2015,28,MIN,RB,44,16,0,198,19%,0,0%,209,48%
+AsiaMa00,Matt Asiata,FB,2016,29,MIN,RB,44,16,6,407,39%,0,0%,116,27%

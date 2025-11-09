@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MannPe00,Peyton Manning,QB,1998,22,IND,NFL,QB,16,16,15,62,0,5,40.0,15,4.1,3.9,0.9,0,0,0,,0,0,,,0.0,0.0,,,15,4.1,62,0,3,AP ORoY-2
+MannPe00,Peyton Manning,QB,1999,23,IND,NFL,QB,16,16,35,73,2,15,34.3,13,2.1,4.6,2.2,0,0,0,,0,0,,,0.0,0.0,,,35,2.1,73,2,6,"PB,AP-2,AP MVP-2,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2000,24,IND,NFL,QB,16,16,37,116,1,11,35.1,14,3.1,7.3,2.3,0,0,0,,0,0,,,0.0,0.0,,,37,3.1,116,1,5,"PB,AP-2,AP MVP-5,AP OPoY-8"
+MannPe00,Peyton Manning,QB,2001,25,IND,NFL,QB,16,16,35,157,4,10,45.7,33,4.5,9.8,2.2,0,0,0,,0,0,,,0.0,0.0,,,35,4.5,157,4,7,
+MannPe00,Peyton Manning,QB,2002,26,IND,NFL,QB,16,16,38,148,2,11,44.7,13,3.9,9.3,2.4,0,0,0,,0,0,,,0.0,0.0,,,38,3.9,148,2,6,PB
+MannPe00,Peyton Manning,QB,2003,27,IND,NFL,QB,16,16,28,26,0,3,14.3,10,0.9,1.6,1.8,1,1,-2,-2.0,0,0,0.0,-2,0.1,-0.1,100.0,-2.0,29,0.8,24,0,6,"PB,AP-1,AP MVP-1,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2004,28,IND,NFL,QB,16,16,25,38,0,4,20.0,19,1.5,2.4,1.6,0,0,0,,0,0,,,0.0,0.0,,,25,1.5,38,0,5,"PB,AP-1,AP MVP-1,AP OPoY-1"
+MannPe00,Peyton Manning,QB,2005,29,IND,NFL,QB,16,16,33,45,0,6,21.2,12,1.4,2.8,2.1,0,0,0,,0,0,,,0.0,0.0,,,33,1.4,45,0,5,"PB,AP-1,AP MVP-2,AP OPoY-2"
+MannPe00,Peyton Manning,QB,2006,30,IND,NFL,QB,16,16,23,36,4,7,30.4,12,1.6,2.3,1.4,0,0,0,,0,0,,,0.0,0.0,,,23,1.6,36,4,2,"PB,AP-2,AP MVP-3,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2007,31,IND,NFL,QB,16,16,20,-5,3,4,20.0,4,-0.3,-0.3,1.3,0,0,0,,0,0,,,0.0,0.0,,,20,-0.3,-5,3,6,PB
+MannPe00,Peyton Manning,QB,2008,32,IND,NFL,QB,16,16,20,21,1,4,25.0,12,1.1,1.3,1.3,0,0,0,,0,0,,,0.0,0.0,,,20,1.1,21,1,1,"PB,AP-1,AP MVP-1,AP OPoY-2"
+MannPe00,Peyton Manning,QB,2009,33,IND,NFL,QB,16,16,19,-13,0,0,0.0,3,-0.7,-0.8,1.2,0,0,0,,0,0,,,0.0,0.0,,,19,-0.7,-13,0,2,"PB,AP-1,AP MVP-1,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2010,34,IND,NFL,QB,16,16,18,18,0,2,11.1,27,1.0,1.1,1.1,0,0,0,,0,0,,,0.0,0.0,,,18,1.0,18,0,3,PB
+MannPe00,Peyton Manning,QB,2011,,Did not play - Injured (neck),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2012,36,DEN,NFL,QB,16,16,23,6,0,2,17.4,10,0.3,0.4,1.4,0,0,0,,0,0,,,0.0,0.0,,,23,0.3,6,0,2,"PB,AP-1,AP MVP-2,AP OPoY-2,AP CPoY-1"
+MannPe00,Peyton Manning,QB,2013,37,DEN,NFL,QB,16,16,32,-31,1,1,3.1,1,-1.0,-1.9,2.0,0,0,0,,0,0,,,0.0,0.0,,,32,-1.0,-31,1,10,"PB,AP-1,AP MVP-1,AP OPoY-1"
+MannPe00,Peyton Manning,QB,2014,38,DEN,NFL,QB,16,16,24,-24,0,0,0.0,4,-1.0,-1.5,1.5,0,0,0,,0,0,,,0.0,0.0,,,24,-1.0,-24,0,5,PB
+MannPe00,Peyton Manning,QB,2015,39,DEN,NFL,QB,10,9,6,-6,0,0,0.0,-1,-1.0,-0.6,0.6,0,0,0,,0,0,,,0.0,0.0,,,6,-1.0,-6,0,1,

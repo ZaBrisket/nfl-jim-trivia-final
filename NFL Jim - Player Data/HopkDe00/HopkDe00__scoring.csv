@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HopkDe00,DeAndre Hopkins,WR,2013,21,HOU,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+HopkDe00,DeAndre Hopkins,WR,2014,22,HOU,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+HopkDe00,DeAndre Hopkins,WR,2015,23,HOU,NFL,WR,16,16,0,11,0,0,0,0,0,11,1,,0,0,0,0,0,68,4.3,"PB,AP-2"
+HopkDe00,DeAndre Hopkins,WR,2016,24,HOU,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+HopkDe00,DeAndre Hopkins,WR,2017,25,HOU,NFL,WR,15,15,0,13,0,0,0,0,0,13,0,,0,0,0,0,0,78,5.2,"PB,AP-1,AP OPoY-4"
+HopkDe00,DeAndre Hopkins,WR,2018,26,HOU,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,"PB,AP-1,AP OPoY-3"
+HopkDe00,DeAndre Hopkins,WR,2019,27,HOU,NFL,WR,15,15,0,7,0,0,0,0,0,7,1,,0,0,0,0,0,44,2.9,"PB,AP-1"
+HopkDe00,DeAndre Hopkins,WR,2020,28,ARI,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,"PB,AP-2"
+HopkDe00,DeAndre Hopkins,WR,2021,29,ARI,NFL,WR,10,10,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,4.8,
+HopkDe00,DeAndre Hopkins,WR,2022,30,ARI,NFL,WR,9,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,2.0,
+HopkDe00,DeAndre Hopkins,WR,2023,31,TEN,NFL,WR,17,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.5,
+HopkDe00,DeAndre Hopkins,WR,2024,32,2TM,NFL,WR,16,8,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,1.9,
+HopkDe00,DeAndre Hopkins,WR,2024,32,TEN,NFL,WR,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.0,
+HopkDe00,DeAndre Hopkins,WR,2024,32,KAN,NFL,WR,10,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,2.4,
+HopkDe00,DeAndre Hopkins,WR,2025,33,BAL,NFL,WR,8,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.5,

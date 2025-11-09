@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HectJo00,Johnny Hector,RB,1983,23,NYJ,NFL,RB,10,1,16,85,0,3,43.8,42,5.3,8.5,1.6,8,5,61,12.2,1,3,50.0,22,0.5,6.1,62.5,7.6,21,7.0,146,1,2,1,
+HectJo00,Johnny Hector,RB,1984,24,NYJ,NFL,RB,13,2,124,531,1,25,47.6,64,4.3,40.8,9.5,26,20,182,9.1,0,8,57.7,26,1.5,14.0,76.9,7.0,144,5.0,713,1,2,6,
+HectJo00,Johnny Hector,RB,1985,25,NYJ,NFL,RB,14,5,145,572,6,36,48.3,22,3.9,40.9,10.4,27,17,164,9.6,0,10,48.1,28,1.2,11.7,63.0,6.1,162,4.5,736,6,2,6,
+HectJo00,Johnny Hector,RB,1986,26,NYJ,NFL,RB,13,5,164,605,8,37,48.8,41,3.7,46.5,12.6,43,33,302,9.2,0,16,48.8,23,2.5,23.2,76.7,7.0,197,4.6,907,8,2,8,
+HectJo00,Johnny Hector,RB,1987,27,NYJ,NFL,RB,11,6,111,435,11,30,45.9,20,3.9,39.5,10.1,47,32,249,7.8,0,13,44.7,27,2.9,22.6,68.1,5.3,143,4.8,684,11,2,6,
+HectJo00,Johnny Hector,RB,1988,28,NYJ,NFL,RB,16,1,137,561,10,49,57.7,19,4.1,35.1,8.6,46,26,237,9.1,0,13,39.1,30,1.6,14.8,56.5,5.2,163,4.9,798,10,3,7,
+HectJo00,Johnny Hector,RB,1989,29,NYJ,NFL,RB,15,9,177,702,3,43,49.7,24,4.0,46.8,11.8,62,38,330,8.7,2,17,38.7,32,2.5,22.0,61.3,5.3,215,4.8,1032,5,1,5,
+HectJo00,Johnny Hector,RB,1990,30,NYJ,NFL,RB,15,3,91,377,2,26,52.7,22,4.1,25.1,6.1,13,8,72,9.0,0,3,23.1,25,0.5,4.8,61.5,5.5,99,4.5,449,2,2,4,
+HectJo00,Johnny Hector,RB,1991,31,NYJ,NFL,RB,14,1,62,345,0,19,62.9,47,5.6,24.6,4.4,16,7,51,7.3,0,4,25.0,16,0.5,3.6,43.8,3.2,69,5.7,396,0,0,3,
+HectJo00,Johnny Hector,RB,1992,32,NYJ,NFL,RB,5,1,24,67,0,3,41.7,14,2.8,13.4,4.8,3,2,13,6.5,0,1,33.3,9,0.4,2.6,66.7,4.3,26,3.1,80,0,1,0,

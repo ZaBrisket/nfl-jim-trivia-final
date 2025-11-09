@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FullWi01,Will Fuller,WR,2016,22,HOU,NFL,WR,14,13,92,47,635,13.5,2,31,39.1,53,3.4,45.4,51.1,6.9,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,48,13.2,632,2,2,6,
+FullWi01,Will Fuller,WR,2017,23,HOU,NFL,WR,10,10,50,28,423,15.1,7,21,46.0,59,2.8,42.3,56.0,8.5,2,9,0,0,100.0,5,4.5,0.9,0.2,30,14.4,432,7,0,3,
+FullWi01,Will Fuller,WR,2018,24,HOU,NFL,WR,7,7,45,32,503,15.7,4,22,60.0,73,4.6,71.9,71.1,11.2,0,0,0,0,,,,0.0,0.0,32,15.7,503,4,0,4,
+FullWi01,Will Fuller,WR,2019,25,HOU,NFL,WR,11,11,71,49,670,13.7,3,26,59.2,54,4.5,60.9,69.0,9.4,0,0,0,0,,,,0.0,0.0,49,13.7,670,3,1,6,
+FullWi01,Will Fuller,WR,2020,26,HOU,NFL,WR,11,11,75,53,879,16.6,8,38,65.3,77,4.8,79.9,70.7,11.7,1,0,0,0,0.0,,0.0,0.0,0.1,54,16.3,879,8,0,7,
+FullWi01,Will Fuller,WR,2021,27,MIA,NFL,WR,2,0,8,4,26,6.5,0,3,37.5,10,2.0,13.0,50.0,3.3,0,0,0,0,,,,0.0,0.0,4,6.5,26,0,0,0,

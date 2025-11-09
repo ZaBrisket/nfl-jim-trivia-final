@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RudoKy00,Kyle Rudolph,TE,2012*,23,MIN,TE,82,16,16,950,92%,0,0%,15,3%
+RudoKy00,Kyle Rudolph,TE,2013,24,MIN,TE,82,8,8,424,85%,0,0%,21,9%
+RudoKy00,Kyle Rudolph,TE,2014,25,MIN,TE,82,9,8,434,81%,0,0%,1,0%
+RudoKy00,Kyle Rudolph,TE,2015,26,MIN,TE,82,16,16,845,83%,0,0%,80,18%
+RudoKy00,Kyle Rudolph,TE,2016,27,MIN,TE,82,16,16,970,92%,0,0%,65,15%
+RudoKy00,Kyle Rudolph,TE,2017*,28,MIN,TE,82,16,16,922,83%,0,0%,50,11%
+RudoKy00,Kyle Rudolph,TE,2018,29,MIN,TE,82,16,16,925,88%,0,0%,72,16%
+RudoKy00,Kyle Rudolph,TE,2019,30,MIN,TE,82,16,16,793,77%,0,0%,73,17%
+RudoKy00,Kyle Rudolph,TE,2020,31,MIN,TE,82,12,12,574,72%,0,0%,50,15%
+RudoKy00,Kyle Rudolph,TE,2021,32,NYG,TE,80,16,13,500,48%,0,0%,46,11%
+RudoKy00,Kyle Rudolph,TE,2022,33,TAM,TE,8,9,0,79,12%,0,0%,1,0%

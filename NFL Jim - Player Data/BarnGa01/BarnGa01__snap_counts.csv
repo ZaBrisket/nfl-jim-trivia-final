@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BarnGa01,Gary Barnidge,TE,2012,27,CAR,TE,82,16,5,138,13%,0,0%,233,53%
+BarnGa01,Gary Barnidge,TE,2013,28,CLE,TE,82,16,12,527,48%,0,0%,262,55%
+BarnGa01,Gary Barnidge,TE,2014,29,CLE,TE,82,13,2,358,40%,0,0%,136,35%
+BarnGa01,Gary Barnidge,TE,2015*,30,CLE,TE,82,16,13,939,85%,0,0%,82,19%
+BarnGa01,Gary Barnidge,TE,2016,31,CLE,TE,82,16,16,968,94%,0,0%,49,11%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DrakKe00,Kenyan Drake,RB,2016,22,MIA,NFL,RB,16,1,2,0,0,1,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+DrakKe00,Kenyan Drake,RB,2017,23,MIA,NFL,RB,16,6,3,1,0,0,0,0,0,4,1,,0,0,0,0,0,26,1.6,
+DrakKe00,Kenyan Drake,RB,2018,24,MIA,NFL,RB,16,7,4,5,0,0,0,0,0,9,0,,0,0,0,0,0,54,3.4,
+DrakKe00,Kenyan Drake,RB,2019,25,2TM,NFL,RB,14,10,8,0,0,0,0,0,0,8,1,,0,0,0,0,0,50,3.6,
+DrakKe00,Kenyan Drake,RB,2019,25,ARI,NFL,RB,8,8,8,0,0,0,0,0,0,8,1,,0,0,0,0,0,50,6.3,
+DrakKe00,Kenyan Drake,RB,2020,26,ARI,NFL,RB,15,13,10,0,0,0,0,0,0,10,0,,0,0,0,0,0,60,4.0,
+DrakKe00,Kenyan Drake,RB,2021,27,LVR,NFL,RB,12,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.5,
+DrakKe00,Kenyan Drake,RB,2022,28,BAL,NFL,RB,12,5,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.5,

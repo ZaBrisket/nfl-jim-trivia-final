@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HydeCa00,Carlos Hyde,RB,2014,24,SFO,RB,28,14,0,292,32%,0,0%,24,7%
+HydeCa00,Carlos Hyde,RB,2015,25,SFO,RB,28,7,7,292,67%,0,0%,0,0%
+HydeCa00,Carlos Hyde,RB,2016,26,SFO,RB,28,13,13,537,64%,0,0%,0,0%
+HydeCa00,Carlos Hyde,RB,2017,27,SFO,RB,28,16,16,783,71%,0,0%,3,1%
+HydeCa00,Carlos Hyde,RB,2018,28,2TM,RB,,14,7,385,,0,,0,
+HydeCa00,Carlos Hyde,RB,,,CLE,RB,34,6,5,237,51%,0,0%,0,0%
+HydeCa00,Carlos Hyde,RB,,,,,,,,148,28%,0,0%,0,0%
+HydeCa00,Carlos Hyde,RB,2019,29,HOU,RB,23,16,14,529,50%,0,0%,1,0%
+HydeCa00,Carlos Hyde,RB,2020,30,SEA,RB,30,10,1,260,38%,0,0%,0,0%
+HydeCa00,Carlos Hyde,RB,2021,31,JAX,RB,24,12,2,292,38%,0,0%,0,0%

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+BeasCo00,Cole Beasley,WR,2018,29,DAL,NFL,WR,2,0,5,4,43,3,26,6.5,17,4.3,6.8,0,,0,0.0,0,102.5,0,0,0,0,0,0,
+BeasCo00,Cole Beasley,WR,2019,30,BUF,NFL,WR,1,1,5,4,44,2,13,3.3,31,7.8,3.0,0,,1,20.0,0,103.3,0,0,0,0,0,0,
+BeasCo00,Cole Beasley,WR,2020,31,BUF,NFL,WR,3,2,18,14,145,6,83,5.9,62,4.4,6.2,1,14.0,1,5.6,0,100.2,0,0,0,0,0,0,
+BeasCo00,Cole Beasley,WR,2021,32,BUF,NFL,WR,2,0,9,7,79,3,41,5.9,38,5.4,5.6,0,,0,0.0,0,103.2,0,0,0,0,0,0,
+BeasCo00,Cole Beasley,WR,2022,33,BUF,NFL,WR,2,0,9,5,68,5,24,4.8,44,8.8,9.3,0,,0,0.0,2,77.3,0,0,0,0,0,0,

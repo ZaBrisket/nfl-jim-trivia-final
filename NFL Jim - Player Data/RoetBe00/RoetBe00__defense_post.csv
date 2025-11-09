@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RoetBe00,Ben Roethlisberger,QB,2004,22,PIT,NFL,QB,2,2,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2007,25,PIT,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2010,28,PIT,NFL,QB,3,3,0,0,0,0,0,0,3,2,-2,0,0.0,0,0,0,0,0,0,
+RoetBe00,Ben Roethlisberger,QB,2011,29,PIT,NFL,QB,1,1,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2017,35,PIT,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2021,39,PIT,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

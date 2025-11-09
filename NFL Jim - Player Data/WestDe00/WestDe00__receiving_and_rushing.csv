@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WestDe00,Dede Westbrook,WR,2017,24,JAX,NFL,WR,7,5,51,27,339,12.6,1,15,41.2,29,3.9,48.4,52.9,6.6,0,0,0,0,,,,0.0,0.0,27,12.6,339,1,1,3,
+WestDe00,Dede Westbrook,WR,2018,25,JAX,NFL,WR,16,9,101,66,717,10.9,5,40,50.5,61,4.1,44.8,65.3,7.1,9,98,0,5,66.7,43,10.9,6.1,0.6,75,10.9,815,5,3,6,
+WestDe00,Dede Westbrook,WR,2019,26,JAX,NFL,WR,15,11,101,66,660,10.0,3,31,43.6,39,4.4,44.0,65.3,6.5,5,27,0,0,60.0,8,5.4,1.8,0.3,71,9.7,687,3,1,5,
+WestDe00,Dede Westbrook,WR,2020,27,JAX,NFL,WR,2,0,1,1,4,4.0,0,0,100.0,4,0.5,2.0,100.0,4.0,0,0,0,0,,,,0.0,0.0,1,4.0,4,0,1,0,
+WestDe00,Dede Westbrook,WR,2021,28,MIN,NFL,WR,15,0,15,10,68,6.8,0,3,46.7,17,0.7,4.5,66.7,4.5,0,0,0,0,,,,0.0,0.0,10,6.8,68,0,2,1,

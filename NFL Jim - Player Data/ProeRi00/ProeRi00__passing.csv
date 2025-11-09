@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+ProeRi00,Ricky Proehl,WR,1992,24,PHO,NFL,WR,16,15,0,1,0.0,0,0,0.0,1,100.0,0,0.0,-45.00,0.0,0.0,0,0,0.00,0.00,-45.00,0,0,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,2002,34,STL,NFL,WR,16,2,0,1,0.0,0,0,0.0,0,0.0,0,0.0,0.00,0.0,39.6,1,1,50.00,-0.50,-0.50,0,0,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,2004,36,CAR,NFL,WR,16,3,0,1,0.0,0,0,0.0,0,0.0,0,0.0,0.00,0.0,39.6,0,0,0.00,0.00,0.00,0,0,

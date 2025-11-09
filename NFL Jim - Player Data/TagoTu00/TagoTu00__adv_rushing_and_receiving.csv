@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+TagoTu00,Tua Tagovailoa,QB,2020,22,MIA,NFL,QB,10,9,36,109,13,80,2.2,29,0.8,0,,0,0,0,0,0,0,0,0,0,
+TagoTu00,Tua Tagovailoa,QB,2021,23,MIA,NFL,QB,13,12,42,128,13,92,2.2,36,0.9,0,,0,0,0,0,0,0,0,0,0,
+TagoTu00,Tua Tagovailoa,QB,2022,24,MIA,NFL,QB,13,13,23,70,4,61,2.7,9,0.4,0,,0,0,0,0,0,0,0,0,0,AP MVP-9
+TagoTu00,Tua Tagovailoa,QB,2023,25,MIA,NFL,QB,17,17,35,74,5,71,2.0,3,0.1,1,35.0,0,0,0,0,0,0,0,0,0,"PB,AP CPoY-5"
+TagoTu00,Tua Tagovailoa,QB,2024,26,MIA,NFL,QB,11,11,17,49,5,49,2.9,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+TagoTu00,Tua Tagovailoa,QB,2025,27,MIA,NFL,QB,9,9,12,39,1,36,3.0,3,0.3,0,,0,0,0,0,0,0,0,0,0,

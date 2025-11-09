@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+StalDo00,Donte' Stallworth,WR,2002,22,NOR,NFL,WR,13,7,69,42,594,14.1,8,26,52.2,57,3.2,45.7,60.9,8.6,2,2,0,0,50.0,4,1.0,0.2,0.2,44,13.5,596,8,0,7,
+StalDo00,Donte' Stallworth,WR,2003,23,NOR,NFL,WR,11,3,55,25,485,19.4,3,19,40.0,76,2.3,44.1,45.5,8.8,1,3,0,0,0.0,3,3.0,0.3,0.1,26,18.8,488,3,3,5,
+StalDo00,Donte' Stallworth,WR,2004,24,NOR,NFL,WR,16,10,106,58,767,13.2,5,35,47.2,45,3.6,47.9,54.7,7.2,6,37,0,1,50.0,26,6.2,2.3,0.4,64,12.6,804,5,0,7,
+StalDo00,Donte' Stallworth,WR,2005,25,NOR,NFL,WR,16,13,129,70,945,13.5,7,51,47.3,43,4.4,59.1,54.3,7.3,2,2,0,0,0.0,3,1.0,0.1,0.1,72,13.2,947,7,1,6,
+StalDo00,Donte' Stallworth,WR,2006,26,PHI,NFL,WR,12,11,70,38,725,19.1,5,30,52.9,84,3.2,60.4,54.3,10.4,0,0,0,0,,,,0.0,0.0,38,19.1,725,5,0,6,
+StalDo00,Donte' Stallworth,WR,2007,27,NWE,NFL,WR,16,9,75,46,697,15.2,3,27,56.0,69,2.9,43.6,61.3,9.3,1,12,0,1,100.0,12,12.0,0.8,0.1,47,15.1,709,3,0,9,
+StalDo00,Donte' Stallworth,WR,2008,28,CLE,NFL,WR,11,7,45,17,170,10.0,1,8,28.9,19,1.5,15.5,37.8,3.8,1,-4,0,0,0.0,-4,-4.0,-0.4,0.1,18,9.2,166,1,0,1,
+StalDo00,Donte' Stallworth,WR,2009,,Did not play - Violation of league personal conduct policy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StalDo00,Donte' Stallworth,WR,2010,30,BAL,NFL,WR,8,0,5,2,82,41.0,0,2,40.0,67,0.3,10.3,40.0,16.4,5,45,0,2,80.0,19,9.0,5.6,0.6,7,18.1,127,0,1,1,
+StalDo00,Donte' Stallworth,WR,2011,31,WAS,NFL,WR,11,0,38,22,309,14.0,2,15,52.6,51,2.0,28.1,57.9,8.1,2,1,0,0,0.0,2,0.5,0.1,0.2,24,12.9,310,2,0,2,
+StalDo00,Donte' Stallworth,WR,2012,32,NWE,NFL,WR,1,0,2,1,63,63.0,1,1,50.0,63,1.0,63.0,50.0,31.5,0,0,0,0,,,,0.0,0.0,1,63.0,63,1,0,1,

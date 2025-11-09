@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MontDa01,David Montgomery,RB,2019,22,CHI,RB,32,16,8,614,57%,0,0%,2,1%
+MontDa01,David Montgomery,RB,2020,23,CHI,RB,32,15,14,759,74%,0,0%,2,1%
+MontDa01,David Montgomery,RB,2021,24,CHI,RB,32,13,13,642,75%,0,0%,0,0%
+MontDa01,David Montgomery,RB,2022,25,CHI,RB,32,16,16,629,65%,0,0%,0,0%
+MontDa01,David Montgomery,RB,2023,26,DET,RB,5,14,14,453,48%,0,0%,0,0%
+MontDa01,David Montgomery,RB,2024,27,DET,RB,5,14,14,390,41%,0,0%,0,0%
+MontDa01,David Montgomery,RB,2025,28,DET,RB,5,8,0,197,39%,0,0%,0,0%

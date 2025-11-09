@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+JoneBr00,Brent Jones,TE,1990,27,SFO,NFL,TE,16,16,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+JoneBr00,Brent Jones,TE,1991,28,SFO,NFL,TE,10,9,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+JoneBr00,Brent Jones,TE,1992,29,SFO,NFL,TE,15,15,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,PB
+JoneBr00,Brent Jones,TE,1993,30,SFO,NFL,TE,16,16,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,"PB,AP-2"
+JoneBr00,Brent Jones,TE,1994,31,SFO,NFL,TE,15,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,"PB,AP-2"
+JoneBr00,Brent Jones,TE,1995,32,SFO,NFL,TE,16,16,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,PB
+JoneBr00,Brent Jones,TE,,,,,,,,,,,,,,,,,,,,,,
+JoneBr00,Brent Jones,TE,1997,34,SFO,NFL,TE,13,12,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

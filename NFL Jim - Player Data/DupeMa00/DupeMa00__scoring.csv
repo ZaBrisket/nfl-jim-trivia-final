@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DupeMa00,Mark Duper,WR,1983,24,MIA,NFL,WR,16,11,0,10,0,0,0,0,0,10,0,0,0,0,0,60,3.8,PB
+DupeMa00,Mark Duper,WR,1984,25,MIA,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,PB
+DupeMa00,Mark Duper,WR,1985,26,MIA,NFL,WR,9,8,0,3,0,0,0,0,0,3,0,0,0,0,0,18,2.0,
+DupeMa00,Mark Duper,WR,1986,27,MIA,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,66,4.1,PB
+DupeMa00,Mark Duper,WR,1987,28,MIA,NFL,WR,11,11,0,8,0,0,0,0,0,8,0,0,0,0,0,48,4.4,
+DupeMa00,Mark Duper,WR,1988,29,MIA,NFL,WR,13,13,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+DupeMa00,Mark Duper,WR,1989,30,MIA,NFL,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+DupeMa00,Mark Duper,WR,1990,31,MIA,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+DupeMa00,Mark Duper,WR,1991,32,MIA,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+DupeMa00,Mark Duper,WR,1992,33,MIA,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,

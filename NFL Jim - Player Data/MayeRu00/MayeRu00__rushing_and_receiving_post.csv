@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MayeRu00,Rueben Mayes,RB,1987,24,NOR,NFL,RB,1,0,3,11,0,0,33.3,8,3.7,11.0,3.0,0,0,0,0,0.0,0.0,3,3.7,11,0,0,
+MayeRu00,Rueben Mayes,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MayeRu00,Rueben Mayes,RB,1990,27,NOR,NFL,RB,1,1,0,0,0,0,,,,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,

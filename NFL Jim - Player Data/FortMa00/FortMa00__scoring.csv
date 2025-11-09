@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FortMa00,Matt Forte,RB,2008,23,CHI,NFL,RB,16,16,8,4,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,AP ORoY-4
+FortMa00,Matt Forte,RB,2009,24,CHI,NFL,RB,16,16,4,0,0,0,0,0,0,4,1,0,0,0,0,0,26,1.6,
+FortMa00,Matt Forte,RB,2010,25,CHI,NFL,RB,16,16,6,3,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,
+FortMa00,Matt Forte,RB,2011,26,CHI,NFL,RB,12,12,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,2.0,PB
+FortMa00,Matt Forte,RB,2012,27,CHI,NFL,RB,15,15,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+FortMa00,Matt Forte,RB,2013,28,CHI,NFL,RB,16,16,9,3,0,0,0,0,0,12,1,0,0,0,0,0,74,4.6,PB
+FortMa00,Matt Forte,RB,2014,29,CHI,NFL,RB,16,16,6,4,0,0,0,0,0,10,2,0,0,0,0,0,64,4.0,
+FortMa00,Matt Forte,RB,2015,30,CHI,NFL,RB,13,13,4,3,0,0,0,0,0,7,1,0,0,0,0,0,44,3.4,
+FortMa00,Matt Forte,RB,2016,31,NYJ,NFL,RB,14,13,7,1,0,0,0,0,0,8,0,0,0,0,0,0,48,3.4,
+FortMa00,Matt Forte,RB,2017,32,NYJ,NFL,RB,12,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.5,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BellJo01,Joique Bell,RB,2010,24,2TM,NFL,RB,8,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+BellJo01,Joique Bell,RB,2010,24,PHI,NFL,RB,3,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+BellJo01,Joique Bell,RB,2010,24,IND,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+BellJo01,Joique Bell,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BellJo01,Joique Bell,RB,2012,26,DET,NFL,RB,16,0,82,414,3,16,52.4,67,5.0,25.9,5.1,68,52,485,9.3,0,29,60.3,50,3.3,30.3,76.5,7.1,134,6.7,899,3,2,6,
+BellJo01,Joique Bell,RB,2013,27,DET,NFL,RB,16,4,166,650,8,43,50.6,20,3.9,40.6,10.4,69,53,547,10.3,0,23,53.6,37,3.3,34.2,76.8,7.9,219,5.5,1197,8,4,8,
+BellJo01,Joique Bell,RB,2014,28,DET,NFL,RB,15,6,223,860,7,45,43.5,57,3.9,57.3,14.9,53,34,322,9.5,1,14,43.4,28,2.3,21.5,64.2,6.1,257,4.6,1182,8,5,8,
+BellJo01,Joique Bell,RB,2015,29,DET,NFL,RB,13,5,90,311,4,19,44.4,36,3.5,23.9,6.9,27,22,286,13.0,0,10,74.1,39,1.7,22.0,81.5,10.6,112,5.3,597,4,1,4,
+BellJo01,Joique Bell,RB,2016,30,2TM,NFL,RB,7,0,3,6,0,0,33.3,6,2.0,0.9,0.4,1,1,-2,-2.0,0,0,0.0,-2,0.1,-0.3,100.0,-2.0,4,1.0,4,0,0,0,
+BellJo01,Joique Bell,RB,2016,30,CHI,NFL,RB,4,0,3,6,0,0,33.3,6,2.0,1.5,0.8,0,0,0,,0,0,,,0.0,0.0,,,3,2.0,6,0,0,0,
+BellJo01,Joique Bell,RB,2016,30,DET,NFL,RB,3,0,0,0,0,0,,,,0.0,0.0,1,1,-2,-2.0,0,0,0.0,-2,0.3,-0.7,100.0,-2.0,1,-2.0,-2,0,0,0,

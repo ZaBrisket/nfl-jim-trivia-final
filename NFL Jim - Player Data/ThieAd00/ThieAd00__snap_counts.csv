@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThieAd00,Adam Thielen,WR,2014,24,MIN,WR,19,16,2,150,15%,0,0%,259,58%
+ThieAd00,Adam Thielen,WR,2015,25,MIN,WR,19,16,2,217,21%,0,0%,259,59%
+ThieAd00,Adam Thielen,WR,2016,26,MIN,WR,19,16,10,787,75%,0,0%,93,22%
+ThieAd00,Adam Thielen,WR,2017*,27,MIN,WR,19,16,16,1032,93%,0,0%,4,1%
+ThieAd00,Adam Thielen,WR,2018*,28,MIN,WR,19,16,16,1011,96%,0,0%,6,1%
+ThieAd00,Adam Thielen,WR,2019,29,MIN,WR,19,10,10,436,68%,0,0%,3,1%
+ThieAd00,Adam Thielen,WR,2020,30,MIN,WR,19,15,15,926,92%,0,0%,2,1%
+ThieAd00,Adam Thielen,WR,2021,31,MIN,WR,19,13,13,758,84%,0,0%,1,0%
+ThieAd00,Adam Thielen,WR,2022,32,MIN,WR,19,17,17,1042,89%,0,0%,2,0%
+ThieAd00,Adam Thielen,WR,2023,33,CAR,WR,19,17,17,1046,91%,0,0%,0,0%
+ThieAd00,Adam Thielen,WR,2024,34,CAR,WR,19,10,10,429,69%,0,0%,0,0%
+ThieAd00,Adam Thielen,WR,2025,35,MIN,WR,19,8,4,165,34%,0,0%,1,0%

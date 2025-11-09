@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JoneAa00,Aaron Jones,RB,2017,23,GNB,NFL,RB,12,4,4,0,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.0,
+JoneAa00,Aaron Jones,RB,2018,24,GNB,NFL,RB,12,8,8,1,0,0,0,0,0,9,0,,0,0,0,0,0,54,4.5,
+JoneAa00,Aaron Jones,RB,2019,25,GNB,NFL,RB,16,16,16,3,0,0,0,0,0,19,0,,0,0,0,0,0,114,7.1,
+JoneAa00,Aaron Jones,RB,2020,26,GNB,NFL,RB,14,14,9,2,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.7,PB
+JoneAa00,Aaron Jones,RB,2021,27,GNB,NFL,RB,15,15,4,6,0,0,0,0,0,10,0,0,0,0,0,0,0,60,4.0,
+JoneAa00,Aaron Jones,RB,2022,28,GNB,NFL,RB,17,17,2,5,0,0,0,0,0,7,1,0,0,0,0,0,0,44,2.6,
+JoneAa00,Aaron Jones,RB,2023,29,GNB,NFL,RB,11,11,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.6,
+JoneAa00,Aaron Jones,RB,2024,30,MIN,NFL,RB,17,17,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,42,2.5,
+JoneAa00,Aaron Jones,RB,2025,31,MIN,NFL,RB,4,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.5,

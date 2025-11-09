@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClarRo00,Robert Clark,WR,1987,22,NOR,NFL,WR,2,0,4,3,38,12.7,0,1,25.0,14,1.5,19.0,75.0,9.5,0,0,0,0,0.0,0.0,3,12.7,38,0,0,1,
+ClarRo00,Robert Clark,WR,1988,23,NOR,NFL,WR,16,0,45,19,245,12.9,2,13,37.8,21,1.2,15.3,42.2,5.4,0,0,0,0,0.0,0.0,19,12.9,245,2,1,2,
+ClarRo00,Robert Clark,WR,1989,24,DET,NFL,WR,16,16,81,41,748,18.2,2,31,48.1,69,2.6,46.8,50.6,9.2,0,0,0,0,0.0,0.0,41,18.2,748,2,2,7,
+ClarRo00,Robert Clark,WR,1990,25,DET,NFL,WR,16,15,116,52,914,17.6,8,44,44.0,57,3.3,57.1,44.8,7.9,0,0,0,0,0.0,0.0,52,17.6,914,8,0,10,
+ClarRo00,Robert Clark,WR,1991,26,DET,NFL,WR,14,14,91,47,640,13.6,6,38,51.6,68,3.4,45.7,51.6,7.0,0,0,0,0,0.0,0.0,47,13.6,640,6,0,7,
+ClarRo00,Robert Clark,WR,1992,27,MIA,NFL,WR,3,0,4,3,59,19.7,0,3,75.0,45,1.0,19.7,75.0,14.8,0,0,0,0,0.0,0.0,3,19.7,59,0,0,1,

@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MoorHe00,Herman Moore,WR,1991,22,DET,NFL,WR,13,1,23,11,135,12.3,0,7,34.8,21,0.8,10.4,47.8,5.9,0,0,0,0,0.0,0.0,11,12.3,135,0,0,1,
+MoorHe00,Herman Moore,WR,1992,23,DET,NFL,WR,12,11,91,51,966,18.9,4,37,52.7,77,4.3,80.5,56.0,10.6,0,0,0,0,0.0,0.0,51,18.9,966,4,0,9,
+MoorHe00,Herman Moore,WR,1993,24,DET,NFL,WR,15,15,114,61,935,15.3,6,43,48.2,93,4.1,62.3,53.5,8.2,0,0,0,0,0.0,0.0,61,15.3,935,6,2,9,
+MoorHe00,Herman Moore,WR,1994,25,DET,NFL,WR,16,16,131,72,1173,16.3,11,56,51.1,51,4.5,73.3,55.0,9.0,0,0,0,0,0.0,0.0,72,16.3,1173,11,1,14,PB
+MoorHe00,Herman Moore,WR,1995,26,DET,NFL,WR,16,16,206,123,1686,13.7,14,90,57.8,69,7.7,105.4,59.7,8.2,0,0,0,0,0.0,0.0,123,13.7,1686,14,2,17,"PB,AP-1,AP OPoY-4"
+MoorHe00,Herman Moore,WR,1996,27,DET,NFL,WR,16,16,178,106,1296,12.2,9,71,52.8,50,6.6,81.0,59.6,7.3,0,0,0,0,0.0,0.0,106,12.2,1296,9,0,13,"PB,AP-1"
+MoorHe00,Herman Moore,WR,1997,28,DET,NFL,WR,16,16,171,104,1293,12.4,8,66,53.8,79,6.5,80.8,60.8,7.6,0,0,0,0,0.0,0.0,104,12.4,1293,8,0,13,"PB,AP-1"
+MoorHe00,Herman Moore,WR,1998,29,DET,NFL,WR,15,15,129,82,983,12.0,5,50,52.7,36,5.5,65.5,63.6,7.6,0,0,0,0,0.0,0.0,82,12.0,983,5,0,9,
+MoorHe00,Herman Moore,WR,1999,30,DET,NFL,WR,8,4,31,16,197,12.3,2,11,48.4,26,2.0,24.6,51.6,6.4,0,0,0,0,0.0,0.0,16,12.3,197,2,0,2,
+MoorHe00,Herman Moore,WR,2000,31,DET,NFL,WR,15,11,80,40,434,10.9,3,25,43.8,30,2.7,28.9,50.0,5.4,0,0,0,0,0.0,0.0,40,10.9,434,3,0,4,
+MoorHe00,Herman Moore,WR,2001,32,DET,NFL,WR,3,1,8,4,76,19.0,0,3,37.5,25,1.3,25.3,50.0,9.5,0,0,0,0,0.0,0.0,4,19.0,76,0,0,1,
+MoorHe00,Herman Moore,WR,2002,33,NYG,NFL,WR,1,0,3,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,0,

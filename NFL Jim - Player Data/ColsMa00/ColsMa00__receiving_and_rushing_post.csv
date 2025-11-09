@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ColsMa00,Marques Colston,WR,2006,23,NOR,NFL,WR,2,2,27,10,118,11.8,1,5,33.3,29,5.0,59.0,37.0,4.4,0,0,0,0,0.0,0.0,10,11.8,118,1,1,
+ColsMa00,Marques Colston,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ColsMa00,Marques Colston,WR,2009,26,NOR,NFL,WR,3,3,23,15,188,12.5,1,11,56.5,27,5.0,62.7,65.2,8.2,0,0,0,0,0.0,0.0,15,12.5,188,1,0,
+ColsMa00,Marques Colston,WR,2010,27,NOR,NFL,WR,1,1,8,4,66,16.5,0,4,50.0,30,4.0,66.0,50.0,8.3,0,0,0,0,0.0,0.0,4,16.5,66,0,0,
+ColsMa00,Marques Colston,WR,2011,28,NOR,NFL,WR,2,2,19,16,256,16.0,1,14,84.2,40,8.0,128.0,84.2,13.5,0,0,0,0,0.0,0.0,16,16.0,256,1,1,
+ColsMa00,Marques Colston,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ColsMa00,Marques Colston,WR,2013,30,NOR,NFL,WR,2,1,18,13,160,12.3,1,9,66.7,25,6.5,80.0,72.2,8.9,0,0,0,0,0.0,0.0,13,12.3,160,1,0,

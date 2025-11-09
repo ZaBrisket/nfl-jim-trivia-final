@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JoneJa04,James Jones,WR,2012,28,GNB,WR,89,16,16,1001,91%,0,0%,4,1%
+JoneJa04,James Jones,WR,2013,29,GNB,WR,89,14,14,847,87%,0,0%,2,1%
+JoneJa04,James Jones,WR,2014,30,OAK,WR,89,16,10,720,70%,0,0%,1,0%
+JoneJa04,James Jones,WR,2015,31,GNB,WR,89,16,15,1044,91%,0,0%,0,0%

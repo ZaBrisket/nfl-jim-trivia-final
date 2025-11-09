@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HighTi00,Tim Hightower,RB,2008,22,ARI,NFL,RB,16,7,143,399,10,34,36.4,30,2.8,24.9,8.9,50,34,237,7.0,0,11,38.0,26,2.1,14.8,68.0,4.7,177,3.6,636,10,2,6,
+HighTi00,Tim Hightower,RB,2009,23,ARI,NFL,RB,16,16,143,598,8,33,39.9,50,4.2,37.4,8.9,80,63,428,6.8,0,22,45.0,23,3.9,26.8,78.8,5.4,206,5.0,1026,8,5,8,
+HighTi00,Tim Hightower,RB,2010,24,ARI,NFL,RB,16,13,153,736,5,32,40.5,80,4.8,46.0,9.6,42,21,136,6.5,0,7,21.4,20,1.3,8.5,50.0,3.2,174,5.0,872,5,5,5,
+HighTi00,Tim Hightower,RB,2011,25,WAS,NFL,RB,5,5,84,321,1,13,45.2,22,3.8,64.2,16.8,15,10,78,7.8,1,6,46.7,19,2.0,15.6,66.7,5.2,94,4.2,399,2,0,2,
+HighTi00,Tim Hightower,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HighTi00,Tim Hightower,RB,2015,29,NOR,NFL,RB,8,3,96,375,4,24,55.2,26,3.9,46.9,12.0,13,12,129,10.8,0,7,53.8,27,1.5,16.1,92.3,9.9,108,4.7,504,4,0,3,
+HighTi00,Tim Hightower,RB,2016,30,NOR,NFL,RB,16,1,133,548,4,32,53.4,30,4.1,34.3,8.3,26,22,200,9.1,1,11,57.7,50,1.4,12.5,84.6,7.7,155,4.8,748,5,0,5,

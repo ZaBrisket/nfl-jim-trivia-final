@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BigsTa00,Tank Bigsby,RB,2023,22,JAX,RB,4,17,0,141,12%,0,0%,34,8%
+BigsTa00,Tank Bigsby,RB,2024,23,JAX,RB,4,16,1,351,36%,0,0%,46,11%
+BigsTa00,Tank Bigsby,RB,2025,24,2TM,,,8,0,34,,0,,47,
+BigsTa00,Tank Bigsby,RB,,,JAX,RB,4,1,0,14,21%,0,0%,7,32%
+BigsTa00,Tank Bigsby,RB,,,PHI,RB,,7,0,20,5%,0,0%,40,21%

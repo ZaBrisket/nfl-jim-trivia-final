@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HearGa00,Garrison Hearst,RB,1993,22,PHO,NFL,RB,6,5,76,264,1,12,39.5,57,3.5,44.0,12.7,9,6,18,3.0,0,1,22.2,9,1.0,3.0,66.7,2.0,82,3.4,282,1,2,2,
+HearGa00,Garrison Hearst,RB,1994,23,ARI,NFL,RB,8,0,37,169,1,10,43.2,36,4.6,21.1,4.6,7,6,49,8.2,0,2,57.1,29,0.8,6.1,85.7,7.0,43,5.1,218,1,0,1,
+HearGa00,Garrison Hearst,RB,1995,24,ARI,NFL,RB,16,15,284,1070,1,52,44.0,38,3.8,66.9,17.8,47,29,243,8.4,1,12,42.6,39,1.8,15.2,61.7,5.2,313,4.2,1313,2,12,7,
+HearGa00,Garrison Hearst,RB,1996,25,CIN,NFL,RB,16,12,225,847,0,42,50.2,24,3.8,52.9,14.1,22,12,131,10.9,1,7,45.5,40,0.8,8.2,54.5,6.0,237,4.1,978,1,1,8,
+HearGa00,Garrison Hearst,RB,1997,26,SFO,NFL,RB,13,13,234,1019,4,41,43.2,51,4.4,78.4,18.0,27,21,194,9.2,2,8,37.0,69,1.6,14.9,77.8,7.2,255,4.8,1213,6,2,10,
+HearGa00,Garrison Hearst,RB,1998,27,SFO,NFL,RB,16,16,310,1570,7,70,50.3,96,5.1,98.1,19.4,56,39,535,13.7,2,14,39.3,81,2.4,33.4,69.6,9.6,349,6.0,2105,9,4,18,PB
+HearGa00,Garrison Hearst,RB,1999,,Did not play - Injured (avascular necrosis),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HearGa00,Garrison Hearst,RB,2000,,Did not play - Injured (avascular necrosis),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HearGa00,Garrison Hearst,RB,2001,30,SFO,NFL,RB,16,16,252,1206,4,53,48.8,43,4.8,75.4,15.8,55,41,347,8.5,1,15,58.2,60,2.6,21.7,74.5,6.3,293,5.3,1553,5,1,16,"PB,AP CPoY-1"
+HearGa00,Garrison Hearst,RB,2002,31,SFO,NFL,RB,16,16,215,972,8,53,50.2,40,4.5,60.8,13.4,69,48,317,6.6,1,14,39.1,16,3.0,19.8,69.6,4.6,263,4.9,1289,9,4,11,
+HearGa00,Garrison Hearst,RB,2003,32,SFO,NFL,RB,12,12,178,768,3,41,41.0,36,4.3,64.0,14.8,38,25,211,8.4,1,7,34.2,26,2.1,17.6,65.8,5.6,203,4.8,979,4,2,8,
+HearGa00,Garrison Hearst,RB,2004,33,DEN,NFL,RB,7,0,20,81,1,8,45.0,11,4.1,11.6,2.9,3,2,20,10.0,0,1,33.3,15,0.3,2.9,66.7,6.7,22,4.6,101,1,0,1,

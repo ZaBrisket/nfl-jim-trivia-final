@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PennRa00,Rashaad Penny,RB,2018,22,SEA,RB,20,14,0,181,20%,0,0%,16,4%
+PennRa00,Rashaad Penny,RB,2019,23,SEA,RB,20,10,0,150,22%,0,0%,8,3%
+PennRa00,Rashaad Penny,RB,2020,24,SEA,RB,20,3,0,38,21%,0,0%,0,0%
+PennRa00,Rashaad Penny,RB,2021,25,SEA,RB,20,10,6,253,43%,0,0%,0,0%
+PennRa00,Rashaad Penny,RB,2022,26,SEA,RB,20,5,5,170,57%,0,0%,0,0%
+PennRa00,Rashaad Penny,RB,2023,27,PHI,RB,23,3,0,31,15%,0,0%,7,9%

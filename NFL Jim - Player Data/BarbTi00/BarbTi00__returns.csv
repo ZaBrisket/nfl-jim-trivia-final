@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BarbTi00,Tiki Barber,RB,1998,23,NYG,NFL,RB,16,4,0,0,0,0,,14,250,0,32,17.9,764,
+BarbTi00,Tiki Barber,RB,1999,24,NYG,NFL,RB,16,1,44,506,1,85,11.5,12,266,0,41,22.2,1639,
+BarbTi00,Tiki Barber,RB,2000,25,NYG,NFL,RB,16,12,39,332,0,31,8.5,1,28,0,28,28.0,2085,
+BarbTi00,Tiki Barber,RB,2001,26,NYG,NFL,RB,14,9,38,338,0,23,8.9,0,0,0,0,,1782,
+BarbTi00,Tiki Barber,RB,2002,27,NYG,NFL,RB,16,15,1,5,0,5,5.0,0,0,0,0,,1989,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ShorCe00,Cecil Shorts,WR,2011,24,JAX,NFL,WR,10,0,12,50,0,27,4.2,4,82,0,23,20.5,162,
+ShorCe00,Cecil Shorts,WR,,,,,,,,,,,,,,,,,,,
+ShorCe00,Cecil Shorts,WR,2015,28,HOU,NFL,WR,11,4,9,70,0,17,7.8,0,0,0,0,,601,
+ShorCe00,Cecil Shorts,WR,2016,29,TAM,NFL,WR,9,5,0,0,0,0,,1,19,0,19,19.0,171,

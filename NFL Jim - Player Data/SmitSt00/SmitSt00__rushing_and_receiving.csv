@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitSt00,Steve Smith,RB,1987,23,RAI,NFL,RB,7,3,5,18,0,1,20.0,15,3.6,2.6,0.7,3,3,46,15.3,0,1,100.0,32,0.4,6.6,100.0,15.3,8,8.0,64,0,0,1,
+SmitSt00,Steve Smith,RB,1988,24,RAI,NFL,FB,16,6,38,162,3,13,63.2,21,4.3,10.1,2.4,34,26,299,11.5,6,11,47.1,45,1.6,18.7,76.5,8.8,64,7.2,461,9,1,4,
+SmitSt00,Steve Smith,RB,1989,25,RAI,NFL,FB,16,16,117,471,1,23,55.6,21,4.0,29.4,7.3,26,19,140,7.4,0,9,50.0,14,1.2,8.8,73.1,5.4,136,4.5,611,1,2,4,
+SmitSt00,Steve Smith,RB,1990,26,RAI,NFL,FB,16,15,81,327,2,14,60.5,17,4.0,20.4,5.1,7,4,30,7.5,3,3,57.1,17,0.3,1.9,57.1,4.3,85,4.2,357,5,3,3,
+SmitSt00,Steve Smith,RB,1991,27,RAI,NFL,FB,16,16,62,265,1,19,56.5,19,4.3,16.6,3.9,28,15,130,8.7,1,5,39.3,37,0.9,8.1,53.6,4.6,77,5.1,395,2,4,4,
+SmitSt00,Steve Smith,RB,1992,28,RAI,NFL,FB,16,15,44,129,0,12,31.8,15,2.9,8.1,2.8,42,28,217,7.8,1,10,50.0,19,1.8,13.6,66.7,5.2,72,4.8,346,1,0,3,
+SmitSt00,Steve Smith,RB,1993,29,RAI,NFL,FB,16,13,47,156,0,10,48.9,13,3.3,9.8,2.9,25,18,187,10.4,0,6,48.0,22,1.1,11.7,72.0,7.5,65,5.3,343,0,1,3,
+SmitSt00,Steve Smith,RB,1994,30,SEA,NFL,RB,16,0,26,80,2,10,57.7,12,3.1,5.0,1.6,17,11,142,12.9,1,7,52.9,25,0.7,8.9,64.7,8.4,37,6.0,222,3,0,2,
+SmitSt00,Steve Smith,RB,1995,31,SEA,NFL,FB,9,7,9,19,0,5,55.6,4,2.1,2.1,1.0,10,7,59,8.4,1,4,40.0,17,0.8,6.6,70.0,5.9,16,4.9,78,1,0,1,

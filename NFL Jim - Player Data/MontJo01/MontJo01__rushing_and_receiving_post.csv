@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MontJo01,Joe Montana,QB,1981,25,SFO,NFL,QB,3,3,12,4,1,4,41.7,7,0.3,1.3,4.0,,0,0,0,0,0.0,0.0,12,0.3,4,1,1,SB MVP
+MontJo01,Joe Montana,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MontJo01,Joe Montana,QB,1983,27,SFO,NFL,QB,2,2,8,56,0,2,37.5,18,7.0,28.0,4.0,,0,0,0,0,0.0,0.0,8,7.0,56,0,1,
+MontJo01,Joe Montana,QB,1984,28,SFO,NFL,QB,3,3,13,144,1,7,69.2,53,11.1,48.0,4.3,,0,0,0,0,0.0,0.0,13,11.1,144,1,1,SB MVP
+MontJo01,Joe Montana,QB,1985,29,SFO,NFL,QB,1,1,1,0,0,0,0.0,,0.0,0.0,1.0,,0,0,0,0,0.0,0.0,1,0.0,0,0,1,
+MontJo01,Joe Montana,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MontJo01,Joe Montana,QB,1987,31,SFO,NFL,QB,1,1,3,20,0,1,33.3,14,6.7,20.0,3.0,,0,0,0,0,0.0,0.0,3,6.7,20,0,0,
+MontJo01,Joe Montana,QB,1988,32,SFO,NFL,QB,3,3,10,43,0,3,40.0,11,4.3,14.3,3.3,,0,0,0,0,0.0,0.0,10,4.3,43,0,2,
+MontJo01,Joe Montana,QB,1989,33,SFO,NFL,QB,3,3,5,19,0,1,40.0,10,3.8,6.3,1.7,,0,0,0,0,0.0,0.0,5,3.8,19,0,0,SB MVP
+MontJo01,Joe Montana,QB,1990,34,SFO,NFL,QB,2,2,3,10,0,0,33.3,6,3.3,5.0,1.5,,0,0,0,0,0.0,0.0,3,3.3,10,0,1,
+MontJo01,Joe Montana,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MontJo01,Joe Montana,QB,1993,37,KAN,NFL,QB,3,3,6,13,0,0,0.0,7,2.2,4.3,2.0,,0,0,0,0,0.0,0.0,6,2.2,13,0,0,
+MontJo01,Joe Montana,QB,1994,38,KAN,NFL,QB,1,1,2,5,0,0,0.0,7,2.5,5.0,2.0,0,0,0,0,0,0.0,0.0,2,2.5,5,0,0,

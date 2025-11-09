@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+WaynRe00,Reggie Wayne,WR,2002,24,IND,NFL,WR,16,7,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,,0,
+WaynRe00,Reggie Wayne,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+WaynRe00,Reggie Wayne,WR,2005,27,IND,NFL,WR,16,16,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,,0,
+WaynRe00,Reggie Wayne,WR,2006,28,IND,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,PB
+WaynRe00,Reggie Wayne,WR,2007,29,IND,NFL,WR,16,16,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+WaynRe00,Reggie Wayne,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+WaynRe00,Reggie Wayne,WR,2010,32,IND,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-1"
+WaynRe00,Reggie Wayne,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+WaynRe00,Reggie Wayne,WR,2012,34,IND,NFL,WR,16,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,PB
+WaynRe00,Reggie Wayne,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+WaynRe00,Reggie Wayne,WR,2014,36,IND,NFL,WR,15,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,

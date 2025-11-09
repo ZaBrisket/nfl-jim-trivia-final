@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+EdwaTr00,Troy Edwards,WR,1999,22,PIT,NFL,WR,16,6,25,234,0,48,9.4,13,234,0,44,18.0,1182,
+EdwaTr00,Troy Edwards,WR,2000,23,PIT,NFL,WR,14,1,0,0,0,0,,15,298,0,37,19.9,517,
+EdwaTr00,Troy Edwards,WR,2001,24,PIT,NFL,WR,16,0,10,83,0,28,8.3,20,462,0,81,23.1,888,
+EdwaTr00,Troy Edwards,WR,2002,25,STL,NFL,WR,14,0,0,0,0,0,,10,211,0,32,21.1,392,
+EdwaTr00,Troy Edwards,WR,2003,26,JAX,NFL,WR,13,11,0,0,0,0,,1,20,0,20,20.0,498,
+EdwaTr00,Troy Edwards,WR,2004,27,JAX,NFL,WR,16,4,3,26,0,14,8.7,15,335,0,45,22.3,872,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ParkDe01,DeVante Parker,WR,2018,25,MIA,NFL,WR,11,7,47,24,309,14,215,9.0,94,3.9,12.9,2,12.0,2,4.3,1,70.3,0,0,0,0,0,0,
+ParkDe01,DeVante Parker,WR,2019,26,MIA,NFL,WR,16,14,128,72,1202,58,939,13.0,263,3.7,14.0,2,36.0,6,4.7,4,98.5,0,0,0,0,0,0,
+ParkDe01,DeVante Parker,WR,2020,27,MIA,NFL,WR,14,11,103,63,793,45,620,9.8,173,2.7,9.7,6,10.5,6,5.8,2,90.0,0,0,0,0,0,0,
+ParkDe01,DeVante Parker,WR,2021,28,MIA,NFL,WR,10,8,73,40,515,29,411,10.3,104,2.6,11.5,2,20.0,4,5.5,0,86.3,0,0,0,0,0,0,
+ParkDe01,DeVante Parker,WR,2022,29,NWE,NFL,WR,13,11,47,31,539,25,434,14.0,105,3.4,15.9,3,10.3,1,2.1,4,90.6,0,0,0,0,0,0,
+ParkDe01,DeVante Parker,WR,2023,30,NWE,NFL,WR,13,13,55,33,394,17,268,8.1,126,3.8,11.6,2,16.5,3,5.5,2,66.8,0,0,0,0,0,0,

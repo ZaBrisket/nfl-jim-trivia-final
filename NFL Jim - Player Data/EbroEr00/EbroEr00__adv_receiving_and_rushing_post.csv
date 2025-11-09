@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+EbroEr00,Eric Ebron,TE,2018,25,IND,NFL,TE,2,1,15,8,77,5,58,7.3,19,2.4,10.5,1,8.0,1,6.7,0,90.1,0,0,0,0,0,0,
+EbroEr00,Eric Ebron,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EbroEr00,Eric Ebron,TE,2020,27,PIT,NFL,TE,1,0,11,7,62,5,26,3.7,36,5.1,4.5,0,,2,18.2,1,71.0,0,0,0,0,0,0,

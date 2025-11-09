@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+MoriLa00,Larry Moriarty,RB,1983,25,HOU,NFL,FB,16,8,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+MoriLa00,Larry Moriarty,RB,1984,26,HOU,NFL,RB,14,9,0,0,0,0,0,5,2,-3,0,0.0,0,0,0,0,
+MoriLa00,Larry Moriarty,RB,1985,27,HOU,NFL,FB,15,12,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+MoriLa00,Larry Moriarty,RB,1986,28,2TM,NFL,RB,15,5,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+MoriLa00,Larry Moriarty,RB,1986,28,HOU,NFL,RB,5,4,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+MoriLa00,Larry Moriarty,RB,1986,28,KAN,NFL,RB,10,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

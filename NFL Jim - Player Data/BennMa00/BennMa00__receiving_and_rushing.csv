@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BennMa00,Martellus Bennett,TE,2008,21,DAL,NFL,TE,16,7,27,20,283,14.2,4,12,66.7,37,1.3,17.7,74.1,10.5,0,0,0,0,,,,0.0,0.0,20,14.2,283,4,0,2,
+BennMa00,Martellus Bennett,TE,2009,22,DAL,NFL,TE,14,6,30,15,159,10.6,0,8,43.3,21,1.1,11.4,50.0,5.3,0,0,0,0,,,,0.0,0.0,15,10.6,159,0,0,1,
+BennMa00,Martellus Bennett,TE,2010,23,DAL,NFL,TE,16,11,47,33,260,7.9,0,12,44.7,32,2.1,16.3,70.2,5.5,0,0,0,0,,,,0.0,0.0,33,7.9,260,0,1,2,
+BennMa00,Martellus Bennett,TE,2011,24,DAL,NFL,TE,14,7,26,17,144,8.5,0,7,53.8,15,1.2,10.3,65.4,5.5,0,0,0,0,,,,0.0,0.0,17,8.5,144,0,0,1,
+BennMa00,Martellus Bennett,TE,2012,25,NYG,NFL,TE,16,16,89,55,626,11.4,5,35,52.8,33,3.4,39.1,61.8,7.0,0,0,0,0,,,,0.0,0.0,55,11.4,626,5,0,7,
+BennMa00,Martellus Bennett,TE,2013,26,CHI,NFL,TE,16,15,94,65,759,11.7,5,40,51.1,43,4.1,47.4,69.1,8.1,0,0,0,0,,,,0.0,0.0,65,11.7,759,5,1,7,
+BennMa00,Martellus Bennett,TE,2014,27,CHI,NFL,TE,16,15,128,90,916,10.2,6,43,51.6,37,5.6,57.3,70.3,7.2,0,0,0,0,,,,0.0,0.0,90,10.2,916,6,0,7,PB
+BennMa00,Martellus Bennett,TE,2015,28,CHI,NFL,TE,11,11,80,53,439,8.3,3,26,47.5,24,4.8,39.9,66.3,5.5,0,0,0,0,,,,0.0,0.0,53,8.3,439,3,2,4,
+BennMa00,Martellus Bennett,TE,2016,29,NWE,NFL,TE,16,12,73,55,701,12.7,7,31,54.8,58,3.4,43.8,75.3,9.6,2,10,0,0,100.0,6,5.0,0.6,0.1,57,12.5,711,7,0,7,
+BennMa00,Martellus Bennett,TE,2017,30,2TM,NFL,TE,9,7,44,30,286,9.5,0,11,47.7,33,3.3,31.8,68.2,6.5,0,0,0,0,,,,0.0,0.0,30,9.5,286,0,0,3,
+BennMa00,Martellus Bennett,TE,2017,30,GNB,NFL,TE,7,7,38,24,233,9.7,0,10,44.7,33,3.4,33.3,63.2,6.1,0,0,0,0,,,,0.0,0.0,24,9.7,233,0,0,2,
+BennMa00,Martellus Bennett,TE,2017,30,NWE,NFL,TE,2,0,6,6,53,8.8,0,1,66.7,27,3.0,26.5,100.0,8.8,0,0,0,0,,,,0.0,0.0,6,8.8,53,0,0,1,

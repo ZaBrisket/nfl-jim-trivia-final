@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+McMaJi00,Jim McMahon,QB,1982,23,CHI,NFL,QB,8,7,24,105,1,5,37.5,11,4.4,13.1,3.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,24,4.4,105,1,1,
+McMaJi00,Jim McMahon,QB,1983,24,CHI,NFL,QB,14,13,55,307,2,19,52.7,32,5.6,21.9,3.9,1,1,18,18.0,1,1,100.0,18,0.1,1.3,100.0,18.0,56,5.8,325,3,4,
+McMaJi00,Jim McMahon,QB,1984,25,CHI,NFL,QB,9,9,39,276,2,19,76.9,30,7.1,30.7,4.3,1,1,42,42.0,0,1,100.0,42,0.1,4.7,100.0,42.0,40,8.0,318,2,1,
+McMaJi00,Jim McMahon,QB,1985,26,CHI,NFL,QB,13,11,47,252,3,18,46.8,19,5.4,19.4,3.6,1,1,13,13.0,1,1,100.0,13,0.1,1.0,100.0,13.0,48,5.5,265,4,4,PB
+McMaJi00,Jim McMahon,QB,1986,27,CHI,NFL,QB,6,6,22,152,1,8,54.5,23,6.9,25.3,3.7,0,0,0,,0,0,,,0.0,0.0,,,22,6.9,152,1,1,
+McMaJi00,Jim McMahon,QB,1987,28,CHI,NFL,QB,7,6,22,88,2,8,45.5,13,4.0,12.6,3.1,0,0,0,,0,0,,,0.0,0.0,,,22,4.0,88,2,2,
+McMaJi00,Jim McMahon,QB,1988,29,CHI,NFL,QB,9,9,26,104,4,11,46.2,16,4.0,11.6,2.9,0,0,0,,0,0,,,0.0,0.0,,,26,4.0,104,4,6,
+McMaJi00,Jim McMahon,QB,1989,30,SDG,NFL,QB,12,11,29,141,0,12,55.2,15,4.9,11.8,2.4,1,1,4,4.0,0,0,100.0,4,0.1,0.3,100.0,4.0,30,4.8,145,0,3,
+McMaJi00,Jim McMahon,QB,1990,31,PHI,NFL,QB,5,0,3,1,0,1,33.3,3,0.3,0.2,0.6,0,0,0,,0,0,,,0.0,0.0,,,3,0.3,1,0,0,
+McMaJi00,Jim McMahon,QB,1991,32,PHI,NFL,QB,12,11,22,55,1,7,36.4,12,2.5,4.6,1.8,1,1,-5,-5.0,0,0,0.0,-5,0.1,-0.4,100.0,-5.0,23,2.2,50,1,2,
+McMaJi00,Jim McMahon,QB,1992,33,PHI,NFL,QB,4,1,6,23,0,2,33.3,11,3.8,5.8,1.5,0,0,0,,0,0,,,0.0,0.0,,,6,3.8,23,0,0,
+McMaJi00,Jim McMahon,QB,1993,34,MIN,NFL,QB,12,12,33,96,0,5,30.3,16,2.9,8.0,2.8,0,0,0,,0,0,,,0.0,0.0,,,33,2.9,96,0,4,
+McMaJi00,Jim McMahon,QB,1994,35,ARI,NFL,QB,2,1,6,32,0,1,33.3,17,5.3,16.0,3.0,0,0,0,,0,0,,,0.0,0.0,,,6,5.3,32,0,1,
+McMaJi00,Jim McMahon,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McMaJi00,Jim McMahon,QB,1996,37,GNB,NFL,QB,5,0,4,-1,0,1,25.0,2,-0.3,-0.2,0.8,0,0,0,,0,0,,,0.0,0.0,,,4,-0.3,-1,0,1,

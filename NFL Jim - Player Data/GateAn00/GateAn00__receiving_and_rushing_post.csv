@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GateAn00,Antonio Gates,TE,2004,24,SDG,NFL,TE,1,1,8,6,89,14.8,1,4,50.0,44,6.0,89.0,75.0,11.1,0,0,0,0,0.0,0.0,6,14.8,89,1,0,
+GateAn00,Antonio Gates,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GateAn00,Antonio Gates,TE,2006,26,SDG,NFL,TE,1,1,9,6,61,10.2,0,3,55.6,19,6.0,61.0,66.7,6.8,0,0,0,0,0.0,0.0,6,10.2,61,0,0,
+GateAn00,Antonio Gates,TE,2007,27,SDG,NFL,TE,3,2,11,6,60,10.0,0,2,18.2,23,2.0,20.0,54.5,5.5,0,0,0,0,0.0,0.0,6,10.0,60,0,0,
+GateAn00,Antonio Gates,TE,2008,28,SDG,NFL,TE,2,2,15,13,146,11.2,0,7,73.3,30,6.5,73.0,86.7,9.7,0,0,0,0,0.0,0.0,13,11.2,146,0,0,
+GateAn00,Antonio Gates,TE,2009,29,SDG,NFL,TE,1,1,11,8,93,11.6,0,6,63.6,23,8.0,93.0,72.7,8.5,0,0,0,0,0.0,0.0,8,11.6,93,0,0,
+GateAn00,Antonio Gates,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GateAn00,Antonio Gates,TE,2013,33,SDG,NFL,TE,2,2,5,3,15,5.0,0,0,0.0,5,1.5,7.5,60.0,3.0,0,0,0,0,0.0,0.0,3,5.0,15,0,0,
+GateAn00,Antonio Gates,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GateAn00,Antonio Gates,TE,2018,38,LAC,NFL,TE,2,1,12,9,76,8.4,1,6,50.0,14,4.5,38.0,75.0,6.3,0,0,0,0,0.0,0.0,9,8.4,76,1,0,

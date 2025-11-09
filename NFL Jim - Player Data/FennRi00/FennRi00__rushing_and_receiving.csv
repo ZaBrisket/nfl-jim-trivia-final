@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FennRi00,Rick Fenney,RB,1987,23,MIN,NFL,RB,11,0,42,174,2,18,54.8,12,4.1,15.8,3.8,9,7,27,3.9,0,1,22.2,18,0.6,2.5,77.8,3.0,49,4.1,201,2,0,2,
+FennRi00,Rick Fenney,RB,1988,24,MIN,NFL,RB,13,3,55,271,3,23,63.6,28,4.9,20.8,4.2,22,15,224,14.9,0,8,68.2,42,1.2,17.2,68.2,10.2,70,7.1,495,3,0,4,
+FennRi00,Rick Fenney,RB,1989,25,MIN,NFL,FB,16,8,151,588,4,39,57.0,25,3.9,36.8,9.4,40,30,254,8.5,2,13,52.5,26,1.9,15.9,75.0,6.4,181,4.7,842,6,4,6,
+FennRi00,Rick Fenney,RB,1990,26,MIN,NFL,FB,12,5,87,376,2,21,55.2,27,4.3,31.3,7.3,24,17,112,6.6,0,5,50.0,17,1.4,9.3,70.8,4.7,104,4.7,488,2,3,3,
+FennRi00,Rick Fenney,RB,1991,27,MIN,NFL,RB,11,0,23,99,0,6,60.9,17,4.3,9.0,2.1,4,2,11,5.5,0,0,25.0,8,0.2,1.0,50.0,2.8,25,4.4,110,0,0,1,

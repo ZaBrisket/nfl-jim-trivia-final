@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WaynRe00,Reggie Wayne,WR,2002,24,IND,NFL,WR,16,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WaynRe00,Reggie Wayne,WR,2003,25,IND,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+WaynRe00,Reggie Wayne,WR,2004,26,IND,NFL,WR,16,16,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,
+WaynRe00,Reggie Wayne,WR,2005,27,IND,NFL,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+WaynRe00,Reggie Wayne,WR,2006,28,IND,NFL,WR,16,16,0,9,0,0,0,0,0,9,1,0,0,0,0,0,56,3.5,PB
+WaynRe00,Reggie Wayne,WR,2007,29,IND,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP-2"
+WaynRe00,Reggie Wayne,WR,2008,30,IND,NFL,WR,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,38,2.4,PB
+WaynRe00,Reggie Wayne,WR,2009,31,IND,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,"PB,AP-2"
+WaynRe00,Reggie Wayne,WR,2010,32,IND,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,"PB,AP-1"
+WaynRe00,Reggie Wayne,WR,2011,33,IND,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WaynRe00,Reggie Wayne,WR,2012,34,IND,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,PB
+WaynRe00,Reggie Wayne,WR,2013,35,IND,NFL,WR,7,7,0,2,0,0,0,0,0,2,1,0,0,0,0,0,14,2.0,
+WaynRe00,Reggie Wayne,WR,2014,36,IND,NFL,WR,15,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

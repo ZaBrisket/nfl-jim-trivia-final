@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JawoRo00,Ron Jaworski,QB,1974,23,RAM,NFL,QB,5,0,7,34,1,,,17,4.9,6.8,1.4,,0,0,0,,0.0,0.0,7,4.9,34,1,1,
+JawoRo00,Ron Jaworski,QB,1975,24,RAM,NFL,QB,14,1,12,33,2,,,21,2.8,2.4,0.9,,0,0,0,,0.0,0.0,12,2.8,33,2,1,
+JawoRo00,Ron Jaworski,QB,1976,25,RAM,NFL,QB,5,2,2,15,1,,,14,7.5,3.0,0.4,,0,0,0,,0.0,0.0,2,7.5,15,1,0,
+JawoRo00,Ron Jaworski,QB,1977,26,PHI,NFL,QB,14,14,40,127,5,,,44,3.2,9.1,2.9,,0,0,0,,0.0,0.0,40,3.2,127,5,6,
+JawoRo00,Ron Jaworski,QB,1978,27,PHI,NFL,QB,16,16,30,79,0,8,33.3,15,2.6,4.9,1.9,0,0,0,0,0,0.0,0.0,30,2.6,79,0,7,
+JawoRo00,Ron Jaworski,QB,1979,28,PHI,NFL,QB,16,16,43,119,2,11,39.5,21,2.8,7.4,2.7,0,0,0,0,0,0.0,0.0,43,2.8,119,2,12,
+JawoRo00,Ron Jaworski,QB,1980,29,PHI,NFL,QB,16,16,27,95,1,10,51.9,19,3.5,5.9,1.7,0,0,0,0,0,0.0,0.0,27,3.5,95,1,6,"PB,AP MVP-3"
+JawoRo00,Ron Jaworski,QB,1981,30,PHI,NFL,QB,16,16,22,128,0,9,50.0,26,5.8,8.0,1.4,0,0,0,0,0,0.0,0.0,22,5.8,128,0,3,
+JawoRo00,Ron Jaworski,QB,1982,31,PHI,NFL,QB,9,9,10,9,0,1,20.0,6,0.9,1.0,1.1,0,0,0,0,0,0.0,0.0,10,0.9,9,0,9,
+JawoRo00,Ron Jaworski,QB,1983,32,PHI,NFL,QB,16,16,25,129,1,9,40.0,29,5.2,8.1,1.6,0,0,0,0,0,0.0,0.0,25,5.2,129,1,11,
+JawoRo00,Ron Jaworski,QB,1984,33,PHI,NFL,QB,13,13,5,18,1,2,40.0,10,3.6,1.4,0.4,0,0,0,0,0,0.0,0.0,5,3.6,18,1,5,
+JawoRo00,Ron Jaworski,QB,1985,34,PHI,NFL,QB,16,12,17,35,2,4,29.4,31,2.1,2.2,1.1,0,0,0,0,0,0.0,0.0,17,2.1,35,2,5,
+JawoRo00,Ron Jaworski,QB,1986,35,PHI,NFL,QB,10,9,13,33,0,4,38.5,10,2.5,3.3,1.3,0,0,0,0,0,0.0,0.0,13,2.5,33,0,4,
+JawoRo00,Ron Jaworski,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JawoRo00,Ron Jaworski,QB,1989,38,KAN,NFL,QB,6,3,4,5,0,0,0.0,4,1.3,0.8,0.7,0,0,0,0,0,0.0,0.0,4,1.3,5,0,2,

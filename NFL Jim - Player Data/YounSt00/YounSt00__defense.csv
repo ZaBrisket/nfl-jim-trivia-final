@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+YounSt00,Steve Young,QB,1985,24,TAM,NFL,QB,5,5,0,0,0,0,,0,4,1,-1,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,1986,25,TAM,NFL,QB,14,14,0,0,0,0,,0,11,4,-24,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,,,,,,,,,,,,,,,,,,,,,,,
+YounSt00,Steve Young,QB,1988,27,SFO,NFL,QB,11,3,0,0,0,0,,0,5,2,-10,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,1989,28,SFO,NFL,QB,10,3,0,0,0,0,,0,2,1,0,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,1990,29,SFO,NFL,QB,6,1,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,1991,30,SFO,NFL,QB,11,10,0,0,0,0,,0,3,1,-6,0,0.0,0,0,0,0,
+YounSt00,Steve Young,QB,1992,31,SFO,NFL,QB,16,16,0,0,0,0,,0,9,3,-13,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-1"
+YounSt00,Steve Young,QB,1993,32,SFO,NFL,QB,16,16,0,0,0,0,,0,8,2,-4,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-2"
+YounSt00,Steve Young,QB,1994,33,SFO,NFL,QB,16,16,0,0,0,0,,0,4,1,-4,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-2"
+YounSt00,Steve Young,QB,1995,34,SFO,NFL,QB,11,11,0,0,0,0,,0,3,0,0,0,0.0,0,0,0,0,"PB,AP-2"
+YounSt00,Steve Young,QB,1996,35,SFO,NFL,QB,12,12,0,0,0,0,,0,3,1,0,0,0.0,0,0,0,0,PB
+YounSt00,Steve Young,QB,1997,36,SFO,NFL,QB,15,15,0,0,0,0,,0,4,2,-11,0,0.0,0,0,0,0,"PB,AP-2,AP MVP-4"
+YounSt00,Steve Young,QB,1998,37,SFO,NFL,QB,15,15,0,0,0,0,,0,9,1,0,0,0.0,0,0,0,0,"PB,AP-2,AP OPoY-4"
+YounSt00,Steve Young,QB,1999,38,SFO,NFL,QB,3,3,0,0,0,0,0,0,2,0,0,0,0.0,,,,0,

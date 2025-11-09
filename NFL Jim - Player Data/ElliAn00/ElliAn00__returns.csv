@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ElliAn00,Andre Ellington,RB,2013,24,ARI,NFL,RB,15,1,0,0,0,0,1,21,0,21,21.0,1044,
+ElliAn00,Andre Ellington,RB,,,,,,,,,,,,,,,,,,
+ElliAn00,Andre Ellington,RB,2016,27,ARI,NFL,RB,16,0,0,0,0,0,10,163,0,25,16.3,344,

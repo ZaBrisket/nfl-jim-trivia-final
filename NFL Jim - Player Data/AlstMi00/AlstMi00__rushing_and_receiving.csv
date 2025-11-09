@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AlstMi00,Mike Alstott,FB,1996,23,TAM,NFL,FB,16,16,96,377,3,21,45.8,39,3.9,23.6,6.0,81,65,557,8.6,3,28,65.4,29,4.1,34.8,80.2,6.9,161,5.8,934,6,4,7,"AP-2,AP ORoY-3"
+AlstMi00,Mike Alstott,FB,1997,24,TAM,NFL,FB,15,15,176,665,7,34,42.6,47,3.8,44.3,11.7,33,23,178,7.7,3,13,48.5,26,1.5,11.9,69.7,5.4,199,4.2,843,10,5,8,"PB,AP-1"
+AlstMi00,Mike Alstott,FB,1998,25,TAM,NFL,FB,16,16,215,846,8,49,47.9,37,3.9,52.9,13.4,30,22,152,6.9,1,7,36.7,26,1.4,9.5,73.3,5.1,237,4.2,998,9,5,7,"PB,AP-1"
+AlstMi00,Mike Alstott,FB,1999,26,TAM,NFL,FB,16,16,242,949,7,48,36.8,30,3.9,59.3,15.1,34,27,239,8.9,2,11,50.0,24,1.7,14.9,79.4,7.0,269,4.4,1188,9,6,9,"PB,AP-1"
+AlstMi00,Mike Alstott,FB,2000,27,TAM,NFL,FB,13,13,131,465,5,37,51.1,20,3.5,35.8,10.1,19,13,93,7.2,0,3,47.4,21,1.0,7.2,68.4,4.9,144,3.9,558,5,3,5,PB
+AlstMi00,Mike Alstott,FB,2001,28,TAM,NFL,FB,16,16,165,680,10,40,47.3,39,4.1,42.5,10.3,50,35,231,6.6,1,9,46.0,19,2.2,14.4,70.0,4.6,200,4.6,911,11,2,8,PB
+AlstMi00,Mike Alstott,FB,2002,29,TAM,NFL,FB,16,9,146,548,5,37,42.5,32,3.8,34.3,9.1,48,35,242,6.9,2,11,54.2,44,2.2,15.1,72.9,5.0,181,4.4,790,7,4,6,PB
+AlstMi00,Mike Alstott,FB,2003,30,TAM,NFL,RB,4,3,27,77,2,9,44.4,29,2.9,19.3,6.8,12,10,83,8.3,0,2,66.7,17,2.5,20.8,83.3,6.9,37,4.3,160,2,0,1,
+AlstMi00,Mike Alstott,FB,2004,31,TAM,NFL,FB,14,11,67,230,2,20,56.7,32,3.4,16.4,4.8,41,29,202,7.0,0,11,36.6,20,2.1,14.4,70.7,4.9,96,4.5,432,2,2,3,
+AlstMi00,Mike Alstott,FB,2005,32,TAM,NFL,FB,16,7,34,80,6,12,55.9,9,2.4,5.0,2.1,38,25,222,8.9,1,11,50.0,24,1.6,13.9,65.8,5.8,59,5.1,302,7,0,3,
+AlstMi00,Mike Alstott,FB,2006,33,TAM,NFL,FB,16,15,60,171,3,17,48.3,17,2.9,10.7,3.8,38,21,85,4.0,0,7,23.7,18,1.3,5.3,55.3,2.2,81,3.2,256,3,1,2,

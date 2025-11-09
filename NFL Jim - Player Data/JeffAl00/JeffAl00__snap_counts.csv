@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JeffAl00,Alshon Jeffery,WR,2012,22,CHI,WR,17,10,6,431,66%,0,0%,3,1%
+JeffAl00,Alshon Jeffery,WR,2013*,23,CHI,WR,17,16,14,963,91%,0,0%,3,1%
+JeffAl00,Alshon Jeffery,WR,2014,24,CHI,WR,17,16,16,957,91%,0,0%,1,0%
+JeffAl00,Alshon Jeffery,WR,2015,25,CHI,WR,17,9,8,502,81%,0,0%,0,0%
+JeffAl00,Alshon Jeffery,WR,2016,26,CHI,WR,17,12,12,692,93%,0,0%,2,1%
+JeffAl00,Alshon Jeffery,WR,2017,27,PHI,WR,17,16,16,927,82%,2,0%,0,0%
+JeffAl00,Alshon Jeffery,WR,2018,28,PHI,WR,17,13,13,770,90%,0,0%,0,0%
+JeffAl00,Alshon Jeffery,WR,2019,29,PHI,WR,17,10,10,493,68%,0,0%,0,0%
+JeffAl00,Alshon Jeffery,WR,2020,30,PHI,WR,17,7,2,202,41%,0,0%,0,0%

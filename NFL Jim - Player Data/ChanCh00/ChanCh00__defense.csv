@@ -1,0 +1,20 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+ChanCh00,Chris Chandler,QB,1988,23,IND,NFL,QB,15,13,0,0,0,0,,0,8,5,-6,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,,,,,,,,,,,,,,,,,,,,,,,,
+ChanCh00,Chris Chandler,QB,1990,25,TAM,NFL,QB,7,3,0,0,0,0,,0,5,1,-2,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1991,26,2TM,NFL,QB,9,5,0,0,0,0,,0,6,2,-7,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1991,26,TAM,NFL,QB,6,3,0,0,0,0,,0,3,1,0,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1991,26,PHO,NFL,QB,3,2,0,0,0,0,,0,3,1,-7,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1992,27,PHO,NFL,QB,15,13,0,0,0,0,,0,9,2,-11,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1993,28,PHO,NFL,QB,4,2,0,0,0,0,,0,2,0,0,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1994,29,RAM,NFL,QB,12,6,0,0,0,0,,0,3,0,-10,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1995,30,HOU,NFL,QB,13,13,0,0,0,0,,0,12,5,-9,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1996,31,HOU,NFL,QB,12,12,0,0,0,0,,0,8,3,-4,0,0.0,0,0,0,,0,
+ChanCh00,Chris Chandler,QB,1997,32,ATL,NFL,QB,14,14,0,0,0,0,,0,9,3,-18,0,0.0,0,0,0,,0,PB
+ChanCh00,Chris Chandler,QB,1998,33,ATL,NFL,QB,14,14,0,0,0,0,,0,6,1,-4,0,0.0,0,0,0,,0,PB
+ChanCh00,Chris Chandler,QB,1999,34,ATL,NFL,QB,12,12,0,0,0,0,0,0,7,4,-14,0,0.0,,,,,0,
+ChanCh00,Chris Chandler,QB,2000,35,ATL,NFL,QB,14,13,0,0,0,0,0,0,7,4,-13,0,0.0,0,0,0,0,0,
+ChanCh00,Chris Chandler,QB,2001,36,ATL,NFL,QB,14,14,0,0,0,0,0,0,8,4,-8,0,0.0,0,0,0,0,0,
+ChanCh00,Chris Chandler,QB,2002,37,CHI,NFL,QB,9,7,0,0,0,0,0,0,3,0,-8,0,0.0,,,,,0,
+ChanCh00,Chris Chandler,QB,2003,38,CHI,NFL,QB,8,6,0,0,0,0,0,0,4,2,-4,0,0.0,0,0,0,0,0,
+ChanCh00,Chris Chandler,QB,2004,39,STL,NFL,QB,5,2,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,

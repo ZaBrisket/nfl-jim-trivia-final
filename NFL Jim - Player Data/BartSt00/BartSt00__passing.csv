@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+BartSt00,Steve Bartkowski,QB,1975,23,ATL,NFL,QB,11,11,4-7-0,115,255,45.1,1662,13,5.1,15,5.9,,,68,6.5,4.89,14.5,151.1,59.3,19,197,6.93,5.35,3.83,0,0,6,AP ORoY-2
+BartSt00,Steve Bartkowski,QB,1976,24,ATL,NFL,QB,5,5,1-4-0,57,120,47.5,677,2,1.7,9,7.5,,,50,5.6,2.60,11.9,135.4,39.5,18,150,13.04,3.82,1.17,0,1,2,
+BartSt00,Steve Bartkowski,QB,1977,25,ATL,NFL,QB,8,7,3-4-0,64,136,47.1,796,5,3.7,13,9.6,,,73,5.9,2.29,12.4,99.5,38.4,29,296,17.58,3.03,0.09,0,0,3,
+BartSt00,Steve Bartkowski,QB,1978,26,ATL,NFL,QB,14,13,8-5-0,187,369,50.7,2489,10,2.7,18,4.9,115,37.3,71,6.7,5.09,13.3,177.8,61.1,39,349,9.56,5.25,3.75,4,5,7,
+BartSt00,Steve Bartkowski,QB,1979,27,ATL,NFL,QB,14,14,6-8-0,204,380,53.7,2505,17,4.5,20,5.3,123,40.8,57,6.6,5.12,12.3,178.9,67.3,39,286,9.31,5.30,3.96,5,4,7,
+BartSt00,Steve Bartkowski,QB,1980,28,ATL,NFL,QB,16,16,12-4-0,257,463,55.5,3544,31,6.7,16,3.5,165,42.4,81,7.7,7.44,13.8,221.5,88.2,35,324,7.03,6.47,6.27,3,4,14,"PB,AP MVP-3"
+BartSt00,Steve Bartkowski,QB,1981,29,ATL,NFL,QB,16,16,7-9-0,297,533,55.7,3829,30,5.6,23,4.3,169,41.4,70,7.2,6.37,12.9,239.3,79.2,37,287,6.49,6.21,5.45,1,1,12,PB
+BartSt00,Steve Bartkowski,QB,1982,30,ATL,NFL,QB,9,9,5-4-0,166,262,63.4,1905,8,3.1,11,4.2,87,48.9,86,7.3,5.99,11.5,211.7,77.9,20,177,7.09,6.13,4.94,1,1,10,
+BartSt00,Steve Bartkowski,QB,1983,31,ATL,NFL,QB,14,14,6-8-0,274,432,63.4,3167,22,5.1,5,1.2,162,44.5,76,7.3,7.83,11.6,226.2,97.6,51,348,10.56,5.84,6.28,3,3,12,
+BartSt00,Steve Bartkowski,QB,1984,32,ATL,NFL,QB,11,11,3-8-0,181,269,67.3,2158,11,4.1,10,3.7,92,46.3,61,8.0,7.17,11.9,196.2,89.7,40,300,12.94,6.01,5.27,1,1,7,
+BartSt00,Steve Bartkowski,QB,1985,33,ATL,NFL,QB,5,5,0-5-0,69,111,62.2,738,5,4.5,1,0.9,32,38.8,62,6.6,7.14,10.7,147.6,92.8,18,158,13.95,4.50,4.92,0,0,2,
+BartSt00,Steve Bartkowski,QB,1986,34,RAM,NFL,QB,6,6,4-2-0,61,126,48.4,654,2,1.6,3,2.4,29,33.6,42,5.2,4.44,10.7,109.0,59.4,11,84,8.03,4.16,3.47,0,1,2,

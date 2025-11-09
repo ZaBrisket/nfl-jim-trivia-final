@@ -1,0 +1,21 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BradTo00,Tom Brady,QB,2001,24,NWE,NFL,QB,3,3,8,22,1,3,37.5,6,2.8,7.3,2.7,0,0,0,0,0,,0.0,0.0,,,8,2.8,22,1,1,SB MVP
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2003,26,NWE,NFL,QB,3,3,12,18,0,5,41.7,12,1.5,6.0,4.0,0,0,0,0,0,,0.0,0.0,,,12,1.5,18,0,0,SB MVP
+BradTo00,Tom Brady,QB,2004,27,NWE,NFL,QB,3,3,7,3,1,2,28.6,3,0.4,1.0,2.3,0,0,0,0,0,,0.0,0.0,,,7,0.4,3,1,1,
+BradTo00,Tom Brady,QB,2005,28,NWE,NFL,QB,2,2,3,8,0,0,0.0,7,2.7,4.0,1.5,0,0,0,0,0,,0.0,0.0,,,3,2.7,8,0,2,
+BradTo00,Tom Brady,QB,2006,29,NWE,NFL,QB,3,3,8,18,0,4,37.5,12,2.3,6.0,2.7,0,0,0,0,0,,0.0,0.0,,,8,2.3,18,0,2,
+BradTo00,Tom Brady,QB,2007,30,NWE,NFL,QB,3,3,4,-1,0,0,0.0,2,-0.3,-0.3,1.3,0,0,0,0,0,,0.0,0.0,,,4,-0.3,-1,0,1,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2010,33,NWE,NFL,QB,1,1,2,2,0,1,50.0,3,1.0,2.0,2.0,0,0,0,0,0,,0.0,0.0,,,2,1.0,2,0,1,
+BradTo00,Tom Brady,QB,2011,34,NWE,NFL,QB,3,3,9,10,1,4,44.4,4,1.1,3.3,3.0,0,0,0,0,0,,0.0,0.0,,,9,1.1,10,1,0,
+BradTo00,Tom Brady,QB,2012,35,NWE,NFL,QB,2,2,3,4,0,0,0.0,3,1.3,2.0,1.5,0,0,0,0,0,,0.0,0.0,,,3,1.3,4,0,0,
+BradTo00,Tom Brady,QB,2013,36,NWE,NFL,QB,2,2,3,6,1,2,66.7,8,2.0,3.0,1.5,0,0,0,0,0,,0.0,0.0,,,3,2.0,6,1,1,
+BradTo00,Tom Brady,QB,2014,37,NWE,NFL,QB,3,3,11,10,1,5,36.4,9,0.9,3.3,3.7,0,0,0,0,0,,0.0,0.0,,,11,0.9,10,1,0,SB MVP
+BradTo00,Tom Brady,QB,2015,38,NWE,NFL,QB,2,2,9,19,1,3,44.4,11,2.1,9.5,4.5,0,0,0,0,0,,0.0,0.0,,,9,2.1,19,1,0,
+BradTo00,Tom Brady,QB,2016,39,NWE,NFL,QB,3,3,9,13,0,2,33.3,15,1.4,4.3,3.0,0,0,0,0,0,,0.0,0.0,,,9,1.4,13,0,0,SB MVP
+BradTo00,Tom Brady,QB,2017,40,NWE,NFL,QB,3,3,7,8,0,2,42.9,6,1.1,2.7,2.3,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7,1.1,8,0,1,
+BradTo00,Tom Brady,QB,2018,41,NWE,NFL,QB,3,3,5,-4,0,0,0.0,-1,-0.8,-1.3,1.7,0,0,0,0,0,,0.0,0.0,,,5,-0.8,-4,0,1,
+BradTo00,Tom Brady,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTo00,Tom Brady,QB,2020,43,TAM,NFL,QB,4,4,13,-3,1,2,15.4,2,-0.2,-0.8,3.3,0,0,0,0,0,,0.0,0.0,,,13,-0.2,-3,1,2,SB MVP
+BradTo00,Tom Brady,QB,2021,44,TAM,NFL,QB,2,2,1,0,0,0,0.0,,0.0,0.0,0.5,0,0,0,0,0,,0.0,0.0,,,1,0.0,0,0,1,

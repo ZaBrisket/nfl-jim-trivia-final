@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WestNi00,Nick Westbrook-Ikhine,WR,2020,23,TEN,WR,15,14,1,157,17%,0,0%,157,40%
+WestNi00,Nick Westbrook-Ikhine,WR,2021,24,TEN,WR,15,16,7,661,59%,0,0%,172,40%
+WestNi00,Nick Westbrook-Ikhine,WR,2022,25,TEN,WR,15,17,13,777,75%,2,0%,28,6%
+WestNi00,Nick Westbrook-Ikhine,WR,2023,26,TEN,WR,15,14,9,611,70%,0,0%,96,25%
+WestNi00,Nick Westbrook-Ikhine,WR,2024,27,TEN,WR,15,17,9,771,71%,0,0%,121,27%
+WestNi00,Nick Westbrook-Ikhine,WR,2025,28,MIA,WR,18,9,2,287,54%,0,0%,75,33%

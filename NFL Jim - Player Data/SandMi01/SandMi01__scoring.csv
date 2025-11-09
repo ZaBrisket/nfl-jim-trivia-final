@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SandMi01,Miles Sanders,RB,2019,22,PHI,NFL,RB,16,11,3,3,0,0,0,0,0,6,1,,0,0,0,0,0,38,2.4,AP ORoY-4
+SandMi01,Miles Sanders,RB,2020,23,PHI,NFL,RB,12,11,6,0,0,0,0,0,0,6,2,,0,0,0,0,0,40,3.3,
+SandMi01,Miles Sanders,RB,2021,24,PHI,NFL,RB,12,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0.2,
+SandMi01,Miles Sanders,RB,2022,25,PHI,NFL,RB,17,15,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,66,3.9,PB
+SandMi01,Miles Sanders,RB,2023,26,CAR,NFL,RB,16,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+SandMi01,Miles Sanders,RB,2024,27,CAR,NFL,RB,11,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.6,
+SandMi01,Miles Sanders,RB,2025,28,DAL,NFL,RB,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,1.5,

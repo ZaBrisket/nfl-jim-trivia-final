@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DennPr00,Preston Dennard,WR,1978,23,RAM,NFL,WR,11,0,6,3,35,11.7,0,3,50.0,15,0.3,3.2,50.0,5.8,0,0,0,0,,,,0.0,0.0,3,11.7,35,0,0,0,
+DennPr00,Preston Dennard,WR,1979,24,RAM,NFL,WR,15,11,98,43,766,17.8,4,35,40.8,50,2.9,51.1,43.9,7.8,4,32,0,3,75.0,15,8.0,2.1,0.3,47,17.0,798,4,1,6,
+DennPr00,Preston Dennard,WR,1980,25,RAM,NFL,WR,16,16,67,36,596,16.6,6,26,52.2,44,2.3,37.3,53.7,8.9,2,20,0,1,50.0,21,10.0,1.3,0.1,38,16.2,616,6,0,6,
+DennPr00,Preston Dennard,WR,1981,26,RAM,NFL,WR,15,15,110,49,821,16.8,4,36,43.6,64,3.3,54.7,44.5,7.5,6,29,0,2,33.3,21,4.8,1.9,0.4,55,15.5,850,4,1,7,
+DennPr00,Preston Dennard,WR,1982,27,RAM,NFL,WR,9,9,63,25,383,15.3,2,16,38.1,39,2.8,42.6,39.7,6.1,0,0,0,0,,,,0.0,0.0,25,15.3,383,2,0,6,
+DennPr00,Preston Dennard,WR,1983,28,RAM,NFL,WR,14,13,75,33,465,14.1,5,21,37.3,61,2.4,33.2,44.0,6.2,0,0,0,0,,,,0.0,0.0,33,14.1,465,5,0,4,
+DennPr00,Preston Dennard,WR,1984,29,BUF,NFL,WR,16,13,77,30,417,13.9,7,19,32.5,68,1.9,26.1,39.0,5.4,0,0,0,0,,,,0.0,0.0,30,13.9,417,7,1,3,
+DennPr00,Preston Dennard,WR,1985,30,GNB,NFL,WR,16,0,25,13,182,14.0,2,9,40.0,34,0.8,11.4,52.0,7.3,0,0,0,0,,,,0.0,0.0,13,14.0,182,2,1,2,

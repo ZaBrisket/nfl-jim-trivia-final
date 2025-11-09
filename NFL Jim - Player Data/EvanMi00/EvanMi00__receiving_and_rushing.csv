@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EvanMi00,Mike Evans,WR,2014,21,TAM,NFL,WR,15,15,122,68,1051,15.5,12,46,46.7,56,4.5,70.1,55.7,8.6,0,0,0,0,,,,0.0,0.0,68,15.5,1051,12,0,8,AP ORoY-3
+EvanMi00,Mike Evans,WR,2015,22,TAM,NFL,WR,15,14,148,74,1206,16.3,3,63,48.0,68,4.9,80.4,50.0,8.1,0,0,0,0,,,,0.0,0.0,74,16.3,1206,3,1,10,
+EvanMi00,Mike Evans,WR,2016,23,TAM,NFL,WR,16,16,173,96,1321,13.8,12,82,53.2,45,6.0,82.6,55.5,7.6,0,0,0,0,,,,0.0,0.0,96,13.8,1321,12,0,10,"PB,AP-2"
+EvanMi00,Mike Evans,WR,2017,24,TAM,NFL,WR,15,15,136,71,1001,14.1,5,55,50.0,42,4.7,66.7,52.2,7.4,0,0,0,0,,,,0.0,0.0,71,14.1,1001,5,1,8,
+EvanMi00,Mike Evans,WR,2018,25,TAM,NFL,WR,16,16,138,86,1524,17.7,8,68,61.6,72,5.4,95.3,62.3,11.0,0,0,0,0,,,,0.0,0.0,86,17.7,1524,8,2,11,PB
+EvanMi00,Mike Evans,WR,2019,26,TAM,NFL,WR,13,13,118,67,1157,17.3,8,54,55.1,67,5.2,89.0,56.8,9.8,0,0,0,0,,,,0.0,0.0,67,17.3,1157,8,0,9,PB
+EvanMi00,Mike Evans,WR,2020,27,TAM,NFL,WR,16,16,109,70,1006,14.4,13,55,58.7,50,4.4,62.9,64.2,9.2,0,0,0,0,,,,0.0,0.0,70,14.4,1006,13,0,9,
+EvanMi00,Mike Evans,WR,2021,28,TAM,NFL,WR,16,16,114,74,1035,14.0,14,56,59.6,46,4.6,64.7,64.9,9.1,1,10,0,1,100.0,10,10.0,0.6,0.1,75,13.9,1045,14,0,9,PB
+EvanMi00,Mike Evans,WR,2022,29,TAM,NFL,WR,15,15,127,77,1124,14.6,6,53,54.3,63,5.1,74.9,60.6,8.9,0,0,0,0,,,,0.0,0.0,77,14.6,1124,6,0,7,
+EvanMi00,Mike Evans,WR,2023,30,TAM,NFL,WR,17,17,136,79,1255,15.9,13,54,53.7,75,4.6,73.8,58.1,9.2,0,0,0,0,,,,0.0,0.0,79,15.9,1255,13,0,11,"PB,AP-2"
+EvanMi00,Mike Evans,WR,2024,31,TAM,NFL,WR,14,14,110,74,1004,13.6,11,53,62.7,57,5.3,71.7,67.3,9.1,0,0,0,0,,,,0.0,0.0,74,13.6,1004,11,0,10,PB
+EvanMi00,Mike Evans,WR,2025,32,TAM,NFL,WR,4,4,32,14,140,10.0,1,10,40.6,22,3.5,35.0,43.8,4.4,0,0,0,0,,,,0.0,0.0,14,10.0,140,1,0,,

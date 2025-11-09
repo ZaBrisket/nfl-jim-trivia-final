@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MackKe00,Kevin Mack,RB,1985,23,CLE,NFL,FB,16,15,222,1104,7,42,46.4,61,5.0,69.0,13.9,39,29,297,10.2,3,15,53.8,43,1.8,18.6,74.4,7.6,251,5.6,1401,10,4,12,"PB,AP ORoY-2"
+MackKe00,Kevin Mack,RB,1986,24,CLE,NFL,FB,12,12,174,665,10,45,56.3,20,3.8,55.4,14.5,43,28,292,10.4,0,10,44.2,44,2.3,24.3,65.1,6.8,202,4.7,957,10,6,8,
+MackKe00,Kevin Mack,RB,1987,25,CLE,NFL,FB,12,12,201,735,5,41,50.7,22,3.7,61.3,16.8,44,32,223,7.0,1,12,47.7,17,2.7,18.6,72.7,5.1,233,4.1,958,6,6,8,PB
+MackKe00,Kevin Mack,RB,1988,26,CLE,NFL,FB,11,11,123,485,3,33,52.8,65,3.9,44.1,11.2,16,11,87,7.9,0,2,37.5,25,1.0,7.9,68.8,5.4,134,4.3,572,3,5,4,
+MackKe00,Kevin Mack,RB,1989,27,CLE,NFL,RB,4,1,37,130,1,10,51.4,12,3.5,32.5,9.3,5,2,7,3.5,0,0,20.0,4,0.5,1.8,40.0,1.4,39,3.5,137,1,1,1,
+MackKe00,Kevin Mack,RB,1990,28,CLE,NFL,FB,14,14,158,702,5,51,51.9,26,4.4,50.1,11.3,59,42,360,8.6,2,18,42.4,30,3.0,25.7,71.2,6.1,200,5.3,1062,7,6,6,
+MackKe00,Kevin Mack,RB,1991,29,CLE,NFL,FB,14,11,197,726,8,46,44.2,51,3.7,51.9,14.1,53,40,255,6.4,2,11,47.2,22,2.9,18.2,75.5,4.8,237,4.1,981,10,1,8,
+MackKe00,Kevin Mack,RB,1992,30,CLE,NFL,FB,12,6,169,543,6,38,46.7,37,3.2,45.3,14.1,15,13,81,6.2,0,3,40.0,23,1.1,6.8,86.7,5.4,182,3.4,624,6,1,5,
+MackKe00,Kevin Mack,RB,1993,31,CLE,NFL,RB,4,0,10,33,1,2,40.0,7,3.3,8.3,2.5,0,0,0,,0,0,,,0.0,0.0,,,10,3.3,33,1,0,0,

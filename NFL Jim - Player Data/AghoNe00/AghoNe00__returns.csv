@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+AghoNe00,Nelson Agholor,WR,2016,23,PHI,NFL,WR,15,14,0,0,0,0,,5,92,0,27,18.4,471,
+AghoNe00,Nelson Agholor,WR,,,,,,,,,,,,,,,,,,,
+AghoNe00,Nelson Agholor,WR,2018,25,PHI,NFL,WR,16,16,1,0,0,0,0.0,0,0,0,0,,768,
+AghoNe00,Nelson Agholor,WR,2019,26,PHI,NFL,WR,11,10,2,7,0,4,3.5,0,0,0,0,,377,

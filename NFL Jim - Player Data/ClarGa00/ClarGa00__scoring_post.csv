@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ClarGa00,Gary Clark,WR,1987,25,WAS,NFL,WR,3,3,0,2,0,0,0,0,0,2,0,0,0,0,0,12,4.0,
+ClarGa00,Gary Clark,WR,,,,,,,,,,,,,,,,,,,,,,,
+ClarGa00,Gary Clark,WR,1990,28,WAS,NFL,WR,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6,3.0,
+ClarGa00,Gary Clark,WR,1991,29,WAS,NFL,WR,3,3,0,2,0,0,0,0,0,2,0,0,0,0,0,12,4.0,
+ClarGa00,Gary Clark,WR,1992,30,WAS,NFL,WR,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,6,3.0,

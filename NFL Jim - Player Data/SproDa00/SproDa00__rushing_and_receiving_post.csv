@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SproDa00,Darren Sproles,RB,2007,24,SDG,NFL,RB,3,0,4,35,0,1,50.0,26,8.8,11.7,1.3,6,3,61,20.3,1,2,33.3,56,1.0,20.3,50.0,10.2,7,13.7,96,1,1,
+SproDa00,Darren Sproles,RB,2008,25,SDG,NFL,RB,2,1,33,120,2,6,30.3,22,3.6,60.0,16.5,16,10,136,13.6,1,5,37.5,62,5.0,68.0,62.5,8.5,43,6.0,256,3,1,
+SproDa00,Darren Sproles,RB,2009,26,SDG,NFL,RB,1,0,3,33,0,1,66.7,22,11.0,33.0,3.0,5,3,30,10.0,0,1,20.0,19,3.0,30.0,60.0,6.0,6,10.5,63,0,0,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2011,28,NOR,NFL,RB,2,2,13,54,2,5,61.5,17,4.2,27.0,6.5,24,19,152,8.0,1,7,54.2,44,9.5,76.0,79.2,6.3,32,6.4,206,3,1,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2013,30,NOR,NFL,RB,2,0,7,31,0,2,42.9,13,4.4,15.5,3.5,13,9,63,7.0,0,2,46.2,14,4.5,31.5,69.2,4.8,16,5.9,94,0,0,
+SproDa00,Darren Sproles,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SproDa00,Darren Sproles,RB,2018,35,PHI,NFL,RB,2,1,16,25,0,1,18.8,10,1.6,12.5,8.0,7,5,35,7.0,0,2,57.1,14,2.5,17.5,71.4,5.0,21,2.9,60,0,0,

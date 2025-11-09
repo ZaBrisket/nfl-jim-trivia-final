@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+BrowCh10,Chase Brown,RB,2023,23,CIN,RB,30,12,0,93,12%,0,0%,160,51%
+BrowCh10,Chase Brown,RB,2024,24,CIN,RB,30,16,10,686,65%,0,0%,82,19%
+BrowCh10,Chase Brown,RB,2025,25,CIN,RB,30,9,9,367,66%,0,0%,0,0%

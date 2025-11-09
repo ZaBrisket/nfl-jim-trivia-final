@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+EkelAu00,Austin Ekeler,RB,2017,22,LAC,NFL,RB,16,0,0,0,0,0,5,85,0,22,17.0,624,
+EkelAu00,Austin Ekeler,RB,,,,,,,,,,,,,,,,,,
+EkelAu00,Austin Ekeler,RB,2024,29,WAS,NFL,RB,12,6,0,0,0,0,19,594,0,62,31.3,1327,AP-2

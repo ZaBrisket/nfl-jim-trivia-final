@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MoorMe00,Mewelde Moore,RB,2004,22,MIN,NFL,RB,10,3,65,379,0,17,56.9,33,5.8,37.9,6.5,32,27,238,8.8,0,8,53.1,26,2.7,23.8,84.4,7.4,92,6.7,617,0,0,5,
+MoorMe00,Mewelde Moore,RB,2005,23,MIN,NFL,RB,16,8,155,662,1,33,40.0,33,4.3,41.4,9.7,49,37,339,9.2,2,17,51.0,29,2.3,21.2,75.5,6.9,192,5.2,1001,3,2,8,
+MoorMe00,Mewelde Moore,RB,2006,24,MIN,NFL,RB,16,0,24,131,0,4,33.3,15,5.5,8.2,1.5,62,46,468,10.2,1,15,29.0,50,2.9,29.3,74.2,7.5,70,8.6,599,1,3,5,
+MoorMe00,Mewelde Moore,RB,2007,25,MIN,NFL,RB,12,0,20,113,0,6,50.0,17,5.7,9.4,1.7,8,6,48,8.0,0,1,50.0,20,0.5,4.0,75.0,6.0,26,6.2,161,0,1,1,
+MoorMe00,Mewelde Moore,RB,2008,26,PIT,NFL,RB,16,4,140,588,5,36,50.0,32,4.2,36.8,8.8,53,40,320,8.0,1,17,47.2,25,2.5,20.0,75.5,6.0,180,5.0,908,6,2,7,
+MoorMe00,Mewelde Moore,RB,2009,27,PIT,NFL,RB,16,0,35,118,0,7,37.1,15,3.4,7.4,2.2,31,21,153,7.3,2,9,41.9,19,1.3,9.6,67.7,4.9,56,4.8,271,2,0,2,
+MoorMe00,Mewelde Moore,RB,2010,28,PIT,NFL,RB,15,0,33,99,0,4,21.2,18,3.0,6.6,2.2,31,26,205,7.9,0,10,48.4,29,1.7,13.7,83.9,6.6,59,5.2,304,0,0,2,
+MoorMe00,Mewelde Moore,RB,2011,29,PIT,NFL,RB,12,0,22,157,0,5,63.6,21,7.1,13.1,1.8,14,11,104,9.5,1,4,57.1,24,0.9,8.7,78.6,7.4,33,7.9,261,1,2,2,
+MoorMe00,Mewelde Moore,RB,2012,30,IND,NFL,RB,9,0,13,20,0,1,30.8,6,1.5,2.2,1.4,8,6,77,12.8,1,4,62.5,32,0.7,8.6,75.0,9.6,19,5.1,97,1,1,1,

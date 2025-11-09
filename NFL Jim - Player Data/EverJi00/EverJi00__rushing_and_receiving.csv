@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+EverJi00,Jim Everett,QB,1986,23,RAM,NFL,QB,6,5,16,46,1,6,50.0,14,2.9,7.7,2.7,0,0,0,0,0,0.0,0.0,16,2.9,46,1,2,AP ORoY-2
+EverJi00,Jim Everett,QB,1987,24,RAM,NFL,QB,11,11,18,83,1,9,61.1,16,4.6,7.5,1.6,0,0,0,0,0,0.0,0.0,18,4.6,83,1,2,
+EverJi00,Jim Everett,QB,1988,25,RAM,NFL,QB,16,16,34,104,0,8,38.2,19,3.1,6.5,2.1,0,0,0,0,0,0.0,0.0,34,3.1,104,0,7,
+EverJi00,Jim Everett,QB,1989,26,RAM,NFL,QB,16,16,25,31,1,4,28.0,13,1.2,1.9,1.6,0,0,0,0,0,0.0,0.0,25,1.2,31,1,4,
+EverJi00,Jim Everett,QB,1990,27,RAM,NFL,QB,16,16,20,31,1,2,15.0,15,1.6,1.9,1.3,0,0,0,0,0,0.0,0.0,20,1.6,31,1,4,PB
+EverJi00,Jim Everett,QB,1991,28,RAM,NFL,QB,16,16,27,44,0,3,25.9,10,1.6,2.8,1.7,0,0,0,0,0,0.0,0.0,27,1.6,44,0,12,
+EverJi00,Jim Everett,QB,1992,29,RAM,NFL,QB,16,16,32,133,0,4,21.9,22,4.2,8.3,2.0,0,0,0,0,0,0.0,0.0,32,4.2,133,0,5,
+EverJi00,Jim Everett,QB,1993,30,RAM,NFL,QB,10,9,19,38,0,2,21.1,14,2.0,3.8,1.9,0,0,0,0,0,0.0,0.0,19,2.0,38,0,7,
+EverJi00,Jim Everett,QB,1994,31,NOR,NFL,QB,16,16,15,35,0,2,20.0,14,2.3,2.2,0.9,0,0,0,0,0,0.0,0.0,15,2.3,35,0,3,
+EverJi00,Jim Everett,QB,1995,32,NOR,NFL,QB,16,16,24,42,0,4,29.2,9,1.8,2.6,1.5,0,0,0,0,0,0.0,0.0,24,1.8,42,0,6,
+EverJi00,Jim Everett,QB,1996,33,NOR,NFL,QB,15,15,22,3,0,3,13.6,3,0.1,0.2,1.5,0,0,0,0,0,0.0,0.0,22,0.1,3,0,10,
+EverJi00,Jim Everett,QB,1997,34,SDG,NFL,QB,4,1,5,6,0,1,40.0,6,1.2,1.5,1.3,0,0,0,0,0,0.0,0.0,5,1.2,6,0,2,

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_ret_yds_opp,punt_net_yds,punt_net_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct,punt_blocked,awards
+RoetBe00,Ben Roethlisberger,QB,2005,23,PIT,NFL,QB,12,12,2,72,36.0,0,52,26.0,39,1,50.0,1,50.0,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2010,28,PIT,NFL,QB,12,12,1,35,35.0,0,15,15.0,35,1,100.0,0,0.0,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2012,30,PIT,NFL,QB,13,13,1,26,26.0,0,26,26.0,26,0,0.0,1,100.0,0,
+RoetBe00,Ben Roethlisberger,QB,2013,31,PIT,NFL,QB,16,16,1,28,28.0,0,28,28.0,28,0,0.0,1,100.0,0,
+RoetBe00,Ben Roethlisberger,QB,,,,,,,,,,,,,,,,,,,,
+RoetBe00,Ben Roethlisberger,QB,2018,36,PIT,NFL,QB,16,16,1,27,27.0,18,9,9.0,27,0,0.0,0,0.0,0,

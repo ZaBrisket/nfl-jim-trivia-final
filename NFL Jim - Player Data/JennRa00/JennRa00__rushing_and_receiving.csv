@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JennRa00,Rashad Jennings,RB,2009,24,JAX,NFL,RB,15,0,39,202,1,8,43.6,28,5.2,13.5,2.6,18,16,101,6.3,0,4,44.4,14,1.1,6.7,88.9,5.6,55,5.5,303,1,0,2,
+JennRa00,Rashad Jennings,RB,2010,25,JAX,NFL,RB,13,3,84,459,4,24,53.6,74,5.5,35.3,6.5,35,26,223,8.6,0,8,37.1,25,2.0,17.2,74.3,6.4,110,6.2,682,4,0,6,
+JennRa00,Rashad Jennings,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JennRa00,Rashad Jennings,RB,2012,27,JAX,NFL,RB,10,6,101,283,2,16,37.6,21,2.8,28.3,10.1,26,19,130,6.8,0,5,26.9,26,1.9,13.0,73.1,5.0,120,3.4,413,2,3,2,
+JennRa00,Rashad Jennings,RB,2013,28,OAK,NFL,RB,15,8,163,733,6,35,46.6,80,4.5,48.9,10.9,48,36,292,8.1,0,12,52.1,24,2.4,19.5,75.0,6.1,199,5.2,1025,6,0,6,
+JennRa00,Rashad Jennings,RB,2014,29,NYG,NFL,RB,11,9,167,639,4,39,47.3,18,3.8,58.1,15.2,41,30,226,7.5,0,8,34.1,27,2.7,20.5,73.2,5.5,197,4.4,865,4,1,6,
+JennRa00,Rashad Jennings,RB,2015,30,NYG,NFL,RB,16,16,195,863,3,42,55.9,38,4.4,53.9,12.2,40,29,296,10.2,1,8,50.0,51,1.8,18.5,72.5,7.4,224,5.2,1159,4,3,8,
+JennRa00,Rashad Jennings,RB,2016,31,NYG,NFL,RB,13,12,181,593,3,29,36.5,25,3.3,45.6,13.9,42,35,201,5.7,1,8,35.7,24,2.7,15.5,83.3,4.8,216,3.7,794,4,1,5,

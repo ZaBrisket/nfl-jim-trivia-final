@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+EdwaCl00,Clyde Edwards-Helaire,RB,2020,21,KAN,RB,25,13,13,542,59%,0,0%,0,0%
+EdwaCl00,Clyde Edwards-Helaire,RB,2021,22,KAN,RB,25,10,10,342,50%,0,0%,0,0%
+EdwaCl00,Clyde Edwards-Helaire,RB,2022,23,KAN,RB,25,10,6,224,32%,0,0%,0,0%
+EdwaCl00,Clyde Edwards-Helaire,RB,2023,24,KAN,RB,25,15,3,227,22%,0,0%,0,0%
+EdwaCl00,Clyde Edwards-Helaire,RB,2024,25,NOR,RB,,2,0,44,35%,0,0%,0,0%
+EdwaCl00,Clyde Edwards-Helaire,RB,2025,26,KAN,RB,44,1,0,2,3%,0,0%,0,0%

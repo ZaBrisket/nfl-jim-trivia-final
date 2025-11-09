@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FreiPa00,Pat Freiermuth,TE,2021,23,PIT,TE,88,16,9,683,62%,0,0%,41,9%
+FreiPa00,Pat Freiermuth,TE,2022,24,PIT,TE,88,16,8,743,68%,0,0%,13,3%
+FreiPa00,Pat Freiermuth,TE,2023,25,PIT,TE,88,12,9,474,63%,0,0%,43,13%
+FreiPa00,Pat Freiermuth,TE,2024,26,PIT,TE,88,17,11,776,69%,0,0%,81,18%
+FreiPa00,Pat Freiermuth,TE,2025,27,PIT,TE,88,8,3,226,49%,0,0%,20,9%

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HumpAd00,Adam Humphries,WR,2016,23,TAM,NFL,WR,15,4,24,237,0,25,9.9,4,47,0,17,11.8,924,
+HumpAd00,Adam Humphries,WR,2017,24,TAM,NFL,WR,16,3,6,49,0,19,8.2,0,0,0,0,,686,
+HumpAd00,Adam Humphries,WR,2018,25,TAM,NFL,WR,16,10,21,139,0,16,6.6,2,17,0,13,8.5,983,
+HumpAd00,Adam Humphries,WR,2019,26,TEN,NFL,WR,12,3,12,78,0,21,6.5,0,0,0,0,,453,

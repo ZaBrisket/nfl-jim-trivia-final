@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RobiAl02,Allen Robinson,WR,2014,21,JAX,NFL,WR,10,8,81,48,548,11.4,2,26,49.4,54,4.8,54.8,59.3,6.8,0,0,0,0,,,,0.0,0.0,48,11.4,548,2,0,3,
+RobiAl02,Allen Robinson,WR,2015,22,JAX,NFL,WR,16,16,151,80,1400,17.5,14,61,49.7,90,5.0,87.5,53.0,9.3,0,0,0,0,,,,0.0,0.0,80,17.5,1400,14,0,11,PB
+RobiAl02,Allen Robinson,WR,2016,23,JAX,NFL,WR,16,16,151,73,883,12.1,6,51,41.7,42,4.6,55.2,48.3,5.8,0,0,0,0,,,,0.0,0.0,73,12.1,883,6,1,6,
+RobiAl02,Allen Robinson,WR,2017,24,JAX,NFL,WR,1,1,1,1,17,17.0,0,1,100.0,17,1.0,17.0,100.0,17.0,0,0,0,0,,,,0.0,0.0,1,17.0,17,0,0,0,
+RobiAl02,Allen Robinson,WR,2018,25,CHI,NFL,WR,13,12,94,55,754,13.7,4,36,52.1,43,4.2,58.0,58.5,8.0,1,9,0,0,100.0,9,9.0,0.7,0.1,56,13.6,763,4,1,7,
+RobiAl02,Allen Robinson,WR,2019,26,CHI,NFL,WR,16,15,154,98,1147,11.7,7,63,57.1,49,6.1,71.7,63.6,7.4,1,2,0,0,0.0,2,2.0,0.1,0.1,99,11.6,1149,7,0,9,
+RobiAl02,Allen Robinson,WR,2020,27,CHI,NFL,WR,16,16,151,102,1250,12.3,6,68,58.3,42,6.4,78.1,67.5,8.3,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,103,12.1,1249,6,0,11,
+RobiAl02,Allen Robinson,WR,2021,28,CHI,NFL,WR,12,11,66,38,410,10.8,1,22,47.0,39,3.2,34.2,57.6,6.2,0,0,0,0,,,,0.0,0.0,38,10.8,410,1,0,3,
+RobiAl02,Allen Robinson,WR,2022,29,LAR,NFL,WR,10,10,52,33,339,10.3,3,23,53.8,29,3.3,33.9,63.5,6.5,0,0,0,0,,,,0.0,0.0,33,10.3,339,3,0,3,
+RobiAl02,Allen Robinson,WR,2023,30,PIT,NFL,WR,17,17,49,34,280,8.2,0,9,44.9,31,2.0,16.5,69.4,5.7,0,0,0,0,,,,0.0,0.0,34,8.2,280,0,0,2,
+RobiAl02,Allen Robinson,WR,2024,31,DET,NFL,WR,12,0,7,3,30,10.0,0,3,42.9,21,0.3,2.5,42.9,4.3,0,0,0,0,,,,0.0,0.0,3,10.0,30,0,0,0,

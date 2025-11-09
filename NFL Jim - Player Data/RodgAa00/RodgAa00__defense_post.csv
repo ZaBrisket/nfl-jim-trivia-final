@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RodgAa00,Aaron Rodgers,QB,2009,26,GNB,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+RodgAa00,Aaron Rodgers,QB,2010,27,GNB,NFL,QB,4,4,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,SB MVP
+RodgAa00,Aaron Rodgers,QB,2011,28,GNB,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+RodgAa00,Aaron Rodgers,QB,2012,29,GNB,NFL,QB,2,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,
+RodgAa00,Aaron Rodgers,QB,2013,30,GNB,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+RodgAa00,Aaron Rodgers,QB,2014,31,GNB,NFL,QB,2,2,0,0,0,0,0,0,2,0,-9,0,0.0,0,0,0,0,0,0,
+RodgAa00,Aaron Rodgers,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+RodgAa00,Aaron Rodgers,QB,2019,36,GNB,NFL,QB,2,2,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,
+RodgAa00,Aaron Rodgers,QB,2020,37,GNB,NFL,QB,2,2,0,0,0,0,0,0,0,1,1,0,0.0,0,0,0,0,0,0,
+RodgAa00,Aaron Rodgers,QB,2021,38,GNB,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

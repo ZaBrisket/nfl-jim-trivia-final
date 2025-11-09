@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WentCa00,Carson Wentz,QB,2016,24,PHI,NFL,QB,16,16,2,0,0,0,0,0,0,2,1,,0,0,0,0,0,14,0.9,
+WentCa00,Carson Wentz,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+WentCa00,Carson Wentz,QB,2019,27,PHI,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.4,AP CPoY-5
+WentCa00,Carson Wentz,QB,2020,28,PHI,NFL,QB,12,12,5,0,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.5,
+WentCa00,Carson Wentz,QB,2021,29,IND,NFL,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+WentCa00,Carson Wentz,QB,2022,30,WAS,NFL,QB,8,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.8,
+WentCa00,Carson Wentz,QB,2023,31,LAR,NFL,QB,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,3.0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HarvPe00,Percy Harvin,WR,2009,21,MIN,NFL,WR,15,8,0,0,0,0,42,1156,2,101,27.5,2081,"PB,AP ORoY-1"
+HarvPe00,Percy Harvin,WR,2010,22,MIN,NFL,WR,14,13,0,0,0,0,40,933,1,95,23.3,1908,
+HarvPe00,Percy Harvin,WR,2011,23,MIN,NFL,WR,16,14,0,0,0,0,16,520,1,104,32.5,1832,
+HarvPe00,Percy Harvin,WR,2012,24,MIN,NFL,WR,9,8,0,0,0,0,16,574,1,105,35.9,1347,
+HarvPe00,Percy Harvin,WR,2013,25,SEA,NFL,WR,1,0,0,0,0,0,1,58,0,58,58.0,75,
+HarvPe00,Percy Harvin,WR,2014,26,2TM,NFL,WR,13,12,0,0,0,0,32,778,0,65,24.3,1463,
+HarvPe00,Percy Harvin,WR,2014,26,SEA,NFL,WR,5,4,0,0,0,0,12,283,0,46,23.6,508,
+HarvPe00,Percy Harvin,WR,2014,26,NYJ,NFL,WR,8,8,0,0,0,0,20,495,0,65,24.8,955,
+HarvPe00,Percy Harvin,WR,2015,27,BUF,NFL,WR,5,5,0,0,0,0,5,108,0,25,21.6,357,

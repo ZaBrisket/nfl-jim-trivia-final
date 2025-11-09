@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackDe00,DeSean Jackson,WR,2012,26,PHI,WR,10,11,11,700,89%,0,0%,3,1%
+JackDe00,DeSean Jackson,WR,2013*,27,PHI,WR,10,16,16,987,90%,0,0%,41,9%
+JackDe00,DeSean Jackson,WR,2014,28,WAS,WR,11,15,13,755,76%,0,0%,3,1%
+JackDe00,DeSean Jackson,WR,2015,29,WAS,WR,11,9,9,359,62%,0,0%,5,2%
+JackDe00,DeSean Jackson,WR,2016,30,WAS,WR,11,15,15,706,71%,0,0%,0,0%
+JackDe00,DeSean Jackson,WR,2017,31,TAM,WR,11,14,13,609,65%,0,0%,0,0%
+JackDe00,DeSean Jackson,WR,2018,32,TAM,WR,11,12,10,452,52%,0,0%,9,3%
+JackDe00,DeSean Jackson,WR,2019,33,PHI,WR,10,3,3,65,27%,0,0%,0,0%
+JackDe00,DeSean Jackson,WR,2020,34,PHI,WR,10,5,5,179,47%,0,0%,2,1%
+JackDe00,DeSean Jackson,WR,2021,35,2TM,WR,,16,4,303,,0,,2,
+JackDe00,DeSean Jackson,WR,,,LAR,WR,1,7,0,100,23%,0,0%,2,1%
+JackDe00,DeSean Jackson,WR,,,,,,,,203,34%,0,0%,0,0%
+JackDe00,DeSean Jackson,WR,2022,36,BAL,WR,15,7,1,110,25%,0,0%,0,0%

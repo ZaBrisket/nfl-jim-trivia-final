@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SharSt00,Sterling Sharpe,WR,1988,23,GNB,NFL,WR,16,16,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+SharSt00,Sterling Sharpe,WR,1989,24,GNB,NFL,WR,16,16,0,12,0,0,1,0,0,13,,0,0,0,0,0,78,4.9,"PB,AP-1"
+SharSt00,Sterling Sharpe,WR,1990,25,GNB,NFL,WR,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,PB
+SharSt00,Sterling Sharpe,WR,1991,26,GNB,NFL,WR,16,16,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.5,
+SharSt00,Sterling Sharpe,WR,1992,27,GNB,NFL,WR,16,16,0,13,0,0,0,0,0,13,,0,0,0,0,0,78,4.9,"PB,AP-1,AP MVP-4,AP OPoY-4"
+SharSt00,Sterling Sharpe,WR,1993,28,GNB,NFL,WR,16,16,0,11,0,0,0,0,0,11,,0,0,0,0,0,66,4.1,"PB,AP-1,AP MVP-8,AP OPoY-5"
+SharSt00,Sterling Sharpe,WR,1994,29,GNB,NFL,WR,16,16,0,18,0,0,0,0,0,18,0,0,0,0,0,0,108,6.8,PB

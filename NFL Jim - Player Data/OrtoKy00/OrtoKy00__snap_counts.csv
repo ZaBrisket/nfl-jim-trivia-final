@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+OrtoKy00,Kyle Orton,QB,2012,30,DAL,QB,18,1,0,11,16%,0,0%,0,0%
+OrtoKy00,Kyle Orton,QB,2013,31,DAL,QB,18,3,1,78,39%,0,0%,0,0%
+OrtoKy00,Kyle Orton,QB,2014,32,BUF,QB,18,12,12,802,100%,0,0%,0,0%

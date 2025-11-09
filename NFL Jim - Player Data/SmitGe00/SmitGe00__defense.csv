@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+SmitGe00,Geno Smith,QB,2013,23,NYJ,NFL,QB,16,16,0,0,0,0,0,0,8,3,-2,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,2014,24,NYJ,NFL,QB,14,13,0,0,0,0,0,0,8,5,-21,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitGe00,Geno Smith,QB,2016,26,NYJ,NFL,QB,2,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,,0,
+SmitGe00,Geno Smith,QB,2017,27,NYG,NFL,QB,2,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,2018,28,LAC,NFL,QB,5,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitGe00,Geno Smith,QB,2020,30,SEA,NFL,QB,1,0,0,0,0,0,0,0,1,0,-6,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,2021,31,SEA,NFL,QB,4,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,2022,32,SEA,NFL,QB,17,17,0,0,0,0,0,0,8,2,2,0,0.0,1,1,0,0,0,0,"PB,AP MVP-9,AP CPoY-1"
+SmitGe00,Geno Smith,QB,2023,33,SEA,NFL,QB,15,15,0,0,0,0,0,0,5,2,-3,0,0.0,0,0,0,0,0,0,PB
+SmitGe00,Geno Smith,QB,2024,34,SEA,NFL,QB,17,17,0,0,0,0,0,0,9,6,-47,0,0.0,0,0,0,0,0,0,
+SmitGe00,Geno Smith,QB,2025,35,LVR,NFL,QB,9,9,0,0,0,0,0,0,1,2,-2,0,0.0,0,0,0,0,0,0,

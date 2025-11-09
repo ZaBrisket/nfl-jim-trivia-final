@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JackFr02,Fred Jackson,RB,2008,27,BUF,NFL,RB,16,3,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+JackFr02,Fred Jackson,RB,2009,28,BUF,NFL,RB,16,11,2,2,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+JackFr02,Fred Jackson,RB,2010,29,BUF,NFL,RB,16,13,5,2,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+JackFr02,Fred Jackson,RB,2011,30,BUF,NFL,RB,10,10,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,3.6,
+JackFr02,Fred Jackson,RB,2012,31,BUF,NFL,RB,10,8,3,1,0,0,0,0,0,4,0,0,0,0,0,0,24,2.4,
+JackFr02,Fred Jackson,RB,2013,32,BUF,NFL,RB,16,6,9,1,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+JackFr02,Fred Jackson,RB,2014,33,BUF,NFL,RB,14,9,2,1,0,0,0,0,0,3,1,0,0,0,0,0,20,1.4,
+JackFr02,Fred Jackson,RB,2015,34,SEA,NFL,RB,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+FostAr00,Arian Foster,RB,2012*,26,HOU,RB,23,16,16,830,74%,0,0%,0,0%
+FostAr00,Arian Foster,RB,2013,27,HOU,RB,23,8,8,327,56%,0,0%,0,0%
+FostAr00,Arian Foster,RB,2014*,28,HOU,RB,23,13,13,622,70%,0,0%,0,0%
+FostAr00,Arian Foster,RB,2015,29,HOU,RB,23,4,4,190,62%,0,0%,0,0%
+FostAr00,Arian Foster,RB,2016,30,MIA,RB,29,4,2,86,33%,0,0%,0,0%

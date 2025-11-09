@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+HuntKa00,Kareem Hunt,RB,2017,22,KAN,NFL,RB,1,1,11,42,1,2,54.5,16,3.8,42.0,11.0,3,3,5,1.7,0,0,33.3,7,3.0,5.0,100.0,1.7,14,3.4,47,1,0,
+HuntKa00,Kareem Hunt,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HuntKa00,Kareem Hunt,RB,2020,25,CLE,NFL,RB,2,0,14,80,3,5,57.1,13,5.7,40.0,7.0,2,2,15,7.5,0,1,50.0,13,1.0,7.5,100.0,7.5,16,5.9,95,3,0,
+HuntKa00,Kareem Hunt,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HuntKa00,Kareem Hunt,RB,2023,28,CLE,NFL,RB,1,0,8,26,1,2,50.0,14,3.3,26.0,8.0,6,5,9,1.8,1,1,16.7,11,5.0,9.0,83.3,1.5,13,2.7,35,2,0,
+HuntKa00,Kareem Hunt,RB,2024,29,KAN,NFL,RB,3,0,28,117,2,8,53.6,12,4.2,39.0,9.3,3,3,13,4.3,0,0,66.7,6,1.0,4.3,100.0,4.3,31,4.2,130,2,0,

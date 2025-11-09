@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RichAn03,Anthony Richardson,QB,2023,21,IND,QB,5,4,4,173,67%,0,0%,0,0%
+RichAn03,Anthony Richardson,QB,2024,22,IND,QB,5,11,11,620,92%,0,0%,0,0%
+RichAn03,Anthony Richardson,QB,2025,23,IND,QB,5,2,0,14,11%,0,0%,0,0%

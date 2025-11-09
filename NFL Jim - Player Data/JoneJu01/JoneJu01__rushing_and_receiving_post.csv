@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JoneJu01,Julius Jones,RB,2006,25,DAL,NFL,RB,1,1,22,112,0,6,36.4,35,5.1,112.0,22.0,3,2,0,0.0,0,0,0.0,,2.0,0.0,66.7,0.0,24,4.7,112,0,0,
+JoneJu01,Julius Jones,RB,2007,26,DAL,NFL,RB,1,0,3,8,0,0,0.0,4,2.7,8.0,3.0,0,0,0,,0,0,,,0.0,0.0,,,3,2.7,8,0,0,
+JoneJu01,Julius Jones,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneJu01,Julius Jones,RB,2010,29,NOR,NFL,RB,1,0,15,59,2,5,60.0,15,3.9,59.0,15.0,9,6,61,10.2,0,3,44.4,33,6.0,61.0,66.7,6.8,21,5.7,120,2,1,

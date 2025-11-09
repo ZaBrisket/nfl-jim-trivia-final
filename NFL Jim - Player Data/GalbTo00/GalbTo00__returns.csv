@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GalbTo00,Tony Galbreath,RB,1976,22,NOR,NFL,RB,14,13,2,8,0,4,4.0,20,399,0,32,20.0,1397,
+GalbTo00,Tony Galbreath,RB,,,,,,,,,,,,,,,,,,,
+GalbTo00,Tony Galbreath,RB,1980,26,NOR,NFL,RB,16,4,0,0,0,0,,6,86,0,20,14.3,864,
+GalbTo00,Tony Galbreath,RB,1981,27,MIN,NFL,RB,14,1,0,0,0,0,,1,16,0,16,16.0,358,
+GalbTo00,Tony Galbreath,RB,,,,,,,,,,,,,,,,,,,
+GalbTo00,Tony Galbreath,RB,1985,31,NYG,NFL,RB,16,0,0,0,0,0,,7,120,0,37,17.1,634,
+GalbTo00,Tony Galbreath,RB,1986,32,NYG,NFL,RB,16,0,3,1,0,1,0.3,0,0,0,0,,330,

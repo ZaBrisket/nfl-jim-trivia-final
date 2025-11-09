@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DaveRo00,Ron Davenport,RB,1985,23,MIA,NFL,RB,16,1,11,2,0,0,0,0,0,13,0,0,0,0,0,78,4.9,
+DaveRo00,Ron Davenport,RB,1986,24,MIA,NFL,RB,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+DaveRo00,Ron Davenport,RB,1987,25,MIA,NFL,RB,10,1,1,1,0,0,0,0,0,2,0,0,0,0,0,12,1.2,
+DaveRo00,Ron Davenport,RB,,,,,,,,,,,,,,,,,,,,,,,
+DaveRo00,Ron Davenport,RB,1989,27,MIA,NFL,RB,9,3,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,

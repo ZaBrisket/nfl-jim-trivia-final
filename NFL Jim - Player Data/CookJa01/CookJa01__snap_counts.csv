@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CookJa01,James Cook,RB,2022,23,BUF,RB,28,16,0,269,25%,0,0%,1,0%
+CookJa01,James Cook,RB,2023*,24,BUF,RB,4,17,13,634,55%,0,0%,0,0%
+CookJa01,James Cook,RB,2024*,25,BUF,RB,4,16,16,485,48%,0,0%,0,0%
+CookJa01,James Cook,RB,2025,26,BUF,RB,4,8,8,323,61%,0,0%,0,0%

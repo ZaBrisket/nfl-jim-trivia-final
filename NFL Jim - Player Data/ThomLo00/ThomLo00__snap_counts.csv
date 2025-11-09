@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ThomLo00,Logan Thomas,TE,2014,23,ARI,QB,6,2,0,17,14%,0,0%,0,0%
+ThomLo00,Logan Thomas,TE,2017,26,BUF,TE,82,12,2,155,20%,0,0%,48,15%
+ThomLo00,Logan Thomas,TE,2018,27,BUF,TE,82,12,3,284,36%,0,0%,190,55%
+ThomLo00,Logan Thomas,TE,2019,28,DET,TE,82,16,3,336,31%,0,0%,249,54%
+ThomLo00,Logan Thomas,TE,2020,29,WAS,TE,82,16,15,1009,93%,0,0%,22,5%
+ThomLo00,Logan Thomas,TE,2021,30,WAS,TE,82,6,6,294,74%,0,0%,15,9%
+ThomLo00,Logan Thomas,TE,2022,31,WAS,TE,82,14,13,681,68%,0,0%,0,0%
+ThomLo00,Logan Thomas,TE,2023,32,WAS,TE,82,16,15,732,70%,0,0%,1,0%

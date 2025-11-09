@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+PierDa01,Dameon Pierce,RB,2022,22,HOU,NFL,RB,13,13,220,939,54,433,2.0,506,2.3,27,8.1,39,30,165,7,-32,-1.1,197,6.6,-0.3,8,3.8,3,7.7,1,81.7,AP ORoY-9
+PierDa01,Dameon Pierce,RB,2023,23,HOU,NFL,RB,14,7,145,416,14,180,1.2,236,1.6,12,12.1,17,13,101,3,6,0.5,95,7.3,0.8,1,13.0,1,5.9,0,90.6,
+PierDa01,Dameon Pierce,RB,2024,24,HOU,NFL,RB,11,0,40,293,7,77,1.9,216,5.4,6,6.7,4,2,2,0,-3,-1.5,5,2.5,-1.3,1,2.0,0,0.0,0,56.2,
+PierDa01,Dameon Pierce,RB,2025,25,HOU,NFL,RB,3,0,10,26,1,7,0.7,19,1.9,2,5.0,1,0,0,0,0,,0,,-4.0,0,,1,100.0,0,39.6,

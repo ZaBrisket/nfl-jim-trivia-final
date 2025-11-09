@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+RisoAn00,Andre Rison,WR,1989,22,IND,NFL,WR,16,13,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,AP ORoY-2
+RisoAn00,Andre Rison,WR,1990,23,ATL,NFL,WR,16,15,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,"PB,AP-1"
+RisoAn00,Andre Rison,WR,1991,24,ATL,NFL,WR,16,15,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1992,25,ATL,NFL,WR,15,13,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1993,26,ATL,NFL,WR,16,16,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,"PB,AP-2"
+RisoAn00,Andre Rison,WR,1994,27,ATL,NFL,WR,15,14,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+RisoAn00,Andre Rison,WR,1995,28,CLE,NFL,WR,16,14,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+RisoAn00,Andre Rison,WR,1996,29,2TM,NFL,WR,15,13,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+RisoAn00,Andre Rison,WR,1996,29,GNB,NFL,WR,5,4,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+RisoAn00,Andre Rison,WR,,,,,,,,,,,,,,,,,,,,,,
+RisoAn00,Andre Rison,WR,1998,31,KAN,NFL,WR,14,13,0,0,0,0,1,1,1,0,0,0.0,0,0,0,0,

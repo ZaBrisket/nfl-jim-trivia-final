@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+MoonWa00,Warren Moon,QB,1987,31,HOU,NFL,QB,2,2,1-1-0,45,75,60.0,537,2,2.7,3,4.0,32,53.2,29,7.2,5.89,11.9,268.5,74.1,2,14,2.60,6.79,5.56,0,1,
+MoonWa00,Warren Moon,QB,1988,32,HOU,NFL,QB,2,2,1-1-0,33,59,55.9,453,1,1.7,4,6.8,24,46.8,35,7.7,4.97,13.7,226.5,58.1,3,22,4.84,6.95,4.37,1,1,
+MoonWa00,Warren Moon,QB,1989,33,HOU,NFL,QB,1,1,0-1-0,29,48,60.4,315,2,4.2,0,0.0,17,52.1,32,6.6,7.40,10.9,315.0,93.7,0,0,0.00,6.56,7.40,0,0,
+MoonWa00,Warren Moon,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MoonWa00,Warren Moon,QB,1991,35,HOU,NFL,QB,2,2,1-1-0,55,76,72.4,596,5,6.6,2,2.6,29,61.3,49,7.8,7.97,10.8,298.0,106.0,4,39,5.00,6.96,7.09,0,0,
+MoonWa00,Warren Moon,QB,1992,36,HOU,NFL,QB,1,1,0-1-0,36,50,72.0,371,4,8.0,2,4.0,18,55.6,32,7.4,7.22,10.3,371.0,103.0,4,24,7.41,6.43,6.24,0,0,
+MoonWa00,Warren Moon,QB,1993,37,HOU,NFL,QB,1,1,0-1-0,32,43,74.4,306,1,2.3,1,2.3,14,46.2,30,7.1,6.53,9.6,306.0,91.8,9,68,17.31,4.58,4.10,0,0,
+MoonWa00,Warren Moon,QB,1994,38,MIN,NFL,QB,1,1,0-1-0,29,52,55.8,292,2,3.8,2,3.8,15,38.9,38,5.6,4.65,10.1,292.0,68.7,2,11,3.70,5.20,4.28,0,0,

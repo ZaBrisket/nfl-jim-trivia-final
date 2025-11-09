@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+AdamDa01,Davante Adams,WR,2014,22,GNB,WR,17,16,11,738,70%,0,0%,48,11%
+AdamDa01,Davante Adams,WR,2015,23,GNB,WR,17,13,12,762,80%,0,0%,1,0%
+AdamDa01,Davante Adams,WR,2016,24,GNB,WR,17,16,15,913,84%,0,0%,8,2%
+AdamDa01,Davante Adams,WR,2017*,25,GNB,WR,17,14,14,777,85%,0,0%,0,0%
+AdamDa01,Davante Adams,WR,2018*,26,GNB,WR,17,15,15,953,94%,0,0%,1,0%
+AdamDa01,Davante Adams,WR,2019*,27,GNB,WR,17,12,12,678,84%,0,0%,1,0%
+AdamDa01,Davante Adams,WR,2020*+,28,GNB,WR,17,14,14,774,85%,0,0%,7,2%
+AdamDa01,Davante Adams,WR,2021*+,29,GNB,WR,17,16,16,886,85%,0,0%,6,2%
+AdamDa01,Davante Adams,WR,2022*+,30,LVR,WR,17,17,17,1044,95%,0,0%,1,0%
+AdamDa01,Davante Adams,WR,2023,31,LVR,WR,17,17,17,963,92%,0,0%,3,1%
+AdamDa01,Davante Adams,WR,2024,32,2TM,,,14,14,792,,0,,1,
+AdamDa01,Davante Adams,WR,,,LVR,WR,17,3,3,178,95%,0,0%,0,0%
+AdamDa01,Davante Adams,WR,,,NYJ,WR,17,11,11,614,91%,0,0%,1,0%
+AdamDa01,Davante Adams,WR,2025,33,LAR,WR,17,8,8,411,77%,0,0%,2,1%

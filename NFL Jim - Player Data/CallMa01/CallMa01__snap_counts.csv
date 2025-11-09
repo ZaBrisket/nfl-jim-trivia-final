@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CallMa01,Marquez Callaway,WR,2020,22,NOR,WR,12,11,3,267,36%,0,0%,84,28%
+CallMa01,Marquez Callaway,WR,2021,23,NOR,WR,1,17,11,833,76%,0,0%,10,2%
+CallMa01,Marquez Callaway,WR,2022,24,NOR,WR,1,14,3,397,45%,0,0%,17,5%
+CallMa01,Marquez Callaway,WR,2023,25,NOR,WR,10,3,0,28,16%,0,0%,0,0%
+CallMa01,Marquez Callaway,WR,2024,26,TAM,WR,85,2,0,5,4%,0,0%,0,0%

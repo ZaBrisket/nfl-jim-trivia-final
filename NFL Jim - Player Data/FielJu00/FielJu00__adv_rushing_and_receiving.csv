@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+FielJu00,Justin Fields,QB,2021,22,CHI,NFL,QB,12,10,72,420,22,293,4.1,127,1.8,5,14.4,0,0,0,0,0,0,0,0,0,
+FielJu00,Justin Fields,QB,2022,23,CHI,NFL,QB,15,15,160,1143,65,856,5.4,287,1.8,10,16.0,0,0,0,0,0,0,0,0,0,AP MVP-9
+FielJu00,Justin Fields,QB,2023,24,CHI,NFL,QB,13,13,124,657,43,447,3.6,210,1.7,9,13.8,0,0,0,0,0,0,0,0,0,
+FielJu00,Justin Fields,QB,2024,25,PIT,NFL,QB,10,6,62,289,19,214,3.5,75,1.2,2,31.0,0,0,0,0,0,0,0,0,0,
+FielJu00,Justin Fields,QB,2025,26,NYJ,NFL,QB,7,7,53,288,18,242,4.6,46,0.9,3,17.7,0,0,0,0,0,0,0,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+NickHa01,Hakeem Nicks,WR,2009,21,NYG,NFL,WR,14,6,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,
+NickHa01,Hakeem Nicks,WR,2010,22,NYG,NFL,WR,13,12,0,11,0,0,0,0,0,11,0,0,0,0,0,0,66,5.1,
+NickHa01,Hakeem Nicks,WR,2011,23,NYG,NFL,WR,15,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+NickHa01,Hakeem Nicks,WR,2012,24,NYG,NFL,WR,13,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+NickHa01,Hakeem Nicks,WR,,,,,,,,,,,,,,,,,,,,,,,,
+NickHa01,Hakeem Nicks,WR,2014,26,IND,NFL,WR,16,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,

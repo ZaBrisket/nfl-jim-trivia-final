@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RiceSi01,Sidney Rice,WR,2007,21,MIN,NFL,WR,13,4,53,31,396,12.8,4,25,50.9,60,2.4,30.5,58.5,7.5,0,0,0,0,,,,0.0,0.0,31,12.8,396,4,0,4,
+RiceSi01,Sidney Rice,WR,2008,22,MIN,NFL,WR,13,3,31,15,141,9.4,4,12,45.2,23,1.2,10.8,48.4,4.5,0,0,0,0,,,,0.0,0.0,15,9.4,141,4,0,1,
+RiceSi01,Sidney Rice,WR,2009,23,MIN,NFL,WR,16,14,121,83,1312,15.8,8,60,63.6,63,5.2,82.0,68.6,10.8,0,0,0,0,,,,0.0,0.0,83,15.8,1312,8,1,14,PB
+RiceSi01,Sidney Rice,WR,2010,24,MIN,NFL,WR,6,5,42,17,280,16.5,2,14,40.5,46,2.8,46.7,40.5,6.7,0,0,0,0,,,,0.0,0.0,17,16.5,280,2,0,2,
+RiceSi01,Sidney Rice,WR,2011,25,SEA,NFL,WR,9,9,57,32,484,15.1,2,19,47.4,52,3.6,53.8,56.1,8.5,2,3,0,0,0.0,3,1.5,0.3,0.2,34,14.3,487,2,1,4,
+RiceSi01,Sidney Rice,WR,2012,26,SEA,NFL,WR,16,16,82,50,748,15.0,7,38,56.1,46,3.1,46.8,61.0,9.1,2,6,0,0,0.0,3,3.0,0.4,0.1,52,14.5,754,7,0,9,
+RiceSi01,Sidney Rice,WR,2013,27,SEA,NFL,WR,8,6,35,15,231,15.4,3,11,40.0,31,1.9,28.9,42.9,6.6,0,0,0,0,,,,0.0,0.0,15,15.4,231,3,1,2,

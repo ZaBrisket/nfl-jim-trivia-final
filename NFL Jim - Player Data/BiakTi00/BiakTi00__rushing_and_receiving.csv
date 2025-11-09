@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BiakTi00,Tim Biakabutuka,RB,1996,22,CAR,NFL,RB,4,4,71,229,0,10,38.0,17,3.2,57.3,17.8,0,0,0,,0,0,,,0.0,0.0,,,71,3.2,229,0,0,2,
+BiakTi00,Tim Biakabutuka,RB,1997,23,CAR,NFL,RB,8,2,75,299,2,12,45.3,26,4.0,37.4,9.4,3,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,75,4.0,299,2,1,2,
+BiakTi00,Tim Biakabutuka,RB,1998,24,CAR,NFL,RB,10,3,101,427,3,20,48.5,41,4.2,42.7,10.1,10,8,138,17.3,1,5,60.0,42,0.8,13.8,80.0,13.8,109,5.2,565,4,1,4,
+BiakTi00,Tim Biakabutuka,RB,1999,25,CAR,NFL,RB,11,11,138,718,6,27,39.9,67,5.2,65.3,12.5,29,23,189,8.2,0,9,48.3,32,2.1,17.2,79.3,6.5,161,5.6,907,6,3,9,
+BiakTi00,Tim Biakabutuka,RB,2000,26,CAR,NFL,RB,12,11,173,627,2,29,38.7,43,3.6,52.3,14.4,58,34,341,10.0,2,15,46.6,25,2.8,28.4,58.6,5.9,207,4.7,968,4,4,8,
+BiakTi00,Tim Biakabutuka,RB,2001,27,CAR,NFL,RB,5,4,53,230,1,9,41.5,27,4.3,46.0,10.6,17,12,121,10.1,0,3,29.4,47,2.4,24.2,70.6,7.1,65,5.4,351,1,3,3,

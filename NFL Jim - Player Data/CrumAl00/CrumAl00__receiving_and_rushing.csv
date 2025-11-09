@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CrumAl00,Alge Crumpler,TE,2001,24,ATL,NFL,TE,16,12,41,25,330,13.2,3,10,41.5,57,1.6,20.6,61.0,8.0,0,0,0,0,0.0,0.0,25,13.2,330,3,1,3,
+CrumAl00,Alge Crumpler,TE,2002,25,ATL,NFL,TE,16,9,58,36,455,12.6,5,26,51.7,33,2.3,28.4,62.1,7.8,0,0,0,0,0.0,0.0,36,12.6,455,5,0,5,
+CrumAl00,Alge Crumpler,TE,2003,26,ATL,NFL,TE,16,16,80,44,552,12.5,3,27,45.0,63,2.8,34.5,55.0,6.9,0,0,0,0,0.0,0.0,44,12.5,552,3,1,6,PB
+CrumAl00,Alge Crumpler,TE,2004,27,ATL,NFL,TE,14,14,74,48,774,16.1,6,32,56.8,49,3.4,55.3,64.9,10.5,0,0,0,0,0.0,0.0,48,16.1,774,6,1,8,PB
+CrumAl00,Alge Crumpler,TE,2005,28,ATL,NFL,TE,16,16,118,65,877,13.5,5,42,44.1,48,4.1,54.8,55.1,7.4,0,0,0,0,0.0,0.0,65,13.5,877,5,1,10,PB
+CrumAl00,Alge Crumpler,TE,2006,29,ATL,NFL,TE,16,16,103,56,780,13.9,8,37,46.6,46,3.5,48.8,54.4,7.6,0,0,0,0,0.0,0.0,56,13.9,780,8,0,8,PB
+CrumAl00,Alge Crumpler,TE,2007,30,ATL,NFL,TE,14,10,70,42,444,10.6,5,23,50.0,55,3.0,31.7,60.0,6.3,0,0,0,0,0.0,0.0,42,10.6,444,5,0,3,
+CrumAl00,Alge Crumpler,TE,2008,31,TEN,NFL,TE,15,15,41,24,257,10.7,1,11,56.1,28,1.6,17.1,58.5,6.3,0,0,0,0,0.0,0.0,24,10.7,257,1,1,2,
+CrumAl00,Alge Crumpler,TE,2009,32,TEN,NFL,TE,16,14,37,27,222,8.2,1,9,59.5,27,1.7,13.9,73.0,6.0,0,0,0,0,0.0,0.0,27,8.2,222,1,1,2,
+CrumAl00,Alge Crumpler,TE,2010,33,NWE,NFL,TE,16,10,10,6,52,8.7,2,4,50.0,27,0.4,3.3,60.0,5.2,0,0,0,0,0.0,0.0,6,8.7,52,2,0,1,

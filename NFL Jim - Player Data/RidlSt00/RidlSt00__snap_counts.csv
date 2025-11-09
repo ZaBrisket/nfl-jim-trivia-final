@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RidlSt00,Stevan Ridley,RB,2012,23,NWE,RB,22,16,12,550,44%,0,0%,1,0%
+RidlSt00,Stevan Ridley,RB,2013,24,NWE,RB,22,14,6,333,31%,0,0%,0,0%
+RidlSt00,Stevan Ridley,RB,2014,25,NWE,RB,22,6,5,187,43%,0,0%,0,0%
+RidlSt00,Stevan Ridley,RB,2015,26,NYJ,RB,22,8,1,86,16%,0,0%,0,0%
+RidlSt00,Stevan Ridley,RB,2016,27,ATL,RB,33,1,0,3,4%,0,0%,2,8%
+RidlSt00,Stevan Ridley,RB,2017,28,PIT,RB,38,2,1,39,33%,0,0%,0,0%
+RidlSt00,Stevan Ridley,RB,2018,29,PIT,RB,22,10,0,61,9%,0,0%,12,4%

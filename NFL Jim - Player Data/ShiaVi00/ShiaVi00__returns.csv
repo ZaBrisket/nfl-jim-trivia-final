@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ShiaVi00,Visanthe Shiancoe,TE,2004,24,NYG,NFL,TE,16,7,0,0,0,0,1,8,0,5,8.0,33,
+ShiaVi00,Visanthe Shiancoe,TE,2005,25,NYG,NFL,TE,16,5,0,0,0,0,1,5,0,8,5.0,96,
+ShiaVi00,Visanthe Shiancoe,TE,,,,,,,,,,,,,,,,,,
+ShiaVi00,Visanthe Shiancoe,TE,2007,27,MIN,NFL,TE,16,15,0,0,0,0,1,0,0,0,0.0,323,

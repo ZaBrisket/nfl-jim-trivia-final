@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JennSt00,Stanford Jennings,RB,1984,22,CIN,NFL,RB,15,4,0,0,0,0,22,452,0,46,20.5,1173,
+JennSt00,Stanford Jennings,RB,1985,23,CIN,NFL,RB,16,0,0,0,0,0,13,218,0,26,16.8,411,
+JennSt00,Stanford Jennings,RB,1986,24,CIN,NFL,RB,16,0,0,0,0,0,12,257,0,41,21.4,397,
+JennSt00,Stanford Jennings,RB,1987,25,CIN,NFL,RB,12,5,0,0,0,0,2,32,0,18,16.0,623,
+JennSt00,Stanford Jennings,RB,1988,26,CIN,NFL,RB,16,1,0,0,0,0,32,684,1,98,21.4,806,
+JennSt00,Stanford Jennings,RB,1989,27,CIN,NFL,FB,16,6,0,0,0,0,26,525,0,33,20.2,937,
+JennSt00,Stanford Jennings,RB,1990,28,CIN,NFL,RB,16,0,0,0,0,0,29,584,0,33,20.1,653,
+JennSt00,Stanford Jennings,RB,1991,29,NOR,NFL,RB,5,0,0,0,0,0,12,213,0,24,17.8,213,

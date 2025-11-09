@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+EasoTo00,Tony Eason,QB,1983,24,NWE,NFL,QB,16,4,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1984,25,NWE,NFL,QB,16,13,0,0,0,0,0,7,2,-5,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1985,26,NWE,NFL,QB,16,10,0,0,0,0,0,4,1,-19,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1986,27,NWE,NFL,QB,15,14,0,0,0,0,0,4,3,0,0,0.0,0,0,0,0,AP MVP-6
+EasoTo00,Tony Eason,QB,1987,28,NWE,NFL,QB,4,3,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1988,29,NWE,NFL,QB,2,2,0,0,0,0,0,0,1,2,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1989,30,2TM,NFL,QB,5,5,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1989,30,NWE,NFL,QB,3,3,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1989,30,NYJ,NFL,QB,2,2,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+EasoTo00,Tony Eason,QB,1990,31,NYJ,NFL,QB,16,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,

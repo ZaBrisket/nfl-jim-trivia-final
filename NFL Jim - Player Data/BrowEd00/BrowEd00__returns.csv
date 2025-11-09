@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrowEd00,Eddie Brown,WR,1985,23,CIN,NFL,WR,16,16,0,0,0,0,,1,6,0,6,6.0,1077,AP ORoY-1
+BrowEd00,Eddie Brown,WR,,,,,,,,,,,,,,,,,,,
+BrowEd00,Eddie Brown,WR,1988,26,CIN,NFL,WR,16,16,10,48,0,13,4.8,0,0,0,0,,1316,"PB,AP-2,AP OPoY-4"

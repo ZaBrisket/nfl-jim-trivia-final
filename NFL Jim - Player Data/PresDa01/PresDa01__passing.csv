@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+PresDa01,Dak Prescott,QB,2016,23,DAL,NFL,QB,16,16,13-3-0,311,459,67.8,3667,23,5.0,4,0.9,185,52.3,83,8.0,8.60,11.8,229.2,104.9,77.6,25,143,5.17,7.28,7.86,5,5,15,"PB,AP MVP-6,AP ORoY-1"
+PresDa01,Dak Prescott,QB,2017,24,DAL,NFL,QB,16,16,9-7-0,308,490,62.9,3324,22,4.5,13,2.7,162,43.3,81,6.8,6.49,10.8,207.8,86.6,70.0,32,185,6.13,6.01,5.74,0,4,13,
+PresDa01,Dak Prescott,QB,2018,25,DAL,NFL,QB,16,16,10-6-0,356,526,67.7,3885,22,4.2,8,1.5,184,45.2,90,7.4,7.54,10.9,242.8,96.9,55.2,56,347,9.62,6.08,6.22,3,5,14,PB
+PresDa01,Dak Prescott,QB,2019,26,DAL,NFL,QB,16,16,8-8-0,388,596,65.1,4902,30,5.0,11,1.8,229,52.3,62,8.2,8.40,12.6,306.4,99.7,71.9,23,151,3.72,7.68,7.84,0,0,15,
+PresDa01,Dak Prescott,QB,2020,27,DAL,NFL,QB,5,5,2-3-0,151,222,68.0,1856,9,4.1,4,1.8,93,56.0,58,8.4,8.36,12.3,371.2,99.6,73.1,10,66,4.31,7.72,7.72,1,1,6,
+PresDa01,Dak Prescott,QB,2021,28,DAL,NFL,QB,16,16,11-5-0,410,596,68.8,4449,37,6.2,10,1.7,227,51.4,51,7.5,7.95,10.9,278.1,104.2,60.5,30,144,4.79,6.88,7.34,1,2,14,AP CPoY-2
+PresDa01,Dak Prescott,QB,2022,29,DAL,NFL,QB,12,12,8-4-0,261,394,66.2,2860,23,5.8,15,3.8,142,51.7,68,7.3,6.71,11.0,238.3,91.1,59.9,20,126,4.83,6.60,6.08,2,2,11,
+PresDa01,Dak Prescott,QB,2023,30,DAL,NFL,QB,17,17,12-5-0,410,590,69.5,4516,36,6.1,9,1.5,222,51.5,92,7.7,8.19,11.0,265.6,105.9,73.4,39,255,6.20,6.77,7.28,2,3,19,"PB,AP-2,AP MVP-2,AP OPoY-5"
+PresDa01,Dak Prescott,QB,2024,31,DAL,NFL,QB,8,8,3-5-0,185,286,64.7,1978,11,3.8,8,2.8,87,45.3,65,6.9,6.43,10.7,247.3,86.0,41.9,21,112,6.84,6.08,5.62,1,1,5,
+PresDa01,Dak Prescott,QB,2025,32,DAL,NFL,QB,9,9,3-5-1,228,329,69.3,2319,17,5.2,6,1.8,114,47.7,74,7.0,7.26,10.2,257.7,98.8,75.2,15,98,4.36,6.46,6.66,2,1,,

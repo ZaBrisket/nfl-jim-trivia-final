@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HarrIk00,Ike Harris,WR,1975,23,STL,NFL,WR,14,5,,15,266,17.7,0,,,36,1.1,19.0,,,0,0,0,,,,,0.0,0.0,15,17.7,266,0,0,4,
+HarrIk00,Ike Harris,WR,1976,24,STL,NFL,WR,12,12,,52,782,15.0,1,,,40,4.3,65.2,,,0,0,0,,,,,0.0,0.0,52,15.0,782,1,0,9,
+HarrIk00,Ike Harris,WR,1977,25,STL,NFL,WR,14,14,,40,547,13.7,3,,,38,2.9,39.1,,,0,0,0,,,,,0.0,0.0,40,13.7,547,3,0,7,
+HarrIk00,Ike Harris,WR,1978,26,NOR,NFL,WR,15,15,89,40,590,14.8,4,31,41.6,45,2.7,39.3,44.9,6.6,2,22,0,1,50.0,22,11.0,1.5,0.1,42,14.6,612,4,1,6,
+HarrIk00,Ike Harris,WR,1979,27,NOR,NFL,WR,14,14,70,25,395,15.8,2,16,31.4,42,1.8,28.2,35.7,5.6,2,9,0,1,50.0,16,4.5,0.6,0.1,27,15.0,404,2,0,5,
+HarrIk00,Ike Harris,WR,1980,28,NOR,NFL,WR,16,16,101,37,692,18.7,6,30,32.7,44,2.3,43.3,36.6,6.9,0,0,0,0,,,,0.0,0.0,37,18.7,692,6,0,5,
+HarrIk00,Ike Harris,WR,1981,29,NOR,NFL,WR,3,3,15,2,33,16.5,0,2,13.3,20,0.7,11.0,13.3,2.2,0,0,0,0,,,,0.0,0.0,2,16.5,33,0,0,0,

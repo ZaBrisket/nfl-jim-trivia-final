@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FernMe00,Mervyn Fernandez,WR,1987,28,RAI,NFL,WR,7,7,47,14,236,16.9,0,11,29.8,47,2.0,33.7,29.8,5.0,0,0,0,0,,,,0.0,0.0,14,16.9,236,0,1,2,
+FernMe00,Mervyn Fernandez,WR,1988,29,RAI,NFL,WR,16,1,64,31,805,26.0,4,30,48.4,85,1.9,50.3,48.4,12.6,1,9,0,0,100.0,9,9.0,0.6,0.1,32,25.4,814,4,0,7,
+FernMe00,Mervyn Fernandez,WR,1989,30,RAI,NFL,WR,16,13,117,57,1069,18.8,9,48,46.2,75,3.6,66.8,48.7,9.1,2,16,0,1,100.0,12,8.0,1.0,0.1,59,18.4,1085,9,3,10,
+FernMe00,Mervyn Fernandez,WR,1990,31,RAI,NFL,WR,16,15,95,52,839,16.1,5,39,51.6,66,3.3,52.4,54.7,8.8,3,10,0,0,33.3,9,3.3,0.6,0.2,55,15.4,849,5,0,10,
+FernMe00,Mervyn Fernandez,WR,1991,32,RAI,NFL,WR,16,13,88,46,694,15.1,1,31,46.6,59,2.9,43.4,52.3,7.9,0,0,0,0,,,,0.0,0.0,46,15.1,694,1,0,8,
+FernMe00,Mervyn Fernandez,WR,1992,33,RAI,NFL,WR,15,1,22,9,121,13.4,0,7,36.4,21,0.6,8.1,40.9,5.5,0,0,0,0,,,,0.0,0.0,9,13.4,121,0,0,1,

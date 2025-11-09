@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MartTo00,Tony Martin,WR,1990,25,MIA,NFL,WR,2,0,7,5,51,10.2,1,4,71.4,14,2.5,25.5,71.4,7.3,0,0,0,0,,,,0.0,0.0,5,10.2,51,1,0,
+MartTo00,Tony Martin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MartTo00,Tony Martin,WR,1992,27,MIA,NFL,WR,2,0,7,3,55,18.3,0,3,42.9,22,1.5,27.5,42.9,7.9,0,0,0,0,,,,0.0,0.0,3,18.3,55,0,0,
+MartTo00,Tony Martin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MartTo00,Tony Martin,WR,1994,29,SDG,NFL,WR,3,0,22,9,164,18.2,2,9,40.9,43,3.0,54.7,40.9,7.5,0,0,0,0,,,,0.0,0.0,9,18.2,164,2,0,
+MartTo00,Tony Martin,WR,1995,30,SDG,NFL,WR,1,1,10,3,39,13.0,0,3,30.0,18,3.0,39.0,30.0,3.9,0,0,0,0,,,,0.0,0.0,3,13.0,39,0,0,
+MartTo00,Tony Martin,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MartTo00,Tony Martin,WR,1998,33,ATL,NFL,WR,3,3,22,14,271,19.4,0,13,59.1,70,4.7,90.3,63.6,12.3,0,0,0,0,,,,0.0,0.0,14,19.4,271,0,0,
+MartTo00,Tony Martin,WR,1999,34,MIA,NFL,WR,2,2,17,5,70,14.0,0,3,23.5,23,2.5,35.0,29.4,4.1,0,0,0,0,,,,0.0,0.0,5,14.0,70,0,0,
+MartTo00,Tony Martin,WR,2000,35,MIA,NFL,WR,2,2,10,4,48,12.0,0,3,40.0,15,2.0,24.0,40.0,4.8,1,6,0,0,100.0,6,6.0,3.0,0.5,5,10.8,54,0,0,

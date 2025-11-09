@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ShahRa00,Rashid Shaheed,WR,2022,24,NOR,NFL,WR,12,6,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.5,
+ShahRa00,Rashid Shaheed,WR,2023,25,NOR,NFL,WR,15,8,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,36,2.4,"PB,AP-1"
+ShahRa00,Rashid Shaheed,WR,2024,26,NOR,NFL,WR,6,5,0,3,1,0,0,0,0,4,0,0,0,0,0,0,0,24,4.0,
+ShahRa00,Rashid Shaheed,WR,2025,27,NOR,NFL,WR,9,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.3,

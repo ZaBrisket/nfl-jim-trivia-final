@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+JennRa00,Rashad Jennings,RB,2012,27,JAX,NFL,RB,10,6,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0,
+JennRa00,Rashad Jennings,RB,2013,28,OAK,NFL,RB,15,8,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,
+JennRa00,Rashad Jennings,RB,2014,29,NYG,NFL,RB,11,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+JennRa00,Rashad Jennings,RB,2015,30,NYG,NFL,RB,16,16,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,1,
+JennRa00,Rashad Jennings,RB,2016,31,NYG,NFL,RB,13,12,0,0,0,0,0,0,1,1,4,0,0.0,0,0,0,0,0,0,

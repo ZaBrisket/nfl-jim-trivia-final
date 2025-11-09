@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JacoJo01,Josh Jacobs,RB,2019,21,OAK,RB,28,13,13,460,56%,0,0%,0,0%
+JacoJo01,Josh Jacobs,RB,2020*,22,LVR,RB,28,15,15,617,61%,0,0%,0,0%
+JacoJo01,Josh Jacobs,RB,2021,23,LVR,RB,28,15,14,625,63%,0,0%,3,1%
+JacoJo01,Josh Jacobs,RB,2022*+,24,LVR,RB,28,17,17,821,75%,0,0%,0,0%
+JacoJo01,Josh Jacobs,RB,2023,25,LVR,RB,8,13,13,600,76%,0,0%,0,0%
+JacoJo01,Josh Jacobs,RB,2024*,26,GNB,RB,8,17,17,678,63%,0,0%,2,1%
+JacoJo01,Josh Jacobs,RB,2025,27,GNB,RB,8,8,8,343,67%,0,0%,3,1%

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+McClLe00,Le'Ron McClain,RB,2008,24,BAL,NFL,FB,3,3,0,0,0,0,1,23,0,23,23.0,113,
+McClLe00,Le'Ron McClain,RB,2009,25,BAL,NFL,FB,2,2,0,0,0,0,1,9,0,9,9.0,16,
+McClLe00,Le'Ron McClain,RB,2010,26,BAL,NFL,FB,2,0,0,0,0,0,2,22,0,12,11.0,23,

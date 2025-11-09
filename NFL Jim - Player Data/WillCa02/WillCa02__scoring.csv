@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WillCa02,Cadillac Williams,RB,2005,23,TAM,NFL,RB,14,14,6,0,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,AP ORoY-1
+WillCa02,Cadillac Williams,RB,2006,24,TAM,NFL,RB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+WillCa02,Cadillac Williams,RB,2007,25,TAM,NFL,RB,4,4,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,4.5,
+WillCa02,Cadillac Williams,RB,2008,26,TAM,NFL,RB,6,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,4.0,
+WillCa02,Cadillac Williams,RB,2009,27,TAM,NFL,RB,16,15,4,3,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,AP CPoY-2
+WillCa02,Cadillac Williams,RB,2010,28,TAM,NFL,RB,16,9,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+WillCa02,Cadillac Williams,RB,2011,29,STL,NFL,RB,11,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

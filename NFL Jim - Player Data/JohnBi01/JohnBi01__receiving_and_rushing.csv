@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JohnBi01,Billy Johnson,WR,1974,22,HOU,NFL,WR,14,5,,29,388,13.4,2,,,44,2.1,27.7,,,5,82,1,,,47,16.4,5.9,0.4,34,13.8,470,3,1,6,
+JohnBi01,Billy Johnson,WR,1975,23,HOU,NFL,WR,14,14,,37,393,10.6,1,,,30,2.6,28.1,,,5,17,0,,,19,3.4,1.2,0.4,42,9.8,410,1,5,9,PB
+JohnBi01,Billy Johnson,WR,1976,24,HOU,NFL,WR,14,13,,47,495,10.5,4,,,40,3.4,35.4,,,6,6,0,,,10,1.0,0.4,0.4,53,9.5,501,4,3,5,
+JohnBi01,Billy Johnson,WR,1977,25,HOU,NFL,WR,14,0,,20,412,20.6,3,,,71,1.4,29.4,,,6,102,1,,,61,17.0,7.3,0.4,26,19.8,514,4,2,10,"PB,AP-1"
+JohnBi01,Billy Johnson,WR,1978,26,HOU,NFL,WR,5,0,5,1,10,10.0,0,0,0.0,10,0.2,2.0,20.0,2.0,0,0,0,0,,,,0.0,0.0,1,10.0,10,0,0,0,
+JohnBi01,Billy Johnson,WR,1979,27,HOU,NFL,WR,2,2,11,6,108,18.0,1,5,54.5,29,3.0,54.0,54.5,9.8,0,0,0,0,,,,0.0,0.0,6,18.0,108,1,0,1,
+JohnBi01,Billy Johnson,WR,1980,28,HOU,NFL,WR,16,7,67,31,343,11.1,2,16,29.9,57,1.9,21.4,46.3,5.1,2,1,0,0,50.0,4,0.5,0.1,0.1,33,10.4,344,2,1,3,
+JohnBi01,Billy Johnson,WR,1981,,Did not play - Montreal Alouettes (Canadian Football League),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JohnBi01,Billy Johnson,WR,1982,30,ATL,NFL,WR,9,0,3,2,11,5.5,0,0,0.0,6,0.2,1.2,66.7,3.7,0,0,0,0,,,,0.0,0.0,2,5.5,11,0,1,0,
+JohnBi01,Billy Johnson,WR,1983,31,ATL,NFL,WR,16,1,83,64,709,11.1,4,33,55.4,47,4.0,44.3,77.1,8.5,15,83,0,2,33.3,36,5.5,5.2,0.9,79,10.0,792,4,4,8,"PB,AP-2"
+JohnBi01,Billy Johnson,WR,1984,32,ATL,NFL,WR,6,0,29,24,371,15.5,3,16,69.0,45,4.0,61.8,82.8,12.8,3,8,0,1,33.3,11,2.7,1.3,0.5,27,14.0,379,3,1,3,
+JohnBi01,Billy Johnson,WR,1985,33,ATL,NFL,WR,16,8,108,62,830,13.4,5,36,47.2,62,3.9,51.9,57.4,7.7,8,-8,0,1,12.5,6,-1.0,-0.5,0.5,70,11.7,822,5,4,7,
+JohnBi01,Billy Johnson,WR,1986,34,ATL,NFL,WR,4,0,13,6,57,9.5,0,1,7.7,27,1.5,14.3,46.2,4.4,6,25,0,0,16.7,10,4.2,6.3,1.5,12,6.8,82,0,0,1,
+JohnBi01,Billy Johnson,WR,1987,35,ATL,NFL,WR,12,1,16,8,84,10.5,0,4,37.5,19,0.7,7.0,50.0,5.3,0,0,0,0,,,,0.0,0.0,8,10.5,84,0,2,1,
+JohnBi01,Billy Johnson,WR,1988,36,WAS,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PerkJo00,Johnny Perkins,WR,1978,25,NYG,NFL,WR,14,13,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.3,
+PerkJo00,Johnny Perkins,WR,1979,26,NYG,NFL,WR,13,6,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.8,
+PerkJo00,Johnny Perkins,WR,1980,27,NYG,NFL,WR,6,5,0,3,0,0,0,0,0,3,0,0,0,0,0,18,3.0,
+PerkJo00,Johnny Perkins,WR,1981,28,NYG,NFL,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+PerkJo00,Johnny Perkins,WR,1982,29,NYG,NFL,WR,8,7,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.5,

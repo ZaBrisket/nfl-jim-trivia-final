@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+RhodDo00,Dominic Rhodes,RB,2001,22,IND,NFL,RB,15,10,0,0,0,0,14,356,1,88,25.4,1681,AP ORoY-5
+RhodDo00,Dominic Rhodes,RB,2002,,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,
+RhodDo00,Dominic Rhodes,RB,2003,24,IND,NFL,RB,11,0,0,0,0,0,16,411,0,49,25.7,630,
+RhodDo00,Dominic Rhodes,RB,2004,25,IND,NFL,RB,16,0,0,0,0,0,48,1188,1,88,24.8,1466,
+RhodDo00,Dominic Rhodes,RB,2005,26,IND,NFL,RB,13,1,0,0,0,0,41,855,0,39,20.9,1061,
+RhodDo00,Dominic Rhodes,RB,,,,,,,,,,,,,,,,,,
+RhodDo00,Dominic Rhodes,RB,2007,28,OAK,NFL,RB,10,2,0,0,0,0,16,312,0,31,19.5,684,
+RhodDo00,Dominic Rhodes,RB,,,,,,,,,,,,,,,,,,
+RhodDo00,Dominic Rhodes,RB,2010,31,IND,NFL,RB,3,0,0,0,0,0,12,252,0,27,21.0,428,

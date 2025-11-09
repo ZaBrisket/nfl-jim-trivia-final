@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,team_name_abbr,age,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+SmitJi00,Jimmy Smith,WR,1993,Did not play - Injured (appendicitis/complications),,,,,,,,,,,,,,,,,,,,,,
+SmitJi00,Jimmy Smith,WR,1994,Did not play - Out of NFL,,,,,,,,,,,,,,,,,,,,,,
+SmitJi00,Jimmy Smith,WR,1995,JAX,26,NFL,WR,16,4,0,0,0,0,,1,2,1,0,0,0.0,0,0,0,,0,
+SmitJi00,Jimmy Smith,WR,1996,JAX,27,NFL,WR,16,9,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,0,
+SmitJi00,Jimmy Smith,WR,1997,JAX,28,NFL,WR,16,16,0,0,0,0,,0,1,1,0,0,0.0,0,0,0,,0,PB
+SmitJi00,Jimmy Smith,WR,1998,JAX,29,NFL,WR,16,15,0,0,0,0,,0,2,2,0,0,0.0,0,0,0,,0,"PB,AP-2"
+SmitJi00,Jimmy Smith,WR,1999,JAX,30,NFL,WR,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,"PB,AP-2"
+SmitJi00,Jimmy Smith,WR,2000,JAX,31,NFL,WR,15,14,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,PB
+SmitJi00,Jimmy Smith,WR,2001,JAX,32,NFL,WR,16,16,0,0,0,0,0,0,1,1,0,0,0.0,,,,,0,"PB,AP CPoY-2"
+SmitJi00,Jimmy Smith,WR,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJi00,Jimmy Smith,WR,2003,JAX,34,NFL,WR,12,12,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,
+SmitJi00,Jimmy Smith,WR,2004,JAX,35,NFL,WR,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,

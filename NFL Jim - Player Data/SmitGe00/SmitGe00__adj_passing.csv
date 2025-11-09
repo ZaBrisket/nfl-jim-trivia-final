@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+SmitGe00,Geno Smith,QB,2013,23,NYJ,NFL,QB,16,16,94,86,79,76,78,81,63,80,73,
+SmitGe00,Geno Smith,QB,2014,24,NYJ,NFL,QB,14,13,93,92,87,87,89,89,83,94,85,
+SmitGe00,Geno Smith,QB,,,,,,,,,,,,,,,,,
+SmitGe00,Geno Smith,QB,2021,31,SEA,NFL,QB,4,3,105,83,113,97,115,107,124,59,115,
+SmitGe00,Geno Smith,QB,2022,32,SEA,NFL,QB,17,17,110,104,113,108,124,111,108,93,117,"PB,AP MVP-9,AP CPoY-1"
+SmitGe00,Geno Smith,QB,2023,33,SEA,NFL,QB,15,15,105,106,107,108,102,99,111,107,105,PB
+SmitGe00,Geno Smith,QB,2024,34,SEA,NFL,QB,17,17,108,104,102,99,122,92,93,93,104,
+SmitGe00,Geno Smith,QB,2025,35,LVR,NFL,QB,9,9,96,91,84,81,104,95,62,86,86,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MorrJo00,Joe Morris,RB,1983,23,NYG,NFL,RB,15,0,0,0,0,0,14,255,0,26,18.2,401,
+MorrJo00,Joe Morris,RB,1984,24,NYG,NFL,RB,16,8,0,0,0,0,6,69,0,14,11.5,703,
+MorrJo00,Joe Morris,RB,1985,25,NYG,NFL,RB,16,16,0,0,0,0,2,25,0,18,12.5,1573,PB
+MorrJo00,Joe Morris,RB,,,,,,,,,,,,,,,,,,
+MorrJo00,Joe Morris,RB,1991,31,CLE,NFL,RB,16,4,0,0,0,0,18,310,0,36,17.2,675,

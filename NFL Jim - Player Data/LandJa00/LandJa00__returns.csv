@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+LandJa00,Jarvis Landry,WR,2014,22,MIA,NFL,WR,16,11,25,204,0,32,8.2,34,954,0,74,28.1,1912,
+LandJa00,Jarvis Landry,WR,2015,23,MIA,NFL,WR,16,14,36,356,1,69,9.9,13,321,0,50,24.7,1947,PB
+LandJa00,Jarvis Landry,WR,2016,24,MIA,NFL,WR,16,16,16,163,0,20,10.2,0,0,0,0,,1316,PB
+LandJa00,Jarvis Landry,WR,2017,25,MIA,NFL,WR,16,16,12,81,0,16,6.8,0,-5,0,-5,,1056,PB
+LandJa00,Jarvis Landry,WR,2018,26,CLE,NFL,WR,16,14,2,10,0,8,5.0,2,22,0,14,11.0,1068,PB
+LandJa00,Jarvis Landry,WR,2019,27,CLE,NFL,WR,16,16,5,53,0,18,10.6,0,0,0,0,,1237,PB
+LandJa00,Jarvis Landry,WR,,,,,,,,,,,,,,,,,,,
+LandJa00,Jarvis Landry,WR,2022,30,NOR,NFL,WR,9,3,2,17,0,14,8.5,0,0,0,0,,295,

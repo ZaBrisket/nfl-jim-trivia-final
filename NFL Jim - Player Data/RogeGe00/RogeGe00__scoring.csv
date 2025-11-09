@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RogeGe00,George Rogers,RB,1981,23,NOR,NFL,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,78,4.9,"PB,AP-1,AP MVP-6,AP OPoY-4,AP ORoY-1"
+RogeGe00,George Rogers,RB,1982,24,NOR,NFL,RB,6,5,3,0,0,0,0,0,0,3,0,0,0,0,0,18,3.0,PB
+RogeGe00,George Rogers,RB,1983,25,NOR,NFL,RB,13,12,5,0,0,0,0,0,0,5,0,0,0,0,0,30,2.3,
+RogeGe00,George Rogers,RB,1984,26,NOR,NFL,RB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+RogeGe00,George Rogers,RB,1985,27,WAS,NFL,RB,15,5,7,0,0,0,0,0,0,7,0,0,0,0,0,42,2.8,
+RogeGe00,George Rogers,RB,1986,28,WAS,NFL,RB,15,15,18,0,0,0,0,0,0,18,0,0,0,0,0,108,7.2,
+RogeGe00,George Rogers,RB,1987,29,WAS,NFL,RB,11,9,6,0,0,0,0,0,0,6,0,0,0,0,0,36,3.3,

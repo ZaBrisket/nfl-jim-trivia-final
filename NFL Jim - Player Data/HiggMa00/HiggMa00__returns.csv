@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HiggMa00,Mark Higgs,RB,1988,22,DAL,NFL,RB,5,0,0,0,0,0,2,31,0,17,15.5,31,
+HiggMa00,Mark Higgs,RB,1989,23,PHI,NFL,RB,15,1,0,0,0,0,16,293,0,30,18.3,486,
+HiggMa00,Mark Higgs,RB,1990,24,MIA,NFL,RB,12,0,0,0,0,0,10,210,0,30,21.0,277,
+HiggMa00,Mark Higgs,RB,,,,,,,,,,,,,,,,,,
+HiggMa00,Mark Higgs,RB,1994,28,2TM,NFL,RB,11,1,0,0,0,0,2,25,0,17,12.5,220,
+HiggMa00,Mark Higgs,RB,1994,28,ARI,NFL,RB,6,0,0,0,0,0,2,25,0,17,12.5,152,
+HiggMa00,Mark Higgs,RB,1995,29,ARI,NFL,RB,1,0,0,0,0,0,2,26,0,17,13.0,26,

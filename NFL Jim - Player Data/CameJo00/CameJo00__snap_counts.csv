@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CameJo00,Jordan Cameron,TE,2012,24,CLE,TE,84,14,6,329,36%,0,0%,86,21%
+CameJo00,Jordan Cameron,TE,2013*,25,CLE,TE,84,15,14,969,93%,0,0%,2,0%
+CameJo00,Jordan Cameron,TE,2014,26,CLE,TE,84,10,9,476,78%,0,0%,1,0%
+CameJo00,Jordan Cameron,TE,2015,27,MIA,TE,84,16,16,743,72%,0,0%,6,1%
+CameJo00,Jordan Cameron,TE,2016,28,MIA,TE,84,3,3,98,53%,0,0%,0,0%

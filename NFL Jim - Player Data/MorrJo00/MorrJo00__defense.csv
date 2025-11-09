@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+MorrJo00,Joe Morris,RB,1982,22,NYG,NFL,RB,5,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+MorrJo00,Joe Morris,RB,1983,23,NYG,NFL,RB,15,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+MorrJo00,Joe Morris,RB,1984,24,NYG,NFL,RB,16,8,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+MorrJo00,Joe Morris,RB,1985,25,NYG,NFL,RB,16,16,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,PB
+MorrJo00,Joe Morris,RB,1986,26,NYG,NFL,RB,15,15,0,0,0,0,0,6,2,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-4,AP OPoY-4"
+MorrJo00,Joe Morris,RB,1987,27,NYG,NFL,RB,11,10,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+MorrJo00,Joe Morris,RB,1988,28,NYG,NFL,RB,16,15,0,0,0,0,0,7,1,0,0,0.0,0,0,0,0,
+MorrJo00,Joe Morris,RB,1989,,Did not play - Injured (foot),,,,,,,,,,,,,,,,,,,
+MorrJo00,Joe Morris,RB,1991,31,CLE,NFL,RB,16,4,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CarrDe02,Derek Carr,QB,2014,23,OAK,NFL,QB,16,16,29,92,0,12,37.9,41,3.2,5.8,1.8,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,29,3.2,92,0,10,
+CarrDe02,Derek Carr,QB,2015,24,OAK,NFL,QB,16,16,33,138,0,8,39.4,24,4.2,8.6,2.1,0,0,0,,0,0,,,0.0,0.0,,,33,4.2,138,0,10,PB
+CarrDe02,Derek Carr,QB,2016,25,OAK,NFL,QB,15,15,39,70,0,5,30.8,13,1.8,4.7,2.6,0,0,0,,0,0,,,0.0,0.0,,,39,1.8,70,0,5,"PB,AP MVP-3,AP OPoY-6"
+CarrDe02,Derek Carr,QB,2017,26,OAK,NFL,QB,15,15,23,66,0,5,26.1,32,2.9,4.4,1.5,0,0,0,,0,0,,,0.0,0.0,,,23,2.9,66,0,8,PB
+CarrDe02,Derek Carr,QB,2018,27,OAK,NFL,QB,16,16,24,47,1,5,29.2,15,2.0,2.9,1.5,1,1,-9,-9.0,0,0,0.0,-9,0.1,-0.6,100.0,-9.0,25,1.5,38,1,12,
+CarrDe02,Derek Carr,QB,2019,28,OAK,NFL,QB,16,16,27,82,2,7,33.3,15,3.0,5.1,1.7,0,0,0,,0,0,,,0.0,0.0,,,27,3.0,82,2,7,
+CarrDe02,Derek Carr,QB,2020,29,LVR,NFL,QB,16,16,39,140,3,16,53.8,18,3.6,8.8,2.4,0,0,0,,0,0,,,0.0,0.0,,,39,3.6,140,3,11,
+CarrDe02,Derek Carr,QB,2021,30,LVR,NFL,QB,17,17,40,108,0,9,40.0,22,2.7,6.4,2.4,0,0,0,,0,0,,,0.0,0.0,,,40,2.7,108,0,13,
+CarrDe02,Derek Carr,QB,2022,31,LVR,NFL,QB,15,15,24,102,0,10,50.0,20,4.3,6.8,1.6,0,0,0,,0,0,,,0.0,0.0,,,24,4.3,102,0,4,PB
+CarrDe02,Derek Carr,QB,2023,32,NOR,NFL,QB,17,17,32,40,0,4,25.0,10,1.3,2.4,1.9,0,0,0,,0,0,,,0.0,0.0,,,32,1.3,40,0,7,
+CarrDe02,Derek Carr,QB,2024,33,NOR,NFL,QB,10,10,17,71,1,4,52.9,13,4.2,7.1,1.7,0,0,0,,0,0,,,0.0,0.0,,,17,4.2,71,1,3,

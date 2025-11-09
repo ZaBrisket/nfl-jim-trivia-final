@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CurrRo01,Ronald Curry,WR,2002,23,OAK,NFL,WR,1,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,,,,0.0,0.0,0,,0,0,1,0,
+CurrRo01,Ronald Curry,WR,2003,24,OAK,NFL,WR,16,2,10,5,31,6.2,0,1,40.0,16,0.3,1.9,50.0,3.1,1,0,0,0,0.0,,0.0,0.0,0.1,6,5.2,31,0,1,0,
+CurrRo01,Ronald Curry,WR,2004,25,OAK,NFL,WR,12,3,70,50,679,13.6,6,32,64.3,63,4.2,56.6,71.4,9.7,1,-3,0,0,0.0,-3,-3.0,-0.3,0.1,51,13.3,676,6,1,6,
+CurrRo01,Ronald Curry,WR,2005,26,OAK,NFL,WR,2,0,2,2,12,6.0,0,1,50.0,8,1.0,6.0,100.0,6.0,0,0,0,0,,,,0.0,0.0,2,6.0,12,0,0,0,
+CurrRo01,Ronald Curry,WR,2006,27,OAK,NFL,WR,16,4,89,62,727,11.7,1,40,57.3,39,3.9,45.4,69.7,8.2,1,4,0,0,100.0,4,4.0,0.3,0.1,63,11.6,731,1,0,4,
+CurrRo01,Ronald Curry,WR,2007,28,OAK,NFL,WR,16,13,97,55,717,13.0,4,35,47.4,49,3.4,44.8,56.7,7.4,1,1,0,0,0.0,1,1.0,0.1,0.1,56,12.8,718,4,0,6,
+CurrRo01,Ronald Curry,WR,2008,29,OAK,NFL,WR,13,10,48,19,181,9.5,2,14,31.3,16,1.5,13.9,39.6,3.8,1,1,0,0,0.0,1,1.0,0.1,0.1,20,9.1,182,2,0,1,

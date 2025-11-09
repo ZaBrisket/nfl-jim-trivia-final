@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+JohnKe06,Kerryon Johnson,RB,2018,21,DET,NFL,RB,10,7,118,641,32,376,3.2,265,2.2,14,8.4,39,32,213,11,-54,-1.7,267,8.3,-0.6,4,8.0,0,0.0,0,98.0,
+JohnKe06,Kerryon Johnson,RB,2019,22,DET,NFL,RB,8,7,113,403,22,177,1.6,226,2.0,8,14.1,15,10,127,7,11,1.1,116,11.6,4.6,2,5.0,2,13.3,0,115.1,
+JohnKe06,Kerryon Johnson,RB,2020,23,DET,NFL,RB,16,2,52,181,9,116,2.2,65,1.3,3,17.3,26,19,187,11,4,0.2,183,9.6,-0.1,1,19.0,2,7.7,0,105.8,

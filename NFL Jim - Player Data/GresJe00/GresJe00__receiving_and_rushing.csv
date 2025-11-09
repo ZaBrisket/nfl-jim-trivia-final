@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GresJe00,Jermaine Gresham,TE,2010,22,CIN,NFL,TE,15,10,83,52,471,9.1,4,26,50.6,27,3.5,31.4,62.7,5.7,0,0,0,0,0.0,0.0,52,9.1,471,4,2,4,
+GresJe00,Jermaine Gresham,TE,2011,23,CIN,NFL,TE,14,13,92,56,596,10.6,6,29,44.6,31,4.0,42.6,60.9,6.5,0,0,0,0,0.0,0.0,56,10.6,596,6,1,5,PB
+GresJe00,Jermaine Gresham,TE,2012,24,CIN,NFL,TE,16,15,94,64,737,11.5,5,33,51.1,55,4.0,46.1,68.1,7.8,0,0,0,0,0.0,0.0,64,11.5,737,5,2,7,PB
+GresJe00,Jermaine Gresham,TE,2013,25,CIN,NFL,TE,14,14,68,46,458,10.0,4,24,52.9,30,3.3,32.7,67.6,6.7,0,0,0,0,0.0,0.0,46,10.0,458,4,3,4,
+GresJe00,Jermaine Gresham,TE,2014,26,CIN,NFL,TE,15,15,79,62,460,7.4,5,24,53.2,23,4.1,30.7,78.5,5.8,0,0,0,0,0.0,0.0,62,7.4,460,5,3,4,
+GresJe00,Jermaine Gresham,TE,2015,27,ARI,NFL,TE,15,12,32,18,223,12.4,1,13,53.1,22,1.2,14.9,56.3,7.0,0,0,0,0,0.0,0.0,18,12.4,223,1,0,2,
+GresJe00,Jermaine Gresham,TE,2016,28,ARI,NFL,TE,16,14,61,37,391,10.6,2,19,50.8,34,2.3,24.4,60.7,6.4,0,0,0,0,0.0,0.0,37,10.6,391,2,1,3,
+GresJe00,Jermaine Gresham,TE,2017,29,ARI,NFL,TE,14,14,46,33,322,9.8,2,17,54.3,21,2.4,23.0,71.7,7.0,0,0,0,0,0.0,0.0,33,9.8,322,2,0,2,
+GresJe00,Jermaine Gresham,TE,2018,30,ARI,NFL,TE,13,11,12,9,94,10.4,0,6,58.3,26,0.7,7.2,75.0,7.8,0,0,0,0,0.0,0.0,9,10.4,94,0,1,1,

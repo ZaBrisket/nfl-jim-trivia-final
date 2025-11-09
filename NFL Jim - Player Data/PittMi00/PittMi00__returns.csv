@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PittMi00,Michael Pittman,RB,1998,23,ARI,NFL,RB,15,0,0,0,0,0,,4,84,0,22,21.0,175,
+PittMi00,Michael Pittman,RB,1999,24,ARI,NFL,RB,10,2,4,16,0,7,4.0,2,31,0,22,15.5,532,
+PittMi00,Michael Pittman,RB,,,,,,,,,,,,,,,,,,,
+PittMi00,Michael Pittman,RB,2001,26,ARI,NFL,RB,15,14,0,0,0,0,,6,161,0,44,26.8,1271,
+PittMi00,Michael Pittman,RB,,,,,,,,,,,,,,,,,,,
+PittMi00,Michael Pittman,RB,2005,30,TAM,NFL,RB,16,4,0,0,0,0,,3,85,0,37,28.3,821,
+PittMi00,Michael Pittman,RB,2006,31,TAM,NFL,RB,16,3,0,0,0,0,,39,867,0,37,22.2,1517,

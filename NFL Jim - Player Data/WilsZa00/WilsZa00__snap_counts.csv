@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WilsZa00,Zach Wilson,QB,2021,22,NYJ,QB,2,13,13,741,94%,0,0%,0,0%
+WilsZa00,Zach Wilson,QB,2022,23,NYJ,QB,2,9,9,504,94%,0,0%,0,0%
+WilsZa00,Zach Wilson,QB,2023,24,NYJ,QB,2,12,11,688,92%,0,0%,0,0%
+WilsZa00,Zach Wilson,QB,2025,26,MIA,QB,0,2,0,16,14%,0,0%,0,0%

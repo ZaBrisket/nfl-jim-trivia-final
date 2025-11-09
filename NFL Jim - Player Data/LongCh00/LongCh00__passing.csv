@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+LongCh00,Chuck Long,QB,1986,23,DET,NFL,QB,3,2,0-2-0,21,40,52.5,247,2,5.0,2,5.0,13,31.3,34,6.2,4.93,11.8,82.3,67.4,8,69,16.67,3.71,2.67,0,0,1,
+LongCh00,Chuck Long,QB,1987,24,DET,NFL,QB,12,12,3-9-0,232,416,55.8,2598,11,2.6,20,4.8,129,43.6,53,6.2,4.61,11.2,216.5,63.4,17,127,3.93,5.71,4.14,0,1,7,
+LongCh00,Chuck Long,QB,1988,25,DET,NFL,QB,7,7,1-6-0,75,141,53.2,856,6,4.3,6,4.3,48,38.4,40,6.1,5.01,11.4,122.3,68.2,18,134,11.32,4.54,3.60,0,0,3,
+LongCh00,Chuck Long,QB,1989,26,DET,NFL,QB,1,0,,2,5,40.0,42,0,0.0,0,0.0,2,40.0,37,8.4,8.40,21.0,42.0,70.4,0,0,0.00,8.40,8.40,0,0,0,
+LongCh00,Chuck Long,QB,1990,27,RAM,NFL,QB,4,0,,1,5,20.0,4,0,0.0,0,0.0,0,,4,0.8,0.80,4.0,1.0,39.6,0,0,0.00,0.80,0.80,0,0,0,
+LongCh00,Chuck Long,QB,1991,28,DET,NFL,QB,0,0,,0,0,,0,0,,0,,0,,,,,,,,0,0,,,,0,0,0,

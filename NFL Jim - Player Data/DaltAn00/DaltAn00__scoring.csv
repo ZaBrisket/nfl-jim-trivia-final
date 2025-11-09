@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DaltAn00,Andy Dalton,QB,2011,24,CIN,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP ORoY-2"
+DaltAn00,Andy Dalton,QB,2012,25,CIN,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+DaltAn00,Andy Dalton,QB,2013,26,CIN,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DaltAn00,Andy Dalton,QB,2014,27,CIN,NFL,QB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,PB
+DaltAn00,Andy Dalton,QB,2015,28,CIN,NFL,QB,13,13,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+DaltAn00,Andy Dalton,QB,2016,29,CIN,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,PB
+DaltAn00,Andy Dalton,QB,,,,,,,,,,,,,,,,,,,,,,,,
+DaltAn00,Andy Dalton,QB,2019,32,CIN,NFL,QB,13,13,4,0,0,0,0,0,0,4,1,0,0,0,0,0,26,2.0,

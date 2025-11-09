@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AndeRo04,Robbie Chosen,WR,2016,23,NYJ,NFL,WR,16,8,78,42,587,14.0,2,19,43.6,52,2.6,36.7,53.8,7.5,3,42,0,2,66.7,30,14.0,2.6,0.2,45,14.0,629,2,1,4,
+AndeRo04,Robbie Chosen,WR,2017,24,NYJ,NFL,WR,16,15,114,63,941,14.9,7,38,46.5,69,3.9,58.8,55.3,8.3,3,9,0,0,33.3,7,3.0,0.6,0.2,66,14.4,950,7,0,8,
+AndeRo04,Robbie Chosen,WR,2018,25,NYJ,NFL,WR,14,9,94,50,752,15.0,6,30,46.8,76,3.6,53.7,53.2,8.0,2,-8,0,0,0.0,1,-4.0,-0.6,0.1,52,14.3,744,6,2,6,
+AndeRo04,Robbie Chosen,WR,2019,26,NYJ,NFL,WR,16,15,96,52,779,15.0,5,35,46.9,92,3.3,48.7,54.2,8.1,1,4,0,0,100.0,4,4.0,0.3,0.1,53,14.8,783,5,1,5,
+AndeRo04,Robbie Chosen,WR,2020,27,CAR,NFL,WR,16,16,136,95,1096,11.5,3,49,50.0,75,5.9,68.5,69.9,8.1,4,15,0,1,25.0,11,3.8,0.9,0.3,99,11.2,1111,3,1,9,
+AndeRo04,Robbie Chosen,WR,2021,28,CAR,NFL,WR,17,16,110,53,519,9.8,5,27,36.4,57,3.1,30.5,48.2,4.7,3,36,0,1,66.7,30,12.0,2.1,0.2,56,9.9,555,5,0,4,
+AndeRo04,Robbie Chosen,WR,2022,29,2TM,NFL,WR,16,7,44,20,282,14.1,1,10,34.1,75,1.3,17.6,45.5,6.4,0,0,0,0,,,,0.0,0.0,20,14.1,282,1,1,3,
+AndeRo04,Robbie Chosen,WR,2022,29,CAR,NFL,WR,6,5,27,13,206,15.8,1,5,33.3,75,2.2,34.3,48.1,7.6,0,0,0,0,,,,0.0,0.0,13,15.8,206,1,1,2,
+AndeRo04,Robbie Chosen,WR,2022,29,ARI,NFL,WR,10,2,17,7,76,10.9,0,5,35.3,21,0.7,7.6,41.2,4.5,0,0,0,0,,,,0.0,0.0,7,10.9,76,0,0,1,
+AndeRo04,Robbie Chosen,WR,2023,30,MIA,NFL,WR,9,0,6,4,126,31.5,1,3,66.7,68,0.4,14.0,66.7,21.0,0,0,0,0,,,,0.0,0.0,4,31.5,126,1,0,1,
+AndeRo04,Robbie Chosen,WR,2024,31,MIA,NFL,WR,2,0,4,1,5,5.0,0,0,0.0,5,0.5,2.5,25.0,1.3,0,0,0,0,,,,0.0,0.0,1,5.0,5,0,0,0,
+AndeRo04,Robbie Chosen,WR,2025,32,WAS,NFL,WR,1,0,4,4,36,9.0,0,1,25.0,13,4.0,36.0,100.0,9.0,0,0,0,0,,,,0.0,0.0,4,9.0,36,0,0,,

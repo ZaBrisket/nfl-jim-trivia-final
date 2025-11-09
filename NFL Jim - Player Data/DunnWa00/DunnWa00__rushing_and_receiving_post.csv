@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DunnWa00,Warrick Dunn,RB,1997,22,TAM,NFL,RB,2,2,36,136,0,5,36.1,12,3.8,68.0,18.0,11,5,34,6.8,0,2,18.2,22,2.5,17.0,45.5,3.1,41,4.1,170,0,2,
+DunnWa00,Warrick Dunn,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DunnWa00,Warrick Dunn,RB,1999,24,TAM,NFL,RB,2,2,20,53,0,2,30.0,13,2.7,26.5,10.0,12,8,69,8.6,0,4,50.0,16,4.0,34.5,66.7,5.8,28,4.4,122,0,0,
+DunnWa00,Warrick Dunn,RB,2000,25,TAM,NFL,RB,1,1,8,1,0,0,12.5,4,0.1,1.0,8.0,8,5,28,5.6,0,2,25.0,12,5.0,28.0,62.5,3.5,13,2.2,29,0,0,
+DunnWa00,Warrick Dunn,RB,2001,26,TAM,NFL,RB,1,1,11,29,0,1,45.5,9,2.6,29.0,11.0,12,8,37,4.6,0,2,33.3,17,8.0,37.0,66.7,3.1,19,3.5,66,0,0,
+DunnWa00,Warrick Dunn,RB,2002,27,ATL,NFL,RB,2,2,29,109,0,5,34.5,21,3.8,54.5,14.5,12,10,96,9.6,0,5,58.3,20,5.0,48.0,83.3,8.0,39,5.3,205,0,0,
+DunnWa00,Warrick Dunn,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DunnWa00,Warrick Dunn,RB,2004,29,ATL,NFL,RB,2,2,32,201,3,8,37.5,62,6.3,100.5,16.0,3,2,6,3.0,0,0,33.3,4,1.0,3.0,66.7,2.0,34,6.1,207,3,0,

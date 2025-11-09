@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HiggMa00,Mark Higgs,RB,1988,22,DAL,NFL,RB,5,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+HiggMa00,Mark Higgs,RB,1989,23,PHI,NFL,RB,15,1,49,184,0,6,40.8,13,3.8,12.3,3.3,3,3,9,3.0,0,1,33.3,8,0.2,0.6,100.0,3.0,52,3.7,193,0,3,1,
+HiggMa00,Mark Higgs,RB,1990,24,MIA,NFL,RB,12,0,10,67,0,4,80.0,27,6.7,5.6,0.8,0,0,0,,0,0,,,0.0,0.0,,,10,6.7,67,0,1,0,
+HiggMa00,Mark Higgs,RB,1991,25,MIA,NFL,RB,14,10,231,905,4,57,51.5,24,3.9,64.6,16.5,18,11,80,7.3,0,2,55.6,13,0.8,5.7,61.1,4.4,242,4.1,985,4,3,8,
+HiggMa00,Mark Higgs,RB,1992,26,MIA,NFL,RB,16,15,256,915,7,65,50.4,23,3.6,57.2,16.0,20,16,142,8.9,0,6,65.0,21,1.0,8.9,80.0,7.1,272,3.9,1057,7,5,7,
+HiggMa00,Mark Higgs,RB,1993,27,MIA,NFL,RB,16,8,186,693,3,35,41.9,31,3.7,43.3,11.6,12,10,72,7.2,0,1,58.3,15,0.6,4.5,83.3,6.0,196,3.9,765,3,1,6,
+HiggMa00,Mark Higgs,RB,1994,28,2TM,NFL,RB,11,1,62,195,0,10,30.6,21,3.1,17.7,5.6,0,0,0,,0,0,,,0.0,0.0,,,62,3.1,195,0,1,1,
+HiggMa00,Mark Higgs,RB,1994,28,MIA,NFL,RB,5,1,19,68,0,4,36.8,21,3.6,13.6,3.8,0,0,0,,0,0,,,0.0,0.0,,,19,3.6,68,0,1,0,
+HiggMa00,Mark Higgs,RB,1994,28,ARI,NFL,RB,6,0,43,127,0,6,27.9,16,3.0,21.2,7.2,0,0,0,,0,0,,,0.0,0.0,,,43,3.0,127,0,0,1,
+HiggMa00,Mark Higgs,RB,1995,29,ARI,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

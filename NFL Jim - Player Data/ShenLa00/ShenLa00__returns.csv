@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ShenLa00,Laviska Shenault Jr.,WR,2022,24,CAR,NFL,WR,13,4,0,0,0,0,3,82,0,36,27.3,419,
+ShenLa00,Laviska Shenault Jr.,WR,2023,25,CAR,NFL,WR,8,0,0,0,0,0,6,167,0,37,27.8,282,
+ShenLa00,Laviska Shenault Jr.,WR,2024,26,2TM,NFL,WR,12,2,0,0,0,0,16,459,1,97,28.7,496,
+ShenLa00,Laviska Shenault Jr.,WR,2024,26,SEA,NFL,WR,11,1,0,0,0,0,16,459,1,97,28.7,496,

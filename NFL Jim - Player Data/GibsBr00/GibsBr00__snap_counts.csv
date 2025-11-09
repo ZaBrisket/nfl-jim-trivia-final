@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+GibsBr00,Brandon Gibson,WR,2012,25,STL,WR,11,16,13,763,73%,0,0%,1,0%
+GibsBr00,Brandon Gibson,WR,2013,26,MIA,WR,10,7,3,252,56%,0,0%,0,0%
+GibsBr00,Brandon Gibson,WR,2014,27,MIA,WR,10,14,5,503,52%,0,0%,2,1%

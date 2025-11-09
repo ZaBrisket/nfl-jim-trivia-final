@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_success,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BrowDa00,Dave Brown,QB,1992,22,NYG,NFL,QB,2,0,2,-1,0,0,0.0,1,-0.5,-0.5,1.0,0,0,0,0,0,,0.0,0.0,,,2,-0.5,-1,0,0,
+BrowDa00,Dave Brown,QB,1993,23,NYG,NFL,QB,1,0,3,-4,0,0,0.0,-1,-1.3,-4.0,3.0,0,0,0,0,0,,0.0,0.0,,,3,-1.3,-4,0,0,
+BrowDa00,Dave Brown,QB,1994,24,NYG,NFL,QB,15,15,60,196,2,17,38.3,21,3.3,13.1,4.0,0,0,0,0,0,,0.0,0.0,,,60,3.3,196,2,11,
+BrowDa00,Dave Brown,QB,1995,25,NYG,NFL,QB,16,16,45,228,4,19,53.3,23,5.1,14.3,2.8,0,0,0,0,0,,0.0,0.0,,,45,5.1,228,4,10,
+BrowDa00,Dave Brown,QB,1996,26,NYG,NFL,QB,16,16,50,170,0,8,32.0,18,3.4,10.6,3.1,0,0,0,0,0,,0.0,0.0,,,50,3.4,170,0,9,
+BrowDa00,Dave Brown,QB,1997,27,NYG,NFL,QB,7,6,17,29,1,2,35.3,7,1.7,4.1,2.4,0,0,0,0,0,,0.0,0.0,,,17,1.7,29,1,1,
+BrowDa00,Dave Brown,QB,1998,28,ARI,NFL,QB,1,0,1,2,0,0,0.0,2,2.0,2.0,1.0,0,0,0,0,0,,0.0,0.0,,,1,2.0,2,0,0,
+BrowDa00,Dave Brown,QB,1999,29,ARI,NFL,QB,8,5,13,49,0,5,53.8,10,3.8,6.1,1.6,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,13,3.8,49,0,4,
+BrowDa00,Dave Brown,QB,2000,30,ARI,NFL,QB,6,2,1,0,0,0,0.0,,0.0,0.0,0.2,0,0,0,0,0,,0.0,0.0,,,1,0.0,0,0,2,

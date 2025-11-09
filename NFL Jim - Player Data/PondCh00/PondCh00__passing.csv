@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+PondCh00,Christian Ponder,QB,2011,23,MIN,NFL,QB,11,10,2-8-0,158,291,54.3,1853,13,4.5,13,4.5,92,36.4,72,6.4,5.25,11.7,168.5,70.1,32.4,30,164,9.35,5.26,4.25,0,1,5,
+PondCh00,Christian Ponder,QB,2012,24,MIN,NFL,QB,16,16,10-6-0,300,483,62.1,2935,18,3.7,12,2.5,166,43.9,65,6.1,5.70,9.8,183.4,81.2,52.1,32,184,6.21,5.34,4.99,1,2,11,
+PondCh00,Christian Ponder,QB,2013,25,MIN,NFL,QB,9,9,2-6-1,152,239,63.6,1648,7,2.9,9,3.8,83,42.5,47,6.9,5.79,10.8,183.1,77.9,42.2,27,119,10.15,5.75,4.75,1,0,6,
+PondCh00,Christian Ponder,QB,2014,26,MIN,NFL,QB,2,1,0-1-0,22,44,50.0,222,0,0.0,2,4.5,13,34.0,18,5.0,3.00,10.1,111.0,45.8,8.4,6,34,12.00,3.76,1.96,0,0,1,

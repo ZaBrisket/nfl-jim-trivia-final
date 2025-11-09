@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BellGr00,Greg Bell,RB,1984,22,BUF,NFL,RB,16,15,262,1100,7,53,51.1,85,4.2,68.8,16.4,46,34,277,8.1,1,11,54.3,37,2.1,17.3,73.9,6.0,296,4.7,1377,8,5,9,"PB,AP ORoY-2"
+BellGr00,Greg Bell,RB,1985,23,BUF,NFL,FB/RB,16,15,223,883,8,47,45.3,77,4.0,55.2,13.9,78,58,576,9.9,1,28,57.7,49,3.6,36.0,74.4,7.4,281,5.2,1459,9,8,7,
+BellGr00,Greg Bell,RB,1986,24,BUF,NFL,RB,6,6,90,377,4,23,53.3,42,4.2,62.8,15.0,26,12,142,11.8,2,8,34.6,40,2.0,23.7,46.2,5.5,102,5.1,519,6,2,4,
+BellGr00,Greg Bell,RB,1987,25,2TM,NFL,RB,4,3,22,86,0,4,45.5,13,3.9,21.5,5.5,14,9,96,10.7,1,4,42.9,32,2.3,24.0,64.3,6.9,31,5.9,182,1,1,2,
+BellGr00,Greg Bell,RB,1987,25,BUF,NFL,RB,2,2,14,60,0,3,50.0,11,4.3,30.0,7.0,8,4,37,9.3,0,1,25.0,12,2.0,18.5,50.0,4.6,18,5.4,97,0,0,1,
+BellGr00,Greg Bell,RB,1987,25,RAM,NFL,RB,2,1,8,26,0,1,37.5,13,3.3,13.0,4.0,6,5,59,11.8,1,3,66.7,32,2.5,29.5,83.3,9.8,13,6.5,85,1,1,1,
+BellGr00,Greg Bell,RB,1988,26,RAM,NFL,RB,16,13,288,1212,16,76,50.0,44,4.2,75.8,18.0,29,24,124,5.2,2,7,48.3,20,1.5,7.8,82.8,4.3,312,4.3,1336,18,6,10,
+BellGr00,Greg Bell,RB,1989,27,RAM,NFL,RB,16,15,272,1137,15,65,47.8,47,4.2,71.1,17.0,27,19,85,4.5,0,6,37.0,14,1.2,5.3,70.4,3.1,291,4.2,1222,15,7,9,
+BellGr00,Greg Bell,RB,1990,28,RAI,NFL,RB,6,0,47,164,1,12,53.2,21,3.5,27.3,7.8,4,1,7,7.0,0,0,25.0,7,0.2,1.2,25.0,1.8,48,3.6,171,1,0,1,

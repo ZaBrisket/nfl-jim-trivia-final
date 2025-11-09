@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PierDa01,Dameon Pierce,RB,2022,22,HOU,RB,31,13,13,508,64%,0,0%,0,0%
+PierDa01,Dameon Pierce,RB,2023,23,HOU,RB,31,14,7,298,32%,0,0%,12,3%
+PierDa01,Dameon Pierce,RB,2024,24,HOU,RB,31,11,0,111,16%,0,0%,48,16%
+PierDa01,Dameon Pierce,RB,2025,25,HOU,RB,31,3,0,23,11%,0,0%,7,10%

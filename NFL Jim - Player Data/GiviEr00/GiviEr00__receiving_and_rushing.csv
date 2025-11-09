@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GiviEr00,Ernest Givins,WR,1986,22,HOU,NFL,WR,15,15,121,61,1062,17.4,3,49,48.8,60,4.1,70.8,50.4,8.8,9,148,1,6,88.9,43,16.4,9.9,0.6,70,17.3,1210,4,0,8,
+GiviEr00,Ernest Givins,WR,1987,23,HOU,NFL,WR,12,12,103,53,933,17.6,6,39,48.5,83,4.4,77.8,51.5,9.1,1,-13,0,0,0.0,-13,-13.0,-1.1,0.1,54,17.0,920,6,2,9,
+GiviEr00,Ernest Givins,WR,1988,24,HOU,NFL,WR,16,16,120,60,976,16.3,5,47,48.3,46,3.8,61.0,50.0,8.1,4,26,0,1,75.0,10,6.5,1.6,0.3,64,15.7,1002,5,1,12,
+GiviEr00,Ernest Givins,WR,1989,25,HOU,NFL,WR,15,15,108,55,794,14.4,3,41,50.0,48,3.7,52.9,50.9,7.4,0,0,0,0,,,,0.0,0.0,55,14.4,794,3,0,7,
+GiviEr00,Ernest Givins,WR,1990,26,HOU,NFL,WR,16,16,115,72,979,13.6,9,50,54.8,80,4.5,61.2,62.6,8.5,3,65,0,3,100.0,31,21.7,4.1,0.2,75,13.9,1044,9,1,10,"PB,AP-2"
+GiviEr00,Ernest Givins,WR,1991,27,HOU,NFL,WR,16,16,115,70,996,14.2,5,50,56.5,49,4.4,62.3,60.9,8.7,4,30,0,2,75.0,23,7.5,1.9,0.3,74,13.9,1026,5,3,9,
+GiviEr00,Ernest Givins,WR,1992,28,HOU,NFL,WR,16,16,113,67,787,11.7,10,45,54.9,41,4.2,49.2,59.3,7.0,7,75,0,2,71.4,44,10.7,4.7,0.4,74,11.6,862,10,3,9,PB
+GiviEr00,Ernest Givins,WR,1993,29,HOU,NFL,WR,16,16,110,68,887,13.0,4,43,56.4,80,4.3,55.4,61.8,8.1,6,19,0,1,33.3,16,3.2,1.2,0.4,74,12.2,906,4,2,8,
+GiviEr00,Ernest Givins,WR,1994,30,HOU,NFL,WR,16,16,78,36,521,14.5,1,21,43.6,76,2.3,32.6,46.2,6.7,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,37,13.9,516,1,3,4,
+GiviEr00,Ernest Givins,WR,1995,31,JAX,NFL,WR,9,9,58,29,280,9.7,3,17,44.8,18,3.2,31.1,50.0,4.8,0,0,0,0,,,,0.0,0.0,29,9.7,280,3,1,2,

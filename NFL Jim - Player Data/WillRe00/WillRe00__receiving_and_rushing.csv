@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillRe00,Reggie Williams,WR,2004,21,JAX,NFL,WR,16,15,54,27,268,9.9,1,14,40.7,26,1.7,16.8,50.0,5.0,0,0,0,0,,,,0.0,0.0,27,9.9,268,1,1,2,
+WillRe00,Reggie Williams,WR,2005,22,JAX,NFL,WR,16,7,63,35,445,12.7,0,23,47.6,41,2.2,27.8,55.6,7.1,2,3,0,1,50.0,10,1.5,0.2,0.1,37,12.1,448,0,2,5,
+WillRe00,Reggie Williams,WR,2006,23,JAX,NFL,WR,16,14,91,52,616,11.8,4,28,46.2,48,3.3,38.5,57.1,6.8,7,33,0,3,71.4,10,4.7,2.1,0.4,59,11.0,649,4,1,7,
+WillRe00,Reggie Williams,WR,2007,24,JAX,NFL,WR,15,6,60,38,629,16.6,10,28,56.7,80,2.5,41.9,63.3,10.5,1,8,0,1,100.0,8,8.0,0.5,0.1,39,16.3,637,10,3,8,
+WillRe00,Reggie Williams,WR,2008,25,JAX,NFL,WR,16,11,63,37,364,9.8,3,22,54.0,32,2.3,22.8,58.7,5.8,1,0,0,0,0.0,,0.0,0.0,0.1,38,9.6,364,3,0,3,

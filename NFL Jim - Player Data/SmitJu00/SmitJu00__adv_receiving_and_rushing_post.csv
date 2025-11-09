@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+SmitJu00,JuJu Smith-Schuster,WR,2020,24,PIT,NFL,WR,1,1,19,13,157,7,116,8.9,41,3.2,10.2,1,13.0,0,0.0,0,111.1,0,0,0,0,0,0,
+SmitJu00,JuJu Smith-Schuster,WR,2021,25,PIT,NFL,WR,1,1,8,5,26,3,11,2.2,15,3.0,4.1,0,,1,12.5,0,67.7,0,0,0,0,0,0,
+SmitJu00,JuJu Smith-Schuster,WR,2022,26,KAN,NFL,WR,3,2,12,10,89,7,69,6.9,20,2.0,7.2,1,10.0,0,0.0,0,97.6,0,0,0,0,0,0,
+SmitJu00,JuJu Smith-Schuster,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJu00,JuJu Smith-Schuster,WR,2024,28,KAN,NFL,WR,3,3,6,4,76,3,29,7.3,47,11.8,8.3,1,4.0,0,0.0,0,109.7,0,0,0,0,0,0,

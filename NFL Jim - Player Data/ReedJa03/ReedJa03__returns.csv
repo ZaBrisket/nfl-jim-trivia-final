@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,all_purpose_yds,awards
+ReedJa03,Jayden Reed,WR,2023,23,GNB,NFL,WR,16,13,11,94,0,35,8.5,0,0,0,0,1006,AP ORoY-6
+ReedJa03,Jayden Reed,WR,2024,24,GNB,NFL,WR,17,10,14,110,0,16,7.9,0,0,0,0,1130,
+ReedJa03,Jayden Reed,WR,2025,25,GNB,NFL,WR,2,1,2,21,0,20,10.5,0,0,0,0,66,

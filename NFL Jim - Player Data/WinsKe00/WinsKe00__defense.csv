@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+WinsKe00,Kellen Winslow,TE,1979,22,SDG,NFL,TE,7,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WinsKe00,Kellen Winslow,TE,1980,23,SDG,NFL,TE,16,11,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,"PB,AP-1"
+WinsKe00,Kellen Winslow,TE,1981,24,SDG,NFL,TE,16,16,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-6,AP OPoY-8"
+WinsKe00,Kellen Winslow,TE,1982,25,SDG,NFL,TE,9,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,"PB,AP-1,AP OPoY-6"
+WinsKe00,Kellen Winslow,TE,1983,26,SDG,NFL,TE,16,16,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,PB
+WinsKe00,Kellen Winslow,TE,1984,27,SDG,NFL,TE,7,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+WinsKe00,Kellen Winslow,TE,,,,,,,,,,,,,,,,,,,,,,
+WinsKe00,Kellen Winslow,TE,1986,29,SDG,NFL,TE,16,16,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,
+WinsKe00,Kellen Winslow,TE,1987,30,SDG,NFL,TE,12,12,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,"PB,AP-2"

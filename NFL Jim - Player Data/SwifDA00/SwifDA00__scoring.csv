@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SwifDA00,D'Andre Swift,RB,2020,21,DET,NFL,RB,13,4,8,2,0,0,0,0,0,10,0,,0,0,0,0,0,60,4.6,
+SwifDA00,D'Andre Swift,RB,2021,22,DET,NFL,RB,13,4,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,42,3.2,
+SwifDA00,D'Andre Swift,RB,2022,23,DET,NFL,RB,14,8,5,3,0,0,0,0,0,8,1,0,0,0,0,0,0,50,3.6,
+SwifDA00,D'Andre Swift,RB,2023,24,PHI,NFL,RB,16,15,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,36,2.3,PB
+SwifDA00,D'Andre Swift,RB,2024,25,CHI,NFL,RB,17,17,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,38,2.2,
+SwifDA00,D'Andre Swift,RB,2025,26,CHI,NFL,RB,7,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,30,4.3,

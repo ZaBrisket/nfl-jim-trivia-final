@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SandMi01,Miles Sanders,RB,2019,22,PHI,NFL,RB,16,11,179,818,3,30,44.7,65,4.6,51.1,11.2,63,50,509,10.2,3,19,49.2,45,3.1,31.8,79.4,8.1,229,5.8,1327,6,2,8,AP ORoY-4
+SandMi01,Miles Sanders,RB,2020,23,PHI,NFL,RB,12,11,164,867,6,39,54.9,82,5.3,72.3,13.7,52,28,197,7.0,0,8,34.6,28,2.3,16.4,53.8,3.8,192,5.5,1064,6,4,6,
+SandMi01,Miles Sanders,RB,2021,24,PHI,NFL,RB,12,12,137,754,0,33,59.1,38,5.5,62.8,11.4,34,26,158,6.1,0,6,38.2,25,2.2,13.2,76.5,4.6,163,5.6,912,0,1,7,
+SandMi01,Miles Sanders,RB,2022,25,PHI,NFL,RB,17,15,259,1269,11,62,56.8,40,4.9,74.6,15.2,26,20,78,3.9,0,2,46.2,16,1.2,4.6,76.9,3.0,279,4.8,1347,11,2,10,PB
+SandMi01,Miles Sanders,RB,2023,26,CAR,NFL,RB,16,5,129,432,1,24,40.3,48,3.3,27.0,8.1,41,27,154,5.7,0,8,39.0,14,1.7,9.6,65.9,3.8,156,3.8,586,1,2,3,
+SandMi01,Miles Sanders,RB,2024,27,CAR,NFL,RB,11,2,55,205,2,12,45.5,26,3.7,18.6,5.0,30,24,148,6.2,1,5,23.3,33,2.2,13.5,80.0,4.9,79,4.5,353,3,1,3,
+SandMi01,Miles Sanders,RB,2025,28,DAL,NFL,RB,4,0,20,117,1,5,50.0,49,5.9,29.3,5.0,8,8,30,3.8,0,0,37.5,9,2.0,7.5,100.0,3.8,28,5.3,147,1,1,,

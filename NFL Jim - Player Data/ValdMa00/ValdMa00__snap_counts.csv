@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ValdMa00,Marquez Valdes-Scantling,WR,2018,24,GNB,WR,83,16,10,691,64%,0,0%,45,10%
+ValdMa00,Marquez Valdes-Scantling,WR,2019,25,GNB,WR,83,16,10,542,50%,0,0%,2,1%
+ValdMa00,Marquez Valdes-Scantling,WR,2020,26,GNB,WR,83,16,12,793,76%,0,0%,0,0%
+ValdMa00,Marquez Valdes-Scantling,WR,2021,27,GNB,WR,83,11,7,455,62%,0,0%,1,0%
+ValdMa00,Marquez Valdes-Scantling,WR,2022,28,KAN,WR,11,17,11,777,68%,0,0%,0,0%
+ValdMa00,Marquez Valdes-Scantling,WR,2023,29,KAN,WR,11,16,10,618,58%,0,0%,0,0%
+ValdMa00,Marquez Valdes-Scantling,WR,2024,30,2TM,,,14,8,478,,0,,0,
+ValdMa00,Marquez Valdes-Scantling,WR,,,BUF,WR,15,6,0,141,39%,0,0%,0,0%
+ValdMa00,Marquez Valdes-Scantling,WR,,,NOR,WR,,8,8,337,66%,0,0%,0,0%
+ValdMa00,Marquez Valdes-Scantling,WR,2025,31,SFO,WR,83,5,0,141,38%,0,0%,0,0%

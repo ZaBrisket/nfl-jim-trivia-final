@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+WhitCh00,Charles White,RB,1980,22,CLE,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+WhitCh00,Charles White,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WhitCh00,Charles White,RB,1982,24,CLE,NFL,RB,1,1,9,30,0,0,55.6,6,3.3,30.0,9.0,4,2,15,7.5,0,1,50.0,11,2.0,15.0,50.0,3.8,11,4.1,45,0,1,
+WhitCh00,Charles White,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WhitCh00,Charles White,RB,1985,27,RAM,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+WhitCh00,Charles White,RB,1986,28,RAM,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,
+WhitCh00,Charles White,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WhitCh00,Charles White,RB,1988,30,RAM,NFL,RB,1,0,1,2,0,0,0.0,2,2.0,2.0,1.0,,0,0,,0,0,,,0.0,0.0,,,1,2.0,2,0,0,

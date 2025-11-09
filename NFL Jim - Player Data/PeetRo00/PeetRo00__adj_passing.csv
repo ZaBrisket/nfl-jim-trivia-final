@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PeetRo00,Rodney Peete,QB,1989,23,DET,NFL,QB,8,8,112,98,98,92,91,82,89,66,89,
+PeetRo00,Rodney Peete,QB,1990,24,DET,NFL,QB,11,11,106,100,111,106,85,110,109,87,105,
+PeetRo00,Rodney Peete,QB,1991,25,DET,NFL,QB,8,8,100,108,90,96,110,85,84,112,91,
+PeetRo00,Rodney Peete,QB,1992,26,DET,NFL,QB,10,10,122,109,113,105,100,107,89,72,105,
+PeetRo00,Rodney Peete,QB,1993,27,DET,NFL,QB,10,10,97,89,81,77,113,82,67,67,86,
+PeetRo00,Rodney Peete,QB,1994,28,DAL,NFL,QB,7,1,135,131,141,138,103,142,121,97,133,
+PeetRo00,Rodney Peete,QB,1995,29,PHI,NFL,QB,15,12,87,85,82,82,98,77,91,87,84,
+PeetRo00,Rodney Peete,QB,1996,30,PHI,NFL,QB,5,5,117,115,101,102,109,79,91,94,95,
+PeetRo00,Rodney Peete,QB,1997,31,PHI,NFL,QB,5,3,112,100,105,98,103,94,98,67,101,
+PeetRo00,Rodney Peete,QB,1998,32,PHI,NFL,QB,5,4,84,76,85,80,93,75,102,77,85,
+PeetRo00,Rodney Peete,QB,,,,,,,,,,,,,,,,,
+PeetRo00,Rodney Peete,QB,2002,36,CAR,NFL,QB,14,14,104,101,100,98,98,100,92,93,97,AP CPoY-5

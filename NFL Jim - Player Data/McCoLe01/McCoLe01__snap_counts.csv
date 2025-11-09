@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+McCoLe01,LeSean McCoy,RB,2012,24,PHI,RB,25,12,12,695,79%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2013*+,25,PHI,RB,25,16,16,872,79%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2014*,26,PHI,RB,25,16,16,774,66%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2015*,27,BUF,RB,25,12,12,599,74%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2016*,28,BUF,RB,25,15,15,646,66%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2017*,29,BUF,RB,25,16,16,719,68%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2018,30,BUF,RB,25,14,13,490,53%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2019,31,KAN,RB,25,13,9,295,35%,0,0%,0,0%
+McCoLe01,LeSean McCoy,RB,2020,32,TAM,RB,25,10,0,116,17%,0,0%,0,0%

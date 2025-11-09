@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GreeTr00,Trent Green,QB,1998,28,WAS,NFL,QB,15,14,100,95,107,103,92,105,115,91,105,
+GreeTr00,Trent Green,QB,1999,,Did not play - Injured (knee),,,,,,,,,,,,,,
+GreeTr00,Trent Green,QB,2000,30,STL,NFL,QB,8,5,134,126,139,133,109,133,119,86,133,AP CPoY-12
+GreeTr00,Trent Green,QB,2001,31,KAN,NFL,QB,16,16,109,110,96,97,92,91,77,99,89,
+GreeTr00,Trent Green,QB,2002,32,KAN,NFL,QB,16,16,126,128,126,127,107,123,108,108,120,
+GreeTr00,Trent Green,QB,2003,33,KAN,NFL,QB,16,16,117,122,118,122,112,106,115,118,115,PB
+GreeTr00,Trent Green,QB,2004,34,KAN,NFL,QB,16,16,125,124,120,120,123,109,102,108,119,
+GreeTr00,Trent Green,QB,2005,35,KAN,NFL,QB,16,16,118,117,117,116,109,91,120,105,111,PB
+GreeTr00,Trent Green,QB,2006,36,KAN,NFL,QB,8,8,99,91,90,86,103,95,77,72,91,
+GreeTr00,Trent Green,QB,2007,37,MIA,NFL,QB,5,5,102,104,88,91,99,95,70,109,87,
+GreeTr00,Trent Green,QB,2008,38,STL,NFL,QB,3,1,107,98,66,64,73,55,23,88,51,

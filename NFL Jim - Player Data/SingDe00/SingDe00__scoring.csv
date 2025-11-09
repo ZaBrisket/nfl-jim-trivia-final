@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SingDe00,Devin Singletary,RB,2019,22,BUF,NFL,RB,12,8,2,2,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.0,
+SingDe00,Devin Singletary,RB,2020,23,BUF,NFL,RB,16,16,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+SingDe00,Devin Singletary,RB,2021,24,BUF,NFL,RB,17,16,7,1,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,
+SingDe00,Devin Singletary,RB,2022,25,BUF,NFL,RB,16,16,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,36,2.3,
+SingDe00,Devin Singletary,RB,2023,26,HOU,NFL,RB,17,10,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.4,
+SingDe00,Devin Singletary,RB,2024,27,NYG,NFL,RB,15,5,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.6,

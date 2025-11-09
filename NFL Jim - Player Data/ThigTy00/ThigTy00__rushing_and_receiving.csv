@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ThigTy00,Tyler Thigpen,QB,2008,24,KAN,NFL,QB,14,11,62,386,3,22,58.1,32,6.2,27.6,4.4,1,1,37,37.0,1,1,100.0,37,0.1,2.6,100.0,37.0,63,6.7,423,4,6,
+ThigTy00,Tyler Thigpen,QB,2009,25,2TM,NFL,QB,2,0,2,3,0,0,0.0,2,1.5,1.5,1.0,0,0,0,,0,0,,,0.0,0.0,,,2,1.5,3,0,0,
+ThigTy00,Tyler Thigpen,QB,2009,25,KAN,NFL,QB,1,0,1,2,0,0,0.0,2,2.0,2.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,2.0,2,0,0,
+ThigTy00,Tyler Thigpen,QB,2009,25,MIA,NFL,QB,1,0,1,1,0,0,0.0,1,1.0,1.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,1.0,1,0,0,
+ThigTy00,Tyler Thigpen,QB,2010,26,MIA,NFL,QB,5,1,13,73,0,3,53.8,12,5.6,14.6,2.6,0,0,0,,0,0,,,0.0,0.0,,,13,5.6,73,0,1,
+ThigTy00,Tyler Thigpen,QB,2011,27,BUF,NFL,QB,3,0,1,8,0,0,100.0,8,8.0,2.7,0.3,0,0,0,,0,0,,,0.0,0.0,,,1,8.0,8,0,0,
+ThigTy00,Tyler Thigpen,QB,2012,28,BUF,NFL,QB,4,0,1,-1,0,0,0.0,-1,-1.0,-0.3,0.3,0,0,0,,0,0,,,0.0,0.0,,,1,-1.0,-1,0,0,

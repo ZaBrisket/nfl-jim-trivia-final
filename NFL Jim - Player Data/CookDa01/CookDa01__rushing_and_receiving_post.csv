@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CookDa01,Dalvin Cook,RB,2019,24,MIN,NFL,RB,2,2,37,112,2,7,37.8,22,3.0,56.0,18.5,13,9,44,4.9,0,1,38.5,19,4.5,22.0,69.2,3.4,46,3.4,156,2,1,
+CookDa01,Dalvin Cook,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CookDa01,Dalvin Cook,RB,2022,27,MIN,NFL,RB,1,1,15,60,0,2,60.0,11,4.0,60.0,15.0,7,6,10,1.7,0,1,28.6,6,6.0,10.0,85.7,1.4,21,3.3,70,0,0,
+CookDa01,Dalvin Cook,RB,2023,28,BAL,NFL,RB,1,0,8,23,0,1,37.5,19,2.9,23.0,8.0,0,0,0,,0,0,,,0.0,0.0,,,8,2.9,23,0,0,

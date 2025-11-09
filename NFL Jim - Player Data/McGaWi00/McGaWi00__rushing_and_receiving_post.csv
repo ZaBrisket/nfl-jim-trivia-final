@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+McGaWi00,Willis McGahee,RB,2008,27,BAL,NFL,RB,3,1,39,154,2,7,38.5,48,3.9,51.3,13.0,4,4,26,6.5,0,0,50.0,11,1.3,8.7,100.0,6.5,43,4.2,180,2,1,
+McGaWi00,Willis McGahee,RB,2009,28,BAL,NFL,RB,2,0,22,69,1,4,36.4,12,3.1,34.5,11.0,2,2,20,10.0,0,1,50.0,13,1.0,10.0,100.0,10.0,24,3.7,89,1,0,
+McGaWi00,Willis McGahee,RB,2010,29,BAL,NFL,RB,2,0,14,48,1,1,14.3,25,3.4,24.0,7.0,4,4,24,6.0,0,2,75.0,10,2.0,12.0,100.0,6.0,18,4.0,72,1,0,
+McGaWi00,Willis McGahee,RB,2011,30,DEN,NFL,RB,2,2,36,137,1,8,44.4,19,3.8,68.5,18.0,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,36,3.8,137,1,2,

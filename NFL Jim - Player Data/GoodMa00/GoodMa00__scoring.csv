@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GoodMa00,Marquise Goodwin,WR,2013,23,BUF,NFL,WR,12,1,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.5,
+GoodMa00,Marquise Goodwin,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+GoodMa00,Marquise Goodwin,WR,2016,26,BUF,NFL,WR,15,9,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.2,
+GoodMa00,Marquise Goodwin,WR,2017,27,SFO,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+GoodMa00,Marquise Goodwin,WR,2018,28,SFO,NFL,WR,11,8,0,4,0,0,0,0,0,4,0,,0,0,0,0,0,24,2.2,
+GoodMa00,Marquise Goodwin,WR,2019,29,SFO,NFL,WR,9,6,0,1,0,0,0,0,0,1,0,,0,0,0,0,0,6,0.7,
+GoodMa00,Marquise Goodwin,WR,2020,,Did not play - Opted out during COVID-19 pandemic,,,,,,,,,,,,,,,,,,,,,,
+GoodMa00,Marquise Goodwin,WR,2021,31,CHI,NFL,WR,14,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+GoodMa00,Marquise Goodwin,WR,2022,32,SEA,NFL,WR,13,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.8,

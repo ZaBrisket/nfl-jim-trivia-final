@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DownJo00,Josh Downs,WR,2023,22,IND,NFL,WR,17,9,6,63,0,14,10.5,2,24,0,17,12.0,858,
+DownJo00,Josh Downs,WR,2024,23,IND,NFL,WR,14,8,16,161,0,23,10.1,0,0,0,0,,976,
+DownJo00,Josh Downs,WR,2025,24,IND,NFL,WR,8,5,3,23,0,12,7.7,0,0,0,0,,336,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MitcEl00,Elijah Mitchell,RB,2021,23,SFO,NFL,RB,11,10,207,963,5,47,49.8,39,4.7,87.5,18.8,20,19,137,7.2,1,6,50.0,14,1.7,12.5,95.0,6.9,226,4.9,1100,6,0,7,
+MitcEl00,Elijah Mitchell,RB,2022,24,SFO,NFL,RB,5,1,45,279,2,15,71.1,37,6.2,55.8,9.0,4,3,7,2.3,0,0,50.0,5,0.6,1.4,75.0,1.8,48,6.0,286,2,0,2,
+MitcEl00,Elijah Mitchell,RB,2023,25,SFO,NFL,RB,11,1,75,281,2,14,48.0,18,3.7,25.5,6.8,8,6,14,2.3,0,2,37.5,9,0.5,1.3,75.0,1.8,81,3.6,295,2,0,2,

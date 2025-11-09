@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+MillDa02,Davis Mills,QB,2021,23,HOU,NFL,QB,13,11,18,44,5,37,2.1,7,0.4,0,0,0,0,0,0,0,0,0,0,
+MillDa02,Davis Mills,QB,2022,24,HOU,NFL,QB,15,15,32,108,8,107,3.3,1,0.0,0,0,0,0,0,0,0,0,0,0,
+MillDa02,Davis Mills,QB,2023,25,HOU,NFL,QB,6,0,2,9,0,9,4.5,0,0.0,0,0,0,0,0,0,0,0,0,0,
+MillDa02,Davis Mills,QB,2024,26,HOU,NFL,QB,4,0,3,11,1,9,3.0,2,0.7,0,0,0,0,0,0,0,0,0,0,
+MillDa02,Davis Mills,QB,2025,27,HOU,NFL,QB,2,0,5,10,0,4,0.8,6,1.2,0,0,0,0,0,0,0,0,0,0,

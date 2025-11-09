@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CarlJo00,John Carlson,TE,2012,28,MIN,TE,89,14,6,249,27%,0,0%,30,8%
+CarlJo00,John Carlson,TE,2013,29,MIN,TE,89,13,8,497,58%,0,0%,87,21%
+CarlJo00,John Carlson,TE,2014,30,ARI,RB,89,16,12,733,69%,0,0%,47,11%

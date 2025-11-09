@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WatsBe00,Ben Watson,TE,2012,32,CLE,TE,82,16,14,853,83%,0,0%,61,13%
+WatsBe00,Ben Watson,TE,2013,33,NOR,TE,82,15,7,497,47%,0,0%,78,18%
+WatsBe00,Ben Watson,TE,2014,34,NOR,TE,82,16,8,571,50%,0,0%,76,17%
+WatsBe00,Ben Watson,TE,2015,35,NOR,TE,82,16,16,984,85%,0,0%,78,17%
+WatsBe00,Ben Watson,TE,2017,37,BAL,TE,82,16,12,700,65%,0,0%,1,0%
+WatsBe00,Ben Watson,TE,2018,38,NOR,TE,82,16,4,507,48%,0,0%,16,4%
+WatsBe00,Ben Watson,TE,2019,39,NWE,TE,82,10,8,467,66%,0,0%,0,0%

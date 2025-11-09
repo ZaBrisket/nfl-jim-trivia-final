@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CollNi00,Nico Collins,WR,2021,22,HOU,WR,12,14,8,536,59%,0,0%,2,1%
+CollNi00,Nico Collins,WR,2022,23,HOU,WR,12,10,7,441,71%,0,0%,0,0%
+CollNi00,Nico Collins,WR,2023,24,HOU,WR,12,15,10,669,68%,0,0%,0,0%
+CollNi00,Nico Collins,WR,2024*,25,HOU,WR,12,12,12,502,66%,0,0%,0,0%
+CollNi00,Nico Collins,WR,2025,26,HOU,WR,12,7,7,349,75%,0,0%,0,0%

@@ -1,0 +1,7 @@
+player_id,player_name,position,year,team,level,pos,voters
+JohnCh04,Chris Johnson,RB,2008,1st Tm,All-Conf.,RB,Pro Football Writers
+JohnCh04,Chris Johnson,RB,2009,1st Tm,All-Conf.,RB,Pro Football Writers
+JohnCh04,Chris Johnson,RB,2009,1st Tm,,RB,Associated Press
+JohnCh04,Chris Johnson,RB,2009,1st Tm,,,Pro Football Writers
+JohnCh04,Chris Johnson,RB,2009,1st Tm,,HB,Pro Football Focus
+JohnCh04,Chris Johnson,RB,2009,1st Tm,,,Sporting News

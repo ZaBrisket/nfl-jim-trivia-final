@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HurnAl01,Allen Hurns,WR,2014,23,JAX,WR,88,16,8,788,76%,0,0%,2,0%
+HurnAl01,Allen Hurns,WR,2015,24,JAX,WR,88,15,15,865,87%,0,0%,4,1%
+HurnAl01,Allen Hurns,WR,2016,25,JAX,WR,88,11,11,637,83%,0,0%,1,0%
+HurnAl01,Allen Hurns,WR,2017,26,JAX,WR,88,10,8,537,77%,0,0%,1,0%
+HurnAl01,Allen Hurns,WR,2018,27,DAL,WR,17,16,7,451,42%,0,0%,3,1%
+HurnAl01,Allen Hurns,WR,2019,28,MIA,WR,17,14,7,522,54%,0,0%,2,1%

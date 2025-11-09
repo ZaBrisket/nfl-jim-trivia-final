@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+MaddTo00,Tommy Maddox,QB,1992,21,DEN,NFL,QB,13,4,0,0,0,0,,0,4,2,0,0,0.0,0,0,0,,0,
+MaddTo00,Tommy Maddox,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MaddTo00,Tommy Maddox,QB,1995,24,NYG,NFL,QB,16,0,0,0,0,0,,0,1,0,0,0,0.0,0,0,0,,0,
+MaddTo00,Tommy Maddox,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MaddTo00,Tommy Maddox,QB,2001,30,PIT,NFL,QB,3,0,0,0,0,0,0,0,1,0,0,0,0.0,,,,,0,
+MaddTo00,Tommy Maddox,QB,2002,31,PIT,NFL,QB,15,11,0,0,0,0,0,0,8,5,-3,0,0.0,1,1,0,0,0,AP CPoY-1
+MaddTo00,Tommy Maddox,QB,2003,32,PIT,NFL,QB,16,16,0,0,0,0,0,0,5,1,-6,0,0.0,0,0,0,0,0,
+MaddTo00,Tommy Maddox,QB,2004,33,PIT,NFL,QB,4,3,0,0,0,0,0,0,3,0,0,0,0.0,,,,,0,
+MaddTo00,Tommy Maddox,QB,2005,34,PIT,NFL,QB,4,2,0,0,0,0,0,0,2,0,-9,0,0.0,0,0,0,0,0,

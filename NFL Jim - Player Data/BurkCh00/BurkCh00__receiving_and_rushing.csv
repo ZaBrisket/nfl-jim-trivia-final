@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BurkCh00,Chris Burkett,WR,1985,23,BUF,NFL,WR,16,1,43,21,371,17.7,0,16,39.5,38,1.3,23.2,48.8,8.6,0,0,0,0,,,,0.0,0.0,21,17.7,371,0,0,2,
+BurkCh00,Chris Burkett,WR,1986,24,BUF,NFL,WR,14,10,60,34,778,22.9,4,29,53.3,84,2.4,55.6,56.7,13.0,0,0,0,0,,,,0.0,0.0,34,22.9,778,4,1,7,
+BurkCh00,Chris Burkett,WR,1987,25,BUF,NFL,WR,12,12,79,56,765,13.7,4,34,57.0,47,4.7,63.8,70.9,9.7,0,0,0,0,,,,0.0,0.0,56,13.7,765,4,1,6,
+BurkCh00,Chris Burkett,WR,1988,26,BUF,NFL,WR,11,8,56,23,354,15.4,1,19,39.3,34,2.1,32.2,41.1,6.3,0,0,0,0,,,,0.0,0.0,23,15.4,354,1,0,4,
+BurkCh00,Chris Burkett,WR,1989,27,2TM,NFL,WR,15,5,48,24,298,12.4,1,17,45.8,30,1.6,19.9,50.0,6.2,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,25,11.8,294,1,0,2,
+BurkCh00,Chris Burkett,WR,1989,27,BUF,NFL,WR,2,2,7,3,20,6.7,0,1,42.9,9,1.5,10.0,42.9,2.9,0,0,0,0,,,,0.0,0.0,3,6.7,20,0,0,0,
+BurkCh00,Chris Burkett,WR,1989,27,NYJ,NFL,WR,13,3,41,21,278,13.2,1,16,46.3,30,1.6,21.4,51.2,6.8,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,22,12.5,274,1,0,2,
+BurkCh00,Chris Burkett,WR,1990,28,NYJ,NFL,WR,16,4,27,14,204,14.6,0,9,48.1,46,0.9,12.8,51.9,7.6,0,0,0,0,,,,0.0,0.0,14,14.6,204,0,0,2,
+BurkCh00,Chris Burkett,WR,1991,29,NYJ,NFL,WR,15,1,43,23,327,14.2,4,20,53.5,50,1.5,21.8,53.5,7.6,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,24,13.5,325,4,0,3,
+BurkCh00,Chris Burkett,WR,1992,30,NYJ,NFL,WR,16,5,96,57,724,12.7,1,36,49.0,37,3.6,45.3,59.4,7.5,0,0,0,0,,,,0.0,0.0,57,12.7,724,1,1,6,
+BurkCh00,Chris Burkett,WR,1993,31,NYJ,NFL,WR,16,16,78,40,531,13.3,4,25,43.6,77,2.5,33.2,51.3,6.8,0,0,0,0,,,,0.0,0.0,40,13.3,531,4,1,5,

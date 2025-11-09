@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HerbJu00,Justin Herbert,QB,2020,22,LAC,NFL,QB,15,15,102,105,107,108,109,106,111,109,109,AP ORoY-1
+HerbJu00,Justin Herbert,QB,2021,23,LAC,NFL,QB,17,17,107,111,107,110,104,111,100,112,108,PB
+HerbJu00,Justin Herbert,QB,2022,24,LAC,NFL,QB,17,17,93,99,99,103,117,91,119,109,105,AP MVP-9
+HerbJu00,Justin Herbert,QB,2023,25,LAC,NFL,QB,13,13,97,98,104,104,104,104,118,106,107,
+HerbJu00,Justin Herbert,QB,2024,26,LAC,NFL,QB,17,17,112,110,120,118,104,103,132,96,116,"AP MVP-9,AP CPoY-12"
+HerbJu00,Justin Herbert,QB,2025,27,LAC,NFL,QB,9,9,104,102,103,102,108,108,95,94,105,

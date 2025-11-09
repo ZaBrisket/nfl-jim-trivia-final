@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HawkFr00,Frank Hawkins,RB,1981,22,OAK,NFL,RB,13,0,40,165,0,11,55.0,19,4.1,12.7,3.1,13,10,109,10.9,0,3,61.5,35,0.8,8.4,76.9,8.4,50,5.5,274,0,1,2,
+HawkFr00,Frank Hawkins,RB,1982,23,RAI,NFL,RB,9,0,27,54,2,7,37.0,11,2.0,6.0,3.0,10,7,35,5.0,1,2,50.0,9,0.8,3.9,70.0,3.5,34,2.6,89,3,1,1,
+HawkFr00,Frank Hawkins,RB,1983,24,RAI,NFL,RB,16,2,110,526,6,42,63.6,32,4.8,32.9,6.9,23,20,150,7.5,2,6,52.2,28,1.3,9.4,87.0,6.5,130,5.2,676,8,2,5,
+HawkFr00,Frank Hawkins,RB,1984,25,RAI,NFL,RB,16,0,108,376,3,29,52.8,17,3.5,23.5,6.8,10,7,51,7.3,0,4,50.0,15,0.4,3.2,70.0,5.1,115,3.7,427,3,3,3,
+HawkFr00,Frank Hawkins,RB,1985,26,RAI,NFL,FB,16,16,84,269,4,17,42.9,21,3.2,16.8,5.3,33,27,174,6.4,0,7,54.5,20,1.7,10.9,81.8,5.3,111,4.0,443,4,0,3,
+HawkFr00,Frank Hawkins,RB,1986,27,RAI,NFL,FB,16,15,58,245,0,15,44.8,15,4.2,15.3,3.6,37,25,166,6.6,0,9,43.2,16,1.6,10.4,67.6,4.5,83,5.0,411,0,0,3,
+HawkFr00,Frank Hawkins,RB,1987,28,RAI,NFL,RB,2,1,4,24,0,1,50.0,7,6.0,12.0,2.0,1,1,6,6.0,0,0,0.0,6,0.5,3.0,100.0,6.0,5,6.0,30,0,0,0,

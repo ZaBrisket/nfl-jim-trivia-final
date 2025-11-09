@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MackSt00,Stacey Mack,RB,1999,24,JAX,NFL,RB,12,0,7,40,0,2,28.6,19,5.7,3.3,0.6,0,0,0,,0,0,,,0.0,0.0,,,7,5.7,40,0,0,0,
+MackSt00,Stacey Mack,RB,2000,25,JAX,NFL,RB,6,2,54,145,1,10,24.1,14,2.7,24.2,9.0,0,0,0,,0,0,,,0.0,0.0,,,54,2.7,145,1,3,1,
+MackSt00,Stacey Mack,RB,2001,26,JAX,NFL,RB,16,11,213,877,9,50,46.5,54,4.1,54.8,13.3,34,23,165,7.2,1,6,44.1,25,1.4,10.3,67.6,4.9,236,4.4,1042,10,3,8,
+MackSt00,Stacey Mack,RB,2002,27,JAX,NFL,RB,16,0,98,436,9,38,59.2,23,4.4,27.3,6.1,13,11,79,7.2,0,5,46.2,12,0.7,4.9,84.6,6.1,109,4.7,515,9,0,4,
+MackSt00,Stacey Mack,RB,2003,28,HOU,NFL,RB,8,5,93,253,4,15,34.4,13,2.7,31.6,11.6,12,9,55,6.1,0,3,50.0,10,1.1,6.9,75.0,4.6,102,3.0,308,4,2,2,

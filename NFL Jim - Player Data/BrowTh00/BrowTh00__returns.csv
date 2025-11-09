@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BrowTh00,Theotis Brown,RB,1980,23,STL,NFL,RB,16,0,0,0,0,0,2,26,0,16,13.0,502,
+BrowTh00,Theotis Brown,RB,,,,,,,,,,,,,,,,,,
+BrowTh00,Theotis Brown,RB,1982,25,SEA,NFL,RB,9,0,0,0,0,0,2,33,0,19,16.5,269,
+BrowTh00,Theotis Brown,RB,1983,26,2TM,NFL,FB,15,9,0,0,0,0,15,301,0,46,20.1,1200,
+BrowTh00,Theotis Brown,RB,1983,26,KAN,NFL,FB,12,9,0,0,0,0,15,301,0,46,20.1,1186,

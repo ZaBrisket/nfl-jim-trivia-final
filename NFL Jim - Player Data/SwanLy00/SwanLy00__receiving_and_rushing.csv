@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SwanLy00,Lynn Swann,WR,1974,22,PIT,NFL,WR,12,2,,11,208,18.9,2,,,54,0.9,17.3,,,1,14,0,,,14,14.0,1.2,0.1,12,18.5,222,2,5,4,
+SwanLy00,Lynn Swann,WR,1975,23,PIT,NFL,WR,14,12,,49,781,15.9,11,,,43,3.5,55.8,,,3,13,0,,,11,4.3,0.9,0.2,52,15.3,794,11,4,12,"PB,AP-2"
+SwanLy00,Lynn Swann,WR,1976,24,PIT,NFL,WR,12,10,,28,516,18.4,3,,,47,2.3,43.0,,,1,2,0,,,2,2.0,0.2,0.1,29,17.9,518,3,0,9,
+SwanLy00,Lynn Swann,WR,1977,25,PIT,NFL,WR,14,14,,50,789,15.8,7,,,46,3.6,56.4,,,2,6,0,,,14,3.0,0.4,0.1,52,15.3,795,7,1,11,"PB,AP-2"
+SwanLy00,Lynn Swann,WR,1978,26,PIT,NFL,WR,16,16,118,61,880,14.4,11,49,44.9,62,3.8,55.0,51.7,7.5,1,7,0,0,100.0,7,7.0,0.4,0.1,62,14.3,887,11,0,12,"PB,AP-1"
+SwanLy00,Lynn Swann,WR,1979,27,PIT,NFL,WR,13,11,86,41,808,19.7,5,34,43.0,65,3.2,62.2,47.7,9.4,1,9,1,1,100.0,9,9.0,0.7,0.1,42,19.5,817,6,0,8,
+SwanLy00,Lynn Swann,WR,1980,28,PIT,NFL,WR,13,11,84,44,710,16.1,7,37,47.6,68,3.4,54.6,52.4,8.5,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,45,15.7,706,7,0,7,
+SwanLy00,Lynn Swann,WR,1981,29,PIT,NFL,WR,13,12,80,34,505,14.9,5,26,36.3,44,2.6,38.8,42.5,6.3,0,0,0,0,,,,0.0,0.0,34,14.9,505,5,1,5,
+SwanLy00,Lynn Swann,WR,1982,30,PIT,NFL,WR,9,8,42,18,265,14.7,0,13,42.9,60,2.0,29.4,42.9,6.3,1,25,0,1,100.0,25,25.0,2.8,0.1,19,15.3,290,0,0,5,

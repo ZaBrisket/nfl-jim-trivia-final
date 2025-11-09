@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AghoNe00,Nelson Agholor,WR,2015,22,PHI,NFL,WR,13,12,44,23,283,12.3,1,11,45.5,53,1.8,21.8,52.3,6.4,0,0,0,0,,,,0.0,0.0,23,12.3,283,1,1,2,
+AghoNe00,Nelson Agholor,WR,2016,23,PHI,NFL,WR,15,14,69,36,365,10.1,2,15,39.1,40,2.4,24.3,52.2,5.3,5,14,0,0,40.0,5,2.8,0.9,0.3,41,9.2,379,2,1,3,
+AghoNe00,Nelson Agholor,WR,2017,24,PHI,NFL,WR,16,10,95,62,768,12.4,8,35,47.4,72,3.9,48.0,65.3,8.1,1,7,0,1,100.0,7,7.0,0.4,0.1,63,12.3,775,8,0,7,
+AghoNe00,Nelson Agholor,WR,2018,25,PHI,NFL,WR,16,16,97,64,736,11.5,4,28,45.4,83,4.0,46.0,66.0,7.6,3,32,0,2,66.7,16,10.7,2.0,0.2,67,11.5,768,4,1,6,
+AghoNe00,Nelson Agholor,WR,2019,26,PHI,NFL,WR,11,10,69,39,363,9.3,3,17,47.8,43,3.5,33.0,56.5,5.3,2,7,0,1,50.0,16,3.5,0.6,0.2,41,9.0,370,3,2,3,
+AghoNe00,Nelson Agholor,WR,2020,27,LVR,NFL,WR,16,13,82,48,896,18.7,8,37,53.7,85,3.0,56.0,58.5,10.9,0,0,0,0,,,,0.0,0.0,48,18.7,896,8,0,8,
+AghoNe00,Nelson Agholor,WR,2021,28,NWE,NFL,WR,15,13,64,37,473,12.8,3,23,45.3,44,2.5,31.5,57.8,7.4,3,11,0,0,33.3,6,3.7,0.7,0.2,40,12.1,484,3,0,5,
+AghoNe00,Nelson Agholor,WR,2022,29,NWE,NFL,WR,16,7,53,31,362,11.7,2,12,37.7,44,1.9,22.6,58.5,6.8,0,0,0,0,,,,0.0,0.0,31,11.7,362,2,2,3,
+AghoNe00,Nelson Agholor,WR,2023,30,BAL,NFL,WR,17,3,45,35,381,10.9,4,19,55.6,37,2.1,22.4,77.8,8.5,0,0,0,0,,,,0.0,0.0,35,10.9,381,4,1,4,
+AghoNe00,Nelson Agholor,WR,2024,31,BAL,NFL,WR,14,7,29,14,231,16.5,2,10,37.9,56,1.0,16.5,48.3,8.0,0,0,0,0,,,,0.0,0.0,14,16.5,231,2,0,2,

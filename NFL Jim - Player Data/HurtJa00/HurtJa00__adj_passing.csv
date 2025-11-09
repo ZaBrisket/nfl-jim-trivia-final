@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HurtJa00,Jalen Hurts,QB,2020,22,PHI,NFL,QB,15,4,100,98,96,95,46,95,92,85,81,
+HurtJa00,Jalen Hurts,QB,2021,23,PHI,NFL,QB,15,15,103,105,101,102,85,92,103,104,94,
+HurtJa00,Jalen Hurts,QB,2022,24,PHI,NFL,QB,15,15,123,117,125,119,109,106,122,91,118,"PB,AP-2,AP MVP-2,AP OPoY-3"
+HurtJa00,Jalen Hurts,QB,2023,25,PHI,NFL,QB,17,17,103,105,99,101,105,102,89,104,100,PB
+HurtJa00,Jalen Hurts,QB,2024,26,PHI,NFL,QB,15,15,120,109,122,113,115,108,117,81,119,
+HurtJa00,Jalen Hurts,QB,2025,27,PHI,NFL,QB,8,8,112,104,123,116,117,122,127,78,126,

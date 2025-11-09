@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+DaveNa00,Najeh Davenport,RB,2002,23,GNB,NFL,RB,8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+DaveNa00,Najeh Davenport,RB,2003,24,GNB,NFL,RB,15,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+DaveNa00,Najeh Davenport,RB,2004,25,GNB,NFL,RB,11,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+DaveNa00,Najeh Davenport,RB,2005,26,GNB,NFL,RB,5,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.4,
+DaveNa00,Najeh Davenport,RB,2006,27,PIT,NFL,RB,13,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+DaveNa00,Najeh Davenport,RB,2007,28,PIT,NFL,RB,15,1,5,2,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,

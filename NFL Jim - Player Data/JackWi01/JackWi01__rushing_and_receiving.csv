@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JackWi01,Wilbur Jackson,RB,1974,23,SFO,NFL,RB,14,13,174,705,0,,,64,4.1,50.4,12.4,,23,190,8.3,2,,,31,1.6,13.6,,,197,4.5,895,2,4,7,
+JackWi01,Wilbur Jackson,RB,1975,24,SFO,NFL,RB,14,2,78,303,0,,,44,3.9,21.6,5.6,,17,128,7.5,0,,,20,1.2,9.1,,,95,4.5,431,0,8,3,
+JackWi01,Wilbur Jackson,RB,1976,25,SFO,NFL,FB,14,14,200,792,1,,,24,4.0,56.6,14.3,,33,324,9.8,1,,,32,2.4,23.1,,,233,4.8,1116,2,3,10,
+JackWi01,Wilbur Jackson,RB,1977,26,SFO,NFL,FB,14,14,179,780,7,,,80,4.4,55.7,12.8,,22,169,7.7,0,,,24,1.6,12.1,,,201,4.7,949,7,3,10,
+JackWi01,Wilbur Jackson,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JackWi01,Wilbur Jackson,RB,1979,28,SFO,NFL,FB,16,14,114,375,2,24,47.4,16,3.3,23.4,7.1,75,53,422,8.0,0,22,48.0,34,3.3,26.4,70.7,5.6,167,4.8,797,2,6,7,
+JackWi01,Wilbur Jackson,RB,1980,29,WAS,NFL,RB,16,14,176,708,3,33,43.2,55,4.0,44.3,11.0,35,27,279,10.3,1,10,57.1,27,1.7,17.4,77.1,8.0,203,4.9,987,4,10,6,
+JackWi01,Wilbur Jackson,RB,1981,30,WAS,NFL,RB,5,2,46,183,0,10,50.0,14,4.0,36.6,9.2,9,7,51,7.3,0,2,66.7,16,1.4,10.2,77.8,5.7,53,4.4,234,0,2,2,
+JackWi01,Wilbur Jackson,RB,1982,31,WAS,NFL,RB,1,0,4,6,0,0,0.0,2,1.5,6.0,4.0,1,1,9,9.0,0,0,0.0,9,1.0,9.0,100.0,9.0,5,3.0,15,0,0,0,

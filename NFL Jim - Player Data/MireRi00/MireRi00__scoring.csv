@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MireRi00,Rick Mirer,QB,1993,23,SEA,NFL,QB,16,16,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,AP ORoY-2
+MireRi00,Rick Mirer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MireRi00,Rick Mirer,QB,1995,25,SEA,NFL,QB,15,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+MireRi00,Rick Mirer,QB,1996,26,SEA,NFL,QB,11,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.1,
+MireRi00,Rick Mirer,QB,1997,27,CHI,NFL,QB,7,3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,8,1.1,
+MireRi00,Rick Mirer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MireRi00,Rick Mirer,QB,1999,29,NYJ,NFL,QB,8,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+MireRi00,Rick Mirer,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MireRi00,Rick Mirer,QB,2003,33,OAK,NFL,QB,9,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,

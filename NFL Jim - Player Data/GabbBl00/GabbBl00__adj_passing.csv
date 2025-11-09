@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GabbBl00,Blaine Gabbert,QB,2011,22,JAX,NFL,QB,15,14,65,61,75,71,66,84,103,79,75,
+GabbBl00,Blaine Gabbert,QB,2012,23,JAX,NFL,QB,10,10,76,77,86,85,91,88,110,92,90,
+GabbBl00,Blaine Gabbert,QB,2013,24,JAX,NFL,QB,3,3,63,56,35,36,51,63,4,53,33,
+GabbBl00,Blaine Gabbert,QB,,,,,,,,,,,,,,,,,
+GabbBl00,Blaine Gabbert,QB,2015,26,SFO,NFL,QB,8,8,100,93,97,92,101,89,98,83,95,
+GabbBl00,Blaine Gabbert,QB,2016,27,SFO,NFL,QB,6,5,69,74,68,71,77,85,75,97,71,
+GabbBl00,Blaine Gabbert,QB,2017,28,ARI,NFL,QB,5,5,83,71,79,72,72,90,80,59,76,
+GabbBl00,Blaine Gabbert,QB,2018,29,TEN,NFL,QB,8,3,80,86,76,80,88,94,73,114,80,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+AlleTe00,Terry Allen,RB,1991,23,MIN,NFL,FB,15,6,0,0,0,0,,0,4,1,0,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1992,24,MIN,NFL,RB,16,16,0,0,0,0,,0,9,2,0,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1993,,Did not play - Injured (knee),,,,,,,,,,,,,,,,,,,,,
+AlleTe00,Terry Allen,RB,1994,26,MIN,NFL,RB,16,16,0,0,0,0,,0,3,2,4,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1995,27,WAS,NFL,RB,16,16,0,0,0,0,,1,6,1,0,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1996,28,WAS,NFL,RB,16,16,0,0,0,0,,0,4,0,0,0,0.0,0,0,0,,0,"PB,AP-2"
+AlleTe00,Terry Allen,RB,1997,29,WAS,NFL,RB,10,10,0,0,0,0,,0,2,1,0,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1998,30,WAS,NFL,RB,10,10,0,0,0,0,,0,4,1,0,0,0.0,0,0,0,,0,
+AlleTe00,Terry Allen,RB,1999,31,NWE,NFL,RB,16,13,0,0,0,0,0,0,8,1,0,0,0.0,0,0,0,0,0,
+AlleTe00,Terry Allen,RB,,,,,,,,,,,,,,,,,,,,,,,,
+AlleTe00,Terry Allen,RB,2001,33,BAL,NFL,RB,11,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,

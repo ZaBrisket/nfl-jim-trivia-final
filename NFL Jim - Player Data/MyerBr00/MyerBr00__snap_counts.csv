@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MyerBr00,Brandon Myers,TE,2012,27,OAK,TE,83,16,16,1008,93%,0,0%,112,23%
+MyerBr00,Brandon Myers,TE,2013,28,NYG,TE,83,16,14,850,83%,0,0%,58,12%
+MyerBr00,Brandon Myers,TE,2014,29,TAM,TE,82,14,6,465,54%,0,0%,62,16%
+MyerBr00,Brandon Myers,TE,2015,30,TAM,TE,82,11,6,314,42%,0,0%,109,35%
+MyerBr00,Brandon Myers,TE,2016,31,TAM,TE,82,16,9,396,35%,0,0%,180,41%

@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+IngrMa00,Mark Ingram,WR,1988,23,NYG,NFL,WR,7,4,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.9,
+IngrMa00,Mark Ingram,WR,1989,24,NYG,NFL,WR,16,3,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+IngrMa00,Mark Ingram,WR,1990,25,NYG,NFL,WR,16,14,0,5,0,0,0,0,0,5,,0,0,0,0,0,30,1.9,
+IngrMa00,Mark Ingram,WR,1991,26,NYG,NFL,WR,16,13,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+IngrMa00,Mark Ingram,WR,1992,27,NYG,NFL,WR,12,12,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+IngrMa00,Mark Ingram,WR,1993,28,MIA,NFL,WR,16,16,0,6,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+IngrMa00,Mark Ingram,WR,1994,29,MIA,NFL,WR,15,13,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+IngrMa00,Mark Ingram,WR,1995,30,GNB,NFL,WR,16,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,

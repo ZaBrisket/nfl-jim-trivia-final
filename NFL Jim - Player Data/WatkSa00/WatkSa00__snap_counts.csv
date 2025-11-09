@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WatkSa00,Sammy Watkins,WR,2014,21,BUF,WR,14,16,16,1026,97%,0,0%,2,0%
+WatkSa00,Sammy Watkins,WR,2015,22,BUF,WR,14,13,13,715,82%,3,0%,1,0%
+WatkSa00,Sammy Watkins,WR,2016,23,BUF,WR,14,8,8,381,76%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,2017,24,LAR,WR,12,15,14,774,80%,0,0%,1,0%
+WatkSa00,Sammy Watkins,WR,2018,25,KAN,WR,14,10,9,459,70%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,2019,26,KAN,WR,14,14,13,740,79%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,2020,27,KAN,WR,14,10,9,527,73%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,2021,28,BAL,WR,14,13,9,458,49%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,2022,29,2TM,WR,,12,5,357,,0,,0,
+WatkSa00,Sammy Watkins,WR,,,GNB,WR,11,9,3,279,50%,0,0%,0,0%
+WatkSa00,Sammy Watkins,WR,,,,,,,,78,43%,0,0%,0,0%

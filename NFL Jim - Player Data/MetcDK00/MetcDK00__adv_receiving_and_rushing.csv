@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+MetcDK00,D.K. Metcalf,WR,2019,22,SEA,NFL,WR,16,15,100,58,900,39,627,10.8,273,4.7,13.0,4,14.5,7,7.0,1,107.1,2,11,0,4,2.0,7,3.5,2,1.0,
+MetcDK00,D.K. Metcalf,WR,2020,23,SEA,NFL,WR,16,16,129,83,1303,63,940,11.3,363,4.4,13.7,8,10.4,8,6.2,4,110.7,0,0,0,0,,0,,0,,"PB,AP-2"
+MetcDK00,D.K. Metcalf,WR,2021,24,SEA,NFL,WR,17,17,129,75,967,48,639,8.5,328,4.4,12.7,8,9.4,4,3.1,2,106.3,1,6,0,4,4.0,2,2.0,0,,
+MetcDK00,D.K. Metcalf,WR,2022,25,SEA,NFL,WR,17,17,141,90,1048,47,831,9.2,217,2.4,11.2,1,90.0,7,5.0,4,88.6,0,0,0,0,,0,,0,,
+MetcDK00,D.K. Metcalf,WR,2023,26,SEA,NFL,WR,16,16,119,66,1114,52,747,11.3,367,5.6,12.8,7,9.4,7,5.9,4,95.7,0,0,0,0,,0,,0,,PB
+MetcDK00,D.K. Metcalf,WR,2024,27,SEA,NFL,WR,15,12,108,66,992,35,729,11.0,263,4.0,13.1,3,22.0,4,3.7,2,99.0,0,0,0,0,,0,,0,,
+MetcDK00,D.K. Metcalf,WR,2025,28,PIT,NFL,WR,8,8,47,29,467,21,192,6.6,275,9.5,9.9,4,7.3,4,8.5,2,112.6,0,0,0,0,,0,,0,,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ClayMa00,Mark Clayton,WR,1983,22,MIA,NFL,WR,14,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,
+ClayMa00,Mark Clayton,WR,1984,23,MIA,NFL,WR,15,15,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,"PB,AP-2"
+ClayMa00,Mark Clayton,WR,1985,24,MIA,NFL,WR,16,16,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,PB
+ClayMa00,Mark Clayton,WR,1986,25,MIA,NFL,WR,15,14,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,PB
+ClayMa00,Mark Clayton,WR,,,,,,,,,,,,,,,,,,,,,,
+ClayMa00,Mark Clayton,WR,1989,28,MIA,NFL,WR,15,15,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ClayMa00,Mark Clayton,WR,1990,29,MIA,NFL,WR,10,10,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ClayMa00,Mark Clayton,WR,,,,,,,,,,,,,,,,,,,,,,
+ClayMa00,Mark Clayton,WR,1992,31,MIA,NFL,WR,13,13,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

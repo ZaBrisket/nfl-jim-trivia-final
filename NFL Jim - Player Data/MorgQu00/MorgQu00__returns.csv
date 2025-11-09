@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MorgQu00,Quincy Morgan,WR,2001,24,CLE,NFL,WR,16,9,0,0,0,0,7,175,0,51,25.0,634,
+MorgQu00,Quincy Morgan,WR,,,,,,,,,,,,,,,,,,
+MorgQu00,Quincy Morgan,WR,2003,26,CLE,NFL,WR,16,15,0,0,0,0,2,67,0,47,33.5,579,
+MorgQu00,Quincy Morgan,WR,2004,27,2TM,NFL,WR,15,12,0,0,0,0,2,25,0,19,12.5,452,
+MorgQu00,Quincy Morgan,WR,2004,27,DAL,NFL,WR,9,7,0,0,0,0,2,25,0,19,12.5,308,
+MorgQu00,Quincy Morgan,WR,2005,28,PIT,NFL,WR,16,0,0,0,0,0,23,583,0,74,25.3,733,
+MorgQu00,Quincy Morgan,WR,2006,29,DEN,NFL,WR,7,0,0,0,0,0,17,423,0,64,24.9,423,

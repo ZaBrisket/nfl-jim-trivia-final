@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PryoTe00,Terrelle Pryor,QB,2012,23,OAK,QB,6,3,1,70,35%,0,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,2013,24,OAK,QB,2,11,9,588,80%,0,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,2015,26,CLE,WR,17,3,2,91,42%,0,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,2016,27,CLE,WR,11,16,15,900,87%,1,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,2017,28,WAS,WR,11,9,2,378,64%,0,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,2018,29,2TM,WR,,8,1,277,,0,,0,
+PryoTe00,Terrelle Pryor,QB,,,NYJ,WR,16,6,0,171,45%,0,0%,0,0%
+PryoTe00,Terrelle Pryor,QB,,,,,,,,106,65%,0,0%,0,0%

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ColeKe00,Keelan Cole,WR,2017,24,JAX,WR,84,16,6,749,67%,0,0%,79,16%
+ColeKe00,Keelan Cole,WR,2018,25,JAX,WR,84,16,11,687,66%,0,0%,72,17%
+ColeKe00,Keelan Cole,WR,2019,26,JAX,WR,84,16,1,370,34%,0,0%,44,10%
+ColeKe00,Keelan Cole,WR,2020,27,JAX,WR,84,16,5,785,76%,0,0%,165,37%
+ColeKe00,Keelan Cole,WR,2021,28,NYJ,WR,88,15,11,557,58%,0,0%,35,8%
+ColeKe00,Keelan Cole,WR,2022,29,LVR,WR,84,14,3,369,40%,0,0%,31,8%

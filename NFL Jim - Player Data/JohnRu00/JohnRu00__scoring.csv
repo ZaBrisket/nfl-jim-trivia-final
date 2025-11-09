@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JohnRu00,Rudi Johnson,RB,2003,24,CIN,NFL,RB,13,5,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,4.2,
+JohnRu00,Rudi Johnson,RB,2004,25,CIN,NFL,RB,16,16,12,0,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,PB
+JohnRu00,Rudi Johnson,RB,2005,26,CIN,NFL,RB,16,14,12,0,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,
+JohnRu00,Rudi Johnson,RB,2006,27,CIN,NFL,RB,16,15,12,0,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,
+JohnRu00,Rudi Johnson,RB,2007,28,CIN,NFL,RB,11,9,3,1,0,0,0,0,0,4,1,0,0,0,0,0,26,2.4,
+JohnRu00,Rudi Johnson,RB,2008,29,DET,NFL,RB,14,4,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SimsBi00,Billy Sims,RB,1980,25,DET,NFL,RB,16,16,313,1303,13,75,43.1,52,4.2,81.4,19.6,67,51,621,12.2,3,25,50.7,87,3.2,38.8,76.1,9.3,364,5.3,1924,16,12,15,"PB,AP-2,AP ORoY-1"
+SimsBi00,Billy Sims,RB,1981,26,DET,NFL,RB,14,14,296,1437,13,83,52.0,51,4.9,102.6,21.1,50,28,451,16.1,2,18,40.0,81,2.0,32.2,56.0,9.0,324,5.8,1888,15,9,16,"PB,AP-2,AP OPoY-6"
+SimsBi00,Billy Sims,RB,1982,27,DET,NFL,RB,9,8,172,639,4,41,48.8,29,3.7,71.0,19.1,51,34,342,10.1,0,14,47.1,52,3.8,38.0,66.7,6.7,206,4.8,981,4,7,14,PB
+SimsBi00,Billy Sims,RB,1983,28,DET,NFL,RB,13,12,220,1040,7,57,54.5,41,4.7,80.0,16.9,54,42,419,10.0,0,13,51.9,54,3.2,32.2,77.8,7.8,262,5.6,1459,7,6,12,
+SimsBi00,Billy Sims,RB,1984,29,DET,NFL,RB,8,8,130,687,5,33,55.4,81,5.3,85.9,16.3,40,31,239,7.7,0,13,55.0,20,3.9,29.9,77.5,6.0,161,5.8,926,5,6,6,

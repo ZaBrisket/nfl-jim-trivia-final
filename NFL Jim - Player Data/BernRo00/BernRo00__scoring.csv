@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BernRo00,Rod Bernstine,RB,1987,22,SDG,NFL,TE,10,2,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.6,
+BernRo00,Rod Bernstine,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BernRo00,Rod Bernstine,RB,1989,24,SDG,NFL,RB,5,0,1,1,0,0,0,0,0,2,,0,0,0,0,0,12,2.4,
+BernRo00,Rod Bernstine,RB,1990,25,SDG,NFL,RB,12,1,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,2.0,
+BernRo00,Rod Bernstine,RB,1991,26,SDG,NFL,RB,13,8,8,0,0,0,0,0,0,8,,0,0,0,0,0,48,3.7,
+BernRo00,Rod Bernstine,RB,1992,27,SDG,NFL,RB,9,1,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,2.7,
+BernRo00,Rod Bernstine,RB,1993,28,DEN,NFL,RB,15,14,4,0,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,
+BernRo00,Rod Bernstine,RB,,,,,,,,,,,,,,,,,,,,,,,,
+BernRo00,Rod Bernstine,RB,1995,30,DEN,NFL,FB,3,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,

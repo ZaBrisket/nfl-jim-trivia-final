@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+RoseTi00,Timm Rosenbach,QB,1989,23,2,QB,2,,62,,All 1989 Games
+RoseTi00,Timm Rosenbach,QB,1990,24,16,QB,209,40,6,27,All 1990 Games
+RoseTi00,Timm Rosenbach,QB,1992,26,8,QB,4,,60,,All 1992 Games

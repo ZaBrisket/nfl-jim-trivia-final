@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HoarLe00,Leroy Hoard,RB,1990,22,CLE,NFL,RB,14,5,3,0,0,0,0,0,0,3,,0,0,0,0,0,18,1.3,
+HoarLe00,Leroy Hoard,RB,1991,23,CLE,NFL,RB,16,9,2,9,0,0,0,0,0,11,,0,0,0,0,0,66,4.1,
+HoarLe00,Leroy Hoard,RB,1992,24,CLE,NFL,RB,16,9,0,1,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+HoarLe00,Leroy Hoard,RB,,,,,,,,,,,,,,,,,,,,,,,,
+HoarLe00,Leroy Hoard,RB,1994,26,CLE,NFL,FB,16,12,5,4,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,PB
+HoarLe00,Leroy Hoard,RB,,,,,,,,,,,,,,,,,,,,,,,,
+HoarLe00,Leroy Hoard,RB,1996,28,3TM,NFL,RB,11,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.6,
+HoarLe00,Leroy Hoard,RB,1996,28,MIN,NFL,RB,6,6,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,3.0,
+HoarLe00,Leroy Hoard,RB,1997,29,MIN,NFL,RB,12,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,2.0,
+HoarLe00,Leroy Hoard,RB,1998,30,MIN,NFL,RB,16,1,9,1,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,
+HoarLe00,Leroy Hoard,RB,1999,31,MIN,NFL,RB,15,3,10,0,0,0,0,0,0,10,0,0,0,0,0,0,60,4.0,

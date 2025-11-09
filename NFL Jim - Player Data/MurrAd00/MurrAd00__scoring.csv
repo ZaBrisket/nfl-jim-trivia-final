@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MurrAd00,Adrian Murrell,RB,1993,23,NYJ,NFL,RB,16,0,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.4,
+MurrAd00,Adrian Murrell,RB,,,,,,,,,,,,,,,,,,,,,,,,
+MurrAd00,Adrian Murrell,RB,1995,25,NYJ,NFL,RB,15,9,1,2,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+MurrAd00,Adrian Murrell,RB,1996,26,NYJ,NFL,RB,16,16,6,1,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+MurrAd00,Adrian Murrell,RB,1997,27,NYJ,NFL,RB,16,15,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+MurrAd00,Adrian Murrell,RB,1998,28,ARI,NFL,RB,15,14,8,2,0,0,0,0,0,10,0,0,0,0,0,0,60,4.0,

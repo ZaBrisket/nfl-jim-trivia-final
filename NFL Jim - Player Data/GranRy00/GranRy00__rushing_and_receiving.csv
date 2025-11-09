@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GranRy00,Ryan Grant,RB,2007,25,GNB,NFL,RB,15,7,188,956,8,38,45.2,66,5.1,63.7,12.5,37,30,145,4.8,0,9,43.2,21,2.0,9.7,81.1,3.9,218,5.1,1101,8,1,8,
+GranRy00,Ryan Grant,RB,2008,26,GNB,NFL,RB,16,14,312,1203,4,54,44.6,57,3.9,75.2,19.5,22,18,116,6.4,1,3,45.5,17,1.1,7.3,81.8,5.3,330,4.0,1319,5,4,9,
+GranRy00,Ryan Grant,RB,2009,27,GNB,NFL,RB,16,16,282,1253,11,64,46.5,62,4.4,78.3,17.6,30,25,197,7.9,0,9,56.7,27,1.6,12.3,83.3,6.6,307,4.7,1450,11,1,12,
+GranRy00,Ryan Grant,RB,2010,28,GNB,NFL,RB,1,1,8,45,0,2,37.5,18,5.6,45.0,8.0,0,0,0,,0,0,,,0.0,0.0,,,8,5.6,45,0,0,0,
+GranRy00,Ryan Grant,RB,2011,29,GNB,NFL,RB,15,14,134,559,2,27,42.5,47,4.2,37.3,8.9,24,19,268,14.1,1,10,66.7,80,1.3,17.9,79.2,11.2,153,5.4,827,3,1,9,
+GranRy00,Ryan Grant,RB,2012,30,2TM,NFL,RB,5,1,32,132,2,8,37.5,18,4.1,26.4,6.4,2,1,34,34.0,0,1,50.0,34,0.2,6.8,50.0,17.0,33,5.0,166,2,1,1,
+GranRy00,Ryan Grant,RB,2012,30,WAS,NFL,RB,1,0,1,5,0,0,0.0,5,5.0,5.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,5.0,5,0,0,0,
+GranRy00,Ryan Grant,RB,2012,30,GNB,NFL,RB,4,1,31,127,2,8,38.7,18,4.1,31.8,7.8,2,1,34,34.0,0,1,50.0,34,0.3,8.5,50.0,17.0,32,5.0,161,2,1,1,

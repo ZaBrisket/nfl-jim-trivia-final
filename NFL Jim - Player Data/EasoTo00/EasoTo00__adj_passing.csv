@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+EasoTo00,Tony Eason,QB,1983,24,NWE,NFL,QB,16,4,75,58,71,61,74,66,87,62,67,
+EasoTo00,Tony Eason,QB,1984,25,NWE,NFL,QB,16,13,108,97,121,113,113,112,130,77,122,
+EasoTo00,Tony Eason,QB,1985,26,NWE,NFL,QB,16,10,103,101,91,91,102,95,78,97,91,
+EasoTo00,Tony Eason,QB,1986,27,NWE,NFL,QB,15,14,110,105,117,114,125,101,125,94,120,AP MVP-6
+EasoTo00,Tony Eason,QB,1987,28,NWE,NFL,QB,4,3,74,70,91,87,94,96,120,88,98,
+EasoTo00,Tony Eason,QB,,,,,,,,,,,,,,,,,
+EasoTo00,Tony Eason,QB,1989,30,2TM,NFL,QB,5,5,78,72,74,70,71,64,74,65,71,
+EasoTo00,Tony Eason,QB,1989,30,NWE,NFL,QB,3,3,105,99,100,96,96,86,99,89,95,

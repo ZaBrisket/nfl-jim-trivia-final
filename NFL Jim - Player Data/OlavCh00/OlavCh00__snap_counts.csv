@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+OlavCh00,Chris Olave,WR,2022,22,NOR,WR,12,15,9,607,66%,0,0%,0,0%
+OlavCh00,Chris Olave,WR,2023,23,NOR,WR,12,16,11,814,74%,0,0%,0,0%
+OlavCh00,Chris Olave,WR,2024,24,NOR,WR,12,8,8,315,59%,0,0%,0,0%
+OlavCh00,Chris Olave,WR,2025,25,NOR,WR,12,9,9,501,87%,0,0%,0,0%

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ShulMi00,Mickey Shuler,TE,1978,22,NYJ,NFL,TE,16,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,1979,23,NYJ,NFL,TE,16,6,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,1980,24,NYJ,NFL,TE,16,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,,,,,,,,,,,,,,,,,,,,,,
+ShulMi00,Mickey Shuler,TE,1984,28,NYJ,NFL,TE,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,1985,29,NYJ,NFL,TE,16,13,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,1986,30,NYJ,NFL,TE,16,16,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,PB
+ShulMi00,Mickey Shuler,TE,1987,31,NYJ,NFL,TE,11,10,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+ShulMi00,Mickey Shuler,TE,1988,32,NYJ,NFL,TE,15,15,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,"PB,AP-2"
+ShulMi00,Mickey Shuler,TE,,,,,,,,,,,,,,,,,,,,,,
+ShulMi00,Mickey Shuler,TE,1990,34,PHI,NFL,TE,16,5,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

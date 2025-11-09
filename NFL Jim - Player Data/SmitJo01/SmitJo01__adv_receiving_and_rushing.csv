@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+SmitJo01,Jonnu Smith,TE,2018,23,TEN,NFL,TE,13,12,30,20,258,10,78,3.9,180,9.0,5.2,4,5.0,3,10.0,2,99.0,0,0,0,0,,0,,0,,
+SmitJo01,Jonnu Smith,TE,2019,24,TEN,NFL,TE,16,14,44,35,439,16,166,4.7,273,7.8,5.3,6,5.8,2,4.5,1,121.5,4,78,2,7,1.8,71,17.8,1,4.0,
+SmitJo01,Jonnu Smith,TE,2020,25,TEN,NFL,TE,15,14,65,41,448,25,210,5.1,238,5.8,5.5,2,20.5,3,4.6,2,110.1,2,4,1,4,2.0,0,0.0,0,,
+SmitJo01,Jonnu Smith,TE,2021,26,NWE,NFL,TE,16,11,45,28,294,15,62,2.2,232,8.3,5.5,2,14.0,4,8.9,2,70.0,9,40,2,16,1.8,24,2.7,0,,
+SmitJo01,Jonnu Smith,TE,2022,27,NWE,NFL,TE,14,8,38,27,245,9,45,1.7,200,7.4,3.1,9,3.0,2,5.3,1,77.2,1,5,1,5,5.0,0,0.0,0,,
+SmitJo01,Jonnu Smith,TE,2023,28,ATL,NFL,TE,17,6,70,50,582,26,225,4.5,357,7.1,6.5,6,8.3,4,5.7,2,98.6,1,0,0,0,0.0,0,0.0,0,,
+SmitJo01,Jonnu Smith,TE,2024,29,MIA,NFL,TE,17,6,111,88,884,55,374,4.3,510,5.8,4.9,8,11.0,6,5.4,0,123.9,2,-1,0,-1,-0.5,0,0.0,0,,PB
+SmitJo01,Jonnu Smith,TE,2025,30,PIT,NFL,TE,8,4,34,25,159,8,28,1.1,131,5.2,3.7,2,12.5,1,2.9,0,102.5,1,10,1,0,0.0,10,10.0,2,0.5,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+LoveJo03,Jordan Love,QB,2021,23,GNB,NFL,QB,6,1,0-1-0,36,62,58.1,411,2,3.2,3,4.8,22,38.5,62,6.6,5.10,11.4,68.5,68.7,36.8,3,23,4.62,5.97,4.51,0,0,2,
+LoveJo03,Jordan Love,QB,2022,24,GNB,NFL,QB,4,0,,14,21,66.7,195,1,4.8,0,0.0,9,57.1,63,9.3,10.24,13.9,48.8,112.2,83.2,0,0,0.00,9.29,10.24,0,0,1,
+LoveJo03,Jordan Love,QB,2023,25,GNB,NFL,QB,17,17,9-8-0,372,579,64.2,4159,32,5.5,11,1.9,209,47.6,77,7.2,7.43,11.2,244.6,96.1,62.9,30,242,4.93,6.43,6.67,2,3,15,
+LoveJo03,Jordan Love,QB,2024,26,GNB,NFL,QB,15,15,9-6-0,268,425,63.1,3389,25,5.9,11,2.6,151,48.3,70,8.0,7.99,12.6,225.9,96.7,66.3,14,95,3.19,7.50,7.51,2,2,12,
+LoveJo03,Jordan Love,QB,2025,27,GNB,NFL,QB,8,8,5-2-1,177,250,70.8,2071,13,5.2,3,1.2,96,52.1,59,8.3,8.78,11.7,258.9,107.9,72.8,11,91,4.21,7.59,8.07,3,2,,

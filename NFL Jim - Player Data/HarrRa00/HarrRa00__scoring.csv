@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HarrRa00,Raymont Harris,RB,1994,24,CHI,NFL,FB,16,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+HarrRa00,Raymont Harris,RB,,,,,,,,,,,,,,,,,,,,,,,,
+HarrRa00,Raymont Harris,RB,1996,26,CHI,NFL,RB,12,10,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+HarrRa00,Raymont Harris,RB,1997,27,CHI,NFL,RB,13,13,10,0,0,0,0,0,0,10,0,0,0,0,0,0,60,4.6,
+HarrRa00,Raymont Harris,RB,1998,28,GNB,NFL,RB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,

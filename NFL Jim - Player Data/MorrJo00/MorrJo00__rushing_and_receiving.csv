@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MorrJo00,Joe Morris,RB,1982,22,NYG,NFL,RB,5,0,15,48,1,1,53.3,7,3.2,9.6,3.0,10,8,34,4.3,0,1,50.0,13,1.6,6.8,80.0,3.4,23,3.6,82,1,1,1,
+MorrJo00,Joe Morris,RB,1983,23,NYG,NFL,RB,15,0,35,145,0,9,42.9,16,4.1,9.7,2.3,5,2,1,0.5,1,1,20.0,6,0.1,0.1,40.0,0.2,37,3.9,146,1,2,1,
+MorrJo00,Joe Morris,RB,1984,24,NYG,NFL,RB,16,8,133,510,4,25,39.8,28,3.8,31.9,8.3,22,12,124,10.3,0,6,45.5,26,0.8,7.8,54.5,5.6,145,4.4,634,4,1,4,
+MorrJo00,Joe Morris,RB,1985,25,NYG,NFL,RB,16,16,294,1336,21,74,54.4,65,4.5,83.5,18.4,35,22,212,9.6,0,12,62.9,17,1.4,13.3,62.9,6.1,316,4.9,1548,21,6,12,PB
+MorrJo00,Joe Morris,RB,1986,26,NYG,NFL,RB,15,15,341,1516,14,75,45.2,54,4.4,101.1,22.7,36,21,233,11.1,1,12,50.0,23,1.4,15.5,58.3,6.5,362,4.8,1749,15,6,15,"PB,AP-1,AP MVP-4,AP OPoY-4"
+MorrJo00,Joe Morris,RB,1987,27,NYG,NFL,RB,11,10,193,658,3,35,44.0,34,3.4,59.8,17.5,15,11,114,10.4,0,5,73.3,25,1.0,10.4,73.3,7.6,204,3.8,772,3,2,5,
+MorrJo00,Joe Morris,RB,1988,28,NYG,NFL,RB,16,15,307,1083,5,63,46.9,27,3.5,67.7,19.2,38,22,166,7.5,0,4,47.4,24,1.4,10.4,57.9,4.4,329,3.8,1249,5,7,9,
+MorrJo00,Joe Morris,RB,1989,,Did not play - Injured (foot),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MorrJo00,Joe Morris,RB,1991,31,CLE,NFL,RB,16,4,93,289,2,20,36.6,15,3.1,18.1,5.8,17,13,76,5.8,0,3,52.9,13,0.8,4.8,76.5,4.5,106,3.4,365,2,2,3,

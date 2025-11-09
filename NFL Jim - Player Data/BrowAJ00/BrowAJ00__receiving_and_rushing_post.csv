@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BrowAJ00,A.J. Brown,WR,2019,22,TEN,NFL,WR,3,3,10,5,64,12.8,0,3,40.0,37,1.7,21.3,50.0,6.4,1,9,0,0,100.0,9,9.0,3.0,0.3,6,12.2,73,0,0,
+BrowAJ00,A.J. Brown,WR,2020,23,TEN,NFL,WR,1,1,10,6,83,13.8,1,5,50.0,28,6.0,83.0,60.0,8.3,0,0,0,0,,,,0.0,0.0,6,13.8,83,1,0,
+BrowAJ00,A.J. Brown,WR,2021,24,TEN,NFL,WR,1,1,9,5,142,28.4,1,4,55.6,41,5.0,142.0,55.6,15.8,0,0,0,0,,,,0.0,0.0,5,28.4,142,1,0,
+BrowAJ00,A.J. Brown,WR,2022,25,PHI,NFL,WR,3,3,22,13,146,11.2,1,8,50.0,45,4.3,48.7,59.1,6.6,0,0,0,0,,,,0.0,0.0,13,11.2,146,1,0,
+BrowAJ00,A.J. Brown,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrowAJ00,A.J. Brown,WR,2024,27,PHI,NFL,WR,4,4,23,12,163,13.6,2,12,52.2,31,3.0,40.8,52.2,7.1,0,0,0,0,,,,0.0,0.0,12,13.6,163,2,0,

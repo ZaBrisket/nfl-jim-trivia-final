@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitJo01,Jonnu Smith,TE,2017,22,TEN,NFL,TE,16,13,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+SmitJo01,Jonnu Smith,TE,2018,23,TEN,NFL,TE,13,12,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.4,
+SmitJo01,Jonnu Smith,TE,2019,24,TEN,NFL,TE,16,14,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.1,
+SmitJo01,Jonnu Smith,TE,2020,25,TEN,NFL,TE,15,14,1,8,0,0,0,0,0,9,0,,0,0,0,0,0,54,3.6,
+SmitJo01,Jonnu Smith,TE,2021,26,NWE,NFL,TE,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.4,
+SmitJo01,Jonnu Smith,TE,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitJo01,Jonnu Smith,TE,2023,28,ATL,NFL,TE,17,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.1,
+SmitJo01,Jonnu Smith,TE,2024,29,MIA,NFL,TE,17,6,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,48,2.8,PB
+SmitJo01,Jonnu Smith,TE,2025,30,PIT,NFL,TE,8,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,12,1.5,

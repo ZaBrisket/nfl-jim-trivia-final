@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RiceRa00,Ray Rice,RB,2008,21,BAL,NFL,RB,13,4,107,454,0,21,41.1,60,4.2,34.9,8.2,43,33,273,8.3,0,12,48.8,40,2.5,21.0,76.7,6.3,140,5.2,727,0,1,6,
+RiceRa00,Ray Rice,RB,2009,22,BAL,NFL,RB,16,15,254,1339,7,53,48.8,59,5.3,83.7,15.9,101,78,702,9.0,1,27,46.5,63,4.9,43.9,77.2,7.0,332,6.1,2041,8,3,18,"PB,AP-2"
+RiceRa00,Ray Rice,RB,2010,23,BAL,NFL,RB,16,14,307,1220,5,53,43.3,50,4.0,76.3,19.2,83,63,556,8.8,1,23,42.2,34,3.9,34.8,75.9,6.7,370,4.8,1776,6,0,13,
+RiceRa00,Ray Rice,RB,2011,24,BAL,NFL,RB,16,16,291,1364,12,54,43.0,70,4.7,85.3,18.2,104,76,704,9.3,3,30,46.2,52,4.8,44.0,73.1,6.8,367,5.6,2068,15,2,16,"PB,AP-2"
+RiceRa00,Ray Rice,RB,2012,25,BAL,NFL,RB,16,16,257,1143,9,52,43.2,46,4.4,71.4,16.1,83,61,478,7.8,1,24,42.2,43,3.8,29.9,73.5,5.8,318,5.1,1621,10,1,13,PB
+RiceRa00,Ray Rice,RB,2013,26,BAL,NFL,RB,15,15,214,660,4,28,33.6,47,3.1,44.0,14.3,72,58,321,5.5,0,13,37.5,22,3.9,21.4,80.6,4.5,272,3.6,981,4,2,3,

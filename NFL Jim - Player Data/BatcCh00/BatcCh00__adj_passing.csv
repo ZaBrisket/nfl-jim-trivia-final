@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BatcCh00,Charlie Batch,QB,1998,24,DET,NFL,QB,12,12,108,99,110,105,102,96,117,78,107,
+BatcCh00,Charlie Batch,QB,1999,25,DET,NFL,QB,11,10,108,99,110,104,95,108,109,72,107,
+BatcCh00,Charlie Batch,QB,2000,26,DET,NFL,QB,15,15,87,84,87,85,82,91,95,87,85,
+BatcCh00,Charlie Batch,QB,2001,27,DET,NFL,QB,10,9,105,101,101,98,97,95,95,87,97,
+BatcCh00,Charlie Batch,QB,,,,,,,,,,,,,,,,,
+BatcCh00,Charlie Batch,QB,2006,32,PIT,NFL,QB,8,1,149,145,164,161,94,162,150,107,153,
+BatcCh00,Charlie Batch,QB,,,,,,,,,,,,,,,,,
+BatcCh00,Charlie Batch,QB,2012,38,PIT,NFL,QB,2,2,93,102,72,78,112,68,52,119,75,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+BerrBe00,Bernard Berrian,WR,2004,24,CHI,NFL,WR,16,1,2,10,0,12,5.0,17,385,0,41,22.6,648,
+BerrBe00,Bernard Berrian,WR,2005,25,CHI,NFL,WR,11,2,8,69,0,24,8.6,0,0,0,0,,346,
+BerrBe00,Bernard Berrian,WR,2006,26,CHI,NFL,WR,15,14,2,7,0,7,3.5,0,0,0,0,,787,
+BerrBe00,Bernard Berrian,WR,,,,,,,,,,,,,,,,,,,
+BerrBe00,Bernard Berrian,WR,2008,28,MIN,NFL,WR,16,13,7,114,1,82,16.3,0,0,0,0,,1104,
+BerrBe00,Bernard Berrian,WR,2009,29,MIN,NFL,WR,16,15,2,13,0,8,6.5,0,0,0,0,,631,
+BerrBe00,Bernard Berrian,WR,2010,30,MIN,NFL,WR,14,9,3,2,0,2,0.7,0,0,0,0,,246,

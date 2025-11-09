@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HarvPe00,Percy Harvin,WR,2012,24,MIN,WR,12,9,8,420,72%,0,0%,44,17%
+HarvPe00,Percy Harvin,WR,2013,25,SEA,WR,11,1,0,19,37%,0,0%,2,6%
+HarvPe00,Percy Harvin,WR,2014,26,2TM,WR,,13,12,544,,0,,64,
+HarvPe00,Percy Harvin,WR,,,SEA,WR,11,5,4,182,60%,0,0%,28,19%
+HarvPe00,Percy Harvin,WR,,,,,,,,362,67%,0,0%,36,16%
+HarvPe00,Percy Harvin,WR,2015,27,BUF,WR,18,5,5,239,74%,0,0%,21,15%
+HarvPe00,Percy Harvin,WR,2016,28,BUF,WR,11,2,1,67,44%,0,0%,0,0%

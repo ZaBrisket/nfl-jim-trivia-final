@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PortCl00,Clinton Portis,RB,2002,21,DEN,NFL,RB,16,12,15,2,0,0,0,0,0,17,0,0,0,0,0,0,102,6.4,AP ORoY-1
+PortCl00,Clinton Portis,RB,2003,22,DEN,NFL,RB,13,13,14,0,0,0,0,0,0,14,1,0,0,0,0,0,86,6.6,PB
+PortCl00,Clinton Portis,RB,2004,23,WAS,NFL,RB,15,15,5,2,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+PortCl00,Clinton Portis,RB,2005,24,WAS,NFL,RB,16,16,11,0,0,0,0,0,0,11,1,0,0,0,0,0,68,4.3,
+PortCl00,Clinton Portis,RB,2006,25,WAS,NFL,RB,8,7,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,5.3,
+PortCl00,Clinton Portis,RB,2007,26,WAS,NFL,RB,16,16,11,0,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,
+PortCl00,Clinton Portis,RB,2008,27,WAS,NFL,RB,16,16,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,"PB,AP-2"
+PortCl00,Clinton Portis,RB,2009,28,WAS,NFL,RB,8,8,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,1.5,
+PortCl00,Clinton Portis,RB,2010,29,WAS,NFL,RB,5,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.4,

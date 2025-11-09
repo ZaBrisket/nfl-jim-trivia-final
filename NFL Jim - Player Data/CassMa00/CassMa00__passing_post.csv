@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+CassMa00,Matt Cassel,QB,2005,23,NWE,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,,,,,,0,0,
+CassMa00,Matt Cassel,QB,2006,24,NWE,NFL,QB,3,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+CassMa00,Matt Cassel,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CassMa00,Matt Cassel,QB,2010,28,KAN,NFL,QB,1,1,0-1-0,9,18,50.0,70,0,0.0,3,16.7,2,23.8,22,3.9,-3.61,7.8,70.0,20.4,3,17,14.29,2.52,-3.90,0,0,

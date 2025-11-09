@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+JoneJu02,Julio Jones,WR,2011,22,ATL,NFL,WR,13,13,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+JoneJu02,Julio Jones,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneJu02,Julio Jones,WR,2013,24,ATL,NFL,WR,5,5,0,0,0,0,0,0,2,1,18,0,0.0,0,0,0,0,0,0,
+JoneJu02,Julio Jones,WR,2014,25,ATL,NFL,WR,15,15,0,0,0,0,1,0,2,1,0,0,0.0,0,0,0,0,0,0,PB
+JoneJu02,Julio Jones,WR,2015,26,ATL,NFL,WR,16,16,0,0,0,0,0,0,3,3,0,1,0.0,0,0,0,0,0,0,"PB,AP-1,AP OPoY-6"
+JoneJu02,Julio Jones,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneJu02,Julio Jones,WR,2018,29,ATL,NFL,WR,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2019,30,ATL,NFL,WR,15,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+JoneJu02,Julio Jones,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+JoneJu02,Julio Jones,WR,2021,32,TEN,NFL,WR,10,10,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,
+JoneJu02,Julio Jones,WR,2022,33,TAM,NFL,WR,10,5,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,

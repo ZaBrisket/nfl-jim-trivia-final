@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+TaylTy00,Tyrod Taylor,QB,2015,26,BUF,NFL,QB,14,14,119,109,120,113,103,110,115,79,115,PB
+TaylTy00,Tyrod Taylor,QB,2016,27,BUF,NFL,QB,15,15,95,92,102,99,96,94,118,78,101,
+TaylTy00,Tyrod Taylor,QB,2017,28,BUF,NFL,QB,15,14,89,83,99,94,97,88,123,74,99,
+TaylTy00,Tyrod Taylor,QB,2018,29,CLE,NFL,QB,4,3,68,57,72,65,47,77,100,50,66,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2021,32,HOU,NFL,QB,6,6,86,79,81,78,82,88,79,87,80,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2023,34,NYG,NFL,QB,11,5,109,105,107,104,100,83,115,87,100,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2025,36,NYJ,NFL,QB,3,1,71,66,68,64,89,97,64,71,76,

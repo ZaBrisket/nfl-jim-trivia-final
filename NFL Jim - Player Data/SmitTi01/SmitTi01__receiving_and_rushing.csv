@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitTi01,Tim Smith,WR,1980,23,HOU,NFL,WR,16,0,5,2,21,10.5,0,2,40.0,13,0.1,1.3,40.0,4.2,0,0,0,0,,,,0.0,0.0,2,10.5,21,0,1,0,
+SmitTi01,Tim Smith,WR,1981,24,HOU,NFL,WR,4,0,3,2,37,18.5,0,2,66.7,25,0.5,9.3,66.7,12.3,0,0,0,0,,,,0.0,0.0,2,18.5,37,0,0,0,
+SmitTi01,Tim Smith,WR,1982,25,HOU,NFL,WR,9,0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+SmitTi01,Tim Smith,WR,1983,26,HOU,NFL,WR,16,16,130,83,1176,14.2,6,55,52.3,47,5.2,73.5,63.8,9.0,2,16,0,2,100.0,9,8.0,1.0,0.1,85,14.0,1192,6,1,10,
+SmitTi01,Tim Smith,WR,1984,27,HOU,NFL,WR,16,14,116,69,1141,16.5,4,51,54.3,75,4.3,71.3,59.5,9.8,0,0,0,0,,,,0.0,0.0,69,16.5,1141,4,0,8,
+SmitTi01,Tim Smith,WR,1985,28,HOU,NFL,WR,16,16,96,46,660,14.3,2,32,44.8,33,2.9,41.3,47.9,6.9,0,0,0,0,,,,0.0,0.0,46,14.3,660,2,1,5,
+SmitTi01,Tim Smith,WR,1986,29,HOU,NFL,WR,13,0,12,4,72,18.0,0,4,33.3,25,0.3,5.5,33.3,6.0,0,0,0,0,,,,0.0,0.0,4,18.0,72,0,0,1,

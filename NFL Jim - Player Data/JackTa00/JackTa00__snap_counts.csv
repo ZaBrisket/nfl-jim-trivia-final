@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackTa00,Tarvaris Jackson,QB,2013,30,SEA,QB,7,3,0,39,21%,0,0%,0,0%
+JackTa00,Tarvaris Jackson,QB,2014,31,SEA,QB,7,1,0,3,5%,0,0%,0,0%
+JackTa00,Tarvaris Jackson,QB,2015,32,SEA,QB,7,4,0,30,11%,0,0%,0,0%

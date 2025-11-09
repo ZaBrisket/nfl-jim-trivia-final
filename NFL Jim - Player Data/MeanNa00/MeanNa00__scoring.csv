@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MeanNa00,Natrone Means,RB,1993,21,SDG,NFL,RB,16,0,8,0,0,0,0,0,0,8,,0,0,0,0,0,48,3.0,
+MeanNa00,Natrone Means,RB,1994,22,SDG,NFL,RB,16,16,12,0,0,0,0,0,0,12,0,0,0,0,0,0,72,4.5,PB
+MeanNa00,Natrone Means,RB,1995,23,SDG,NFL,RB,10,9,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,3.0,
+MeanNa00,Natrone Means,RB,1996,24,JAX,NFL,RB,14,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+MeanNa00,Natrone Means,RB,1997,25,JAX,NFL,RB,14,11,9,0,0,0,0,0,0,9,0,0,0,0,0,0,54,3.9,
+MeanNa00,Natrone Means,RB,1998,26,SDG,NFL,RB,10,10,5,0,0,0,0,0,0,5,0,0,0,0,0,0,30,3.0,
+MeanNa00,Natrone Means,RB,1999,27,SDG,NFL,RB,7,5,4,1,0,0,0,0,0,5,0,0,0,0,0,0,30,4.3,

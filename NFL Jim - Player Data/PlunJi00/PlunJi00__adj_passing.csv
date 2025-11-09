@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PlunJi00,Jim Plunkett,QB,1971,24,NWE,NFL,QB,14,14,97,92,104,100,91,115,105,90,104,AP ORoY-2
+PlunJi00,Jim Plunkett,QB,1972,25,NWE,NFL,QB,14,14,91,85,83,80,88,81,85,91,80,
+PlunJi00,Jim Plunkett,QB,1973,26,NWE,NFL,QB,14,14,103,99,104,101,97,93,107,96,101,
+PlunJi00,Jim Plunkett,QB,1974,27,NWE,NFL,QB,14,14,107,113,102,106,89,111,90,115,99,
+PlunJi00,Jim Plunkett,QB,1975,28,NWE,NFL,QB,5,5,94,89,84,82,63,92,75,78,75,
+PlunJi00,Jim Plunkett,QB,1976,29,SFO,NFL,QB,12,12,99,95,96,94,99,111,87,95,98,
+PlunJi00,Jim Plunkett,QB,1977,30,SFO,NFL,QB,14,14,104,98,100,97,98,96,96,87,97,
+PlunJi00,Jim Plunkett,QB,,,,,,,,,,,,,,,,,
+PlunJi00,Jim Plunkett,QB,1980,33,OAK,NFL,QB,13,11,105,95,104,97,88,118,93,81,101,
+PlunJi00,Jim Plunkett,QB,1981,34,OAK,NFL,QB,9,7,75,65,74,68,89,76,92,76,75,
+PlunJi00,Jim Plunkett,QB,1982,35,RAI,NFL,QB,9,9,114,109,104,101,107,114,81,96,104,
+PlunJi00,Jim Plunkett,QB,1983,36,RAI,NFL,QB,14,13,112,104,108,102,113,111,93,89,109,
+PlunJi00,Jim Plunkett,QB,1984,37,RAI,NFL,QB,8,6,107,112,96,100,95,87,89,112,91,
+PlunJi00,Jim Plunkett,QB,1985,38,RAI,NFL,QB,3,3,116,104,114,106,148,86,116,81,120,
+PlunJi00,Jim Plunkett,QB,1986,39,RAI,NFL,QB,10,8,120,110,119,113,91,115,106,89,111,

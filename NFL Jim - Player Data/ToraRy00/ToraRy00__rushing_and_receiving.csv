@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ToraRy00,Ryan Torain,RB,2008,22,DEN,NFL,RB,2,1,15,69,1,4,60.0,19,4.6,34.5,7.5,0,0,0,,0,0,,,0.0,0.0,,,15,4.6,69,1,0,0,
+ToraRy00,Ryan Torain,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ToraRy00,Ryan Torain,RB,2010,24,WAS,NFL,RB,10,8,164,742,4,35,42.1,54,4.5,74.2,16.4,27,18,125,6.9,2,6,40.7,20,1.8,12.5,66.7,4.6,182,4.8,867,6,2,4,
+ToraRy00,Ryan Torain,RB,2011,25,WAS,NFL,RB,8,4,59,200,1,5,40.7,39,3.4,25.0,7.4,9,6,23,3.8,0,0,33.3,7,0.8,2.9,66.7,2.6,65,3.4,223,1,1,1,
+ToraRy00,Ryan Torain,RB,2012,26,NYG,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

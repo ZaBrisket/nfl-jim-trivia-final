@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PattRi00,Ricky Patton,RB,1978,24,ATL,NFL,RB,16,1,68,206,1,11,45.6,15,3.0,12.9,4.3,14,10,90,9.0,1,4,35.7,32,0.6,5.6,71.4,6.4,78,3.8,296,2,6,2,
+PattRi00,Ricky Patton,RB,1979,25,2TM,NFL,RB,10,1,40,135,0,6,45.0,14,3.4,13.5,4.0,13,6,41,6.8,0,2,38.5,9,0.6,4.1,46.2,3.2,46,3.8,176,0,1,1,
+PattRi00,Ricky Patton,RB,1979,25,ATL,NFL,RB,4,0,3,1,0,0,0.0,2,0.3,0.3,0.8,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,3,0.3,1,0,0,0,
+PattRi00,Ricky Patton,RB,1979,25,GNB,NFL,RB,6,1,37,134,0,6,48.6,14,3.6,22.3,6.2,11,6,41,6.8,0,2,45.5,9,1.0,6.8,54.5,3.7,43,4.1,175,0,1,1,
+PattRi00,Ricky Patton,RB,1980,26,SFO,NFL,RB,9,0,1,1,0,0,0.0,1,1.0,0.1,0.1,0,0,0,,0,0,,,0.0,0.0,,,1,1.0,1,0,1,0,
+PattRi00,Ricky Patton,RB,1981,27,SFO,NFL,RB,16,15,152,543,4,27,44.1,28,3.6,33.9,9.5,42,27,195,7.2,1,9,40.5,31,1.7,12.2,64.3,4.6,179,4.1,738,5,3,5,
+PattRi00,Ricky Patton,RB,1982,28,SFO,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,,0,0,0,0,

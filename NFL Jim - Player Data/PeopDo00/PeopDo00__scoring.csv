@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PeopDo00,Donovan Peoples-Jones,WR,2020,21,CLE,NFL,WR,12,2,0,2,0,0,0,0,0,2,1,,0,0,0,0,0,14,1.2,
+PeopDo00,Donovan Peoples-Jones,WR,2021,22,CLE,NFL,WR,14,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.3,
+PeopDo00,Donovan Peoples-Jones,WR,2022,23,CLE,NFL,WR,17,14,0,3,1,0,0,0,0,4,0,0,0,0,0,0,0,24,1.4,

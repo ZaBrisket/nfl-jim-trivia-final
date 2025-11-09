@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ProeRi00,Ricky Proehl,WR,1999,31,STL,NFL,WR,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,
+ProeRi00,Ricky Proehl,WR,2000,32,STL,NFL,WR,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,
+ProeRi00,Ricky Proehl,WR,2001,33,STL,NFL,WR,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,2.0,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,2003,35,CAR,NFL,WR,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,

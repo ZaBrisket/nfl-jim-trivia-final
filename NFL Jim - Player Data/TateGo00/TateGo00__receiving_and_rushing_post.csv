@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TateGo00,Golden Tate,WR,2010,22,SEA,NFL,WR,2,1,3,1,5,5.0,0,0,0.0,5,0.5,2.5,33.3,1.7,1,13,0,1,100.0,13,13.0,6.5,0.5,2,9.0,18,0,0,
+TateGo00,Golden Tate,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TateGo00,Golden Tate,WR,2012,24,SEA,NFL,WR,2,1,13,10,138,13.8,1,7,69.2,29,5.0,69.0,76.9,10.6,0,0,0,0,,,,0.0,0.0,10,13.8,138,1,0,
+TateGo00,Golden Tate,WR,2013,25,SEA,NFL,WR,3,2,15,8,61,7.6,0,5,40.0,13,2.7,20.3,53.3,4.1,0,0,0,0,,,,0.0,0.0,8,7.6,61,0,0,
+TateGo00,Golden Tate,WR,2014,26,DET,NFL,WR,1,1,9,6,89,14.8,1,4,55.6,51,6.0,89.0,66.7,9.9,0,0,0,0,,,,0.0,0.0,6,14.8,89,1,0,
+TateGo00,Golden Tate,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TateGo00,Golden Tate,WR,2016,28,DET,NFL,WR,1,1,5,3,25,8.3,0,2,60.0,13,3.0,25.0,60.0,5.0,1,0,0,0,0.0,,0.0,0.0,1.0,4,6.3,25,0,0,
+TateGo00,Golden Tate,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TateGo00,Golden Tate,WR,2018,30,PHI,NFL,WR,2,2,13,7,64,9.1,1,4,38.5,28,3.5,32.0,53.8,4.9,0,0,0,0,,,,0.0,0.0,7,9.1,64,1,0,

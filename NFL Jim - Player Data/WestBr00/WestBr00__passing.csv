@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+WestBr00,Brian Westbrook,RB,2002,23,PHI,NFL,RB,15,3,1,1,100.0,25,1,100.0,0,0.0,1,100.0,25,25.0,45.00,25.0,1.7,158.3,,0,0,0.00,25.00,45.00,0,0,
+WestBr00,Brian Westbrook,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WestBr00,Brian Westbrook,RB,2004,25,PHI,NFL,RB,13,12,0,0,,0,0,,0,,0,,,,,,0.0,,,1,4,100.00,-4.00,-4.00,0,0,PB
+WestBr00,Brian Westbrook,RB,2005,26,PHI,NFL,RB,12,12,0,0,,0,0,,0,,0,,,,,,0.0,,,1,3,100.00,-3.00,-3.00,0,0,
+WestBr00,Brian Westbrook,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WestBr00,Brian Westbrook,RB,2009,30,PHI,NFL,RB,8,7,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,66.6,0,0,0.00,0.00,0.00,0,0,

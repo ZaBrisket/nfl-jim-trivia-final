@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillCa02,Cadillac Williams,RB,2005,23,TAM,NFL,RB,14,14,290,1178,6,59,42.4,71,4.1,84.1,20.7,25,20,81,4.1,0,4,32.0,15,1.4,5.8,80.0,3.2,310,4.1,1259,6,3,9,AP ORoY-1
+WillCa02,Cadillac Williams,RB,2006,24,TAM,NFL,RB,14,14,225,798,1,32,39.1,38,3.5,57.0,16.1,44,30,196,6.5,0,4,50.0,21,2.1,14.0,68.2,4.5,255,3.9,994,1,3,5,
+WillCa02,Cadillac Williams,RB,2007,25,TAM,NFL,RB,4,4,54,208,3,12,51.9,20,3.9,52.0,13.5,5,3,17,5.7,0,0,40.0,8,0.8,4.3,60.0,3.4,57,3.9,225,3,2,2,
+WillCa02,Cadillac Williams,RB,2008,26,TAM,NFL,RB,6,1,63,233,4,18,46.0,28,3.7,38.8,10.5,7,7,43,6.1,0,2,42.9,25,1.2,7.2,100.0,6.1,70,3.9,276,4,1,2,
+WillCa02,Cadillac Williams,RB,2009,27,TAM,NFL,RB,16,15,211,823,4,43,38.4,35,3.9,51.4,13.2,39,28,217,7.8,3,10,46.2,22,1.8,13.6,71.8,5.6,239,4.4,1040,7,1,5,AP CPoY-2
+WillCa02,Cadillac Williams,RB,2010,28,TAM,NFL,RB,16,9,125,437,2,19,34.4,45,3.5,27.3,7.8,64,46,355,7.7,1,19,39.1,20,2.9,22.2,71.9,5.5,171,4.6,792,3,1,6,
+WillCa02,Cadillac Williams,RB,2011,29,STL,NFL,RB,11,1,87,361,1,18,43.7,23,4.1,32.8,7.9,23,14,93,6.6,0,5,39.1,16,1.3,8.5,60.9,4.0,101,4.5,454,1,1,2,

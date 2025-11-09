@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SandRi00,Ricky Sanders,WR,1986,26,WAS,NFL,WR,10,3,25,14,286,20.4,2,11,52.0,71,1.4,28.6,56.0,11.4,0,0,0,0,,,,0.0,0.0,14,20.4,286,2,0,3,
+SandRi00,Ricky Sanders,WR,1987,27,WAS,NFL,WR,12,5,63,37,630,17.0,3,28,52.4,57,3.1,52.5,58.7,10.0,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,38,16.5,626,3,0,7,
+SandRi00,Ricky Sanders,WR,1988,28,WAS,NFL,WR,16,4,130,73,1148,15.7,12,55,54.6,55,4.6,71.8,56.2,8.8,2,14,0,0,100.0,7,7.0,0.9,0.1,75,15.5,1162,12,0,9,
+SandRi00,Ricky Sanders,WR,1989,29,WAS,NFL,WR,16,12,140,80,1138,14.2,4,59,53.6,68,5.0,71.1,57.1,8.1,4,19,0,2,50.0,13,4.8,1.2,0.3,84,13.8,1157,4,0,9,
+SandRi00,Ricky Sanders,WR,1990,30,WAS,NFL,WR,16,6,96,56,727,13.0,3,42,54.2,38,3.5,45.4,58.3,7.6,4,17,0,1,50.0,12,4.3,1.1,0.3,60,12.4,744,3,0,8,
+SandRi00,Ricky Sanders,WR,1991,31,WAS,NFL,WR,16,7,77,45,580,12.9,5,34,51.9,45,2.8,36.3,58.4,7.5,7,47,1,2,57.1,17,6.7,2.9,0.4,52,12.1,627,6,0,8,
+SandRi00,Ricky Sanders,WR,1992,32,WAS,NFL,WR,15,5,91,51,707,13.9,3,42,50.5,62,3.4,47.1,56.0,7.8,4,-6,0,0,0.0,3,-1.5,-0.4,0.3,55,12.7,701,3,0,7,
+SandRi00,Ricky Sanders,WR,1993,33,WAS,NFL,WR,16,11,104,58,638,11.0,4,34,50.0,50,3.6,39.9,55.8,6.1,1,7,0,0,100.0,7,7.0,0.4,0.1,59,10.9,645,4,1,5,
+SandRi00,Ricky Sanders,WR,1994,34,ATL,NFL,WR,14,12,103,67,599,8.9,1,33,53.4,28,4.8,42.8,65.0,5.8,0,0,0,0,,,,0.0,0.0,67,8.9,599,1,0,5,
+SandRi00,Ricky Sanders,WR,1995,35,ATL,NFL,WR,3,1,5,2,24,12.0,0,1,40.0,21,0.7,8.0,40.0,4.8,0,0,0,0,,,,0.0,0.0,2,12.0,24,0,0,0,

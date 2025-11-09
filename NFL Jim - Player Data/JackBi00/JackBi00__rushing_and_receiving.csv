@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JackBi00,Billy Jackson,RB,1981,22,KAN,NFL,RB,16,1,111,398,10,39,55.9,31,3.6,24.9,6.9,6,6,31,5.2,1,2,50.0,10,0.4,1.9,100.0,5.2,117,3.7,429,11,1,3,
+JackBi00,Billy Jackson,RB,1982,23,KAN,NFL,FB,9,7,86,243,3,27,51.2,18,2.8,27.0,9.6,10,5,41,8.2,0,2,40.0,13,0.6,4.6,50.0,4.1,91,3.1,284,3,1,4,
+JackBi00,Billy Jackson,RB,1983,24,KAN,NFL,RB,16,14,152,499,2,30,44.7,19,3.3,31.2,9.5,42,32,243,7.6,0,6,50.0,29,2.0,15.2,76.2,5.8,184,4.0,742,2,3,5,
+JackBi00,Billy Jackson,RB,1984,25,KAN,NFL,RB,16,9,50,225,1,13,50.0,16,4.5,14.1,3.1,25,15,101,6.7,1,4,44.0,11,0.9,6.3,60.0,4.0,65,5.0,326,2,2,2,

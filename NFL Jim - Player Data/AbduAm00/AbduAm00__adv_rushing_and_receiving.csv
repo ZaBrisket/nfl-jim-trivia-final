@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+AbduAm00,Ameer Abdullah,RB,2018,25,2TM,NFL,RB,10,0,1,1,0,0,0.0,1,1.0,0,,4,3,28,1,0,0.0,28,9.3,4.3,0,,0,0.0,0,93.7,
+AbduAm00,Ameer Abdullah,RB,2018,25,DET,NFL,RB,3,0,1,1,0,0,0.0,1,1.0,0,,2,2,18,1,-1,-0.5,19,9.5,-0.5,0,,0,0.0,0,104.2,
+AbduAm00,Ameer Abdullah,RB,2018,25,MIN,NFL,RB,7,0,0,0,0,0,,0,,0,,2,1,10,0,1,1.0,9,9.0,9.0,0,,0,0.0,0,64.6,
+AbduAm00,Ameer Abdullah,RB,2019,26,MIN,NFL,RB,16,0,23,115,4,77,3.3,38,1.7,2,11.5,21,15,88,5,9,0.6,79,5.3,0.4,0,,0,0.0,1,75.1,
+AbduAm00,Ameer Abdullah,RB,2020,27,MIN,NFL,RB,16,0,8,42,4,25,3.1,17,2.1,0,,9,8,58,4,-5,-0.6,63,7.9,-0.6,0,,0,0.0,0,133.1,
+AbduAm00,Ameer Abdullah,RB,2021,28,2TM,NFL,RB,17,1,51,166,8,86,1.7,80,1.6,3,17.0,53,38,289,13,-5,-0.1,294,7.7,0.8,5,7.6,2,3.8,1,83.0,
+AbduAm00,Ameer Abdullah,RB,2021,28,MIN,NFL,RB,6,0,7,30,0,16,2.3,14,2.0,1,7.0,4,3,17,1,-2,-0.7,19,6.3,0.5,0,,0,0.0,0,82.3,
+AbduAm00,Ameer Abdullah,RB,2021,28,CAR,NFL,RB,11,1,44,136,8,70,1.6,66,1.5,2,22.0,49,35,272,12,-3,-0.1,275,7.9,0.8,5,7.0,2,4.1,1,83.0,
+AbduAm00,Ameer Abdullah,RB,2022,29,LVR,NFL,RB,17,0,4,20,2,13,3.3,7,1.8,0,,32,25,211,8,16,0.6,195,7.8,3.0,2,12.5,1,3.1,0,104.6,
+AbduAm00,Ameer Abdullah,RB,2023,30,LVR,NFL,RB,17,0,15,89,6,49,3.3,40,2.7,1,15.0,24,19,131,4,43,2.3,88,4.6,2.3,2,9.5,0,0.0,2,54.7,
+AbduAm00,Ameer Abdullah,RB,2024,31,LVR,NFL,RB,16,3,66,311,14,183,2.8,128,1.9,5,13.2,47,40,261,16,9,0.2,252,6.3,0.7,2,20.0,0,0.0,0,111.1,
+AbduAm00,Ameer Abdullah,RB,2025,32,IND,NFL,RB,5,0,8,40,3,22,2.8,18,2.3,1,8.0,4,4,22,0,2,0.5,20,5.0,0.5,0,,0,0.0,0,89.6,

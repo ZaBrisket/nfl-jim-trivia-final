@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HampRo00,Rodney Hampton,RB,1990,21,NYG,NFL,RB,15,2,109,455,2,15,37.6,41,4.2,30.3,7.3,43,32,274,8.6,2,11,44.2,27,2.1,18.3,74.4,6.4,141,5.2,729,4,2,7,
+HampRo00,Rodney Hampton,RB,1991,22,NYG,NFL,RB,14,14,256,1059,10,58,52.3,44,4.1,75.6,18.3,53,43,283,6.6,0,16,50.9,19,3.1,20.2,81.1,5.3,299,4.5,1342,10,5,11,
+HampRo00,Rodney Hampton,RB,1992,23,NYG,NFL,RB,16,16,257,1141,14,61,49.0,63,4.4,71.3,16.1,38,28,215,7.7,0,9,50.0,31,1.8,13.4,73.7,5.7,285,4.8,1356,14,1,13,PB
+HampRo00,Rodney Hampton,RB,1993,24,NYG,NFL,RB,12,10,292,1077,5,63,46.6,20,3.7,89.8,24.3,23,18,210,11.7,0,7,47.8,62,1.5,17.5,78.3,9.1,310,4.2,1287,5,2,9,PB
+HampRo00,Rodney Hampton,RB,1994,25,NYG,NFL,RB,14,13,327,1075,6,58,42.5,27,3.3,76.8,23.4,20,14,103,7.4,0,5,45.0,17,1.0,7.4,70.0,5.2,341,3.5,1178,6,0,8,
+HampRo00,Rodney Hampton,RB,1995,26,NYG,NFL,RB,16,15,306,1182,10,74,55.6,32,3.9,73.9,19.1,28,24,142,5.9,0,9,46.4,18,1.5,8.9,85.7,5.1,330,4.0,1324,10,5,9,
+HampRo00,Rodney Hampton,RB,1996,27,NYG,NFL,RB,15,15,254,827,1,43,40.6,25,3.3,55.1,16.9,22,15,82,5.5,0,4,40.9,16,1.0,5.5,68.2,3.7,269,3.4,909,1,3,4,
+HampRo00,Rodney Hampton,RB,1997,28,NYG,NFL,RB,2,0,23,81,1,5,47.8,22,3.5,40.5,11.5,0,0,0,,0,0,,,0.0,0.0,,,23,3.5,81,1,0,1,

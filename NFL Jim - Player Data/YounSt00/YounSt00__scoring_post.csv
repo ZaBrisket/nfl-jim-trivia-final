@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+YounSt00,Steve Young,QB,1987,26,SFO,NFL,QB,1,0,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,6.0,
+YounSt00,Steve Young,QB,,,,,,,,,,,,,,,,,,,,,,,,
+YounSt00,Steve Young,QB,1992,31,SFO,NFL,QB,2,2,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,3.0,
+YounSt00,Steve Young,QB,1993,32,SFO,NFL,QB,2,2,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,3.0,
+YounSt00,Steve Young,QB,1994,33,SFO,NFL,QB,3,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,4.0,SB MVP
+YounSt00,Steve Young,QB,1995,34,SFO,NFL,QB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,
+YounSt00,Steve Young,QB,1996,35,SFO,NFL,QB,2,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,
+YounSt00,Steve Young,QB,,,,,,,,,,,,,,,,,,,,,,,,
+YounSt00,Steve Young,QB,1998,37,SFO,NFL,QB,2,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HuntKa00,Kareem Hunt,RB,2017,22,KAN,NFL,RB,16,16,8,3,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,"PB,AP ORoY-2"
+HuntKa00,Kareem Hunt,RB,2018,23,KAN,NFL,RB,11,11,7,7,0,0,0,0,0,14,0,,0,0,0,0,0,84,7.6,
+HuntKa00,Kareem Hunt,RB,2019,24,CLE,NFL,RB,8,3,2,1,0,0,0,0,0,3,0,,0,0,0,0,0,18,2.3,
+HuntKa00,Kareem Hunt,RB,2020,25,CLE,NFL,RB,16,5,6,5,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,
+HuntKa00,Kareem Hunt,RB,2021,26,CLE,NFL,RB,8,1,5,0,0,0,0,0,0,5,1,0,0,0,0,0,0,32,4.0,
+HuntKa00,Kareem Hunt,RB,2022,27,CLE,NFL,RB,17,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,24,1.4,
+HuntKa00,Kareem Hunt,RB,2023,28,CLE,NFL,RB,15,2,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,54,3.6,
+HuntKa00,Kareem Hunt,RB,2024,29,KAN,NFL,RB,13,8,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,42,3.2,
+HuntKa00,Kareem Hunt,RB,2025,30,KAN,NFL,RB,9,1,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,36,4.0,

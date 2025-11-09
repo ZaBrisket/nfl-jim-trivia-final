@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GreeAh00,Ahman Green,RB,1998,21,SEA,NFL,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+GreeAh00,Ahman Green,RB,,,,,,,,,,,,,,,,,,,,,,,,
+GreeAh00,Ahman Green,RB,2000,23,GNB,NFL,RB,16,11,10,3,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,AP CPoY-12
+GreeAh00,Ahman Green,RB,2001,24,GNB,NFL,RB,16,16,9,2,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,"PB,AP-2"
+GreeAh00,Ahman Green,RB,2002,25,GNB,NFL,RB,14,14,7,2,0,0,0,0,0,9,0,0,0,0,0,0,54,3.9,PB
+GreeAh00,Ahman Green,RB,2003,26,GNB,NFL,RB,16,16,15,5,0,0,0,0,0,20,0,0,0,0,0,0,120,7.5,PB
+GreeAh00,Ahman Green,RB,2004,27,GNB,NFL,RB,15,15,7,1,0,0,0,0,0,8,0,0,0,0,0,0,48,3.2,PB
+GreeAh00,Ahman Green,RB,,,,,,,,,,,,,,,,,,,,,,,,
+GreeAh00,Ahman Green,RB,2006,29,GNB,NFL,RB,14,14,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,
+GreeAh00,Ahman Green,RB,2007,30,HOU,NFL,RB,6,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,2.0,
+GreeAh00,Ahman Green,RB,2008,31,HOU,NFL,RB,8,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,2.3,
+GreeAh00,Ahman Green,RB,2009,32,GNB,NFL,RB,8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,

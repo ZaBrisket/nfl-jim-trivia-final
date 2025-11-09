@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+OsweBr00,Brock Osweiler,QB,2012,22,DEN,QB,6,5,0,33,9%,0,0%,0,0%
+OsweBr00,Brock Osweiler,QB,2013,23,DEN,QB,17,4,0,51,16%,0,0%,1,1%
+OsweBr00,Brock Osweiler,QB,2014,24,DEN,QB,17,4,0,36,13%,0,0%,0,0%
+OsweBr00,Brock Osweiler,QB,2015,25,DEN,QB,17,8,7,514,89%,0,0%,0,0%
+OsweBr00,Brock Osweiler,QB,2016,26,HOU,QB,17,15,14,976,92%,0,0%,0,0%
+OsweBr00,Brock Osweiler,QB,2017,27,DEN,QB,17,6,4,352,79%,0,0%,0,0%
+OsweBr00,Brock Osweiler,QB,2018,28,MIA,QB,8,7,5,340,81%,0,0%,0,0%

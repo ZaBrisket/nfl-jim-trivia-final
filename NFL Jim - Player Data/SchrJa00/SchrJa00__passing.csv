@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+SchrJa00,Jay Schroeder,QB,1985,24,WAS,NFL,QB,9,5,4-1-0,112,209,53.6,1458,5,2.4,5,2.4,67,46.0,53,7.0,6.38,13.0,162.0,73.8,15,114,6.70,6.00,5.44,3,3,4,
+SchrJa00,Jay Schroeder,QB,1986,25,WAS,NFL,QB,16,16,12-4-0,276,541,51.0,4109,22,4.1,22,4.1,178,41.5,71,7.6,6.58,14.9,256.8,72.9,28,240,4.92,6.80,5.83,4,5,14,PB
+SchrJa00,Jay Schroeder,QB,1987,26,WAS,NFL,QB,11,10,8-2-0,129,267,48.3,1878,12,4.5,10,3.7,79,39.1,84,7.0,6.25,14.6,170.7,71.0,17,149,5.99,6.09,5.35,2,2,8,
+SchrJa00,Jay Schroeder,QB,1988,27,RAI,NFL,QB,9,8,3-5-0,113,256,44.1,1839,13,5.1,13,5.1,70,33.8,85,7.2,5.91,16.3,204.3,64.6,19,178,6.91,6.04,4.86,1,1,6,
+SchrJa00,Jay Schroeder,QB,1989,28,RAI,NFL,QB,11,9,4-5-0,91,194,46.9,1550,8,4.1,13,6.7,60,36.9,84,8.0,5.80,17.0,140.9,60.3,20,132,9.35,6.63,4.64,0,0,5,
+SchrJa00,Jay Schroeder,QB,1990,29,RAI,NFL,QB,16,16,12-4-0,182,334,54.5,2849,19,5.7,9,2.7,132,46.3,68,8.5,8.46,15.7,178.1,90.8,29,197,7.99,7.31,7.24,2,2,14,
+SchrJa00,Jay Schroeder,QB,1991,30,RAI,NFL,QB,15,15,9-6-0,189,357,52.9,2562,15,4.2,16,4.5,113,40.5,78,7.2,6.00,13.6,170.8,71.4,31,238,7.99,5.99,4.91,2,1,10,
+SchrJa00,Jay Schroeder,QB,1992,31,RAI,NFL,QB,13,9,4-5-0,123,253,48.6,1476,11,4.3,11,4.3,70,36.0,53,5.8,4.75,12.0,113.5,63.3,25,180,8.99,4.66,3.67,0,0,4,
+SchrJa00,Jay Schroeder,QB,1993,32,CIN,NFL,QB,9,3,0-3-0,78,159,49.1,832,5,3.1,2,1.3,45,34.9,37,5.2,5.30,10.7,92.4,70.0,13,87,7.56,4.33,4.39,0,0,2,
+SchrJa00,Jay Schroeder,QB,1994,33,ARI,NFL,QB,9,8,5-3-0,133,238,55.9,1510,4,1.7,7,2.9,74,43.0,48,6.3,5.36,11.4,167.8,68.4,11,85,4.42,5.72,4.78,2,3,4,

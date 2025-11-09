@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+HenrHu00,Hunter Henry,TE,2018,24,LAC,NFL,TE,0,0,0,0,0,0,,,,,,,,,,,,0,0,0,,,,
+HenrHu00,Hunter Henry,TE,2019,25,LAC,NFL,TE,12,12,76,55,652,36,488,8.9,164,3.0,10.2,0,,4,5.3,1,114.6,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2020,26,LAC,NFL,TE,14,14,93,60,613,35,387,6.5,226,3.8,8.0,3,20.0,2,2.2,1,93.2,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2021,27,NWE,NFL,TE,17,10,75,50,603,34,459,9.2,144,2.9,9.7,1,50.0,0,0.0,2,119.6,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2022,28,NWE,NFL,TE,17,14,59,41,509,23,306,7.5,203,5.0,7.7,0,,3,5.1,1,100.2,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2023,29,NWE,NFL,TE,14,10,61,42,419,29,341,8.1,78,1.9,8.8,1,42.0,3,4.9,2,107.2,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2024,30,NWE,NFL,TE,16,16,97,66,674,40,406,6.2,268,4.1,7.0,2,33.0,2,2.1,1,90.3,0,0,0,0,0,0,
+HenrHu00,Hunter Henry,TE,2025,31,NWE,NFL,TE,9,9,43,29,368,22,222,7.7,146,5.0,8.3,1,29.0,2,4.7,1,115.3,0,0,0,0,0,0,

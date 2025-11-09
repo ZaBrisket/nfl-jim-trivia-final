@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+InmaDo00,Dontrelle Inman,WR,2014,25,SDG,WR,15,7,0,121,25%,0,0%,36,19%
+InmaDo00,Dontrelle Inman,WR,2015,26,SDG,WR,15,14,7,691,67%,1,0%,59,15%
+InmaDo00,Dontrelle Inman,WR,2016,27,SDG,WR,15,16,16,958,90%,0,0%,9,2%
+InmaDo00,Dontrelle Inman,WR,2017,28,2TM,WR,,12,7,455,,0,,6,
+InmaDo00,Dontrelle Inman,WR,,,LAC,WR,15,4,0,39,15%,0,0%,6,5%
+InmaDo00,Dontrelle Inman,WR,,,,,,,,416,87%,0,0%,0,0%
+InmaDo00,Dontrelle Inman,WR,2018,29,IND,WR,15,9,4,371,60%,0,0%,0,0%
+InmaDo00,Dontrelle Inman,WR,2019,30,2TM,WR,,7,1,191,,0,,0,
+InmaDo00,Dontrelle Inman,WR,,,LAC,WR,15,4,1,136,51%,0,0%,0,0%
+InmaDo00,Dontrelle Inman,WR,,,,,,,,55,31%,0,0%,0,0%
+InmaDo00,Dontrelle Inman,WR,2020,31,WAS,WR,80,10,2,323,48%,0,0%,0,0%

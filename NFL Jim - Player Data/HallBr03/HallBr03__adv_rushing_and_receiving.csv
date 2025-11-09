@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+HallBr03,Breece Hall,RB,2022,21,NYJ,NFL,RB,7,2,80,463,20,332,4.2,131,1.6,3,26.7,31,19,218,8,47,2.5,171,9.0,4.7,2,9.5,5,16.1,1,79.8,
+HallBr03,Breece Hall,RB,2023,22,NYJ,NFL,RB,17,16,223,994,40,500,2.2,494,2.2,19,11.7,95,76,591,28,-58,-0.8,649,8.5,-0.5,10,7.6,5,5.3,1,102.2,AP CPoY-7
+HallBr03,Breece Hall,RB,2024,23,NYJ,NFL,RB,16,16,209,876,40,432,2.1,444,2.1,7,29.9,76,57,483,15,-13,-0.2,496,8.7,0.2,6,9.5,9,11.8,0,104.2,
+HallBr03,Breece Hall,RB,2025,24,NYJ,NFL,RB,8,8,117,581,32,344,2.9,237,2.0,8,14.6,30,21,178,7,45,2.1,133,6.3,1.5,0,,2,6.7,0,85.1,

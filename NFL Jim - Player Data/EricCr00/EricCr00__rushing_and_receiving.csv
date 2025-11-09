@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+EricCr00,Craig Erickson,QB,1992,23,TAM,NFL,QB,6,0,1,-1,0,0,0.0,-1,-1.0,-0.2,0.2,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,
+EricCr00,Craig Erickson,QB,1993,24,TAM,NFL,QB,16,15,26,96,0,7,38.5,15,3.7,6.0,1.6,0,0,0,0,0,0.0,0.0,26,3.7,96,0,9,
+EricCr00,Craig Erickson,QB,1994,25,TAM,NFL,QB,15,15,26,68,1,11,46.2,17,2.6,4.5,1.7,0,0,0,0,0,0.0,0.0,26,2.6,68,1,6,
+EricCr00,Craig Erickson,QB,1995,26,IND,NFL,QB,6,3,9,14,0,1,11.1,15,1.6,2.3,1.5,0,0,0,0,0,0.0,0.0,9,1.6,14,0,2,
+EricCr00,Craig Erickson,QB,1996,27,MIA,NFL,QB,7,3,11,16,0,2,18.2,12,1.5,2.3,1.6,0,0,0,0,0,0.0,0.0,11,1.5,16,0,4,
+EricCr00,Craig Erickson,QB,1997,28,MIA,NFL,QB,2,0,4,8,0,0,25.0,4,2.0,4.0,2.0,0,0,0,0,0,0.0,0.0,4,2.0,8,0,2,

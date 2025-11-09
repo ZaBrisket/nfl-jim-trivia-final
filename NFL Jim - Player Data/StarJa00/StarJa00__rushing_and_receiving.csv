@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+StarJa00,James Starks,RB,2010,24,GNB,NFL,RB,3,0,29,101,0,5,44.8,16,3.5,33.7,9.7,4,2,15,7.5,0,1,25.0,12,0.7,5.0,50.0,3.8,31,3.7,116,0,0,1,
+StarJa00,James Starks,RB,2011,25,GNB,NFL,RB,13,2,133,578,1,31,45.1,40,4.3,44.5,10.2,37,29,216,7.4,0,9,48.6,17,2.2,16.6,78.4,5.8,162,4.9,794,1,2,8,
+StarJa00,James Starks,RB,2012,26,GNB,NFL,RB,6,2,71,255,1,13,46.5,22,3.6,42.5,11.8,6,4,31,7.8,0,0,50.0,9,0.7,5.2,66.7,5.2,75,3.8,286,1,1,2,
+StarJa00,James Starks,RB,2013,27,GNB,NFL,RB,13,1,89,493,3,27,55.1,41,5.5,37.9,6.8,13,10,89,8.9,1,3,61.5,23,0.8,6.8,76.9,6.8,99,5.9,582,4,1,4,
+StarJa00,James Starks,RB,2014,28,GNB,NFL,RB,16,0,85,333,2,17,37.6,41,3.9,20.8,5.3,29,18,140,7.8,0,6,34.5,28,1.1,8.8,62.1,4.8,103,4.6,473,2,1,5,
+StarJa00,James Starks,RB,2015,29,GNB,NFL,RB,16,4,148,601,2,30,40.5,65,4.1,37.6,9.3,53,43,392,9.1,3,17,54.7,30,2.7,24.5,81.1,7.4,191,5.2,993,5,5,7,
+StarJa00,James Starks,RB,2016,30,GNB,NFL,RB,9,4,63,145,0,9,30.2,11,2.3,16.1,7.0,25,19,134,7.1,2,5,36.0,31,2.1,14.9,76.0,5.4,82,3.4,279,2,1,2,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+OlseGr00,Greg Olsen,TE,2012,27,CAR,TE,88,16,16,1007,98%,0,0%,5,1%
+OlseGr00,Greg Olsen,TE,2013,28,CAR,TE,88,16,16,1000,97%,0,0%,4,1%
+OlseGr00,Greg Olsen,TE,2014*,29,CAR,TE,88,16,16,1067,97%,0,0%,1,0%
+OlseGr00,Greg Olsen,TE,2015*,30,CAR,TE,88,16,16,1057,96%,0,0%,3,1%
+OlseGr00,Greg Olsen,TE,2016*,31,CAR,TE,88,16,16,1033,93%,0,0%,4,1%
+OlseGr00,Greg Olsen,TE,2017,32,CAR,TE,88,7,7,358,77%,0,0%,2,1%
+OlseGr00,Greg Olsen,TE,2018,33,CAR,TE,88,9,9,429,77%,0,0%,1,0%
+OlseGr00,Greg Olsen,TE,2019,34,CAR,TE,88,14,14,790,81%,0,0%,2,1%
+OlseGr00,Greg Olsen,TE,2020,35,SEA,TE,88,11,8,429,59%,0,0%,6,2%

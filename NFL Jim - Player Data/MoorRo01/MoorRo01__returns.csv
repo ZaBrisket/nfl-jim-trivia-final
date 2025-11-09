@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MoorRo01,Ronald Moore,RB,1993,23,PHO,NFL,RB,16,11,0,0,0,0,1,9,0,9,9.0,1043,
+MoorRo01,Ronald Moore,RB,,,,,,,,,,,,,,,,,,
+MoorRo01,Ronald Moore,RB,1995,25,NYJ,NFL,RB,15,3,0,0,0,0,8,166,0,46,20.8,337,
+MoorRo01,Ronald Moore,RB,1996,26,NYJ,NFL,RB,16,0,0,0,0,0,8,118,0,28,14.8,119,
+MoorRo01,Ronald Moore,RB,1997,27,2TM,NFL,RB,13,4,0,0,0,0,1,17,0,17,17.0,329,
+MoorRo01,Ronald Moore,RB,1997,27,STL,NFL,RB,7,2,0,0,0,0,1,17,0,17,17.0,154,

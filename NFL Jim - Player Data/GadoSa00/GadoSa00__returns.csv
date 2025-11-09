@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+GadoSa00,Samkon Gado,RB,2006,24,2TM,NFL,RB,9,1,0,0,0,0,3,57,0,23,19.0,352,
+GadoSa00,Samkon Gado,RB,2006,24,GNB,NFL,RB,1,0,0,0,0,0,3,57,0,23,19.0,55,
+GadoSa00,Samkon Gado,RB,,,,,,,,,,,,,,,,,,
+GadoSa00,Samkon Gado,RB,2009,27,STL,NFL,RB,15,0,0,0,0,0,1,23,0,23,23.0,74,

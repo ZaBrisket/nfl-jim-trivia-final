@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+MannPe00,Peyton Manning,QB,1999,23,IND,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP-2,AP MVP-2,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2000,24,IND,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP-2,AP MVP-5,AP OPoY-8"
+MannPe00,Peyton Manning,QB,2001,25,IND,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+MannPe00,Peyton Manning,QB,2002,26,IND,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,PB
+MannPe00,Peyton Manning,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2006,30,IND,NFL,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,"PB,AP-2,AP MVP-3,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2007,31,IND,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,PB
+MannPe00,Peyton Manning,QB,2008,32,IND,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP-1,AP MVP-1,AP OPoY-2"
+MannPe00,Peyton Manning,QB,,,,,,,,,,,,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2013,37,DEN,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,"PB,AP-1,AP MVP-1,AP OPoY-1"

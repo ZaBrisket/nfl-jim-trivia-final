@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RichTr00,Trent Richardson,RB,2012,22,CLE,NFL,RB,15,15,267,950,11,38,42.3,32,3.6,63.3,17.8,70,51,367,7.2,1,18,50.0,27,3.4,24.5,72.9,5.2,318,4.1,1317,12,3,6,
+RichTr00,Trent Richardson,RB,2013,23,2TM,NFL,RB,16,10,188,563,3,28,42.0,22,3.0,35.2,11.8,52,35,316,9.0,1,16,48.1,24,2.2,19.8,67.3,6.1,223,3.9,879,4,2,7,
+RichTr00,Trent Richardson,RB,2013,23,CLE,NFL,RB,2,2,31,105,0,3,48.4,10,3.4,52.5,15.5,11,7,51,7.3,0,2,45.5,18,3.5,25.5,63.6,4.6,38,4.1,156,0,0,1,
+RichTr00,Trent Richardson,RB,2013,23,IND,NFL,RB,14,8,157,458,3,25,40.8,22,2.9,32.7,11.2,41,28,265,9.5,1,14,48.8,24,2.0,18.9,68.3,6.5,185,3.9,723,4,2,6,
+RichTr00,Trent Richardson,RB,2014,24,IND,NFL,RB,15,12,159,519,3,27,40.3,27,3.3,34.6,10.6,34,27,229,8.5,0,9,50.0,24,1.8,15.3,79.4,6.7,186,4.0,748,3,2,5,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+DaviDo01,Domanick Williams,RB,2003,23,HOU,NFL,RB,14,10,238,1031,8,48,39.5,51,4.3,73.6,17.0,68,47,351,7.5,0,15,45.6,17,3.4,25.1,69.1,5.2,285,4.8,1382,8,4,10,
+DaviDo01,Domanick Williams,RB,2004,24,HOU,NFL,RB,15,15,302,1188,13,57,42.7,44,3.9,79.2,20.1,84,68,588,8.6,1,27,59.5,38,4.5,39.2,81.0,7.0,370,4.8,1776,14,4,13,
+DaviDo01,Domanick Williams,RB,2005,25,HOU,NFL,RB,11,11,230,976,2,39,43.5,44,4.2,88.7,20.9,48,39,337,8.6,4,19,45.8,33,3.5,30.6,81.3,7.0,269,4.9,1313,6,2,12,

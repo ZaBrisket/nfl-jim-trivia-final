@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+DilfTr00,Trent Dilfer,QB,1994,22,TAM,NFL,QB,5,2,2,27,0,2,100.0,15,13.5,5.4,0.4,0,0,0,,0,0,,,0.0,0.0,,,2,13.5,27,0,2,
+DilfTr00,Trent Dilfer,QB,1995,23,TAM,NFL,QB,16,16,23,115,2,9,47.8,21,5.0,7.2,1.4,0,0,0,,0,0,,,0.0,0.0,,,23,5.0,115,2,13,
+DilfTr00,Trent Dilfer,QB,1996,24,TAM,NFL,QB,16,16,32,124,0,9,43.8,19,3.9,7.8,2.0,0,0,0,,0,0,,,0.0,0.0,,,32,3.9,124,0,10,
+DilfTr00,Trent Dilfer,QB,1997,25,TAM,NFL,QB,16,16,33,99,1,8,39.4,17,3.0,6.2,2.1,0,0,0,,0,0,,,0.0,0.0,,,33,3.0,99,1,9,PB
+DilfTr00,Trent Dilfer,QB,1998,26,TAM,NFL,QB,16,16,40,141,2,14,47.5,17,3.5,8.8,2.5,0,0,0,,0,0,,,0.0,0.0,,,40,3.5,141,2,9,
+DilfTr00,Trent Dilfer,QB,1999,27,TAM,NFL,QB,10,10,35,144,0,14,45.7,28,4.1,14.4,3.5,0,0,0,,0,0,,,0.0,0.0,,,35,4.1,144,0,6,
+DilfTr00,Trent Dilfer,QB,2000,28,BAL,NFL,QB,11,8,20,75,0,4,25.0,19,3.8,6.8,1.8,1,1,-1,-1.0,0,0,0.0,-1,0.1,-0.1,100.0,-1.0,21,3.5,74,0,8,AP CPoY-3
+DilfTr00,Trent Dilfer,QB,2001,29,SEA,NFL,QB,6,4,11,17,0,3,27.3,11,1.5,2.8,1.8,1,1,-5,-5.0,0,0,0.0,-5,0.2,-0.8,100.0,-5.0,12,1.0,12,0,3,
+DilfTr00,Trent Dilfer,QB,2002,30,SEA,NFL,QB,6,6,10,27,0,4,50.0,13,2.7,4.5,1.7,0,0,0,,0,0,,,0.0,0.0,,,10,2.7,27,0,2,
+DilfTr00,Trent Dilfer,QB,2003,31,SEA,NFL,QB,5,0,2,-1,0,0,0.0,,-0.5,-0.2,0.4,0,0,0,,0,0,,,0.0,0.0,,,2,-0.5,-1,0,2,
+DilfTr00,Trent Dilfer,QB,2004,32,SEA,NFL,QB,5,2,10,14,0,1,20.0,11,1.4,2.8,2.0,0,0,0,,0,0,,,0.0,0.0,,,10,1.4,14,0,1,
+DilfTr00,Trent Dilfer,QB,2005,33,CLE,NFL,QB,11,11,20,46,0,2,15.0,12,2.3,4.2,1.8,0,0,0,,0,0,,,0.0,0.0,,,20,2.3,46,0,9,
+DilfTr00,Trent Dilfer,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DilfTr00,Trent Dilfer,QB,2007,35,SFO,NFL,QB,7,6,10,25,0,1,30.0,11,2.5,3.6,1.4,0,0,0,,0,0,,,0.0,0.0,,,10,2.5,25,0,8,

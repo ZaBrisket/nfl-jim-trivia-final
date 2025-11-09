@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+WarnKu00,Kurt Warner,QB,1999,28,STL,NFL,QB,16,16,132,132,133,134,130,143,109,109,136,"PB,AP-1,AP MVP-1,AP OPoY-2"
+WarnKu00,Kurt Warner,QB,2000,29,STL,NFL,QB,11,11,158,158,136,137,138,126,70,109,128,PB
+WarnKu00,Kurt Warner,QB,2001,30,STL,NFL,QB,16,16,140,137,132,130,133,136,87,101,132,"PB,AP-1,AP MVP-1,AP OPoY-2"
+WarnKu00,Kurt Warner,QB,2002,31,STL,NFL,QB,7,6,96,90,76,75,122,62,69,85,82,
+WarnKu00,Kurt Warner,QB,2003,32,STL,NFL,QB,2,1,78,76,88,85,97,68,128,87,90,
+WarnKu00,Kurt Warner,QB,2004,33,NYG,NFL,QB,10,9,110,99,112,104,111,77,130,59,108,
+WarnKu00,Kurt Warner,QB,2005,34,ARI,NFL,QB,10,10,106,107,105,106,116,87,113,106,106,
+WarnKu00,Kurt Warner,QB,2006,35,ARI,NFL,QB,6,5,127,118,117,112,114,95,102,92,111,
+WarnKu00,Kurt Warner,QB,2007,36,ARI,NFL,QB,14,11,114,116,110,112,106,123,88,112,111,
+WarnKu00,Kurt Warner,QB,2008,37,ARI,NFL,QB,16,16,114,116,115,116,120,110,109,113,117,"PB,AP MVP-7,AP CPoY-4"
+WarnKu00,Kurt Warner,QB,2009,38,ARI,NFL,QB,15,15,106,109,107,109,117,112,103,112,112,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WhitSa00,Sammy White,WR,1976,22,MIN,NFL,WR,14,14,,51,906,17.8,10,,,56,3.6,64.7,,,5,-10,0,,,6,-2.0,-0.7,0.4,56,16.0,896,10,3,11,"PB,AP ORoY-1"
+WhitSa00,Sammy White,WR,1977,23,MIN,NFL,WR,14,14,,41,760,18.5,9,,,69,2.9,54.3,,,0,0,0,,,,,0.0,0.0,41,18.5,760,9,2,8,PB
+WhitSa00,Sammy White,WR,1978,24,MIN,NFL,WR,16,16,112,53,741,14.0,9,40,44.6,33,3.3,46.3,47.3,6.6,5,30,0,1,60.0,16,6.0,1.9,0.3,58,13.3,771,9,1,7,
+WhitSa00,Sammy White,WR,1979,25,MIN,NFL,WR,15,15,108,42,715,17.0,4,35,36.1,55,2.8,47.7,38.9,6.6,1,6,0,0,100.0,6,6.0,0.4,0.1,43,16.8,721,4,1,6,
+WhitSa00,Sammy White,WR,1980,26,MIN,NFL,WR,16,16,108,53,887,16.7,5,44,45.4,50,3.3,55.4,49.1,8.2,4,65,0,2,75.0,45,16.3,4.1,0.3,57,16.7,952,5,0,8,
+WhitSa00,Sammy White,WR,1981,27,MIN,NFL,WR,16,16,140,66,1001,15.2,3,43,40.7,53,4.1,62.6,47.1,7.2,2,-1,0,0,0.0,1,-0.5,-0.1,0.1,68,14.7,1000,3,1,8,
+WhitSa00,Sammy White,WR,1982,28,MIN,NFL,WR,7,6,53,29,503,17.3,5,24,50.9,65,4.1,71.9,54.7,9.5,0,0,0,0,,,,0.0,0.0,29,17.3,503,5,0,8,
+WhitSa00,Sammy White,WR,1983,29,MIN,NFL,WR,11,10,59,29,412,14.2,4,22,42.4,43,2.6,37.5,49.2,7.0,1,7,0,0,100.0,7,7.0,0.6,0.1,30,14.0,419,4,0,4,
+WhitSa00,Sammy White,WR,1984,30,MIN,NFL,WR,13,11,44,21,399,19.0,1,17,40.9,47,1.6,30.7,47.7,9.1,0,0,0,0,,,,0.0,0.0,21,19.0,399,1,1,3,
+WhitSa00,Sammy White,WR,1985,31,MIN,NFL,WR,6,0,18,8,76,9.5,0,3,27.8,15,1.3,12.7,44.4,4.2,0,0,0,0,,,,0.0,0.0,8,9.5,76,0,0,1,

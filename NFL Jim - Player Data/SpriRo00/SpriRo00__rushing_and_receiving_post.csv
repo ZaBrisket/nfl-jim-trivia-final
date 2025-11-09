@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+SpriRo00,Ron Springs,RB,1979,23,DAL,NFL,RB,1,0,5,20,1,4,80.0,15,4.0,20.0,5.0,1,1,2,2.0,0,0,0.0,2,1.0,2.0,100.0,2.0,6,3.7,22,1,0,
+SpriRo00,Ron Springs,RB,1980,24,DAL,NFL,FB,3,0,4,58,0,3,75.0,32,14.5,19.3,1.3,7,5,37,7.4,0,1,57.1,26,1.7,12.3,71.4,5.3,9,10.6,95,0,0,
+SpriRo00,Ron Springs,RB,1981,25,DAL,NFL,FB,2,2,20,80,1,10,75.0,10,4.0,40.0,10.0,5,3,13,4.3,0,1,40.0,12,1.5,6.5,60.0,2.6,23,4.0,93,1,0,
+SpriRo00,Ron Springs,RB,1982,26,DAL,NFL,FB,2,2,11,39,0,4,63.6,12,3.5,19.5,5.5,5,3,16,5.3,1,2,60.0,7,1.5,8.0,60.0,3.2,14,3.9,55,1,0,
+SpriRo00,Ron Springs,RB,1983,27,DAL,NFL,FB,1,1,2,4,0,0,0.0,3,2.0,4.0,2.0,8,6,38,6.3,0,1,50.0,12,6.0,38.0,75.0,4.8,8,5.3,42,0,0,

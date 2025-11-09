@@ -1,0 +1,19 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MannPe00,Peyton Manning,QB,1998,22,IND,NFL,QB,16,16,95,105,90,96,100,105,77,120,92,AP ORoY-2
+MannPe00,Peyton Manning,QB,1999,23,IND,NFL,QB,16,16,116,124,115,120,118,109,106,126,115,"PB,AP-2,AP MVP-2,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2000,24,IND,NFL,QB,16,16,118,125,122,127,118,122,111,122,123,"PB,AP-2,AP MVP-5,AP OPoY-8"
+MannPe00,Peyton Manning,QB,2001,25,IND,NFL,QB,16,16,116,117,108,109,113,111,84,110,107,
+MannPe00,Peyton Manning,QB,2002,26,IND,NFL,QB,16,16,109,116,108,113,125,109,100,119,115,PB
+MannPe00,Peyton Manning,QB,2003,27,IND,NFL,QB,16,16,114,121,120,125,124,113,124,122,124,"PB,AP-1,AP MVP-1,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2004,28,IND,NFL,QB,16,16,141,147,149,153,127,168,120,128,151,"PB,AP-1,AP MVP-1,AP OPoY-1"
+MannPe00,Peyton Manning,QB,2005,29,IND,NFL,QB,16,16,124,129,127,130,125,124,116,120,129,"PB,AP-1,AP MVP-2,AP OPoY-2"
+MannPe00,Peyton Manning,QB,2006,30,IND,NFL,QB,16,16,121,127,127,131,116,118,124,125,126,"PB,AP-2,AP MVP-3,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2007,31,IND,NFL,QB,16,16,120,122,120,122,117,123,105,114,122,PB
+MannPe00,Peyton Manning,QB,2008,32,IND,NFL,QB,16,16,105,113,110,115,119,109,112,125,114,"PB,AP-1,AP MVP-1,AP OPoY-2"
+MannPe00,Peyton Manning,QB,2009,33,IND,NFL,QB,16,16,117,126,116,122,127,120,102,133,120,"PB,AP-1,AP MVP-1,AP OPoY-3"
+MannPe00,Peyton Manning,QB,2010,34,IND,NFL,QB,16,16,98,107,102,108,118,107,106,129,109,PB
+MannPe00,Peyton Manning,QB,2011,,Did not play - Injured (neck),,,,,,,,,,,,,,
+MannPe00,Peyton Manning,QB,2012,36,DEN,NFL,QB,16,16,118,123,121,125,127,122,114,124,125,"PB,AP-1,AP MVP-2,AP OPoY-2,AP CPoY-1"
+MannPe00,Peyton Manning,QB,2013,37,DEN,NFL,QB,16,16,128,135,134,139,125,145,120,130,137,"PB,AP-1,AP MVP-1,AP OPoY-1"
+MannPe00,Peyton Manning,QB,2014,38,DEN,NFL,QB,16,16,117,125,116,122,115,123,101,128,118,PB
+MannPe00,Peyton Manning,QB,2015,39,DEN,NFL,QB,10,9,90,96,70,75,88,79,50,111,68,

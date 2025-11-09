@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_yac,rec_broken_tackles,rec_drops,rec_target_int,awards
+McCoCo00,Colt McCoy,QB,2018,32,WAS,NFL,QB,3,2,10,63,4,56,5.6,7,0.7,0,,0,0,0,0,0,0,0,0,0,
+McCoCo00,Colt McCoy,QB,2019,33,WAS,NFL,QB,1,1,2,14,1,14,7.0,0,0.0,0,,0,0,0,0,0,0,0,0,0,
+McCoCo00,Colt McCoy,QB,2020,34,NYG,NFL,QB,4,2,9,12,0,11,1.2,1,0.1,0,,0,0,0,0,0,0,0,0,0,
+McCoCo00,Colt McCoy,QB,2021,35,ARI,NFL,QB,8,3,22,37,6,30,1.4,7,0.3,0,,0,0,0,0,0,0,0,0,0,
+McCoCo00,Colt McCoy,QB,2022,36,ARI,NFL,QB,4,3,14,36,5,16,1.1,20,1.4,1,14.0,0,0,0,0,0,0,0,0,0,

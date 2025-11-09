@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+DobbJo00,Joshua Dobbs,QB,2018,23,PIT,NFL,QB,5,0,,6,12,50.0,43,0,0.0,1,8.3,2,33.3,22,3.6,-0.17,7.2,8.6,24.0,51.0,0,0,0.00,3.58,-0.17,0,0,0,
+DobbJo00,Joshua Dobbs,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DobbJo00,Joshua Dobbs,QB,2020,25,PIT,NFL,QB,1,0,,4,5,80.0,2,0,0.0,0,0.0,0,,3,0.4,0.40,0.5,2.0,79.2,48.7,0,0,0.00,0.40,0.40,0,0,0,
+DobbJo00,Joshua Dobbs,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DobbJo00,Joshua Dobbs,QB,2022,27,TEN,NFL,QB,2,2,0-2-0,40,68,58.8,411,2,2.9,2,2.9,25,39.2,39,6.0,5.31,10.3,205.5,73.8,52.8,6,26,8.11,5.20,4.53,0,0,1,
+DobbJo00,Joshua Dobbs,QB,2023,28,2TM,NFL,QB,13,12,3-9-0,262,417,62.8,2464,13,3.1,10,2.4,126,41.6,69,5.9,5.45,9.4,189.5,79.5,,30,217,6.71,5.03,4.60,1,1,7,
+DobbJo00,Joshua Dobbs,QB,2023,28,ARI,NFL,QB,8,8,1-7-0,167,266,62.8,1569,8,3.0,5,1.9,82,42.0,69,5.9,5.65,9.4,196.1,81.2,,17,126,6.01,5.10,4.87,0,0,6,
+DobbJo00,Joshua Dobbs,QB,2023,28,MIN,NFL,QB,5,4,2-2-0,95,151,62.9,895,5,3.3,5,3.3,44,40.9,29,5.9,5.10,9.4,179.0,76.4,,13,91,7.93,4.90,4.14,1,1,1,
+DobbJo00,Joshua Dobbs,QB,2024,29,SFO,NFL,QB,2,1,0-1-0,32,47,68.1,361,2,4.3,2,4.3,18,55.1,36,7.7,6.62,11.3,180.5,87.3,34.2,2,28,4.08,6.80,5.78,0,0,1,
+DobbJo00,Joshua Dobbs,QB,2025,30,NWE,NFL,QB,2,0,,1,2,50.0,12,0,0.0,0,0.0,1,50.0,12,6.0,6.00,12.0,6.0,68.7,99.9,0,0,0.00,6.00,6.00,0,0,,

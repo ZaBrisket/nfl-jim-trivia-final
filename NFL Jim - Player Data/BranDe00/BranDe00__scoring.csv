@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BranDe00,Deion Branch,WR,2002,23,NWE,NFL,WR,13,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+BranDe00,Deion Branch,WR,2003,24,NWE,NFL,WR,15,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.2,
+BranDe00,Deion Branch,WR,2004,25,NWE,NFL,WR,9,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+BranDe00,Deion Branch,WR,2005,26,NWE,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+BranDe00,Deion Branch,WR,2006,27,SEA,NFL,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,
+BranDe00,Deion Branch,WR,2007,28,SEA,NFL,WR,11,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.2,
+BranDe00,Deion Branch,WR,2008,29,SEA,NFL,WR,8,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,3.0,
+BranDe00,Deion Branch,WR,2009,30,SEA,NFL,WR,14,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+BranDe00,Deion Branch,WR,2010,31,2TM,NFL,WR,15,12,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+BranDe00,Deion Branch,WR,2010,31,SEA,NFL,WR,4,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,
+BranDe00,Deion Branch,WR,2010,31,NWE,NFL,WR,11,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.7,
+BranDe00,Deion Branch,WR,2011,32,NWE,NFL,WR,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,

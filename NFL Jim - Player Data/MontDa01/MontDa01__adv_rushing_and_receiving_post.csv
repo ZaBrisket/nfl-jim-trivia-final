@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MontDa01,David Montgomery,RB,2020,23,CHI,NFL,RB,1,1,12,31,2,20,1.7,11,0.9,0,,1,0,0,0,0,,0,,4.0,0,,1,100.0,0,39.6,
+MontDa01,David Montgomery,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MontDa01,David Montgomery,RB,2023,26,DET,NFL,RB,3,3,39,183,11,94,2.4,89,2.3,2,19.5,7,6,45,4,10,1.7,35,5.8,1.0,1,6.0,0,0.0,0,93.5,
+MontDa01,David Montgomery,RB,2024,27,DET,NFL,RB,1,1,7,28,2,12,1.7,16,2.3,1,7.0,0,0,0,0,0,,0,,,0,,0,,,,

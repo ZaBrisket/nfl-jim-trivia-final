@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FranWa00,Wallace Francis,WR,1973,22,BUF,NFL,WR,12,0,,0,0,,0,,,,0.0,0.0,,,0,0,0,,,,,0.0,0.0,0,,0,0,1,2,
+FranWa00,Wallace Francis,WR,1974,23,BUF,NFL,WR,14,0,,0,0,,0,,,,0.0,0.0,,,0,0,0,,,,,0.0,0.0,0,,0,0,0,0,
+FranWa00,Wallace Francis,WR,1975,24,ATL,NFL,WR,14,3,,13,270,20.8,4,,,67,0.9,19.3,,,2,12,0,,,9,6.0,0.9,0.1,15,18.8,282,4,2,3,
+FranWa00,Wallace Francis,WR,1976,25,ATL,NFL,WR,14,0,,2,24,12.0,0,,,12,0.1,1.7,,,0,0,0,,,,,0.0,0.0,2,12.0,24,0,0,0,
+FranWa00,Wallace Francis,WR,1977,26,ATL,NFL,WR,14,14,,26,390,15.0,1,,,32,1.9,27.9,,,4,6,0,,,11,1.5,0.4,0.3,30,13.2,396,1,0,4,
+FranWa00,Wallace Francis,WR,1978,27,ATL,NFL,WR,16,16,95,45,695,15.4,3,35,43.2,54,2.8,43.4,47.4,7.3,2,-11,0,0,0.0,-5,-5.5,-0.7,0.1,47,14.6,684,3,0,5,
+FranWa00,Wallace Francis,WR,1979,28,ATL,NFL,WR,16,16,142,74,1013,13.7,8,46,43.7,42,4.6,63.3,52.1,7.1,0,0,0,0,,,,0.0,0.0,74,13.7,1013,8,3,8,
+FranWa00,Wallace Francis,WR,1980,29,ATL,NFL,WR,16,16,104,54,862,16.0,7,39,45.2,81,3.4,53.9,51.9,8.3,1,2,0,0,0.0,2,2.0,0.1,0.1,55,15.7,864,7,0,9,
+FranWa00,Wallace Francis,WR,1981,30,ATL,NFL,WR,16,16,82,30,441,14.7,4,18,28.0,36,1.9,27.6,36.6,5.4,1,8,1,1,100.0,8,8.0,0.5,0.1,31,14.5,449,5,1,4,

@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GrahJi00,Jimmy Graham,TE,2010,24,NOR,NFL,TE,15,5,44,31,356,11.5,5,21,63.6,52,2.1,23.7,70.5,8.1,1,3,0,1,100.0,3,3.0,0.2,0.1,32,11.2,359,5,1,3,
+GrahJi00,Jimmy Graham,TE,2011,25,NOR,NFL,TE,16,11,149,99,1310,13.2,11,74,59.1,59,6.2,81.9,66.4,8.8,0,0,0,0,,,,0.0,0.0,99,13.2,1310,11,1,13,"PB,AP-2"
+GrahJi00,Jimmy Graham,TE,2012,26,NOR,NFL,TE,15,9,135,85,982,11.6,9,59,54.8,46,5.7,65.5,63.0,7.3,0,0,0,0,,,,0.0,0.0,85,11.6,982,9,1,8,
+GrahJi00,Jimmy Graham,TE,2013,27,NOR,NFL,TE,16,12,142,86,1215,14.1,16,61,52.1,56,5.4,75.9,60.6,8.6,0,0,0,0,,,,0.0,0.0,86,14.1,1215,16,0,11,"PB,AP-1"
+GrahJi00,Jimmy Graham,TE,2014,28,NOR,NFL,TE,16,13,125,85,889,10.5,10,54,62.4,29,5.3,55.6,68.0,7.1,0,0,0,0,,,,0.0,0.0,85,10.5,889,10,2,8,PB
+GrahJi00,Jimmy Graham,TE,2015,29,SEA,NFL,TE,11,11,74,48,605,12.6,2,29,54.1,45,4.4,55.0,64.9,8.2,0,0,0,0,,,,0.0,0.0,48,12.6,605,2,0,6,
+GrahJi00,Jimmy Graham,TE,2016,30,SEA,NFL,TE,16,15,95,65,923,14.2,6,45,58.9,42,4.1,57.7,68.4,9.7,1,0,0,0,0.0,,0.0,0.0,0.1,66,14.0,923,6,2,8,PB
+GrahJi00,Jimmy Graham,TE,2017,31,SEA,NFL,TE,16,13,96,57,520,9.1,10,34,49.0,33,3.6,32.5,59.4,5.4,0,0,0,0,,,,0.0,0.0,57,9.1,520,10,0,4,PB
+GrahJi00,Jimmy Graham,TE,2018,32,GNB,NFL,TE,16,12,89,55,636,11.6,2,32,47.2,54,3.4,39.8,61.8,7.1,0,0,0,0,,,,0.0,0.0,55,11.6,636,2,0,5,
+GrahJi00,Jimmy Graham,TE,2019,33,GNB,NFL,TE,16,10,60,38,447,11.8,3,23,48.3,48,2.4,27.9,63.3,7.5,0,0,0,0,,,,0.0,0.0,38,11.8,447,3,1,4,
+GrahJi00,Jimmy Graham,TE,2020,34,CHI,NFL,TE,16,15,76,50,456,9.1,8,32,56.6,30,3.1,28.5,65.8,6.0,0,0,0,0,,,,0.0,0.0,50,9.1,456,8,1,4,
+GrahJi00,Jimmy Graham,TE,2021,35,CHI,NFL,TE,15,6,23,14,167,11.9,3,10,47.8,28,0.9,11.1,60.9,7.3,0,0,0,0,,,,0.0,0.0,14,11.9,167,3,0,1,
+GrahJi00,Jimmy Graham,TE,2022,,Did not play - Out of NFL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GrahJi00,Jimmy Graham,TE,2023,37,NOR,NFL,TE,13,2,7,6,39,6.5,4,6,85.7,12,0.5,3.0,85.7,5.6,0,0,0,0,,,,0.0,0.0,6,6.5,39,4,0,0,

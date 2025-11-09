@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_yds,pass_td,pass_first_down,pass_yds_per_g,comebacks,gwd,awards
+DilsSt00,Steve Dils,QB,1980,25,MIN,NFL,QB,1,0,0,0,0,0,0,0.0,0,0,
+DilsSt00,Steve Dils,QB,,,,,,,,,,,,,,,,
+DilsSt00,Steve Dils,QB,1982,27,MIN,NFL,QB,1,0,0,0,0,0,0,0.0,0,0,
+DilsSt00,Steve Dils,QB,,,,,,,,,,,,,,,,
+DilsSt00,Steve Dils,QB,1984,29,RAM,NFL,QB,1,0,0,0,0,0,0,0.0,0,0,
+DilsSt00,Steve Dils,QB,1985,30,RAM,NFL,QB,1,0,0,0,0,0,0,0.0,0,0,
+DilsSt00,Steve Dils,QB,1986,31,RAM,NFL,QB,1,0,0,0,0,0,0,0.0,0,0,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MoorDe02,Denarius Moore,WR,2011,23,OAK,NFL,WR,13,10,25,216,0,34,8.6,2,37,0,20,18.5,932,
+MoorDe02,Denarius Moore,WR,2012,24,OAK,NFL,WR,15,15,9,32,0,19,3.6,0,0,0,0,,768,
+MoorDe02,Denarius Moore,WR,,,,,,,,,,,,,,,,,,,
+MoorDe02,Denarius Moore,WR,2014,26,OAK,NFL,WR,10,2,8,38,0,23,4.8,0,0,0,0,,154,
+MoorDe02,Denarius Moore,WR,2015,27,BUF,NFL,WR,6,0,5,77,0,27,15.4,5,70,0,20,14.0,147,

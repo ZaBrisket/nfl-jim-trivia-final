@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+MaloMa00,Mark Malone,QB,1980,22,PIT,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0,0,,,,0,0,0,
+MaloMa00,Mark Malone,QB,1981,23,PIT,NFL,QB,8,3,0-2-0,45,88,51.1,553,3,3.4,5,5.7,28,39.8,30,6.3,4.41,12.3,69.1,58.6,10,76,10.20,4.87,3.18,0,0,3,
+MaloMa00,Mark Malone,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MaloMa00,Mark Malone,QB,1983,25,PIT,NFL,QB,2,0,,9,20,45.0,124,1,5.0,2,10.0,7,42.9,38,6.2,2.70,13.8,62.0,42.5,1,11,4.76,5.38,2.05,0,0,0,
+MaloMa00,Mark Malone,QB,1984,26,PIT,NFL,QB,13,9,6-3-0,147,272,54.0,2137,16,5.9,17,6.3,104,42.4,61,7.9,6.22,14.5,164.4,73.4,25,211,8.42,6.48,4.99,1,2,8,
+MaloMa00,Mark Malone,QB,1985,27,PIT,NFL,QB,10,8,3-5-0,117,233,50.2,1428,13,5.6,7,3.0,78,42.0,45,6.1,5.89,12.2,142.8,75.5,10,80,4.12,5.55,5.32,0,0,5,
+MaloMa00,Mark Malone,QB,1986,28,PIT,NFL,QB,14,14,6-8-0,216,425,50.8,2444,15,3.5,18,4.2,128,41.6,48,5.8,4.55,11.3,174.6,62.5,13,97,2.97,5.36,4.19,0,2,8,
+MaloMa00,Mark Malone,QB,1987,29,PIT,NFL,QB,12,12,6-6-0,156,336,46.4,1896,6,1.8,19,5.7,98,35.6,63,5.6,3.46,12.2,158.0,46.7,18,151,5.08,4.93,2.85,3,3,3,
+MaloMa00,Mark Malone,QB,1988,30,SDG,NFL,QB,12,8,2-6-0,147,272,54.0,1580,6,2.2,13,4.8,70,41.6,59,5.8,4.10,10.7,131.7,58.8,9,45,3.20,5.46,3.81,0,0,3,
+MaloMa00,Mark Malone,QB,1989,31,NYJ,NFL,QB,1,0,,2,2,100.0,13,0,0.0,0,0.0,1,50.0,11,6.5,6.50,6.5,13.0,93.7,0,0,0.00,6.50,6.50,0,0,0,

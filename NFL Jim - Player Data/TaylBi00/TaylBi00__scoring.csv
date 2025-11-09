@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+TaylBi00,Billy Taylor,RB,1979,23,NYG,NFL,FB,16,9,7,4,0,0,0,0,0,11,0,0,0,0,0,66,4.1,
+TaylBi00,Billy Taylor,RB,1980,24,NYG,NFL,RB,11,10,4,0,0,0,0,0,0,4,0,0,0,0,0,24,2.2,
+TaylBi00,Billy Taylor,RB,1981,25,2TM,NFL,RB,8,3,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.5,
+TaylBi00,Billy Taylor,RB,1981,25,NYG,NFL,RB,5,3,2,0,0,0,0,0,0,2,0,0,0,0,0,12,2.4,

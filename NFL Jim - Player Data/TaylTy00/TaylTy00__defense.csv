@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+TaylTy00,Tyrod Taylor,QB,2015,26,BUF,NFL,QB,14,14,0,0,0,0,0,0,9,3,0,0,0.0,0,0,0,0,0,0,PB
+TaylTy00,Tyrod Taylor,QB,2016,27,BUF,NFL,QB,15,15,0,0,0,0,0,0,4,3,-6,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,2017,28,BUF,NFL,QB,15,14,0,0,0,0,0,0,4,0,-7,0,0.0,0,0,0,,,0,
+TaylTy00,Tyrod Taylor,QB,2018,29,CLE,NFL,QB,4,3,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,,,,,,,,,,,,,,,,,,,,,,,,,
+TaylTy00,Tyrod Taylor,QB,2021,32,HOU,NFL,QB,6,6,0,0,0,0,0,0,3,2,9,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,2022,33,NYG,NFL,QB,3,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,2023,34,NYG,NFL,QB,11,5,0,0,0,0,0,0,4,3,-6,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,2024,35,NYJ,NFL,QB,2,0,0,0,0,0,0,0,1,1,-8,0,0.0,0,0,0,0,0,0,
+TaylTy00,Tyrod Taylor,QB,2025,36,NYJ,NFL,QB,3,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

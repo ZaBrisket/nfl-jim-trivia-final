@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EvanLe00,Lee Evans,WR,2004,23,BUF,NFL,WR,16,11,74,48,843,17.6,9,37,58.1,69,3.0,52.7,64.9,11.4,5,85,0,3,80.0,48,17.0,5.3,0.3,53,17.5,928,9,1,9,
+EvanLe00,Lee Evans,WR,2005,24,BUF,NFL,WR,16,15,91,48,743,15.5,7,29,45.1,65,3.0,46.4,52.7,8.2,4,38,0,2,50.0,39,9.5,2.4,0.3,52,15.0,781,7,0,8,
+EvanLe00,Lee Evans,WR,2006,25,BUF,NFL,WR,16,15,137,82,1292,15.8,8,54,55.5,83,5.1,80.8,59.9,9.4,0,0,0,0,,,,0.0,0.0,82,15.8,1292,8,1,11,
+EvanLe00,Lee Evans,WR,2007,26,BUF,NFL,WR,16,16,113,55,849,15.4,5,37,42.5,85,3.4,53.1,48.7,7.5,0,0,0,0,,,,0.0,0.0,55,15.4,849,5,0,6,
+EvanLe00,Lee Evans,WR,2008,27,BUF,NFL,WR,16,16,102,63,1017,16.1,3,46,53.9,87,3.9,63.6,61.8,10.0,1,22,0,1,100.0,22,22.0,1.4,0.1,64,16.2,1039,3,2,9,
+EvanLe00,Lee Evans,WR,2009,28,BUF,NFL,WR,16,16,96,44,612,13.9,7,27,38.5,50,2.8,38.3,45.8,6.4,0,0,0,0,,,,0.0,0.0,44,13.9,612,7,0,5,
+EvanLe00,Lee Evans,WR,2010,29,BUF,NFL,WR,13,13,84,37,578,15.6,4,26,39.3,54,2.8,44.5,44.0,6.9,0,0,0,0,,,,0.0,0.0,37,15.6,578,4,2,5,
+EvanLe00,Lee Evans,WR,2011,30,BAL,NFL,WR,9,2,26,4,74,18.5,0,4,15.4,32,0.4,8.2,15.4,2.8,0,0,0,0,,,,0.0,0.0,4,18.5,74,0,0,1,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JeudJe00,Jerry Jeudy,WR,2020,21,DEN,NFL,WR,16,14,113,52,856,16.5,3,39,36.3,92,3.3,53.5,46.0,7.6,0,0,0,0,,,,0.0,0.0,52,16.5,856,3,2,6,
+JeudJe00,Jerry Jeudy,WR,2021,22,DEN,NFL,WR,10,5,56,38,467,12.3,0,22,53.6,40,3.8,46.7,67.9,8.3,2,3,0,0,0.0,3,1.5,0.3,0.2,40,11.8,470,0,1,4,
+JeudJe00,Jerry Jeudy,WR,2022,23,DEN,NFL,WR,15,14,100,67,972,14.5,6,41,52.0,67,4.5,64.8,67.0,9.7,4,40,0,4,100.0,14,10.0,2.7,0.3,71,14.3,1012,6,0,7,
+JeudJe00,Jerry Jeudy,WR,2023,24,DEN,NFL,WR,16,11,87,54,758,14.0,2,28,46.0,47,3.4,47.4,62.1,8.7,0,0,0,0,,,,0.0,0.0,54,14.0,758,2,1,7,
+JeudJe00,Jerry Jeudy,WR,2024,25,CLE,NFL,WR,17,16,145,90,1229,13.7,4,57,53.8,89,5.3,72.3,62.1,8.5,0,0,0,0,,,,0.0,0.0,90,13.7,1229,4,0,7,PB
+JeudJe00,Jerry Jeudy,WR,2025,26,CLE,NFL,WR,8,8,54,22,257,11.7,0,15,31.5,33,2.8,32.1,40.7,4.8,0,0,0,0,,,,0.0,0.0,22,11.7,257,0,0,,

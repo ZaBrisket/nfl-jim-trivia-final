@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CurtKe00,Kevin Curtis,WR,2004,26,STL,NFL,WR,2,2,17,11,235,21.4,1,10,58.8,57,5.5,117.5,64.7,13.8,0,0,0,0,0.0,0.0,11,21.4,235,1,0,
+CurtKe00,Kevin Curtis,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CurtKe00,Kevin Curtis,WR,2008,30,PHI,NFL,WR,3,3,22,12,211,17.6,0,9,45.5,50,4.0,70.3,54.5,9.6,0,0,0,0,0.0,0.0,12,17.6,211,0,0,
+CurtKe00,Kevin Curtis,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CurtKe00,Kevin Curtis,WR,2010,32,KAN,NFL,WR,1,0,3,1,3,3.0,0,0,0.0,3,1.0,3.0,33.3,1.0,0,0,0,0,0.0,0.0,1,3.0,3,0,0,

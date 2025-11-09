@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+LandJa00,Jarvis Landry,WR,2014,22,MIA,WR,14,16,11,683,62%,0,0%,165,37%
+LandJa00,Jarvis Landry,WR,2015*,23,MIA,WR,14,16,14,867,84%,0,0%,111,24%
+LandJa00,Jarvis Landry,WR,2016*,24,MIA,WR,14,16,16,892,94%,0,0%,51,11%
+LandJa00,Jarvis Landry,WR,2017*,25,MIA,WR,14,16,16,929,90%,0,0%,40,9%
+LandJa00,Jarvis Landry,WR,2018*,26,CLE,WR,80,16,14,957,88%,0,0%,6,1%
+LandJa00,Jarvis Landry,WR,2019*,27,CLE,WR,80,16,16,976,94%,0,0%,23,5%
+LandJa00,Jarvis Landry,WR,2020,28,CLE,WR,80,15,14,699,71%,0,0%,0,0%
+LandJa00,Jarvis Landry,WR,2021,29,CLE,WR,80,12,12,533,70%,0,0%,0,0%
+LandJa00,Jarvis Landry,WR,2022,30,NOR,WR,5,9,3,301,57%,0,0%,4,2%

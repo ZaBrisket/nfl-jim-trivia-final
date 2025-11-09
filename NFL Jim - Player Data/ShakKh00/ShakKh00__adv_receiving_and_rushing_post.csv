@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+ShakKh00,Khalil Shakir,WR,2022,22,BUF,NFL,WR,2,0,7,5,91,4,81,16.2,10,2.0,19.4,0,,1,14.3,0,113.7,0,0,0,0,0,0,
+ShakKh00,Khalil Shakir,WR,2023,23,BUF,NFL,WR,2,2,12,10,75,6,22,2.2,53,5.3,4.5,1,10.0,0,0.0,0,132.3,0,0,0,0,0,0,
+ShakKh00,Khalil Shakir,WR,2024,24,BUF,NFL,WR,3,3,20,18,174,7,75,4.2,99,5.5,5.2,1,18.0,0,0.0,0,102.9,0,0,0,0,0,0,

@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RoetBe00,Ben Roethlisberger,QB,2012,30,PIT,QB,7,13,13,834,96%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2013,31,PIT,QB,7,16,16,1052,100%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2014*,32,PIT,QB,7,16,16,1104,99%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2015*,33,PIT,QB,7,12,11,793,94%,0,0%,1,0%
+RoetBe00,Ben Roethlisberger,QB,2016*,34,PIT,QB,7,14,14,921,98%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2017*,35,PIT,QB,7,15,15,1036,99%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2018,36,PIT,QB,7,16,16,1086,97%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2019,37,PIT,QB,7,2,2,95,77%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2020,38,PIT,QB,7,15,15,1010,98%,0,0%,0,0%
+RoetBe00,Ben Roethlisberger,QB,2021,39,PIT,QB,7,16,16,1076,99%,0,0%,0,0%

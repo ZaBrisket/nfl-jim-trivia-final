@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+PaytWa00,Walter Payton,RB,1975,22,CHI,NFL,RB,13,7,0,0,0,0,,9,1,0,0,0.0,,,,0,
+PaytWa00,Walter Payton,RB,1976,23,CHI,NFL,RB,14,14,0,0,0,0,,10,0,0,0,0.0,,,,0,"PB,AP-1"
+PaytWa00,Walter Payton,RB,1977,24,CHI,NFL,RB,14,14,0,0,0,0,,11,5,0,0,0.0,,,,0,"PB,AP-1,AP MVP-1,AP OPoY-1"
+PaytWa00,Walter Payton,RB,1978,25,CHI,NFL,RB,16,16,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,"PB,AP-2"
+PaytWa00,Walter Payton,RB,1979,26,CHI,NFL,RB,16,16,0,0,0,0,0,7,2,0,0,0.0,0,0,0,0,"PB,AP-2"
+PaytWa00,Walter Payton,RB,1980,27,CHI,NFL,RB,16,16,0,0,0,0,0,5,3,0,0,0.0,0,0,0,0,"PB,AP-1"
+PaytWa00,Walter Payton,RB,1981,28,CHI,NFL,RB,16,16,0,0,0,0,0,9,3,0,0,0.0,0,0,0,0,
+PaytWa00,Walter Payton,RB,1982,29,CHI,NFL,RB,9,9,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,
+PaytWa00,Walter Payton,RB,1983,30,CHI,NFL,RB,16,16,0,0,0,0,0,5,2,0,0,0.0,0,0,0,0,PB
+PaytWa00,Walter Payton,RB,1984,31,CHI,NFL,RB,16,16,0,0,0,0,0,5,1,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-3"
+PaytWa00,Walter Payton,RB,1985,32,CHI,NFL,RB,16,16,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-2"
+PaytWa00,Walter Payton,RB,1986,33,CHI,NFL,RB,16,16,0,0,0,0,0,6,0,0,0,0.0,0,0,0,0,"PB,AP-2,AP MVP-6"
+PaytWa00,Walter Payton,RB,1987,34,CHI,NFL,RB,12,12,0,0,0,0,0,5,0,0,0,0.0,0,0,0,0,

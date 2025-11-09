@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WalkKe00,Kenneth Walker III,RB,2022,22,SEA,NFL,RB,15,11,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,54,3.6,AP ORoY-2
+WalkKe00,Kenneth Walker III,RB,2023,23,SEA,NFL,RB,15,15,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,54,3.6,
+WalkKe00,Kenneth Walker III,RB,2024,24,SEA,NFL,RB,11,11,7,1,0,0,0,0,0,8,0,0,0,0,0,0,0,48,4.4,
+WalkKe00,Kenneth Walker III,RB,2025,25,SEA,NFL,RB,8,8,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,18,2.3,

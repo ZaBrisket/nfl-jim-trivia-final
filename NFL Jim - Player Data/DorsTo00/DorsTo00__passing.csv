@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+DorsTo00,Tony Dorsett,RB,1977,23,DAL,NFL,RB,14,4,1,1,100.0,34,0,0.0,0,0.0,,,34,34.0,34.00,34.0,2.4,118.7,0,0,0.00,34.00,34.00,0,0,AP ORoY-1
+DorsTo00,Tony Dorsett,RB,1978,24,DAL,NFL,RB,16,15,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,PB
+DorsTo00,Tony Dorsett,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DorsTo00,Tony Dorsett,RB,1980,26,DAL,NFL,RB,15,15,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,
+DorsTo00,Tony Dorsett,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DorsTo00,Tony Dorsett,RB,1982,28,DAL,NFL,RB,9,9,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,"PB,AP-2"
+DorsTo00,Tony Dorsett,RB,1983,29,DAL,NFL,RB,16,16,0,1,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,0,0,0.00,0.00,0.00,0,0,"PB,AP-2"
+DorsTo00,Tony Dorsett,RB,1984,30,DAL,NFL,RB,16,16,0,1,0.0,0,0,0.0,1,100.0,0,,,0.0,-45.00,,0.0,0.0,0,0,0.00,0.00,-45.00,0,0,
+DorsTo00,Tony Dorsett,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DorsTo00,Tony Dorsett,RB,1988,34,DEN,NFL,RB,16,13,1,2,50.0,7,1,50.0,0,0.0,1,50.0,7,3.5,13.50,7.0,0.4,97.9,0,0,0.00,3.50,13.50,0,0,

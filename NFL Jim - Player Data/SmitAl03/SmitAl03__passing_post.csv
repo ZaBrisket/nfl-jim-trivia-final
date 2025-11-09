@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+SmitAl03,Alex Smith,QB,2011,27,SFO,NFL,QB,2,2,1-1-0,36,68,52.9,495,5,7.4,0,0.0,16,32.0,73,7.3,8.75,13.8,247.5,101.0,7,53,9.33,5.89,7.23,1,1,
+SmitAl03,Alex Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAl03,Alex Smith,QB,2013,29,KAN,NFL,QB,1,1,0-1-0,30,46,65.2,378,4,8.7,0,0.0,16,43.8,79,8.2,9.96,12.6,378.0,119.7,2,15,4.17,7.56,9.23,0,0,
+SmitAl03,Alex Smith,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SmitAl03,Alex Smith,QB,2015,31,KAN,NFL,QB,2,2,1-1-0,46,72,63.9,436,2,2.8,1,1.4,23,46.1,48,6.1,5.99,9.5,218.0,84.0,4,20,5.26,5.47,5.41,0,0,
+SmitAl03,Alex Smith,QB,2016,32,KAN,NFL,QB,1,1,0-1-0,20,34,58.8,172,1,2.9,1,2.9,9,42.9,24,5.1,4.32,8.6,172.0,69.7,1,6,2.86,4.74,4.03,0,0,
+SmitAl03,Alex Smith,QB,2017,33,KAN,NFL,QB,1,1,0-1-0,24,33,72.7,264,2,6.1,0,0.0,14,48.6,45,8.0,9.21,11.0,264.0,116.2,4,8,10.81,6.92,8.00,0,0,

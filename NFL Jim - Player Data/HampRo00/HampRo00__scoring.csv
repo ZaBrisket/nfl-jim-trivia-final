@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HampRo00,Rodney Hampton,RB,1990,21,NYG,NFL,RB,15,2,2,2,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,
+HampRo00,Rodney Hampton,RB,1991,22,NYG,NFL,RB,14,14,10,0,0,0,0,0,0,10,,0,0,0,0,0,60,4.3,
+HampRo00,Rodney Hampton,RB,1992,23,NYG,NFL,RB,16,16,14,0,0,0,0,0,0,14,,0,0,0,0,0,84,5.3,PB
+HampRo00,Rodney Hampton,RB,1993,24,NYG,NFL,RB,12,10,5,0,0,0,0,0,0,5,,0,0,0,0,0,30,2.5,PB
+HampRo00,Rodney Hampton,RB,1994,25,NYG,NFL,RB,14,13,6,0,0,0,0,0,0,6,1,0,0,0,0,0,38,2.7,
+HampRo00,Rodney Hampton,RB,1995,26,NYG,NFL,RB,16,15,10,0,0,0,0,0,0,10,1,0,0,0,0,0,62,3.9,
+HampRo00,Rodney Hampton,RB,1996,27,NYG,NFL,RB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+HampRo00,Rodney Hampton,RB,1997,28,NYG,NFL,RB,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3.0,

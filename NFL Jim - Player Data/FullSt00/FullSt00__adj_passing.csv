@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FullSt00,Steve Fuller,QB,1979,22,KAN,NFL,QB,16,12,70,64,72,69,98,76,95,69,79,
+FullSt00,Steve Fuller,QB,1980,23,KAN,NFL,QB,14,13,101,84,102,91,118,86,110,62,106,
+FullSt00,Steve Fuller,QB,1981,24,KAN,NFL,QB,13,3,99,89,103,96,106,76,119,74,101,
+FullSt00,Steve Fuller,QB,1982,25,KAN,NFL,QB,9,3,102,76,111,94,90,89,128,55,104,
+FullSt00,Steve Fuller,QB,,,,,,,,,,,,,,,,,
+FullSt00,Steve Fuller,QB,1984,27,CHI,NFL,QB,6,4,111,112,129,129,140,96,154,100,134,
+FullSt00,Steve Fuller,QB,1985,28,CHI,NFL,QB,16,5,104,92,91,85,78,64,92,66,77,
+FullSt00,Steve Fuller,QB,1986,29,CHI,NFL,QB,16,2,101,93,84,81,92,88,70,81,81,

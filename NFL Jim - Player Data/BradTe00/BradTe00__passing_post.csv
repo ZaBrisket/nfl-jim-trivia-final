@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+BradTe00,Terry Bradshaw,QB,1972,24,PIT,NFL,QB,2,2,1-1-0,16,35,45.7,255,2,5.7,3,8.6,,,60,7.3,4.57,15.9,127.5,53.9,4,40,10.26,5.51,3.08,1,1,
+BradTe00,Terry Bradshaw,QB,1973,25,PIT,NFL,QB,1,1,0-1-0,12,25,48.0,167,2,8.0,3,12.0,,,26,6.7,2.88,13.9,167.0,57.0,1,9,3.85,6.08,2.42,0,0,
+BradTe00,Terry Bradshaw,QB,1974,26,PIT,NFL,QB,3,3,3-0-0,29,50,58.0,394,3,6.0,1,2.0,,,35,7.9,8.18,13.6,131.3,94.9,2,12,3.85,7.35,7.63,1,1,
+BradTe00,Terry Bradshaw,QB,1975,27,PIT,NFL,QB,3,3,3-0-0,32,57,56.1,527,3,5.3,5,8.8,,,64,9.2,6.35,16.5,175.7,68.4,5,46,8.06,7.76,5.10,1,1,
+BradTe00,Terry Bradshaw,QB,1976,28,PIT,NFL,QB,2,2,1-1-0,28,53,52.8,440,3,5.7,1,1.9,,,76,8.3,8.58,15.7,220.0,91.7,4,18,7.02,7.40,7.67,0,0,
+BradTe00,Terry Bradshaw,QB,1977,29,PIT,NFL,QB,1,1,0-1-0,19,37,51.4,177,1,2.7,3,8.1,,,48,4.8,1.68,9.3,177.0,40.0,0,0,0.00,4.78,1.68,0,0,
+BradTe00,Terry Bradshaw,QB,1978,30,PIT,NFL,QB,3,3,3-0-0,44,78,56.4,790,8,10.3,4,5.1,36,48.8,75,10.1,9.87,18.0,263.3,104.1,4,27,4.88,9.30,9.06,0,0,SB MVP
+BradTe00,Terry Bradshaw,QB,1979,31,PIT,NFL,QB,3,3,3-0-0,53,82,64.6,758,6,7.3,4,4.9,35,55.8,73,9.2,8.51,14.3,252.7,98.5,4,32,4.65,8.44,7.74,1,1,SB MVP
+BradTe00,Terry Bradshaw,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BradTe00,Terry Bradshaw,QB,1982,34,PIT,NFL,QB,1,1,0-1-0,28,39,71.8,325,2,5.1,2,5.1,19,66.7,40,8.3,7.05,11.6,325.0,92.4,0,0,0.00,8.33,7.05,0,0,

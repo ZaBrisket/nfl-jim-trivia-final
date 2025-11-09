@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+AikmTr00,Troy Aikman,QB,1989,23,DAL,NFL,QB,11,11,78,82,70,72,91,88,68,106,74,
+AikmTr00,Troy Aikman,QB,1990,24,DAL,NFL,QB,15,15,88,84,83,81,101,86,87,88,86,
+AikmTr00,Troy Aikman,QB,1991,25,DAL,NFL,QB,12,12,114,109,112,109,130,90,113,95,114,PB
+AikmTr00,Troy Aikman,QB,1992,26,DAL,NFL,QB,16,16,109,115,113,117,120,114,108,115,118,PB
+AikmTr00,Troy Aikman,QB,1993,27,DAL,NFL,QB,14,14,122,122,127,126,133,101,128,104,129,"PB,AP MVP-5,AP OPoY-6"
+AikmTr00,Troy Aikman,QB,1994,28,DAL,NFL,QB,14,14,114,121,108,113,120,97,97,117,109,PB
+AikmTr00,Troy Aikman,QB,1995,29,DAL,NFL,QB,16,16,122,130,124,129,123,97,126,120,122,PB
+AikmTr00,Troy Aikman,QB,1996,30,DAL,NFL,QB,15,15,100,109,99,104,124,83,106,118,103,PB
+AikmTr00,Troy Aikman,QB,1997,31,DAL,NFL,QB,16,16,92,93,99,100,98,96,113,106,101,
+AikmTr00,Troy Aikman,QB,1998,32,DAL,NFL,QB,11,11,111,122,115,122,111,98,123,126,113,
+AikmTr00,Troy Aikman,QB,1999,33,DAL,NFL,QB,14,14,99,105,102,105,108,98,108,117,104,
+AikmTr00,Troy Aikman,QB,2000,34,DAL,NFL,QB,11,11,90,95,78,82,106,85,68,114,81,

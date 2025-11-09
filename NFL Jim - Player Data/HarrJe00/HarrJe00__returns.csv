@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HarrJe00,Jerome Harrison,RB,2009,26,CLE,NFL,RB,14,7,0,0,0,0,3,55,0,39,18.3,1137,
+HarrJe00,Jerome Harrison,RB,2010,27,2TM,NFL,RB,12,2,0,0,0,0,4,32,0,10,8.0,447,
+HarrJe00,Jerome Harrison,RB,2010,27,CLE,NFL,RB,4,1,0,0,0,0,4,32,0,10,8.0,165,

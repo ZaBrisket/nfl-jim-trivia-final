@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ShepLe00,Leslie Shepherd,WR,1994,25,WAS,NFL,WR,3,0,1,1,8,8.0,0,0,0.0,8,0.3,2.7,100.0,8.0,0,0,0,0,,,,0.0,0.0,1,8.0,8,0,0,0,
+ShepLe00,Leslie Shepherd,WR,1995,26,WAS,NFL,WR,14,4,61,29,486,16.8,2,20,39.3,73,2.1,34.7,47.5,8.0,7,63,1,4,57.1,26,9.0,4.5,0.5,36,15.3,549,3,0,5,
+ShepLe00,Leslie Shepherd,WR,1996,27,WAS,NFL,WR,12,6,45,23,344,15.0,3,18,46.7,52,1.9,28.7,51.1,7.6,6,96,2,4,83.3,32,16.0,8.0,0.5,29,15.2,440,5,0,5,
+ShepLe00,Leslie Shepherd,WR,1997,28,WAS,NFL,WR,11,9,69,29,562,19.4,5,27,40.6,48,2.6,51.1,42.0,8.1,4,27,0,1,50.0,17,6.8,2.5,0.4,33,17.8,589,5,0,5,
+ShepLe00,Leslie Shepherd,WR,1998,29,WAS,NFL,WR,16,16,114,43,712,16.6,8,39,37.7,43,2.7,44.5,37.7,6.2,6,91,1,4,66.7,29,15.2,5.7,0.4,49,16.4,803,9,0,6,
+ShepLe00,Leslie Shepherd,WR,1999,30,CLE,NFL,WR,9,8,61,23,274,11.9,0,13,27.9,36,2.6,30.4,37.7,4.5,1,5,0,1,100.0,5,5.0,0.6,0.1,24,11.6,279,0,0,2,
+ShepLe00,Leslie Shepherd,WR,2000,31,MIA,NFL,WR,13,11,59,35,446,12.7,4,16,45.8,46,2.7,34.3,59.3,7.6,4,3,0,1,25.0,14,0.8,0.2,0.3,39,11.5,449,4,0,5,

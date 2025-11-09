@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BryaDe01,Dez Bryant,WR,2010,22,DAL,NFL,WR,12,2,73,45,561,12.5,6,23,45.2,46,3.8,46.8,61.6,7.7,1,0,0,0,0.0,,0.0,0.0,0.1,46,12.2,561,6,1,7,
+BryaDe01,Dez Bryant,WR,2011,23,DAL,NFL,WR,15,13,103,63,928,14.7,9,48,54.4,50,4.2,61.9,61.2,9.0,1,5,0,0,100.0,5,5.0,0.3,0.1,64,14.6,933,9,3,8,
+BryaDe01,Dez Bryant,WR,2012,24,DAL,NFL,WR,16,14,138,92,1382,15.0,12,54,57.2,85,5.8,86.4,66.7,10.0,2,-5,0,0,50.0,6,-2.5,-0.3,0.1,94,14.6,1377,12,5,11,
+BryaDe01,Dez Bryant,WR,2013,25,DAL,NFL,WR,16,16,159,93,1233,13.3,13,68,52.2,79,5.8,77.1,58.5,7.8,1,1,0,0,0.0,1,1.0,0.1,0.1,94,13.1,1234,13,3,12,PB
+BryaDe01,Dez Bryant,WR,2014,26,DAL,NFL,WR,16,16,136,88,1320,15.0,16,60,55.1,68,5.5,82.5,64.7,9.7,0,0,0,0,,,,0.0,0.0,88,15.0,1320,16,0,14,"PB,AP-1"
+BryaDe01,Dez Bryant,WR,2015,27,DAL,NFL,WR,9,9,72,31,401,12.9,3,18,34.7,51,3.4,44.6,43.1,5.6,0,0,0,0,,,,0.0,0.0,31,12.9,401,3,0,2,
+BryaDe01,Dez Bryant,WR,2016,28,DAL,NFL,WR,13,13,96,50,796,15.9,8,38,50.0,56,3.8,61.2,52.1,8.3,0,0,0,0,,,,0.0,0.0,50,15.9,796,8,1,8,PB
+BryaDe01,Dez Bryant,WR,2017,29,DAL,NFL,WR,16,16,132,69,838,12.1,6,44,40.9,50,4.3,52.4,52.3,6.3,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,70,11.9,834,6,1,8,
+BryaDe01,Dez Bryant,WR,2018,,Did not play - Injured (Achilles),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BryaDe01,Dez Bryant,WR,2019,,Did not play - Did not sign,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BryaDe01,Dez Bryant,WR,2020,32,BAL,NFL,WR,6,0,11,6,47,7.8,2,3,54.5,16,1.0,7.8,54.5,4.3,0,0,0,0,,,,0.0,0.0,6,7.8,47,2,0,1,

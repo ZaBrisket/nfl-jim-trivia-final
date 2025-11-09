@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+KaufNa00,Napoleon Kaufman,RB,1995,22,OAK,NFL,RB,16,1,0,0,0,0,22,572,1,84,26.0,1124,
+KaufNa00,Napoleon Kaufman,RB,1996,23,OAK,NFL,RB,16,9,0,0,0,0,25,548,0,39,21.9,1565,
+KaufNa00,Napoleon Kaufman,RB,,,,,,,,,,,,,,,,,,
+KaufNa00,Napoleon Kaufman,RB,1999,26,OAK,NFL,RB,16,5,0,0,0,0,42,831,0,48,19.8,1726,
+KaufNa00,Napoleon Kaufman,RB,2000,27,OAK,NFL,RB,14,2,0,0,0,0,9,198,0,31,22.0,824,

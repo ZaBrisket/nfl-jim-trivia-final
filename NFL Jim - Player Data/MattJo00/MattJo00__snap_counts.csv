@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MattJo00,Jordan Matthews,WR,2014,22,PHI,WR,81,16,10,765,65%,0,0%,5,1%
+MattJo00,Jordan Matthews,WR,2015,23,PHI,WR,81,16,12,919,80%,0,0%,1,0%
+MattJo00,Jordan Matthews,WR,2016,24,PHI,WR,81,14,13,843,87%,0,0%,2,1%
+MattJo00,Jordan Matthews,WR,2017,25,BUF,WR,87,10,7,508,78%,0,0%,1,0%
+MattJo00,Jordan Matthews,WR,2018,26,PHI,WR,80,14,3,346,37%,0,0%,13,3%
+MattJo00,Jordan Matthews,WR,2019,27,2TM,WR,,3,1,137,,0,,0,
+MattJo00,Jordan Matthews,WR,,,SFO,WR,81,1,0,3,5%,0,0%,0,0%
+MattJo00,Jordan Matthews,WR,,,,,,,,134,92%,0,0%,0,0%
+MattJo00,Jordan Matthews,WR,2020,28,SFO,WR,18,2,0,14,12%,0,0%,24,43%
+MattJo00,Jordan Matthews,WR,2021,29,SFO,WR,88,1,0,0,0%,0,0%,4,15%
+MattJo00,Jordan Matthews,WR,2023,31,CAR,TE,85,1,0,0,0%,0,0%,19,68%
+MattJo00,Jordan Matthews,WR,2024,32,CAR,TE,81,4,1,26,12%,0,0%,61,54%

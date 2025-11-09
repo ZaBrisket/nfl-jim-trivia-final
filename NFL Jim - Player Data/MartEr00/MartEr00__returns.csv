@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MartEr00,Eric Martin,WR,1985,24,NOR,NFL,WR,16,12,8,53,0,13,6.6,15,384,0,69,25.6,958,
+MartEr00,Eric Martin,WR,1986,25,NOR,NFL,WR,16,11,24,227,0,39,9.5,3,64,0,27,21.3,966,
+MartEr00,Eric Martin,WR,1987,26,NOR,NFL,WR,15,11,14,88,0,15,6.3,1,15,0,15,15.0,881,
+MartEr00,Eric Martin,WR,1988,27,NOR,NFL,WR,16,16,0,0,0,0,,3,32,0,18,10.7,1127,PB

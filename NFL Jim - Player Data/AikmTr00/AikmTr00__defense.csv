@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+AikmTr00,Troy Aikman,QB,1989,23,DAL,NFL,QB,11,11,0,0,0,0,,0,6,3,0,0,0.0,0,0,0,,0,
+AikmTr00,Troy Aikman,QB,1990,24,DAL,NFL,QB,15,15,0,0,0,0,,0,5,1,0,0,0.0,0,0,0,,0,
+AikmTr00,Troy Aikman,QB,1991,25,DAL,NFL,QB,12,12,0,0,0,0,,0,4,0,0,0,0.0,0,0,0,,0,PB
+AikmTr00,Troy Aikman,QB,1992,26,DAL,NFL,QB,16,16,0,0,0,0,,0,4,1,0,0,0.0,0,0,0,,0,PB
+AikmTr00,Troy Aikman,QB,1993,27,DAL,NFL,QB,14,14,0,0,0,0,,0,7,3,-3,0,0.0,0,0,0,,0,"PB,AP MVP-5,AP OPoY-6"
+AikmTr00,Troy Aikman,QB,1994,28,DAL,NFL,QB,14,14,0,0,0,0,,0,2,2,0,0,0.0,0,0,0,,0,PB
+AikmTr00,Troy Aikman,QB,1995,29,DAL,NFL,QB,16,16,0,0,0,0,,0,5,2,-15,0,0.0,0,0,0,,0,PB
+AikmTr00,Troy Aikman,QB,1996,30,DAL,NFL,QB,15,15,0,0,0,0,,0,6,2,-8,0,0.0,0,0,0,,0,PB
+AikmTr00,Troy Aikman,QB,1997,31,DAL,NFL,QB,16,16,0,0,0,0,,0,6,0,-5,0,0.0,0,0,0,,0,
+AikmTr00,Troy Aikman,QB,1998,32,DAL,NFL,QB,11,11,0,0,0,0,,0,3,0,-20,0,0.0,0,0,0,,0,
+AikmTr00,Troy Aikman,QB,1999,33,DAL,NFL,QB,14,14,0,0,0,0,0,0,8,2,-12,0,0.0,0,0,0,0,0,
+AikmTr00,Troy Aikman,QB,2000,34,DAL,NFL,QB,11,11,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,

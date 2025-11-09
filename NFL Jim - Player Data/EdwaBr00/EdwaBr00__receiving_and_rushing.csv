@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EdwaBr00,Braylon Edwards,WR,2005,22,CLE,NFL,WR,10,7,60,32,512,16.0,3,22,46.7,80,3.2,51.2,53.3,8.5,0,0,0,0,,,,0.0,0.0,32,16.0,512,3,0,4,
+EdwaBr00,Braylon Edwards,WR,2006,23,CLE,NFL,WR,16,15,125,61,884,14.5,6,38,40.0,75,3.8,55.3,48.8,7.1,3,7,0,1,66.7,8,2.3,0.4,0.2,64,13.9,891,6,0,6,
+EdwaBr00,Braylon Edwards,WR,2007,24,CLE,NFL,WR,16,16,154,80,1289,16.1,16,56,48.7,78,5.0,80.6,51.9,8.4,0,0,0,0,,,,0.0,0.0,80,16.1,1289,16,3,13,"PB,AP-2"
+EdwaBr00,Braylon Edwards,WR,2008,25,CLE,NFL,WR,16,16,138,55,873,15.9,3,42,37.0,70,3.4,54.6,39.9,6.3,0,0,0,0,,,,0.0,0.0,55,15.9,873,3,0,6,
+EdwaBr00,Braylon Edwards,WR,2009,26,2TM,NFL,WR,16,15,95,45,680,15.1,4,36,45.3,65,2.8,42.5,47.4,7.2,0,0,0,0,,,,0.0,0.0,45,15.1,680,4,1,6,
+EdwaBr00,Braylon Edwards,WR,2009,26,CLE,NFL,WR,4,4,23,10,139,13.9,0,10,43.5,24,2.5,34.8,43.5,6.0,0,0,0,0,,,,0.0,0.0,10,13.9,139,0,0,1,
+EdwaBr00,Braylon Edwards,WR,2009,26,NYJ,NFL,WR,12,11,72,35,541,15.5,4,26,45.8,65,2.9,45.1,48.6,7.5,0,0,0,0,,,,0.0,0.0,35,15.5,541,4,1,5,
+EdwaBr00,Braylon Edwards,WR,2010,27,NYJ,NFL,WR,16,15,101,53,904,17.1,7,40,45.5,74,3.3,56.5,52.5,9.0,1,4,0,0,100.0,4,4.0,0.3,0.1,54,16.8,908,7,1,7,
+EdwaBr00,Braylon Edwards,WR,2011,28,SFO,NFL,WR,9,5,34,15,181,12.1,0,9,38.2,24,1.7,20.1,44.1,5.3,0,0,0,0,,,,0.0,0.0,15,12.1,181,0,0,2,
+EdwaBr00,Braylon Edwards,WR,2012,29,2TM,NFL,WR,13,4,35,18,199,11.1,1,13,42.9,19,1.4,15.3,51.4,5.7,0,0,0,0,,,,0.0,0.0,18,11.1,199,1,0,2,
+EdwaBr00,Braylon Edwards,WR,2012,29,SEA,NFL,WR,10,1,17,8,74,9.3,1,5,41.2,16,0.8,7.4,47.1,4.4,0,0,0,0,,,,0.0,0.0,8,9.3,74,1,0,1,
+EdwaBr00,Braylon Edwards,WR,2012,29,NYJ,NFL,WR,3,3,18,10,125,12.5,0,8,44.4,19,3.3,41.7,55.6,6.9,0,0,0,0,,,,0.0,0.0,10,12.5,125,0,0,1,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HumpAd00,Adam Humphries,WR,2015,22,TAM,WR,11,13,0,435,48%,0,0%,45,13%
+HumpAd00,Adam Humphries,WR,2016,23,TAM,WR,11,15,4,648,61%,0,0%,70,17%
+HumpAd00,Adam Humphries,WR,2017,24,TAM,WR,10,16,3,681,63%,0,0%,25,6%
+HumpAd00,Adam Humphries,WR,2018,25,TAM,WR,10,16,10,781,70%,0,0%,66,14%
+HumpAd00,Adam Humphries,WR,2019,26,TEN,WR,10,12,3,375,51%,0,0%,47,14%
+HumpAd00,Adam Humphries,WR,2020,27,TEN,WR,10,7,1,227,47%,0,0%,0,0%
+HumpAd00,Adam Humphries,WR,2021,28,WAS,WR,13,17,11,658,58%,0,0%,2,1%

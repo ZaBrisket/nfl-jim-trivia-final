@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BaxtBr00,Brad Baxter,RB,1990,23,NYJ,NFL,FB,16,10,6,0,0,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+BaxtBr00,Brad Baxter,RB,1991,24,NYJ,NFL,FB,16,14,11,0,0,0,0,0,0,11,,0,0,0,0,0,66,4.1,
+BaxtBr00,Brad Baxter,RB,1992,25,NYJ,NFL,FB,15,15,6,0,0,0,0,0,0,6,,0,0,0,0,0,36,2.4,
+BaxtBr00,Brad Baxter,RB,1993,26,NYJ,NFL,FB,16,13,7,0,0,0,0,0,0,7,,0,0,0,0,0,42,2.6,
+BaxtBr00,Brad Baxter,RB,1994,27,NYJ,NFL,FB,15,9,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,
+BaxtBr00,Brad Baxter,RB,1995,28,NYJ,NFL,FB,15,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

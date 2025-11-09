@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+MixoJo00,Joe Mixon,RB,2021,25,CIN,NFL,RB,4,4,67,262,1,12,44.8,23,3.9,65.5,16.8,21,18,107,5.9,0,4,47.6,21,4.5,26.8,85.7,5.1,85,4.3,369,1,0,
+MixoJo00,Joe Mixon,RB,2022,26,CIN,NFL,RB,3,3,39,163,1,11,56.4,16,4.2,54.3,13.0,10,8,50,6.3,0,1,80.0,13,2.7,16.7,80.0,5.0,47,4.5,213,1,0,
+MixoJo00,Joe Mixon,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MixoJo00,Joe Mixon,RB,2024,28,HOU,NFL,RB,2,2,43,194,2,8,55.8,17,4.5,97.0,21.5,5,3,25,8.3,0,1,40.0,13,1.5,12.5,60.0,5.0,46,4.8,219,2,1,

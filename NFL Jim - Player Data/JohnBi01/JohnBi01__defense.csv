@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+JohnBi01,Billy Johnson,WR,1974,22,HOU,NFL,WR,14,5,0,0,0,0,,1,0,0,0,0.0,,,,0,
+JohnBi01,Billy Johnson,WR,1975,23,HOU,NFL,WR,14,14,0,0,0,0,,5,1,0,0,0.0,,,,0,PB
+JohnBi01,Billy Johnson,WR,1976,24,HOU,NFL,WR,14,13,0,0,0,0,,3,1,0,0,0.0,,,,0,
+JohnBi01,Billy Johnson,WR,1977,25,HOU,NFL,WR,14,0,0,0,0,0,,2,0,0,0,0.0,,,,0,"PB,AP-1"
+JohnBi01,Billy Johnson,WR,,,,,,,,,,,,,,,,,,,,,,
+JohnBi01,Billy Johnson,WR,1980,28,HOU,NFL,WR,16,7,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+JohnBi01,Billy Johnson,WR,1981,,Did not play - Montreal Alouettes (Canadian Football League),,,,,,,,,,,,,,,,,,,
+JohnBi01,Billy Johnson,WR,1982,30,ATL,NFL,WR,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+JohnBi01,Billy Johnson,WR,1983,31,ATL,NFL,WR,16,1,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,"PB,AP-2"
+JohnBi01,Billy Johnson,WR,1984,32,ATL,NFL,WR,6,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+JohnBi01,Billy Johnson,WR,1985,33,ATL,NFL,WR,16,8,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,
+JohnBi01,Billy Johnson,WR,,,,,,,,,,,,,,,,,,,,,,
+JohnBi01,Billy Johnson,WR,1987,35,ATL,NFL,WR,12,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,

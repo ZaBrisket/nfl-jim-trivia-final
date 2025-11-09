@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JackWi00,Willie Jackson,WR,1995,24,JAX,NFL,WR,14,10,1,-2,0,-2,-2.0,19,404,0,47,21.3,991,
+JackWi00,Willie Jackson,WR,1996,25,JAX,NFL,WR,16,2,0,0,0,0,,7,149,0,27,21.3,637,
+JackWi00,Willie Jackson,WR,1997,26,JAX,NFL,WR,16,1,0,0,0,0,,32,653,0,38,20.4,873,
+JackWi00,Willie Jackson,WR,,,,,,,,,,,,,,,,,,,
+JackWi00,Willie Jackson,WR,1999,28,CIN,NFL,WR,16,2,2,6,0,8,3.0,6,179,0,46,29.8,554,
+JackWi00,Willie Jackson,WR,,,,,,,,,,,,,,,,,,,
+JackWi00,Willie Jackson,WR,2002,31,2TM,NFL,WR,12,2,0,0,0,0,,3,47,0,20,15.7,304,
+JackWi00,Willie Jackson,WR,2002,31,WAS,NFL,WR,5,1,0,0,0,0,,3,47,0,20,15.7,105,

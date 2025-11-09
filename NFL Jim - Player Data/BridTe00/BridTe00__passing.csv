@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+BridTe00,Teddy Bridgewater,QB,2014,22,MIN,NFL,QB,13,12,6-6-0,259,402,64.4,2919,14,3.5,12,3.0,137,44.7,87,7.3,6.61,11.3,224.5,85.2,51.6,39,249,8.84,6.05,5.46,3,3,9,
+BridTe00,Teddy Bridgewater,QB,2015,23,MIN,NFL,QB,16,16,11-5-0,292,447,65.3,3231,14,3.1,9,2.0,153,40.9,52,7.2,6.95,11.1,201.9,88.7,57.7,44,307,8.96,5.96,5.70,1,1,14,PB
+BridTe00,Teddy Bridgewater,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BridTe00,Teddy Bridgewater,QB,2017,25,MIN,NFL,QB,1,0,,0,2,0.0,0,0,0.0,1,50.0,0,,,0.0,-22.50,,0.0,0.0,0.0,0,0,0.00,0.00,-22.50,0,0,0,
+BridTe00,Teddy Bridgewater,QB,2018,26,NOR,NFL,QB,5,1,0-1-0,14,23,60.9,118,1,4.3,1,4.3,8,36.0,18,5.1,4.04,8.4,23.6,70.6,31.3,2,8,8.00,4.40,3.40,0,0,0,
+BridTe00,Teddy Bridgewater,QB,2019,27,NOR,NFL,QB,9,5,5-0-0,133,196,67.9,1384,9,4.6,2,1.0,67,47.1,45,7.1,7.52,10.4,153.8,99.1,50.9,12,89,5.77,6.23,6.66,1,2,5,AP CPoY-5
+BridTe00,Teddy Bridgewater,QB,2020,28,CAR,NFL,QB,15,15,4-11-0,340,492,69.1,3733,15,3.0,11,2.2,174,46.1,75,7.6,7.19,11.0,248.9,92.1,56.8,31,205,5.93,6.75,6.37,0,0,13,
+BridTe00,Teddy Bridgewater,QB,2021,29,DEN,NFL,QB,14,14,7-7-0,285,426,66.9,3052,18,4.2,7,1.6,146,46.0,64,7.2,7.27,10.7,218.0,94.9,53.4,31,211,6.78,6.22,6.32,0,1,10,
+BridTe00,Teddy Bridgewater,QB,2022,30,MIA,NFL,QB,5,2,0-2-0,49,79,62.0,683,4,5.1,4,5.1,32,45.3,64,8.6,7.38,13.9,136.6,85.6,49.5,7,45,8.14,7.42,6.26,0,0,2,
+BridTe00,Teddy Bridgewater,QB,2023,31,DET,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,,0,0,,,,0,0,0,
+BridTe00,Teddy Bridgewater,QB,2024,32,DET,NFL,QB,0,0,,0,0,,0,0,,,,0,,,,,,,,,,,,,,0,0,0,
+BridTe00,Teddy Bridgewater,QB,2025,33,TAM,NFL,QB,2,0,,0,0,,0,0,,0,,0,,,,,,0.0,,,0,0,,,,0,0,,

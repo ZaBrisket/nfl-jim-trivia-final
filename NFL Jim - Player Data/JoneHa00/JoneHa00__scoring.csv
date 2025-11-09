@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JoneHa00,Hassan Jones,WR,1986,22,MIN,NFL,WR,16,6,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+JoneHa00,Hassan Jones,WR,1987,23,MIN,NFL,WR,12,0,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+JoneHa00,Hassan Jones,WR,1988,24,MIN,NFL,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+JoneHa00,Hassan Jones,WR,1989,25,MIN,NFL,WR,16,13,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+JoneHa00,Hassan Jones,WR,1990,26,MIN,NFL,WR,15,10,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.8,
+JoneHa00,Hassan Jones,WR,1991,27,MIN,NFL,WR,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+JoneHa00,Hassan Jones,WR,1992,28,MIN,NFL,WR,9,5,0,4,0,0,0,0,0,4,0,0,0,0,0,24,2.7,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WilsCe01,Cedrick Wilson Jr.,WR,2019,24,DAL,NFL,WR,6,0,8,5,46,9.2,0,2,50.0,14,0.8,7.7,62.5,5.8,0,0,0,0,,,,0.0,0.0,5,9.2,46,0,0,0,
+WilsCe01,Cedrick Wilson Jr.,WR,2020,25,DAL,NFL,WR,16,0,28,17,189,11.1,2,10,53.6,42,1.1,11.8,60.7,6.8,3,-12,0,0,0.0,-1,-4.0,-0.8,0.2,20,8.9,177,2,0,1,
+WilsCe01,Cedrick Wilson Jr.,WR,2021,26,DAL,NFL,WR,16,4,61,45,602,13.4,6,27,60.7,73,2.8,37.6,73.8,9.9,2,11,0,1,50.0,6,5.5,0.7,0.1,47,13.0,613,6,3,5,
+WilsCe01,Cedrick Wilson Jr.,WR,2022,27,MIA,NFL,WR,15,0,18,12,136,11.3,0,8,61.1,21,0.8,9.1,66.7,7.6,1,8,0,0,100.0,8,8.0,0.5,0.1,13,11.1,144,0,0,1,
+WilsCe01,Cedrick Wilson Jr.,WR,2023,28,MIA,NFL,WR,15,3,38,22,296,13.5,3,14,47.4,31,1.5,19.7,57.9,7.8,0,0,0,0,,,,0.0,0.0,22,13.5,296,3,0,3,
+WilsCe01,Cedrick Wilson Jr.,WR,2024,29,NOR,NFL,WR,15,4,27,20,211,10.6,1,8,48.1,25,1.3,14.1,74.1,7.8,0,0,0,0,,,,0.0,0.0,20,10.6,211,1,1,2,
+WilsCe01,Cedrick Wilson Jr.,WR,2025,30,MIA,NFL,WR,2,0,2,2,9,4.5,0,1,50.0,7,1.0,4.5,100.0,4.5,0,0,0,0,,,,0.0,0.0,2,4.5,9,0,0,,

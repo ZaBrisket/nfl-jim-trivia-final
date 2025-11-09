@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CulpDa00,Daunte Culpepper,QB,2000,23,MIN,NFL,QB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,PB
+CulpDa00,Daunte Culpepper,QB,2001,24,MIN,NFL,QB,11,11,5,0,0,0,0,0,0,5,2,0,0,0,0,0,34,3.1,
+CulpDa00,Daunte Culpepper,QB,2002,25,MIN,NFL,QB,16,16,10,0,0,0,0,0,0,10,1,0,0,0,0,0,62,3.9,
+CulpDa00,Daunte Culpepper,QB,2003,26,MIN,NFL,QB,14,14,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.7,"PB,AP CPoY-8"
+CulpDa00,Daunte Culpepper,QB,2004,27,MIN,NFL,QB,16,16,2,0,0,0,0,0,0,2,1,0,0,0,0,0,14,0.9,"PB,AP OPoY-2"
+CulpDa00,Daunte Culpepper,QB,2005,28,MIN,NFL,QB,7,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.9,
+CulpDa00,Daunte Culpepper,QB,2006,29,MIA,NFL,QB,4,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,
+CulpDa00,Daunte Culpepper,QB,2007,30,OAK,NFL,QB,7,6,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,2.6,
+CulpDa00,Daunte Culpepper,QB,2008,31,DET,NFL,QB,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.2,

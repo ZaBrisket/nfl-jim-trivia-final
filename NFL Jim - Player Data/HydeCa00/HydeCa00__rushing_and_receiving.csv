@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HydeCa00,Carlos Hyde,RB,2014,24,SFO,NFL,RB,14,0,83,333,4,17,43.4,28,4.0,23.8,5.9,16,12,68,5.7,0,4,25.0,16,0.9,4.9,75.0,4.3,95,4.2,401,4,1,2,
+HydeCa00,Carlos Hyde,RB,2015,25,SFO,NFL,RB,7,7,115,470,3,26,47.0,22,4.1,67.1,16.4,15,11,53,4.8,0,4,33.3,11,1.6,7.6,73.3,3.5,126,4.2,523,3,1,3,
+HydeCa00,Carlos Hyde,RB,2016,26,SFO,NFL,RB,13,13,217,988,6,48,47.5,47,4.6,76.0,16.7,33,27,163,6.0,3,7,48.5,19,2.1,12.5,81.8,4.9,244,4.7,1151,9,5,7,
+HydeCa00,Carlos Hyde,RB,2017,27,SFO,NFL,RB,16,16,240,938,8,48,43.8,61,3.9,58.6,15.0,88,59,350,5.9,0,18,38.6,18,3.7,21.9,67.0,4.0,299,4.3,1288,8,2,8,
+HydeCa00,Carlos Hyde,RB,2018,28,2TM,NFL,RB,14,7,172,571,5,27,38.4,22,3.3,40.8,12.3,16,10,33,3.3,0,0,25.0,9,0.7,2.4,62.5,2.1,182,3.3,604,5,2,3,
+HydeCa00,Carlos Hyde,RB,2018,28,CLE,NFL,RB,6,5,114,382,5,20,36.8,22,3.4,63.7,19.0,9,6,29,4.8,0,0,33.3,9,1.0,4.8,66.7,3.2,120,3.4,411,5,1,2,
+HydeCa00,Carlos Hyde,RB,2018,28,JAX,NFL,RB,8,2,58,189,0,7,41.4,19,3.3,23.6,7.3,7,4,4,1.0,0,0,14.3,6,0.5,0.5,57.1,0.6,62,3.1,193,0,1,1,
+HydeCa00,Carlos Hyde,RB,2019,29,HOU,NFL,RB,16,14,245,1070,6,55,51.4,58,4.4,66.9,15.3,16,10,42,4.2,0,2,25.0,14,0.6,2.6,62.5,2.6,255,4.4,1112,6,4,8,
+HydeCa00,Carlos Hyde,RB,2020,30,SEA,NFL,RB,10,1,81,356,4,20,43.2,50,4.4,35.6,8.1,20,16,93,5.8,0,4,40.0,18,1.6,9.3,80.0,4.7,97,4.6,449,4,1,3,
+HydeCa00,Carlos Hyde,RB,2021,31,JAX,NFL,RB,12,2,72,253,1,14,50.0,18,3.5,21.1,6.0,21,12,65,5.4,0,1,38.1,9,1.0,5.4,57.1,3.1,84,3.8,318,1,2,2,

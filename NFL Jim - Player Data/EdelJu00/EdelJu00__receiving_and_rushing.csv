@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EdelJu00,Julian Edelman,WR,2009,23,NWE,NFL,WR,11,7,54,37,359,9.7,1,19,53.7,29,3.4,32.6,68.5,6.6,2,5,0,0,50.0,5,2.5,0.5,0.2,39,9.3,364,1,1,4,
+EdelJu00,Julian Edelman,WR,2010,24,NWE,NFL,WR,15,3,14,7,86,12.3,0,3,28.6,40,0.5,5.7,50.0,6.1,2,14,0,1,50.0,13,7.0,0.9,0.1,9,11.1,100,0,1,2,
+EdelJu00,Julian Edelman,WR,2011,25,NWE,NFL,WR,13,0,9,4,34,8.5,0,0,22.2,11,0.3,2.6,44.4,3.8,4,8,0,2,50.0,6,2.0,0.6,0.3,8,5.3,42,0,3,1,
+EdelJu00,Julian Edelman,WR,2012,26,NWE,NFL,WR,9,3,32,21,235,11.2,3,12,56.3,56,2.3,26.1,65.6,7.3,4,45,0,2,50.0,47,11.3,5.0,0.4,25,11.2,280,3,1,4,
+EdelJu00,Julian Edelman,WR,2013,27,NWE,NFL,WR,16,11,151,105,1056,10.1,6,54,52.3,44,6.6,66.0,69.5,7.0,2,11,0,2,100.0,7,5.5,0.7,0.1,107,10.0,1067,6,6,9,
+EdelJu00,Julian Edelman,WR,2014,28,NWE,NFL,WR,14,13,134,92,972,10.6,4,50,55.2,69,6.6,69.4,68.7,7.3,10,94,0,7,100.0,25,9.4,6.7,0.7,102,10.5,1066,4,3,13,
+EdelJu00,Julian Edelman,WR,2015,29,NWE,NFL,WR,9,9,88,61,692,11.3,7,37,59.1,59,6.8,76.9,69.3,7.9,3,23,0,3,100.0,12,7.7,2.6,0.3,64,11.2,715,7,1,7,
+EdelJu00,Julian Edelman,WR,2016,30,NWE,NFL,WR,16,13,159,98,1106,11.3,3,56,52.2,77,6.1,69.1,61.6,7.0,12,57,0,3,66.7,9,4.8,3.6,0.8,110,10.6,1163,3,3,11,
+EdelJu00,Julian Edelman,WR,2017,,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EdelJu00,Julian Edelman,WR,2018,32,NWE,NFL,WR,12,12,108,74,850,11.5,6,41,57.4,36,6.2,70.8,68.5,7.9,9,107,0,7,100.0,20,11.9,8.9,0.8,83,11.5,957,6,1,9,
+EdelJu00,Julian Edelman,WR,2019,33,NWE,NFL,WR,16,13,153,100,1117,11.2,6,54,54.2,44,6.3,69.8,65.4,7.3,8,27,0,2,62.5,9,3.4,1.7,0.5,108,10.6,1144,6,3,10,
+EdelJu00,Julian Edelman,WR,2020,34,NWE,NFL,WR,6,1,39,21,315,15.0,0,18,51.3,49,3.5,52.5,53.8,8.1,2,22,0,1,50.0,23,11.0,3.7,0.3,23,14.7,337,0,0,3,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,safety_md,awards
+CulpDa00,Daunte Culpepper,QB,2000,23,MIN,NFL,QB,2,2,0,0,0,0,0,0,2,0,0,0,0.0,0,0,
+CulpDa00,Daunte Culpepper,QB,,,,,,,,,,,,,,,,,,,,,
+CulpDa00,Daunte Culpepper,QB,2004,27,MIN,NFL,QB,2,2,0,0,0,0,0,0,1,1,0,0,0.0,0,0,

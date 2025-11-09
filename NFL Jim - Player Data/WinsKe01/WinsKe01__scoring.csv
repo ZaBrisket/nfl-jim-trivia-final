@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,team_name_abbr,age,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WinsKe01,Kellen Winslow,TE,2005,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,
+WinsKe01,Kellen Winslow,TE,2006,CLE,23,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,AP CPoY-4
+WinsKe01,Kellen Winslow,TE,2007,CLE,24,NFL,TE,16,14,0,5,0,0,0,0,0,5,1,0,0,0,0,0,32,2.0,PB
+WinsKe01,Kellen Winslow,TE,2008,CLE,25,NFL,TE,10,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.8,
+WinsKe01,Kellen Winslow,TE,2009,TAM,26,NFL,TE,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+WinsKe01,Kellen Winslow,TE,2010,TAM,27,NFL,TE,16,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,1.9,
+WinsKe01,Kellen Winslow,TE,2011,TAM,28,NFL,TE,16,15,0,2,0,0,0,0,0,2,2,0,0,0,0,0,16,1.0,
+WinsKe01,Kellen Winslow,TE,,,,,,,,,,,,,,,,,,,,,,,,
+WinsKe01,Kellen Winslow,TE,2013,NYJ,30,NFL,TE,12,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.0,

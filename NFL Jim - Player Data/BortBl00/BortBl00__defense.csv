@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BortBl00,Blake Bortles,QB,2014,22,JAX,NFL,QB,14,13,0,0,0,0,0,0,7,3,-6,0,0.0,0,0,0,0,0,0,
+BortBl00,Blake Bortles,QB,2015,23,JAX,NFL,QB,16,16,0,0,0,0,0,0,14,5,-30,0,0.0,0,0,0,0,0,0,
+BortBl00,Blake Bortles,QB,2016,24,JAX,NFL,QB,16,16,0,0,0,0,0,0,8,0,-9,0,0.0,0,0,0,0,0,0,
+BortBl00,Blake Bortles,QB,2017,25,JAX,NFL,QB,16,16,0,0,0,0,0,0,9,3,-6,0,0.0,0,0,0,0,0,0,
+BortBl00,Blake Bortles,QB,2018,26,JAX,NFL,QB,13,12,0,0,0,0,0,0,8,2,-4,0,0.0,0,0,0,0,0,0,

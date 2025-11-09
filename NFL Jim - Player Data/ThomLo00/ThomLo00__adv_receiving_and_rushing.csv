@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+ThomLo00,Logan Thomas,TE,2018,27,BUF,NFL,TE,12,3,17,12,77,3,43,3.6,34,2.8,7.9,0,,1,5.9,0,79.8,0,0,0,0,,0,,0,
+ThomLo00,Logan Thomas,TE,2019,28,DET,NFL,TE,16,3,28,16,173,10,100,6.3,73,4.6,7.8,0,,0,0.0,1,72.5,0,0,0,0,,0,,0,
+ThomLo00,Logan Thomas,TE,2020,29,WAS,NFL,TE,16,15,110,72,670,36,382,5.3,288,4.0,7.0,3,24.0,7,6.4,4,85.0,3,5,2,0,0.0,5,1.7,0,
+ThomLo00,Logan Thomas,TE,2021,30,WAS,NFL,TE,6,6,25,18,196,10,114,6.3,82,4.6,9.4,1,18.0,0,0.0,1,117.7,0,0,0,0,,0,,0,
+ThomLo00,Logan Thomas,TE,2022,31,WAS,NFL,TE,14,13,61,39,323,15,197,5.1,126,3.2,7.0,0,,1,1.6,2,69.2,0,0,0,0,,0,,0,
+ThomLo00,Logan Thomas,TE,2023,32,WAS,NFL,TE,16,15,78,55,496,21,267,4.9,229,4.2,6.1,1,55.0,2,2.6,2,93.7,1,2,1,0,0.0,2,2.0,0,

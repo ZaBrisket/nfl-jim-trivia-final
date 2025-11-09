@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+EtieTr00,Travis Etienne,RB,2022,23,JAX,NFL,RB,17,12,220,1125,52,738,3.4,387,1.8,14,15.7,45,35,316,16,-36,-1.0,352,10.1,0.3,0,,3,6.7,0,95.9,
+EtieTr00,Travis Etienne,RB,2023,24,JAX,NFL,RB,17,17,267,1008,53,573,2.1,435,1.6,31,8.6,73,58,476,23,-41,-0.7,517,8.9,-0.8,12,4.8,4,5.5,0,98.4,AP OPoY-8
+EtieTr00,Travis Etienne,RB,2024,25,JAX,NFL,RB,15,15,150,558,31,283,1.9,275,1.8,3,50.0,52,39,254,13,-42,-1.1,296,7.6,0.2,4,9.8,2,3.8,1,76.9,
+EtieTr00,Travis Etienne,RB,2025,26,JAX,NFL,RB,8,8,119,598,25,287,2.4,311,2.6,1,119.0,27,19,111,5,-35,-1.8,146,7.7,-2.0,2,9.5,2,7.4,0,90.2,

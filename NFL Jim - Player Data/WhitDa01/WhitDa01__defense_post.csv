@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,safety_md,awards
+WhitDa01,Danny White,QB,1980,28,DAL,NFL,QB,3,3,0,0,0,0,0,0,4,1,0,0,0.0,0,0,
+WhitDa01,Danny White,QB,1981,29,DAL,NFL,QB,2,2,0,0,0,0,0,0,2,1,0,0,0.0,0,0,
+WhitDa01,Danny White,QB,1982,30,DAL,NFL,QB,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,
+WhitDa01,Danny White,QB,1983,31,DAL,NFL,QB,1,1,0,0,0,0,0,0,1,1,2,0,0.0,0,0,
+WhitDa01,Danny White,QB,,,,,,,,,,,,,,,,,,,,,
+WhitDa01,Danny White,QB,1985,33,DAL,NFL,QB,1,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,

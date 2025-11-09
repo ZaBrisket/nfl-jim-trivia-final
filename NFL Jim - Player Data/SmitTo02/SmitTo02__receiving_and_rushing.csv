@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SmitTo02,Torrey Smith,WR,2011,22,BAL,NFL,WR,16,14,95,50,841,16.8,7,34,42.1,74,3.1,52.6,52.6,8.9,4,39,0,3,75.0,16,9.8,2.4,0.3,54,16.3,880,7,1,8,
+SmitTo02,Torrey Smith,WR,2012,23,BAL,NFL,WR,16,16,110,49,855,17.4,8,39,41.8,54,3.1,53.4,44.5,7.8,3,9,0,1,33.3,13,3.0,0.6,0.2,52,16.6,864,8,0,8,
+SmitTo02,Torrey Smith,WR,2013,24,BAL,NFL,WR,16,16,137,65,1128,17.4,4,50,39.4,74,4.1,70.5,47.4,8.2,0,0,0,0,,,,0.0,0.0,65,17.4,1128,4,1,7,
+SmitTo02,Torrey Smith,WR,2014,25,BAL,NFL,WR,16,16,92,49,767,15.7,11,38,45.7,53,3.1,47.9,53.3,8.3,0,0,0,0,,,,0.0,0.0,49,15.7,767,11,0,7,
+SmitTo02,Torrey Smith,WR,2015,26,SFO,NFL,WR,16,12,62,33,663,20.1,4,23,46.8,76,2.1,41.4,53.2,10.7,0,0,0,0,,,,0.0,0.0,33,20.1,663,4,0,4,
+SmitTo02,Torrey Smith,WR,2016,27,SFO,NFL,WR,12,12,49,20,267,13.4,3,14,30.6,53,1.7,22.3,40.8,5.4,0,0,0,0,,,,0.0,0.0,20,13.4,267,3,0,2,
+SmitTo02,Torrey Smith,WR,2017,28,PHI,NFL,WR,16,14,67,36,430,11.9,2,11,34.3,59,2.3,26.9,53.7,6.4,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,37,11.5,427,2,0,4,
+SmitTo02,Torrey Smith,WR,2018,29,CAR,NFL,WR,11,6,31,17,190,11.2,2,12,48.4,35,1.5,17.3,54.8,6.1,0,0,0,0,,,,0.0,0.0,17,11.2,190,2,0,2,

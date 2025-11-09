@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+EdwaGu00,Gus Edwards,RB,2018,23,BAL,NFL,RB,1,1,8,23,0,5,0.6,18,2.3,0,,0,0,0,0,0,,0,,,0,0,,,,
+EdwaGu00,Gus Edwards,RB,2019,24,BAL,NFL,RB,1,0,3,20,1,14,4.7,6,2.0,0,,0,0,0,0,0,,0,,,0,0,,,,
+EdwaGu00,Gus Edwards,RB,2020,25,BAL,NFL,RB,2,1,18,80,8,51,2.8,29,1.6,0,,0,0,0,0,0,,0,,,0,0,,,,
+EdwaGu00,Gus Edwards,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EdwaGu00,Gus Edwards,RB,2022,27,BAL,NFL,RB,1,0,12,39,4,18,1.5,21,1.8,1,12.0,1,1,13,1,-5,-5.0,18,18.0,-5.0,0,0,0.0,0,118.7,
+EdwaGu00,Gus Edwards,RB,2023,28,BAL,NFL,RB,2,0,13,60,4,29,2.2,31,2.4,1,13.0,3,2,15,1,0,0.0,15,7.5,2.3,0,0,0.0,0,78.5,
+EdwaGu00,Gus Edwards,RB,2024,29,LAC,NFL,RB,1,0,7,22,1,11,1.6,11,1.6,0,,0,0,0,0,0,,0,,,0,0,,,,

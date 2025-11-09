@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+HillSh00,Shaun Hill,QB,2007,27,SFO,NFL,QB,3,2,89,90,110,108,127,126,128,94,127,
+HillSh00,Shaun Hill,QB,2008,28,SFO,NFL,QB,9,8,103,100,104,102,106,105,103,90,105,
+HillSh00,Shaun Hill,QB,2009,29,SFO,NFL,QB,6,6,83,76,96,90,84,89,123,67,95,
+HillSh00,Shaun Hill,QB,2010,30,DET,NFL,QB,11,10,89,95,93,96,104,95,101,117,97,
+HillSh00,Shaun Hill,QB,,,,,,,,,,,,,,,,,
+HillSh00,Shaun Hill,QB,2014,34,STL,NFL,QB,9,8,101,98,95,93,104,88,91,93,94,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PittMi01,Michael Pittman Jr.,WR,2020,23,IND,WR,11,13,8,700,78%,0,0%,16,5%
+PittMi01,Michael Pittman Jr.,WR,2021,24,IND,WR,11,17,17,979,88%,0,0%,7,2%
+PittMi01,Michael Pittman Jr.,WR,2022,25,IND,WR,11,16,16,1065,97%,0,0%,1,0%
+PittMi01,Michael Pittman Jr.,WR,2023,26,IND,WR,11,16,15,991,92%,0,0%,3,1%
+PittMi01,Michael Pittman Jr.,WR,2024,27,IND,WR,11,16,14,904,88%,0,0%,2,1%
+PittMi01,Michael Pittman Jr.,WR,2025,28,IND,WR,11,9,9,489,85%,0,0%,3,1%

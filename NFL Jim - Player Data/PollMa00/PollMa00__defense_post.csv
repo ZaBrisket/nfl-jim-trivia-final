@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,safety_md,awards
+PollMa00,Marcus Pollard,TE,2000,28,IND,NFL,TE,1,1,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,
+PollMa00,Marcus Pollard,TE,,,,,,,,,,,,,,,,,,,,,,,,
+PollMa00,Marcus Pollard,TE,2003,31,IND,NFL,TE,3,3,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,0,
+PollMa00,Marcus Pollard,TE,,,,,,,,,,,,,,,,,,,,,,,,
+PollMa00,Marcus Pollard,TE,2007,35,SEA,NFL,TE,2,2,0,0,0,0,0,0,1,0,0,0,0.0,0,,,,0,
+PollMa00,Marcus Pollard,TE,2008,36,ATL,NFL,TE,1,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,,0,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HernAa00,Aaron Hernandez,TE,2010,21,NWE,NFL,TE,14,7,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.6,
+HernAa00,Aaron Hernandez,TE,2011,22,NWE,NFL,TE,14,12,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,3.0,
+HernAa00,Aaron Hernandez,TE,2012,23,NWE,NFL,TE,10,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,3.0,

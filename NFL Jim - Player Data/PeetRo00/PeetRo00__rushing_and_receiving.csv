@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+PeetRo00,Rodney Peete,QB,1989,23,DET,NFL,QB,8,8,33,148,4,10,63.6,14,4.5,18.5,4.1,0,0,0,0,0,0.0,0.0,33,4.5,148,4,9,
+PeetRo00,Rodney Peete,QB,1990,24,DET,NFL,QB,11,11,47,363,6,25,63.8,37,7.7,33.0,4.3,0,0,0,0,0,0.0,0.0,47,7.7,363,6,9,
+PeetRo00,Rodney Peete,QB,1991,25,DET,NFL,QB,8,8,25,125,2,10,56.0,26,5.0,15.6,3.1,0,0,0,0,0,0.0,0.0,25,5.0,125,2,2,
+PeetRo00,Rodney Peete,QB,1992,26,DET,NFL,QB,10,10,21,83,0,4,57.1,12,4.0,8.3,2.1,0,0,0,0,0,0.0,0.0,21,4.0,83,0,6,
+PeetRo00,Rodney Peete,QB,1993,27,DET,NFL,QB,10,10,45,165,1,10,40.0,28,3.7,16.5,4.5,0,0,0,0,0,0.0,0.0,45,3.7,165,1,11,
+PeetRo00,Rodney Peete,QB,1994,28,DAL,NFL,QB,7,1,9,-2,0,0,0.0,2,-0.2,-0.3,1.3,0,0,0,0,0,0.0,0.0,9,-0.2,-2,0,3,
+PeetRo00,Rodney Peete,QB,1995,29,PHI,NFL,QB,15,12,32,147,1,15,65.6,18,4.6,9.8,2.1,0,0,0,0,0,0.0,0.0,32,4.6,147,1,13,
+PeetRo00,Rodney Peete,QB,1996,30,PHI,NFL,QB,5,5,20,31,1,5,30.0,11,1.6,6.2,4.0,0,0,0,0,0,0.0,0.0,20,1.6,31,1,2,
+PeetRo00,Rodney Peete,QB,1997,31,PHI,NFL,QB,5,3,8,37,0,5,75.0,16,4.6,7.4,1.6,0,0,0,0,0,0.0,0.0,8,4.6,37,0,5,
+PeetRo00,Rodney Peete,QB,1998,32,PHI,NFL,QB,5,4,5,30,1,3,60.0,19,6.0,6.0,1.0,0,0,0,0,0,0.0,0.0,5,6.0,30,1,1,
+PeetRo00,Rodney Peete,QB,1999,33,WAS,NFL,QB,3,0,2,-1,0,0,0.0,,-0.5,-0.3,0.7,0,0,0,0,0,0.0,0.0,2,-0.5,-1,0,0,
+PeetRo00,Rodney Peete,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PeetRo00,Rodney Peete,QB,2002,36,CAR,NFL,QB,14,14,22,14,0,3,18.2,10,0.6,1.0,1.6,0,0,0,0,0,0.0,0.0,22,0.6,14,0,10,AP CPoY-5
+PeetRo00,Rodney Peete,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PeetRo00,Rodney Peete,QB,2004,38,CAR,NFL,QB,1,0,1,-1,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,0,0,0.0,0.0,1,-1.0,-1,0,0,

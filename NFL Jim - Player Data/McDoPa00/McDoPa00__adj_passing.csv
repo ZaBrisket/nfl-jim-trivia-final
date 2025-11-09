@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+McDoPa00,Paul McDonald,QB,1981,23,CLE,NFL,QB,12,0,123,115,129,123,119,134,112,85,133,
+McDoPa00,Paul McDonald,QB,1982,24,CLE,NFL,QB,9,3,92,92,86,87,78,90,86,97,81,
+McDoPa00,Paul McDonald,QB,1983,25,CLE,NFL,QB,16,2,59,65,57,61,69,70,79,100,60,
+McDoPa00,Paul McDonald,QB,1984,26,CLE,NFL,QB,16,16,99,97,93,92,96,84,94,91,91,

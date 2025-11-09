@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+BeasCo00,Cole Beasley,WR,2014,25,DAL,NFL,WR,2,0,11,7,101,14.4,0,4,54.5,19,3.5,50.5,63.6,9.2,0,0,0,0,0.0,0.0,7,14.4,101,0,0,
+BeasCo00,Cole Beasley,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BeasCo00,Cole Beasley,WR,2016,27,DAL,NFL,WR,1,0,6,4,45,11.3,0,1,66.7,18,4.0,45.0,66.7,7.5,0,0,0,0,0.0,0.0,4,11.3,45,0,0,
+BeasCo00,Cole Beasley,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BeasCo00,Cole Beasley,WR,2018,29,DAL,NFL,WR,2,0,5,4,43,10.8,0,3,80.0,15,2.0,21.5,80.0,8.6,0,0,0,0,0.0,0.0,4,10.8,43,0,0,
+BeasCo00,Cole Beasley,WR,2019,30,BUF,NFL,WR,1,1,5,4,44,11.0,0,2,60.0,21,4.0,44.0,80.0,8.8,0,0,0,0,0.0,0.0,4,11.0,44,0,0,
+BeasCo00,Cole Beasley,WR,2020,31,BUF,NFL,WR,3,2,18,14,145,10.4,0,6,61.1,23,4.7,48.3,77.8,8.1,0,0,0,0,0.0,0.0,14,10.4,145,0,0,
+BeasCo00,Cole Beasley,WR,2021,32,BUF,NFL,WR,2,0,9,7,79,11.3,0,3,66.7,24,3.5,39.5,77.8,8.8,0,0,0,0,0.0,0.0,7,11.3,79,0,0,
+BeasCo00,Cole Beasley,WR,2022,33,BUF,NFL,WR,2,0,9,5,68,13.6,1,5,55.6,29,2.5,34.0,55.6,7.6,0,0,0,0,0.0,0.0,5,13.6,68,1,0,

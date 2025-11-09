@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+CleeCa00,Cam Cleeland,TE,1998,23,NOR,NFL,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+CleeCa00,Cam Cleeland,TE,1999,24,NOR,NFL,TE,11,8,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0.7,
+CleeCa00,Cam Cleeland,TE,,,,,,,,,,,,,,,,,,,,,,,,
+CleeCa00,Cam Cleeland,TE,2001,26,NOR,NFL,TE,9,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,2.7,
+CleeCa00,Cam Cleeland,TE,2002,27,NWE,NFL,TE,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+CleeCa00,Cam Cleeland,TE,,,,,,,,,,,,,,,,,,,,,,,,
+CleeCa00,Cam Cleeland,TE,2005,30,STL,NFL,TE,9,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.7,

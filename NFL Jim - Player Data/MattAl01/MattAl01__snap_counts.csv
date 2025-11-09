@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+MattAl01,Alexander Mattison,RB,2019,21,MIN,RB,25,13,0,197,23%,0,0%,0,0%
+MattAl01,Alexander Mattison,RB,2020,22,MIN,RB,25,13,2,229,27%,0,0%,24,7%
+MattAl01,Alexander Mattison,RB,2021,23,MIN,RB,25,16,4,377,35%,0,0%,46,10%
+MattAl01,Alexander Mattison,RB,2022,24,MIN,RB,2,17,0,297,25%,0,0%,47,10%
+MattAl01,Alexander Mattison,RB,2023,25,MIN,RB,2,16,13,579,55%,0,0%,0,0%
+MattAl01,Alexander Mattison,RB,2024,26,LVR,RB,22,14,7,444,49%,0,0%,2,1%

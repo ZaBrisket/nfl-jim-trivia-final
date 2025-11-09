@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ClayCh01,Chase Claypool,WR,2020,22,PIT,WR,11,16,6,692,63%,0,0%,124,27%
+ClayCh01,Chase Claypool,WR,2021,23,PIT,WR,11,15,13,823,80%,0,0%,3,1%
+ClayCh01,Chase Claypool,WR,2022,24,2TM,WR,,15,11,662,,0,,0,
+ClayCh01,Chase Claypool,WR,,,PIT,WR,11,8,8,462,86%,0,0%,0,0%
+ClayCh01,Chase Claypool,WR,,,,,,,,200,48%,0,0%,0,0%
+ClayCh01,Chase Claypool,WR,2023,25,2TM,WR,,12,2,195,,0,,102,
+ClayCh01,Chase Claypool,WR,,,CHI,WR,10,3,2,144,81%,0,0%,0,0%
+ClayCh01,Chase Claypool,WR,,,,,,,,51,9%,0,0%,102,44%

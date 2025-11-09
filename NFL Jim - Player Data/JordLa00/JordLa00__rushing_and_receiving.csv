@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JordLa00,LaMont Jordan,RB,2001,23,NYJ,NFL,RB,16,0,39,292,1,14,53.8,46,7.5,18.3,2.4,10,7,44,6.3,1,2,20.0,25,0.4,2.8,70.0,4.4,46,7.3,336,2,0,3,
+JordLa00,LaMont Jordan,RB,2002,24,NYJ,NFL,RB,14,0,84,316,3,17,38.1,61,3.8,22.6,6.0,23,17,160,9.4,0,8,52.2,27,1.2,11.4,73.9,7.0,101,4.7,476,3,4,4,
+JordLa00,LaMont Jordan,RB,2003,25,NYJ,NFL,RB,16,0,46,190,4,14,47.8,39,4.1,11.9,2.9,13,11,101,9.2,0,5,46.2,25,0.7,6.3,84.6,7.8,57,5.1,291,4,0,2,
+JordLa00,LaMont Jordan,RB,2004,26,NYJ,NFL,RB,16,0,93,479,2,27,53.8,33,5.2,29.9,5.8,16,15,112,7.5,0,7,62.5,25,0.9,7.0,93.8,7.0,108,5.5,591,2,1,4,
+JordLa00,LaMont Jordan,RB,2005,27,OAK,NFL,RB,14,14,272,1025,9,62,45.6,26,3.8,73.2,19.4,103,70,563,8.0,2,26,43.7,28,5.0,40.2,68.0,5.5,342,4.6,1588,11,2,11,
+JordLa00,LaMont Jordan,RB,2006,28,OAK,NFL,RB,9,8,114,434,2,18,35.1,59,3.8,48.2,12.7,16,10,74,7.4,0,4,37.5,21,1.1,8.2,62.5,4.6,124,4.1,508,2,1,2,
+JordLa00,LaMont Jordan,RB,2007,29,OAK,NFL,RB,12,7,144,549,3,25,36.1,33,3.8,45.8,12.0,34,28,247,8.8,0,11,58.8,27,2.3,20.6,82.4,7.3,172,4.6,796,3,0,5,
+JordLa00,LaMont Jordan,RB,2008,30,NWE,NFL,RB,8,0,80,363,4,20,57.5,49,4.5,45.4,10.0,0,0,0,,0,0,,,0.0,0.0,,,80,4.5,363,4,1,3,
+JordLa00,LaMont Jordan,RB,2009,31,DEN,NFL,RB,9,0,25,86,0,4,40.0,13,3.4,9.6,2.8,4,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,25,3.4,86,0,0,0,

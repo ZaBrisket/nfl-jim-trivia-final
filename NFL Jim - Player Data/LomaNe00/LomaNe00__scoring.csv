@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+LomaNe00,Neil Lomax,QB,1981,22,STL,NFL,QB,14,7,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+LomaNe00,Neil Lomax,QB,1982,23,STL,NFL,QB,9,9,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+LomaNe00,Neil Lomax,QB,1983,24,STL,NFL,QB,13,13,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+LomaNe00,Neil Lomax,QB,1984,25,STL,NFL,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.1,PB
+LomaNe00,Neil Lomax,QB,,,,,,,,,,,,,,,,,,,,,,,
+LomaNe00,Neil Lomax,QB,1986,27,STL,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+LomaNe00,Neil Lomax,QB,,,,,,,,,,,,,,,,,,,,,,,
+LomaNe00,Neil Lomax,QB,1988,29,PHO,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

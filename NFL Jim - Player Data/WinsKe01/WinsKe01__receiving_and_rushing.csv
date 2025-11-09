@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WinsKe01,Kellen Winslow,TE,2004,21,CLE,NFL,TE,2,2,11,5,50,10.0,0,3,36.4,21,2.5,25.0,45.5,4.5,0,0,0,0,,,,0.0,0.0,5,10.0,50,0,0,0,
+WinsKe01,Kellen Winslow,TE,2005,,Did not play - Injured (torn ACL),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WinsKe01,Kellen Winslow,TE,2006,23,CLE,NFL,TE,16,16,120,89,875,9.8,3,41,53.3,40,5.6,54.7,74.2,7.3,0,0,0,0,,,,0.0,0.0,89,9.8,875,3,1,6,AP CPoY-4
+WinsKe01,Kellen Winslow,TE,2007,24,CLE,NFL,TE,16,14,148,82,1106,13.5,5,56,48.6,49,5.1,69.1,55.4,7.5,0,0,0,0,,,,0.0,0.0,82,13.5,1106,5,2,11,PB
+WinsKe01,Kellen Winslow,TE,2008,25,CLE,NFL,TE,10,8,83,43,428,10.0,3,25,45.8,30,4.3,42.8,51.8,5.2,0,0,0,0,,,,0.0,0.0,43,10.0,428,3,1,3,
+WinsKe01,Kellen Winslow,TE,2009,26,TAM,NFL,TE,16,14,127,77,884,11.5,5,46,48.0,42,4.8,55.3,60.6,7.0,1,7,0,0,0.0,7,7.0,0.4,0.1,78,11.4,891,5,0,6,
+WinsKe01,Kellen Winslow,TE,2010,27,TAM,NFL,TE,16,11,98,66,730,11.1,5,36,52.0,41,4.1,45.6,67.3,7.4,0,0,0,0,,,,0.0,0.0,66,11.1,730,5,1,7,
+WinsKe01,Kellen Winslow,TE,2011,28,TAM,NFL,TE,16,15,123,75,763,10.2,2,40,50.4,37,4.7,47.7,61.0,6.2,0,0,0,0,,,,0.0,0.0,75,10.2,763,2,2,6,
+WinsKe01,Kellen Winslow,TE,2012,29,NWE,NFL,TE,1,0,2,1,12,12.0,0,1,50.0,12,1.0,12.0,50.0,6.0,0,0,0,0,,,,0.0,0.0,1,12.0,12,0,0,0,
+WinsKe01,Kellen Winslow,TE,2013,30,NYJ,NFL,TE,12,3,47,31,388,12.5,2,20,57.4,34,2.6,32.3,66.0,8.3,0,0,0,0,,,,0.0,0.0,31,12.5,388,2,0,3,

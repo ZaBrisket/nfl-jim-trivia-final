@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SmitJT00,J.T. Smith,WR,1978,23,2TM,NFL,WR,9,0,4,33,0,12,8.3,1,18,0,18,18.0,51,
+SmitJT00,J.T. Smith,WR,1978,23,WAS,NFL,WR,3,0,4,33,0,12,8.3,1,18,0,18,18.0,51,
+SmitJT00,J.T. Smith,WR,1979,24,KAN,NFL,WR,16,13,58,612,2,88,10.6,0,0,0,0,,1057,
+SmitJT00,J.T. Smith,WR,1980,25,KAN,NFL,WR,16,16,40,581,2,75,14.5,0,0,0,0,,1236,"PB,AP-1"
+SmitJT00,J.T. Smith,WR,1981,26,KAN,NFL,WR,16,15,50,528,0,62,10.6,0,0,0,0,,1399,
+SmitJT00,J.T. Smith,WR,1982,27,KAN,NFL,WR,5,3,3,26,0,16,8.7,0,0,0,0,,194,
+SmitJT00,J.T. Smith,WR,1983,28,KAN,NFL,WR,9,1,26,210,0,19,8.1,1,5,0,5,5.0,300,
+SmitJT00,J.T. Smith,WR,1984,29,KAN,NFL,WR,15,0,39,332,0,27,8.5,19,391,0,39,20.6,792,
+SmitJT00,J.T. Smith,WR,1985,30,STL,NFL,WR,14,5,26,283,0,31,10.9,4,59,0,33,14.8,959,
+SmitJT00,J.T. Smith,WR,1986,31,STL,NFL,WR,16,16,1,6,0,6,6.0,0,0,0,0,,1020,
+SmitJT00,J.T. Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitJT00,J.T. Smith,WR,1988,33,PHO,NFL,WR,16,16,17,119,0,15,7.0,0,0,0,0,,1120,PB
+SmitJT00,J.T. Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitJT00,J.T. Smith,WR,1990,35,PHO,NFL,WR,13,8,3,34,0,16,11.3,0,0,0,0,,263,

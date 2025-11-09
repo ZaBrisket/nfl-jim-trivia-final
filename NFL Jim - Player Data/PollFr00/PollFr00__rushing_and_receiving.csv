@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PollFr00,Frank Pollard,RB,1980,23,PIT,NFL,RB,16,0,4,16,0,1,25.0,12,4.0,1.0,0.3,0,0,0,,0,0,,,0.0,0.0,,,4,4.0,16,0,1,0,
+PollFr00,Frank Pollard,RB,1981,24,PIT,NFL,RB,14,10,123,570,2,26,50.4,29,4.6,40.7,8.8,29,19,156,8.2,0,8,58.6,26,1.4,11.1,65.5,5.4,142,5.1,726,2,5,5,
+PollFr00,Frank Pollard,RB,1982,25,PIT,NFL,RB,9,8,62,238,2,12,59.7,18,3.8,26.4,6.9,13,6,39,6.5,0,1,30.8,11,0.7,4.3,46.2,3.0,68,4.1,277,2,3,4,
+PollFr00,Frank Pollard,RB,1983,26,PIT,NFL,RB,16,3,135,608,4,34,49.6,32,4.5,38.0,8.4,29,16,127,7.9,0,6,51.7,17,1.0,7.9,55.2,4.4,151,4.9,735,4,5,5,
+PollFr00,Frank Pollard,RB,1984,27,PIT,NFL,FB,15,15,213,851,6,48,51.6,52,4.0,56.7,14.2,27,21,186,8.9,0,9,51.9,18,1.4,12.4,77.8,6.9,234,4.4,1037,6,9,8,
+PollFr00,Frank Pollard,RB,1985,28,PIT,NFL,FB,16,16,233,991,3,57,51.5,56,4.3,61.9,14.6,38,24,250,10.4,0,18,55.3,20,1.5,15.6,63.2,6.6,257,4.8,1241,3,2,9,
+PollFr00,Frank Pollard,RB,1986,29,PIT,NFL,RB,3,3,24,86,0,3,45.8,12,3.6,28.7,8.0,7,2,15,7.5,0,1,28.6,10,0.7,5.0,28.6,2.1,26,3.9,101,0,1,1,
+PollFr00,Frank Pollard,RB,1987,30,PIT,NFL,FB,12,7,128,536,3,29,47.7,33,4.2,44.7,10.7,22,14,77,5.5,0,4,27.3,17,1.2,6.4,63.6,3.5,142,4.3,613,3,3,4,
+PollFr00,Frank Pollard,RB,1988,31,PIT,NFL,RB,10,3,31,93,0,6,41.9,7,3.0,9.3,3.1,4,2,22,11.0,0,0,25.0,19,0.2,2.2,50.0,5.5,33,3.5,115,0,1,1,

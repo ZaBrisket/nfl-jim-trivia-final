@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+BrunMa00,Mark Brunell,QB,1995,25,JAX,NFL,QB,13,10,88,79,102,95,100,105,119,73,106,
+BrunMa00,Mark Brunell,QB,1996,26,JAX,NFL,QB,16,16,128,122,113,110,123,94,93,90,109,PB
+BrunMa00,Mark Brunell,QB,1997,27,JAX,NFL,QB,14,14,115,115,119,119,115,101,123,100,117,PB
+BrunMa00,Mark Brunell,QB,1998,28,JAX,NFL,QB,13,13,110,110,114,113,108,117,109,99,115,
+BrunMa00,Mark Brunell,QB,1999,29,JAX,NFL,QB,15,15,103,104,106,107,105,91,117,105,105,PB
+BrunMa00,Mark Brunell,QB,2000,30,JAX,NFL,QB,16,16,107,101,108,104,111,100,109,84,108,
+BrunMa00,Mark Brunell,QB,2001,31,JAX,NFL,QB,15,15,105,94,107,98,107,101,107,75,107,
+BrunMa00,Mark Brunell,QB,2002,32,JAX,NFL,QB,15,15,100,97,111,108,99,102,126,93,110,
+BrunMa00,Mark Brunell,QB,2003,33,JAX,NFL,QB,3,3,83,79,102,98,121,79,154,77,112,
+BrunMa00,Mark Brunell,QB,2004,34,WAS,NFL,QB,9,9,69,72,79,81,68,87,111,104,79,
+BrunMa00,Mark Brunell,QB,2005,35,WAS,NFL,QB,16,15,97,98,105,105,93,111,116,107,106,AP CPoY-3
+BrunMa00,Mark Brunell,QB,2006,36,WAS,NFL,QB,10,9,101,105,107,109,107,89,125,113,107,

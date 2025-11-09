@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PittKy00,Kyle Pitts,TE,2021*,21,ATL,TE,8,17,15,774,74%,0,0%,0,0%
+PittKy00,Kyle Pitts,TE,2022,22,ATL,TE,8,10,10,434,73%,0,0%,0,0%
+PittKy00,Kyle Pitts,TE,2023,23,ATL,TE,8,17,15,728,64%,0,0%,0,0%
+PittKy00,Kyle Pitts,TE,2024,24,ATL,TE,8,17,15,707,62%,0,0%,1,0%
+PittKy00,Kyle Pitts,TE,2025,25,ATL,TE,8,8,8,431,84%,0,0%,1,1%

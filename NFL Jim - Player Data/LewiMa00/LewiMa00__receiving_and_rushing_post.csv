@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+LewiMa00,Marcedes Lewis,TE,2007,23,JAX,NFL,TE,2,2,10,6,90,15.0,0,4,50.0,34,3.0,45.0,60.0,9.0,0,0,0,0,0.0,0.0,6,15.0,90,0,1,
+LewiMa00,Marcedes Lewis,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LewiMa00,Marcedes Lewis,TE,2017,33,JAX,NFL,TE,3,3,7,4,21,5.3,1,2,42.9,16,1.3,7.0,57.1,3.0,0,0,0,0,0.0,0.0,4,5.3,21,1,0,
+LewiMa00,Marcedes Lewis,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LewiMa00,Marcedes Lewis,TE,2019,35,GNB,NFL,TE,2,2,2,2,14,7.0,0,1,50.0,11,1.0,7.0,100.0,7.0,0,0,0,0,0.0,0.0,2,7.0,14,0,0,
+LewiMa00,Marcedes Lewis,TE,2020,36,GNB,NFL,TE,2,2,3,3,28,9.3,0,1,100.0,14,1.5,14.0,100.0,9.3,0,0,0,0,0.0,0.0,3,9.3,28,0,0,
+LewiMa00,Marcedes Lewis,TE,2021,37,GNB,NFL,TE,1,1,1,1,0,0.0,0,0,0.0,,1.0,0.0,100.0,0.0,0,0,0,0,0.0,0.0,1,0.0,0,0,1,

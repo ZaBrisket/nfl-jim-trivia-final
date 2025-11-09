@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HassDo00,Don Hasselbeck,TE,1977,22,NWE,NFL,TE,14,1,,9,76,8.4,4,,,21,0.6,5.4,,,0,0,0,,0.0,0.0,9,8.4,76,4,0,1,
+HassDo00,Don Hasselbeck,TE,1978,23,NWE,NFL,TE,16,4,15,7,107,15.3,0,7,46.7,24,0.4,6.7,46.7,7.1,0,0,0,0,0.0,0.0,7,15.3,107,0,0,1,
+HassDo00,Don Hasselbeck,TE,1979,24,NWE,NFL,TE,16,4,27,13,158,12.2,0,9,44.4,41,0.8,9.9,48.1,5.9,0,0,0,0,0.0,0.0,13,12.2,158,0,1,2,
+HassDo00,Don Hasselbeck,TE,1980,25,NWE,NFL,TE,16,2,14,8,130,16.3,4,7,57.1,35,0.5,8.1,57.1,9.3,0,0,0,0,0.0,0.0,8,16.3,130,4,0,2,
+HassDo00,Don Hasselbeck,TE,1981,26,NWE,NFL,TE,14,14,79,46,808,17.6,6,39,54.4,51,3.3,57.7,58.2,10.2,0,0,0,0,0.0,0.0,46,17.6,808,6,2,7,
+HassDo00,Don Hasselbeck,TE,1982,27,NWE,NFL,TE,9,5,23,15,158,10.5,1,6,52.2,41,1.7,17.6,65.2,6.9,0,0,0,0,0.0,0.0,15,10.5,158,1,0,3,
+HassDo00,Don Hasselbeck,TE,1983,28,2TM,NFL,TE,15,0,3,3,24,8.0,2,3,100.0,13,0.2,1.6,100.0,8.0,0,0,0,0,0.0,0.0,3,8.0,24,2,0,0,
+HassDo00,Don Hasselbeck,TE,1983,28,NWE,NFL,TE,1,0,1,1,7,7.0,0,1,100.0,7,1.0,7.0,100.0,7.0,0,0,0,0,0.0,0.0,1,7.0,7,0,0,0,
+HassDo00,Don Hasselbeck,TE,1983,28,RAI,NFL,TE,14,0,2,2,17,8.5,2,2,100.0,13,0.1,1.2,100.0,8.5,0,0,0,0,0.0,0.0,2,8.5,17,2,0,0,
+HassDo00,Don Hasselbeck,TE,1984,29,MIN,NFL,TE,16,0,3,1,10,10.0,0,1,33.3,10,0.1,0.6,33.3,3.3,0,0,0,0,0.0,0.0,1,10.0,10,0,0,0,
+HassDo00,Don Hasselbeck,TE,1985,30,NYG,NFL,TE,7,0,5,5,71,14.2,1,2,100.0,30,0.7,10.1,100.0,14.2,0,0,0,0,0.0,0.0,5,14.2,71,1,0,1,

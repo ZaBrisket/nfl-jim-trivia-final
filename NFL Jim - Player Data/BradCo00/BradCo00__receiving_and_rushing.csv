@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BradCo00,Corey Bradford,WR,1998,23,GNB,NFL,WR,8,0,7,3,27,9.0,0,2,28.6,18,0.4,3.4,42.9,3.9,0,0,0,0,,,,0.0,0.0,3,9.0,27,0,1,0,
+BradCo00,Corey Bradford,WR,1999,24,GNB,NFL,WR,16,2,90,37,637,17.2,5,25,33.3,74,2.3,39.8,41.1,7.1,0,0,0,0,,,,0.0,0.0,37,17.2,637,5,1,6,
+BradCo00,Corey Bradford,WR,2000,25,GNB,NFL,WR,2,2,3,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,
+BradCo00,Corey Bradford,WR,2001,26,GNB,NFL,WR,16,6,58,31,526,17.0,2,24,46.6,56,1.9,32.9,53.4,9.1,0,0,0,0,,,,0.0,0.0,31,17.0,526,2,1,6,
+BradCo00,Corey Bradford,WR,2002,27,HOU,NFL,WR,16,16,106,45,697,15.5,6,24,34.0,81,2.8,43.6,42.5,6.6,2,-11,0,0,0.0,,-5.5,-0.7,0.1,47,14.6,686,6,0,4,
+BradCo00,Corey Bradford,WR,2003,28,HOU,NFL,WR,16,6,62,24,460,19.2,4,16,35.5,78,1.5,28.8,38.7,7.4,0,0,0,0,,,,0.0,0.0,24,19.2,460,4,0,4,
+BradCo00,Corey Bradford,WR,2004,29,HOU,NFL,WR,15,10,54,27,399,14.8,3,20,42.6,47,1.8,26.6,50.0,7.4,0,0,0,0,,,,0.0,0.0,27,14.8,399,3,0,4,
+BradCo00,Corey Bradford,WR,2005,30,HOU,NFL,WR,16,6,66,34,436,12.8,5,19,45.5,50,2.1,27.3,51.5,6.6,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,35,12.4,434,5,0,5,
+BradCo00,Corey Bradford,WR,2006,31,DET,NFL,WR,9,2,25,14,164,11.7,0,9,56.0,23,1.6,18.2,56.0,6.6,0,0,0,0,,,,0.0,0.0,14,11.7,164,0,1,1,

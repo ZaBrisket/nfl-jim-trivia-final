@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,av,awards
+BurrJo01,Joe Burrow,QB,2020,24,CIN,NFL,QB,10,10,2-7-1,264,404,65.3,2688,13,3.2,5,1.2,150,47.2,67,6.7,6.74,10.2,268.8,89.8,48.5,32,231,7.34,5.64,5.72,0,0,7,
+BurrJo01,Joe Burrow,QB,2021,25,CIN,NFL,QB,16,16,10-6-0,366,520,70.4,4611,34,6.5,14,2.7,202,47.6,82,8.9,8.96,12.6,288.2,108.3,60.2,51,370,8.93,7.43,7.51,2,3,15,AP CPoY-1
+BurrJo01,Joe Burrow,QB,2022,26,CIN,NFL,QB,16,16,12-4-0,414,606,68.3,4475,35,5.8,12,2.0,222,50.1,60,7.4,7.65,10.8,279.7,100.8,60.8,41,259,6.34,6.52,6.76,3,4,17,"PB,AP MVP-4,AP OPoY-9"
+BurrJo01,Joe Burrow,QB,2023,27,CIN,NFL,QB,10,10,5-5-0,244,365,66.8,2309,15,4.1,6,1.6,115,46.0,64,6.3,6.41,9.5,230.9,91.0,52.4,24,180,6.17,5.47,5.55,0,0,8,
+BurrJo01,Joe Burrow,QB,2024,28,CIN,NFL,QB,17,17,9-8-0,460,652,70.6,4918,43,6.6,9,1.4,253,53.6,70,7.5,8.24,10.7,289.3,108.5,72.1,48,278,6.86,6.63,7.28,1,2,16,"PB,AP MVP-4,AP OPoY-5,AP CPoY-1"
+BurrJo01,Joe Burrow,QB,2025,29,CIN,NFL,QB,2,2,2-0-0,21,36,58.3,189,2,5.6,0,0.0,13,46.3,25,5.3,6.36,9.0,94.5,91.1,57.3,5,26,12.20,3.98,4.95,0,0,,

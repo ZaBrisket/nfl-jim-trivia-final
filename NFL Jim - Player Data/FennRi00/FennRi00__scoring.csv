@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FennRi00,Rick Fenney,RB,1987,23,MIN,NFL,RB,11,0,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.1,
+FennRi00,Rick Fenney,RB,1988,24,MIN,NFL,RB,13,3,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.4,
+FennRi00,Rick Fenney,RB,1989,25,MIN,NFL,FB,16,8,4,2,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+FennRi00,Rick Fenney,RB,1990,26,MIN,NFL,FB,12,5,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.0,

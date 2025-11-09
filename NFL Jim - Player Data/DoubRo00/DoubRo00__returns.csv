@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DoubRo00,Romeo Doubs,WR,2022,22,GNB,NFL,WR,13,7,0,0,0,0,,2,39,0,21,19.5,475,
+DoubRo00,Romeo Doubs,WR,,,,,,,,,,,,,,,,,,,
+DoubRo00,Romeo Doubs,WR,2025,25,GNB,NFL,WR,8,8,8,42,0,11,5.3,0,0,0,0,,483,

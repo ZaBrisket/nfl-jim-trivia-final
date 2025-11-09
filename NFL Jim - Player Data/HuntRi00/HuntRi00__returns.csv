@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HuntRi00,Richard Huntley,RB,1998,26,PIT,NFL,RB,16,1,0,0,0,0,6,119,0,26,19.8,379,
+HuntRi00,Richard Huntley,RB,1999,27,PIT,NFL,RB,16,2,0,0,0,0,15,336,0,41,22.4,1156,
+HuntRi00,Richard Huntley,RB,,,,,,,,,,,,,,,,,,
+HuntRi00,Richard Huntley,RB,2001,29,CAR,NFL,RB,14,9,0,0,0,0,1,20,0,20,20.0,786,

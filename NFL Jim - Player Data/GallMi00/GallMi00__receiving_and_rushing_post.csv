@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GallMi00,Michael Gallup,WR,2018,22,DAL,NFL,WR,2,1,15,8,137,17.1,1,5,40.0,44,4.0,68.5,53.3,9.1,0,0,0,0,0.0,0.0,8,17.1,137,1,0,
+GallMi00,Michael Gallup,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GallMi00,Michael Gallup,WR,2022,26,DAL,NFL,WR,2,2,9,5,46,9.2,1,4,55.6,15,2.5,23.0,55.6,5.1,0,0,0,0,0.0,0.0,5,9.2,46,1,0,
+GallMi00,Michael Gallup,WR,2023,27,DAL,NFL,WR,1,1,6,6,103,17.2,0,4,100.0,42,6.0,103.0,100.0,17.2,0,0,0,0,0.0,0.0,6,17.2,103,0,0,

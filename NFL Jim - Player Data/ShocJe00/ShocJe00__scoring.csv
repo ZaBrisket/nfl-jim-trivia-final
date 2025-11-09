@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ShocJe00,Jeremy Shockey,TE,2002,22,NYG,NFL,TE,15,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP-1,AP ORoY-2"
+ShocJe00,Jeremy Shockey,TE,2003,23,NYG,NFL,TE,9,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,1.3,PB
+ShocJe00,Jeremy Shockey,TE,2004,24,NYG,NFL,TE,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,
+ShocJe00,Jeremy Shockey,TE,2005,25,NYG,NFL,TE,15,15,0,7,0,0,0,0,0,7,1,0,0,0,0,0,44,2.9,PB
+ShocJe00,Jeremy Shockey,TE,2006,26,NYG,NFL,TE,15,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,PB
+ShocJe00,Jeremy Shockey,TE,2007,27,NYG,NFL,TE,14,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+ShocJe00,Jeremy Shockey,TE,,,,,,,,,,,,,,,,,,,,,,,,
+ShocJe00,Jeremy Shockey,TE,2009,29,NOR,NFL,TE,13,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+ShocJe00,Jeremy Shockey,TE,2010,30,NOR,NFL,TE,13,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.4,
+ShocJe00,Jeremy Shockey,TE,2011,31,CAR,NFL,TE,15,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.6,

@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ByarKe00,Keith Byars,RB,1986,23,PHI,NFL,RB,16,8,0,0,0,0,2,47,0,31,23.5,668,
+ByarKe00,Keith Byars,RB,,,,,,,,,,,,,,,,,,
+ByarKe00,Keith Byars,RB,1988,25,PHI,NFL,RB,16,16,0,0,0,0,2,20,0,14,10.0,1256,
+ByarKe00,Keith Byars,RB,1989,26,PHI,NFL,RB,16,15,0,0,0,0,1,27,0,27,27.0,1206,

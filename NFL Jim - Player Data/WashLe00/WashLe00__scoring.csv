@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WashLe00,Leon Washington,RB,2006,24,NYJ,NFL,RB,16,8,4,0,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,
+WashLe00,Leon Washington,RB,2007,25,NYJ,NFL,RB,16,4,3,0,0,3,0,0,0,6,1,0,0,0,0,0,38,2.4,
+WashLe00,Leon Washington,RB,2008,26,NYJ,NFL,RB,16,1,6,2,0,1,0,0,0,9,1,0,0,0,0,0,56,3.5,"PB,AP-1"
+WashLe00,Leon Washington,RB,,,,,,,,,,,,,,,,,,,,,,,,
+WashLe00,Leon Washington,RB,2010,28,SEA,NFL,RB,16,0,1,0,0,3,0,0,0,4,0,0,0,0,0,0,24,1.5,"AP-2,AP CPoY-7"
+WashLe00,Leon Washington,RB,2011,29,SEA,NFL,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+WashLe00,Leon Washington,RB,2012,30,SEA,NFL,RB,16,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,12,0.8,PB
+WashLe00,Leon Washington,RB,,,,,,,,,,,,,,,,,,,,,,,,
+WashLe00,Leon Washington,RB,2014,32,TEN,NFL,RB,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

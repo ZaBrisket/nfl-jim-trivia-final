@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JeffVa00,Van Jefferson,WR,2020,24,LAR,NFL,WR,2,1,7,6,46,7.7,1,3,71.4,16,3.0,23.0,85.7,6.6,0,0,0,0,,,,0.0,0.0,6,7.7,46,1,0,
+JeffVa00,Van Jefferson,WR,2021,25,LAR,NFL,WR,4,4,17,9,102,11.3,0,4,35.3,41,2.3,25.5,52.9,6.0,1,15,0,1,100.0,15,15.0,3.8,0.3,10,11.7,117,0,0,
+JeffVa00,Van Jefferson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JeffVa00,Van Jefferson,WR,2024,28,PIT,NFL,WR,1,1,2,2,37,18.5,1,1,50.0,30,2.0,37.0,100.0,18.5,0,0,0,0,,,,0.0,0.0,2,18.5,37,1,0,

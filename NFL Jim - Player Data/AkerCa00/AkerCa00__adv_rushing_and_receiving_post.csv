@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+AkerCa00,Cam Akers,RB,2020,21,LAR,NFL,RB,2,2,46,221,13,101,2.2,120,2.6,3,15.3,3,3,51,1,8,2.7,43,14.3,2.7,0,,0,0.0,0,118.7,
+AkerCa00,Cam Akers,RB,2021,22,LAR,NFL,RB,4,3,67,172,6,70,1.0,102,1.5,2,33.5,10,8,76,4,16,2.0,60,7.5,5.1,1,8.0,1,10.0,0,98.3,
+AkerCa00,Cam Akers,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AkerCa00,Cam Akers,RB,2024,25,MIN,NFL,RB,1,0,5,39,1,32,6.4,7,1.4,0,,0,0,0,0,0,,0,,,0,,0,,,,

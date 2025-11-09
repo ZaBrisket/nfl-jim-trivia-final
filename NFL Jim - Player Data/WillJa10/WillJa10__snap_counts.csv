@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WillJa10,Javonte Williams,RB,2021,21,DEN,RB,33,17,1,551,51%,0,0%,4,1%
+WillJa10,Javonte Williams,RB,2022,22,DEN,RB,33,4,4,142,54%,0,0%,0,0%
+WillJa10,Javonte Williams,RB,2023,23,DEN,RB,33,16,13,493,49%,0,0%,0,0%
+WillJa10,Javonte Williams,RB,2024,24,DEN,RB,33,17,11,574,52%,0,0%,0,0%
+WillJa10,Javonte Williams,RB,2025,25,DAL,RB,33,9,9,460,75%,0,0%,0,0%

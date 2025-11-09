@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FielJu00,Justin Fields,QB,2021,22,CHI,NFL,QB,12,10,96,80,83,75,74,81,71,61,75,
+FielJu00,Justin Fields,QB,2022,23,CHI,NFL,QB,15,15,100,75,95,79,81,112,75,41,92,AP MVP-9
+FielJu00,Justin Fields,QB,2023,24,CHI,NFL,QB,13,13,98,89,98,91,85,103,97,73,95,
+FielJu00,Justin Fields,QB,2024,25,PIT,NFL,QB,10,6,96,89,104,98,104,86,131,85,104,
+FielJu00,Justin Fields,QB,2025,26,NYJ,NFL,QB,7,7,90,78,100,91,95,85,135,71,100,

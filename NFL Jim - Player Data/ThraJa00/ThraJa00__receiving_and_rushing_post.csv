@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+ThraJa00,James Thrash,WR,1999,24,WAS,NFL,WR,2,0,0,0,0,,0,0,,,0.0,0.0,,,1,1,0,0,0.0,1,1.0,0.5,0.5,1,1.0,1,0,0,
+ThraJa00,James Thrash,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ThraJa00,James Thrash,WR,2001,26,PHI,NFL,WR,3,3,17,11,151,13.7,0,8,52.9,43,3.7,50.3,64.7,8.9,2,-3,0,1,50.0,2,-1.5,-1.0,0.7,13,11.4,148,0,0,
+ThraJa00,James Thrash,WR,2002,27,PHI,NFL,WR,2,2,8,6,100,16.7,1,4,62.5,42,3.0,50.0,75.0,12.5,2,4,0,1,50.0,11,2.0,2.0,1.0,8,13.0,104,1,0,
+ThraJa00,James Thrash,WR,2003,28,PHI,NFL,WR,2,2,12,2,18,9.0,0,1,8.3,9,1.0,9.0,16.7,1.5,0,0,0,0,,,,0.0,0.0,2,9.0,18,0,0,
+ThraJa00,James Thrash,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ThraJa00,James Thrash,WR,2005,30,WAS,NFL,WR,1,1,4,1,5,5.0,0,1,25.0,5,1.0,5.0,25.0,1.3,0,0,0,0,,,,0.0,0.0,1,5.0,5,0,0,

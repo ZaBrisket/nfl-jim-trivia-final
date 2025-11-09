@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HillRo00,Ronnie Hillman,RB,2012,21,DEN,NFL,RB,14,0,85,330,1,19,48.2,31,3.9,23.6,6.1,12,10,62,6.2,0,3,33.3,29,0.7,4.4,83.3,5.2,95,4.1,392,1,2,3,
+HillRo00,Ronnie Hillman,RB,2013,22,DEN,NFL,RB,10,0,55,218,1,14,52.7,19,4.0,21.8,5.5,14,12,119,9.9,0,7,71.4,19,1.2,11.9,85.7,8.5,67,5.0,337,1,2,3,
+HillRo00,Ronnie Hillman,RB,2014,23,DEN,NFL,RB,8,4,106,434,3,20,40.6,37,4.1,54.3,13.3,34,21,139,6.6,1,7,32.4,16,2.6,17.4,61.8,4.1,127,4.5,573,4,1,5,
+HillRo00,Ronnie Hillman,RB,2015,24,DEN,NFL,RB,16,10,207,863,7,44,43.0,72,4.2,53.9,12.9,35,24,111,4.6,0,3,31.4,14,1.5,6.9,68.6,3.2,231,4.2,974,7,3,5,
+HillRo00,Ronnie Hillman,RB,2016,25,2TM,NFL,RB,8,1,41,131,0,7,34.1,17,3.2,16.4,5.1,15,7,93,13.3,0,3,33.3,32,0.9,11.6,46.7,6.2,48,4.7,224,0,0,2,
+HillRo00,Ronnie Hillman,RB,2016,25,MIN,NFL,RB,5,0,18,50,0,4,44.4,14,2.8,10.0,3.6,7,4,43,10.8,0,1,42.9,32,0.8,8.6,57.1,6.1,22,4.2,93,0,0,1,
+HillRo00,Ronnie Hillman,RB,2016,25,SDG,NFL,RB,3,1,23,81,0,3,26.1,17,3.5,27.0,7.7,8,3,50,16.7,0,2,25.0,21,1.0,16.7,37.5,6.3,26,5.0,131,0,0,1,

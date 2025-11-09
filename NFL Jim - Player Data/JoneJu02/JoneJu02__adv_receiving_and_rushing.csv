@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+JoneJu02,Julio Jones,WR,2018,29,ATL,NFL,WR,16,16,170,113,1677,80,1229,10.9,448,4.0,14.0,3,37.7,9,5.3,3,106.9,2,12,1,-4,-2.0,16,8.0,1,2.0,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2019,30,ATL,NFL,WR,15,15,157,99,1394,77,1030,10.4,364,3.7,12.2,7,14.1,4,2.5,5,91.1,2,-3,0,-4,-2.0,1,0.5,0,,"PB,AP-2"
+JoneJu02,Julio Jones,WR,2020,31,ATL,NFL,WR,9,9,68,51,771,36,540,10.6,231,4.5,11.2,7,7.3,3,4.4,0,126.5,0,0,0,0,,0,,0,,
+JoneJu02,Julio Jones,WR,2021,32,TEN,NFL,WR,10,10,48,31,434,19,322,10.4,112,3.6,12.1,4,7.8,1,2.1,2,83.2,0,0,0,0,,0,,0,,
+JoneJu02,Julio Jones,WR,2022,33,TAM,NFL,WR,10,5,43,24,299,13,175,7.3,124,5.2,13.8,2,12.0,1,2.3,0,93.1,5,45,4,38,7.6,7,1.4,0,,
+JoneJu02,Julio Jones,WR,2023,34,PHI,NFL,WR,11,4,19,11,74,4,46,4.2,28,2.5,7.4,0,,1,5.3,1,84.2,0,0,0,0,,0,,0,,

@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+NewsOz00,Ozzie Newsome,TE,1978,22,CLE,NFL,TE,16,16,80,38,589,15.5,2,26,38.8,47,2.4,36.8,47.5,7.4,13,96,2,4,53.8,33,7.4,6.0,0.8,51,13.4,685,4,1,7,
+NewsOz00,Ozzie Newsome,TE,1979,23,CLE,NFL,TE,16,16,101,55,781,14.2,9,37,44.6,74,3.4,48.8,54.5,7.7,1,6,0,0,100.0,6,6.0,0.4,0.1,56,14.1,787,9,0,8,AP-2
+NewsOz00,Ozzie Newsome,TE,1980,24,CLE,NFL,TE,16,16,86,51,594,11.6,3,32,52.3,44,3.2,37.1,59.3,6.9,2,13,0,0,100.0,9,6.5,0.8,0.1,53,11.5,607,3,2,6,
+NewsOz00,Ozzie Newsome,TE,1981,25,CLE,NFL,TE,16,16,118,69,1002,14.5,6,42,54.2,62,4.3,62.6,58.5,8.5,2,20,0,1,100.0,14,10.0,1.3,0.1,71,14.4,1022,6,0,7,"PB,AP-2"
+NewsOz00,Ozzie Newsome,TE,1982,26,CLE,NFL,TE,9,9,74,49,633,12.9,3,31,59.5,54,5.4,70.3,66.2,8.6,0,0,0,0,,,,0.0,0.0,49,12.9,633,3,0,8,
+NewsOz00,Ozzie Newsome,TE,1983,27,CLE,NFL,TE,16,16,134,89,970,10.9,6,46,52.2,66,5.6,60.6,66.4,7.2,0,0,0,0,,,,0.0,0.0,89,10.9,970,6,0,9,AP-2
+NewsOz00,Ozzie Newsome,TE,1984,28,CLE,NFL,TE,16,15,148,89,1001,11.2,5,55,49.3,52,5.6,62.6,60.1,6.8,0,0,0,0,,,,0.0,0.0,89,11.2,1001,5,0,8,"PB,AP-1"
+NewsOz00,Ozzie Newsome,TE,1985,29,CLE,NFL,TE,16,16,95,62,711,11.5,5,32,52.6,38,3.9,44.4,65.3,7.5,0,0,0,0,,,,0.0,0.0,62,11.5,711,5,0,7,"PB,AP-2"
+NewsOz00,Ozzie Newsome,TE,1986,30,CLE,NFL,TE,16,16,66,39,417,10.7,3,20,47.0,31,2.4,26.1,59.1,6.3,0,0,0,0,,,,0.0,0.0,39,10.7,417,3,0,4,
+NewsOz00,Ozzie Newsome,TE,1987,31,CLE,NFL,TE,13,13,46,34,375,11.0,0,15,63.0,25,2.6,28.8,73.9,8.2,0,0,0,0,,,,0.0,0.0,34,11.0,375,0,0,4,
+NewsOz00,Ozzie Newsome,TE,1988,32,CLE,NFL,TE,16,14,43,35,343,9.8,2,15,60.5,28,2.2,21.4,81.4,8.0,0,0,0,0,,,,0.0,0.0,35,9.8,343,2,0,3,
+NewsOz00,Ozzie Newsome,TE,1989,33,CLE,NFL,TE,16,13,49,29,324,11.2,1,16,51.0,31,1.8,20.3,59.2,6.6,0,0,0,0,,,,0.0,0.0,29,11.2,324,1,0,3,
+NewsOz00,Ozzie Newsome,TE,1990,34,CLE,NFL,TE,16,15,44,23,240,10.4,2,13,43.2,38,1.4,15.0,52.3,5.5,0,0,0,0,,,,0.0,0.0,23,10.4,240,2,0,2,

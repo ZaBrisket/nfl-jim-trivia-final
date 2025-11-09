@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+CartMi03,Michael Carter,RB,2021,22,NYJ,NFL,RB,14,11,147,639,29,294,2.0,345,2.3,13,11.3,55,36,325,16,-16,-0.4,341,9.5,0.6,7,5.1,4,7.3,1,73.7,
+CartMi03,Michael Carter,RB,2022,23,NYJ,NFL,RB,16,10,114,402,14,270,2.4,132,1.2,7,16.3,54,41,288,12,14,0.3,274,6.7,0.6,3,13.7,2,3.7,0,87.6,
+CartMi03,Michael Carter,RB,2023,24,2TM,NFL,RB,15,0,30,187,9,128,4.3,59,2.0,1,30.0,31,24,101,5,14,0.6,87,3.6,1.1,2,12.0,2,6.5,1,77.5,
+CartMi03,Michael Carter,RB,2023,24,NYJ,NFL,RB,9,0,8,38,2,24,3.0,14,1.8,0,,20,15,68,4,10,0.7,58,3.9,1.1,1,15.0,2,10.0,1,57.9,
+CartMi03,Michael Carter,RB,2023,24,ARI,NFL,RB,6,0,22,149,7,104,4.7,45,2.0,1,22.0,11,9,33,1,4,0.4,29,3.2,1.2,1,9.0,0,0.0,0,109.5,
+CartMi03,Michael Carter,RB,2024,25,ARI,NFL,RB,3,1,35,131,9,81,2.3,50,1.4,1,35.0,11,11,57,2,-16,-1.5,73,6.6,-1.5,2,5.5,0,0.0,0,88.3,
+CartMi03,Michael Carter,RB,2025,26,ARI,NFL,RB,4,2,35,97,4,69,2.0,28,0.8,3,11.7,12,9,77,4,7,0.8,70,7.8,4.0,3,3.0,1,8.3,0,91.3,

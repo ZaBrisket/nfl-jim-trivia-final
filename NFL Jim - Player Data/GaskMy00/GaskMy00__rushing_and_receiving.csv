@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GaskMy00,Myles Gaskin,RB,2019,22,MIA,NFL,RB,7,0,36,133,1,7,38.9,27,3.7,19.0,5.1,12,7,51,7.3,0,2,41.7,20,1.0,7.3,58.3,4.3,43,4.3,184,1,0,1,
+GaskMy00,Myles Gaskin,RB,2020,23,MIA,NFL,RB,10,7,142,584,3,27,50.7,26,4.1,58.4,14.2,47,41,388,9.5,2,12,59.6,59,4.1,38.8,87.2,8.3,183,5.3,972,5,2,7,
+GaskMy00,Myles Gaskin,RB,2021,24,MIA,NFL,RB,17,10,173,612,3,25,41.6,30,3.5,36.0,10.2,63,49,234,4.8,4,13,46.0,24,2.9,13.8,77.8,3.7,222,3.8,846,7,2,5,
+GaskMy00,Myles Gaskin,RB,2022,25,MIA,NFL,RB,4,0,10,26,0,2,30.0,10,2.6,6.5,2.5,6,4,28,7.0,0,0,50.0,16,1.0,7.0,66.7,4.7,14,3.9,54,0,0,0,
+GaskMy00,Myles Gaskin,RB,2023,26,2TM,NFL,RB,3,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+GaskMy00,Myles Gaskin,RB,2023,26,LAR,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+GaskMy00,Myles Gaskin,RB,2023,26,MIN,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+GaskMy00,Myles Gaskin,RB,2024,27,MIN,NFL,RB,5,0,3,-1,0,0,0.0,2,-0.3,-0.2,0.6,1,1,11,11.0,0,0,100.0,11,0.2,2.2,100.0,11.0,4,2.5,10,0,0,0,

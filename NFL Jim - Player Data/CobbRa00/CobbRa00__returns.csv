@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CobbRa00,Randall Cobb,WR,2011,21,GNB,NFL,WR,15,0,26,295,1,80,11.3,34,941,1,108,27.7,1616,
+CobbRa00,Randall Cobb,WR,2012,22,GNB,NFL,WR,15,8,31,292,1,75,9.4,38,964,0,46,25.4,2342,
+CobbRa00,Randall Cobb,WR,2013,23,GNB,NFL,WR,6,4,3,23,0,16,7.7,1,10,0,10,10.0,544,
+CobbRa00,Randall Cobb,WR,2014,24,GNB,NFL,WR,16,16,14,112,0,24,8.0,1,0,0,0,0.0,1436,PB
+CobbRa00,Randall Cobb,WR,2015,25,GNB,NFL,WR,16,15,4,10,0,10,2.5,0,0,0,0,,889,
+CobbRa00,Randall Cobb,WR,2016,26,GNB,NFL,WR,13,10,4,54,0,23,13.5,0,0,0,0,,697,
+CobbRa00,Randall Cobb,WR,,,,,,,,,,,,,,,,,,,
+CobbRa00,Randall Cobb,WR,2018,28,GNB,NFL,WR,9,6,7,46,0,17,6.6,0,0,0,0,,429,
+CobbRa00,Randall Cobb,WR,2019,29,DAL,NFL,WR,15,6,4,34,0,14,8.5,2,11,0,11,5.5,884,
+CobbRa00,Randall Cobb,WR,,,,,,,,,,,,,,,,,,,
+CobbRa00,Randall Cobb,WR,2021,31,GNB,NFL,WR,12,3,1,0,0,0,0.0,0,0,0,0,,376,
+CobbRa00,Randall Cobb,WR,2022,32,GNB,NFL,WR,13,3,4,37,0,15,9.3,0,0,0,0,,454,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+EifeTy00,Tyler Eifert,TE,2018,28,CIN,NFL,TE,4,2,19,15,179,10,125,8.3,54,3.6,9.2,1,15.0,1,5.3,1,101.5,0,0,0,0,0,0,
+EifeTy00,Tyler Eifert,TE,2019,29,CIN,NFL,TE,16,4,63,43,436,24,312,7.3,124,2.9,8.0,1,43.0,5,7.9,1,97.1,0,0,0,0,0,0,
+EifeTy00,Tyler Eifert,TE,2020,30,JAX,NFL,TE,15,4,60,36,349,22,236,6.6,113,3.1,8.2,0,,0,0.0,4,59.7,0,0,0,0,0,0,

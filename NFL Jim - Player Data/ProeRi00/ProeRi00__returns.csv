@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+ProeRi00,Ricky Proehl,WR,1990,22,PHO,NFL,WR,16,2,1,2,0,2,2.0,4,53,0,15,13.3,861,
+ProeRi00,Ricky Proehl,WR,1991,23,PHO,NFL,WR,16,16,4,26,0,14,6.5,0,0,0,0,,813,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,1997,29,CHI,NFL,WR,15,10,8,59,0,14,7.4,0,0,0,0,,812,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,2000,32,STL,NFL,WR,12,4,0,0,0,0,,1,2,0,2,2.0,443,
+ProeRi00,Ricky Proehl,WR,,,,,,,,,,,,,,,,,,,
+ProeRi00,Ricky Proehl,WR,2003,35,CAR,NFL,WR,16,2,0,0,0,0,,2,34,0,19,17.0,423,
+ProeRi00,Ricky Proehl,WR,2004,36,CAR,NFL,WR,16,3,0,0,0,0,,3,64,0,27,21.3,570,

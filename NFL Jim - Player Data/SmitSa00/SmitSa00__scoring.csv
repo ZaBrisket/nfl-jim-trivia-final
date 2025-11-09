@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+SmitSa00,Sammie Smith,RB,1989,22,MIA,NFL,RB,13,12,6,0,0,0,0,0,0,6,0,0,0,0,0,36,2.8,
+SmitSa00,Sammie Smith,RB,1990,23,MIA,NFL,RB,16,16,8,1,0,0,0,0,0,9,0,0,0,0,0,54,3.4,
+SmitSa00,Sammie Smith,RB,1991,24,MIA,NFL,RB,12,6,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

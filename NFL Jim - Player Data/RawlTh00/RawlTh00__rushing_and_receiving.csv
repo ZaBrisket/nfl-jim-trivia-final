@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RawlTh00,Thomas Rawls,RB,2015,22,SEA,NFL,RB,13,7,147,830,4,37,59.2,69,5.6,63.8,11.3,11,9,76,8.4,1,2,45.5,31,0.7,5.8,81.8,6.9,156,5.8,906,5,1,7,
+RawlTh00,Thomas Rawls,RB,2016,23,SEA,NFL,RB,9,7,109,349,3,22,39.4,45,3.2,38.8,12.1,17,13,96,7.4,0,4,47.1,20,1.4,10.7,76.5,5.6,122,3.6,445,3,0,3,
+RawlTh00,Thomas Rawls,RB,2017,24,SEA,NFL,RB,12,3,58,157,0,6,32.8,23,2.7,13.1,4.8,13,9,94,10.4,0,4,53.8,22,0.8,7.8,69.2,7.2,67,3.7,251,0,1,2,
+RawlTh00,Thomas Rawls,RB,2018,25,CIN,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,

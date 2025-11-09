@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BennDo00,Donnell Bennett,RB,1994,22,KAN,NFL,RB,15,0,46,178,2,9,43.5,17,3.9,11.9,3.1,11,7,53,7.6,0,4,45.5,15,0.5,3.5,63.6,4.8,53,4.4,231,2,2,1,
+BennDo00,Donnell Bennett,RB,1995,23,KAN,NFL,RB,3,1,7,11,0,2,28.6,11,1.6,3.7,2.3,1,1,12,12.0,0,1,100.0,12,0.3,4.0,100.0,12.0,8,2.9,23,0,0,0,
+BennDo00,Donnell Bennett,RB,1996,24,KAN,NFL,RB,16,0,36,166,0,5,36.1,34,4.6,10.4,2.3,14,8,21,2.6,0,1,21.4,10,0.5,1.3,57.1,1.5,44,4.3,187,0,0,1,
+BennDo00,Donnell Bennett,RB,1997,25,KAN,NFL,RB,14,1,94,369,1,19,53.2,14,3.9,26.4,6.7,9,7,5,0.7,0,1,11.1,4,0.5,0.4,77.8,0.6,101,3.7,374,1,0,3,
+BennDo00,Donnell Bennett,RB,1998,26,KAN,NFL,RB,16,10,148,527,5,30,44.6,26,3.6,32.9,9.3,21,16,91,5.7,1,6,42.9,14,1.0,5.7,76.2,4.3,164,3.8,618,6,4,5,
+BennDo00,Donnell Bennett,RB,1999,27,KAN,NFL,RB,15,1,161,627,8,40,41.0,44,3.9,41.8,10.7,12,10,41,4.1,0,2,33.3,12,0.7,2.7,83.3,3.4,171,3.9,668,8,1,4,
+BennDo00,Donnell Bennett,RB,2000,28,KAN,NFL,RB,7,2,27,24,1,7,37.0,6,0.9,3.4,3.9,2,2,17,8.5,0,1,50.0,13,0.3,2.4,100.0,8.5,29,1.4,41,1,0,0,
+BennDo00,Donnell Bennett,RB,2001,29,WAS,NFL,FB,16,14,10,39,0,2,40.0,8,3.9,2.4,0.6,25,15,112,7.5,0,4,40.0,30,0.9,7.0,60.0,4.5,25,6.0,151,0,1,1,

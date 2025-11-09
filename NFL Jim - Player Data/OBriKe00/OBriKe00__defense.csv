@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+OBriKe00,Ken O'Brien,QB,1984,24,NYJ,NFL,QB,10,5,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,
+OBriKe00,Ken O'Brien,QB,1985,25,NYJ,NFL,QB,16,16,0,0,0,0,0,14,4,0,0,0.0,0,0,0,0,PB
+OBriKe00,Ken O'Brien,QB,1986,26,NYJ,NFL,QB,15,14,0,0,0,0,0,10,5,-3,0,0.0,0,0,0,0,AP OPoY-5
+OBriKe00,Ken O'Brien,QB,1987,27,NYJ,NFL,QB,12,12,0,0,0,0,0,8,1,-10,0,0.0,0,0,0,0,
+OBriKe00,Ken O'Brien,QB,1988,28,NYJ,NFL,QB,14,12,0,0,0,0,0,11,5,-14,0,0.0,0,0,0,0,
+OBriKe00,Ken O'Brien,QB,1989,29,NYJ,NFL,QB,15,12,0,0,0,0,0,10,4,-4,0,0.0,0,0,0,0,
+OBriKe00,Ken O'Brien,QB,1990,30,NYJ,NFL,QB,16,16,0,0,0,0,0,5,4,-4,0,0.0,0,0,0,0,
+OBriKe00,Ken O'Brien,QB,1991,31,NYJ,NFL,QB,16,16,0,0,0,0,0,6,1,-4,0,0.0,0,0,0,0,PB
+OBriKe00,Ken O'Brien,QB,,,,,,,,,,,,,,,,,,,,,,
+OBriKe00,Ken O'Brien,QB,1993,33,PHI,NFL,QB,5,4,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,

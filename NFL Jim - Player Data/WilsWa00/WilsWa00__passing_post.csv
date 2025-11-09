@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+WilsWa00,Wade Wilson,QB,1987,28,MIN,NFL,QB,3,2,1-1-0,50,93,53.8,730,5,5.4,2,2.2,34,39.3,63,7.8,7.96,14.6,243.3,88.6,14,107,13.08,5.82,5.92,0,0,
+WilsWa00,Wade Wilson,QB,1988,29,MIN,NFL,QB,2,2,1-1-0,40,75,53.3,508,2,2.7,2,2.7,25,38.4,46,6.8,6.11,12.7,254.0,72.5,11,93,12.79,4.83,4.24,0,0,
+WilsWa00,Wade Wilson,QB,1989,30,MIN,NFL,QB,1,1,0-1-0,9,17,52.9,84,0,0.0,2,11.8,6,36.8,19,4.9,-0.35,9.3,84.0,27.2,2,19,10.53,3.42,-1.32,0,0,
+WilsWa00,Wade Wilson,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WilsWa00,Wade Wilson,QB,1995,36,DAL,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,,,,,,0,0,

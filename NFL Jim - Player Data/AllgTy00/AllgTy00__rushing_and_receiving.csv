@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+AllgTy00,Tyler Allgeier,RB,2022,22,ATL,NFL,RB,16,7,210,1035,3,53,51.9,44,4.9,64.7,13.1,17,16,139,8.7,1,8,58.8,26,1.0,8.7,94.1,8.2,226,5.2,1174,4,0,8,AP ORoY-5
+AllgTy00,Tyler Allgeier,RB,2023,23,ATL,NFL,RB,17,3,186,683,4,39,48.4,31,3.7,40.2,10.9,23,18,193,10.7,1,6,39.1,75,1.1,11.4,78.3,8.4,204,4.3,876,5,0,5,
+AllgTy00,Tyler Allgeier,RB,2024,24,ATL,NFL,RB,17,0,137,644,3,43,58.4,25,4.7,37.9,8.1,13,13,88,6.8,0,2,46.2,13,0.8,5.2,100.0,6.8,150,4.9,732,3,0,4,
+AllgTy00,Tyler Allgeier,RB,2025,25,ATL,NFL,RB,8,1,63,213,4,17,47.6,21,3.4,26.6,7.9,6,5,20,4.0,0,1,66.7,6,0.6,2.5,83.3,3.3,68,3.4,233,4,0,,

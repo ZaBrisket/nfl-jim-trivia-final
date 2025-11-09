@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+JoinCh00,Charlie Joiner,WR,1969,22,HOU,AFL,WR,7,0,0,0,0,0,3,73,0,28,24.3,150,
+JoinCh00,Charlie Joiner,WR,,,,,,,,,,,,,,,,,,
+JoinCh00,Charlie Joiner,WR,1971,24,HOU,NFL,WR,14,13,0,0,0,0,1,25,0,25,25.0,706,
+JoinCh00,Charlie Joiner,WR,1972,25,2TM,NFL,WR,12,10,0,0,0,0,5,88,0,25,17.6,541,
+JoinCh00,Charlie Joiner,WR,1972,25,CIN,NFL,WR,6,4,0,0,0,0,5,88,0,25,17.6,223,
+JoinCh00,Charlie Joiner,WR,,,,,,,,,,,,,,,,,,
+JoinCh00,Charlie Joiner,WR,1977,30,SDG,NFL,WR,14,14,0,0,0,0,1,8,0,8,8.0,550,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HillPe00,Peyton Hillis,RB,2008,22,DEN,NFL,RB,12,6,5,1,0,0,0,0,0,6,0,0,0,0,0,0,36,3.0,
+HillPe00,Peyton Hillis,RB,2009,23,DEN,NFL,RB,14,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+HillPe00,Peyton Hillis,RB,2010,24,CLE,NFL,RB,16,14,11,2,0,0,0,0,0,13,0,0,0,0,0,0,78,4.9,
+HillPe00,Peyton Hillis,RB,2011,25,CLE,NFL,RB,10,9,3,0,0,0,0,0,0,3,0,0,0,0,0,0,18,1.8,
+HillPe00,Peyton Hillis,RB,2012,26,KAN,NFL,RB,13,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+HillPe00,Peyton Hillis,RB,2013,27,NYG,NFL,RB,7,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.7,

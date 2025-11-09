@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+GeorJe00,Jeff George,QB,1990,23,IND,NFL,QB,13,12,87,78,92,86,91,110,96,81,96,AP ORoY-3
+GeorJe00,Jeff George,QB,1991,24,IND,NFL,QB,16,16,80,73,89,84,111,79,117,81,96,
+GeorJe00,Jeff George,QB,1992,25,IND,NFL,QB,10,10,92,91,82,83,90,84,79,94,80,
+GeorJe00,Jeff George,QB,1993,26,IND,NFL,QB,13,11,89,92,99,100,99,77,129,105,99,
+GeorJe00,Jeff George,QB,1994,27,ATL,NFL,QB,16,16,108,108,105,106,110,107,95,103,107,
+GeorJe00,Jeff George,QB,1995,28,ATL,NFL,QB,16,16,117,112,121,117,108,105,120,93,116,
+GeorJe00,Jeff George,QB,1996,29,ATL,NFL,QB,3,3,108,94,103,95,97,89,102,79,98,
+GeorJe00,Jeff George,QB,1997,30,OAK,NFL,QB,16,16,115,104,121,114,96,116,121,82,117,
+GeorJe00,Jeff George,QB,1998,31,OAK,NFL,QB,8,7,105,92,100,93,93,83,104,74,94,
+GeorJe00,Jeff George,QB,1999,32,MIN,NFL,QB,12,10,129,122,124,120,103,130,95,95,119,AP CPoY-4
+GeorJe00,Jeff George,QB,2000,33,WAS,NFL,QB,6,5,108,108,106,106,101,96,104,107,102,

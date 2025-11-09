@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MostRa00,Raheem Mostert,RB,2015,23,3TM,NFL,RB,11,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,
+MostRa00,Raheem Mostert,RB,2015,23,MIA,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+MostRa00,Raheem Mostert,RB,2015,23,BAL,NFL,RB,7,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+MostRa00,Raheem Mostert,RB,2015,23,CLE,NFL,RB,3,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,1,0,
+MostRa00,Raheem Mostert,RB,2016,24,2TM,NFL,RB,3,0,1,6,0,0,100.0,6,6.0,2.0,0.3,0,0,0,,0,0,,,0.0,0.0,,,1,6.0,6,0,0,0,
+MostRa00,Raheem Mostert,RB,2016,24,CHI,NFL,RB,2,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+MostRa00,Raheem Mostert,RB,2016,24,SFO,NFL,RB,1,0,1,6,0,0,100.0,6,6.0,6.0,1.0,0,0,0,,0,0,,,0.0,0.0,,,1,6.0,6,0,0,0,
+MostRa00,Raheem Mostert,RB,2017,25,SFO,NFL,RB,11,0,6,30,0,1,50.0,16,5.0,2.7,0.5,0,0,0,,0,0,,,0.0,0.0,,,6,5.0,30,0,1,0,
+MostRa00,Raheem Mostert,RB,2018,26,SFO,NFL,RB,9,0,34,261,1,13,64.7,52,7.7,29.0,3.8,7,6,25,4.2,0,1,28.6,23,0.7,2.8,85.7,3.6,40,7.2,286,1,1,2,
+MostRa00,Raheem Mostert,RB,2019,27,SFO,NFL,RB,16,0,137,772,8,31,48.9,41,5.6,48.3,8.6,22,14,180,12.9,2,6,40.9,39,0.9,11.3,63.6,8.2,151,6.3,952,10,2,8,
+MostRa00,Raheem Mostert,RB,2020,28,SFO,NFL,RB,8,8,104,521,2,22,49.0,80,5.0,65.1,13.0,19,16,156,9.8,1,5,52.6,76,2.0,19.5,84.2,8.2,120,5.6,677,3,1,4,
+MostRa00,Raheem Mostert,RB,2021,29,SFO,NFL,RB,1,1,2,20,0,1,100.0,11,10.0,20.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,2,10.0,20,0,0,0,
+MostRa00,Raheem Mostert,RB,2022,30,MIA,NFL,RB,16,14,181,891,3,44,55.2,67,4.9,55.7,11.3,42,31,202,6.5,2,11,47.6,25,1.9,12.6,73.8,4.8,212,5.2,1093,5,1,7,
+MostRa00,Raheem Mostert,RB,2023,31,MIA,NFL,RB,15,15,209,1012,18,59,55.0,49,4.8,67.5,13.9,32,25,175,7.0,3,6,40.6,22,1.7,11.7,78.1,5.5,234,5.1,1187,21,4,9,PB
+MostRa00,Raheem Mostert,RB,2024,32,MIA,NFL,RB,13,1,85,278,2,13,37.6,21,3.3,21.4,6.5,23,19,161,8.5,0,10,52.2,25,1.5,12.4,82.6,7.0,104,4.2,439,2,2,3,
+MostRa00,Raheem Mostert,RB,2025,33,LVR,NFL,RB,6,0,17,84,0,4,41.2,37,4.9,14.0,2.8,4,4,38,9.5,0,3,75.0,14,0.7,6.3,100.0,9.5,21,5.8,122,0,0,,

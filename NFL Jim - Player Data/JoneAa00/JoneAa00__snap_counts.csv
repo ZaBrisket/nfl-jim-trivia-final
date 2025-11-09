@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JoneAa00,Aaron Jones,RB,2017,23,GNB,RB,33,12,4,236,31%,0,0%,32,10%
+JoneAa00,Aaron Jones,RB,2018,24,GNB,RB,33,12,8,376,48%,0,0%,19,6%
+JoneAa00,Aaron Jones,RB,2019,25,GNB,RB,33,16,16,663,62%,0,0%,0,0%
+JoneAa00,Aaron Jones,RB,2020*,26,GNB,RB,33,14,14,539,60%,0,0%,0,0%
+JoneAa00,Aaron Jones,RB,2021,27,GNB,RB,33,15,15,578,58%,0,0%,4,1%
+JoneAa00,Aaron Jones,RB,2022,28,GNB,RB,33,17,17,630,58%,0,0%,3,1%
+JoneAa00,Aaron Jones,RB,2023,29,GNB,RB,33,11,11,354,49%,0,0%,0,0%
+JoneAa00,Aaron Jones,RB,2024,30,MIN,RB,33,17,17,700,63%,0,0%,0,0%
+JoneAa00,Aaron Jones,RB,2025,31,MIN,RB,33,4,4,100,47%,0,0%,0,0%

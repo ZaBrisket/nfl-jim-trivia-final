@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DwigTi00,Tim Dwight,WR,1998,23,ATL,NFL,WR,3,0,5,75,0,36,15.0,10,343,1,94,34.3,451,
+DwigTi00,Tim Dwight,WR,,,,,,,,,,,,,,,,,,,
+DwigTi00,Tim Dwight,WR,2004,29,SDG,NFL,WR,1,0,0,0,0,0,,5,85,0,25,17.0,85,
+DwigTi00,Tim Dwight,WR,2005,30,NWE,NFL,WR,2,0,7,68,0,27,9.7,0,0,0,0,,68,

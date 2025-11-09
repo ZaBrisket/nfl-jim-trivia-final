@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+MeyeJa01,Jakobi Meyers,WR,2020,24,NWE,NFL,WR,14,9,2,2,100.0,43,2,100.0,0,0.0,2,100.0,24,21.5,41.50,21.5,3.1,158.3,100.0,0,0,0.00,21.50,41.50,0,0,
+MeyeJa01,Jakobi Meyers,WR,2021,25,NWE,NFL,WR,17,16,2,2,100.0,45,0,0.0,0,0.0,1,50.0,30,22.5,22.50,22.5,2.6,118.7,78.1,0,0,0.00,22.50,22.50,0,0,
+MeyeJa01,Jakobi Meyers,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MeyeJa01,Jakobi Meyers,WR,2023,27,LVR,NFL,WR,16,16,2,3,66.7,12,1,33.3,0,0.0,1,66.7,9,4.0,10.67,6.0,0.8,113.9,39.8,0,0,0.00,4.00,10.67,0,0,
+MeyeJa01,Jakobi Meyers,WR,2024,28,LVR,NFL,WR,15,15,0,0,,0,0,,0,,0,,,,,,0.0,,0.0,1,10,100.00,-10.00,-10.00,0,0,

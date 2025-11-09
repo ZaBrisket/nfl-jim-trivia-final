@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ColeLa00,Laveranues Coles,WR,2000,23,NYJ,NFL,WR,13,3,43,22,370,16.8,1,16,44.2,63,1.7,28.5,51.2,8.6,2,15,0,0,0.0,8,7.5,1.2,0.2,24,16.0,385,1,0,3,
+ColeLa00,Laveranues Coles,WR,2001,24,NYJ,NFL,WR,16,16,103,59,868,14.7,7,43,50.5,40,3.7,54.3,57.3,8.4,10,108,0,6,70.0,20,10.8,6.8,0.6,69,14.1,976,7,1,10,
+ColeLa00,Laveranues Coles,WR,2002,25,NYJ,NFL,WR,16,16,134,89,1264,14.2,5,67,63.4,43,5.6,79.0,66.4,9.4,6,39,0,2,66.7,21,6.5,2.4,0.4,95,13.7,1303,5,1,14,
+ColeLa00,Laveranues Coles,WR,2003,26,WAS,NFL,WR,16,16,158,82,1204,14.7,6,53,46.2,64,5.1,75.3,51.9,7.6,10,39,0,3,40.0,23,3.9,2.4,0.6,92,13.5,1243,6,0,11,PB
+ColeLa00,Laveranues Coles,WR,2004,27,WAS,NFL,WR,16,16,168,90,950,10.6,1,52,43.5,45,5.6,59.4,53.6,5.7,3,-3,0,2,66.7,7,-1.0,-0.2,0.2,93,10.2,947,1,1,7,
+ColeLa00,Laveranues Coles,WR,2005,28,NYJ,NFL,WR,16,16,132,73,845,11.6,5,53,47.7,43,4.6,52.8,55.3,6.4,0,0,0,0,,,,0.0,0.0,73,11.6,845,5,1,7,
+ColeLa00,Laveranues Coles,WR,2006,29,NYJ,NFL,WR,16,16,152,91,1098,12.1,6,53,49.3,58,5.7,68.6,59.9,7.2,2,14,0,1,50.0,15,7.0,0.9,0.1,93,12.0,1112,6,1,11,
+ColeLa00,Laveranues Coles,WR,2007,30,NYJ,NFL,WR,12,10,89,55,646,11.7,6,35,53.9,57,4.6,53.8,61.8,7.3,0,0,0,0,,,,0.0,0.0,55,11.7,646,6,0,5,
+ColeLa00,Laveranues Coles,WR,2008,31,NYJ,NFL,WR,16,16,116,70,850,12.1,7,45,54.3,54,4.4,53.1,60.3,7.3,2,9,0,0,50.0,6,4.5,0.6,0.1,72,11.9,859,7,1,9,
+ColeLa00,Laveranues Coles,WR,2009,32,CIN,NFL,WR,16,13,77,43,514,12.0,5,29,49.4,40,2.7,32.1,55.8,6.7,2,10,0,1,50.0,8,5.0,0.6,0.1,45,11.6,524,5,0,5,

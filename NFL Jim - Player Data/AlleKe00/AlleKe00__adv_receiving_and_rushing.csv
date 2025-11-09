@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+AlleKe00,Keenan Allen,WR,2018,26,LAC,NFL,WR,16,14,136,97,1196,62,793,8.2,403,4.2,8.6,3,32.3,4,2.9,2,106.7,9,75,4,59,6.6,16,1.8,2,4.5,PB
+AlleKe00,Keenan Allen,WR,2019,27,LAC,NFL,WR,16,16,149,104,1199,63,825,7.9,374,3.6,10.1,4,26.0,7,4.7,8,84.8,3,16,1,13,4.3,3,1.0,0,,PB
+AlleKe00,Keenan Allen,WR,2020,28,LAC,NFL,WR,14,13,147,100,992,61,555,5.6,437,4.4,7.2,2,50.0,3,2.0,5,90.9,1,-1,0,-1,-1.0,0,0.0,0,,PB
+AlleKe00,Keenan Allen,WR,2021,29,LAC,NFL,WR,16,16,157,106,1138,66,801,7.6,337,3.2,8.4,1,106.0,8,5.1,5,88.0,0,0,0,0,,0,,0,,PB
+AlleKe00,Keenan Allen,WR,2022,30,LAC,NFL,WR,10,10,89,66,752,39,489,7.4,263,4.0,8.6,1,66.0,2,2.2,2,104.7,1,8,1,6,6.0,2,2.0,0,,
+AlleKe00,Keenan Allen,WR,2023,31,LAC,NFL,WR,13,13,150,108,1243,57,847,7.8,396,3.7,9.6,5,21.6,5,3.3,2,106.6,2,6,1,6,3.0,0,0.0,0,,PB
+AlleKe00,Keenan Allen,WR,2024,32,CHI,NFL,WR,15,15,121,70,744,43,504,7.2,240,3.4,9.0,1,70.0,6,5.0,0,95.2,0,0,0,0,,0,,0,,
+AlleKe00,Keenan Allen,WR,2025,33,LAC,NFL,WR,9,2,75,50,520,33,369,7.4,151,3.0,8.8,2,25.0,3,4.0,2,93.2,0,0,0,0,,0,,0,,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+TownJo00,Jo-Jo Townsell,WR,1985,25,NYJ,NFL,WR,16,6,33,12,187,15.6,0,9,33.3,36,0.8,11.7,36.4,5.7,0,0,0,0,,,,0.0,0.0,12,15.6,187,0,1,2,
+TownJo00,Jo-Jo Townsell,WR,1986,26,NYJ,NFL,WR,14,1,8,1,11,11.0,0,1,12.5,11,0.1,0.8,12.5,1.4,1,2,0,0,0.0,2,2.0,0.1,0.1,2,6.5,13,0,0,1,
+TownJo00,Jo-Jo Townsell,WR,1987,27,NYJ,NFL,WR,12,0,13,4,37,9.3,0,3,23.1,11,0.3,3.1,30.8,2.8,1,-2,0,0,0.0,-2,-2.0,-0.2,0.1,5,7.0,35,0,3,1,
+TownJo00,Jo-Jo Townsell,WR,1988,28,NYJ,NFL,WR,16,0,8,4,40,10.0,0,1,25.0,19,0.3,2.5,50.0,5.0,0,0,0,0,,,,0.0,0.0,4,10.0,40,0,3,1,
+TownJo00,Jo-Jo Townsell,WR,1989,29,NYJ,NFL,WR,16,6,83,45,787,17.5,5,34,50.6,63,2.8,49.2,54.2,9.5,0,0,0,0,,,,0.0,0.0,45,17.5,787,5,4,5,
+TownJo00,Jo-Jo Townsell,WR,1990,30,NYJ,NFL,WR,9,0,12,4,57,14.3,0,4,33.3,18,0.4,6.3,33.3,4.8,0,0,0,0,,,,0.0,0.0,4,14.3,57,0,2,1,

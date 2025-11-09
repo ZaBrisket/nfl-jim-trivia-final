@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HillRo00,Ronnie Hillman,RB,2012,21,DEN,RB,21,14,0,208,21%,0,0%,1,0%
+HillRo00,Ronnie Hillman,RB,2013,22,DEN,RB,21,10,0,157,21%,0,0%,6,2%
+HillRo00,Ronnie Hillman,RB,2014,23,DEN,RB,23,8,4,312,53%,0,0%,0,0%
+HillRo00,Ronnie Hillman,RB,2015,24,DEN,RB,23,16,10,522,47%,0,0%,2,0%
+HillRo00,Ronnie Hillman,RB,2016,25,2TM,RB,,8,1,134,,0,,0,
+HillRo00,Ronnie Hillman,RB,,,MIN,RB,33,5,0,57,17%,0,0%,0,0%
+HillRo00,Ronnie Hillman,RB,,,,,,,,77,41%,0,0%,0,0%

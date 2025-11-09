@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ClarJe00,Jessie Clark,RB,1983,23,GNB,NFL,RB,16,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1984,24,GNB,NFL,FB,11,10,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1985,25,GNB,NFL,FB,16,14,0,0,0,0,0,4,2,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1986,26,GNB,NFL,RB,5,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,,,,,,,,,,,,,,,,,,,,,,
+ClarJe00,Jessie Clark,RB,1989,29,2TM,NFL,RB,14,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1989,29,PHO,NFL,RB,11,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+ClarJe00,Jessie Clark,RB,1989,29,MIN,NFL,RB,3,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

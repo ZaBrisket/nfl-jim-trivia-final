@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+TrudJa00,Jack Trudeau,QB,1986,24,IND,NFL,QB,12,11,13,21,1,2,38.5,8,1.6,1.8,1.1,0,0,0,0,0,0.0,0.0,13,1.6,21,1,13,
+TrudJa00,Jack Trudeau,QB,1987,25,IND,NFL,QB,10,8,15,7,0,1,6.7,9,0.5,0.7,1.5,0,0,0,0,0,0.0,0.0,15,0.5,7,0,10,
+TrudJa00,Jack Trudeau,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrudJa00,Jack Trudeau,QB,1989,27,IND,NFL,QB,13,12,35,91,2,10,34.3,17,2.6,7.0,2.7,0,0,0,0,0,0.0,0.0,35,2.6,91,2,10,
+TrudJa00,Jack Trudeau,QB,1990,28,IND,NFL,QB,6,4,10,28,0,1,20.0,9,2.8,4.7,1.7,0,0,0,0,0,0.0,0.0,10,2.8,28,0,11,
+TrudJa00,Jack Trudeau,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrudJa00,Jack Trudeau,QB,1992,30,IND,NFL,QB,11,5,13,6,0,1,7.7,5,0.5,0.5,1.2,0,0,0,0,0,0.0,0.0,13,0.5,6,0,3,
+TrudJa00,Jack Trudeau,QB,1993,31,IND,NFL,QB,5,5,5,3,0,0,0.0,2,0.6,0.6,1.0,0,0,0,0,0,0.0,0.0,5,0.6,3,0,2,
+TrudJa00,Jack Trudeau,QB,1994,32,NYJ,NFL,QB,5,2,6,30,0,3,50.0,15,5.0,6.0,1.2,0,0,0,0,0,0.0,0.0,6,5.0,30,0,2,

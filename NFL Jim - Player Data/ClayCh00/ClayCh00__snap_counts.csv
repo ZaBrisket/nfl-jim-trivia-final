@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ClayCh00,Charles Clay,TE,2012,23,MIA,FB,42,14,9,332,36%,0,0%,24,6%
+ClayCh00,Charles Clay,TE,2013,24,MIA,TE,42,16,15,855,83%,0,0%,60,13%
+ClayCh00,Charles Clay,TE,2014,25,MIA,TE,42,14,14,745,77%,0,0%,0,0%
+ClayCh00,Charles Clay,TE,2015,26,BUF,TE,85,13,13,763,88%,0,0%,3,1%
+ClayCh00,Charles Clay,TE,2016,27,BUF,TE,85,15,15,872,88%,0,0%,0,0%
+ClayCh00,Charles Clay,TE,2017,28,BUF,TE,85,13,13,575,69%,0,0%,3,1%
+ClayCh00,Charles Clay,TE,2018,29,BUF,TE,85,13,12,504,58%,0,0%,1,0%
+ClayCh00,Charles Clay,TE,2019,30,ARI,TE,85,15,10,396,40%,0,0%,8,2%

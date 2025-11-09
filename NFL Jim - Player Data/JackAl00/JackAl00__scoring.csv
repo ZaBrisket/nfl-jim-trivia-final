@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+JackAl00,Alfred Jackson,WR,1978,23,ATL,NFL,WR,15,0,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+JackAl00,Alfred Jackson,WR,,,,,,,,,,,,,,,,,,,,,,,
+JackAl00,Alfred Jackson,WR,1980,25,ATL,NFL,WR,16,0,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+JackAl00,Alfred Jackson,WR,1981,26,ATL,NFL,WR,16,0,0,6,0,0,1,0,0,7,0,0,0,0,0,42,2.6,
+JackAl00,Alfred Jackson,WR,1982,27,ATL,NFL,WR,9,9,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+JackAl00,Alfred Jackson,WR,1983,28,ATL,NFL,WR,4,4,0,3,0,0,0,0,0,3,0,0,0,0,0,18,4.5,
+JackAl00,Alfred Jackson,WR,1984,29,ATL,NFL,WR,16,15,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,

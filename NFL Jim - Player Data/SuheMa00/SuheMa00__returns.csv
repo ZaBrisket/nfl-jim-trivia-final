@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SuheMa00,Matt Suhey,RB,1980,22,CHI,NFL,RB,16,1,1,4,0,4,4.0,19,406,0,31,21.4,515,
+SuheMa00,Matt Suhey,RB,,,,,,,,,,,,,,,,,,,
+SuheMa00,Matt Suhey,RB,1987,29,CHI,NFL,RB,12,2,0,0,0,0,,1,9,0,9,9.0,87,
+SuheMa00,Matt Suhey,RB,,,,,,,,,,,,,,,,,,,
+SuheMa00,Matt Suhey,RB,1989,31,CHI,NFL,RB,16,0,0,0,0,0,,6,93,0,21,15.5,217,

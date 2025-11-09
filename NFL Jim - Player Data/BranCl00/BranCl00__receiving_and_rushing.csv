@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BranCl00,Cliff Branch,WR,1972,24,OAK,NFL,WR,14,1,,3,41,13.7,0,,,19,0.2,2.9,,,1,5,0,,,5,5.0,0.4,0.1,4,11.5,46,0,2,1,
+BranCl00,Cliff Branch,WR,1973,25,OAK,NFL,WR,13,0,,19,290,15.3,3,,,54,1.5,22.3,,,0,0,0,,,,,0.0,0.0,19,15.3,290,3,0,3,
+BranCl00,Cliff Branch,WR,1974,26,OAK,NFL,WR,14,14,,60,1092,18.2,13,,,67,4.3,78.0,,,0,0,0,,,,,0.0,0.0,60,18.2,1092,13,1,17,"PB,AP-1"
+BranCl00,Cliff Branch,WR,1975,27,OAK,NFL,WR,14,14,,51,893,17.5,9,,,53,3.6,63.8,,,2,18,0,,,15,9.0,1.3,0.1,53,17.2,911,9,0,12,"PB,AP-1"
+BranCl00,Cliff Branch,WR,1976,28,OAK,NFL,WR,14,14,,46,1111,24.2,12,,,88,3.3,79.4,,,3,12,0,,,10,4.0,0.9,0.2,49,22.9,1123,12,0,16,"PB,AP-1"
+BranCl00,Cliff Branch,WR,1977,29,OAK,NFL,WR,13,13,,33,540,16.4,6,,,43,2.5,41.5,,,0,0,0,,,,,0.0,0.0,33,16.4,540,6,0,9,PB
+BranCl00,Cliff Branch,WR,1978,30,OAK,NFL,WR,16,16,91,49,709,14.5,1,36,45.1,41,3.1,44.3,53.8,7.8,0,0,0,0,,,,0.0,0.0,49,14.5,709,1,2,7,
+BranCl00,Cliff Branch,WR,1979,31,OAK,NFL,WR,14,13,109,59,844,14.3,6,41,49.5,66,4.2,60.3,54.1,7.7,1,4,0,0,0.0,4,4.0,0.3,0.1,60,14.1,848,6,1,10,
+BranCl00,Cliff Branch,WR,1980,32,OAK,NFL,WR,16,15,106,44,858,19.5,7,30,38.7,86,2.8,53.6,41.5,8.1,1,1,0,0,0.0,1,1.0,0.1,0.1,45,19.1,859,7,0,8,
+BranCl00,Cliff Branch,WR,1981,33,OAK,NFL,WR,16,15,106,41,635,15.5,1,35,36.8,53,2.6,39.7,38.7,6.0,0,0,0,0,,,,0.0,0.0,41,15.5,635,1,0,4,
+BranCl00,Cliff Branch,WR,1982,34,RAI,NFL,WR,9,9,58,30,575,19.2,4,23,50.0,51,3.3,63.9,51.7,9.9,2,10,0,0,50.0,7,5.0,1.1,0.2,32,18.3,585,4,0,11,
+BranCl00,Cliff Branch,WR,1983,35,RAI,NFL,WR,12,12,74,39,696,17.8,5,32,48.6,99,3.3,58.0,52.7,9.4,1,20,0,1,100.0,20,20.0,1.7,0.1,40,17.9,716,5,0,7,
+BranCl00,Cliff Branch,WR,1984,36,RAI,NFL,WR,14,14,66,27,401,14.9,0,20,39.4,47,1.9,28.6,40.9,6.1,0,0,0,0,,,,0.0,0.0,27,14.9,401,0,0,3,
+BranCl00,Cliff Branch,WR,1985,37,RAI,NFL,WR,4,0,2,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,,,,0.0,0.0,0,,0,0,0,0,

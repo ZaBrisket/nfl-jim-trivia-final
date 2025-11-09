@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PegrEr00,Erric Pegram,RB,1991,22,ATL,NFL,RB,16,7,0,0,0,0,16,260,0,30,16.3,608,
+PegrEr00,Erric Pegram,RB,1992,23,ATL,NFL,RB,16,1,0,0,0,0,9,161,0,42,17.9,276,
+PegrEr00,Erric Pegram,RB,1993,24,ATL,NFL,RB,16,14,0,0,0,0,4,63,0,28,15.8,1550,
+PegrEr00,Erric Pegram,RB,1994,25,ATL,NFL,RB,13,5,0,0,0,0,9,145,0,35,16.1,604,
+PegrEr00,Erric Pegram,RB,1995,26,PIT,NFL,RB,15,11,0,0,0,0,4,85,0,28,21.3,1104,
+PegrEr00,Erric Pegram,RB,1996,27,PIT,NFL,RB,12,4,0,0,0,0,17,419,1,91,24.6,1040,
+PegrEr00,Erric Pegram,RB,1997,28,2TM,NFL,RB,15,0,0,0,0,0,22,382,0,50,17.4,567,
+PegrEr00,Erric Pegram,RB,1997,28,NYG,NFL,RB,11,0,0,0,0,0,22,382,0,50,17.4,537,

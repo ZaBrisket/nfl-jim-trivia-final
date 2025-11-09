@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+NjokDa00,David Njoku,TE,2017,21,CLE,TE,85,16,5,500,47%,0,0%,167,39%
+NjokDa00,David Njoku,TE,2018,22,CLE,TE,85,16,14,871,80%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2019,23,CLE,TE,85,4,1,99,40%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2020,24,CLE,TE,85,13,5,410,47%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2021,25,CLE,TE,85,16,11,670,64%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2022,26,CLE,TE,85,14,14,817,84%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2023*,27,CLE,TE,85,16,16,970,82%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2024,28,CLE,TE,85,11,11,589,75%,0,0%,0,0%
+NjokDa00,David Njoku,TE,2025,29,CLE,TE,85,7,7,365,75%,0,0%,0,0%

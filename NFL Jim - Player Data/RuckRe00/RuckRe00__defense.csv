@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+RuckRe00,Reggie Rucker,WR,1972,25,NWE,NFL,WR,14,14,0,0,0,0,,2,1,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1973,26,NWE,NFL,WR,14,14,0,0,0,0,,2,2,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1974,27,NWE,NFL,WR,10,10,0,0,0,0,,1,0,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1975,28,CLE,NFL,WR,14,14,0,0,0,0,,0,2,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1976,29,CLE,NFL,WR,14,14,0,0,0,0,,1,0,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1977,30,CLE,NFL,WR,14,14,0,0,0,0,,2,0,0,0,0.0,,,,0,
+RuckRe00,Reggie Rucker,WR,1978,31,CLE,NFL,WR,15,15,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,

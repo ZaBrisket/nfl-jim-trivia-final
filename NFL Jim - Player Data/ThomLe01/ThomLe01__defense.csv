@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+ThomLe01,Leonard Thompson,WR,1975,23,DET,NFL,WR,14,1,0,0,0,0,,2,0,0,0,0.0,,,,0,
+ThomLe01,Leonard Thompson,WR,1976,24,DET,NFL,RB,14,1,0,0,0,0,,0,1,0,0,0.0,,,,0,
+ThomLe01,Leonard Thompson,WR,,,,,,,,,,,,,,,,,,,,,,
+ThomLe01,Leonard Thompson,WR,1978,26,DET,NFL,WR,16,1,0,0,0,0,0,2,4,0,0,0.0,0,0,0,0,
+ThomLe01,Leonard Thompson,WR,1979,27,DET,NFL,WR,15,1,0,0,0,0,0,3,0,0,0,0.0,0,0,0,0,
+ThomLe01,Leonard Thompson,WR,1980,28,DET,NFL,WR,16,12,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,
+ThomLe01,Leonard Thompson,WR,1981,29,DET,NFL,WR,16,16,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,
+ThomLe01,Leonard Thompson,WR,,,,,,,,,,,,,,,,,,,,,,
+ThomLe01,Leonard Thompson,WR,1983,31,DET,NFL,WR,13,12,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,
+ThomLe01,Leonard Thompson,WR,1984,32,DET,NFL,WR,16,15,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,

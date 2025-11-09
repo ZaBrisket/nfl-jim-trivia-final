@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SmitAl03,Alex Smith,QB,2012,28,SFO,QB,11,10,9,484,77%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2013*,29,KAN,QB,11,15,15,978,97%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2014,30,KAN,QB,11,15,15,940,99%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2015,31,KAN,QB,11,16,16,989,99%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2016*,32,KAN,QB,11,15,15,915,95%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2017*,33,KAN,QB,11,15,15,961,100%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2018,34,WAS,QB,11,10,10,651,96%,0,0%,0,0%
+SmitAl03,Alex Smith,QB,2020,36,WAS,QB,11,8,6,459,87%,0,0%,0,0%

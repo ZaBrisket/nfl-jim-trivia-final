@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BarnFr00,Fred Barnett,WR,1990,24,PHI,NFL,WR,16,11,70,36,721,20.0,8,28,48.6,95,2.3,45.1,51.4,10.3,2,13,0,1,50.0,12,6.5,0.8,0.1,38,19.3,734,8,0,7,
+BarnFr00,Fred Barnett,WR,1991,25,PHI,NFL,WR,15,15,124,62,948,15.3,4,42,46.0,75,4.1,63.2,50.0,7.6,1,0,0,0,0.0,,0.0,0.0,0.1,63,15.0,948,4,2,8,
+BarnFr00,Fred Barnett,WR,1992,26,PHI,NFL,WR,16,16,121,67,1083,16.2,6,49,52.1,71,4.2,67.7,55.4,9.0,1,-15,0,0,0.0,-15,-15.0,-0.9,0.1,68,15.7,1068,6,1,12,PB
+BarnFr00,Fred Barnett,WR,1993,27,PHI,NFL,WR,4,4,24,17,170,10.0,0,12,70.8,21,4.3,42.5,70.8,7.1,0,0,0,0,,,,0.0,0.0,17,10.0,170,0,1,1,
+BarnFr00,Fred Barnett,WR,1994,28,PHI,NFL,WR,16,16,146,78,1127,14.4,5,48,49.3,54,4.9,70.4,53.4,7.7,0,0,0,0,,,,0.0,0.0,78,14.4,1127,5,1,9,
+BarnFr00,Fred Barnett,WR,1995,29,PHI,NFL,WR,14,14,76,48,585,12.2,5,32,55.3,33,3.4,41.8,63.2,7.7,0,0,0,0,,,,0.0,0.0,48,12.2,585,5,0,5,
+BarnFr00,Fred Barnett,WR,1996,30,MIA,NFL,WR,9,7,63,36,562,15.6,3,24,46.0,66,4.0,62.4,57.1,8.9,0,0,0,0,,,,0.0,0.0,36,15.6,562,3,1,5,
+BarnFr00,Fred Barnett,WR,1997,31,MIA,NFL,WR,6,5,45,17,166,9.8,1,10,33.3,20,2.8,27.7,37.8,3.7,0,0,0,0,,,,0.0,0.0,17,9.8,166,1,1,2,

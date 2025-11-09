@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WillRo04,Roy Williams,WR,2004,23,DET,NFL,WR,14,12,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.4,
+WillRo04,Roy Williams,WR,2005,24,DET,NFL,WR,13,12,0,8,0,0,0,0,0,8,0,0,0,0,0,0,48,3.7,
+WillRo04,Roy Williams,WR,2006,25,DET,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,PB
+WillRo04,Roy Williams,WR,2007,26,DET,NFL,WR,12,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.5,
+WillRo04,Roy Williams,WR,2008,27,2TM,NFL,WR,15,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+WillRo04,Roy Williams,WR,2008,27,DET,NFL,WR,5,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,1.2,
+WillRo04,Roy Williams,WR,2008,27,DAL,NFL,WR,10,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,
+WillRo04,Roy Williams,WR,2009,28,DAL,NFL,WR,15,13,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.8,
+WillRo04,Roy Williams,WR,2010,29,DAL,NFL,WR,15,9,0,5,0,0,0,0,0,5,1,0,0,0,0,0,32,2.1,
+WillRo04,Roy Williams,WR,2011,30,CHI,NFL,WR,15,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

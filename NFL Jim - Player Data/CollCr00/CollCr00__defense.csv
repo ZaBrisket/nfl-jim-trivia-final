@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+CollCr00,Cris Collinsworth,WR,1981,22,CIN,NFL,WR,16,16,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,"PB,AP-2,AP ORoY-2"
+CollCr00,Cris Collinsworth,WR,1982,23,CIN,NFL,WR,9,9,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,"PB,AP-2"
+CollCr00,Cris Collinsworth,WR,1983,24,CIN,NFL,WR,14,14,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,"PB,AP-2"
+CollCr00,Cris Collinsworth,WR,1984,25,CIN,NFL,WR,15,14,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,
+CollCr00,Cris Collinsworth,WR,1985,26,CIN,NFL,WR,16,16,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+CollCr00,Cris Collinsworth,WR,1986,27,CIN,NFL,WR,16,15,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,
+CollCr00,Cris Collinsworth,WR,,,,,,,,,,,,,,,,,,,,,,
+CollCr00,Cris Collinsworth,WR,1988,29,CIN,NFL,WR,13,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

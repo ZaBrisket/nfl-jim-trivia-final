@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+LockTy00,Tyler Lockett,WR,2018,26,SEA,NFL,WR,1,1,6,4,120,3,92,23.0,28,7.0,20.7,0,0,0.0,0,109.7,0,0,0,0,0,0,
+LockTy00,Tyler Lockett,WR,2019,27,SEA,NFL,WR,2,2,18,13,198,11,166,12.8,32,2.5,12.3,0,0,0.0,0,126.6,0,0,0,0,0,0,
+LockTy00,Tyler Lockett,WR,2020,28,SEA,NFL,WR,1,1,4,2,43,2,38,19.0,5,2.5,21.0,0,0,0.0,0,88.5,0,0,0,0,0,0,
+LockTy00,Tyler Lockett,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LockTy00,Tyler Lockett,WR,2022,30,SEA,NFL,WR,1,1,8,6,39,3,33,5.5,6,1.0,7.0,0,1,12.5,1,45.3,0,0,0,0,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+DetmTy00,Ty Detmer,QB,1996,29,PHI,NFL,QB,13,11,113,114,107,108,108,98,99,102,104,
+DetmTy00,Ty Detmer,QB,1997,30,PHI,NFL,QB,8,7,94,96,98,99,93,88,111,99,96,
+DetmTy00,Ty Detmer,QB,,,,,,,,,,,,,,,,,
+DetmTy00,Ty Detmer,QB,1999,32,CLE,NFL,QB,5,2,88,94,98,102,78,104,115,117,98,
+DetmTy00,Ty Detmer,QB,,,,,,,,,,,,,,,,,
+DetmTy00,Ty Detmer,QB,2001,34,DET,NFL,QB,4,4,86,86,62,65,107,74,44,96,68,

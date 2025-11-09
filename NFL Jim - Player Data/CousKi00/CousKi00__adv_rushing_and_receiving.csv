@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+CousKi00,Kirk Cousins,QB,2018,30,MIN,NFL,QB,16,16,44,123,12,105,2.4,18,0.4,1,44.0,1,1,-1,0,-7,-7.0,6,6.0,-7.0,0,0,0.0,0,79.2,
+CousKi00,Kirk Cousins,QB,2019,31,MIN,NFL,QB,15,15,31,63,8,51,1.6,12,0.4,0,,1,0,0,0,0,,0,,12.0,0,0,0.0,0,39.6,PB
+CousKi00,Kirk Cousins,QB,2020,32,MIN,NFL,QB,16,16,32,156,16,141,4.4,15,0.5,1,32.0,0,0,0,0,0,,0,,,0,0,,0,,
+CousKi00,Kirk Cousins,QB,2021,33,MIN,NFL,QB,16,16,29,115,8,97,3.3,18,0.6,0,,0,0,0,0,0,,0,,,0,0,,0,,PB
+CousKi00,Kirk Cousins,QB,2022,34,MIN,NFL,QB,17,17,31,97,11,66,2.1,31,1.0,0,,0,0,0,0,0,,0,,,0,0,,0,,PB
+CousKi00,Kirk Cousins,QB,2023,35,MIN,NFL,QB,8,8,14,25,6,22,1.6,3,0.2,0,,0,0,0,0,0,,0,,,0,0,,0,,
+CousKi00,Kirk Cousins,QB,2024,36,ATL,NFL,QB,14,14,23,0,2,-8,-0.3,8,0.3,0,,0,0,0,0,0,,0,,,0,0,,0,,AP CPoY-13
+CousKi00,Kirk Cousins,QB,2025,37,ATL,NFL,QB,2,1,2,2,0,0,0.0,2,1.0,0,,0,0,0,0,0,,0,,,0,0,,0,,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MathRy00,Ryan Mathews,RB,2010,23,SDG,NFL,RB,12,9,158,678,7,25,44.3,31,4.3,56.5,13.2,26,22,145,6.6,0,7,50.0,17,1.8,12.1,84.6,5.6,180,4.6,823,7,5,6,
+MathRy00,Ryan Mathews,RB,2011,24,SDG,NFL,RB,14,14,222,1091,6,51,45.5,39,4.9,77.9,15.9,59,50,455,9.1,0,18,61.0,42,3.6,32.5,84.7,7.7,272,5.7,1546,6,5,13,PB
+MathRy00,Ryan Mathews,RB,2012,25,SDG,NFL,RB,12,9,184,707,1,35,47.3,31,3.8,58.9,15.3,56,39,252,6.5,0,9,42.9,24,3.3,21.0,69.6,4.5,223,4.3,959,1,2,7,
+MathRy00,Ryan Mathews,RB,2013,26,SDG,NFL,RB,16,14,285,1255,6,55,47.7,51,4.4,78.4,17.8,33,26,189,7.3,1,9,57.6,17,1.6,11.8,78.8,5.7,311,4.6,1444,7,2,11,
+MathRy00,Ryan Mathews,RB,2014,27,SDG,NFL,RB,6,6,74,330,3,19,47.3,32,4.5,55.0,12.3,10,9,69,7.7,0,4,80.0,16,1.5,11.5,90.0,6.9,83,4.8,399,3,1,3,
+MathRy00,Ryan Mathews,RB,2015,28,PHI,NFL,RB,13,6,106,539,6,34,52.8,63,5.1,41.5,8.2,28,20,146,7.3,1,6,39.3,23,1.5,11.2,71.4,5.2,126,5.4,685,7,3,4,
+MathRy00,Ryan Mathews,RB,2016,29,PHI,NFL,RB,13,8,155,661,8,40,51.0,30,4.3,50.8,11.9,14,13,115,8.8,1,7,57.1,27,1.0,8.8,92.9,8.2,168,4.6,776,9,3,5,

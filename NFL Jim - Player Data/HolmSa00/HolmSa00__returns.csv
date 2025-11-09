@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+HolmSa00,Santonio Holmes,WR,2006,22,PIT,NFL,WR,16,4,26,264,1,65,10.2,18,436,0,42,24.2,1537,
+HolmSa00,Santonio Holmes,WR,,,,,,,,,,,,,,,,,,,
+HolmSa00,Santonio Holmes,WR,2008,24,PIT,NFL,WR,15,15,34,226,0,35,6.6,0,0,0,0,,1056,
+HolmSa00,Santonio Holmes,WR,2009,25,PIT,NFL,WR,16,16,2,6,0,3,3.0,0,0,0,0,,1260,
+HolmSa00,Santonio Holmes,WR,2010,26,NYJ,NFL,WR,12,10,4,40,0,14,10.0,0,0,0,0,,803,
+HolmSa00,Santonio Holmes,WR,,,,,,,,,,,,,,,,,,,
+HolmSa00,Santonio Holmes,WR,2014,30,CHI,NFL,WR,9,2,9,50,0,22,5.6,0,0,0,0,,117,

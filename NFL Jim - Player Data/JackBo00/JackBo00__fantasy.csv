@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+JackBo00,Bo Jackson,RB,1987,25,7,RB,103,,26,,All 1987 Games
+JackBo00,Bo Jackson,RB,1988,26,10,RB,79,,49,,All 1988 Games
+JackBo00,Bo Jackson,RB,1989,27,11,RB,125,7,22,69,All 1989 Games
+JackBo00,Bo Jackson,RB,1990,28,10,RB,104,,31,,All 1990 Games

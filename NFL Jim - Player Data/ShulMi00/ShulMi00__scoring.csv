@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ShulMi00,Mickey Shuler,TE,1978,22,NYJ,NFL,TE,16,1,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+ShulMi00,Mickey Shuler,TE,1979,23,NYJ,NFL,TE,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.1,
+ShulMi00,Mickey Shuler,TE,1980,24,NYJ,NFL,TE,16,9,0,2,0,0,0,0,0,2,0,0,0,0,0,12,0.8,
+ShulMi00,Mickey Shuler,TE,,,,,,,,,,,,,,,,,,,,,,,
+ShulMi00,Mickey Shuler,TE,1982,26,NYJ,NFL,TE,9,3,0,3,0,0,0,0,0,3,0,0,0,0,0,18,2.0,
+ShulMi00,Mickey Shuler,TE,1983,27,NYJ,NFL,TE,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+ShulMi00,Mickey Shuler,TE,1984,28,NYJ,NFL,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.3,
+ShulMi00,Mickey Shuler,TE,1985,29,NYJ,NFL,TE,16,13,0,7,0,0,0,0,0,7,0,0,0,0,0,42,2.6,
+ShulMi00,Mickey Shuler,TE,1986,30,NYJ,NFL,TE,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,PB
+ShulMi00,Mickey Shuler,TE,1987,31,NYJ,NFL,TE,11,10,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.6,
+ShulMi00,Mickey Shuler,TE,1988,32,NYJ,NFL,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.0,"PB,AP-2"

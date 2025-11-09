@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,g,fantasy_pos,fantasy_points,vbd,fantasy_rank_pos,fantasy_rank_overall,games
+MoorRo01,Ronald Moore,RB,1993,23,16,RB,154,43,15,28,All 1993 Games
+MoorRo01,Ronald Moore,RB,1994,24,16,RB,113,,29,,All 1994 Games
+MoorRo01,Ronald Moore,RB,1995,25,15,RB,11,,103,,All 1995 Games
+MoorRo01,Ronald Moore,RB,1996,26,16,RB,,,140,,All 1996 Games
+MoorRo01,Ronald Moore,RB,1997,27,13,RB,37,,78,,All 1997 Games
+MoorRo01,Ronald Moore,RB,1998,28,1,RB,-1,,166,,All 1998 Games

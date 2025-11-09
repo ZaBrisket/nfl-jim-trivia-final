@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+DaveRo00,Ron Davenport,RB,1985,23,MIA,NFL,RB,16,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,
+DaveRo00,Ron Davenport,RB,1986,24,MIA,NFL,RB,16,2,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,
+DaveRo00,Ron Davenport,RB,,,,,,,,,,,,,,,,,,,,,,
+DaveRo00,Ron Davenport,RB,1988,26,MIA,NFL,FB,16,5,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,

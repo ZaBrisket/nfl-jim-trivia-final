@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BarbMi01,Mike Barber,TE,1976,23,HOU,NFL,TE,2,0,,0,0,,0,,,,0.0,0.0,,,0,0,0,,,,,0.0,0.0,0,,0,0,0,0,
+BarbMi01,Mike Barber,TE,1977,24,HOU,NFL,TE,13,10,,9,94,10.4,1,,,23,0.7,7.2,,,0,0,0,,,,,0.0,0.0,9,10.4,94,1,0,1,
+BarbMi01,Mike Barber,TE,1978,25,HOU,NFL,TE,16,16,59,32,513,16.0,3,20,45.8,72,2.0,32.1,54.2,8.7,2,14,0,1,50.0,13,7.0,0.9,0.1,34,15.5,527,3,4,7,
+BarbMi01,Mike Barber,TE,1979,26,HOU,NFL,TE,15,15,52,27,377,14.0,3,14,40.4,37,1.8,25.1,51.9,7.3,2,4,0,0,50.0,6,2.0,0.3,0.1,29,13.1,381,3,1,5,
+BarbMi01,Mike Barber,TE,1980,27,HOU,NFL,TE,16,16,87,59,712,12.1,5,29,54.0,79,3.7,44.5,67.8,8.2,1,1,0,0,0.0,1,1.0,0.1,0.1,60,11.9,713,5,0,6,
+BarbMi01,Mike Barber,TE,1981,28,HOU,NFL,TE,16,5,22,13,190,14.6,1,8,45.5,35,0.8,11.9,59.1,8.6,0,0,0,0,,,,0.0,0.0,13,14.6,190,1,0,2,
+BarbMi01,Mike Barber,TE,1982,29,RAM,NFL,TE,9,9,30,18,166,9.2,1,9,46.7,21,2.0,18.4,60.0,5.5,0,0,0,0,,,,0.0,0.0,18,9.2,166,1,0,3,
+BarbMi01,Mike Barber,TE,1983,30,RAM,NFL,TE,16,16,77,55,657,11.9,3,30,63.6,42,3.4,41.1,71.4,8.5,0,0,0,0,,,,0.0,0.0,55,11.9,657,3,1,6,
+BarbMi01,Mike Barber,TE,1984,31,RAM,NFL,TE,11,2,11,7,42,6.0,0,1,27.3,11,0.6,3.8,63.6,3.8,0,0,0,0,,,,0.0,0.0,7,6.0,42,0,1,0,
+BarbMi01,Mike Barber,TE,1985,32,2TM,NFL,TE,15,6,13,2,37,18.5,0,1,7.7,29,0.1,2.5,15.4,2.8,0,0,0,0,,,,0.0,0.0,2,18.5,37,0,0,0,
+BarbMi01,Mike Barber,TE,1985,32,RAM,NFL,TE,5,5,7,1,29,29.0,0,1,14.3,29,0.2,5.8,14.3,4.1,0,0,0,0,,,,0.0,0.0,1,29.0,29,0,0,0,
+BarbMi01,Mike Barber,TE,1985,32,DEN,NFL,TE,10,1,6,1,8,8.0,0,0,0.0,8,0.1,0.8,16.7,1.3,0,0,0,0,,,,0.0,0.0,1,8.0,8,0,0,0,

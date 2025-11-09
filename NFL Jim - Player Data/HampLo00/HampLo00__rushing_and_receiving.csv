@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HampLo00,Lorenzo Hampton,RB,1985,23,MIA,NFL,RB,16,1,105,369,3,27,49.5,15,3.5,23.1,6.6,9,8,56,7.0,0,4,66.7,15,0.5,3.5,88.9,6.2,113,3.8,425,3,3,4,
+HampLo00,Lorenzo Hampton,RB,1986,24,MIA,NFL,RB,16,16,186,830,9,49,50.0,54,4.5,51.9,11.6,77,61,446,7.3,3,23,61.0,19,3.8,27.9,79.2,5.8,247,5.2,1276,12,4,12,
+HampLo00,Lorenzo Hampton,RB,1987,25,MIA,NFL,RB,12,7,75,289,1,15,38.7,34,3.9,24.1,6.3,34,23,223,9.7,0,8,50.0,24,1.9,18.6,67.6,6.6,98,5.2,512,1,4,5,
+HampLo00,Lorenzo Hampton,RB,1988,26,MIA,NFL,RB,16,10,117,414,9,28,53.8,33,3.5,25.9,7.3,33,23,204,8.9,3,8,48.5,39,1.4,12.8,69.7,6.2,140,4.4,618,12,2,5,
+HampLo00,Lorenzo Hampton,RB,1989,27,MIA,NFL,RB,10,0,17,47,0,2,23.5,9,2.8,4.7,1.7,10,8,25,3.1,0,1,30.0,12,0.8,2.5,80.0,2.5,25,2.9,72,0,1,1,

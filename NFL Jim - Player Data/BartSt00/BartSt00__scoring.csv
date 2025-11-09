@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BartSt00,Steve Bartkowski,QB,1975,23,ATL,NFL,QB,11,11,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.1,AP ORoY-2
+BartSt00,Steve Bartkowski,QB,1976,24,ATL,NFL,QB,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,6,1.2,
+BartSt00,Steve Bartkowski,QB,,,,,,,,,,,,,,,,,,,,,,,
+BartSt00,Steve Bartkowski,QB,1978,26,ATL,NFL,QB,14,13,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+BartSt00,Steve Bartkowski,QB,1979,27,ATL,NFL,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+BartSt00,Steve Bartkowski,QB,1980,28,ATL,NFL,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.8,"PB,AP MVP-3"
+BartSt00,Steve Bartkowski,QB,,,,,,,,,,,,,,,,,,,,,,,
+BartSt00,Steve Bartkowski,QB,1982,30,ATL,NFL,QB,9,9,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+BartSt00,Steve Bartkowski,QB,1983,31,ATL,NFL,QB,14,14,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

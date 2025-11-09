@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BernGi00,Giovani Bernard,RB,2013,22,CIN,NFL,RB,16,0,5,3,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.0,AP ORoY-3
+BernGi00,Giovani Bernard,RB,2014,23,CIN,NFL,RB,13,9,5,2,0,0,0,0,0,7,0,,0,0,0,0,0,42,3.2,
+BernGi00,Giovani Bernard,RB,2015,24,CIN,NFL,RB,16,1,2,0,0,0,0,0,0,2,0,,0,0,0,0,0,12,0.8,
+BernGi00,Giovani Bernard,RB,2016,25,CIN,NFL,RB,10,2,2,1,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.8,
+BernGi00,Giovani Bernard,RB,2017,26,CIN,NFL,RB,16,2,2,2,0,0,0,0,0,4,0,,0,0,0,0,0,24,1.5,
+BernGi00,Giovani Bernard,RB,2018,27,CIN,NFL,RB,12,4,3,0,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.5,
+BernGi00,Giovani Bernard,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+BernGi00,Giovani Bernard,RB,2020,29,CIN,NFL,RB,16,10,3,3,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,
+BernGi00,Giovani Bernard,RB,2021,30,TAM,NFL,RB,12,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.5,

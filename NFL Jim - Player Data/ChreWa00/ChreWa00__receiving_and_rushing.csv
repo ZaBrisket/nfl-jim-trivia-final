@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ChreWa00,Wayne Chrebet,WR,1995,22,NYJ,NFL,WR,16,16,125,66,726,11.0,4,37,45.6,32,4.1,45.4,52.8,5.8,1,1,0,0,0.0,1,1.0,0.1,0.1,67,10.9,727,4,1,4,
+ChreWa00,Wayne Chrebet,WR,1996,23,NYJ,NFL,WR,16,9,130,84,909,10.8,3,48,54.6,44,5.3,56.8,64.6,7.0,0,0,0,0,,,,0.0,0.0,84,10.8,909,3,5,7,
+ChreWa00,Wayne Chrebet,WR,1997,24,NYJ,NFL,WR,16,1,102,58,799,13.8,3,34,45.1,70,3.6,49.9,56.9,7.8,0,0,0,0,,,,0.0,0.0,58,13.8,799,3,0,8,
+ChreWa00,Wayne Chrebet,WR,1998,25,NYJ,NFL,WR,16,15,115,75,1083,14.4,8,60,60.0,63,4.7,67.7,65.2,9.4,0,0,0,0,,,,0.0,0.0,75,14.4,1083,8,0,12,
+ChreWa00,Wayne Chrebet,WR,1999,26,NYJ,NFL,WR,11,11,81,48,631,13.1,3,27,48.1,50,4.4,57.4,59.3,7.8,0,0,0,0,,,,0.0,0.0,48,13.1,631,3,0,7,
+ChreWa00,Wayne Chrebet,WR,2000,27,NYJ,NFL,WR,16,16,145,69,937,13.6,8,49,42.8,50,4.3,58.6,47.6,6.5,3,-3,0,1,33.3,8,-1.0,-0.2,0.2,72,13.0,934,8,0,8,
+ChreWa00,Wayne Chrebet,WR,2001,28,NYJ,NFL,WR,15,15,92,56,750,13.4,1,44,55.4,36,3.7,50.0,60.9,8.2,0,0,0,0,,,,0.0,0.0,56,13.4,750,1,0,8,
+ChreWa00,Wayne Chrebet,WR,2002,29,NYJ,NFL,WR,15,15,80,51,691,13.5,9,38,56.3,37,3.4,46.1,63.8,8.6,0,0,0,0,,,,0.0,0.0,51,13.5,691,9,2,7,
+ChreWa00,Wayne Chrebet,WR,2003,30,NYJ,NFL,WR,7,5,44,27,289,10.7,1,15,38.6,29,3.9,41.3,61.4,6.6,0,0,0,0,,,,0.0,0.0,27,10.7,289,1,0,3,
+ChreWa00,Wayne Chrebet,WR,2004,31,NYJ,NFL,WR,16,1,54,31,397,12.8,1,20,48.1,35,1.9,24.8,57.4,7.4,0,0,0,0,,,,0.0,0.0,31,12.8,397,1,0,4,
+ChreWa00,Wayne Chrebet,WR,2005,32,NYJ,NFL,WR,8,0,23,15,153,10.2,0,7,47.8,20,1.9,19.1,65.2,6.7,0,0,0,0,,,,0.0,0.0,15,10.2,153,0,0,1,

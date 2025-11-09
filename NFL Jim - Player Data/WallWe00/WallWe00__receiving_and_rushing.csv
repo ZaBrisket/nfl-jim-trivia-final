@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WallWe00,Wesley Walls,TE,1989,23,SFO,NFL,TE,16,0,8,4,16,4.0,1,3,25.0,9,0.3,1.0,50.0,2.0,0,0,0,0,0.0,0.0,4,4.0,16,1,1,0,
+WallWe00,Wesley Walls,TE,1990,24,SFO,NFL,TE,16,0,12,5,27,5.4,0,2,25.0,11,0.3,1.7,41.7,2.3,0,0,0,0,0.0,0.0,5,5.4,27,0,0,0,
+WallWe00,Wesley Walls,TE,1991,25,SFO,NFL,TE,15,0,3,2,24,12.0,0,1,66.7,21,0.1,1.6,66.7,8.0,0,0,0,0,0.0,0.0,2,12.0,24,0,0,0,
+WallWe00,Wesley Walls,TE,1992,,Did not play - Injured (shoulder),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WallWe00,Wesley Walls,TE,1993,27,SFO,NFL,TE,6,0,0,0,0,,0,0,,,0.0,0.0,,,0,0,0,0,0.0,0.0,0,,0,0,0,0,
+WallWe00,Wesley Walls,TE,1994,28,NOR,NFL,TE,15,7,69,38,406,10.7,4,23,42.0,31,2.5,27.1,55.1,5.9,0,0,0,0,0.0,0.0,38,10.7,406,4,0,3,
+WallWe00,Wesley Walls,TE,1995,29,NOR,NFL,TE,16,12,93,57,694,12.2,4,40,54.8,29,3.6,43.4,61.3,7.5,0,0,0,0,0.0,0.0,57,12.2,694,4,1,6,
+WallWe00,Wesley Walls,TE,1996,30,CAR,NFL,TE,16,15,111,61,713,11.7,10,44,50.5,40,3.8,44.6,55.0,6.4,0,0,0,0,0.0,0.0,61,11.7,713,10,0,8,"PB,AP-2"
+WallWe00,Wesley Walls,TE,1997,31,CAR,NFL,TE,15,15,98,58,746,12.9,6,41,53.1,52,3.9,49.7,59.2,7.6,0,0,0,0,0.0,0.0,58,12.9,746,6,0,7,"PB,AP-2"
+WallWe00,Wesley Walls,TE,1998,32,CAR,NFL,TE,14,14,78,49,506,10.3,5,32,56.4,30,3.5,36.1,62.8,6.5,0,0,0,0,0.0,0.0,49,10.3,506,5,0,5,PB
+WallWe00,Wesley Walls,TE,1999,33,CAR,NFL,TE,16,16,108,63,822,13.0,12,47,54.6,37,3.9,51.4,58.3,7.6,0,0,0,0,0.0,0.0,63,13.0,822,12,1,9,"PB,AP-2"
+WallWe00,Wesley Walls,TE,2000,34,CAR,NFL,TE,8,8,49,31,422,13.6,2,21,59.2,54,3.9,52.8,63.3,8.6,0,0,0,0,0.0,0.0,31,13.6,422,2,0,4,
+WallWe00,Wesley Walls,TE,2001,35,CAR,NFL,TE,14,14,73,43,452,10.5,5,20,47.9,25,3.1,32.3,58.9,6.2,0,0,0,0,0.0,0.0,43,10.5,452,5,0,4,PB
+WallWe00,Wesley Walls,TE,2002,36,CAR,NFL,TE,15,14,36,19,241,12.7,4,12,38.9,27,1.3,16.1,52.8,6.7,0,0,0,0,0.0,0.0,19,12.7,241,4,0,2,
+WallWe00,Wesley Walls,TE,2003,37,GNB,NFL,TE,14,1,33,20,222,11.1,1,9,39.4,36,1.4,15.9,60.6,6.7,0,0,0,0,0.0,0.0,20,11.1,222,1,0,3,

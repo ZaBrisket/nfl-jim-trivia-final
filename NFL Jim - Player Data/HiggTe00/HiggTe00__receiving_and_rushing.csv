@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HiggTe00,Tee Higgins,WR,2020,21,CIN,NFL,WR,16,14,108,67,908,13.6,6,52,55.6,67,4.2,56.8,62.0,8.4,5,28,0,1,80.0,13,5.6,1.8,0.3,72,13.0,936,6,1,7,
+HiggTe00,Tee Higgins,WR,2021,22,CIN,NFL,WR,14,14,110,74,1091,14.7,6,53,63.6,54,5.3,77.9,67.3,9.9,0,0,0,0,,,,0.0,0.0,74,14.7,1091,6,1,10,
+HiggTe00,Tee Higgins,WR,2022,23,CIN,NFL,WR,16,14,109,74,1029,13.9,7,47,59.6,59,4.6,64.3,67.9,9.4,0,0,0,0,,,,0.0,0.0,74,13.9,1029,7,0,10,
+HiggTe00,Tee Higgins,WR,2023,24,CIN,NFL,WR,12,11,76,42,656,15.6,5,33,53.9,80,3.5,54.7,55.3,8.6,0,0,0,0,,,,0.0,0.0,42,15.6,656,5,0,6,
+HiggTe00,Tee Higgins,WR,2024,25,CIN,NFL,WR,12,9,109,73,911,12.5,10,48,64.2,42,6.1,75.9,67.0,8.4,0,0,0,0,,,,0.0,0.0,73,12.5,911,10,1,8,
+HiggTe00,Tee Higgins,WR,2025,26,CIN,NFL,WR,9,9,56,32,481,15.0,6,24,55.4,44,3.6,53.4,57.1,8.6,0,0,0,0,,,,0.0,0.0,32,15.0,481,6,0,,

@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RyanMa00,Matt Ryan,QB,2012*,27,ATL,QB,2,16,16,1050,99%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2013,28,ATL,QB,2,16,16,1065,99%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2014*,29,ATL,QB,2,16,16,1064,98%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2015,30,ATL,QB,2,16,16,1115,98%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2016*+,31,ATL,QB,2,16,16,1021,98%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2017,32,ATL,QB,2,16,16,1024,100%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2018,33,ATL,QB,2,16,16,1048,99%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2019,34,ATL,QB,2,15,15,1065,98%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2020,35,ATL,QB,2,16,16,1113,99%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2021,36,ATL,QB,2,17,17,1023,97%,0,0%,0,0%
+RyanMa00,Matt Ryan,QB,2022,37,IND,QB,2,12,12,846,100%,0,0%,0,0%

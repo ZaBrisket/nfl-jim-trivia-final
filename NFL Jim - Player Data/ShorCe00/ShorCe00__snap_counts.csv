@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+ShorCe00,Cecil Shorts,WR,2012,25,JAX,WR,84,14,9,656,72%,0,0%,2,1%
+ShorCe00,Cecil Shorts,WR,2013,26,JAX,WR,84,13,13,758,89%,0,0%,3,1%
+ShorCe00,Cecil Shorts,WR,2014,27,JAX,WR,84,13,12,743,87%,0,0%,0,0%
+ShorCe00,Cecil Shorts,WR,2015,28,HOU,WR,18,11,4,565,69%,0,0%,23,7%
+ShorCe00,Cecil Shorts,WR,2016,29,TAM,WR,10,9,5,252,39%,0,0%,16,7%

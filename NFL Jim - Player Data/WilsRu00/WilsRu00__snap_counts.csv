@@ -1,0 +1,15 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WilsRu00,Russell Wilson,QB,2012*,24,SEA,QB,3,16,16,979,96%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2013*,25,SEA,QB,3,16,16,973,96%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2014*,26,SEA,QB,3,16,16,1055,100%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2015*,27,SEA,QB,3,16,16,1049,97%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2016,28,SEA,QB,3,16,16,1008,95%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2017*,29,SEA,QB,3,16,16,1062,100%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2018*,30,SEA,QB,3,16,16,1069,100%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2019*,31,SEA,QB,3,16,16,1107,100%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2020*,32,SEA,QB,3,16,16,1047,98%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2021*,33,SEA,QB,3,14,14,788,97%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2022,34,DEN,QB,3,15,15,961,97%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2023,35,DEN,QB,3,15,15,938,100%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2024*,36,PIT,QB,3,11,11,719,98%,0,0%,0,0%
+WilsRu00,Russell Wilson,QB,2025,37,NYG,QB,3,5,3,199,58%,0,0%,0,0%

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RoziMi00,Mike Rozier,RB,1985,24,HOU,NFL,FB,14,6,133,462,8,27,40.6,30,3.5,33.0,9.5,11,9,96,10.7,0,3,63.6,52,0.6,6.9,81.8,8.7,142,3.9,558,8,3,4,
+RoziMi00,Mike Rozier,RB,1986,25,HOU,NFL,RB,13,13,199,662,4,43,46.7,19,3.3,50.9,15.3,29,24,180,7.5,0,7,62.1,23,1.8,13.8,82.8,6.2,223,3.8,842,4,6,5,
+RoziMi00,Mike Rozier,RB,1987,26,HOU,NFL,RB,11,11,229,957,3,52,47.6,41,4.2,87.0,20.8,38,27,192,7.1,0,7,36.8,27,2.5,17.5,71.1,5.1,256,4.5,1149,3,5,8,PB
+RoziMi00,Mike Rozier,RB,1988,27,HOU,NFL,RB,15,14,251,1002,10,62,50.6,28,4.0,66.8,16.7,17,11,99,9.0,1,6,52.9,18,0.7,6.6,64.7,5.8,262,4.2,1101,11,7,10,PB
+RoziMi00,Mike Rozier,RB,1989,28,HOU,NFL,RB,12,10,88,301,2,17,46.6,17,3.4,25.1,7.3,7,4,28,7.0,0,1,42.9,8,0.3,2.3,57.1,4.0,92,3.6,329,2,4,2,
+RoziMi00,Mike Rozier,RB,1990,29,2TM,NFL,RB,16,5,163,717,3,43,47.9,67,4.4,44.8,10.2,20,13,105,8.1,0,5,35.0,24,0.8,6.6,65.0,5.3,176,4.7,822,3,6,6,
+RoziMi00,Mike Rozier,RB,1990,29,HOU,NFL,RB,3,0,10,42,0,3,50.0,11,4.2,14.0,3.3,7,5,46,9.2,0,3,42.9,24,1.7,15.3,71.4,6.6,15,5.9,88,0,0,1,
+RoziMi00,Mike Rozier,RB,1990,29,ATL,NFL,RB,13,5,153,675,3,40,47.7,67,4.4,51.9,11.8,13,8,59,7.4,0,2,30.8,20,0.6,4.5,61.5,4.5,161,4.6,734,3,6,5,
+RoziMi00,Mike Rozier,RB,1991,30,ATL,NFL,RB,11,0,96,361,0,15,43.8,19,3.8,32.8,8.7,3,2,15,7.5,0,0,66.7,9,0.2,1.4,66.7,5.0,98,3.8,376,0,2,3,

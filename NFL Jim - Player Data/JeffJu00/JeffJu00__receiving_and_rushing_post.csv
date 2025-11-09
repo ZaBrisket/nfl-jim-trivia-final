@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+JeffJu00,Justin Jefferson,WR,2022,23,MIN,NFL,WR,1,1,9,7,47,6.7,0,3,77.8,10,7.0,47.0,77.8,5.2,0,0,0,0,0.0,0.0,7,6.7,47,0,0,
+JeffJu00,Justin Jefferson,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JeffJu00,Justin Jefferson,WR,2024,25,MIN,NFL,WR,1,1,8,5,58,11.6,0,2,25.0,22,5.0,58.0,62.5,7.3,0,0,0,0,0.0,0.0,5,11.6,58,0,0,

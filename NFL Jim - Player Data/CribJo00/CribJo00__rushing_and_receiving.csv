@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+CribJo00,Joe Cribbs,RB,1980,22,BUF,NFL,RB,16,16,306,1185,11,64,47.1,48,3.9,74.1,19.1,74,52,415,8.0,1,23,52.7,21,3.3,25.9,70.3,5.6,358,4.5,1600,12,16,13,"PB,AP ORoY-2"
+CribJo00,Joe Cribbs,RB,1981,23,BUF,NFL,RB,15,15,257,1097,3,54,50.6,35,4.3,73.1,17.1,75,40,603,15.1,7,22,41.3,65,2.7,40.2,53.3,8.0,297,5.7,1700,10,12,13,PB
+CribJo00,Joe Cribbs,RB,1982,24,BUF,NFL,RB,7,6,134,633,3,33,48.5,62,4.7,90.4,19.1,21,13,99,7.6,0,3,28.6,31,1.9,14.1,61.9,4.7,147,5.0,732,3,5,9,
+CribJo00,Joe Cribbs,RB,1983,25,BUF,NFL,RB,16,16,263,1131,3,58,48.7,45,4.3,70.7,16.4,101,57,524,9.2,7,27,46.5,33,3.6,32.8,56.4,5.2,320,5.2,1655,10,6,11,PB
+CribJo00,Joe Cribbs,RB,1984,,Did not play - Contract dispute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CribJo00,Joe Cribbs,RB,1985,27,BUF,NFL,RB,10,5,122,399,1,19,43.4,16,3.3,39.9,12.2,33,18,142,7.9,0,4,42.4,23,1.8,14.2,54.5,4.3,140,3.9,541,1,5,3,
+CribJo00,Joe Cribbs,RB,1986,28,SFO,NFL,RB,14,10,152,590,5,34,50.0,19,3.9,42.1,10.9,55,35,346,9.9,0,19,45.5,33,2.5,24.7,63.6,6.3,187,5.0,936,5,5,7,
+CribJo00,Joe Cribbs,RB,1987,29,SFO,NFL,RB,11,3,70,300,1,20,57.1,20,4.3,27.3,6.4,11,9,70,7.8,0,4,72.7,16,0.8,6.4,81.8,6.4,79,4.7,370,1,1,5,
+CribJo00,Joe Cribbs,RB,1988,30,2TM,NFL,RB,13,0,5,21,0,2,80.0,11,4.2,1.6,0.4,0,0,0,,0,0,,,0.0,0.0,,,5,4.2,21,0,1,0,
+CribJo00,Joe Cribbs,RB,1988,30,IND,NFL,RB,1,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+CribJo00,Joe Cribbs,RB,1988,30,MIA,NFL,RB,12,0,5,21,0,2,80.0,11,4.2,1.8,0.4,0,0,0,,0,0,,,0.0,0.0,,,5,4.2,21,0,1,0,

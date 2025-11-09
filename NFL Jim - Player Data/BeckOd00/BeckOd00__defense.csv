@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+BeckOd00,Odell Beckham Jr.,WR,2014,22,NYG,NFL,WR,12,11,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,"PB,AP ORoY-1"
+BeckOd00,Odell Beckham Jr.,WR,2015,23,NYG,NFL,WR,15,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+BeckOd00,Odell Beckham Jr.,WR,2016,24,NYG,NFL,WR,16,16,0,0,0,0,1,0,3,1,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+BeckOd00,Odell Beckham Jr.,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+BeckOd00,Odell Beckham Jr.,WR,2018,26,NYG,NFL,WR,12,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,
+BeckOd00,Odell Beckham Jr.,WR,2019,27,CLE,NFL,WR,16,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,
+BeckOd00,Odell Beckham Jr.,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+BeckOd00,Odell Beckham Jr.,WR,2021,29,2TM,NFL,WR,14,13,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,
+BeckOd00,Odell Beckham Jr.,WR,2021,29,LAR,NFL,WR,8,7,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,
+BeckOd00,Odell Beckham Jr.,WR,2022,,Did not play - Did not sign,,,,,,,,,,,,,,,,,,,,,,
+BeckOd00,Odell Beckham Jr.,WR,2023,31,BAL,NFL,WR,14,6,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

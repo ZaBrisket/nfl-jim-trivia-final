@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+StewJo00,Jonathan Stewart,RB,2008,21,CAR,NFL,RB,1,0,3,12,1,1,33.3,9,4.0,12.0,3.0,3,3,39,13.0,0,2,100.0,18,3.0,39.0,100.0,13.0,6,8.5,51,1,0,
+StewJo00,Jonathan Stewart,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StewJo00,Jonathan Stewart,RB,2014,27,CAR,NFL,RB,2,2,37,193,1,9,37.8,35,5.2,96.5,18.5,2,2,1,0.5,0,0,50.0,4,1.0,0.5,100.0,0.5,39,5.0,194,1,1,
+StewJo00,Jonathan Stewart,RB,2015,28,CAR,NFL,RB,3,3,50,218,3,10,44.0,59,4.4,72.7,16.7,5,4,9,2.3,0,0,20.0,5,1.3,3.0,80.0,1.8,54,4.2,227,3,0,
+StewJo00,Jonathan Stewart,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StewJo00,Jonathan Stewart,RB,2017,30,CAR,NFL,RB,1,1,11,51,0,2,27.3,29,4.6,51.0,11.0,0,0,0,,0,0,,,0.0,0.0,,,11,4.6,51,0,0,

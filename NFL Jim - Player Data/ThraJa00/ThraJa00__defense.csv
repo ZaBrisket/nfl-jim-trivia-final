@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+ThraJa00,James Thrash,WR,1999,24,WAS,NFL,WR,16,0,0,0,0,0,0,1,0,0,0,0,0.0,14,13,1,0,,0,
+ThraJa00,James Thrash,WR,2000,25,WAS,NFL,WR,16,9,0,0,0,0,0,0,1,1,0,0,0.0,3,3,0,0,,0,
+ThraJa00,James Thrash,WR,2001,26,PHI,NFL,WR,15,15,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,,0,
+ThraJa00,James Thrash,WR,2002,27,PHI,NFL,WR,16,16,0,0,0,0,0,0,1,1,2,0,0.0,0,0,0,0,,0,
+ThraJa00,James Thrash,WR,2003,28,PHI,NFL,WR,16,16,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,,0,
+ThraJa00,James Thrash,WR,2004,29,WAS,NFL,WR,16,3,0,0,0,0,0,0,0,0,0,0,0.0,21,18,3,0,,0,
+ThraJa00,James Thrash,WR,2005,30,WAS,NFL,WR,12,2,0,0,0,0,0,0,1,0,0,0,0.0,10,8,2,0,,0,
+ThraJa00,James Thrash,WR,2006,31,WAS,NFL,WR,16,0,0,0,0,0,0,0,0,0,0,0,0.0,10,6,4,0,0,0,
+ThraJa00,James Thrash,WR,2007,32,WAS,NFL,WR,12,4,0,0,0,0,0,0,1,0,0,0,0.0,7,5,2,0,0,0,
+ThraJa00,James Thrash,WR,2008,33,WAS,NFL,WR,16,5,0,0,0,0,0,0,0,0,0,0,0.0,11,9,2,0,0,0,

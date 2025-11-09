@@ -1,0 +1,16 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+EllaHe00,Henry Ellard,WR,1983,22,RAM,NFL,WR,12,0,0,0,1,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+EllaHe00,Henry Ellard,WR,1984,23,RAM,NFL,WR,16,16,0,6,2,0,0,0,0,8,,0,0,0,0,0,48,3.0,"PB,AP-1"
+EllaHe00,Henry Ellard,WR,1985,24,RAM,NFL,WR,16,16,0,5,1,0,0,0,0,6,,0,0,0,0,0,36,2.3,
+EllaHe00,Henry Ellard,WR,1986,25,RAM,NFL,WR,9,8,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,2.7,
+EllaHe00,Henry Ellard,WR,1987,26,RAM,NFL,WR,12,12,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.5,
+EllaHe00,Henry Ellard,WR,1988,27,RAM,NFL,WR,16,15,0,10,0,0,0,0,0,10,,0,0,0,0,0,60,3.8,"PB,AP-1"
+EllaHe00,Henry Ellard,WR,1989,28,RAM,NFL,WR,14,12,0,8,0,0,0,0,0,8,,0,0,0,0,0,48,3.4,PB
+EllaHe00,Henry Ellard,WR,1990,29,RAM,NFL,WR,15,15,0,4,0,0,0,0,0,4,,0,0,0,0,0,24,1.6,
+EllaHe00,Henry Ellard,WR,1991,30,RAM,NFL,WR,16,16,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+EllaHe00,Henry Ellard,WR,1992,31,RAM,NFL,WR,16,15,0,3,0,0,0,0,0,3,,0,0,0,0,0,18,1.1,
+EllaHe00,Henry Ellard,WR,1993,32,RAM,NFL,WR,16,16,0,2,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+EllaHe00,Henry Ellard,WR,1994,33,WAS,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+EllaHe00,Henry Ellard,WR,1995,34,WAS,NFL,WR,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,30,2.0,
+EllaHe00,Henry Ellard,WR,1996,35,WAS,NFL,WR,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+EllaHe00,Henry Ellard,WR,1997,36,WAS,NFL,WR,16,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,24,1.5,

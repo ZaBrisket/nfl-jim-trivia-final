@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WhitDa01,Danny White,QB,1980,28,DAL,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+WhitDa01,Danny White,QB,,,,,,,,,,,,,,,,,,,,,,,
+WhitDa01,Danny White,QB,1983,31,DAL,NFL,QB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,30,1.9,
+WhitDa01,Danny White,QB,,,,,,,,,,,,,,,,,,,,,,,
+WhitDa01,Danny White,QB,1985,33,DAL,NFL,QB,14,14,1,1,0,0,0,0,0,2,0,0,0,0,0,12,0.9,
+WhitDa01,Danny White,QB,1986,34,DAL,NFL,QB,7,6,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.9,
+WhitDa01,Danny White,QB,1987,35,DAL,NFL,QB,11,9,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.5,

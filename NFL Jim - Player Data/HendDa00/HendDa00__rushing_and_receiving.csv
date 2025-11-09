@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+HendDa00,Darrell Henderson,RB,2019,22,LAR,NFL,RB,13,0,39,147,0,10,41.0,22,3.8,11.3,3.0,6,4,37,9.3,0,1,66.7,14,0.3,2.8,66.7,6.2,43,4.3,184,0,0,1,
+HendDa00,Darrell Henderson,RB,2020,23,LAR,NFL,RB,15,11,138,624,5,40,53.6,40,4.5,41.6,9.2,24,16,159,9.9,1,8,41.7,28,1.1,10.6,66.7,6.6,154,5.1,783,6,0,4,
+HendDa00,Darrell Henderson,RB,2021,24,LAR,NFL,RB,12,10,149,688,5,39,57.0,29,4.6,57.3,12.4,40,29,176,6.1,3,8,40.0,25,2.4,14.7,72.5,4.4,178,4.9,864,8,0,6,
+HendDa00,Darrell Henderson,RB,2022,25,LAR,NFL,RB,10,7,70,283,3,14,42.9,23,4.0,28.3,7.0,22,17,102,6.0,0,5,50.0,15,1.7,10.2,77.3,4.6,87,4.4,385,3,0,3,
+HendDa00,Darrell Henderson,RB,2023,26,LAR,NFL,RB,4,4,46,112,2,5,37.0,16,2.4,28.0,11.5,14,10,103,10.3,0,3,28.6,32,2.5,25.8,71.4,7.4,56,3.8,215,2,0,2,

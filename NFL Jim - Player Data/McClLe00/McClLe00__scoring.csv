@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+McClLe00,Le'Ron McClain,RB,2007,23,BAL,NFL,FB,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+McClLe00,Le'Ron McClain,RB,2008,24,BAL,NFL,FB,16,16,10,1,0,0,0,0,0,11,0,0,0,0,0,0,66,4.1,"PB,AP-1"
+McClLe00,Le'Ron McClain,RB,2009,25,BAL,NFL,FB,16,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,"PB,AP-2"
+McClLe00,Le'Ron McClain,RB,,,,,,,,,,,,,,,,,,,,,,,,
+McClLe00,Le'Ron McClain,RB,2011,27,KAN,NFL,FB,16,10,1,1,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,

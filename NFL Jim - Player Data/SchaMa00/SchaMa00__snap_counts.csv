@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SchaMa00,Matt Schaub,QB,2012*,31,HOU,QB,8,16,16,1104,98%,0,0%,0,0%
+SchaMa00,Matt Schaub,QB,2013,32,HOU,QB,8,10,8,610,82%,0,0%,0,0%
+SchaMa00,Matt Schaub,QB,2014,33,OAK,QB,8,11,0,19,3%,0,0%,37,10%
+SchaMa00,Matt Schaub,QB,2015,34,BAL,QB,8,2,2,137,100%,0,0%,0,0%
+SchaMa00,Matt Schaub,QB,2016,35,ATL,QB,8,4,0,21,8%,0,0%,6,5%
+SchaMa00,Matt Schaub,QB,2018,37,ATL,QB,8,3,0,12,6%,0,0%,0,0%
+SchaMa00,Matt Schaub,QB,2019,38,ATL,QB,8,6,1,99,24%,0,0%,9,5%
+SchaMa00,Matt Schaub,QB,2020,39,ATL,QB,8,1,0,9,12%,0,0%,0,0%

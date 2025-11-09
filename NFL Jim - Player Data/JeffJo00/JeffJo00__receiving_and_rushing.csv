@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JeffJo00,John Jefferson,WR,1978,22,SDG,NFL,WR,14,14,93,56,1001,17.9,13,47,54.8,46,4.0,71.5,60.2,10.8,1,7,0,0,100.0,7,7.0,0.5,0.1,57,17.7,1008,13,0,11,"PB,AP-2,AP ORoY-2"
+JeffJo00,John Jefferson,WR,1979,23,SDG,NFL,WR,15,15,112,61,1090,17.9,10,41,50.0,65,4.1,72.7,54.5,9.7,0,0,0,0,,,,0.0,0.0,61,17.9,1090,10,0,12,"PB,AP-1"
+JeffJo00,John Jefferson,WR,1980,24,SDG,NFL,WR,16,16,153,82,1340,16.3,13,73,51.0,58,5.1,83.8,53.6,8.8,1,16,0,1,100.0,16,16.0,1.0,0.1,83,16.3,1356,13,0,14,"PB,AP-1,AP OPoY-4"
+JeffJo00,John Jefferson,WR,1981,25,GNB,NFL,WR,13,13,70,39,632,16.2,4,30,50.0,41,3.0,48.6,55.7,9.0,2,22,0,2,100.0,15,11.0,1.7,0.2,41,16.0,654,4,0,6,
+JeffJo00,John Jefferson,WR,1982,26,GNB,NFL,WR,8,8,61,27,452,16.7,0,22,39.3,50,3.4,56.5,44.3,7.4,2,16,0,1,100.0,11,8.0,2.0,0.3,29,16.1,468,0,0,9,PB
+JeffJo00,John Jefferson,WR,1983,27,GNB,NFL,WR,16,16,99,57,830,14.6,7,43,54.5,36,3.6,51.9,57.6,8.4,0,0,0,0,,,,0.0,0.0,57,14.6,830,7,1,7,
+JeffJo00,John Jefferson,WR,1984,28,GNB,NFL,WR,13,12,57,26,339,13.0,0,15,38.6,33,2.0,26.1,45.6,5.9,0,0,0,0,,,,0.0,0.0,26,13.0,339,0,0,3,
+JeffJo00,John Jefferson,WR,1985,29,CLE,NFL,WR,7,2,11,3,30,10.0,0,2,27.3,17,0.4,4.3,27.3,2.7,0,0,0,0,,,,0.0,0.0,3,10.0,30,0,0,0,

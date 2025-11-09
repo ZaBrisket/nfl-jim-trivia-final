@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WilsWa00,Wade Wilson,QB,1986,27,MIN,NFL,QB,9,3,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.7,
+WilsWa00,Wade Wilson,QB,1987,28,MIN,NFL,QB,12,7,5,0,0,0,0,0,0,5,0,0,0,0,0,30,2.5,
+WilsWa00,Wade Wilson,QB,1988,29,MIN,NFL,QB,14,10,2,0,0,0,0,0,0,2,0,0,0,0,0,12,0.9,PB
+WilsWa00,Wade Wilson,QB,1989,30,MIN,NFL,QB,14,12,1,0,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

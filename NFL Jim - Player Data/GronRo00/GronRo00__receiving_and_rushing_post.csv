@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+GronRo00,Rob Gronkowski,TE,2010,21,NWE,NFL,TE,1,1,6,4,65,16.3,0,3,66.7,37,4.0,65.0,66.7,10.8,0,0,0,0,0.0,0.0,4,16.3,65,0,0,
+GronRo00,Rob Gronkowski,TE,2011,22,NWE,NFL,TE,3,3,23,17,258,15.2,3,15,73.9,28,5.7,86.0,73.9,11.2,0,0,0,0,0.0,0.0,17,15.2,258,3,0,
+GronRo00,Rob Gronkowski,TE,2012,23,NWE,NFL,TE,1,1,1,0,0,,0,0,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0,,0,0,0,
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2014,25,NWE,NFL,TE,3,3,31,16,204,12.8,3,12,41.9,46,5.3,68.0,51.6,6.6,0,0,0,0,0.0,0.0,16,12.8,204,3,0,
+GronRo00,Rob Gronkowski,TE,2015,26,NWE,NFL,TE,2,2,23,15,227,15.1,3,10,52.2,40,7.5,113.5,65.2,9.9,0,0,0,0,0.0,0.0,15,15.1,227,3,0,
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2017,28,NWE,NFL,TE,3,3,27,16,218,13.6,3,15,59.3,27,5.3,72.7,59.3,8.1,0,0,0,0,0.0,0.0,16,13.6,218,3,0,
+GronRo00,Rob Gronkowski,TE,2018,29,NWE,NFL,TE,3,3,19,13,191,14.7,0,8,63.2,29,4.3,63.7,68.4,10.1,0,0,0,0,0.0,0.0,13,14.7,191,0,0,
+GronRo00,Rob Gronkowski,TE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GronRo00,Rob Gronkowski,TE,2020,31,TAM,NFL,TE,4,4,14,8,110,13.8,2,6,50.0,29,2.0,27.5,57.1,7.9,0,0,0,0,0.0,0.0,8,13.8,110,2,0,
+GronRo00,Rob Gronkowski,TE,2021,32,TAM,NFL,TE,2,2,17,9,116,12.9,1,5,47.1,42,4.5,58.0,52.9,6.8,0,0,0,0,0.0,0.0,9,12.9,116,1,0,

@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+DunnWa00,Warrick Dunn,RB,1997,22,TAM,NFL,RB,16,10,5,48,0,25,9.6,6,129,0,30,21.5,1617,"PB,AP ORoY-1"
+DunnWa00,Warrick Dunn,RB,1998,23,TAM,NFL,RB,16,14,0,0,0,0,,1,25,0,25,25.0,1395,
+DunnWa00,Warrick Dunn,RB,1999,24,TAM,NFL,RB,15,15,0,0,0,0,,8,156,0,34,19.5,1361,

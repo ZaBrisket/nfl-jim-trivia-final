@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+BurkCh00,Chris Burkett,WR,1986,24,BUF,NFL,WR,14,10,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.7,
+BurkCh00,Chris Burkett,WR,1987,25,BUF,NFL,WR,12,12,0,4,0,0,0,0,0,4,0,0,0,0,0,24,2.0,
+BurkCh00,Chris Burkett,WR,1988,26,BUF,NFL,WR,11,8,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+BurkCh00,Chris Burkett,WR,1989,27,2TM,NFL,WR,15,5,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+BurkCh00,Chris Burkett,WR,1989,27,NYJ,NFL,WR,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.5,
+BurkCh00,Chris Burkett,WR,,,,,,,,,,,,,,,,,,,,,,,
+BurkCh00,Chris Burkett,WR,1991,29,NYJ,NFL,WR,15,1,0,4,0,0,0,0,1,5,0,0,0,0,0,30,2.0,
+BurkCh00,Chris Burkett,WR,1992,30,NYJ,NFL,WR,16,5,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,
+BurkCh00,Chris Burkett,WR,1993,31,NYJ,NFL,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,24,1.5,

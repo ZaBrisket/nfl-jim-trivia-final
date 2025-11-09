@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+CookJa01,James Cook,RB,2022,23,BUF,NFL,RB,16,0,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,
+CookJa01,James Cook,RB,2023,24,BUF,NFL,RB,17,13,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,PB
+CookJa01,James Cook,RB,2024,25,BUF,NFL,RB,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,PB
+CookJa01,James Cook,RB,2025,26,BUF,NFL,RB,8,8,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

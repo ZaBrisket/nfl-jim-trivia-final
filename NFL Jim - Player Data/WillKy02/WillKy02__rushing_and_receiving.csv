@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+WillKy02,Kyren Williams,RB,2022,22,LAR,NFL,RB,10,0,35,139,0,6,42.9,17,4.0,13.9,3.5,12,9,76,8.4,0,5,58.3,15,0.9,7.6,75.0,6.3,44,4.9,215,0,0,2,
+WillKy02,Kyren Williams,RB,2023,23,LAR,NFL,RB,12,11,228,1144,12,62,59.6,56,5.0,95.3,19.0,48,32,206,6.4,3,9,43.8,24,2.7,17.2,66.7,4.3,260,5.2,1350,15,3,10,"PB,AP-2"
+WillKy02,Kyren Williams,RB,2024,24,LAR,NFL,RB,16,16,316,1299,14,85,50.9,30,4.1,81.2,19.8,40,34,182,5.4,2,6,45.0,26,2.1,11.4,85.0,4.6,350,4.2,1481,16,5,9,AP OPoY-11
+WillKy02,Kyren Williams,RB,2025,25,LAR,NFL,RB,8,8,132,586,3,38,62.1,20,4.4,73.3,16.5,26,20,166,8.3,3,8,46.2,30,2.5,20.8,76.9,6.4,152,4.9,752,6,2,,

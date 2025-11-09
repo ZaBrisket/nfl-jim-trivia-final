@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MandPe00,Pete Mandley,WR,1984,23,DET,NFL,WR,15,0,9,3,38,12.7,0,1,22.2,19,0.2,2.5,33.3,4.2,0,0,0,0,,,,0.0,0.0,3,12.7,38,0,2,0,
+MandPe00,Pete Mandley,WR,1985,24,DET,NFL,WR,16,0,31,18,316,17.6,0,12,41.9,37,1.1,19.8,58.1,10.2,0,0,0,0,,,,0.0,0.0,18,17.6,316,0,3,4,
+MandPe00,Pete Mandley,WR,1986,25,DET,NFL,WR,16,0,14,7,106,15.1,0,3,28.6,51,0.4,6.6,50.0,7.6,0,0,0,0,,,,0.0,0.0,7,15.1,106,0,3,2,
+MandPe00,Pete Mandley,WR,1987,26,DET,NFL,WR,12,12,103,58,720,12.4,7,40,48.5,41,4.8,60.0,56.3,7.0,1,3,0,0,0.0,3,3.0,0.3,0.1,59,12.3,723,7,0,6,
+MandPe00,Pete Mandley,WR,1988,27,DET,NFL,WR,15,14,92,44,617,14.0,4,34,41.3,56,2.9,41.1,47.8,6.7,6,44,1,3,50.0,21,7.3,2.9,0.4,50,13.2,661,5,3,5,
+MandPe00,Pete Mandley,WR,1989,28,KAN,NFL,WR,13,12,59,35,476,13.6,1,30,52.5,44,2.7,36.6,59.3,8.1,2,1,0,0,50.0,8,0.5,0.1,0.2,37,12.9,477,1,1,5,
+MandPe00,Pete Mandley,WR,1990,29,KAN,NFL,WR,5,2,17,7,97,13.9,0,5,29.4,24,1.4,19.4,41.2,5.7,0,0,0,0,,,,0.0,0.0,7,13.9,97,0,1,1,

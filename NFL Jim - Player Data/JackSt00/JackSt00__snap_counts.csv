@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+JackSt00,Steven Jackson,RB,2012,29,STL,RB,39,16,16,707,68%,0,0%,0,0%
+JackSt00,Steven Jackson,RB,2013,30,ATL,RB,39,12,12,417,52%,0,0%,0,0%
+JackSt00,Steven Jackson,RB,2014,31,ATL,RB,39,15,15,420,42%,0,0%,2,1%
+JackSt00,Steven Jackson,RB,2015,32,NWE,RB,39,2,1,33,28%,0,0%,0,0%

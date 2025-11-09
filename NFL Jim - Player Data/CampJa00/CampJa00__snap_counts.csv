@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+CampJa00,Jason Campbell,QB,2012,31,CHI,QB,2,6,1,126,31%,0,0%,0,0%
+CampJa00,Jason Campbell,QB,2013,32,CLE,QB,17,9,8,502,83%,0,0%,0,0%
+CampJa00,Jason Campbell,QB,2014,33,CIN,QB,17,4,0,31,13%,0,0%,0,0%

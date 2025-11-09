@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ClayCh00,Charles Clay,TE,2011,22,MIA,NFL,FB,14,9,25,16,233,14.6,3,12,48.0,46,1.1,16.6,64.0,9.3,0,0,0,0,,,,0.0,0.0,16,14.6,233,3,0,2,
+ClayCh00,Charles Clay,TE,2012,23,MIA,NFL,FB,14,9,33,18,212,11.8,2,8,39.4,31,1.3,15.1,54.5,6.4,0,0,0,0,,,,0.0,0.0,18,11.8,212,2,0,2,
+ClayCh00,Charles Clay,TE,2013,24,MIA,NFL,TE,16,15,102,69,759,11.0,6,36,56.9,67,4.3,47.4,67.6,7.4,7,15,1,2,28.6,13,2.1,0.9,0.4,76,10.2,774,7,0,6,
+ClayCh00,Charles Clay,TE,2014,25,MIA,NFL,TE,14,14,84,58,605,10.4,3,31,50.0,41,4.1,43.2,69.0,7.2,0,0,0,0,,,,0.0,0.0,58,10.4,605,3,0,5,
+ClayCh00,Charles Clay,TE,2015,26,BUF,NFL,TE,13,13,77,51,528,10.4,3,26,46.8,40,3.9,40.6,66.2,6.9,0,0,0,0,,,,0.0,0.0,51,10.4,528,3,1,5,
+ClayCh00,Charles Clay,TE,2016,27,BUF,NFL,TE,15,15,87,57,552,9.7,4,22,47.1,40,3.8,36.8,65.5,6.3,0,0,0,0,,,,0.0,0.0,57,9.7,552,4,0,6,
+ClayCh00,Charles Clay,TE,2017,28,BUF,NFL,TE,13,13,74,49,558,11.4,2,29,52.7,44,3.8,42.9,66.2,7.5,0,0,0,0,,,,0.0,0.0,49,11.4,558,2,1,5,
+ClayCh00,Charles Clay,TE,2018,29,BUF,NFL,TE,13,12,36,21,184,8.8,0,11,41.7,21,1.6,14.2,58.3,5.1,0,0,0,0,,,,0.0,0.0,21,8.8,184,0,1,1,
+ClayCh00,Charles Clay,TE,2019,30,ARI,NFL,TE,15,10,24,18,237,13.2,1,12,54.2,47,1.2,15.8,75.0,9.9,0,0,0,0,,,,0.0,0.0,18,13.2,237,1,0,2,

@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+NelsJJ00,JJ Nelson,WR,2015,23,ARI,NFL,WR,11,2,27,11,299,27.2,2,11,40.7,64,1.0,27.2,40.7,11.1,1,0,0,0,0.0,,0.0,0.0,0.1,12,24.9,299,2,1,3,
+NelsJJ00,JJ Nelson,WR,2016,24,ARI,NFL,WR,15,6,74,34,568,16.7,6,26,44.6,80,2.3,37.9,45.9,7.7,4,83,1,3,75.0,56,20.8,5.5,0.3,38,17.1,651,7,1,5,
+NelsJJ00,JJ Nelson,WR,2017,25,ARI,NFL,WR,16,5,61,29,508,17.5,2,21,41.0,46,1.8,31.8,47.5,8.3,3,37,0,2,100.0,16,12.3,2.3,0.2,32,17.0,545,2,1,4,
+NelsJJ00,JJ Nelson,WR,2018,26,ARI,NFL,WR,14,2,19,7,64,9.1,0,4,26.3,17,0.5,4.6,36.8,3.4,4,0,0,0,50.0,,0.0,0.0,0.3,11,5.8,64,0,0,0,
+NelsJJ00,JJ Nelson,WR,2019,27,OAK,NFL,WR,2,1,5,4,36,9.0,1,1,40.0,29,2.0,18.0,80.0,7.2,0,0,0,0,,,,0.0,0.0,4,9.0,36,1,0,0,

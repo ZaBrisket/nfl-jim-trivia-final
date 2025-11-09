@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FrieJo00,John Friesz,QB,1991,24,SDG,NFL,QB,16,16,79,86,86,90,88,83,108,107,87,
+FrieJo00,John Friesz,QB,,,,,,,,,,,,,,,,,
+FrieJo00,John Friesz,QB,1993,26,SDG,NFL,QB,12,6,83,88,95,97,88,84,126,108,95,
+FrieJo00,John Friesz,QB,1994,27,WAS,NFL,QB,16,4,106,113,97,102,101,122,71,120,99,
+FrieJo00,John Friesz,QB,1995,28,SEA,NFL,QB,6,3,97,110,106,114,84,114,111,125,103,
+FrieJo00,John Friesz,QB,1996,29,SEA,NFL,QB,8,6,125,127,123,125,98,98,120,108,112,

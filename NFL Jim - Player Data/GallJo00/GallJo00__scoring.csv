@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GallJo00,Joey Galloway,WR,1995,24,SEA,NFL,WR,16,16,1,7,1,0,0,0,0,9,0,0,0,0,0,0,54,3.4,AP ORoY-3
+GallJo00,Joey Galloway,WR,1996,25,SEA,NFL,WR,16,16,0,7,1,0,0,0,0,8,0,0,0,0,0,0,48,3.0,
+GallJo00,Joey Galloway,WR,1997,26,SEA,NFL,WR,15,15,0,12,0,0,0,0,0,12,0,0,0,0,0,0,72,4.8,
+GallJo00,Joey Galloway,WR,1998,27,SEA,NFL,WR,16,16,0,10,2,0,0,0,0,12,0,0,0,0,0,0,72,4.5,
+GallJo00,Joey Galloway,WR,1999,28,SEA,NFL,WR,8,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.8,
+GallJo00,Joey Galloway,WR,2000,29,DAL,NFL,WR,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,6.0,
+GallJo00,Joey Galloway,WR,2001,30,DAL,NFL,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+GallJo00,Joey Galloway,WR,2002,31,DAL,NFL,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+GallJo00,Joey Galloway,WR,2003,32,DAL,NFL,WR,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,12,0.8,
+GallJo00,Joey Galloway,WR,2004,33,TAM,NFL,WR,10,7,0,5,1,0,0,0,0,6,0,0,0,0,0,0,36,3.6,
+GallJo00,Joey Galloway,WR,2005,34,TAM,NFL,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,60,3.8,AP CPoY-5
+GallJo00,Joey Galloway,WR,2006,35,TAM,NFL,WR,16,14,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+GallJo00,Joey Galloway,WR,2007,36,TAM,NFL,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,36,2.4,

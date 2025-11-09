@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+RichTo00,Tony Richardson,FB,1996,25,KAN,NFL,FB,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+RichTo00,Tony Richardson,FB,1997,26,KAN,NFL,FB,14,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+RichTo00,Tony Richardson,FB,1998,27,KAN,NFL,FB,14,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+RichTo00,Tony Richardson,FB,1999,28,KAN,NFL,FB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+RichTo00,Tony Richardson,FB,2000,29,KAN,NFL,FB,16,16,3,3,0,0,0,0,0,6,0,0,0,0,0,0,36,2.3,
+RichTo00,Tony Richardson,FB,2001,30,KAN,NFL,FB,14,8,7,0,0,0,0,0,0,7,0,0,0,0,0,0,42,3.0,
+RichTo00,Tony Richardson,FB,2002,31,KAN,NFL,FB,14,12,2,1,0,0,0,0,0,3,0,0,0,0,0,0,18,1.3,
+RichTo00,Tony Richardson,FB,,,,,,,,,,,,,,,,,,,,,,,,
+RichTo00,Tony Richardson,FB,2005,34,KAN,NFL,FB,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,

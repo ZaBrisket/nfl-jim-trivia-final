@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GreeWi00,Willie Green,WR,1991,25,DET,NFL,WR,16,15,89,39,592,15.2,7,27,40.4,73,2.4,37.0,43.8,6.7,0,0,0,0,,,,0.0,0.0,39,15.2,592,7,0,6,
+GreeWi00,Willie Green,WR,1992,26,DET,NFL,WR,15,13,80,33,586,17.8,5,24,37.5,73,2.2,39.1,41.3,7.3,0,0,0,0,,,,0.0,0.0,33,17.8,586,5,1,5,
+GreeWi00,Willie Green,WR,1993,27,DET,NFL,WR,16,6,57,28,462,16.5,2,23,43.9,47,1.8,28.9,49.1,8.1,0,0,0,0,,,,0.0,0.0,28,16.5,462,2,0,5,
+GreeWi00,Willie Green,WR,1994,28,TAM,NFL,WR,5,0,11,9,150,16.7,0,8,81.8,28,1.8,30.0,81.8,13.6,0,0,0,0,,,,0.0,0.0,9,16.7,150,0,0,1,
+GreeWi00,Willie Green,WR,1995,29,CAR,NFL,WR,16,7,94,47,882,18.8,6,38,44.7,89,2.9,55.1,50.0,9.4,0,0,0,0,,,,0.0,0.0,47,18.8,882,6,1,6,
+GreeWi00,Willie Green,WR,1996,30,CAR,NFL,WR,15,10,75,46,614,13.3,3,33,56.0,50,3.1,40.9,61.3,8.2,1,1,0,0,0.0,1,1.0,0.1,0.1,47,13.1,615,3,0,7,
+GreeWi00,Willie Green,WR,1997,31,DEN,NFL,WR,16,1,43,19,240,12.6,2,12,32.6,31,1.2,15.0,44.2,5.6,0,0,0,0,,,,0.0,0.0,19,12.6,240,2,0,3,
+GreeWi00,Willie Green,WR,1998,32,DEN,NFL,WR,15,1,25,16,194,12.1,1,8,40.0,50,1.1,12.9,64.0,7.8,0,0,0,0,,,,0.0,0.0,16,12.1,194,1,0,3,

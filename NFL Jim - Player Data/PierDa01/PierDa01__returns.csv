@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+PierDa01,Dameon Pierce,RB,2023,23,HOU,NFL,RB,14,7,0,0,0,0,7,225,1,98,32.1,742,
+PierDa01,Dameon Pierce,RB,2024,24,HOU,NFL,RB,11,0,0,0,0,0,9,339,0,80,37.7,634,
+PierDa01,Dameon Pierce,RB,2025,25,HOU,NFL,RB,3,0,0,0,0,0,3,70,0,26,23.3,96,

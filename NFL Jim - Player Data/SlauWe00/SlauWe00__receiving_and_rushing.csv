@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+SlauWe00,Webster Slaughter,WR,1986,22,CLE,NFL,WR,16,16,82,40,577,14.4,4,19,34.1,47,2.5,36.1,48.8,7.0,1,1,0,1,0.0,1,1.0,0.1,0.1,41,14.1,578,4,1,5,
+SlauWe00,Webster Slaughter,WR,1987,23,CLE,NFL,WR,12,12,86,47,806,17.1,7,35,52.3,54,3.9,67.2,54.7,9.4,0,0,0,0,,,,0.0,0.0,47,17.1,806,7,1,10,
+SlauWe00,Webster Slaughter,WR,1988,24,CLE,NFL,WR,8,8,67,30,462,15.4,3,26,41.8,41,3.8,57.8,44.8,6.9,0,0,0,0,,,,0.0,0.0,30,15.4,462,3,1,4,
+SlauWe00,Webster Slaughter,WR,1989,25,CLE,NFL,WR,16,16,122,65,1236,19.0,6,46,49.2,97,4.1,77.3,53.3,10.1,0,0,0,0,,,,0.0,0.0,65,19.0,1236,6,2,10,"PB,AP-2"
+SlauWe00,Webster Slaughter,WR,1990,26,CLE,NFL,WR,16,16,135,59,847,14.4,4,41,41.5,50,3.7,52.9,43.7,6.3,5,29,0,2,60.0,17,5.8,1.8,0.3,64,13.7,876,4,2,6,
+SlauWe00,Webster Slaughter,WR,1991,27,CLE,NFL,WR,16,16,109,64,906,14.2,3,45,53.2,62,4.0,56.6,58.7,8.3,0,0,0,0,,,,0.0,0.0,64,14.2,906,3,1,9,
+SlauWe00,Webster Slaughter,WR,1992,28,HOU,NFL,WR,12,9,61,39,486,12.5,4,23,54.1,36,3.3,40.5,63.9,8.0,3,20,0,1,66.7,10,6.7,1.7,0.3,42,12.0,506,4,3,5,
+SlauWe00,Webster Slaughter,WR,1993,29,HOU,NFL,WR,14,14,122,77,904,11.7,5,47,55.7,41,5.5,64.6,63.1,7.4,0,0,0,0,,,,0.0,0.0,77,11.7,904,5,4,8,PB
+SlauWe00,Webster Slaughter,WR,1994,30,HOU,NFL,WR,16,12,127,68,846,12.4,2,46,44.9,57,4.3,52.9,53.5,6.7,0,0,0,0,,,,0.0,0.0,68,12.4,846,2,2,5,
+SlauWe00,Webster Slaughter,WR,1995,31,KAN,NFL,WR,16,7,75,34,514,15.1,4,28,42.7,38,2.1,32.1,45.3,6.9,0,0,0,0,,,,0.0,0.0,34,15.1,514,4,0,5,
+SlauWe00,Webster Slaughter,WR,1996,32,NYJ,NFL,WR,10,1,60,32,434,13.6,2,20,46.7,53,3.2,43.4,53.3,7.2,0,0,0,0,,,,0.0,0.0,32,13.6,434,2,0,3,
+SlauWe00,Webster Slaughter,WR,1997,,Did not play - Retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SlauWe00,Webster Slaughter,WR,1998,34,SDG,NFL,WR,10,0,24,8,93,11.6,0,6,25.0,31,0.8,9.3,33.3,3.9,0,0,0,0,,,,0.0,0.0,8,11.6,93,0,0,1,

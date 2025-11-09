@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+SmitJu00,JuJu Smith-Schuster,WR,2017,21,PIT,WR,19,14,7,704,75%,0,0%,51,14%
+SmitJu00,JuJu Smith-Schuster,WR,2018*,22,PIT,WR,19,16,13,960,86%,0,0%,2,0%
+SmitJu00,JuJu Smith-Schuster,WR,2019,23,PIT,WR,19,12,12,573,76%,0,0%,2,1%
+SmitJu00,JuJu Smith-Schuster,WR,2020,24,PIT,WR,19,16,14,923,84%,0,0%,3,1%
+SmitJu00,JuJu Smith-Schuster,WR,2021,25,PIT,WR,19,5,5,222,69%,0,0%,1,1%
+SmitJu00,JuJu Smith-Schuster,WR,2022,26,KAN,WR,9,16,14,765,71%,0,0%,0,0%
+SmitJu00,JuJu Smith-Schuster,WR,2023,27,NWE,WR,7,11,7,461,65%,0,0%,1,0%
+SmitJu00,JuJu Smith-Schuster,WR,2024,28,KAN,WR,9,14,8,424,46%,0,0%,0,0%
+SmitJu00,JuJu Smith-Schuster,WR,2025,29,KAN,WR,9,9,5,347,58%,0,0%,0,0%

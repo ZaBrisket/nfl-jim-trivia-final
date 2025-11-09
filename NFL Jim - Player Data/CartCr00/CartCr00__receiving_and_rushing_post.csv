@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+CartCr00,Cris Carter,WR,1988,23,PHI,NFL,WR,1,1,7,1,17,17.0,0,1,14.3,17,1.0,17.0,14.3,2.4,0,0,0,0,0.0,0.0,1,17.0,17,0,0,
+CartCr00,Cris Carter,WR,1989,24,PHI,NFL,WR,1,1,2,2,16,8.0,0,1,100.0,11,2.0,16.0,100.0,8.0,0,0,0,0,0.0,0.0,2,8.0,16,0,0,
+CartCr00,Cris Carter,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CartCr00,Cris Carter,WR,1992,27,MIN,NFL,WR,1,1,10,3,77,25.7,0,3,30.0,42,3.0,77.0,30.0,7.7,0,0,0,0,0.0,0.0,3,25.7,77,0,0,
+CartCr00,Cris Carter,WR,1993,28,MIN,NFL,WR,1,1,6,4,83,20.8,1,1,33.3,40,4.0,83.0,66.7,13.8,0,0,0,0,0.0,0.0,4,20.8,83,1,1,
+CartCr00,Cris Carter,WR,1994,29,MIN,NFL,WR,1,1,16,8,61,7.6,1,4,31.3,19,8.0,61.0,50.0,3.8,0,0,0,0,0.0,0.0,8,7.6,61,1,0,
+CartCr00,Cris Carter,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CartCr00,Cris Carter,WR,1996,31,MIN,NFL,WR,1,1,7,3,36,12.0,1,1,28.6,30,3.0,36.0,42.9,5.1,0,0,0,0,0.0,0.0,3,12.0,36,1,1,
+CartCr00,Cris Carter,WR,1997,32,MIN,NFL,WR,2,2,25,12,176,14.7,2,7,44.0,66,6.0,88.0,48.0,7.0,0,0,0,0,0.0,0.0,12,14.7,176,2,0,
+CartCr00,Cris Carter,WR,1998,33,MIN,NFL,WR,2,2,17,11,149,13.5,0,7,58.8,45,5.5,74.5,64.7,8.8,0,0,0,0,0.0,0.0,11,13.5,149,0,0,
+CartCr00,Cris Carter,WR,1999,34,MIN,NFL,WR,2,2,22,8,111,13.9,2,6,36.4,22,4.0,55.5,36.4,5.0,0,0,0,0,0.0,0.0,8,13.9,111,2,0,
+CartCr00,Cris Carter,WR,2000,35,MIN,NFL,WR,2,2,20,11,144,13.1,1,9,55.0,34,5.5,72.0,55.0,7.2,0,0,0,0,0.0,0.0,11,13.1,144,1,0,

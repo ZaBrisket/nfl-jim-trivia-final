@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BrooRe00,Reggie Brooks,RB,1993,22,WAS,NFL,RB,16,11,223,1063,3,43,45.3,85,4.8,66.4,13.9,35,21,186,8.9,0,7,40.0,43,1.3,11.6,60.0,5.3,244,5.1,1249,3,4,9,AP ORoY-3
+BrooRe00,Reggie Brooks,RB,1994,23,WAS,NFL,RB,13,5,100,297,2,19,43.0,15,3.0,22.8,7.7,21,13,68,5.2,0,1,28.6,16,1.0,5.2,61.9,3.2,113,3.2,365,2,3,3,
+BrooRe00,Reggie Brooks,RB,1995,24,WAS,NFL,RB,1,0,2,-2,0,0,0.0,-1,-1.0,-2.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,2,-1.0,-2,0,0,0,
+BrooRe00,Reggie Brooks,RB,1996,25,TAM,NFL,RB,11,4,112,368,2,17,40.2,56,3.3,33.5,10.2,6,3,13,4.3,0,1,33.3,9,0.3,1.2,50.0,2.2,115,3.3,381,2,1,2,

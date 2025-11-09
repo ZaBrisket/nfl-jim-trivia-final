@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yac,rush_broken_tackles,awards
+TonyRo00,Robert Tonyan,TE,2018,24,GNB,NFL,TE,16,1,6,4,77,3,67,16.8,10,2.5,13.8,0,,1,16.7,0,149.3,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2019,25,GNB,NFL,TE,11,1,15,10,100,4,74,7.4,26,2.6,10.5,0,,0,0.0,0,107.6,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2020,26,GNB,NFL,TE,16,8,59,52,586,33,363,7.0,223,4.3,7.7,0,,0,0.0,0,147.6,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2021,27,GNB,NFL,TE,8,5,29,18,204,10,94,5.2,110,6.1,8.8,0,,0,0.0,0,106.1,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2022,28,GNB,NFL,TE,17,3,67,53,470,20,242,4.6,228,4.3,5.8,2,26.5,1,1.5,2,93.4,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2023,29,CHI,NFL,TE,17,6,17,11,112,6,55,5.0,57,5.2,8.5,1,11.0,2,11.8,0,83.5,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2024,30,MIN,NFL,TE,5,0,0,0,0,0,0,,0,,,0,,0,,0,,0,0,0,0,0,0,
+TonyRo00,Robert Tonyan,TE,2025,31,KAN,NFL,TE,9,0,0,0,0,0,0,,0,,,0,,0,,0,,0,0,0,0,0,0,

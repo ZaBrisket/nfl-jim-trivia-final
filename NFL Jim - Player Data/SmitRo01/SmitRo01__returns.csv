@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+SmitRo01,Rod Smith,WR,1995,25,DEN,NFL,WR,16,1,0,0,0,0,,4,54,0,17,13.5,206,
+SmitRo01,Rod Smith,WR,1996,26,DEN,NFL,WR,10,1,23,283,0,36,12.3,1,29,0,29,29.0,550,
+SmitRo01,Rod Smith,WR,1997,27,DEN,NFL,WR,16,16,1,12,0,12,12.0,0,0,0,0,,1208,
+SmitRo01,Rod Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitRo01,Rod Smith,WR,1999,29,DEN,NFL,WR,15,15,0,0,0,0,,1,10,0,10,10.0,1030,
+SmitRo01,Rod Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitRo01,Rod Smith,WR,2003,33,DEN,NFL,WR,15,15,6,127,1,65,21.2,0,0,0,0,,1070,
+SmitRo01,Rod Smith,WR,2004,34,DEN,NFL,WR,16,16,22,223,0,30,10.1,0,0,0,0,,1400,
+SmitRo01,Rod Smith,WR,,,,,,,,,,,,,,,,,,,
+SmitRo01,Rod Smith,WR,2006,36,DEN,NFL,WR,16,16,1,2,0,2,2.0,0,0,0,0,,509,

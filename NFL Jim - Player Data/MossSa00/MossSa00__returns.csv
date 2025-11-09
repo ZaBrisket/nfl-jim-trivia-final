@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+MossSa00,Santana Moss,WR,2001,22,NYJ,NFL,WR,5,0,6,82,0,23,13.7,0,0,0,0,,116,
+MossSa00,Santana Moss,WR,2002,23,NYJ,NFL,WR,15,3,25,413,2,63,16.5,0,0,0,0,,894,
+MossSa00,Santana Moss,WR,2003,24,NYJ,NFL,WR,16,12,30,332,0,47,11.1,0,0,0,0,,1504,
+MossSa00,Santana Moss,WR,2004,25,NYJ,NFL,WR,15,14,27,225,0,46,8.3,0,0,0,0,,1081,
+MossSa00,Santana Moss,WR,2005,26,WAS,NFL,WR,16,16,7,40,0,14,5.7,0,0,0,0,,1520,"PB,AP-2"
+MossSa00,Santana Moss,WR,,,,,,,,,,,,,,,,,,,
+MossSa00,Santana Moss,WR,2007,28,WAS,NFL,WR,14,14,0,0,0,0,,1,12,0,12,12.0,833,
+MossSa00,Santana Moss,WR,2008,29,WAS,NFL,WR,16,16,6,124,1,80,20.7,1,26,0,26,26.0,1221,
+MossSa00,Santana Moss,WR,2009,30,WAS,NFL,WR,16,16,11,52,0,11,4.7,0,0,0,0,,962,
+MossSa00,Santana Moss,WR,,,,,,,,,,,,,,,,,,,
+MossSa00,Santana Moss,WR,2013,34,WAS,NFL,WR,16,1,18,130,0,18,7.2,1,15,0,15,15.0,622,

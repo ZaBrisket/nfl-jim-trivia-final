@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WoodDa00,David Woodley,QB,1980,22,MIA,NFL,QB,13,11,3,0,0,0,0,0,0,3,0,0,0,0,0,18,1.4,AP ORoY-3
+WoodDa00,David Woodley,QB,1981,23,MIA,NFL,QB,15,15,4,0,0,0,0,0,0,4,0,0,0,0,0,24,1.6,
+WoodDa00,David Woodley,QB,1982,24,MIA,NFL,QB,9,9,2,1,0,0,0,0,0,3,0,0,0,0,0,18,2.0,
+WoodDa00,David Woodley,QB,,,,,,,,,,,,,,,,,,,,,,,
+WoodDa00,David Woodley,QB,1985,27,PIT,NFL,QB,9,6,2,0,0,0,0,0,0,2,0,0,0,0,0,12,1.3,

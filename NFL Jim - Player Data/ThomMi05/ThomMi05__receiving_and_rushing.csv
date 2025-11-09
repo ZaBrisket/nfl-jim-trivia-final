@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomMi05,Michael Thomas,WR,2016,23,NOR,NFL,WR,15,12,121,92,1137,12.4,9,62,67.8,46,6.1,75.8,76.0,9.4,0,0,0,0,,,,0.0,0.0,92,12.4,1137,9,2,10,
+ThomMi05,Michael Thomas,WR,2017,24,NOR,NFL,WR,16,14,149,104,1245,12.0,5,71,59.1,43,6.5,77.8,69.8,8.4,0,0,0,0,,,,0.0,0.0,104,12.0,1245,5,0,14,PB
+ThomMi05,Michael Thomas,WR,2018,25,NOR,NFL,WR,16,16,147,125,1405,11.2,9,74,72.8,72,7.8,87.8,85.0,9.6,0,0,0,0,,,,0.0,0.0,125,11.2,1405,9,2,16,"PB,AP-1"
+ThomMi05,Michael Thomas,WR,2019,26,NOR,NFL,WR,16,15,185,149,1725,11.6,9,91,70.8,49,9.3,107.8,80.5,9.3,1,-9,0,0,0.0,-9,-9.0,-0.6,0.1,150,11.4,1716,9,1,17,"PB,AP-1,AP OPoY-1"
+ThomMi05,Michael Thomas,WR,2020,27,NOR,NFL,WR,7,5,55,40,438,11.0,0,25,61.8,24,5.7,62.6,72.7,8.0,1,1,0,0,0.0,1,1.0,0.1,0.1,41,10.7,439,0,0,4,
+ThomMi05,Michael Thomas,WR,2021,,Did not play - Injured (ankle),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ThomMi05,Michael Thomas,WR,2022,29,NOR,NFL,WR,3,3,22,16,171,10.7,3,13,72.7,21,5.3,57.0,72.7,7.8,0,0,0,0,,,,0.0,0.0,16,10.7,171,3,0,1,
+ThomMi05,Michael Thomas,WR,2023,30,NOR,NFL,WR,10,7,64,39,448,11.5,1,21,54.7,31,3.9,44.8,60.9,7.0,0,0,0,0,,,,0.0,0.0,39,11.5,448,1,0,4,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+DillAJ00,AJ Dillon,RB,2020,22,GNB,NFL,RB,11,0,46,242,11,100,2.2,142,3.1,6,7.7,2,2,21,1,5,2.5,16,8.0,2.5,1,2.0,0,0.0,0,110.4,
+DillAJ00,AJ Dillon,RB,2021,23,GNB,NFL,RB,17,2,187,803,50,396,2.1,407,2.2,17,11.0,37,34,313,15,3,0.1,310,9.1,0.4,5,6.8,0,0.0,0,119.9,
+DillAJ00,AJ Dillon,RB,2022,24,GNB,NFL,RB,17,3,186,770,47,453,2.4,317,1.7,6,31.0,43,28,206,9,9,0.3,197,7.0,0.5,3,9.3,7,16.3,0,76.3,
+DillAJ00,AJ Dillon,RB,2023,25,GNB,NFL,RB,15,6,178,613,32,311,1.7,302,1.7,5,35.6,28,22,223,10,-8,-0.4,231,10.5,0.0,8,2.8,1,3.6,0,99.9,
+DillAJ00,AJ Dillon,RB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DillAJ00,AJ Dillon,RB,2025,27,PHI,NFL,RB,6,0,12,60,4,28,2.3,32,2.7,2,6.0,2,2,18,0,9,4.5,9,4.5,4.5,0,,0,0.0,0,104.2,

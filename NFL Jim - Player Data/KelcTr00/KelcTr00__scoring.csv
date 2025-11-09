@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+KelcTr00,Travis Kelce,TE,2014,25,KAN,NFL,TE,16,11,0,5,0,0,1,0,0,6,0,,0,0,0,0,0,36,2.3,
+KelcTr00,Travis Kelce,TE,2015,26,KAN,NFL,TE,16,16,0,5,0,0,0,0,0,5,2,,0,0,0,0,0,34,2.1,PB
+KelcTr00,Travis Kelce,TE,2016,27,KAN,NFL,TE,16,15,0,4,0,0,0,0,0,4,1,,0,0,0,0,0,26,1.6,"PB,AP-1"
+KelcTr00,Travis Kelce,TE,2017,28,KAN,NFL,TE,15,15,0,8,0,0,0,0,0,8,0,,0,0,0,0,0,48,3.2,"PB,AP-2"
+KelcTr00,Travis Kelce,TE,2018,29,KAN,NFL,TE,16,16,0,10,0,0,0,0,0,10,0,,0,0,0,0,0,60,3.8,"PB,AP-1"
+KelcTr00,Travis Kelce,TE,2019,30,KAN,NFL,TE,16,16,1,5,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.3,"PB,AP-2"
+KelcTr00,Travis Kelce,TE,2020,31,KAN,NFL,TE,15,15,0,11,0,0,0,0,0,11,1,,0,0,0,0,0,68,4.5,"PB,AP-1,AP OPoY-4"
+KelcTr00,Travis Kelce,TE,2021,32,KAN,NFL,TE,16,16,1,9,0,0,0,0,0,10,0,0,0,0,0,0,0,60,3.8,"PB,AP-2"
+KelcTr00,Travis Kelce,TE,2022,33,KAN,NFL,TE,17,17,0,12,0,0,0,0,0,12,1,0,0,0,0,0,0,74,4.4,"PB,AP-1,AP OPoY-6"
+KelcTr00,Travis Kelce,TE,2023,34,KAN,NFL,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,30,2.0,PB
+KelcTr00,Travis Kelce,TE,2024,35,KAN,NFL,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.1,PB
+KelcTr00,Travis Kelce,TE,2025,36,KAN,NFL,TE,9,9,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,20,2.2,

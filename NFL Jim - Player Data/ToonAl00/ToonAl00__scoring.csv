@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+ToonAl00,Al Toon,WR,1985,22,NYJ,NFL,WR,15,8,0,3,0,0,0,0,0,3,0,0,0,0,0,18,1.2,
+ToonAl00,Al Toon,WR,1986,23,NYJ,NFL,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,48,3.0,"PB,AP-1"
+ToonAl00,Al Toon,WR,1987,24,NYJ,NFL,WR,12,11,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.5,PB
+ToonAl00,Al Toon,WR,1988,25,NYJ,NFL,WR,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,30,2.0,"PB,AP-2"
+ToonAl00,Al Toon,WR,1989,26,NYJ,NFL,WR,11,10,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.1,
+ToonAl00,Al Toon,WR,1990,27,NYJ,NFL,WR,14,12,0,6,0,0,0,0,0,6,0,0,0,0,0,36,2.6,
+ToonAl00,Al Toon,WR,,,,,,,,,,,,,,,,,,,,,,,
+ToonAl00,Al Toon,WR,1992,29,NYJ,NFL,WR,9,8,0,2,0,0,0,0,0,2,0,0,0,0,0,12,1.3,

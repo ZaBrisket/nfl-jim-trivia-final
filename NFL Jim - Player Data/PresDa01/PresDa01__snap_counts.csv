@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+PresDa01,Dak Prescott,QB,2016*,23,DAL,QB,4,16,16,1011,96%,0,0%,1,0%
+PresDa01,Dak Prescott,QB,2017,24,DAL,QB,4,16,16,1050,99%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2018*,25,DAL,QB,4,16,16,1070,99%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2019,26,DAL,QB,4,16,16,1116,100%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2020,27,DAL,QB,4,5,5,360,94%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2021,28,DAL,QB,4,16,16,1113,96%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2022,29,DAL,QB,4,12,12,821,96%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2023*,30,DAL,QB,4,17,17,1115,94%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2024,31,DAL,QB,4,8,8,501,91%,0,0%,0,0%
+PresDa01,Dak Prescott,QB,2025,32,DAL,QB,4,9,9,597,97%,0,0%,0,0%

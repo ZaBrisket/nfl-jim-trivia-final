@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BryaMa00,Martavis Bryant,WR,2014,23,PIT,NFL,WR,10,3,48,26,549,21.1,8,16,45.8,94,2.6,54.9,54.2,11.4,3,12,0,0,33.3,9,4.0,1.2,0.3,29,19.3,561,8,0,5,
+BryaMa00,Martavis Bryant,WR,2015,24,PIT,NFL,WR,11,5,92,50,765,15.3,6,25,44.6,88,4.5,69.5,54.3,8.3,5,37,1,2,80.0,13,7.4,3.4,0.5,55,14.6,802,7,1,7,
+BryaMa00,Martavis Bryant,WR,2016,,Did not play - Suspended,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BryaMa00,Martavis Bryant,WR,2017,26,PIT,NFL,WR,15,8,84,50,603,12.1,3,29,46.4,51,3.3,40.2,59.5,7.2,6,22,0,0,50.0,13,3.7,1.5,0.4,56,11.2,625,3,0,6,
+BryaMa00,Martavis Bryant,WR,2018,27,OAK,NFL,WR,8,2,27,19,266,14.0,0,10,59.3,47,2.4,33.3,70.4,9.9,3,23,0,1,33.3,17,7.7,2.9,0.4,22,13.1,289,0,1,2,

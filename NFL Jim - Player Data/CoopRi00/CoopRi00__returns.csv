@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+CoopRi00,Riley Cooper,WR,2010,23,PHI,NFL,WR,13,2,0,0,0,0,0,9,0,9,,125,
+CoopRi00,Riley Cooper,WR,2011,24,PHI,NFL,WR,16,3,0,0,0,0,1,16,0,16,16.0,331,
+CoopRi00,Riley Cooper,WR,2012,25,PHI,NFL,WR,11,5,0,0,0,0,1,14,0,14,14.0,262,
+CoopRi00,Riley Cooper,WR,2013,26,PHI,NFL,WR,16,15,0,0,0,0,1,-4,0,-4,-4.0,849,
+CoopRi00,Riley Cooper,WR,,,,,,,,,,,,,,,,,,
+CoopRi00,Riley Cooper,WR,2015,28,PHI,NFL,WR,16,13,0,0,0,0,2,28,0,16,14.0,355,

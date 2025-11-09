@@ -1,0 +1,13 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FlutDo00,Doug Flutie,QB,1986,24,CHI,NFL,QB,4,1,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,1.5,
+FlutDo00,Doug Flutie,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1988,26,NWE,NFL,QB,11,9,1,0,0,0,0,0,0,1,,0,0,0,0,0,6,0.5,
+FlutDo00,Doug Flutie,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1998,36,BUF,NFL,QB,13,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,"PB,AP CPoY-1"
+FlutDo00,Doug Flutie,QB,1999,37,BUF,NFL,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+FlutDo00,Doug Flutie,QB,2000,38,BUF,NFL,QB,11,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,
+FlutDo00,Doug Flutie,QB,2001,39,SDG,NFL,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+FlutDo00,Doug Flutie,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,2003,41,SDG,NFL,QB,7,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,1.7,
+FlutDo00,Doug Flutie,QB,2004,42,SDG,NFL,QB,2,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,6.0,
+FlutDo00,Doug Flutie,QB,2005,43,NWE,NFL,QB,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0.2,

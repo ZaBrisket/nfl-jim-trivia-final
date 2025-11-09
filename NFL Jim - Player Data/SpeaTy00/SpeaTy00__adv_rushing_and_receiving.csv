@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+SpeaTy00,Tyjae Spears,RB,2023,22,TEN,NFL,RB,17,1,100,453,24,237,2.4,216,2.2,5,20.0,70,52,385,17,-75,-1.4,460,8.8,-0.2,8,6.5,1,1.4,1,85.7,
+SpeaTy00,Tyjae Spears,RB,2024,23,TEN,NFL,RB,12,1,84,312,19,128,1.5,184,2.2,13,6.5,35,30,224,9,-31,-1.0,255,8.5,-1.2,4,7.5,1,2.9,0,102.9,
+SpeaTy00,Tyjae Spears,RB,2025,24,TEN,NFL,RB,5,0,30,152,6,84,2.8,68,2.3,3,10.0,14,13,96,2,-7,-0.5,103,7.9,0.0,0,,0,0.0,0,95.2,

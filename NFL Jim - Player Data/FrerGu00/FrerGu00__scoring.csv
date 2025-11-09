@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+FrerGu00,Gus Frerotte,QB,1995,24,WAS,NFL,QB,16,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.4,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,1997,26,WAS,NFL,QB,13,13,2,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0.9,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2000,29,DEN,NFL,QB,10,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.6,AP CPoY-12
+FrerGu00,Gus Frerotte,QB,2001,30,DEN,NFL,QB,4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.5,
+FrerGu00,Gus Frerotte,QB,,,,,,,,,,,,,,,,,,,,,,,,
+FrerGu00,Gus Frerotte,QB,2008,37,MIN,NFL,QB,11,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0.5,

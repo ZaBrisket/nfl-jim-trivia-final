@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+JameCr00,Craig James,RB,1984,23,NWE,NFL,RB,15,7,160,790,1,33,50.0,73,4.9,52.7,10.7,30,22,159,7.2,0,10,46.7,16,1.5,10.6,73.3,5.3,182,5.2,949,1,4,6,
+JameCr00,Craig James,RB,1985,24,NWE,NFL,FB,16,14,263,1227,5,52,49.8,65,4.7,76.7,16.4,44,27,360,13.3,2,13,43.2,90,1.7,22.5,61.4,8.2,290,5.5,1587,7,8,10,PB
+JameCr00,Craig James,RB,1986,25,NWE,NFL,FB,13,12,154,427,4,26,38.3,16,2.8,32.8,11.8,29,18,129,7.2,0,4,37.9,17,1.4,9.9,62.1,4.4,172,3.2,556,4,5,5,
+JameCr00,Craig James,RB,1987,26,NWE,NFL,RB,2,0,4,10,0,0,0.0,5,2.5,5.0,2.0,0,0,0,,0,0,,,0.0,0.0,,,4,2.5,10,0,0,0,
+JameCr00,Craig James,RB,1988,27,NWE,NFL,RB,6,0,4,15,1,1,50.0,8,3.8,2.5,0.7,24,14,171,12.2,0,7,37.5,32,2.3,28.5,58.3,7.1,18,10.3,186,1,0,2,

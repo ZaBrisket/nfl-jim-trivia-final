@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+McDoPa00,Paul McDonald,QB,1980,22,CLE,NFL,QB,1,0,,0,0,,0,0,,0,,0,,,,,,0.0,,0,0,,,,0,0,
+McDoPa00,Paul McDonald,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McDoPa00,Paul McDonald,QB,1982,24,CLE,NFL,QB,1,1,0-1-0,18,37,48.6,281,1,2.7,0,0.0,11,34.9,47,7.6,8.14,15.6,281.0,83.3,6,53,13.95,5.30,5.77,0,0,
+McDoPa00,Paul McDonald,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+McDoPa00,Paul McDonald,QB,1985,27,CLE,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,

@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+MattAl01,Alexander Mattison,RB,2019,21,MIN,NFL,RB,13,0,0,0,0,0,0,0,1,2,0,0,0.0,0,0,0,0,0,0,
+MattAl01,Alexander Mattison,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+MattAl01,Alexander Mattison,RB,2021,23,MIN,NFL,RB,16,4,0,0,0,0,0,0,1,1,1,0,0.0,0,0,0,0,0,0,
+MattAl01,Alexander Mattison,RB,,,,,,,,,,,,,,,,,,,,,,,,,
+MattAl01,Alexander Mattison,RB,2023,25,MIN,NFL,RB,16,13,0,0,0,0,0,0,3,1,-1,0,0.0,0,0,0,0,0,0,
+MattAl01,Alexander Mattison,RB,2024,26,LVR,NFL,RB,14,7,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,

@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,awards
+HockTJ00,T.J. Hockenson,TE,2019,22,DET,NFL,TE,12,7,59,32,367,19,167,5.2,200,6.3,7.5,4,8.0,2,3.4,0,84.5,0,0,0,0,,0,,0,
+HockTJ00,T.J. Hockenson,TE,2020,23,DET,NFL,TE,16,16,101,67,723,40,394,5.9,329,4.9,7.0,4,16.8,7,6.9,4,90.5,1,0,0,0,0.0,0,0.0,0,PB
+HockTJ00,T.J. Hockenson,TE,2021,24,DET,NFL,TE,12,12,84,61,583,32,384,6.3,199,3.3,7.4,4,15.3,1,1.2,3,92.5,0,0,0,0,,0,,0,
+HockTJ00,T.J. Hockenson,TE,2022,25,2TM,NFL,TE,17,14,129,86,914,44,511,5.9,403,4.7,7.5,7,12.3,7,5.4,4,89.7,0,0,0,0,,0,,0,PB
+HockTJ00,T.J. Hockenson,TE,2022,25,DET,NFL,TE,7,7,43,26,395,17,186,7.2,209,8.0,7.9,3,8.7,3,7.0,3,84.9,0,0,0,0,,0,,0,
+HockTJ00,T.J. Hockenson,TE,2022,25,MIN,NFL,TE,10,7,86,60,519,27,325,5.4,194,3.2,7.3,4,15.0,4,4.7,1,92.2,0,0,0,0,,0,,0,
+HockTJ00,T.J. Hockenson,TE,2023,26,MIN,NFL,TE,15,11,127,95,960,48,624,6.6,336,3.5,7.7,4,23.8,4,3.1,1,105.8,0,0,0,0,,0,,0,
+HockTJ00,T.J. Hockenson,TE,2024,27,MIN,NFL,TE,10,9,62,41,455,30,310,7.6,145,3.5,8.4,1,41.0,2,3.2,2,74.3,0,0,0,0,,0,,0,AP CPoY-19
+HockTJ00,T.J. Hockenson,TE,2025,28,MIN,NFL,TE,8,8,39,29,233,12,106,3.7,127,4.4,4.5,1,29.0,2,5.1,0,106.0,0,0,0,0,,0,,0,

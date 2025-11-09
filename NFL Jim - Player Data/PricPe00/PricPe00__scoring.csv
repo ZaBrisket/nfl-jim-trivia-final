@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+PricPe00,Peerless Price,WR,1999,23,BUF,NFL,WR,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+PricPe00,Peerless Price,WR,2000,24,BUF,NFL,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+PricPe00,Peerless Price,WR,2001,25,BUF,NFL,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,42,2.6,
+PricPe00,Peerless Price,WR,2002,26,BUF,NFL,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,54,3.4,
+PricPe00,Peerless Price,WR,2003,27,ATL,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+PricPe00,Peerless Price,WR,2004,28,ATL,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,
+PricPe00,Peerless Price,WR,,,,,,,,,,,,,,,,,,,,,,,,
+PricPe00,Peerless Price,WR,2006,30,BUF,NFL,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,18,1.1,

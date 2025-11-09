@@ -1,0 +1,17 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+FlutDo00,Doug Flutie,QB,1988,26,NWE,NFL,QB,11,9,87,94,83,87,88,104,77,109,86,
+FlutDo00,Doug Flutie,QB,1989,27,NWE,NFL,QB,5,3,66,71,70,72,45,78,92,106,62,
+FlutDo00,Doug Flutie,QB,1990,,Did not play - BC Lions (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1991,,Did not play - BC Lions (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1992,,Did not play - Calgary Stampeders (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1993,,Did not play - Calgary Stampeders (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1994,,Did not play - Calgary Stampeders (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1995,,Did not play - Calgary Stampeders (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1996,,Did not play - Toronto Argonauts (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1997,,Did not play - Toronto Argonauts (Canadian Football League),,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,1998,36,BUF,NFL,QB,13,10,116,125,115,121,102,117,102,123,112,"PB,AP CPoY-1"
+FlutDo00,Doug Flutie,QB,1999,37,BUF,NFL,QB,15,15,98,101,98,100,92,100,99,111,97,
+FlutDo00,Doug Flutie,QB,2000,38,BUF,NFL,QB,11,5,111,117,119,123,96,95,132,118,112,
+FlutDo00,Doug Flutie,QB,2001,39,SDG,NFL,QB,16,16,98,103,94,98,91,86,96,113,90,
+FlutDo00,Doug Flutie,QB,,,,,,,,,,,,,,,,,
+FlutDo00,Doug Flutie,QB,2003,41,SDG,NFL,QB,7,5,96,103,105,109,84,116,113,113,103,

@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+BateMa00,Mario Bates,RB,1994,21,NOR,NFL,RB,11,7,151,579,6,31,47.0,40,3.8,52.6,13.7,9,8,62,7.8,0,1,66.7,14,0.7,5.6,88.9,6.9,159,4.0,641,6,3,4,
+BateMa00,Mario Bates,RB,1995,22,NOR,NFL,RB,16,16,244,951,7,50,44.7,66,3.9,59.4,15.3,21,18,114,6.3,0,1,52.4,26,1.1,7.1,85.7,5.4,262,4.1,1065,7,2,7,
+BateMa00,Mario Bates,RB,1996,23,NOR,NFL,RB,14,10,164,584,4,32,38.4,33,3.6,41.7,11.7,16,13,44,3.4,0,1,31.3,15,0.9,3.1,81.3,2.8,177,3.5,628,4,4,4,
+BateMa00,Mario Bates,RB,1997,24,NOR,NFL,RB,12,7,119,440,4,22,40.3,74,3.7,36.7,9.9,11,5,42,8.4,0,2,27.3,15,0.4,3.5,45.5,3.8,124,3.9,482,4,2,3,
+BateMa00,Mario Bates,RB,1998,25,ARI,NFL,RB,16,1,60,165,6,16,51.7,15,2.8,10.3,3.8,1,1,14,14.0,0,1,100.0,14,0.1,0.9,100.0,14.0,61,2.9,179,6,0,1,
+BateMa00,Mario Bates,RB,1999,26,ARI,NFL,RB,16,2,72,202,9,23,44.4,16,2.8,12.6,4.5,7,5,34,6.8,0,2,42.9,18,0.3,2.1,71.4,4.9,77,3.1,236,9,2,2,
+BateMa00,Mario Bates,RB,2000,27,DET,NFL,RB,13,0,31,127,2,12,41.9,23,4.1,9.8,2.4,20,15,109,7.3,0,5,30.0,17,1.2,8.4,75.0,5.5,46,5.1,236,2,0,2,

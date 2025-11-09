@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+EbroEr00,Eric Ebron,TE,2014,21,DET,NFL,TE,13,7,47,25,248,9.9,1,14,44.7,22,1.9,19.1,53.2,5.3,0,0,0,0,,,,0.0,0.0,25,9.9,248,1,0,2,
+EbroEr00,Eric Ebron,TE,2015,22,DET,NFL,TE,14,8,70,47,537,11.4,5,27,52.9,55,3.4,38.4,67.1,7.7,0,0,0,0,,,,0.0,0.0,47,11.4,537,5,0,4,
+EbroEr00,Eric Ebron,TE,2016,23,DET,NFL,TE,13,13,85,61,711,11.7,1,37,62.4,61,4.7,54.7,71.8,8.4,1,1,1,1,100.0,1,1.0,0.1,0.1,62,11.5,712,2,0,6,
+EbroEr00,Eric Ebron,TE,2017,24,DET,NFL,TE,16,9,86,53,574,10.8,4,31,43.0,44,3.3,35.9,61.6,6.7,0,0,0,0,,,,0.0,0.0,53,10.8,574,4,1,5,
+EbroEr00,Eric Ebron,TE,2018,25,IND,NFL,TE,16,8,110,66,750,11.4,13,39,51.8,53,4.1,46.9,60.0,6.8,3,-8,1,1,33.3,2,-2.7,-0.5,0.2,69,10.8,742,14,1,7,PB
+EbroEr00,Eric Ebron,TE,2019,26,IND,NFL,TE,11,2,52,31,375,12.1,3,20,51.9,48,2.8,34.1,59.6,7.2,0,0,0,0,,,,0.0,0.0,31,12.1,375,3,0,3,
+EbroEr00,Eric Ebron,TE,2020,27,PIT,NFL,TE,15,9,91,56,558,10.0,5,30,46.2,27,3.7,37.2,61.5,6.1,0,0,0,0,,,,0.0,0.0,56,10.0,558,5,1,5,
+EbroEr00,Eric Ebron,TE,2021,28,PIT,NFL,TE,8,3,18,12,84,7.0,1,6,50.0,19,1.5,10.5,66.7,4.7,1,1,1,1,100.0,1,1.0,0.1,0.1,13,6.5,85,2,0,1,

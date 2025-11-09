@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,punt_ret,punt_ret_yds,punt_ret_td,punt_ret_long,punt_ret_yds_per_ret,kick_ret,kick_ret_yds,kick_ret_td,kick_ret_long,kick_ret_yds_per_ret,all_purpose_yds,awards
+FordJa01,Jacoby Ford,WR,2010,23,OAK,NFL,WR,16,9,0,0,0,0,,53,1280,3,101,24.2,1905,
+FordJa01,Jacoby Ford,WR,2011,24,OAK,NFL,WR,8,3,0,0,0,0,,11,341,1,101,31.0,651,
+FordJa01,Jacoby Ford,WR,,,,,,,,,,,,,,,,,,,
+FordJa01,Jacoby Ford,WR,2013,26,OAK,NFL,WR,14,1,9,77,0,14,8.6,11,253,0,30,23.0,444,

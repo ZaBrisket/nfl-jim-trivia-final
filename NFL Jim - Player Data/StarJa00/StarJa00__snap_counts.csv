@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+StarJa00,James Starks,RB,2012,26,GNB,RB,44,6,2,125,30%,0,0%,1,1%
+StarJa00,James Starks,RB,2013,27,GNB,RB,44,13,1,220,24%,0,0%,11,3%
+StarJa00,James Starks,RB,2014,28,GNB,RB,44,16,0,260,25%,0,0%,20,5%
+StarJa00,James Starks,RB,2015,29,GNB,RB,44,16,4,528,46%,0,0%,23,5%
+StarJa00,James Starks,RB,2016,30,GNB,RB,44,9,4,265,44%,0,0%,31,13%

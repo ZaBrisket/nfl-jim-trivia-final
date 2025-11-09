@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+GurlTo01,Todd Gurley,RB,2015,21,STL,NFL,RB,13,12,229,1106,10,47,40.2,71,4.8,85.1,17.6,26,21,188,9.0,0,9,46.2,31,1.6,14.5,80.8,7.2,250,5.2,1294,10,3,8,"PB,AP-2,AP ORoY-1"
+GurlTo01,Todd Gurley,RB,2016,22,LAR,NFL,RB,16,16,278,885,6,49,40.3,24,3.2,55.3,17.4,58,43,327,7.6,0,16,39.7,33,2.7,20.4,74.1,5.6,321,3.8,1212,6,2,4,
+GurlTo01,Todd Gurley,RB,2017,23,LAR,NFL,RB,15,15,279,1305,13,69,50.5,57,4.7,87.0,18.6,87,64,788,12.3,6,32,51.7,80,4.3,52.5,73.6,9.1,343,6.1,2093,19,5,19,"PB,AP-1,AP MVP-2,AP OPoY-1,AP CPoY-6"
+GurlTo01,Todd Gurley,RB,2018,24,LAR,NFL,RB,14,14,256,1251,17,70,55.9,36,4.9,89.4,18.3,81,59,580,9.8,4,26,53.1,56,4.2,41.4,72.8,7.2,315,5.8,1831,21,1,16,"PB,AP-1,AP OPoY-3"
+GurlTo01,Todd Gurley,RB,2019,25,LAR,NFL,RB,15,15,223,857,12,51,46.6,25,3.8,57.1,14.9,49,31,207,6.7,2,8,36.7,23,2.1,13.8,63.3,4.2,254,4.2,1064,14,3,6,
+GurlTo01,Todd Gurley,RB,2020,26,ATL,NFL,RB,15,15,195,678,9,45,44.6,35,3.5,45.2,13.0,35,25,164,6.6,0,7,42.9,26,1.7,10.9,71.4,4.7,220,3.8,842,9,2,6,

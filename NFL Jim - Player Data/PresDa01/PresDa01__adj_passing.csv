@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+PresDa01,Dak Prescott,QB,2016,23,DAL,NFL,QB,16,16,119,121,123,125,120,108,127,108,123,"PB,AP MVP-6,AP ORoY-1"
+PresDa01,Dak Prescott,QB,2017,24,DAL,NFL,QB,16,16,92,94,93,94,98,101,95,101,96,
+PresDa01,Dak Prescott,QB,2018,25,DAL,NFL,QB,16,16,104,96,107,101,116,97,114,77,109,PB
+PresDa01,Dak Prescott,QB,2019,26,DAL,NFL,QB,16,16,119,124,116,120,102,104,108,120,110,
+PresDa01,Dak Prescott,QB,2020,27,DAL,NFL,QB,5,5,124,127,117,120,115,95,109,116,111,
+PresDa01,Dak Prescott,QB,2021,28,DAL,NFL,QB,16,16,107,111,112,115,116,117,111,110,117,AP CPoY-2
+PresDa01,Dak Prescott,QB,2022,29,DAL,NFL,QB,12,12,105,109,97,101,108,118,67,111,102,
+PresDa01,Dak Prescott,QB,2023,30,DAL,NFL,QB,17,17,114,113,122,121,125,126,118,105,129,"PB,AP-2,AP MVP-2,AP OPoY-5"
+PresDa01,Dak Prescott,QB,2024,31,DAL,NFL,QB,8,8,97,99,93,95,99,95,90,101,93,
+PresDa01,Dak Prescott,QB,2025,32,DAL,NFL,QB,9,9,99,105,102,106,113,105,105,116,107,

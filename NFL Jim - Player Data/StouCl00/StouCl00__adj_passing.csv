@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+StouCl00,Cliff Stoudt,QB,1980,25,PIT,NFL,QB,6,1,128,131,123,126,94,88,115,105,108,
+StouCl00,Cliff Stoudt,QB,,,,,,,,,,,,,,,,,
+StouCl00,Cliff Stoudt,QB,1983,28,PIT,NFL,QB,16,15,92,85,85,81,84,88,83,78,82,
+StouCl00,Cliff Stoudt,QB,,,,,,,,,,,,,,,,,
+StouCl00,Cliff Stoudt,QB,1986,31,STL,NFL,QB,5,2,76,84,61,66,108,90,50,104,72,
+StouCl00,Cliff Stoudt,QB,,,,,,,,,,,,,,,,,
+StouCl00,Cliff Stoudt,QB,1988,33,PHO,NFL,QB,16,2,91,85,79,76,102,113,56,80,87,

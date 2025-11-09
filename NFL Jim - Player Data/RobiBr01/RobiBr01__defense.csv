@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,pass_defended,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,tackles_loss,qb_hits,safety_md,awards
+RobiBr01,Brian Robinson Jr.,RB,2022,23,WAS,NFL,RB,12,9,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,
+RobiBr01,Brian Robinson Jr.,RB,2023,24,WAS,NFL,RB,15,15,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,0,
+RobiBr01,Brian Robinson Jr.,RB,2024,25,WAS,NFL,RB,14,13,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,

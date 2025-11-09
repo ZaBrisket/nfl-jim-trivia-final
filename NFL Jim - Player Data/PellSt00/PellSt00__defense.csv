@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,def_int,def_int_yds,def_int_td,def_int_long,fumbles_forced,fumbles,fumbles_rec,fumbles_rec_yds,fumbles_rec_td,sacks,tackles_combined,tackles_solo,tackles_assists,safety_md,awards
+PellSt00,Steve Pelluer,QB,1986,24,DAL,NFL,QB,16,9,0,0,0,0,0,9,3,0,0,0.0,0,0,0,0,
+PellSt00,Steve Pelluer,QB,,,,,,,,,,,,,,,,,,,,,,
+PellSt00,Steve Pelluer,QB,1988,26,DAL,NFL,QB,16,14,0,0,0,0,0,6,2,-18,0,0.0,0,0,0,0,
+PellSt00,Steve Pelluer,QB,1989,27,KAN,NFL,QB,5,3,0,0,0,0,0,2,1,-8,0,0.0,0,0,0,0,

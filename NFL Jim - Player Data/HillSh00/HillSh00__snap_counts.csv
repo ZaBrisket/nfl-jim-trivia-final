@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+HillSh00,Shaun Hill,QB,2012,32,DET,QB,14,1,0,19,20%,0,0%,0,0%
+HillSh00,Shaun Hill,QB,2013,33,DET,QB,14,1,0,2,3%,0,0%,0,0%
+HillSh00,Shaun Hill,QB,2014,34,STL,QB,14,9,8,450,82%,0,0%,0,0%
+HillSh00,Shaun Hill,QB,2015,35,MIN,QB,13,3,0,28,14%,0,0%,0,0%
+HillSh00,Shaun Hill,QB,2016,36,MIN,QB,13,3,1,74,37%,0,0%,0,0%

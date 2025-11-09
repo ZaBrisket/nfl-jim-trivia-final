@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,awards
+MattAl01,Alexander Mattison,RB,2019,21,MIN,NFL,RB,13,0,100,462,19,267,2.7,195,2.0,11,9.1,12,10,82,3,8,0.8,74,7.4,2.3,0,,0,0.0,0,95.1,
+MattAl01,Alexander Mattison,RB,2020,22,MIN,NFL,RB,13,2,96,434,24,204,2.1,230,2.4,10,9.6,15,13,125,5,17,1.3,108,8.3,2.7,5,2.6,0,0.0,0,123.6,
+MattAl01,Alexander Mattison,RB,2021,23,MIN,NFL,RB,16,4,134,491,28,226,1.7,265,2.0,14,9.6,39,32,228,10,-10,-0.3,238,7.4,0.1,8,4.0,1,2.6,0,99.6,
+MattAl01,Alexander Mattison,RB,2022,24,MIN,NFL,RB,17,0,74,283,21,171,2.3,112,1.5,6,12.3,18,15,91,4,-30,-2.0,121,8.1,-1.8,2,7.5,2,11.1,0,106.2,
+MattAl01,Alexander Mattison,RB,2023,25,MIN,NFL,RB,16,13,180,700,28,388,2.2,312,1.7,5,36.0,44,30,192,5,11,0.4,181,6.0,0.5,1,30.0,7,15.9,0,99.8,
+MattAl01,Alexander Mattison,RB,2024,26,LVR,NFL,RB,14,7,132,420,25,209,1.6,211,1.6,7,18.9,48,36,294,13,-20,-0.6,314,8.7,-0.1,6,6.0,2,4.2,2,79.7,

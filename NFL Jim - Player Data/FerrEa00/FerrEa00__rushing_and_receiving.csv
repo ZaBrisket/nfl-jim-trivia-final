@@ -1,0 +1,9 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FerrEa00,Earl Ferrell,RB,1982,24,STL,NFL,RB,9,0,0,0,0,0,,,,0.0,0.0,0,0,0,,0,0,,,0.0,0.0,,,0,,0,0,0,0,
+FerrEa00,Earl Ferrell,RB,1983,25,STL,NFL,RB,16,0,7,53,1,4,71.4,21,7.6,3.3,0.4,0,0,0,,0,0,,,0.0,0.0,,,7,7.6,53,1,2,0,
+FerrEa00,Earl Ferrell,RB,1984,26,STL,NFL,FB,16,9,44,203,1,10,54.5,25,4.6,12.7,2.8,29,26,218,8.4,1,9,69.0,21,1.6,13.6,89.7,7.5,70,6.0,421,2,3,4,
+FerrEa00,Earl Ferrell,RB,1985,27,STL,NFL,FB,11,9,46,208,2,11,63.0,30,4.5,18.9,4.2,40,25,277,11.1,2,16,52.5,30,2.3,25.2,62.5,6.9,71,6.8,485,4,2,3,
+FerrEa00,Earl Ferrell,RB,1986,28,STL,NFL,FB,16,15,124,548,0,29,53.2,25,4.4,34.3,7.8,70,56,434,7.8,3,18,58.6,30,3.5,27.1,80.0,6.2,180,5.5,982,3,6,7,
+FerrEa00,Earl Ferrell,RB,1987,29,STL,NFL,FB,11,11,113,512,7,33,57.5,35,4.5,46.5,10.3,33,23,262,11.4,0,11,51.5,36,2.1,23.8,69.7,7.9,136,5.7,774,7,0,7,
+FerrEa00,Earl Ferrell,RB,1988,30,PHO,NFL,FB,16,16,202,924,7,56,59.4,47,4.6,57.8,12.6,52,38,315,8.3,2,16,55.8,30,2.4,19.7,73.1,6.1,240,5.2,1239,9,7,9,
+FerrEa00,Earl Ferrell,RB,1989,31,PHO,NFL,FB,15,15,149,502,6,33,47.7,44,3.4,33.5,9.9,23,18,122,6.8,0,6,52.2,25,1.2,8.1,78.3,5.3,167,3.7,624,6,2,4,

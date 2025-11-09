@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_first_down,rec_air_yds,rec_air_yds_per_rec,rec_yac,rec_yac_per_rec,rec_adot,rec_broken_tackles,rec_broken_tackles_per_rec,rec_drops,rec_drop_pct,rec_target_int,rec_pass_rating,rush_att,rush_yds,rush_first_down,rush_yds_before_contact,rush_yds_bc_per_rush,rush_yac,rush_yac_per_rush,rush_broken_tackles,rush_broken_tackles_per_rush,awards
+BrowMa04,Marquise Brown,WR,2019,22,BAL,NFL,WR,1,1,11,7,126,6,105,15.0,21,3.0,16.2,0,,0,0.0,0,102.8,0,0,0,0,,0,,0,,
+BrowMa04,Marquise Brown,WR,2020,23,BAL,NFL,WR,2,1,16,11,196,7,142,12.9,54,4.9,16.4,2,5.5,0,0.0,0,110.4,2,19,1,4,2.0,15,7.5,1,2.0,
+BrowMa04,Marquise Brown,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BrowMa04,Marquise Brown,WR,2024,27,KAN,NFL,WR,3,1,13,5,50,3,24,4.8,26,5.2,12.8,0,,1,7.7,1,18.1,0,0,0,0,,0,,0,,

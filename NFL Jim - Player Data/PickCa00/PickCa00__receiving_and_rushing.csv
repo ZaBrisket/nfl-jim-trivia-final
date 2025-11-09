@@ -1,0 +1,10 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+PickCa00,Carl Pickens,WR,1992,22,CIN,NFL,WR,16,10,58,26,326,12.5,1,12,29.3,38,1.6,20.4,44.8,5.6,0,0,0,0,,,,0.0,0.0,26,12.5,326,1,3,5,AP ORoY-1
+PickCa00,Carl Pickens,WR,1993,23,CIN,NFL,WR,13,12,98,43,565,13.1,6,27,37.8,36,3.3,43.5,43.9,5.8,0,0,0,0,,,,0.0,0.0,43,13.1,565,6,1,4,
+PickCa00,Carl Pickens,WR,1994,24,CIN,NFL,WR,15,15,131,71,1127,15.9,11,53,52.7,70,4.7,75.1,54.2,8.6,0,0,0,0,,,,0.0,0.0,71,15.9,1127,11,1,9,
+PickCa00,Carl Pickens,WR,1995,25,CIN,NFL,WR,16,16,167,99,1234,12.5,17,65,52.1,68,6.2,77.1,59.3,7.4,1,6,0,0,100.0,6,6.0,0.4,0.1,100,12.4,1240,17,1,12,"PB,AP-2"
+PickCa00,Carl Pickens,WR,1996,26,CIN,NFL,WR,16,16,174,100,1180,11.8,12,63,52.9,61,6.3,73.8,57.5,6.8,2,2,0,0,0.0,2,1.0,0.1,0.1,102,11.6,1182,12,0,12,"PB,AP-2"
+PickCa00,Carl Pickens,WR,1997,27,CIN,NFL,WR,12,12,95,52,695,13.4,5,29,51.6,50,4.3,57.9,54.7,7.3,1,-6,0,0,0.0,-6,-6.0,-0.5,0.1,53,13.0,689,5,1,7,
+PickCa00,Carl Pickens,WR,1998,28,CIN,NFL,WR,16,16,155,82,1023,12.5,5,48,43.9,67,5.1,63.9,52.9,6.6,2,4,0,0,0.0,4,2.0,0.3,0.1,84,12.2,1027,5,2,8,
+PickCa00,Carl Pickens,WR,1999,29,CIN,NFL,WR,16,14,108,57,737,12.9,6,32,46.3,75,3.6,46.1,52.8,6.8,0,0,0,0,,,,0.0,0.0,57,12.9,737,6,1,6,
+PickCa00,Carl Pickens,WR,2000,30,TEN,NFL,WR,9,6,29,10,242,24.2,0,9,31.0,67,1.1,26.9,34.5,8.3,0,0,0,0,,,,0.0,0.0,10,24.2,242,0,0,2,

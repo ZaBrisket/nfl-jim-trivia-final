@@ -1,0 +1,14 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+RobeAn00,Andre Roberts,WR,2012,24,ARI,WR,12,15,15,838,84%,0,0%,5,1%
+RobeAn00,Andre Roberts,WR,2013,25,ARI,WR,12,16,2,605,56%,0,0%,1,0%
+RobeAn00,Andre Roberts,WR,2014,26,WAS,WR,12,16,4,696,66%,0,0%,170,37%
+RobeAn00,Andre Roberts,WR,2015,27,WAS,WR,12,9,0,257,44%,0,0%,15,6%
+RobeAn00,Andre Roberts,WR,2016,28,DET,WR,12,16,1,258,25%,0,0%,135,33%
+RobeAn00,Andre Roberts,WR,2017,29,ATL,WR,19,16,0,32,3%,0,0%,144,34%
+RobeAn00,Andre Roberts,WR,2018*+,30,NYJ,WR,19,16,1,195,20%,0,0%,177,36%
+RobeAn00,Andre Roberts,WR,2019*,31,BUF,WR,18,13,0,109,13%,0,0%,121,36%
+RobeAn00,Andre Roberts,WR,2020*,32,BUF,WR,18,15,0,62,6%,0,0%,132,32%
+RobeAn00,Andre Roberts,WR,2021,33,2TM,WR,,16,0,33,,0,,140,
+RobeAn00,Andre Roberts,WR,,,HOU,WR,19,6,0,26,7%,0,0%,52,33%
+RobeAn00,Andre Roberts,WR,,,,,,,,7,1%,0,0%,88,32%
+RobeAn00,Andre Roberts,WR,2022,34,CAR,WR,18,3,0,0,0%,0,0%,23,28%

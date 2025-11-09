@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+FostBa00,Barry Foster,RB,1990,22,PIT,NFL,RB,16,1,36,203,1,13,63.9,38,5.6,12.7,2.3,2,1,2,2.0,0,0,0.0,2,0.1,0.1,50.0,1.0,37,5.5,205,1,2,2,
+FostBa00,Barry Foster,RB,1991,23,PIT,NFL,RB,10,9,96,488,1,20,51.0,56,5.1,48.8,9.6,13,9,117,13.0,1,4,69.2,31,0.9,11.7,69.2,9.0,105,5.8,605,2,5,4,
+FostBa00,Barry Foster,RB,1992,24,PIT,NFL,RB,16,15,390,1690,11,86,49.0,69,4.3,105.6,24.4,49,36,344,9.6,0,12,46.9,42,2.3,21.5,73.5,7.0,426,4.8,2034,11,9,16,"PB,AP-1,AP MVP-2,AP OPoY-2"
+FostBa00,Barry Foster,RB,1993,25,PIT,NFL,RB,9,9,177,711,8,44,46.9,38,4.0,79.0,19.7,34,27,217,8.0,1,11,61.8,21,3.0,24.1,79.4,6.4,204,4.5,928,9,3,7,PB
+FostBa00,Barry Foster,RB,1994,26,PIT,NFL,RB,11,10,216,851,5,46,47.2,29,3.9,77.4,19.6,28,20,124,6.2,0,7,46.4,27,1.8,11.3,71.4,4.4,236,4.1,975,5,0,7,

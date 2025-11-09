@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+RyanPa00,Pat Ryan,QB,1981,26,NYJ,NFL,QB,1,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+RyanPa00,Pat Ryan,QB,1982,27,NYJ,NFL,QB,2,0,,0,0,,0,0,,,,0,,,,,,0.0,,,,,,,0,0,
+RyanPa00,Pat Ryan,QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RyanPa00,Pat Ryan,QB,1985,30,NYJ,NFL,QB,1,0,,10,17,58.8,84,1,5.9,1,5.9,4,35.0,13,4.9,3.47,8.4,84.0,66.8,3,30,15.00,2.70,1.45,0,0,
+RyanPa00,Pat Ryan,QB,1986,31,NYJ,NFL,QB,2,2,1-1-0,22,34,64.7,256,4,11.8,0,0.0,13,43.6,42,7.5,9.88,11.6,128.0,126.6,5,32,12.82,5.74,7.79,0,0,

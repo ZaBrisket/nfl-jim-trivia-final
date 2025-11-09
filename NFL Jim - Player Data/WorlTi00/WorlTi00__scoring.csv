@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+WorlTi00,Tim Worley,RB,1989,23,PIT,NFL,RB,15,14,5,0,0,0,0,0,0,5,,0,0,0,0,0,30,2.0,
+WorlTi00,Tim Worley,RB,,,,,,,,,,,,,,,,,,,,,,,,
+WorlTi00,Tim Worley,RB,1993,27,2TM,NFL,RB,15,3,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,0.8,
+WorlTi00,Tim Worley,RB,1993,27,CHI,NFL,RB,10,3,2,0,0,0,0,0,0,2,,0,0,0,0,0,12,1.2,
+WorlTi00,Tim Worley,RB,1994,28,CHI,NFL,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,1.2,

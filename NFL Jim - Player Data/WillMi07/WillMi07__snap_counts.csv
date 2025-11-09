@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team,pos,uniform_number,g,gs,offense,off_pct,defense,def_pct,special_teams,st_pct
+WillMi07,Mike Williams,WR,2017,23,LAC,WR,,10,1,235,35%,0,0%,0,0%
+WillMi07,Mike Williams,WR,2018,24,LAC,WR,,16,5,622,63%,0,0%,0,0%
+WillMi07,Mike Williams,WR,2019,25,LAC,WR,81,15,15,839,85%,0,0%,2,1%
+WillMi07,Mike Williams,WR,2020,26,LAC,WR,81,15,11,799,71%,1,0%,0,0%
+WillMi07,Mike Williams,WR,2021,27,LAC,WR,81,16,14,896,79%,0,0%,3,1%
+WillMi07,Mike Williams,WR,2022,28,LAC,WR,81,13,13,703,76%,0,0%,0,0%
+WillMi07,Mike Williams,WR,2023,29,LAC,WR,81,3,3,167,78%,0,0%,0,0%
+WillMi07,Mike Williams,WR,2024,30,2TM,,,18,5,472,,0,,0,
+WillMi07,Mike Williams,WR,,,NYJ,WR,18,9,3,301,53%,0,0%,0,0%
+WillMi07,Mike Williams,WR,,,PIT,WR,,9,2,171,29%,0,0%,0,0%

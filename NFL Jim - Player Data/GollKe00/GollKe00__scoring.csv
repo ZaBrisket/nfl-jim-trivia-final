@@ -1,0 +1,7 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+GollKe00,Kenny Golladay,WR,2017,24,DET,NFL,WR,11,5,0,3,0,0,0,0,0,3,0,,0,0,0,0,0,18,1.6,
+GollKe00,Kenny Golladay,WR,2018,25,DET,NFL,WR,15,13,0,5,0,0,0,0,0,5,0,,0,0,0,0,0,30,2.0,
+GollKe00,Kenny Golladay,WR,2019,26,DET,NFL,WR,16,16,0,11,0,0,0,0,0,11,0,,0,0,0,0,0,66,4.1,PB
+GollKe00,Kenny Golladay,WR,2020,27,DET,NFL,WR,5,5,0,2,0,0,0,0,0,2,0,,0,0,0,0,0,12,2.4,
+GollKe00,Kenny Golladay,WR,,,,,,,,,,,,,,,,,,,,,,,,,
+GollKe00,Kenny Golladay,WR,2022,29,NYG,NFL,WR,12,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0.5,

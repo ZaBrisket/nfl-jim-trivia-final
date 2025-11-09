@@ -1,0 +1,5 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,two_pt_md,def_two_pt,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+HendDa00,Darrell Henderson,RB,2020,23,LAR,NFL,RB,15,11,5,1,0,0,0,0,0,6,0,,0,0,0,0,0,36,2.4,
+HendDa00,Darrell Henderson,RB,2021,24,LAR,NFL,RB,12,10,5,3,0,0,0,0,0,8,0,0,0,0,0,0,0,48,4.0,
+HendDa00,Darrell Henderson,RB,2022,25,LAR,NFL,RB,10,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,18,1.8,
+HendDa00,Darrell Henderson,RB,2023,26,LAR,NFL,RB,4,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,12,3.0,

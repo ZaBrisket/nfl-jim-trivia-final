@@ -1,0 +1,12 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+ThomPi00,Pierre Thomas,RB,2007,23,NOR,NFL,RB,12,1,52,252,1,15,53.8,24,4.8,21.0,4.3,23,17,151,8.9,1,10,65.2,17,1.4,12.6,73.9,6.6,69,5.8,403,2,0,3,
+ThomPi00,Pierre Thomas,RB,2008,24,NOR,NFL,RB,15,5,129,625,9,43,58.9,42,4.8,41.7,8.6,41,31,284,9.2,3,15,61.0,24,2.1,18.9,75.6,6.9,160,5.7,909,12,1,7,
+ThomPi00,Pierre Thomas,RB,2009,25,NOR,NFL,RB,14,6,147,793,6,37,54.4,34,5.4,56.6,10.5,45,39,302,7.7,2,12,48.9,36,2.8,21.6,86.7,6.7,186,5.9,1095,8,2,9,
+ThomPi00,Pierre Thomas,RB,2010,26,NOR,NFL,RB,6,3,83,269,2,19,49.4,16,3.2,44.8,13.8,29,29,201,6.9,0,10,58.6,23,4.8,33.5,100.0,6.9,112,4.2,470,2,0,4,
+ThomPi00,Pierre Thomas,RB,2011,27,NOR,NFL,RB,16,7,110,562,5,29,60.9,33,5.1,35.1,6.9,59,50,425,8.5,1,18,52.5,57,3.1,26.6,84.7,7.2,160,6.2,987,6,1,8,
+ThomPi00,Pierre Thomas,RB,2012,28,NOR,NFL,RB,15,4,105,473,1,17,52.4,48,4.5,31.5,7.0,53,39,354,9.1,1,20,50.9,36,2.6,23.6,73.6,6.7,144,5.7,827,2,0,6,
+ThomPi00,Pierre Thomas,RB,2013,29,NOR,NFL,RB,16,9,147,549,2,32,51.7,18,3.7,34.3,9.2,84,77,513,6.7,3,21,53.6,29,4.8,32.1,91.7,6.1,224,4.7,1062,5,2,9,
+ThomPi00,Pierre Thomas,RB,2014,30,NOR,NFL,RB,11,3,45,222,2,14,62.2,27,4.9,20.2,4.1,55,45,378,8.4,1,19,49.1,39,4.1,34.4,81.8,6.9,90,6.7,600,3,0,5,
+ThomPi00,Pierre Thomas,RB,2015,31,2TM,NFL,RB,5,0,15,64,0,3,26.7,11,4.3,12.8,3.0,11,9,84,9.3,0,4,45.5,15,1.8,16.8,81.8,7.6,24,6.2,148,0,0,1,
+ThomPi00,Pierre Thomas,RB,2015,31,SFO,NFL,RB,1,0,4,12,0,1,25.0,4,3.0,12.0,4.0,0,0,0,,0,0,,,0.0,0.0,,,4,3.0,12,0,0,0,
+ThomPi00,Pierre Thomas,RB,2015,31,WAS,NFL,RB,4,0,11,52,0,2,27.3,11,4.7,13.0,2.8,11,9,84,9.3,0,4,45.5,15,2.3,21.0,81.8,7.6,20,6.8,136,0,0,1,

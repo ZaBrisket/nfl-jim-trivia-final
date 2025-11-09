@@ -1,0 +1,6 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_td,rec_td,punt_ret_td,kick_ret_td,fumbles_rec_td,def_int_td,other_td,total_td,xpm,xpa,fgm,fga,safety_md,scoring,points_per_g,awards
+AdamGe00,George Adams,RB,1985,23,NYG,NFL,RB,16,0,2,2,0,0,0,0,0,4,0,0,0,0,0,24,1.5,
+AdamGe00,George Adams,RB,,,,,,,,,,,,,,,,,,,,,,,
+AdamGe00,George Adams,RB,1987,25,NYG,NFL,FB,12,7,1,1,0,0,0,0,0,2,0,0,0,0,0,12,1.0,
+AdamGe00,George Adams,RB,,,,,,,,,,,,,,,,,,,,,,,
+AdamGe00,George Adams,RB,1990,28,NWE,NFL,FB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,6,0.4,

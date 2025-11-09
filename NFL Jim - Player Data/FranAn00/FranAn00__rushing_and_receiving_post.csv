@@ -1,0 +1,4 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,rec,rec_yds,rec_td,rec_first_down,rec_per_g,rec_yds_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,awards
+FranAn00,Andra Franklin,RB,1981,22,MIA,NFL,FB,1,1,9,6,0,1,11.1,3,0.7,6.0,9.0,0,0,0,0,0.0,0.0,9,0.7,6,0,1,
+FranAn00,Andra Franklin,RB,1982,23,MIA,NFL,FB,4,3,78,301,2,17,59.0,12,3.9,75.3,19.5,0,0,0,0,0.0,0.0,78,3.9,301,2,4,
+FranAn00,Andra Franklin,RB,1983,24,MIA,NFL,FB,1,1,6,28,0,3,83.3,9,4.7,28.0,6.0,0,0,0,0,0.0,0.0,6,4.7,28,0,0,

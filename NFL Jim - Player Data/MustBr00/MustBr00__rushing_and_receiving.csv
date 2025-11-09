@@ -1,0 +1,8 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,rush_att,rush_yds,rush_td,rush_first_down,rush_success,rush_long,rush_yds_per_att,rush_yds_per_g,rush_att_per_g,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+MustBr00,Brad Muster,RB,1988,23,CHI,NFL,RB,16,0,44,197,0,9,50.0,15,4.5,12.3,2.8,32,21,236,11.2,1,10,43.8,40,1.3,14.8,65.6,7.4,65,6.7,433,1,1,4,
+MustBr00,Brad Muster,RB,1989,24,CHI,NFL,FB,16,16,82,327,5,24,57.3,20,4.0,20.4,5.1,48,32,259,8.1,3,13,52.1,25,2.0,16.2,66.7,5.4,114,5.1,586,8,2,5,
+MustBr00,Brad Muster,RB,1990,25,CHI,NFL,FB,16,15,141,664,6,47,56.0,28,4.7,41.5,8.8,68,47,452,9.6,0,22,58.8,48,2.9,28.3,69.1,6.6,188,5.9,1116,6,3,9,
+MustBr00,Brad Muster,RB,1991,26,CHI,NFL,FB,11,11,90,412,6,25,53.3,24,4.6,37.5,8.2,45,35,287,8.2,1,15,64.4,21,3.2,26.1,77.8,6.4,125,5.6,699,7,0,6,
+MustBr00,Brad Muster,RB,1992,27,CHI,NFL,FB,16,16,98,414,3,22,48.0,35,4.2,25.9,6.1,44,34,389,11.4,2,16,61.4,44,2.1,24.3,77.3,8.8,132,6.1,803,5,2,7,
+MustBr00,Brad Muster,RB,1993,28,NOR,NFL,FB,13,11,64,214,3,14,45.3,18,3.3,16.5,4.9,33,23,195,8.5,0,11,51.5,31,1.8,15.0,69.7,5.9,87,4.7,409,3,0,3,
+MustBr00,Brad Muster,RB,1994,29,NOR,NFL,RB,7,1,1,3,1,1,100.0,3,3.0,0.4,0.1,11,10,88,8.8,0,5,72.7,21,1.4,12.6,90.9,8.0,11,8.3,91,1,0,1,

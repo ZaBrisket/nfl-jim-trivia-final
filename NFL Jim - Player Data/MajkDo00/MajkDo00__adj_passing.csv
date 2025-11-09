@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,pass_yds_per_att_idx,pass_net_yds_per_att_idx,pass_adj_yds_per_att_idx,pass_adj_net_yds_per_att_idx,pass_cmp_pct_idx,pass_td_pct_idx,pass_int_pct_idx,pass_sacked_pct_idx,pass_rating_idx,awards
+MajkDo00,Don Majkowski,QB,1987,23,GNB,NFL,QB,7,5,99,98,108,107,62,98,122,100,95,
+MajkDo00,Don Majkowski,QB,1988,24,GNB,NFL,QB,13,9,85,86,91,91,93,84,109,92,91,
+MajkDo00,Don Majkowski,QB,1989,25,GNB,NFL,QB,16,16,104,105,106,107,112,105,106,99,109,"PB,AP-2,AP MVP-2,AP OPoY-3"
+MajkDo00,Don Majkowski,QB,1990,26,GNB,NFL,QB,9,8,106,97,98,93,101,98,87,76,96,
+MajkDo00,Don Majkowski,QB,1991,27,GNB,NFL,QB,9,8,81,78,81,80,78,70,101,73,76,
+MajkDo00,Don Majkowski,QB,1992,28,GNB,NFL,QB,14,3,64,55,74,67,137,100,98,57,101,
+MajkDo00,Don Majkowski,QB,,,,,,,,,,,,,,,,,
+MajkDo00,Don Majkowski,QB,1994,30,IND,NFL,QB,9,6,98,98,89,90,91,102,77,104,88,
+MajkDo00,Don Majkowski,QB,,,,,,,,,,,,,,,,,
+MajkDo00,Don Majkowski,QB,1996,32,DET,NFL,QB,5,2,69,66,79,77,87,88,103,85,85,

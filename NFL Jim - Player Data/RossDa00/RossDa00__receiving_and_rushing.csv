@@ -1,0 +1,11 @@
+player_id,player_name,position,year_id,age,team_name_abbr,comp_name_abbr,pos,games,games_started,targets,rec,rec_yds,rec_yds_per_rec,rec_td,rec_first_down,rec_success,rec_long,rec_per_g,rec_yds_per_g,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_td,rush_first_down,rush_yds_per_g,rush_att_per_g,touches,yds_per_touch,yds_from_scrimmage,rush_receive_td,fumbles,av,awards
+RossDa00,Dan Ross,TE,1979,22,CIN,NFL,TE,16,16,67,41,516,12.6,1,25,52.2,41,2.6,32.3,61.2,7.7,0,0,0,0,0.0,0.0,41,12.6,516,1,0,6,
+RossDa00,Dan Ross,TE,1980,23,CIN,NFL,TE,16,16,85,56,724,12.9,4,40,56.5,37,3.5,45.3,65.9,8.5,0,0,0,0,0.0,0.0,56,12.9,724,4,1,5,
+RossDa00,Dan Ross,TE,1981,24,CIN,NFL,TE,16,16,110,71,910,12.8,5,50,59.1,37,4.4,56.9,64.5,8.3,0,0,0,0,0.0,0.0,71,12.8,910,5,3,10,
+RossDa00,Dan Ross,TE,1982,25,CIN,NFL,TE,9,9,63,47,508,10.8,3,28,69.8,28,5.2,56.4,74.6,8.1,0,0,0,0,0.0,0.0,47,10.8,508,3,1,10,"PB,AP-2"
+RossDa00,Dan Ross,TE,1983,26,CIN,NFL,TE,16,15,67,42,483,11.5,3,28,53.7,30,2.6,30.2,62.7,7.2,0,0,0,0,0.0,0.0,42,11.5,483,3,0,5,
+RossDa00,Dan Ross,TE,1984,,Did not play - New Orleans Breakers (United States Football League),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RossDa00,Dan Ross,TE,1985,28,2TM,NFL,TE,16,5,23,16,135,8.4,2,9,52.2,20,1.0,8.4,69.6,5.9,0,0,0,0,0.0,0.0,16,8.4,135,2,1,2,
+RossDa00,Dan Ross,TE,1985,28,CIN,NFL,TE,6,0,8,6,63,10.5,0,4,62.5,20,1.0,10.5,75.0,7.9,0,0,0,0,0.0,0.0,6,10.5,63,0,1,1,
+RossDa00,Dan Ross,TE,1985,28,SEA,NFL,TE,10,5,15,10,72,7.2,2,5,46.7,12,1.0,7.2,66.7,4.8,0,0,0,0,0.0,0.0,10,7.2,72,2,0,1,
+RossDa00,Dan Ross,TE,1986,29,GNB,NFL,TE,15,10,30,17,143,8.4,1,8,46.7,16,1.1,9.5,56.7,4.8,0,0,0,0,0.0,0.0,17,8.4,143,1,0,1,
