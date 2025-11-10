@@ -80,6 +80,102 @@ const DEFAULTS: Schema = {
   }
 };
 
+function createDefaultGameStats(): NonNullable<Schema['gameStats']> {
+  return {
+    totalGames: 0,
+    totalCorrect: 0,
+    averageScore: 0,
+    bestStreak: 0,
+    positionStats: {
+      QB: { games: 0, correct: 0 },
+      RB: { games: 0, correct: 0 },
+      WR: { games: 0, correct: 0 },
+      TE: { games: 0, correct: 0 }
+    }
+  };
+}
+
+function createDefaultPerformanceMetrics(): NonNullable<Schema['performanceMetrics']> {
+  return {
+    averageGuessTime: 0,
+    fastestGuess: Infinity,
+    totalGuesses: 0
+  };
+}
+
+function isNonNegativeNumber(value: unknown): value is number {
+  return typeof value === 'number' && Number.isFinite(value) && value >= 0;
+}
+
+function sanitizeGameStats(value: unknown): NonNullable<Schema['gameStats']> {
+  const defaults = createDefaultGameStats();
+  if (!value || typeof value !== 'object') {
+    return defaults;
+  }
+
+  const candidate = value as Partial<NonNullable<Schema['gameStats']>>;
+  const sanitized: NonNullable<Schema['gameStats']> = {
+    ...defaults,
+    positionStats: { ...defaults.positionStats }
+  };
+
+  if (isNonNegativeNumber(candidate.totalGames)) {
+    sanitized.totalGames = candidate.totalGames;
+  }
+  if (isNonNegativeNumber(candidate.totalCorrect)) {
+    sanitized.totalCorrect = candidate.totalCorrect;
+  }
+  if (typeof candidate.averageScore === 'number' && Number.isFinite(candidate.averageScore) && candidate.averageScore >= 0) {
+    sanitized.averageScore = candidate.averageScore;
+  }
+  if (isNonNegativeNumber(candidate.bestStreak)) {
+    sanitized.bestStreak = candidate.bestStreak;
+  }
+
+  const positionStats = candidate.positionStats;
+  if (positionStats && typeof positionStats === 'object') {
+    for (const pos of ['QB', 'RB', 'WR', 'TE'] as const) {
+      const entry = (positionStats as Record<typeof pos, unknown>)[pos];
+      if (entry && typeof entry === 'object') {
+        const statsEntry = entry as Partial<{ games: number; correct: number }>;
+        sanitized.positionStats[pos] = {
+          games: isNonNegativeNumber(statsEntry.games) ? statsEntry.games : 0,
+          correct: isNonNegativeNumber(statsEntry.correct) ? statsEntry.correct : 0
+        };
+      }
+    }
+  }
+
+  return sanitized;
+}
+
+function sanitizePerformanceMetrics(value: unknown): NonNullable<Schema['performanceMetrics']> {
+  const defaults = createDefaultPerformanceMetrics();
+  if (!value || typeof value !== 'object') {
+    return defaults;
+  }
+
+  const candidate = value as Partial<NonNullable<Schema['performanceMetrics']>>;
+  let fastestGuess = candidate.fastestGuess;
+  if (typeof fastestGuess !== 'number' || !Number.isFinite(fastestGuess) || fastestGuess <= 0) {
+    fastestGuess = defaults.fastestGuess;
+  }
+
+  return {
+    averageGuessTime: isNonNegativeNumber(candidate.averageGuessTime) ? candidate.averageGuessTime : defaults.averageGuessTime,
+    fastestGuess,
+    totalGuesses: isNonNegativeNumber(candidate.totalGuesses) ? candidate.totalGuesses : defaults.totalGuesses
+  };
+}
+
+function sanitizeSchema(parsed: Schema): Schema {
+  return {
+    ...parsed,
+    gameStats: sanitizeGameStats(parsed.gameStats),
+    performanceMetrics: sanitizePerformanceMetrics(parsed.performanceMetrics)
+  };
+}
+
 // Cache management
 function getCacheKey(key: string): string {
   return `${PREFIX}${key}`;
@@ -142,9 +238,10 @@ export function loadState(): Schema {
     const raw = localStorage.getItem(PREFIX + 'state');
     if (raw) {
       const decompressed = decompress(raw);
-      const parsed = { ...DEFAULTS, ...(typeof decompressed === 'object' && decompressed !== null ? decompressed : {}) };
-      setToCache('state', parsed);
-      return parsed;
+      const parsed = { ...DEFAULTS, ...(typeof decompressed === 'object' && decompressed !== null ? decompressed : {}) } as Schema;
+      const sanitized = sanitizeSchema(parsed);
+      setToCache('state', sanitized);
+      return sanitized;
     }
     
     // Migration from older versions
@@ -161,15 +258,16 @@ export function loadState(): Schema {
           lastDailyId: parsed.lastDailyId,
           lastPosition: parsed.lastPosition
         };
-        saveState(migrated);
-        return migrated;
+        const sanitizedMigrated = sanitizeSchema(migrated);
+        saveState(sanitizedMigrated);
+        return sanitizedMigrated;
       }
     }
   } catch (error) {
     console.warn('Failed to load state from storage:', error);
   }
-  
-  const defaultState = { ...DEFAULTS };
+
+  const defaultState = sanitizeSchema({ ...DEFAULTS });
   setToCache('state', defaultState);
   return defaultState;
 }
@@ -177,12 +275,12 @@ export function loadState(): Schema {
 export function saveState(s: Partial<Schema>): void {
   try {
     const current = loadState();
-    const next = { ...current, ...s };
-    
+    const next = sanitizeSchema({ ...current, ...s });
+
     // Save to localStorage with compression
     const compressed = compress(next);
     localStorage.setItem(PREFIX + 'state', compressed);
-    
+
     // Update memory cache
     setToCache('state', next);
   } catch (error) {

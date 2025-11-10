@@ -1,11 +1,13 @@
 import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
-import { 
-  loadState, 
-  saveState, 
-  StorageError, 
-  getStorageInfo, 
-  clearAllStorage 
+import {
+  loadState,
+  saveState,
+  StorageError,
+  getStorageInfo,
+  clearAllStorage
 } from '../../src/utils/storage';
+
+type SaveStateInput = Parameters<typeof saveState>[0];
 
 // Mock console methods to avoid noise in tests
 const originalConsole = { ...console };
@@ -169,7 +171,7 @@ describe('Storage Module', () => {
       saveState({
         streakBest: -10, // Invalid negative
         streakCurrent: 2000000, // Exceeds max
-        recentIds: ['valid', '', null, 'another'] as any
+        recentIds: ['valid', '', null, 'another'] as Array<string | null> as unknown as string[]
       });
       
       const state = loadState();
@@ -179,8 +181,8 @@ describe('Storage Module', () => {
     });
 
     it('should throw StorageError for invalid input', () => {
-      expect(() => saveState(null as any)).toThrow(StorageError);
-      expect(() => saveState('not an object' as any)).toThrow(StorageError);
+      expect(() => saveState(null as unknown as SaveStateInput)).toThrow(StorageError);
+      expect(() => saveState('not an object' as unknown as SaveStateInput)).toThrow(StorageError);
     });
 
     it('should handle storage errors gracefully', () => {

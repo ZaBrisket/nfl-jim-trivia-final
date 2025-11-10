@@ -59,8 +59,8 @@ describe('Fuzzy Matching Module', () => {
     });
 
     it('should throw error for invalid input', () => {
-      expect(() => initializeFuzzyMatcher(null as any)).toThrow(FuzzyMatchError);
-      expect(() => initializeFuzzyMatcher('not array' as any)).toThrow(FuzzyMatchError);
+      expect(() => initializeFuzzyMatcher(null as unknown as Player[])).toThrow(FuzzyMatchError);
+      expect(() => initializeFuzzyMatcher('not array' as unknown as Player[])).toThrow(FuzzyMatchError);
     });
 
     it('should handle empty player array', () => {
@@ -89,7 +89,7 @@ describe('Fuzzy Matching Module', () => {
         { id: 'p2', displayName: '', position: 'QB' }, // Invalid displayName
         null, // Invalid player
         { id: 'p3', firstName: 'Valid', lastName: 'Player', displayName: 'Valid Player', position: 'QB' } // Valid
-      ] as any;
+      ] as Array<Partial<Player> | null> as unknown as Player[];
 
       expect(() => initializeFuzzyMatcher(invalidPlayers)).not.toThrow();
       
@@ -151,13 +151,13 @@ describe('Fuzzy Matching Module', () => {
       });
 
       it('should handle null/undefined input gracefully', () => {
-        expect(isNameMatch(null as any, testPlayers[0]!)).toBe(false);
-        expect(isNameMatch(undefined as any, testPlayers[0]!)).toBe(false);
+        expect(isNameMatch(null as unknown as string, testPlayers[0]!)).toBe(false);
+        expect(isNameMatch(undefined as unknown as string, testPlayers[0]!)).toBe(false);
       });
 
       it('should handle invalid player gracefully', () => {
-        expect(isNameMatch('LeBron James', null as any)).toBe(false);
-        expect(isNameMatch('LeBron James', {} as any)).toBe(false);
+        expect(isNameMatch('LeBron James', null as unknown as Player)).toBe(false);
+        expect(isNameMatch('LeBron James', {} as unknown as Player)).toBe(false);
       });
 
       it('should handle very long input', () => {
@@ -261,8 +261,8 @@ describe('Fuzzy Matching Module', () => {
     });
 
     it('should throw error for invalid constructor input', () => {
-      expect(() => new OptimizedFuzzyMatcher(null as any)).toThrow(FuzzyMatchError);
-      expect(() => new OptimizedFuzzyMatcher('invalid' as any)).toThrow(FuzzyMatchError);
+      expect(() => new OptimizedFuzzyMatcher(null as unknown as Player[])).toThrow(FuzzyMatchError);
+      expect(() => new OptimizedFuzzyMatcher('invalid' as unknown as Player[])).toThrow(FuzzyMatchError);
     });
 
     it('should handle corrupted player data during precomputation', () => {
@@ -270,7 +270,7 @@ describe('Fuzzy Matching Module', () => {
         testPlayers[0]!, // Valid
         { id: 'corrupt', displayName: null }, // Invalid
         testPlayers[1]! // Valid
-      ] as any;
+      ] as Array<Partial<Player> | null> as unknown as Player[];
 
       const matcher = new OptimizedFuzzyMatcher(corruptedPlayers);
       const stats = matcher.getStats();
@@ -294,8 +294,8 @@ describe('Fuzzy Matching Module', () => {
       initializeFuzzyMatcher(testPlayers);
       
       // Test with invalid inputs that should not crash
-      expect(isNameMatch(null as any, testPlayers[0]!)).toBe(false);
-      expect(isNameMatch('valid', null as any)).toBe(false);
+      expect(isNameMatch(null as unknown as string, testPlayers[0]!)).toBe(false);
+      expect(isNameMatch('valid', null as unknown as Player)).toBe(false);
     });
   });
 

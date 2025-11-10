@@ -271,7 +271,10 @@ export class OptimizedDataService {
 
   private async loadJson<T>(path: string): Promise<T> {
     // Use shorter timeouts and fewer retries for faster failure in tests
-    const isTest = process.env.NODE_ENV === 'test' || process.env.VITEST;
+    const isNodeTest = typeof process !== 'undefined' && !!(process.env?.NODE_ENV === 'test' || process.env?.VITEST);
+    const metaEnv = typeof import.meta !== 'undefined' && 'env' in import.meta ? (import.meta as ImportMeta).env : undefined;
+    const isBrowserTest = Boolean(metaEnv && (metaEnv.MODE === 'test' || metaEnv.VITEST));
+    const isTest = isNodeTest || isBrowserTest;
     const retries = isTest ? 1 : 2;
     const backoffMs = isTest ? 100 : 300;
     const timeoutMs = isTest ? 1000 : 5000;
