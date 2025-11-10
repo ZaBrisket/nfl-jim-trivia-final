@@ -439,7 +439,7 @@ const buildAccoladeData = (seasons: SeasonRow[]): PlayerAccolades | null => {
   const badges = badgeEntries
     .sort((a, b) => a.priority - b.priority || b.count - a.count)
     .slice(0, MAX_ACCOLADE_BADGES)
-    .map(({ priority, ...rest }) => rest);
+    .map(({ priority: _priority, ...rest }) => rest);
 
   return {
     proBowls: proBowlYears.size,

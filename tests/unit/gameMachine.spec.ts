@@ -332,7 +332,7 @@ describe('Game Machine', () => {
 
   describe('input validation', () => {
     it('should throw error for invalid state', () => {
-      const invalidState = { tag: 'invalid' } as any;
+      const invalidState = { tag: 'invalid' } as unknown as RoundState;
       const action: Action = { type: 'start' };
 
       expect(() => reducer(invalidState, action)).toThrow(GameStateError);
@@ -341,7 +341,7 @@ describe('Game Machine', () => {
 
     it('should throw error for invalid action', () => {
       const state = initialState();
-      const invalidAction = { type: 'invalid' } as any;
+      const invalidAction = { type: 'invalid' } as unknown as Action;
 
       expect(() => reducer(state, invalidAction)).toThrow(GameStateError);
       expect(() => reducer(state, invalidAction)).toThrow(/Invalid action provided/);
@@ -349,42 +349,42 @@ describe('Game Machine', () => {
 
     it('should validate tick action parameters', () => {
       const state = initialState();
-      const invalidActions = [
+      const invalidActions: unknown[] = [
         { type: 'tick', nowMs: 'invalid' },
         { type: 'tick', nowMs: -1 },
         { type: 'tick', nowMs: Infinity },
         { type: 'tick', nowMs: NaN }
-      ] as any;
+      ];
 
-      invalidActions.forEach((action: any) => {
-        expect(() => reducer(state, action)).toThrow(GameStateError);
+      invalidActions.forEach(action => {
+        expect(() => reducer(state, action as Action)).toThrow(GameStateError);
       });
     });
 
     it('should validate guess action parameters', () => {
       const state = initialState();
-      const invalidActions = [
+      const invalidActions: unknown[] = [
         { type: 'guess', text: '' },
         { type: 'guess', text: 123 },
         { type: 'guess' }, // Missing text
         { type: 'guess', text: 'x'.repeat(101) } // Too long
-      ] as any;
+      ];
 
-      invalidActions.forEach((action: any) => {
-        expect(() => reducer(state, action)).toThrow(GameStateError);
+      invalidActions.forEach(action => {
+        expect(() => reducer(state, action as Action)).toThrow(GameStateError);
       });
     });
 
     it('should validate reveal action parameters', () => {
       const state = initialState();
-      const invalidActions = [
+      const invalidActions: unknown[] = [
         { type: 'reveal', reason: 'invalid' },
         { type: 'reveal', reason: 123 },
         { type: 'reveal' } // Missing reason
-      ] as any;
+      ];
 
-      invalidActions.forEach((action: any) => {
-        expect(() => reducer(state, action)).toThrow(GameStateError);
+      invalidActions.forEach(action => {
+        expect(() => reducer(state, action as Action)).toThrow(GameStateError);
       });
     });
   });
@@ -444,7 +444,7 @@ describe('Game Machine', () => {
         guesses: ['test'],
         hintsUsed: 0,
         score: 5
-      } as any;
+      } as unknown as RoundState;
 
       expect(() => reducer(corruptedState, { type: 'hint' })).toThrow(GameStateError);
     });

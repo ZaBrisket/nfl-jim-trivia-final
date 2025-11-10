@@ -47,8 +47,8 @@ describe('DataIndex', () => {
 
     it('should handle empty or invalid IDs gracefully', () => {
       expect(index.findPlayer('')).toBeUndefined();
-      expect(index.findPlayer(null as any)).toBeUndefined();
-      expect(index.findPlayer(undefined as any)).toBeUndefined();
+      expect(index.findPlayer(null as unknown as string)).toBeUndefined();
+      expect(index.findPlayer(undefined as unknown as string)).toBeUndefined();
     });
   });
 
@@ -66,7 +66,7 @@ describe('DataIndex', () => {
     });
 
     it('should handle invalid positions gracefully', () => {
-      const invalid = index.getPlayersByPosition('INVALID' as any);
+      const invalid = index.getPlayersByPosition('INVALID' as unknown as Player['position']);
       expect(invalid).toHaveLength(0);
     });
   });
@@ -107,8 +107,8 @@ describe('DataIndex', () => {
     });
 
     it('should handle null and undefined inputs gracefully', () => {
-      expect(index.searchPlayers(null as any)).toHaveLength(0);
-      expect(index.searchPlayers(undefined as any)).toHaveLength(0);
+      expect(index.searchPlayers(null as unknown as string)).toHaveLength(0);
+      expect(index.searchPlayers(undefined as unknown as string)).toHaveLength(0);
     });
   });
 
