@@ -476,7 +476,7 @@ export function generatePlayerHints(
   }
   const accoladeHint = buildAccoladeHint(seasons);
   if (accoladeHint) {
-    hintEntries.push(accoladeHint);
+    hintEntries.splice(1, 0, accoladeHint);
   }
   return hintEntries.slice(0, TARGET_HINTS);
 }
