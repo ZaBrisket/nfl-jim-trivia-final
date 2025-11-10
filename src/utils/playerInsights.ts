@@ -47,8 +47,7 @@ const TEAM_NAME_BY_CODE: Record<string, string> = {
   TOT: 'Multiple Teams'
 };
 
-const numberFormatter = new Intl.NumberFormat('en-US');
-const TARGET_HINTS = 5;
+const TARGET_HINTS = 2;
 
 const NAME_SANITIZE = /[^a-z]/g;
 
@@ -67,7 +66,11 @@ const NAME_HINT_TEMPLATES = [
   (player: Player) =>
     `Last name starts with "${player.lastName[0]}" and has ${player.lastName.length} letters.`,
   (player: Player) =>
-    `First name has ${player.firstName.length} letters and starts with "${player.firstName[0]}".`,
+    `First name starts with "${player.firstName[0]}" and has ${player.firstName.length} letters.`,
+  (player: Player) =>
+    `Initials are "${player.firstName[0]}.${player.lastName[0]}."`,
+  (player: Player) =>
+    `Last name ends with "${player.lastName[player.lastName.length - 1]}".`,
   (player: Player) =>
     `Both names together are ${player.firstName.length + player.lastName.length} letters long.`
 ];
@@ -148,11 +151,6 @@ const toNumber = (value: number | string | undefined): number => {
 
 const sumField = (rows: SeasonRow[], field: string): number =>
   rows.reduce((total, row) => total + toNumber(row[field]), 0);
-
-const formatNumber = (value: number, options?: { decimals?: number }): string => {
-  const rounded = options?.decimals ? Number(value.toFixed(options.decimals)) : Math.round(value);
-  return numberFormatter.format(rounded);
-};
 
 const normalizeTeamCode = (team?: string): string | undefined => {
   if (!team) return undefined;
@@ -456,106 +454,31 @@ const buildAccoladeHint = (seasons: SeasonRow[]): PlayerHint | null => {
   return { kind: 'accolades', data };
 };
 
-const buildTeamHint = (summary?: PlayerSummary): string | null => {
-  if (!summary || summary.teamNames.length === 0) return null;
-  if (summary.teamNames.length === 1) {
-    return `Spent most of the career with the ${summary.teamNames[0]}.`;
-  }
-  const preview = summary.teamNames.slice(0, 3).join(', ');
-  return `Played for ${summary.teamNames.length} teams (${preview}${summary.teamNames.length > 3 ? ', ...' : ''}).`;
-};
-
-const buildEraHint = (player: Player, summary?: PlayerSummary): string | null => {
-  const rookie = player.rookieYear;
-  if (summary?.firstSeason && summary?.lastSeason) {
-    if (summary.firstSeason === summary.lastSeason) {
-      return `Career season spotlight: ${summary.firstSeason}.`;
-    }
-    return `Career ran from ${summary.firstSeason} to ${summary.lastSeason}.`;
-  }
-  if (rookie) {
-    const decade = Math.floor(rookie / 10) * 10;
-    return `Entered the league in ${rookie} (the ${decade}s era).`;
-  }
-  return null;
-};
-
-const buildStatHint = (player: Player, summary?: PlayerSummary): string | null => {
-  if (!summary) return null;
-  const totals = summary.totals;
-
-  if (player.position === 'QB' && totals.passYds) {
-    return `Career passing yards: ${formatNumber(totals.passYds)}.`;
-  }
-
-  if (player.position === 'RB') {
-    if (totals.rushYds && totals.rushYds > 0) {
-      return `Rushed for ${formatNumber(totals.rushYds)} yards in his career.`;
-    }
-    if (totals.scrimmageYds && totals.scrimmageYds > 0) {
-      return `Produced ${formatNumber(totals.scrimmageYds)} yards from scrimmage.`;
-    }
-  }
-
-  if ((player.position === 'WR' || player.position === 'TE') && totals.recYds) {
-    return `Career receiving yards: ${formatNumber(totals.recYds)}.`;
-  }
-
-  return null;
-};
-
-const buildNotableSeasonHint = (summary?: PlayerSummary): string | null => {
-  if (!summary?.notableSeason) return null;
-  const { year, statLabel, value } = summary.notableSeason;
-  return `Best season: ${year} with ${formatNumber(value)} ${statLabel}.`;
-};
-
 const buildNameHints = (player: Player): string[] => {
-  return NAME_HINT_TEMPLATES.map(template => template(player));
+  const hints = NAME_HINT_TEMPLATES.map(template => template(player));
+  return Array.from(new Set(hints));
 };
 
 export function generatePlayerHints(
   player: Player,
-  summary?: PlayerSummary,
+  _summary?: PlayerSummary,
   seasons: SeasonRow[] = []
 ): PlayerHint[] {
-  const textHints: string[] = [];
-
-  const addTextHint = (hint: string | null) => {
-    if (!hint) return;
-    if (textHints.includes(hint)) return;
-    textHints.push(hint);
-  };
-
-  addTextHint(buildTeamHint(summary));
-  addTextHint(buildEraHint(player, summary));
-  addTextHint(buildStatHint(player, summary));
-  addTextHint(buildNotableSeasonHint(summary));
-
-  if (seasons.length === 0 && player.rookieYear) {
-    addTextHint(`Made his debut in ${player.rookieYear}.`);
+  const hintEntries: PlayerHint[] = buildNameHints(player).map(text => ({
+    kind: 'text',
+    text
+  }));
+  if (hintEntries.length === 0) {
+    hintEntries.push({
+      kind: 'text',
+      text: `Initials are "${player.firstName[0]}.${player.lastName[0]}."`
+    });
   }
-
-  for (const hint of buildNameHints(player)) {
-    addTextHint(hint);
-  }
-
-  if (textHints.length < TARGET_HINTS) {
-    addTextHint(`Last name ends with "${player.lastName[player.lastName.length - 1]}".`);
-  }
-
-  const hints: PlayerHint[] = [];
   const accoladeHint = buildAccoladeHint(seasons);
   if (accoladeHint) {
-    hints.push(accoladeHint);
+    hintEntries.splice(1, 0, accoladeHint);
   }
-
-  for (const hint of textHints) {
-    if (hints.length >= TARGET_HINTS) break;
-    hints.push({ kind: 'text', text: hint });
-  }
-
-  return hints.slice(0, TARGET_HINTS);
+  return hintEntries.slice(0, TARGET_HINTS);
 }
 
 const normalizeGuess = (guess: string): string[] => {

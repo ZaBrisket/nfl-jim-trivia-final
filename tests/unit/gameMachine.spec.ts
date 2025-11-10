@@ -225,40 +225,46 @@ describe('Game Machine', () => {
         expect(newState.tag).toBe('active');
         if (newState.tag === 'active') {
           expect(newState.hintsUsed).toBe(1);
-          expect(newState.score).toBe(4);
+          expect(newState.score).toBe(4.5); // 5 - 0.5 = 4.5
         }
       });
 
       it('should ignore excessive hints', () => {
         let state = activeState;
-        
+
         // Use maximum hints
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 2; i++) {
           state = reducer(state, { type: 'hint' });
         }
-        
+
         expect(state.tag).toBe('active');
         if (state.tag === 'active') {
-          expect(state.hintsUsed).toBe(5);
-          expect(state.score).toBe(0); // 5 - 5 = 0
+          expect(state.hintsUsed).toBe(2);
+          expect(state.score).toBe(4.0); // 5 - 0.5 - 0.5 = 4.0
         }
-        
+
         // Try to use another hint - should be ignored
         const extraHintState = reducer(state, { type: 'hint' });
         expect(extraHintState).toEqual(state); // Unchanged
       });
 
       it('should clamp score at minimum', () => {
-        let state = activeState;
-        
-        // Use many hints to drive score negative
-        for (let i = 0; i < 10; i++) {
-          state = reducer(state, { type: 'hint' });
-        }
-        
-        expect(state.tag).toBe('active');
-        if (state.tag === 'active') {
-          expect(state.score).toBe(0); // Clamped at minimum
+        // Create active state with low score to test clamping
+        const lowScoreState: RoundState = {
+          tag: 'active',
+          startedAtMs: 1000000,
+          deadlineMs: 1060000,
+          guesses: [],
+          hintsUsed: 0,
+          score: 0.25  // Below HINT_PENALTY
+        };
+
+        const newState = reducer(lowScoreState, { type: 'hint' });
+
+        expect(newState.tag).toBe('active');
+        if (newState.tag === 'active') {
+          expect(newState.score).toBe(0); // 0.25 - 0.5 clamped to MIN_SCORE
+          expect(newState.hintsUsed).toBe(1);
         }
       });
     });
