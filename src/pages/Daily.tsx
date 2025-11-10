@@ -19,6 +19,7 @@ import { saveState, addRecentPlayer, updateGameStats, updateDailyStreak, getDail
 import { usePlayerProfile } from '../hooks/usePlayerProfile';
 import { useTimerPreference } from '../hooks/useTimerPreference';
 import { getGuessFeedback, PlayerHint } from '../utils/playerInsights';
+import { formatScore } from '../utils/score';
 
 function pickDaily(players: Player[]): Player {
   const key = chicagoDateString(new Date());
@@ -180,7 +181,7 @@ const Daily: React.FC = () => {
                     </div>
                   )}
                 </div>
-                <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
+                <div>Final Score: <strong>{formatScore(state.finalScore)}</strong>/5</div>
               </div>
               <div style={{ marginTop: 12 }}>
                 <PlayerPortrait player={target} seasonState={profile.seasonState} />

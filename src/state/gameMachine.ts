@@ -3,7 +3,8 @@ import { RoundState } from '../types';
 
 // Configuration constants
 export const MAX_GUESSES = 3;
-export const MAX_HINTS = 5;
+export const MAX_HINTS = 2;
+export const HINT_PENALTY = 0.5;
 const MAX_SCORE = 10;
 const MIN_SCORE = 0;
 const MAX_GUESS_LENGTH = 100;
@@ -126,7 +127,8 @@ function sanitizeGuess(text: string): string {
 }
 
 function clampScore(score: number): number {
-  return Math.max(MIN_SCORE, Math.min(MAX_SCORE, Math.floor(score)));
+  const rounded = Math.round(score * 2) / 2;
+  return Math.max(MIN_SCORE, Math.min(MAX_SCORE, rounded));
 }
 
 function getDurationSeconds(durationSeconds?: number): number {
@@ -291,7 +293,7 @@ export function reducer(state: RoundState, action: Action): RoundState {
           const newState: RoundState = {
             ...state,
             hintsUsed: state.hintsUsed + 1,
-            score: clampScore(state.score - 1)
+            score: clampScore(state.score - HINT_PENALTY)
           };
           
           if (!isValidRoundState(newState)) {

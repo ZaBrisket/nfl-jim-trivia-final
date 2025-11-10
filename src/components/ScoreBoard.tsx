@@ -1,4 +1,5 @@
 import React from 'react';
+import { formatScore } from '../utils/score';
 
 type Props = {
   totalScore: number;
@@ -25,8 +26,8 @@ const ScoreBoard: React.FC<Props> = ({
       </div>
       <div className="scoreboard__cell">
         <span className="label">Session Score</span>
-        <strong>{totalScore}</strong>
-        <span className="subtext">5 pts max per player</span>
+        <strong>{formatScore(totalScore)}</strong>
+        <span className="subtext">5 pts max per player · 0.5 pt penalty per hint</span>
       </div>
       <div className="scoreboard__cell">
         <span className="label">Streak</span>

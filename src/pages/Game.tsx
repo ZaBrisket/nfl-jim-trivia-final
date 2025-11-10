@@ -20,6 +20,7 @@ import { addRecentPlayer, updateGameStats, updateStreak } from '../utils/optimiz
 import { randomInt } from '../utils/random';
 import { getPlayerDifficulty } from '../utils/difficulty';
 import { getGuessFeedback, PlayerHint } from '../utils/playerInsights';
+import { formatScore } from '../utils/score';
 import { Player } from '../types';
 
 const PLAYERS_PER_ROUND = 5;
@@ -347,7 +348,7 @@ const Game: React.FC = () => {
                     </div>
                   )}
                 </div>
-                <div>Final Score: <strong>{state.finalScore}</strong>/5</div>
+                <div>Final Score: <strong>{formatScore(state.finalScore)}</strong>/5</div>
               </div>
               <div style={{ marginTop: 12 }}>
                 <PlayerPortrait player={target} seasonState={profile.seasonState} />
