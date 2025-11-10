@@ -22,7 +22,7 @@ const HintButtons: React.FC<Props> = ({ disabled, hintsUsed, maxHints, onHint, o
         disabled={hintDisabled}
         aria-disabled={hintDisabled}
       >
-        Hint (-{penaltyLabel}) · {hintsLeft} left
+        Hint (-{penaltyLabel}) - {hintsLeft} left
       </button>
       <button onClick={onGiveUp} disabled={disabled} aria-disabled={disabled}>Give Up</button>
     </div>

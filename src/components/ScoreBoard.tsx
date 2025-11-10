@@ -31,7 +31,7 @@ const ScoreBoard: React.FC<Props> = ({
       <div className="scoreboard__cell">
         <span className="label">Session Score</span>
         <strong>{formatScore(totalScore)}</strong>
-        <span className="subtext">5 pts max per player · {penaltyLabel} pt penalty per hint</span>
+        <span className="subtext">5 pts max per player - {penaltyLabel} pt penalty per hint</span>
       </div>
       <div className="scoreboard__cell">
         <span className="label">Streak</span>
